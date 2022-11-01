@@ -1,5 +1,5 @@
 {
-  "created": 1666723732,
+  "created": 1667246187,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/9/items/tuscaloosanews-2022",
@@ -5441,31 +5441,786 @@
       "format": "JSON"
     },
     {
+      "name": "tuscaloosanews-2022-10-25T13:46:28.825160-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-25T13:46:28.825160-05:00.jpg",
+      "mtime": "1666724904",
+      "size": "9682",
+      "md5": "58fc38fc252393f615de69a2658dadd1",
+      "crc32": "b953a6f8",
+      "sha1": "80ddc801476db87369ca1c55d9c9c676e7b146ba"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-26T03:28:52.422995-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772939",
+      "size": "22241",
+      "md5": "aa8112e8a84e94919e83b9757dd96d45",
+      "crc32": "b1524c4e",
+      "sha1": "b05f3f6c9dcb128b7c606c430fffa43a4f386e1e",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-26T03:28:52.422995-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772942",
+      "size": "30254",
+      "md5": "ed4e2f7983a034db9881eaf3dfbf866e",
+      "crc32": "d943b3a7",
+      "sha1": "056d9165883d044dad828c9ac1bf8e8e6bcee9d5",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-26T03:28:52.422995-05:00.jpg",
+      "source": "original",
+      "mtime": "1666772937",
+      "size": "293434",
+      "md5": "b98c369b63dbb2eecc307915209f90f5",
+      "crc32": "47be3a79",
+      "sha1": "dea1393fb92825ecadaacb9e349c3e8191c6c5cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-26T03:28:52.422995-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772944",
+      "size": "1531",
+      "md5": "cb0cf4c66e16660d4e116ba1e9d1502a",
+      "crc32": "564fcec7",
+      "sha1": "4337cb6012a5b188c91f463e4657915a9fd592d0",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-26T03:28:52.422995-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772945",
+      "size": "132285",
+      "md5": "bed01b2a2b4519d46754fd2ec2996b03",
+      "crc32": "20827806",
+      "sha1": "6c0c9cc0be5f7beff25e1b9ed39a6934d4e040e6",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-26T03:28:52.422995-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-26T03:28:52.422995-05:00.jpg",
+      "mtime": "1666774233",
+      "size": "9600",
+      "md5": "60fd21b40681f3accfcc1ca390f702ac",
+      "crc32": "6f7152d5",
+      "sha1": "f64eca4c8f17b54879733658f93f6fb918bf18ef"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-26T15:36:33.530535-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666816605",
+      "size": "21734",
+      "md5": "549485b9786cff530cdf03859d34a1d9",
+      "crc32": "ae427712",
+      "sha1": "52ec21397595d166dc3b6b3c13c7ec25ddc97aea",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-26T15:36:33.530535-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666816607",
+      "size": "31816",
+      "md5": "dfc270a386a86d717ec8512ff4757cea",
+      "crc32": "a85728e6",
+      "sha1": "a74a528a434235d4fdd0e5b99dac1350dda22b22",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-26T15:36:33.530535-05:00.jpg",
+      "source": "original",
+      "mtime": "1666816603",
+      "size": "249018",
+      "md5": "2b5fb824c5950ca0a3ae2faf88fdc4ba",
+      "crc32": "85af1390",
+      "sha1": "8ab7a3a9fb4ccda50767f33826f49eb0c9e36575",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-26T15:36:33.530535-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666816610",
+      "size": "1531",
+      "md5": "f0f76571c3871ae702fc080b4d4b8667",
+      "crc32": "18321349",
+      "sha1": "532639432dafa51d708656f0a1c9a70ac399dc78",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-26T15:36:33.530535-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666816612",
+      "size": "78509",
+      "md5": "2b88168ecf66d7e6a0342efeb51904fd",
+      "crc32": "365b5d90",
+      "sha1": "3046bcff066c0fa69c33cdca42391e93f0a19876",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-26T15:36:33.530535-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-26T15:36:33.530535-05:00.jpg",
+      "mtime": "1666835553",
+      "size": "9149",
+      "md5": "5a85e10e560a7362199e40ba16975068",
+      "crc32": "3ae540b5",
+      "sha1": "06111c8ddea53ad51c1cbf894e5e48b11e4aca59"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-27T02:20:05.157420-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855210",
+      "size": "20761",
+      "md5": "5a45ec89d2a442a40f265e8e26075fbb",
+      "crc32": "ced17699",
+      "sha1": "539b3eaf5beb9527b58167be5b869ede56f3b27a",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-27T02:20:05.157420-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855212",
+      "size": "30109",
+      "md5": "50d57f8cf80eca55418ec1a91449fb1b",
+      "crc32": "547b0645",
+      "sha1": "5f295720d22c9ffd76a0595bb8e497d4b0f76087",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-27T02:20:05.157420-05:00.jpg",
+      "source": "original",
+      "mtime": "1666855209",
+      "size": "281065",
+      "md5": "59d987d4b4092e49ff6f4d6269e4c848",
+      "crc32": "b4813f2a",
+      "sha1": "ffe17ae65a0dc93f3413afd90ba9cbd1b57fcac7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-27T02:20:05.157420-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855214",
+      "size": "1531",
+      "md5": "3534b9a9144da9248dd2ea15c0c999c2",
+      "crc32": "e7657821",
+      "sha1": "344a0db93879de5129f522627a9c308cdb8a4a99",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-27T02:20:05.157420-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855216",
+      "size": "211",
+      "md5": "3e24958c5fe17c0b5b7a2d6cfbf31b47",
+      "crc32": "ee674dae",
+      "sha1": "b9221687ad8097456fffe94fdde985f312c0b2d8",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-27T02:20:05.157420-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-27T02:20:05.157420-05:00.jpg",
+      "mtime": "1666877562",
+      "size": "9655",
+      "md5": "dbcbd07831e20c4338abae20d435e240",
+      "crc32": "97934352",
+      "sha1": "fb778bc3a851cbb14e77cabfe81cfaca39201b5c"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-27T14:54:27.314775-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666900477",
+      "size": "21528",
+      "md5": "4f3d979da28bd3d25199104064969091",
+      "crc32": "659c1373",
+      "sha1": "efab6cd71b003e162f63f927eb09d17a3b4d8f80",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-27T14:54:27.314775-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666900479",
+      "size": "38895",
+      "md5": "dab4c168091f3d44c0f55f8b869fe860",
+      "crc32": "64c9178d",
+      "sha1": "21fa4d4efa846746c3a1d57425b0a6ccaed4a11b",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-27T14:54:27.314775-05:00.jpg",
+      "source": "original",
+      "mtime": "1666900475",
+      "size": "235790",
+      "md5": "b1894e2c329cffaf7d30efc82dad818a",
+      "crc32": "061b7274",
+      "sha1": "0354b9944095f77bb35ad42346c2300803d30483",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-27T14:54:27.314775-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666900481",
+      "size": "1531",
+      "md5": "1801fdf9d71e8322c2aeb5b6f1fb9f18",
+      "crc32": "bb711e9e",
+      "sha1": "484e65fd88a365f28eb1670e2e82793f4cd310cf",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-27T14:54:27.314775-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666900483",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-27T14:54:27.314775-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-27T14:54:27.314775-05:00.jpg",
+      "mtime": "1666907709",
+      "size": "9001",
+      "md5": "9ac0bc02c7fc606fe7ffa06cbabaabb2",
+      "crc32": "0bf1b2f8",
+      "sha1": "a3f5726e1216ff368bc3056c9476865eee04c64d"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-28T03:36:29.722220-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946201",
+      "size": "20691",
+      "md5": "dd305f2946144b7b61fd31660f7b98f3",
+      "crc32": "4ec2f73c",
+      "sha1": "69985c12481d84746530c92350694e6c015e9c7c",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-28T03:36:29.722220-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946202",
+      "size": "44104",
+      "md5": "e67b2807240267938b56d6413c845c05",
+      "crc32": "2f41a3ef",
+      "sha1": "dfdbfc4ac4f037dbcf36b03e3472982b2e417197",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-28T03:36:29.722220-05:00.jpg",
+      "source": "original",
+      "mtime": "1666946199",
+      "size": "238116",
+      "md5": "8ed8340dbf481d9342be9f4cfb03cd4a",
+      "crc32": "78a059ae",
+      "sha1": "d9ee0b4845ec254d67c5dd81ade9f903660e6869",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-28T03:36:29.722220-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946204",
+      "size": "1529",
+      "md5": "afb0502c93f72a11942cde8826ba81d9",
+      "crc32": "1b75cbc2",
+      "sha1": "39dfa9d8dce5cf261dfec61fd201ea268eb07ff0",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-28T03:36:29.722220-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946206",
+      "size": "110674",
+      "md5": "9e3c5716fdf5913e0c7093d836a9074d",
+      "crc32": "25802f61",
+      "sha1": "372c3b4b214beeeef9dee9d2f5435ca6645a36c3",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-28T03:36:29.722220-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-28T03:36:29.722220-05:00.jpg",
+      "mtime": "1666950631",
+      "size": "9213",
+      "md5": "8bfc3e6d57e7e90dd622eab16ee59dca",
+      "crc32": "cb327deb",
+      "sha1": "09c266c4af4cea9b6ec554c39410c284ba1715b0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-28T13:36:49.275999-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982213",
+      "size": "21992",
+      "md5": "64393d3e8809a5ac57deffac8cb7de82",
+      "crc32": "685a9561",
+      "sha1": "b3c0690a686afc7768c34461147ad595f464b535",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-28T13:36:49.275999-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982215",
+      "size": "32041",
+      "md5": "a298f8822fa7703a5f2bae86c4056366",
+      "crc32": "437326a0",
+      "sha1": "5d55be7234c6aed5c762da061898ca30541d47eb",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-28T13:36:49.275999-05:00.jpg",
+      "source": "original",
+      "mtime": "1666982210",
+      "size": "240907",
+      "md5": "99c43ec139473d8a82cae2546685eb10",
+      "crc32": "2dc84eb2",
+      "sha1": "30fcc34febf292397a39141ec184164a6b2cb498",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-28T13:36:49.275999-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982216",
+      "size": "1531",
+      "md5": "7daa73774ceca40639451dc9b4a737dc",
+      "crc32": "7db22fbb",
+      "sha1": "34fd164e3586dfe417e8c856695a3559d9def478",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-28T13:36:49.275999-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982218",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-28T13:36:49.275999-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-28T13:36:49.275999-05:00.jpg",
+      "mtime": "1666984712",
+      "size": "9185",
+      "md5": "59bb33c14d32adad119d9ec860b1380d",
+      "crc32": "f39376cf",
+      "sha1": "0da20c681194d9cc46e8534b8a398fb7ec4b6d94"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-29T01:40:37.743179-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025641",
+      "size": "21339",
+      "md5": "2a5e7acccd5695e10ff284572de931cb",
+      "crc32": "384fe576",
+      "sha1": "173c9fdc715ae9491e77501409be2cc58ad9c2b0",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-29T01:40:37.743179-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025642",
+      "size": "34957",
+      "md5": "2640f83ab61baf3bbb05bc2cb019b292",
+      "crc32": "499f4522",
+      "sha1": "56defd8a062d5cf9f97f76de64f5273c6874c6a5",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-29T01:40:37.743179-05:00.jpg",
+      "source": "original",
+      "mtime": "1667025639",
+      "size": "260476",
+      "md5": "c720a4e2c94eee39162aaa9bddc90686",
+      "crc32": "b5405a17",
+      "sha1": "f795ce75a9d34a463980d66445f482e5ae44e630",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-29T01:40:37.743179-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025644",
+      "size": "1531",
+      "md5": "ee58d1f9cd2f6862cbc9aadb7a5a3019",
+      "crc32": "2a9f08ba",
+      "sha1": "600caf6b00d2731a5d24ead90b3fa946e70c6244",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-29T01:40:37.743179-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025646",
+      "size": "211",
+      "md5": "23480f840d239f86739f8a38133dc2b5",
+      "crc32": "3d45672a",
+      "sha1": "0fb065b44c92d68ec063ccb203fec7ec865945e7",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-29T01:40:37.743179-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-29T01:40:37.743179-05:00.jpg",
+      "mtime": "1667027460",
+      "size": "9759",
+      "md5": "ee820588574fd6f235dcd81b420242f1",
+      "crc32": "ea47f926",
+      "sha1": "02381c8264cc6f50378f7cc0824502ce4128e019"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-29T15:08:04.716079-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667074090",
+      "size": "21291",
+      "md5": "0ae273826f1a8e91cc67b03c68c84215",
+      "crc32": "63d282dc",
+      "sha1": "1366912a6718d3143624a14c31579d82162c8a27",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-29T15:08:04.716079-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667074092",
+      "size": "32965",
+      "md5": "12ea3736ca4b68e5c52e4c6d43585c7c",
+      "crc32": "0de2e12d",
+      "sha1": "003e70309232433da66710000aab594f51c8b6fd",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-29T15:08:04.716079-05:00.jpg",
+      "source": "original",
+      "mtime": "1667074089",
+      "size": "267356",
+      "md5": "c953d248020b9ab50a58e4d2241f5e7f",
+      "crc32": "a6eee686",
+      "sha1": "4eae1d571acabd9e05cbe0f15a9fca86cb69677b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-29T15:08:04.716079-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667074093",
+      "size": "1531",
+      "md5": "fa763b9abc0777d59d18ea46eab98320",
+      "crc32": "3c1b727d",
+      "sha1": "5e6586c4394dd6c896e79cc684bf51d36117b90e",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-29T15:08:04.716079-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667074095",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-29T15:08:04.716079-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-29T15:08:04.716079-05:00.jpg",
+      "mtime": "1667075015",
+      "size": "9530",
+      "md5": "b9b8937b63b0249fcae39ee4edaff7d0",
+      "crc32": "c6e738ea",
+      "sha1": "4e705669d5512802ad8d579079c55f33b31f7565"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-30T01:54:59.230768-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667112903",
+      "size": "21801",
+      "md5": "1cad5ab38a82e6e1105344d5ce894521",
+      "crc32": "702d518c",
+      "sha1": "2536eda04a9db9de4e4f9fded67d7debcd02782f",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-30T01:54:59.230768-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667112905",
+      "size": "30557",
+      "md5": "e3029e0e1d1d2c6082fc1d96ee030cd2",
+      "crc32": "60933bdb",
+      "sha1": "2b04e6a8f3c5f5c8ee1b062651b88434c878c795",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-30T01:54:59.230768-05:00.jpg",
+      "source": "original",
+      "mtime": "1667112901",
+      "size": "254114",
+      "md5": "c0fa37385c7002cc778c7e432d1e32dd",
+      "crc32": "c8d25a1a",
+      "sha1": "8c91200b9edd510239a3c3af92878e9a546e4a5e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-30T01:54:59.230768-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667112906",
+      "size": "1531",
+      "md5": "cfeb09265a3bb9d7e633343a8ba0a7da",
+      "crc32": "33578891",
+      "sha1": "6b3cb6e89e8cd1d5b6d9c7e91c835f22c11c4fbb",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-30T01:54:59.230768-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667112907",
+      "size": "76626",
+      "md5": "a151b030178c1bfaada960b37b467872",
+      "crc32": "9ee62178",
+      "sha1": "58036cfec2c70a90956917cced6b0aeffe42d435",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-30T01:54:59.230768-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-30T01:54:59.230768-05:00.jpg",
+      "mtime": "1667114325",
+      "size": "9405",
+      "md5": "45dc6346808cf05c311b7df98b6bba70",
+      "crc32": "f21f1084",
+      "sha1": "b171aa2787521a14ebf6c0a82acacd16e2e29549"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-30T13:34:28.602864-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667154880",
+      "size": "20823",
+      "md5": "c7fa305ea35e22c51dd7a62ef0f59a20",
+      "crc32": "90f9f560",
+      "sha1": "4dddeae05a369c8848e798d891f60b63db751ec9",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-30T13:34:28.602864-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667154882",
+      "size": "32040",
+      "md5": "194725f4e16091ff75285d354527f464",
+      "crc32": "530a0a01",
+      "sha1": "7cbbcba0ad7d92cff2d6ade0486e847174377059",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-30T13:34:28.602864-05:00.jpg",
+      "source": "original",
+      "mtime": "1667154878",
+      "size": "259797",
+      "md5": "9e2597b80bd80b539fed070d79459015",
+      "crc32": "b1a38fad",
+      "sha1": "1b7cbcbfb6d6584defad11eac02519db62a46cb2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-30T13:34:28.602864-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667154884",
+      "size": "1531",
+      "md5": "c06904cb8021f2193f3e63a3a14341b5",
+      "crc32": "e96c54f5",
+      "sha1": "8b96274097ce3bbdabef559f493b8f07cf84880a",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-30T13:34:28.602864-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667154886",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-30T13:34:28.602864-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-30T13:34:28.602864-05:00.jpg",
+      "mtime": "1667155530",
+      "size": "9238",
+      "md5": "75ab0727e134860b653dc5aaf64721df",
+      "crc32": "31bb23f8",
+      "sha1": "a736682f524249b1b8578b40e1d099b10c85d8b8"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-31T01:48:52.034139-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198942",
+      "size": "21010",
+      "md5": "7470e43318412f2710a002df0c2668fc",
+      "crc32": "19ab2247",
+      "sha1": "5b4289d46e2de1a56c0bfef45d4915106c864750",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-31T01:48:52.034139-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198944",
+      "size": "40294",
+      "md5": "7e73a01f4b4b193a7a8e35300c13c142",
+      "crc32": "e2764f01",
+      "sha1": "f8c5eb293d59b9959929a1e9541ea67dc952c486",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-31T01:48:52.034139-05:00.jpg",
+      "source": "original",
+      "mtime": "1667198941",
+      "size": "273615",
+      "md5": "5e6b453a0540544ed68eb35f9beb70f6",
+      "crc32": "acb8eca2",
+      "sha1": "c7e2b1729f55015531102f34837b927efdff032b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-31T01:48:52.034139-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198945",
+      "size": "1530",
+      "md5": "c33657cc823eb1f9531b8518d25e5c12",
+      "crc32": "9e5848a8",
+      "sha1": "b5a4028b9bbdd170570b36c1f914354f64f5ebb0",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-31T01:48:52.034139-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198947",
+      "size": "75880",
+      "md5": "9ea181a1c21819427260941b7d8c2bac",
+      "crc32": "36aa0e0a",
+      "sha1": "f22886df61fd4f12df405f848812301a962ecef1",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-31T01:48:52.034139-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-31T01:48:52.034139-05:00.jpg",
+      "mtime": "1667200873",
+      "size": "9403",
+      "md5": "403cbf2fa560a21d5018f3d1476e2183",
+      "crc32": "7a5d8803",
+      "sha1": "feb984feb4d9c1dcd865cca32a0bad7a7883cc48"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-31T14:51:51.541766-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667245925",
+      "size": "21508",
+      "md5": "49156956c7199edcb9b9ff9b39f46438",
+      "crc32": "279ede9b",
+      "sha1": "224ac281560bfa28b10c407975cf1d22e77c1c05",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-31T14:51:51.541766-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667245926",
+      "size": "37120",
+      "md5": "09d83f4f92a2ea9f0c6b450534e6a985",
+      "crc32": "2fca32d8",
+      "sha1": "870632339d4bd427460a705a8f39a976fb5f96e3",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-31T14:51:51.541766-05:00.jpg",
+      "source": "original",
+      "mtime": "1667245923",
+      "size": "266532",
+      "md5": "af418010526204301067c4e3433143e7",
+      "crc32": "d4de3238",
+      "sha1": "167779bb8b8f14c8adf0d1ae5ba13836fd200a65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-31T14:51:51.541766-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667245928",
+      "size": "1531",
+      "md5": "b564df6c7e71c1d0fb9e3d0f9861699b",
+      "crc32": "036ddc76",
+      "sha1": "23e6499d7d42c8f8c466295c8c8b627ac0a01f12",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-31T14:51:51.541766-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667245929",
+      "size": "76813",
+      "md5": "f201bb1290f01f194e91554a93255269",
+      "crc32": "ff7d65db",
+      "sha1": "438b6ad2a90989598479029693d9b4da9e8bd4e3",
+      "format": "JSON"
+    },
+    {
+      "name": "tuscaloosanews-2022-10-31T14:51:51.541766-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-10-31T14:51:51.541766-05:00.jpg",
+      "mtime": "1667246117",
+      "size": "9246",
+      "md5": "51f9b89bbc9c90b7374551e639cd4eef",
+      "crc32": "a8008d3a",
+      "sha1": "91e2639c66ecce3aaa6a05aa6a37bd569ad905d8"
+    },
+    {
       "name": "tuscaloosanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "285bf28ada8fe0b31ab6bab16055ea70c90a40d0",
-      "mtime": "1666723727",
-      "size": "115285",
-      "md5": "f1b3cee9cb1174d28cc39335b330a925",
-      "crc32": "991954f0",
-      "sha1": "c4493f6c5d5f0ec6caaf009137767dbacc484e4a",
+      "btih": "fb0e685928cbf96c7ad529b1fcf0f95fc8ddf7ea",
+      "mtime": "1667246124",
+      "size": "131041",
+      "md5": "dd8326c95fa03d05b903234cd88d1df6",
+      "crc32": "02a026fa",
+      "sha1": "3e90113fee3d1c79eb7a56062bb4a3298f6e1a4d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tuscaloosanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b67f0f666230945c4fe0ed0769c910d0",
+      "md5": "e192995fd3665bca8ae7ba1839b358bc",
       "summation": "md5"
     },
     {
       "name": "tuscaloosanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666723685",
-      "size": "688128",
-      "md5": "a57eb1153871b20b82fb346ff3637742",
-      "crc32": "86cf7e03",
-      "sha1": "760fc9b8dd660a808cdd8c639ad1982018174dde",
+      "mtime": "1667245933",
+      "size": "786432",
+      "md5": "faa5ee0ac72be7e59dffbc64ab04adbc",
+      "crc32": "9505c1cd",
+      "sha1": "6e3315795761592a90ef32115a3615dcae5a198f",
       "format": "Metadata"
     },
     {
@@ -5479,9 +6234,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 530,
-  "item_last_updated": 1666723727,
-  "item_size": 36367131,
+  "files_count": 603,
+  "item_last_updated": 1667246124,
+  "item_size": 40965734,
   "metadata": {
     "identifier": "tuscaloosanews-2022",
     "collection": [
@@ -5498,21 +6253,10 @@
     "publicdate": "2022-09-12 05:10:37",
     "addeddate": "2022-09-12 05:10:37"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451976028,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1024359890,
+  "server": "ia801501.us.archive.org",
+  "uniq": 54338577,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

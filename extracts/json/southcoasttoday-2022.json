@@ -1,5 +1,5 @@
 {
-  "created": 1666722515,
+  "created": 1667245306,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/southcoasttoday-2022",
@@ -4365,31 +4365,786 @@
       "format": "JSON"
     },
     {
+      "name": "southcoasttoday-2022-10-25T14:26:15.584383-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-25T14:26:15.584383-04:00.jpg",
+      "mtime": "1666724200",
+      "size": "9389",
+      "md5": "ee483613384acac52c1d70cd08831bc3",
+      "crc32": "d72d02ff",
+      "sha1": "1067ab107ffeaa4c730323d46d95d6fc9e01de6e"
+    },
+    {
+      "name": "southcoasttoday-2022-10-26T04:22:50.636267-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772577",
+      "size": "22358",
+      "md5": "97f71a9448571addc88772e82776dbb7",
+      "crc32": "62fdfd81",
+      "sha1": "bfaf8e262957be0be1106728746d8d4dbd2f7912",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-26T04:22:50.636267-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772579",
+      "size": "30977",
+      "md5": "a6d9be48bfaa8820ad476a02f0e69d33",
+      "crc32": "79df90bf",
+      "sha1": "e72996003f217b7325a7a4a2f8340cab449e96dd",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-26T04:22:50.636267-04:00.jpg",
+      "source": "original",
+      "mtime": "1666772575",
+      "size": "259583",
+      "md5": "20c7112efe57a59ef5fd1f490defcfa2",
+      "crc32": "39205229",
+      "sha1": "e35e7608fbb0b10b646987b5fc1aa2525dcb3114",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-26T04:22:50.636267-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772580",
+      "size": "1539",
+      "md5": "a9c0913f09124c18fbc3840579cfaed6",
+      "crc32": "31b98d24",
+      "sha1": "e77cb5dae6e8466770ff678ad1fa2e98bf670083",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-26T04:22:50.636267-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772582",
+      "size": "88262",
+      "md5": "3807be43e34bb4766f15a26ed7f6a61f",
+      "crc32": "5087b3a3",
+      "sha1": "5e32bd2115db4d2c41dd70da009ac52c912fbee2",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-26T04:22:50.636267-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-26T04:22:50.636267-04:00.jpg",
+      "mtime": "1666773871",
+      "size": "9248",
+      "md5": "73c7b364124605ad4e14c972fe144488",
+      "crc32": "bec9ce00",
+      "sha1": "acd6632b85145c51a36d10b2f11262296120e45e"
+    },
+    {
+      "name": "southcoasttoday-2022-10-26T16:50:57.567396-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666817463",
+      "size": "20489",
+      "md5": "da6bf88957a0d02d9db9ed99a4076e3e",
+      "crc32": "81ff78cf",
+      "sha1": "196c0fac261ab3aa6947dcba51b2e56853cae11d",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-26T16:50:57.567396-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666817464",
+      "size": "30683",
+      "md5": "e02c6fd63f2add0b3ce30a2c44fc9ec3",
+      "crc32": "af6488f9",
+      "sha1": "297f98a17b773a9b2838ecf7bac560af37f7f5e3",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-26T16:50:57.567396-04:00.jpg",
+      "source": "original",
+      "mtime": "1666817460",
+      "size": "288506",
+      "md5": "1e4e6f1fdd4b173328f51f407e5bd0cc",
+      "crc32": "60e22ce7",
+      "sha1": "fc25b1031571be220570ce1ea1fcb5a546430fda",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-26T16:50:57.567396-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666817466",
+      "size": "1539",
+      "md5": "f14055d98e3d0a4a89d00e9feae472d7",
+      "crc32": "466f9389",
+      "sha1": "e04bf73e9d573ff069dd491a29383567d53b51d2",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-26T16:50:57.567396-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666817469",
+      "size": "85266",
+      "md5": "a6a1fbe01279e01305cfb6b19e116623",
+      "crc32": "025cb88c",
+      "sha1": "c1fee7610f71dc6d26c6cdaaa4a954abdda6d2fe",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-26T16:50:57.567396-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-26T16:50:57.567396-04:00.jpg",
+      "mtime": "1666838342",
+      "size": "9363",
+      "md5": "47c4c50c0283b799ec594ad2eb390528",
+      "crc32": "42135880",
+      "sha1": "0de37acb9188cec875c8818d3772e673d53fed79"
+    },
+    {
+      "name": "southcoasttoday-2022-10-27T03:28:45.237049-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855732",
+      "size": "21243",
+      "md5": "7b3f5a88e3a21118d23b9b9dd7408b57",
+      "crc32": "11653f9b",
+      "sha1": "105bc879c466afa419d0f983bd1d62de3d90eaa4",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-27T03:28:45.237049-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855733",
+      "size": "31094",
+      "md5": "3de82224d3c121284d5aab18e6675dc1",
+      "crc32": "d07dac33",
+      "sha1": "34bdd0e47d7918593119f98a85d09ce4768d0ed1",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-27T03:28:45.237049-04:00.jpg",
+      "source": "original",
+      "mtime": "1666855730",
+      "size": "279515",
+      "md5": "4df044cf1ba1508d51fa76b7a7d8f40d",
+      "crc32": "3b197d55",
+      "sha1": "9ed9eb3a2013147e54b55c78eb0b08ccaa81ba72",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-27T03:28:45.237049-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855735",
+      "size": "1540",
+      "md5": "5b3946dfe55507f2c24a5f1274e8c200",
+      "crc32": "2db802f7",
+      "sha1": "aed26ac466fda8731204e0816e39fb78b228ba70",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-27T03:28:45.237049-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855737",
+      "size": "82445",
+      "md5": "ef3a4a1288bc06c713848cc5b1e96d6b",
+      "crc32": "9039255b",
+      "sha1": "e087531281b1002003c23a4a82c04add26a68217",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-27T03:28:45.237049-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-27T03:28:45.237049-04:00.jpg",
+      "mtime": "1666878437",
+      "size": "9978",
+      "md5": "fc361b40f12f7fd1a18bf9b4eb0735ab",
+      "crc32": "8a1a8620",
+      "sha1": "6e9fe06f922cace3f6822ea8420e816378460e8c"
+    },
+    {
+      "name": "southcoasttoday-2022-10-27T15:28:20.391838-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898903",
+      "size": "20605",
+      "md5": "f6b19c6258e9cf66d3b0a4ac87427092",
+      "crc32": "ddc145d6",
+      "sha1": "32878eec3840249352f8852de37e49c47849ed98",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-27T15:28:20.391838-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898905",
+      "size": "29238",
+      "md5": "5eb6895fd821b9a4bd57934e4147ea8e",
+      "crc32": "f43fa185",
+      "sha1": "8f40874beb9b7e38b14c9eac07376e8d211b8149",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-27T15:28:20.391838-04:00.jpg",
+      "source": "original",
+      "mtime": "1666898902",
+      "size": "259984",
+      "md5": "fc7cd2a0d496406a4afaee2f58af8c26",
+      "crc32": "30bf7fd3",
+      "sha1": "8028a3ffb7679901b4945def69873aae9d5b33ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-27T15:28:20.391838-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898907",
+      "size": "1540",
+      "md5": "616d656d626562359cebea45e31eadcd",
+      "crc32": "a2cc6da2",
+      "sha1": "58d9f1990ab6d42fbf395431b1761ab3e0dcda49",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-27T15:28:20.391838-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898909",
+      "size": "94106",
+      "md5": "afb7e0d482351d3cbf300a5bb3bde696",
+      "crc32": "9251b7f7",
+      "sha1": "3f2f46cce031e7ae2a9892842372a9e2012692b1",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-27T15:28:20.391838-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-27T15:28:20.391838-04:00.jpg",
+      "mtime": "1666907067",
+      "size": "9558",
+      "md5": "94c3766cd81b5ac95bc43b9bbe7aecbb",
+      "crc32": "e9ec63a1",
+      "sha1": "732d3510345c3a5c51f5cb67b1492f16e4504ae5"
+    },
+    {
+      "name": "southcoasttoday-2022-10-28T04:50:01.632003-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666947005",
+      "size": "22034",
+      "md5": "0b4effe45467b99e0f762a146c58912f",
+      "crc32": "61fb52b5",
+      "sha1": "bbc113b0de1b32f568c04ae43161a7bd759e0dd7",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-28T04:50:01.632003-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666947006",
+      "size": "32331",
+      "md5": "74be261946226a8f636c24f282177f93",
+      "crc32": "1cf2cd60",
+      "sha1": "adb92639edb66841f93236d831e267f20bfece57",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-28T04:50:01.632003-04:00.jpg",
+      "source": "original",
+      "mtime": "1666947003",
+      "size": "260730",
+      "md5": "ebae138f2f4c374ab4cfa4cb15ef09b9",
+      "crc32": "2dcf848c",
+      "sha1": "5a3707667f65be89bb3902d3a25d061c1132a224",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-28T04:50:01.632003-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666947008",
+      "size": "1540",
+      "md5": "4890373db94f96adcd2a9f8a19f6f437",
+      "crc32": "ea5c5fde",
+      "sha1": "b7e1483b1fe0d36a045b059531105507b998b5a4",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-28T04:50:01.632003-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666947010",
+      "size": "127024",
+      "md5": "81ad933518320fee428dc5deecd56878",
+      "crc32": "5df05b9a",
+      "sha1": "2cb8b569581e5cd2971a86eef2cbad513f87dc1f",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-28T04:50:01.632003-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-28T04:50:01.632003-04:00.jpg",
+      "mtime": "1666951467",
+      "size": "9431",
+      "md5": "d88625e35e6c2daeabfcc0de86cd557e",
+      "crc32": "23c7aff8",
+      "sha1": "485587b9ecbd6359026d315277df18684b9dcf10"
+    },
+    {
+      "name": "southcoasttoday-2022-10-28T14:33:54.212017-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982039",
+      "size": "20581",
+      "md5": "95edcc065ea60db56421998726a45b58",
+      "crc32": "095f6e50",
+      "sha1": "6ff787e5a13493330a1bdd203af0014139d14c94",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-28T14:33:54.212017-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982041",
+      "size": "34281",
+      "md5": "fb6e433384bc64961d19da04dca2bccf",
+      "crc32": "26003931",
+      "sha1": "b9791b790591e88447ba0147ab521ec9ce707958",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-28T14:33:54.212017-04:00.jpg",
+      "source": "original",
+      "mtime": "1666982037",
+      "size": "231751",
+      "md5": "0041c96b55f0eb057e09d1a529c93da6",
+      "crc32": "99b12790",
+      "sha1": "223e91cc869e7d5d323103529eac0cb213a8ef14",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-28T14:33:54.212017-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982042",
+      "size": "1540",
+      "md5": "10ec3b45306f4b03d256078c6fddc88a",
+      "crc32": "b25dce5b",
+      "sha1": "de7239c699e13718478cba7eb7b6e7d1f495721d",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-28T14:33:54.212017-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982044",
+      "size": "81288",
+      "md5": "b3f4349fe0335123c9f71090afadf870",
+      "crc32": "e15a1849",
+      "sha1": "a3e0ff697761f2a44f1885eda434ef4429c9c9b7",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-28T14:33:54.212017-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-28T14:33:54.212017-04:00.jpg",
+      "mtime": "1666984550",
+      "size": "8833",
+      "md5": "e68480ad4def6c1d8a0d6c4af0249a5d",
+      "crc32": "61cac2e9",
+      "sha1": "72a2c98ca044f87180fb5e34c4cb7505b656ca89"
+    },
+    {
+      "name": "southcoasttoday-2022-10-29T02:49:04.018698-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667026146",
+      "size": "20992",
+      "md5": "ab846dd3f5124ac7c72a0f5252963b57",
+      "crc32": "26758133",
+      "sha1": "bfb4ab80307d773f7d46c5431a3ab6950156d083",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-29T02:49:04.018698-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667026148",
+      "size": "28926",
+      "md5": "24ae6c820b03633e7f6f5cbccb75c2cb",
+      "crc32": "e940699c",
+      "sha1": "85ae80963b47746c4cb7f14af7b4f56bcdf0d0f5",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-29T02:49:04.018698-04:00.jpg",
+      "source": "original",
+      "mtime": "1667026145",
+      "size": "286119",
+      "md5": "7b70d6c9bec97670e5e853b6abb5c379",
+      "crc32": "4d9b099d",
+      "sha1": "93f177de60df6b16e7aa820722ad6a699c04d1f4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-29T02:49:04.018698-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667026150",
+      "size": "1540",
+      "md5": "88ac367f4027d09beca55ebf342ae6ae",
+      "crc32": "64afae89",
+      "sha1": "728557ad478b9013c0caf56ab59824bc457afbac",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-29T02:49:04.018698-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667026151",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-29T02:49:04.018698-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-29T02:49:04.018698-04:00.jpg",
+      "mtime": "1667027838",
+      "size": "9436",
+      "md5": "2e69dab86edf9ce4af19d40ac6821165",
+      "crc32": "69cd2870",
+      "sha1": "3fd99625304d4eef7d05fb4e844f6671d2e4352e"
+    },
+    {
+      "name": "southcoasttoday-2022-10-29T15:40:17.718752-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667072421",
+      "size": "20568",
+      "md5": "0fb4ffdd52b119d67ce71e08aad578a1",
+      "crc32": "8913a1ab",
+      "sha1": "16a9d11ec4bc10ea87d01af341726ff71bba84ea",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-29T15:40:17.718752-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667072423",
+      "size": "28820",
+      "md5": "ac7647067861d4ae32765a0651229d8e",
+      "crc32": "feaf01bc",
+      "sha1": "4041849b1f17ac8e7a3c929a065a9a0c53d4b368",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-29T15:40:17.718752-04:00.jpg",
+      "source": "original",
+      "mtime": "1667072419",
+      "size": "239678",
+      "md5": "785b728a84deb241a9bd9342582c8672",
+      "crc32": "e2912d31",
+      "sha1": "701eb2e082764c1e59fccece7c5ef0930a7e0fd1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-29T15:40:17.718752-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667072425",
+      "size": "1540",
+      "md5": "feb71d458fb20452731104ba7f785ff2",
+      "crc32": "185f5be3",
+      "sha1": "cfd2a8c263d8532569cbd18f3e2a433a0063a026",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-29T15:40:17.718752-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667072426",
+      "size": "58601",
+      "md5": "aa9d7eabcd7e4fe77dbe6a2cb64c087e",
+      "crc32": "3b6bf870",
+      "sha1": "93413419a2fdb1e87012a785621e030eb5fd547d",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-29T15:40:17.718752-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-29T15:40:17.718752-04:00.jpg",
+      "mtime": "1667073873",
+      "size": "9163",
+      "md5": "131f6860d5ab9c313c536605fb561bca",
+      "crc32": "00fdf87b",
+      "sha1": "e29a2f16501d9be1d75adeb9bd4104a296033561"
+    },
+    {
+      "name": "southcoasttoday-2022-10-30T03:02:51.152692-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667113376",
+      "size": "21233",
+      "md5": "fd7b1397c3b2d152cba14a9f668269fe",
+      "crc32": "81cbe0e6",
+      "sha1": "b7a19663fa703b8692848d448996a566045621cf",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-30T03:02:51.152692-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667113378",
+      "size": "34440",
+      "md5": "544326668ecf8882c1831b18929ea284",
+      "crc32": "869a6ce2",
+      "sha1": "209ba39d842e6514586415ad52f2d8d0ebc7ceca",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-30T03:02:51.152692-04:00.jpg",
+      "source": "original",
+      "mtime": "1667113374",
+      "size": "252743",
+      "md5": "cddb53c50a7d09eb3d6f7708371ee138",
+      "crc32": "05f68d8a",
+      "sha1": "1b5906dc08998a50d2eb00664e00bc785cf24c3c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-30T03:02:51.152692-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667113379",
+      "size": "1539",
+      "md5": "5583a02f35912522b5aec9bde9b4acff",
+      "crc32": "081216e0",
+      "sha1": "64c73076e3a75c276a4c3b9701e73d2636cb8f44",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-30T03:02:51.152692-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667113381",
+      "size": "85981",
+      "md5": "87bd11cb2cf6a71a7dc3ebc2cb02aa28",
+      "crc32": "50644a87",
+      "sha1": "1354a17def0e8e4387f3a97a639f0dfc2aa62a54",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-30T03:02:51.152692-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-30T03:02:51.152692-04:00.jpg",
+      "mtime": "1667115260",
+      "size": "9167",
+      "md5": "516c94b482b9518f59243ac79400b907",
+      "crc32": "2c43908e",
+      "sha1": "9153ee8a698eba242269cd392fcb43a07ae520e1"
+    },
+    {
+      "name": "southcoasttoday-2022-10-30T14:30:58.597104-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667154664",
+      "size": "19553",
+      "md5": "800f930c2f5786eecadebe1992dccb69",
+      "crc32": "9dfb46d5",
+      "sha1": "29be0d22ad5413ff0dcade1b3cc4f0e9943f59f7",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-30T14:30:58.597104-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667154666",
+      "size": "30515",
+      "md5": "45a4055767bc23ab4e893609116c486c",
+      "crc32": "28663a12",
+      "sha1": "541382be196a165f1066727f00baf24581693332",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-30T14:30:58.597104-04:00.jpg",
+      "source": "original",
+      "mtime": "1667154663",
+      "size": "278344",
+      "md5": "d6be584db16f9c20075fca0ce70e3696",
+      "crc32": "23454afa",
+      "sha1": "d0a786907adc36a702a23ae05cb0d7fa03048bc7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-30T14:30:58.597104-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667154668",
+      "size": "1540",
+      "md5": "2239c3215aec59919bfb81fe0e37e817",
+      "crc32": "f856f61e",
+      "sha1": "d2edd1d463a973313356cff78dc4404142c7b648",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-30T14:30:58.597104-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667154670",
+      "size": "106334",
+      "md5": "6b6391295289bc48c7e05b314bba62d2",
+      "crc32": "59137231",
+      "sha1": "6e43a2a86aefa17cd334b5434a7dcb3408352c15",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-30T14:30:58.597104-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-30T14:30:58.597104-04:00.jpg",
+      "mtime": "1667154913",
+      "size": "9262",
+      "md5": "f12b5b573b1c749c0801a902ebfad1b6",
+      "crc32": "2426a156",
+      "sha1": "93375d6c097c798357b8f53f5d8a4a9ddfac2490"
+    },
+    {
+      "name": "southcoasttoday-2022-10-31T02:45:39.555768-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198746",
+      "size": "20446",
+      "md5": "0f0fd4c05f58ce197b6917de5976ef42",
+      "crc32": "84ab166c",
+      "sha1": "2a8f7cbec2e5c79be3902086b3489713d2005680",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-31T02:45:39.555768-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198747",
+      "size": "28733",
+      "md5": "8df70cbbca271048f2848836d0421724",
+      "crc32": "c89660fb",
+      "sha1": "ffc4f9f81218a89fab766724a86f102d4909aba6",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-31T02:45:39.555768-04:00.jpg",
+      "source": "original",
+      "mtime": "1667198743",
+      "size": "263732",
+      "md5": "6dadaf0d1af95eab98605b06adfa8904",
+      "crc32": "57e8b386",
+      "sha1": "14604d8ac5d8390bf85fe4b3ace56ba1fa1b8105",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-31T02:45:39.555768-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198749",
+      "size": "1540",
+      "md5": "9682ec1d21a09693ac35b464dff8531e",
+      "crc32": "399e8e45",
+      "sha1": "f01a82aa0818a8aaf4afa97c8bdb509e564fe231",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-31T02:45:39.555768-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198750",
+      "size": "113697",
+      "md5": "9f0220cc20dcbdb28825dff3c5eca7db",
+      "crc32": "2975b24f",
+      "sha1": "4df39d16820776165c642c1e3e1a8128b5ab6aab",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-31T02:45:39.555768-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-31T02:45:39.555768-04:00.jpg",
+      "mtime": "1667200769",
+      "size": "9201",
+      "md5": "defb819a6592fe6a997cf9d4d6e081fd",
+      "crc32": "3d3a4a92",
+      "sha1": "92f0a4dce4248db9f5ec168c6f3140c8bafbf70c"
+    },
+    {
+      "name": "southcoasttoday-2022-10-31T15:27:20.075130-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667244446",
+      "size": "20363",
+      "md5": "af2525479a048134b2a9e13d7709d67c",
+      "crc32": "cfcb981f",
+      "sha1": "f2c6b98040ca7e5f1ea88cb0ff4791875aec5312",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-31T15:27:20.075130-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667244448",
+      "size": "33089",
+      "md5": "41462a80681204216b3def29e46d4496",
+      "crc32": "55160730",
+      "sha1": "38f4feeb78e53d5695f9dafb2798ee2b20acbc6b",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-31T15:27:20.075130-04:00.jpg",
+      "source": "original",
+      "mtime": "1667244443",
+      "size": "224823",
+      "md5": "c0c15661f0ac4bf47836ec842a6769b7",
+      "crc32": "c5926506",
+      "sha1": "67bb4323cc67818fee0f37a1e12d5623e1d00d4e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southcoasttoday-2022-10-31T15:27:20.075130-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667244451",
+      "size": "1540",
+      "md5": "ad9ef1b4dc7b23d2a6ae1365fdefcd8b",
+      "crc32": "9c4e3a4a",
+      "sha1": "a467d33da49b5578c599c20b30cf5786cfff92b4",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-31T15:27:20.075130-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667244458",
+      "size": "78657",
+      "md5": "dfb74b9e334031157f834ba6a9cd2ee5",
+      "crc32": "6a2e6de6",
+      "sha1": "6970608176e9f6f15fb9e78e6d2aa5f9c8649134",
+      "format": "JSON"
+    },
+    {
+      "name": "southcoasttoday-2022-10-31T15:27:20.075130-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "southcoasttoday-2022-10-31T15:27:20.075130-04:00.jpg",
+      "mtime": "1667245226",
+      "size": "9126",
+      "md5": "65746bb25055b4ee8bd347eb8a1f22b8",
+      "crc32": "adf3ac3d",
+      "sha1": "7fc4b60458459e9fda3e80f9ea6ab32ef374c3da"
+    },
+    {
       "name": "southcoasttoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c0460baf9588972590c53310211620285e97f66f",
-      "mtime": "1666722505",
-      "size": "93250",
-      "md5": "64af638e68d20ae0f1dba6925ad76637",
-      "crc32": "71678185",
-      "sha1": "f046a30e35205b8db65c5850a6dddc7c34ef580b",
+      "btih": "342e5e082d7dbc236d1345550904e71da333d67c",
+      "mtime": "1667245232",
+      "size": "109110",
+      "md5": "c9ce2cfe2188e3409df81379c1b1ac2e",
+      "crc32": "72d43f9e",
+      "sha1": "52398d3dc491b60bb209199e65d726e1c7e907d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "southcoasttoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4a15b22cbf00b4411bf917062e4ed69",
+      "md5": "871626e261eac69bb399507a1eb48c8a",
       "summation": "md5"
     },
     {
       "name": "southcoasttoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722462",
-      "size": "565248",
-      "md5": "23440b06dd60bc43f13fc469a041b88a",
-      "crc32": "976b0f5e",
-      "sha1": "3628d7ef174e3230be1f7b248bad47a5d63652eb",
+      "mtime": "1667244460",
+      "size": "655360",
+      "md5": "9076da3e027e23128d3a01edff4f2237",
+      "crc32": "2215f2b4",
+      "sha1": "a2d5ecd5cb23141719e6bfbb15144c69af8e41e8",
       "format": "Metadata"
     },
     {
@@ -4403,9 +5158,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 426,
-  "item_last_updated": 1666722505,
-  "item_size": 29589074,
+  "files_count": 499,
+  "item_last_updated": 1667245232,
+  "item_size": 34585641,
   "metadata": {
     "identifier": "southcoasttoday-2022",
     "collection": [
@@ -4422,21 +5177,10 @@
     "publicdate": "2022-09-20 19:25:17",
     "addeddate": "2022-09-20 19:25:17"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451943099,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 573708811,
+  "uniq": 1120462075,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

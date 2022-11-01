@@ -1,5 +1,6 @@
 {
-  "created": 1666702924,
+  "conflict": 1667221100,
+  "created": 1667221100,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/9/items/jerusalem_post-2022",
@@ -9087,31 +9088,786 @@
       "format": "JSON"
     },
     {
+      "name": "jerusalem_post-2022-10-25T16:00:41.681592+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-25T16:00:41.681592+03:00.jpg",
+      "mtime": "1666704844",
+      "size": "9807",
+      "md5": "dbdb25743020c2c003a3510a90e23c3b",
+      "crc32": "9ce8e2a8",
+      "sha1": "559be871410b7d563e6a66807759edf8c14c2c52"
+    },
+    {
+      "name": "jerusalem_post-2022-10-26T04:26:00.119504+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666747562",
+      "size": "1895",
+      "md5": "0211051c08dc6b9a3078d8a5577e6aca",
+      "crc32": "ed8c2bec",
+      "sha1": "75883a9db596cbcec2e2194398034d84d5b11e2d",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-26T04:26:00.119504+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666747564",
+      "size": "64120",
+      "md5": "8dc6aca540df020e8c74ed86bb4ee7e0",
+      "crc32": "ab9aea2d",
+      "sha1": "df6c3ea6d20c94bba2c87d4c51ab534bb9df1e45",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-26T04:26:00.119504+03:00.jpg",
+      "source": "original",
+      "mtime": "1666747561",
+      "size": "310873",
+      "md5": "7756bcfcf843c8eabcf1b1d8b1ab3cce",
+      "crc32": "bfff5b41",
+      "sha1": "c3bef3306e93de9682350b741385061b3e5c4ade",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-26T04:26:00.119504+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666747565",
+      "size": "1432",
+      "md5": "638af6211d51504297d40a22340c73cf",
+      "crc32": "6b69ab4a",
+      "sha1": "389466a889fd1a56c3971c64680abefdcf0320e6",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-26T04:26:00.119504+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666747567",
+      "size": "125023",
+      "md5": "e553007e5d7b846437fef7184d65fc03",
+      "crc32": "0b65f494",
+      "sha1": "098142ad21647da014d8035ce948e2ee2678fc12",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-26T04:26:00.119504+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-26T04:26:00.119504+03:00.jpg",
+      "mtime": "1666749903",
+      "size": "9951",
+      "md5": "b88a2e7eb93eb4584792ed78c2565040",
+      "crc32": "3dc756dd",
+      "sha1": "c84414f427b988119a98b395cdb51210a9ef3188"
+    },
+    {
+      "name": "jerusalem_post-2022-10-26T16:02:03.846810+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666789337",
+      "size": "1895",
+      "md5": "51f1573d8007fa3e2431693810042969",
+      "crc32": "f32f43f5",
+      "sha1": "948971f7cc54b193246ddd8eeb9875d98ea7ec94",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-26T16:02:03.846810+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666789339",
+      "size": "63658",
+      "md5": "a5075c4f783e4d82a74f310824705019",
+      "crc32": "e1a4b6ad",
+      "sha1": "79d39a7e0bf57818606e76e887f2b24e7067b818",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-26T16:02:03.846810+03:00.jpg",
+      "source": "original",
+      "mtime": "1666789335",
+      "size": "289974",
+      "md5": "f8d12224b5e3452e12cc2973db620cb1",
+      "crc32": "a5ba0258",
+      "sha1": "4e961142c01e71e388b9812e17210387af591ad0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-26T16:02:03.846810+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666789341",
+      "size": "1431",
+      "md5": "436010f2cbeaae305c8dafe635d04b0f",
+      "crc32": "0b889065",
+      "sha1": "264f89b17e6c3db88b549a5267051b825538152d",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-26T16:02:03.846810+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666789343",
+      "size": "202",
+      "md5": "55a13ae72a00ab087af47f56d59e9037",
+      "crc32": "6f452a8a",
+      "sha1": "a457935d58fe33c46cf853c7c0caf6d352d8459a",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-26T16:02:03.846810+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-26T16:02:03.846810+03:00.jpg",
+      "mtime": "1666790475",
+      "size": "9544",
+      "md5": "0158be96a39ecca114553961be259cd9",
+      "crc32": "0ae07ab4",
+      "sha1": "8030e5f497266ff20d5956b56a3d455da0cd4fbc"
+    },
+    {
+      "name": "jerusalem_post-2022-10-27T04:22:33.758053+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666833757",
+      "size": "1895",
+      "md5": "5e777452d70b6bc36201672cf9d77615",
+      "crc32": "90e89fcc",
+      "sha1": "c5852d9c513dbe117897975f9c61a6ae1c4079de",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-27T04:22:33.758053+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666833759",
+      "size": "62281",
+      "md5": "16776f76cf4bc1c797f11508317edd50",
+      "crc32": "15c1d91a",
+      "sha1": "1f3d60125d857dc4f92870472d6648f532b0c881",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-27T04:22:33.758053+03:00.jpg",
+      "source": "original",
+      "mtime": "1666833755",
+      "size": "300568",
+      "md5": "46122b3443b56eb43298aef92b19539e",
+      "crc32": "b88ed574",
+      "sha1": "a2cd336b0eaae6a25b4c16f3209735504d062747",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-27T04:22:33.758053+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666833761",
+      "size": "1432",
+      "md5": "6b4ca86cb776f1ba30d5713a1cdcdad8",
+      "crc32": "3e900306",
+      "sha1": "064c4721f71fdd4c6a83d6b9517a53cd85a83ce9",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-27T04:22:33.758053+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666833764",
+      "size": "263",
+      "md5": "4dacf5f679d627ff208094a57d6eecd8",
+      "crc32": "98eb455a",
+      "sha1": "98d2d0e6bb33dd35544d320970e151849e8f7874",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-27T04:22:33.758053+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-27T04:22:33.758053+03:00.jpg",
+      "mtime": "1666860622",
+      "size": "9788",
+      "md5": "db9a5af328afe66ece872b416db72f41",
+      "crc32": "f39798c9",
+      "sha1": "ceee6adddeb05d5c3494b2c55d48121cdcfff753"
+    },
+    {
+      "name": "jerusalem_post-2022-10-27T16:13:57.636280+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666876465",
+      "size": "1895",
+      "md5": "c3432c315e77cbc812bb794c3b85d9ea",
+      "crc32": "ac79c7bc",
+      "sha1": "c84c0c504623c57d0c6bff68cd68f12310966aa7",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-27T16:13:57.636280+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666876467",
+      "size": "62065",
+      "md5": "79d0be5c6c4af89a1d6a86114ef58187",
+      "crc32": "c6fb15a4",
+      "sha1": "9510237b040fc9bf9307a98e6f6a8af48c675573",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-27T16:13:57.636280+03:00.jpg",
+      "source": "original",
+      "mtime": "1666876462",
+      "size": "337995",
+      "md5": "e2e8a09ed7d79bf73646e169f65d6d9b",
+      "crc32": "3586dcc8",
+      "sha1": "afb72d4e422465d489cc541b35644b2ed9d6b7d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-27T16:13:57.636280+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666876469",
+      "size": "1432",
+      "md5": "df15a10b8f18bf354ddd063a9aeea2d2",
+      "crc32": "9fb58ba6",
+      "sha1": "14d6efce790b40172f33f76c5d732558e6044f23",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-27T16:13:57.636280+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666876471",
+      "size": "202",
+      "md5": "55a13ae72a00ab087af47f56d59e9037",
+      "crc32": "6f452a8a",
+      "sha1": "a457935d58fe33c46cf853c7c0caf6d352d8459a",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-27T16:13:57.636280+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-27T16:13:57.636280+03:00.jpg",
+      "mtime": "1666891290",
+      "size": "9750",
+      "md5": "c4f75aa65b5a71e8987ae89f5a4e74d5",
+      "crc32": "2672a03c",
+      "sha1": "b2abd4f3a2eb6e3fbb18c8720bb63c24d3aa33eb"
+    },
+    {
+      "name": "jerusalem_post-2022-10-28T04:19:30.796705+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666919974",
+      "size": "1895",
+      "md5": "74e0d0224dad3ae3e3f54cc0239aad97",
+      "crc32": "93fe8803",
+      "sha1": "45a6a4eb80d857b5731ed22658015d4b5460b455",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-28T04:19:30.796705+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666919976",
+      "size": "64665",
+      "md5": "865f45f6306c8b7960c27b047fe75d48",
+      "crc32": "cc171a0b",
+      "sha1": "b3b5f50875cfff06e40c9d6da4090ea6ea2d836d",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-28T04:19:30.796705+03:00.jpg",
+      "source": "original",
+      "mtime": "1666919972",
+      "size": "308649",
+      "md5": "a1a257bab64c3609b297b4fd94bbb58d",
+      "crc32": "7337639f",
+      "sha1": "db15d4451af3b5fe88e09586c7ee2c516cd2d3fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-28T04:19:30.796705+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666919979",
+      "size": "1432",
+      "md5": "b4ff12b5d7390cdf036933fde625f266",
+      "crc32": "02809d87",
+      "sha1": "c6bf47689eb5eaf761c647b23e5a85c9df16bef9",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-28T04:19:30.796705+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666919981",
+      "size": "137880",
+      "md5": "14f77cf74e4cc0bbb2caaec6d70ecbec",
+      "crc32": "2b716840",
+      "sha1": "fb3bd41a77467a4ab0f708122af1ffe4afda7abe",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-28T04:19:30.796705+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-28T04:19:30.796705+03:00.jpg",
+      "mtime": "1666921505",
+      "size": "9754",
+      "md5": "aaa44d9bb52535cc02987bf5ba410693",
+      "crc32": "0ad2c6df",
+      "sha1": "da8b076043bf1d5e0501ed28e06ecc06483b493c"
+    },
+    {
+      "name": "jerusalem_post-2022-10-28T16:00:10.509627+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666962018",
+      "size": "1895",
+      "md5": "528a415d08200854523cf82c745d0abe",
+      "crc32": "379e79df",
+      "sha1": "dbf43c6342feea76386992a53a90a441c03596d8",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-28T16:00:10.509627+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666962020",
+      "size": "66094",
+      "md5": "a6fcab38f54383e60bbc384cb106bbfe",
+      "crc32": "d882a0d1",
+      "sha1": "8442b4cf226b66da630b10b91d1230cd3d1ba565",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-28T16:00:10.509627+03:00.jpg",
+      "source": "original",
+      "mtime": "1666962016",
+      "size": "289742",
+      "md5": "1655fad494ca9b15496adbf0c8ad5bfa",
+      "crc32": "9048defe",
+      "sha1": "bc2f7c7bf98250a6872981ef4e74fae3a2d66253",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-28T16:00:10.509627+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666962022",
+      "size": "1432",
+      "md5": "1d69ac2d69e6017aeea64842322f61f0",
+      "crc32": "3f633e08",
+      "sha1": "50e8294abe0b5595cf8e00f066ea01350d114760",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-28T16:00:10.509627+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666962023",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-28T16:00:10.509627+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-28T16:00:10.509627+03:00.jpg",
+      "mtime": "1666968025",
+      "size": "9724",
+      "md5": "2d956d9b76d9ef4456361637fb54a091",
+      "crc32": "03d8deee",
+      "sha1": "c4a76ca59a7a92ce424e847ded5556482341912f"
+    },
+    {
+      "name": "jerusalem_post-2022-10-29T04:18:46.268263+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667006330",
+      "size": "1895",
+      "md5": "b8feb684cdd3b1791ba36d1ba0233e09",
+      "crc32": "2060e043",
+      "sha1": "2edb020ed0558816b809a72813b754592d9e4603",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-29T04:18:46.268263+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667006331",
+      "size": "62376",
+      "md5": "8497add64382fd000d0406961a02f2fb",
+      "crc32": "a4d11944",
+      "sha1": "3300841710b6e374636a7748c78b4ec405f85f22",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-29T04:18:46.268263+03:00.jpg",
+      "source": "original",
+      "mtime": "1667006328",
+      "size": "293497",
+      "md5": "8b71407fde653997a0fa70b3ab936fa7",
+      "crc32": "266f0cd9",
+      "sha1": "44a47c6488c3a88061ff6cc6315e21fb37052dec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-29T04:18:46.268263+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667006333",
+      "size": "1432",
+      "md5": "c7d3883bdd8177cec7d58359cc2d34b7",
+      "crc32": "04670c75",
+      "sha1": "57e617fb497524c603dbcd96c981789ec1b515ae",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-29T04:18:46.268263+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667006335",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-29T04:18:46.268263+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-29T04:18:46.268263+03:00.jpg",
+      "mtime": "1667007476",
+      "size": "9759",
+      "md5": "dc615622a1247cffe147f108e42aaae2",
+      "crc32": "3a0de435",
+      "sha1": "35ea4a741f23c82bee26b756a730af2ceab9ce2c"
+    },
+    {
+      "name": "jerusalem_post-2022-10-29T15:51:50.985002+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667047918",
+      "size": "1895",
+      "md5": "31a8ff30397c46e3ca6fbd92110a427b",
+      "crc32": "ced3ef19",
+      "sha1": "88e440b996d10ee60a3028c711d1427fd1c9df9b",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-29T15:51:50.985002+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667047920",
+      "size": "64090",
+      "md5": "57e0106d8e9921f3904cf8a732277131",
+      "crc32": "e3044f6a",
+      "sha1": "91ed02e25eee90acb9737aca9f2fb9dc8a471175",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-29T15:51:50.985002+03:00.jpg",
+      "source": "original",
+      "mtime": "1667047917",
+      "size": "307685",
+      "md5": "8d9e01cfacac0129bea2d30928842c6c",
+      "crc32": "adc6e413",
+      "sha1": "1c4aa37f8302c23be6406492fcb0f401e81549a3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-29T15:51:50.985002+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667047922",
+      "size": "1432",
+      "md5": "867a770a73b36e5f11537f0e02e91b9c",
+      "crc32": "06ea4f56",
+      "sha1": "4d04c865e7c93acde02fb091b2b1fef0f72b7871",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-29T15:51:50.985002+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667047924",
+      "size": "139002",
+      "md5": "82c3e151c0353593b50fcf9c50ca7ed3",
+      "crc32": "40a61fc4",
+      "sha1": "0d46341bd161450577a424959a0ee03f46da4071",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-29T15:51:50.985002+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-29T15:51:50.985002+03:00.jpg",
+      "mtime": "1667050730",
+      "size": "9614",
+      "md5": "99d867dbad0c9a74b1b96750f46af141",
+      "crc32": "fbf95794",
+      "sha1": "01aa08346d596fb557b65357cdae237e3f613cf5"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T03:04:33.618355+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667091877",
+      "size": "1895",
+      "md5": "654c00b874289d59bed471a02e0bf181",
+      "crc32": "18973502",
+      "sha1": "3914bc10f0375109031dec6a313d9f6ef3891e9f",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T03:04:33.618355+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667091879",
+      "size": "64714",
+      "md5": "8a6b1729a0acb20c86371647271544a8",
+      "crc32": "1d6d77c0",
+      "sha1": "5298c367b6364fd29229192c53db0c72a550ecdf",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T03:04:33.618355+02:00.jpg",
+      "source": "original",
+      "mtime": "1667091875",
+      "size": "312285",
+      "md5": "0cbe5110470ba3a7a3686aa370f1f508",
+      "crc32": "3f2960eb",
+      "sha1": "e8cfd593883a8a924b3f4e1ac370049836f91654",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T03:04:33.618355+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667091881",
+      "size": "1432",
+      "md5": "3ff2f6884a102a718108b4a489db73f4",
+      "crc32": "bc2b4d33",
+      "sha1": "6b34f520c6ebeb314965fa974c49289a481d9fbb",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T03:04:33.618355+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667091882",
+      "size": "54395",
+      "md5": "07de8805e9a537429bf6adcff6a7b032",
+      "crc32": "8c7068c4",
+      "sha1": "c67cd6ea3f92e87e0e8a1b49d204e2d09f407c15",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T03:04:33.618355+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-30T03:04:33.618355+02:00.jpg",
+      "mtime": "1667092830",
+      "size": "9795",
+      "md5": "1dc358260dfd71dee48299848d4623dd",
+      "crc32": "44c16c2f",
+      "sha1": "0818a96a66632803be3b1e78494ab72c081748e5"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T14:49:27.129732+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667134177",
+      "size": "1895",
+      "md5": "fb591b9bbaeef0ecf9a86f352d3dc73b",
+      "crc32": "4c13182b",
+      "sha1": "cf4e7499cca090edaaf3d23128064a158c7a54d0",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T14:49:27.129732+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667134183",
+      "size": "65116",
+      "md5": "adfa4c0311e29d2c3923aba07a04a11d",
+      "crc32": "86f67571",
+      "sha1": "beb3f2dc21baac7cf60673078a2010b2a26a754b",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T14:49:27.129732+02:00.jpg",
+      "source": "original",
+      "mtime": "1667134176",
+      "size": "325257",
+      "md5": "4185cbb346a081255f7d4ffbda1de0ed",
+      "crc32": "f03d552c",
+      "sha1": "9e9e192439765243239ce66872ef189d4d3e144a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T14:49:27.129732+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667134184",
+      "size": "1432",
+      "md5": "7fafd449c4189fe57d045e0f18e3c060",
+      "crc32": "a562b7a8",
+      "sha1": "54d835bf40dd611e90772d828cc097fc10174a38",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T14:49:27.129732+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667134185",
+      "size": "228",
+      "md5": "f35b9ec483979dba2c5c4de3fac93523",
+      "crc32": "5b912aae",
+      "sha1": "c96cc42e112798413e82e22cae118c4af277bf8f",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-30T14:49:27.129732+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-30T14:49:27.129732+02:00.jpg",
+      "mtime": "1667134794",
+      "size": "9855",
+      "md5": "90471ec6e7e7d0b43ef82206de54166c",
+      "crc32": "313b8600",
+      "sha1": "82a95cca8561fa44e2415b82673235aec4d12a1a"
+    },
+    {
+      "name": "jerusalem_post-2022-10-31T03:08:55.995609+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667178539",
+      "size": "1895",
+      "md5": "2930d1952b336ab7212fd4abbdc9ee3b",
+      "crc32": "c0325241",
+      "sha1": "683889214ef36fa72ad7f59a434cb75dcf715863",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-31T03:08:55.995609+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667178541",
+      "size": "65213",
+      "md5": "69495cfbce590a3880181c21e81282a1",
+      "crc32": "f00b3bba",
+      "sha1": "704ff9c98d089b7f74352b58ed9193874c90f549",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-31T03:08:55.995609+02:00.jpg",
+      "source": "original",
+      "mtime": "1667178538",
+      "size": "320977",
+      "md5": "2bc4901ef38f87e2d19602b375ba1b85",
+      "crc32": "6bc6b640",
+      "sha1": "c50c00f3153fc0760ba812940d9165ba38416369",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-31T03:08:55.995609+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667178543",
+      "size": "1432",
+      "md5": "a6b9cc92878f723035f21bf88408ca31",
+      "crc32": "786865cf",
+      "sha1": "beb1f009f5ce42fb0b17d7ce263f0e54546ace3e",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-31T03:08:55.995609+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667178544",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-31T03:08:55.995609+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-31T03:08:55.995609+02:00.jpg",
+      "mtime": "1667179272",
+      "size": "9905",
+      "md5": "8cc0a05e901948acada8cdd4ed199070",
+      "crc32": "bc946763",
+      "sha1": "c4a7ea926fe69e4ecdd225c52c099448cf9d3b14"
+    },
+    {
+      "name": "jerusalem_post-2022-10-31T14:51:55.256736+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667220724",
+      "size": "1895",
+      "md5": "fd7124c54dd13725917bb659c6cf2d6b",
+      "crc32": "6479b0a4",
+      "sha1": "c162c0d9dcff3e61377d76195baba190e5652d53",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-31T14:51:55.256736+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667220726",
+      "size": "64223",
+      "md5": "2b95fe8bb6ed02b782c9d5e96b6a55a6",
+      "crc32": "40f870d7",
+      "sha1": "abf1c35f8e453c4821f4799d428cac74ce942e39",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-31T14:51:55.256736+02:00.jpg",
+      "source": "original",
+      "mtime": "1667220722",
+      "size": "286198",
+      "md5": "379008dfbaa21ba4534100e25749fcd1",
+      "crc32": "efe3a028",
+      "sha1": "49fcd4ea36d88881b13040dc4b7e04cc56af3264",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-10-31T14:51:55.256736+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667220728",
+      "size": "1432",
+      "md5": "ad6364ae8b49ab7e237cd6ff1e1c3490",
+      "crc32": "64a1d8e2",
+      "sha1": "15d464854aabaebe813c6695f28b9ec4ad4dd0b7",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-31T14:51:55.256736+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667220730",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-10-31T14:51:55.256736+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-10-31T14:51:55.256736+02:00.jpg",
+      "mtime": "1667221073",
+      "size": "9466",
+      "md5": "656deb68adb5bc8c9cc6a97f98330791",
+      "crc32": "7bc73d6c",
+      "sha1": "e35ff51a07eec1fbee93f95c9d8a1942cd1bb4f6"
+    },
+    {
       "name": "jerusalem_post-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b0c5e0d13d9fbcec7ecbece3b15af75984772e54",
-      "mtime": "1666702914",
-      "size": "191948",
-      "md5": "004a1933b0df0f1212b5b28ec44d549c",
-      "crc32": "3f67d3d8",
-      "sha1": "10030ff3488b4a630fdaf07cf763596229fb6005",
+      "btih": "2e461f8ecc47c1462612baf9f1be595508b37d8f",
+      "mtime": "1667221098",
+      "size": "207709",
+      "md5": "f73e838fda10f52da8bcc37c7069ade9",
+      "crc32": "ac90e570",
+      "sha1": "be7156e47f26411e95f930734966d4874ca9015b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jerusalem_post-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9553cea832a8a04e23fa4759ff5eeacf",
+      "md5": "8438d02b6be6806714051c48097da019",
       "summation": "md5"
     },
     {
       "name": "jerusalem_post-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666702866",
-      "size": "1146880",
-      "md5": "bce4fbf05de46ad8df08a8963e8ad49b",
-      "crc32": "321c56dd",
-      "sha1": "b639ec45a537b137bc7fe0152d49e62773d178d0",
+      "mtime": "1667220733",
+      "size": "1236992",
+      "md5": "1b42d0e7b8e820546075a6a4a315285e",
+      "crc32": "a698b759",
+      "sha1": "111be4aeec15948033c0bb7cef0e76e828da1e51",
       "format": "Metadata"
     },
     {
@@ -9125,9 +9881,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 883,
-  "item_last_updated": 1666702914,
-  "item_size": 70500987,
+  "files_count": 956,
+  "item_last_updated": 1667221098,
+  "item_size": 75683813,
   "metadata": {
     "identifier": "jerusalem_post-2022",
     "collection": [
@@ -9149,15 +9905,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451667244,
+      "task_id": 3457781599,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3457784499,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1844243400,
+  "uniq": 1713340386,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

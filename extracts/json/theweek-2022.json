@@ -1,5 +1,5 @@
 {
-  "created": 1666709628,
+  "created": 1667228685,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/29/items/theweek-2022",
@@ -8273,31 +8273,775 @@
       "format": "JSON"
     },
     {
+      "name": "theweek-2022-10-25T10:52:45.449678-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-25T10:52:45.449678-04:00.jpg",
+      "mtime": "1666712544",
+      "size": "10356",
+      "md5": "3d32c3b186993177c44b8828bb6ff056",
+      "crc32": "a47b1420",
+      "sha1": "706bb0365032429a9f0f0e9b41ff0bd799b6359b"
+    },
+    {
+      "name": "theweek-2022-10-25T23:49:20.030768-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666756164",
+      "size": "30609",
+      "md5": "9c56b3e23f2f9955735c108a9b418eda",
+      "crc32": "4b601bc5",
+      "sha1": "8e854fecadea2cec5090fff566be8ffb84e8da8d",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-25T23:49:20.030768-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666756166",
+      "size": "15113",
+      "md5": "76ddcd4f3ef49b034e24f04d674a0a67",
+      "crc32": "00e444a8",
+      "sha1": "10e0712c98756d92d0c8e358a16f965f2dee105c",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-25T23:49:20.030768-04:00.jpg",
+      "source": "original",
+      "mtime": "1666756163",
+      "size": "300376",
+      "md5": "3a1b60f60f2bc1e9e4bfa3e3a4847127",
+      "crc32": "22bb9c2d",
+      "sha1": "587406d72c86b4bdc00b6f74848bcbc2cf703713",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-25T23:49:20.030768-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666756167",
+      "size": "1432",
+      "md5": "aeb1fecb09be67e2a40c7b73ef3272a8",
+      "crc32": "4fab7624",
+      "sha1": "94706e0d07e54881a03269afb6cb004e063619db",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-25T23:49:20.030768-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666756169",
+      "size": "17775",
+      "md5": "791145b6853fc6ed471ecb54aaf99f1a",
+      "crc32": "f5cb2281",
+      "sha1": "757c25d60bc43cf96d395e20855ebbeee769f13b",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-25T23:49:20.030768-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-25T23:49:20.030768-04:00.jpg",
+      "mtime": "1666756964",
+      "size": "10362",
+      "md5": "dbbf493ce3b5c1469bd19be8ece33228",
+      "crc32": "d87b69c7",
+      "sha1": "78ae46f5b678555a067b2be569fb2be82299e785"
+    },
+    {
+      "name": "theweek-2022-10-26T11:06:45.353123-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796809",
+      "size": "30753",
+      "md5": "d7526249435d5a899de0e393da8adb01",
+      "crc32": "38864e2b",
+      "sha1": "baccfb2b0e76f8a0ed37054c8c9ca16475605b87",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-26T11:06:45.353123-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796811",
+      "size": "15149",
+      "md5": "c4f283b257dec229ee21972fcfdffaac",
+      "crc32": "97ecfb3c",
+      "sha1": "c3622b3ababd3c89ea8b93f8d7d31a1eb0940cdc",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-26T11:06:45.353123-04:00.jpg",
+      "source": "original",
+      "mtime": "1666796808",
+      "size": "279089",
+      "md5": "15fb3754182096e1afa93063aede9629",
+      "crc32": "f9880060",
+      "sha1": "5dca69b1e1e0f3b412d03c68e97b66b26a89dae4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-26T11:06:45.353123-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796812",
+      "size": "1432",
+      "md5": "96eff92bd5e1974ee55e69f2166d662a",
+      "crc32": "b2e1cb58",
+      "sha1": "7b278cf2033c6d1cbe6f49da9c51b058037c85eb",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-26T11:06:45.353123-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796814",
+      "size": "23413",
+      "md5": "86ac69b6f0bf6fc3dc389fdca2dc5b02",
+      "crc32": "948e5cff",
+      "sha1": "f2fc37c910b393f3caf2ae7de4a0e9a369dbb9c8",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-26T11:06:45.353123-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-26T11:06:45.353123-04:00.jpg",
+      "mtime": "1666798046",
+      "size": "10276",
+      "md5": "904f8aba31bf37c2926f3cf0d52fac09",
+      "crc32": "3fcc296e",
+      "sha1": "ab8bc2aca31a18c42cc935d2e1818b4dd5115849"
+    },
+    {
+      "name": "theweek-2022-10-26T23:43:14.432444-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666842202",
+      "size": "30863",
+      "md5": "25df2886191f540a14d56a4b8bb2c238",
+      "crc32": "3f97f4a4",
+      "sha1": "512a39a9250791b34db64547afb213cafaa43043",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-26T23:43:14.432444-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666842204",
+      "size": "15143",
+      "md5": "c6f44116eee2af19b664ca23ef1efa36",
+      "crc32": "4489aff3",
+      "sha1": "b7d624faa34d1e86a87c5237c7a3f74bce6ce9c9",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-26T23:43:14.432444-04:00.jpg",
+      "source": "original",
+      "mtime": "1666842200",
+      "size": "269597",
+      "md5": "e5fe821adedeafb82da21ff1a228c3b5",
+      "crc32": "35bf609a",
+      "sha1": "6566070f0ed38f9c11fa4913552e82109f068ca4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-26T23:43:14.432444-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666842211",
+      "size": "1432",
+      "md5": "bdee948c21ba370750a521e959cf8988",
+      "crc32": "0f0ebb99",
+      "sha1": "8f0bc917265ad85894baa46e006e8dac5b68c520",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-26T23:43:14.432444-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666842213",
+      "size": "23508",
+      "md5": "7179c8a647d1482e104892ec9f258411",
+      "crc32": "43e28370",
+      "sha1": "82665d2f69b56abaf466af6f3d61016325138610",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-26T23:43:14.432444-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-26T23:43:14.432444-04:00.jpg",
+      "mtime": "1666866814",
+      "size": "10199",
+      "md5": "1652e328502c7c6e71071d98048de38c",
+      "crc32": "e77e6e74",
+      "sha1": "d391c08337397910a60ff9e018b3775ffb25a1e7"
+    },
+    {
+      "name": "theweek-2022-10-27T11:14:05.303321-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883654",
+      "size": "30808",
+      "md5": "b5d7b90e062c0c54f90f95bcd29af507",
+      "crc32": "fd0b0e59",
+      "sha1": "5512de9c7f1226089c91e4f3c3a1b2c50d877ae9",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-27T11:14:05.303321-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883656",
+      "size": "15434",
+      "md5": "1402654fc4339fa99ca5fd7a3644862c",
+      "crc32": "6ee82c93",
+      "sha1": "de95bce818a58b23c395b9d5cdedd1db6e83ea47",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-27T11:14:05.303321-04:00.jpg",
+      "source": "original",
+      "mtime": "1666883652",
+      "size": "263623",
+      "md5": "9bb7912cc3e16a1cb4e4a80f85e61e7c",
+      "crc32": "48cfb125",
+      "sha1": "0fcb3c7343e54c3d14f4e62a6348ff2ee44394a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-27T11:14:05.303321-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883658",
+      "size": "1432",
+      "md5": "e4f6d626742fcf26537c1be9a01c3e9b",
+      "crc32": "2ba830f3",
+      "sha1": "fffa66abc31926e467646e6c2910cd5ab8b8a12c",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-27T11:14:05.303321-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883661",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-27T11:14:05.303321-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-27T11:14:05.303321-04:00.jpg",
+      "mtime": "1666895946",
+      "size": "10395",
+      "md5": "83301c6a1cc9021460c7a5801aa2fea8",
+      "crc32": "61ea8628",
+      "sha1": "02c1dc42782c2788b906be0a8563049dcd5f8aac"
+    },
+    {
+      "name": "theweek-2022-10-28T00:42:41.377741-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666932164",
+      "size": "30708",
+      "md5": "14874b9954248f92169d6c915cc3b65d",
+      "crc32": "617982b2",
+      "sha1": "22431a188476fca7f32c5efe9f639bec48f088d7",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T00:42:41.377741-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666932166",
+      "size": "15192",
+      "md5": "a2eb2f41f3a08fdc11269cac10b275e7",
+      "crc32": "98a5da7e",
+      "sha1": "bb33f61f82efd17440cf3d943678c25529c2f40b",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T00:42:41.377741-04:00.jpg",
+      "source": "original",
+      "mtime": "1666932163",
+      "size": "270065",
+      "md5": "f7e19352445b9d7d931ed43cdfe9e1bf",
+      "crc32": "a8f4c212",
+      "sha1": "f507afdfee50142d1c4174d915121243f3e0a861",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-28T00:42:41.377741-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666932168",
+      "size": "1432",
+      "md5": "340508098095714a1b3771e3d0dfdee4",
+      "crc32": "79a6264b",
+      "sha1": "2eb49d424f75f68bc39dd351a08cf13a33cdaac6",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T00:42:41.377741-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666932169",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T00:42:41.377741-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-28T00:42:41.377741-04:00.jpg",
+      "mtime": "1666934083",
+      "size": "10407",
+      "md5": "85bcdbb462533fe24877b9378971a1a6",
+      "crc32": "f486ccef",
+      "sha1": "429b87bc0ac24ea7b8481b10f271082d1d1fc3d9"
+    },
+    {
+      "name": "theweek-2022-10-28T10:45:58.207748-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968365",
+      "size": "30701",
+      "md5": "cef4f22e967c25888d263d90d826a1be",
+      "crc32": "715b5e05",
+      "sha1": "411c99b91898888752001b5562acde8f7381d708",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T10:45:58.207748-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968366",
+      "size": "15329",
+      "md5": "6fd99217500774be3e4e4839c3db608e",
+      "crc32": "3513e261",
+      "sha1": "b5a5d7e576d360b6927d3bf4762047ae04db3468",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T10:45:58.207748-04:00.jpg",
+      "source": "original",
+      "mtime": "1666968363",
+      "size": "267513",
+      "md5": "2448ea00372e401b0bc945c2002c8e17",
+      "crc32": "077f3353",
+      "sha1": "5aeed7d1d4feb19b598997d22f916cd60d0ed7b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-28T10:45:58.207748-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968368",
+      "size": "1432",
+      "md5": "e5842b6e197f76e71adaa903f81f3d97",
+      "crc32": "55baf616",
+      "sha1": "22d42f4b84a353784986b68cbf5a7ef86f33cd68",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T10:45:58.207748-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968370",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T10:45:58.207748-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-28T10:45:58.207748-04:00.jpg",
+      "mtime": "1666973375",
+      "size": "10037",
+      "md5": "70f29366d34a345f600356b865acecfd",
+      "crc32": "15f0b7fe",
+      "sha1": "5421e2d59001b35d2e51b9392e37fc90b5d65070"
+    },
+    {
+      "name": "theweek-2022-10-28T23:32:51.731660-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014380",
+      "size": "30810",
+      "md5": "27c8b8df3a97f60d8308139a5f692bc2",
+      "crc32": "fd99c9ab",
+      "sha1": "869ea2ee2f56df5d04d9ff72cc541ddafc5d8d9f",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T23:32:51.731660-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014382",
+      "size": "15233",
+      "md5": "8b7bb2313632db2fbb96009e38bcabe1",
+      "crc32": "529fb07a",
+      "sha1": "4089469553962f261d1c3d84c9bada7cf7c992aa",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T23:32:51.731660-04:00.jpg",
+      "source": "original",
+      "mtime": "1667014379",
+      "size": "262342",
+      "md5": "3268d5ab36a681251729635c773ecced",
+      "crc32": "d2fd269c",
+      "sha1": "390261938ffbda30482fda926c53a759a22014e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-28T23:32:51.731660-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014384",
+      "size": "1432",
+      "md5": "2e5f1a5b8103ac931ea235f29b6b9500",
+      "crc32": "17befcd4",
+      "sha1": "3f28b857a995754a6892f6e95faedcf624e51d88",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T23:32:51.731660-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014385",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-28T23:32:51.731660-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-28T23:32:51.731660-04:00.jpg",
+      "mtime": "1667015537",
+      "size": "10010",
+      "md5": "22aa4e2428ba4c04af208b5d1a5cd716",
+      "crc32": "fb40b29f",
+      "sha1": "6763ce425273825983b1134cb6927e8eeb53245c"
+    },
+    {
+      "name": "theweek-2022-10-29T11:10:05.756947-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667056214",
+      "size": "30936",
+      "md5": "b755388b18dc5299d6d6032372320b76",
+      "crc32": "89e330e0",
+      "sha1": "0563c157a1ccdd3a1dc7b7ed90b5e7732b42a8fd",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-29T11:10:05.756947-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667056216",
+      "size": "15285",
+      "md5": "6a746d498455ef7d47df43f732f775ca",
+      "crc32": "aa39bd93",
+      "sha1": "7ea356e18aa9944e76acecd6a489267c8e6dd10e",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-29T11:10:05.756947-04:00.jpg",
+      "source": "original",
+      "mtime": "1667056213",
+      "size": "278421",
+      "md5": "b30aec9a4d57023183376ce520ea975d",
+      "crc32": "1f8259d2",
+      "sha1": "874c48e792e1eefa93cf9e6ac38d3819f425122e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-29T11:10:05.756947-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667056218",
+      "size": "1432",
+      "md5": "26938bd58ae4a53cdd38990913ad6a09",
+      "crc32": "fcc8f34e",
+      "sha1": "ae4db3503f7122e984e0eeda02e414bcf1587c48",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-29T11:10:05.756947-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667056221",
+      "size": "22455",
+      "md5": "a5c7b428476d6e2971b4a7900263b5ba",
+      "crc32": "21ed1a56",
+      "sha1": "2f8c7150ae753cf92f18abc2a854094902e7c1a6",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-29T11:10:05.756947-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-29T11:10:05.756947-04:00.jpg",
+      "mtime": "1667057028",
+      "size": "10189",
+      "md5": "d6bc36f4bc0fef7610b0e53d2439f225",
+      "crc32": "c27480d7",
+      "sha1": "fb365679466c8eefde5e2158a1a21309139caf90"
+    },
+    {
+      "name": "theweek-2022-10-29T23:30:23.669049-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100633",
+      "size": "31312",
+      "md5": "36da8c2f4b5345aefe39451e7b66cb62",
+      "crc32": "15deb162",
+      "sha1": "a63f01d5ce9b020e006ed66c4403dabf9f379bae",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-29T23:30:23.669049-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100634",
+      "size": "15358",
+      "md5": "4999cb16bdf486398de70f6d09478252",
+      "crc32": "73095771",
+      "sha1": "475572805e254aa27b5c430f24c34df417cf9f9d",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-29T23:30:23.669049-04:00.jpg",
+      "source": "original",
+      "mtime": "1667100631",
+      "size": "280505",
+      "md5": "604bf8e73439ad651c97b837babca66f",
+      "crc32": "d79c5a4c",
+      "sha1": "03df23e3b7004a87466ad071af4bdec8f977d84c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-29T23:30:23.669049-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100636",
+      "size": "1432",
+      "md5": "6e6d0421f4301ed059b5101752839f8d",
+      "crc32": "ea8aa826",
+      "sha1": "dfdf455c4bdd2a956edbdb50f88af43e9bdca688",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-29T23:30:23.669049-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100638",
+      "size": "16625",
+      "md5": "24cbda4984bc19ccd730414ce6d92044",
+      "crc32": "ae944421",
+      "sha1": "3d3db590fe7df4d531c9a84ff1e1eecfd58334fc",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-29T23:30:23.669049-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-29T23:30:23.669049-04:00.jpg",
+      "mtime": "1667101499",
+      "size": "10213",
+      "md5": "ddba09a26f9cb92edf79f4b65937cdcb",
+      "crc32": "77b4a886",
+      "sha1": "38c4cf34d6f216754575eb6280a37bd2476921b1"
+    },
+    {
+      "name": "theweek-2022-10-30T10:43:11.826296-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667141001",
+      "size": "31120",
+      "md5": "29a1b882df3b51712fd8c9fc0093feda",
+      "crc32": "50de4928",
+      "sha1": "2b2b8458d86a2fb8138d32158d8ff20e22e841df",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-30T10:43:11.826296-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667141003",
+      "size": "15295",
+      "md5": "5758d52b94ed0a5e3ce09f85c1d4d0d8",
+      "crc32": "f24d486d",
+      "sha1": "3eb899fd5417ad57a3c82baa652affcbd9a35fd9",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-30T10:43:11.826296-04:00.jpg",
+      "source": "original",
+      "mtime": "1667140999",
+      "size": "332014",
+      "md5": "582516d4a6cfab7836265047945dccb7",
+      "crc32": "5aa192f9",
+      "sha1": "76de4c56fd9628e00ecfe063900dac31b7acd84c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-30T10:43:11.826296-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667141005",
+      "size": "1432",
+      "md5": "19bcc5cb2afa7fca3340002babd173dd",
+      "crc32": "27837335",
+      "sha1": "ea96791d8335c2aba937b81bf00de562c882cfd9",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-30T10:43:11.826296-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667141007",
+      "size": "16875",
+      "md5": "a3fbd16402befafa448d562239405243",
+      "crc32": "b09a680d",
+      "sha1": "449654ce88736eca560210db6402ad22663f27b2",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-30T10:43:11.826296-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-30T10:43:11.826296-04:00.jpg",
+      "mtime": "1667141290",
+      "size": "10311",
+      "md5": "aea754c1bed57a3c227cfcc0e08f5e9c",
+      "crc32": "05e522ec",
+      "sha1": "1062118b56ba64223a802bb1884c92654ef81486"
+    },
+    {
+      "name": "theweek-2022-10-30T23:28:19.016687-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667186908",
+      "size": "31070",
+      "md5": "bf7187880a7379aa6c194313dee331f8",
+      "crc32": "83aaa3bd",
+      "sha1": "42a17f37624854521c54dd29570beed55ec53af8",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-30T23:28:19.016687-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667186909",
+      "size": "15354",
+      "md5": "b6ad2f0c962431fcb9eda9869ee1c53d",
+      "crc32": "7ef6ebf7",
+      "sha1": "a1451d9b7b758c363c1bc17d982315356e13663c",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-30T23:28:19.016687-04:00.jpg",
+      "source": "original",
+      "mtime": "1667186906",
+      "size": "329995",
+      "md5": "82c96f7fa54c1456b658a82cc72a1ea6",
+      "crc32": "772b86ca",
+      "sha1": "cf921bfd7123aaf26bb24cc4f5fc1d93e9625519",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-30T23:28:19.016687-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667186911",
+      "size": "1432",
+      "md5": "1d812d3139af3e3954091df21770633f",
+      "crc32": "86a7d8c6",
+      "sha1": "a1a1e23c1bc11f493e201a70fc57c6024e297cda",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-30T23:28:19.016687-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667186913",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-30T23:28:19.016687-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theweek-2022-10-30T23:28:19.016687-04:00.jpg",
+      "mtime": "1667189676",
+      "size": "10230",
+      "md5": "b641ff6bf2b898b32305537fb29b2550",
+      "crc32": "cdd50db6",
+      "sha1": "06d668dec460e17edf98a42e6776704482693ad3"
+    },
+    {
+      "name": "theweek-2022-10-31T11:02:59.115299-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667228585",
+      "size": "30985",
+      "md5": "0c719caf1db839efefb618c3efc32a4e",
+      "crc32": "7d5c2994",
+      "sha1": "dd1eeb9358cab1330eb2b00a87c21fb61677e82b",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-31T11:02:59.115299-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667228587",
+      "size": "15549",
+      "md5": "08927a40c72b5ab9db15def7be49e7ba",
+      "crc32": "1c338ee6",
+      "sha1": "76694b9fd223d48ea593e119576fa36ac70dcae9",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-31T11:02:59.115299-04:00.jpg",
+      "source": "original",
+      "mtime": "1667228583",
+      "size": "311312",
+      "md5": "df90b73612085a258c71d84ed123e9af",
+      "crc32": "ae60b6bd",
+      "sha1": "8510699c5abc1863cd6ffcf1859103f748641b2f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theweek-2022-10-31T11:02:59.115299-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667228589",
+      "size": "1432",
+      "md5": "6162f0e9bcb4179b25af0f3d786101a3",
+      "crc32": "c286ca77",
+      "sha1": "bc0d9fe495aca065aff8f3b5f6714c9a8fca8d71",
+      "format": "JSON"
+    },
+    {
+      "name": "theweek-2022-10-31T11:02:59.115299-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667228591",
+      "size": "24550",
+      "md5": "21abfdc96b19e73f6560679fd636bef9",
+      "crc32": "fb1452d7",
+      "sha1": "fcd7613e758f650647c173cb97baa7ceae396e74",
+      "format": "JSON"
+    },
+    {
       "name": "theweek-2022_archive.torrent",
       "source": "metadata",
-      "btih": "39885cd4b95bc77edf60543c75013e04e6e4e639",
-      "mtime": "1666709624",
-      "size": "168748",
-      "md5": "62a632ad8c50849210ce2450da392f0e",
-      "crc32": "6f8760dc",
-      "sha1": "6eacff1e328012a521efe6f86e738756364a58b2",
+      "btih": "7106b97bcb6d99f750ebfbcad374da277ad513a8",
+      "mtime": "1667228641",
+      "size": "183802",
+      "md5": "a8d767226391444358344c84b6659c27",
+      "crc32": "3d01a874",
+      "sha1": "ced35a1120da5824a23436a3c278d26ef7f150ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theweek-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3fe559b5860ab08953521b932fbe5a88",
+      "md5": "bc3393b26bde043deae205b56bfb20b9",
       "summation": "md5"
     },
     {
       "name": "theweek-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666709583",
-      "size": "1028096",
-      "md5": "33fa2b97a0f588a966ddb090bc7aaca1",
-      "crc32": "b1cbe162",
-      "sha1": "2714639efe363bfa290c72eecfce12c74f5511a9",
+      "mtime": "1667228600",
+      "size": "1118208",
+      "md5": "661d91f7a08e1979361e70f3393ae310",
+      "crc32": "436071f4",
+      "sha1": "a0d9a9cdfabdb2a424162818d00ccc04f16c8661",
       "format": "Metadata"
     },
     {
@@ -8311,9 +9055,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 804,
-  "item_last_updated": 1666709624,
-  "item_size": 49073619,
+  "files_count": 876,
+  "item_last_updated": 1667228641,
+  "item_size": 53464126,
   "metadata": {
     "identifier": "theweek-2022",
     "collection": [
@@ -8335,7 +9079,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451739612,
+      "task_id": 3457853466,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8343,7 +9087,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1542778964,
+  "uniq": 66846605,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

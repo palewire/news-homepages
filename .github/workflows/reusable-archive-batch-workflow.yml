@@ -187,7 +187,7 @@ jobs:
 
       - id: git-pull
         name: Git pull
-        run: git pull origin $GITHUB_REF
+        run: git pull origin main
         shell: bash
 
       - id: download-items
@@ -202,10 +202,10 @@ jobs:
       - id: git-commit-items
         name: Commit archive.org items
         run: |
-          git pull origin $GITHUB_REF
+          git pull origin main
           cp ./_dist/*.json extracts/json/
           git add ./extracts/json
           git commit -m "Update archive.org items" --author="palewire <palewire@users.noreply.github.com>"
-          git pull origin $GITHUB_REF
+          git pull origin main
           git push
         shell: bash

@@ -1,5 +1,5 @@
 {
-  "created": 1666695514,
+  "created": 1667256726,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/27/items/airlinereporter-2022",
@@ -8191,31 +8191,827 @@
       "format": "JSON"
     },
     {
+      "name": "airlinereporter-2022-10-25T03:55:52.770198-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-25T03:55:52.770198-07:00.jpg",
+      "mtime": "1666697349",
+      "size": "9555",
+      "md5": "8f5648e2b64d3ae83d8ada8936752d68",
+      "crc32": "0ff2e374",
+      "sha1": "d883a0f4c1a56a938bfcaf95c318e7a5e8236375"
+    },
+    {
+      "name": "airlinereporter-2022-10-25T15:56:32.125534-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738608",
+      "size": "36744",
+      "md5": "e08a4260f465d9917993ce1391bf9e12",
+      "crc32": "6e57dba9",
+      "sha1": "f1ab5e4967ecd9952912c0bb9139d1ccc503a54e",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-25T15:56:32.125534-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738609",
+      "size": "25781",
+      "md5": "e14c1f97de39815bf1a4a8b7a8305e42",
+      "crc32": "cae91c1b",
+      "sha1": "0c9a8f203872fed1b650c512e6802ca89a2f630b",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-25T15:56:32.125534-07:00.jpg",
+      "source": "original",
+      "mtime": "1666738606",
+      "size": "312632",
+      "md5": "0516dbddce2fa18df2376c3b6a3a2086",
+      "crc32": "e62890c2",
+      "sha1": "69ee5b9d3583c8aac9976c3886e3d494314cc8dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-25T15:56:32.125534-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738611",
+      "size": "17547",
+      "md5": "9d63b67af317f57cc86ea83f29f9d668",
+      "crc32": "a1c2cd9b",
+      "sha1": "6078896a0fc33643edc12017aa00205f38d87a51",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-25T15:56:32.125534-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-25T15:56:32.125534-07:00.jpg",
+      "mtime": "1666739901",
+      "size": "9584",
+      "md5": "fff08d8604cfc25089b1da55a3888655",
+      "crc32": "c73d879a",
+      "sha1": "ddc76a5fda7f1639099a1703e21b1f608b083ce3"
+    },
+    {
+      "name": "airlinereporter-2022-10-26T03:52:00.303160-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781531",
+      "size": "36744",
+      "md5": "e08a4260f465d9917993ce1391bf9e12",
+      "crc32": "6e57dba9",
+      "sha1": "f1ab5e4967ecd9952912c0bb9139d1ccc503a54e",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-26T03:52:00.303160-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781533",
+      "size": "25781",
+      "md5": "e14c1f97de39815bf1a4a8b7a8305e42",
+      "crc32": "cae91c1b",
+      "sha1": "0c9a8f203872fed1b650c512e6802ca89a2f630b",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-26T03:52:00.303160-07:00.jpg",
+      "source": "original",
+      "mtime": "1666781530",
+      "size": "308223",
+      "md5": "fcbe09575346be8470219390536fc239",
+      "crc32": "93b391bf",
+      "sha1": "aa41d35fbcc22af1b15699f24a933508d9b40ff9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-26T03:52:00.303160-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781534",
+      "size": "1540",
+      "md5": "64287693e0ee274f42da34c8e007cd37",
+      "crc32": "f2f7d878",
+      "sha1": "f447f1732093d8c628b3f3d774d628f8db0a01eb",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-26T03:52:00.303160-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781535",
+      "size": "18393",
+      "md5": "7639a5d058b068ef466c3d52eea776f2",
+      "crc32": "4ea0b716",
+      "sha1": "f1146277acb7e9e117ce7b3080ce692ad8e37aa9",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-26T03:52:00.303160-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-26T03:52:00.303160-07:00.jpg",
+      "mtime": "1666782798",
+      "size": "9603",
+      "md5": "5095d12f6c4faf940ba0fb1839c89835",
+      "crc32": "9de43e70",
+      "sha1": "01918ae3899785c675e226f70cdbdcd8acc766bd"
+    },
+    {
+      "name": "airlinereporter-2022-10-26T15:54:44.567134-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666824915",
+      "size": "36744",
+      "md5": "e08a4260f465d9917993ce1391bf9e12",
+      "crc32": "6e57dba9",
+      "sha1": "f1ab5e4967ecd9952912c0bb9139d1ccc503a54e",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-26T15:54:44.567134-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666824916",
+      "size": "25781",
+      "md5": "e14c1f97de39815bf1a4a8b7a8305e42",
+      "crc32": "cae91c1b",
+      "sha1": "0c9a8f203872fed1b650c512e6802ca89a2f630b",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-26T15:54:44.567134-07:00.jpg",
+      "source": "original",
+      "mtime": "1666824913",
+      "size": "305082",
+      "md5": "bf0c3fef032dd153316000a1b799aa08",
+      "crc32": "79f849d4",
+      "sha1": "f26ca642d5cc4549bef255467e5611e8a7fdf9ab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-26T15:54:44.567134-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666824918",
+      "size": "1540",
+      "md5": "e66085b657b780f762dfe6a7bb0d898d",
+      "crc32": "2ec4fafc",
+      "sha1": "fe0d7b1000a045413fee73c47b865ca4ac3cef8f",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-26T15:54:44.567134-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666824920",
+      "size": "18161",
+      "md5": "daf37c99998ff3405d6ab86dea6f9939",
+      "crc32": "5e654858",
+      "sha1": "13ada1ca2e028f326dc9c06c56e34eea00cf8107",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-26T15:54:44.567134-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-26T15:54:44.567134-07:00.jpg",
+      "mtime": "1666849081",
+      "size": "9463",
+      "md5": "c2b268352611e9c431dd6e7ef74c6e60",
+      "crc32": "11ac07cf",
+      "sha1": "19b95631b90e79499a32957bb2d88577d06ad3f4"
+    },
+    {
+      "name": "airlinereporter-2022-10-27T04:00:22.530812-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666868426",
+      "size": "36744",
+      "md5": "e08a4260f465d9917993ce1391bf9e12",
+      "crc32": "6e57dba9",
+      "sha1": "f1ab5e4967ecd9952912c0bb9139d1ccc503a54e",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-27T04:00:22.530812-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666868428",
+      "size": "25781",
+      "md5": "e14c1f97de39815bf1a4a8b7a8305e42",
+      "crc32": "cae91c1b",
+      "sha1": "0c9a8f203872fed1b650c512e6802ca89a2f630b",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-27T04:00:22.530812-07:00.jpg",
+      "source": "original",
+      "mtime": "1666868424",
+      "size": "305066",
+      "md5": "8652d1696d9e45c557ec384798a871e9",
+      "crc32": "720fbab1",
+      "sha1": "6e97ecdc80f3c7ded5425c1e500584ae83041159",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-27T04:00:22.530812-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666868429",
+      "size": "1540",
+      "md5": "9cbdcff037b9f16b297408820e42ccce",
+      "crc32": "4cd8c5c0",
+      "sha1": "fab2844493a272184b8e0ef3eeb5478509accfd9",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-27T04:00:22.530812-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666868431",
+      "size": "18304",
+      "md5": "30f99351647cc837aa9d9d99820c5705",
+      "crc32": "f52dcf4c",
+      "sha1": "a8618a52cc283e014c90b620701922a8a9b44ee2",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-27T04:00:22.530812-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-27T04:00:22.530812-07:00.jpg",
+      "mtime": "1666886773",
+      "size": "9462",
+      "md5": "7a2639578bf034efbba3199c786f29c1",
+      "crc32": "39fe5b7e",
+      "sha1": "7f7befbdcdfe9d803b59bb20b0f18a7ea684fc35"
+    },
+    {
+      "name": "airlinereporter-2022-10-27T15:45:29.924404-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910736",
+      "size": "36744",
+      "md5": "e08a4260f465d9917993ce1391bf9e12",
+      "crc32": "6e57dba9",
+      "sha1": "f1ab5e4967ecd9952912c0bb9139d1ccc503a54e",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-27T15:45:29.924404-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910738",
+      "size": "25781",
+      "md5": "e14c1f97de39815bf1a4a8b7a8305e42",
+      "crc32": "cae91c1b",
+      "sha1": "0c9a8f203872fed1b650c512e6802ca89a2f630b",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-27T15:45:29.924404-07:00.jpg",
+      "source": "original",
+      "mtime": "1666910734",
+      "size": "305041",
+      "md5": "983a2a79b64e16231f7e1c0764083291",
+      "crc32": "7dbc2724",
+      "sha1": "7f4780dbf5161b1b16a1d9e4d9106ec7bade0a38",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-27T15:45:29.924404-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910740",
+      "size": "1539",
+      "md5": "99c4f9c67ff118635c29e3b88bd0ca88",
+      "crc32": "f84ab4cb",
+      "sha1": "5b146a26199fbab6d5352cfe8b59c7576d8e976d",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-27T15:45:29.924404-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910742",
+      "size": "18816",
+      "md5": "0d8b6749c11621e976d57b9ec457d1bc",
+      "crc32": "c96fece1",
+      "sha1": "a4fd0bde176edeb5c90c930ba086b83f3d892959",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-27T15:45:29.924404-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-27T15:45:29.924404-07:00.jpg",
+      "mtime": "1666913158",
+      "size": "9475",
+      "md5": "f705c015a0c09a5ba16e98b08cd1e274",
+      "crc32": "9abe0d4c",
+      "sha1": "99c90147d3d0098b9b36ac4e44cd0768b8559b52"
+    },
+    {
+      "name": "airlinereporter-2022-10-28T03:52:19.043279-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666954351",
+      "size": "36847",
+      "md5": "34ae7b5ce514b43a572efbf1a35b6fe7",
+      "crc32": "e496318c",
+      "sha1": "c49d6be18325c24630a63100ad9e31b5a7315b89",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-28T03:52:19.043279-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666954353",
+      "size": "25767",
+      "md5": "9906e3df7ebca85ef4076c26afd6b8c2",
+      "crc32": "7cfde003",
+      "sha1": "9ecd8f7fd4bdce6141eb42c2e4d5a63e1fb316bd",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-28T03:52:19.043279-07:00.jpg",
+      "source": "original",
+      "mtime": "1666954350",
+      "size": "305041",
+      "md5": "983a2a79b64e16231f7e1c0764083291",
+      "crc32": "7dbc2724",
+      "sha1": "7f4780dbf5161b1b16a1d9e4d9106ec7bade0a38",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-28T03:52:19.043279-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666954355",
+      "size": "1540",
+      "md5": "ae9a5a2f17d7883a0e37c2b5383c8d37",
+      "crc32": "ad96c0b3",
+      "sha1": "9181a13d06ee696ce2cbd625a453b57bedb0365f",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-28T03:52:19.043279-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666954358",
+      "size": "18256",
+      "md5": "583c43bea30e2877c2116e964d9af4c9",
+      "crc32": "19a1e2d7",
+      "sha1": "9931c614dadfff34f2eb560608c780fe85b7ae0e",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-28T03:52:19.043279-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-28T03:52:19.043279-07:00.jpg",
+      "mtime": "1666959853",
+      "size": "9475",
+      "md5": "f705c015a0c09a5ba16e98b08cd1e274",
+      "crc32": "9abe0d4c",
+      "sha1": "99c90147d3d0098b9b36ac4e44cd0768b8559b52"
+    },
+    {
+      "name": "airlinereporter-2022-10-28T16:04:03.774785-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666998250",
+      "size": "36854",
+      "md5": "ddb91a6842316ed55af37f40b2696bc1",
+      "crc32": "dde2b2d8",
+      "sha1": "1bd810495145b65ce8a96fc081bbae391ea0ef2f",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-28T16:04:03.774785-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666998252",
+      "size": "25767",
+      "md5": "9906e3df7ebca85ef4076c26afd6b8c2",
+      "crc32": "7cfde003",
+      "sha1": "9ecd8f7fd4bdce6141eb42c2e4d5a63e1fb316bd",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-28T16:04:03.774785-07:00.jpg",
+      "source": "original",
+      "mtime": "1666998248",
+      "size": "301489",
+      "md5": "945c5112a57bd9e9f72992aaac0a3b2f",
+      "crc32": "0a895c17",
+      "sha1": "2f611a3d9ce66a263a99fadabb0538ef8facdb07",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-28T16:04:03.774785-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666998254",
+      "size": "1539",
+      "md5": "6c55d539f7c1480f5c3b21b52f0a6971",
+      "crc32": "42a05aca",
+      "sha1": "dbd21fda36c0d7156e1811598ff554125abf9df1",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-28T16:04:03.774785-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666998255",
+      "size": "212",
+      "md5": "8999e1c940c77d1060c8c9d162faa0cc",
+      "crc32": "c8f97757",
+      "sha1": "89891942d3e8c9f7573365eb1874aa2521ffbddc",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-28T16:04:03.774785-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-28T16:04:03.774785-07:00.jpg",
+      "mtime": "1666999412",
+      "size": "9513",
+      "md5": "d322444df730a9f08475b3f497c3f131",
+      "crc32": "5cf7fa7e",
+      "sha1": "2919d29e73aef191e67fd81ada84191cc5039b12"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T03:49:50.471978-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040599",
+      "size": "36664",
+      "md5": "2954ec593f317e1a0e7f223787eca98e",
+      "crc32": "65753607",
+      "sha1": "78982ab953c9c75fc8dc3c30ad586a4c79a39234",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T03:49:50.471978-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040601",
+      "size": "25672",
+      "md5": "7c0449a2c3282283b61b0ff7e2aa96a0",
+      "crc32": "1f234b67",
+      "sha1": "439663186c0fb3ff9ab06d946803c444d2f906f4",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T03:49:50.471978-07:00.jpg",
+      "source": "original",
+      "mtime": "1667040598",
+      "size": "301520",
+      "md5": "bd6e223261dc35d4f155d45e7e340b31",
+      "crc32": "65bbbff7",
+      "sha1": "bdc5d34b299042ba2d7990116d85ca6ef5ae697c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T03:49:50.471978-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040602",
+      "size": "1540",
+      "md5": "697d4634b713c4a8a8a04323c478835c",
+      "crc32": "604e21ac",
+      "sha1": "c4f2e703e8971b519bcbf7395e3ade26c05c7f04",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T03:49:50.471978-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040604",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T03:49:50.471978-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-29T03:49:50.471978-07:00.jpg",
+      "mtime": "1667041228",
+      "size": "9524",
+      "md5": "e14a4151ab2c85ae359fb78dbfb133ac",
+      "crc32": "39ebcc54",
+      "sha1": "098e71f7cbf5c12b2a4c2b22751c5d689c5a8bae"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T15:50:40.680135-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667083848",
+      "size": "36664",
+      "md5": "2954ec593f317e1a0e7f223787eca98e",
+      "crc32": "65753607",
+      "sha1": "78982ab953c9c75fc8dc3c30ad586a4c79a39234",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T15:50:40.680135-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667083849",
+      "size": "25672",
+      "md5": "7c0449a2c3282283b61b0ff7e2aa96a0",
+      "crc32": "1f234b67",
+      "sha1": "439663186c0fb3ff9ab06d946803c444d2f906f4",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T15:50:40.680135-07:00.jpg",
+      "source": "original",
+      "mtime": "1667083847",
+      "size": "304135",
+      "md5": "46c50783b846808ffccf3d9c5b5e6ae6",
+      "crc32": "b4e8fe36",
+      "sha1": "4f58026606878a3b9c13b698d5e3e8c3a063f5f5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T15:50:40.680135-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667083851",
+      "size": "1539",
+      "md5": "d6f9ae9bc8beb5b9255cc6f081b889ce",
+      "crc32": "1658eefe",
+      "sha1": "921cbea6e3540be576e892af6a53a5619c77480d",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T15:50:40.680135-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667083852",
+      "size": "18854",
+      "md5": "793080e4a6b06136a8977f88641ad0a3",
+      "crc32": "63d6a905",
+      "sha1": "e042642312efd977fa4e8f1defa239c769251b67",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-29T15:50:40.680135-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-29T15:50:40.680135-07:00.jpg",
+      "mtime": "1667084838",
+      "size": "9543",
+      "md5": "17d22092605305090ed2dbfcb366fe02",
+      "crc32": "4d16ef73",
+      "sha1": "5167d75aa00eb3dea1fb794e150c6d7790180e35"
+    },
+    {
+      "name": "airlinereporter-2022-10-30T03:43:56.709191-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126647",
+      "size": "36664",
+      "md5": "2954ec593f317e1a0e7f223787eca98e",
+      "crc32": "65753607",
+      "sha1": "78982ab953c9c75fc8dc3c30ad586a4c79a39234",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-30T03:43:56.709191-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126648",
+      "size": "25672",
+      "md5": "7c0449a2c3282283b61b0ff7e2aa96a0",
+      "crc32": "1f234b67",
+      "sha1": "439663186c0fb3ff9ab06d946803c444d2f906f4",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-30T03:43:56.709191-07:00.jpg",
+      "source": "original",
+      "mtime": "1667126645",
+      "size": "304157",
+      "md5": "565956d97d9172b8d500cfc341219d63",
+      "crc32": "877f49aa",
+      "sha1": "095fbce7c2a46fffea51cb5c8cc79ac88a7a39a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-30T03:43:56.709191-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126650",
+      "size": "1538",
+      "md5": "bca4cffbac1d3c7abe80a75349389d40",
+      "crc32": "dddda6f9",
+      "sha1": "41df16d744ff7417b052830fbfaf28856c84e441",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-30T03:43:56.709191-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126652",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-30T03:43:56.709191-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-30T03:43:56.709191-07:00.jpg",
+      "mtime": "1667126823",
+      "size": "9556",
+      "md5": "5bf16fda65ce272411997ca8ea30a8f5",
+      "crc32": "8b60f1e1",
+      "sha1": "e41119cccced8a7d23f134f2a6b7da6aa04a4eb1"
+    },
+    {
+      "name": "airlinereporter-2022-10-30T15:39:26.591148-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667169571",
+      "size": "36664",
+      "md5": "2954ec593f317e1a0e7f223787eca98e",
+      "crc32": "65753607",
+      "sha1": "78982ab953c9c75fc8dc3c30ad586a4c79a39234",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-30T15:39:26.591148-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667169573",
+      "size": "25672",
+      "md5": "7c0449a2c3282283b61b0ff7e2aa96a0",
+      "crc32": "1f234b67",
+      "sha1": "439663186c0fb3ff9ab06d946803c444d2f906f4",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-30T15:39:26.591148-07:00.jpg",
+      "source": "original",
+      "mtime": "1667169570",
+      "size": "304179",
+      "md5": "0d9eeec0c840de1909f46ad0f91bf7d5",
+      "crc32": "d463a247",
+      "sha1": "d4d3b17b9af8cfef35974d5a1ec4f1c09e9a5200",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-30T15:39:26.591148-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667169574",
+      "size": "1538",
+      "md5": "dabb9ae8226cc2b046f70eef322092fc",
+      "crc32": "1c1b6324",
+      "sha1": "a1283148c3730e71e0b881dce1c00913b9c87de2",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-30T15:39:26.591148-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667169575",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-30T15:39:26.591148-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-30T15:39:26.591148-07:00.jpg",
+      "mtime": "1667170005",
+      "size": "9563",
+      "md5": "d21562078b4271e312b05c3b0242f9dd",
+      "crc32": "bae1baed",
+      "sha1": "d8c495b244b8d3fdd56d6472dfff7cf2094fc245"
+    },
+    {
+      "name": "airlinereporter-2022-10-31T03:46:34.717846-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667213199",
+      "size": "36939",
+      "md5": "15165947ecdcfcfeeb86188f5e4f44a6",
+      "crc32": "b2400f33",
+      "sha1": "80b2c19d95d37d23a0a188613db783737a34fe89",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-31T03:46:34.717846-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667213201",
+      "size": "25632",
+      "md5": "e19bf209f7002b4e09d23184ea2b3331",
+      "crc32": "27400f33",
+      "sha1": "252ed08fe1b6f78a1ed585106d9deadd01263aef",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-31T03:46:34.717846-07:00.jpg",
+      "source": "original",
+      "mtime": "1667213198",
+      "size": "304179",
+      "md5": "4d8edad196938b4f587148ca3b13fcdb",
+      "crc32": "9b0de58e",
+      "sha1": "956a3633c500a9506ea5afaf2a81d0dde46c08ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-31T03:46:34.717846-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667213202",
+      "size": "1540",
+      "md5": "da0b7261b4bbac6248be65851299e136",
+      "crc32": "ff7e9c46",
+      "sha1": "5a02e534ac411c04b0fc59fb54615b4e6dc17a00",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-31T03:46:34.717846-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667213204",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-31T03:46:34.717846-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "airlinereporter-2022-10-31T03:46:34.717846-07:00.jpg",
+      "mtime": "1667213790",
+      "size": "9563",
+      "md5": "d21562078b4271e312b05c3b0242f9dd",
+      "crc32": "bae1baed",
+      "sha1": "d8c495b244b8d3fdd56d6472dfff7cf2094fc245"
+    },
+    {
+      "name": "airlinereporter-2022-10-31T15:50:55.616629-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667256665",
+      "size": "36939",
+      "md5": "15165947ecdcfcfeeb86188f5e4f44a6",
+      "crc32": "b2400f33",
+      "sha1": "80b2c19d95d37d23a0a188613db783737a34fe89",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-31T15:50:55.616629-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667256667",
+      "size": "25632",
+      "md5": "e19bf209f7002b4e09d23184ea2b3331",
+      "crc32": "27400f33",
+      "sha1": "252ed08fe1b6f78a1ed585106d9deadd01263aef",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-31T15:50:55.616629-07:00.jpg",
+      "source": "original",
+      "mtime": "1667256663",
+      "size": "304234",
+      "md5": "6b7b5a075918186a088cd8b71bfc0ed6",
+      "crc32": "494fad74",
+      "sha1": "0c930262fd0efbc72e846613b4572fd068c373e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "airlinereporter-2022-10-31T15:50:55.616629-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667256671",
+      "size": "1538",
+      "md5": "edcfb1a651746387731a8c7d9c611fe3",
+      "crc32": "6b82c6db",
+      "sha1": "65a9d5c04a0f12ad2b1920a0385bd6df5ac369b0",
+      "format": "JSON"
+    },
+    {
+      "name": "airlinereporter-2022-10-31T15:50:55.616629-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667256673",
+      "size": "18568",
+      "md5": "46f8e47b8184e29cb84fbb0b293c6330",
+      "crc32": "b769aa6d",
+      "sha1": "31ab3c496e449b930c4eca0e8a771db1b8a9566c",
+      "format": "JSON"
+    },
+    {
       "name": "airlinereporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "461c774da4f1e28dffb766c35db3b1c49a305294",
-      "mtime": "1666695507",
-      "size": "173639",
-      "md5": "6c9957f864bb0b52f1740a359519c9c6",
-      "crc32": "24692cc4",
-      "sha1": "52ba2c7fb5254d8f1909767fbce6af5466858c0c",
+      "btih": "813d1b62155e9053b742a3665852089254e02254",
+      "mtime": "1667256721",
+      "size": "190369",
+      "md5": "b1351fde08025631d23e2f1727e35726",
+      "crc32": "c7c83b3a",
+      "sha1": "9a8b49b34a7a3ca41173044037c1549b5d8528e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "airlinereporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3ee7bb5fb1319efca3c90de6a2d37b27",
+      "md5": "b1bbf7005280772629fb417324ef5f1d",
       "summation": "md5"
     },
     {
       "name": "airlinereporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695463",
-      "size": "1032192",
-      "md5": "fd98541de4c5e2fa3e980a8b7eafb7e9",
-      "crc32": "1dcb98a4",
-      "sha1": "52ac76abeff0846e0753184565e6d7b67081e64e",
+      "mtime": "1667256677",
+      "size": "1130496",
+      "md5": "fb02485013c25f70e10821d131425116",
+      "crc32": "dd199a2f",
+      "sha1": "5f37c91fa10ecf79be7bf3d36e2498bad515b28d",
       "format": "Metadata"
     },
     {
@@ -8229,9 +9025,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 796,
-  "item_last_updated": 1666695507,
-  "item_size": 52833006,
+  "files_count": 873,
+  "item_last_updated": 1667256721,
+  "item_size": 58015633,
   "metadata": {
     "identifier": "airlinereporter-2022",
     "collection": [
@@ -8253,15 +9049,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451503073,
+      "task_id": 3458210534,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 474665212,
+  "uniq": 1733855674,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

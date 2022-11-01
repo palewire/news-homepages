@@ -1,5 +1,6 @@
 {
-  "created": 1666701000,
+  "conflict": 1667260539,
+  "created": 1667260080,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/diariope-2022",
@@ -14763,31 +14764,1333 @@
       "format": "JSON"
     },
     {
+      "name": "diariope-2022-10-25T09:08:44.154929-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-25T09:08:44.154929-03:00.jpg",
+      "mtime": "1666704411",
+      "size": "9424",
+      "md5": "954c0ec3e20abdaf610cbaf627b73ec2",
+      "crc32": "e5923978",
+      "sha1": "25c3f1bb42c739047963490b647b3fb59f0e8d19"
+    },
+    {
+      "name": "diariope-2022-10-25T21:02:17.135044-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666742550",
+      "size": "124147",
+      "md5": "2f4235f8aa0855dd6ad17ffc8d074777",
+      "crc32": "01a44f10",
+      "sha1": "cf6f854267fcaf8a19bdf3c1ce46a7ffcb2fdf51",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-25T21:02:17.135044-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666742552",
+      "size": "148812",
+      "md5": "c778c2bdc9f60aa7a50189c2a289bbc4",
+      "crc32": "04d25cc7",
+      "sha1": "ea111894e6b08cecb47c4842ee9748d3b5728de1",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-25T21:02:17.135044-03:00.jpg",
+      "source": "original",
+      "mtime": "1666742548",
+      "size": "275912",
+      "md5": "be1918a3fe8cb5481aaf70f242bb1cc9",
+      "crc32": "a4d3deaa",
+      "sha1": "e570558b138515431c213a62e93370ae8073935d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-25T21:02:17.135044-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666742554",
+      "size": "1591",
+      "md5": "47f31236d6b964ec99b7a9156bf0675a",
+      "crc32": "ea1abc8b",
+      "sha1": "92160d4a3764bc369fb4fc638be5be3ba324f8fb",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-25T21:02:17.135044-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666742556",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-25T21:02:17.135044-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-25T21:02:17.135044-03:00.jpg",
+      "mtime": "1666745657",
+      "size": "9408",
+      "md5": "0ddaa9ed15fa1c4fa928ce4c668849ed",
+      "crc32": "fc879c5c",
+      "sha1": "6099d984ad94b4378af4414ce7b682fec40d8a2c"
+    },
+    {
+      "name": "diariope-2022-10-26T09:02:07.086959-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666785752",
+      "size": "121145",
+      "md5": "f4320a9801d98e76e133202915c6401c",
+      "crc32": "76199366",
+      "sha1": "358b1013a97f5222c82a3cb6326167fbddf7537b",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-26T09:02:07.086959-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666785754",
+      "size": "145519",
+      "md5": "765d08b8c2852dc704dc43384b14ce76",
+      "crc32": "339b8439",
+      "sha1": "d406faf20c4dbb5ed653893633c23ef9c7439eb1",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-26T09:02:07.086959-03:00.jpg",
+      "source": "original",
+      "mtime": "1666785750",
+      "size": "254537",
+      "md5": "5aaf2f4b20bd3107ed7d670919c4eb94",
+      "crc32": "e34b493c",
+      "sha1": "81e2a1786926d3463a0c174c4d0da97c05a0bc0e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-26T09:02:07.086959-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666785755",
+      "size": "1590",
+      "md5": "b44b69dfc7036ad6a4f767a604232fd6",
+      "crc32": "3f6e1553",
+      "sha1": "ae1feb6b86f45beb51090a4b22d6ccae5a4ad282",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-26T09:02:07.086959-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666785757",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-26T09:02:07.086959-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-26T09:02:07.086959-03:00.jpg",
+      "mtime": "1666786085",
+      "size": "9275",
+      "md5": "d9825b0ed88c8b008a66ab34fd3c76e5",
+      "crc32": "3bbe92e6",
+      "sha1": "4af031b5bc19eecc7b6c169204130dfd2fc446ac"
+    },
+    {
+      "name": "diariope-2022-10-26T09:06:59.576974-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666786023",
+      "size": "123740",
+      "md5": "bf6262db3ec3ff3d4cf43700ab5d0ef5",
+      "crc32": "657d2e63",
+      "sha1": "57ef64d7da2a228dd1c3b707f03153ad1190484f",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-26T09:06:59.576974-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666786025",
+      "size": "147940",
+      "md5": "d042922ab3c50fe409bcd20905ce289a",
+      "crc32": "b1b46a4e",
+      "sha1": "b2b6255955a96b57d15afcbd2443710ae9da072b",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-26T09:06:59.576974-03:00.jpg",
+      "source": "original",
+      "mtime": "1666786021",
+      "size": "254537",
+      "md5": "5aaf2f4b20bd3107ed7d670919c4eb94",
+      "crc32": "e34b493c",
+      "sha1": "81e2a1786926d3463a0c174c4d0da97c05a0bc0e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-26T09:06:59.576974-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666786027",
+      "size": "1592",
+      "md5": "ba124230522e691d31d20fc08bb327b3",
+      "crc32": "b49ec94e",
+      "sha1": "e1210e1193f57f3e9e5fcf68918ff96f89550dff",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-26T09:06:59.576974-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666786029",
+      "size": "83125",
+      "md5": "36db16457d9c3b64ae13cb50deb6303d",
+      "crc32": "af6cbe24",
+      "sha1": "52c4d0979dd6d3d97d753ceff37a492644a654a4",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-26T09:06:59.576974-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-26T09:06:59.576974-03:00.jpg",
+      "mtime": "1666788050",
+      "size": "9275",
+      "md5": "d9825b0ed88c8b008a66ab34fd3c76e5",
+      "crc32": "3bbe92e6",
+      "sha1": "4af031b5bc19eecc7b6c169204130dfd2fc446ac"
+    },
+    {
+      "name": "diariope-2022-10-26T20:51:13.627755-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828298",
+      "size": "124850",
+      "md5": "a6a182cdac31c31d299c0ed7b109d49d",
+      "crc32": "b6300fb5",
+      "sha1": "db6ae60c791c31018ba775ad70370ca75f6c72c5",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-26T20:51:13.627755-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828300",
+      "size": "148219",
+      "md5": "7f8c201da253144bfe2f139fce7b54ba",
+      "crc32": "783fe59f",
+      "sha1": "8a77b9ca47336a182371d5ef8f20dfe70bd6875d",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-26T20:51:13.627755-03:00.jpg",
+      "source": "original",
+      "mtime": "1666828296",
+      "size": "262267",
+      "md5": "bf9f7291475b4ae54d114e3cf2219b95",
+      "crc32": "993c596d",
+      "sha1": "130854e05b8d9b82d6e3ed057fca987a709d3d7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-26T20:51:13.627755-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828302",
+      "size": "1591",
+      "md5": "cf755606c843bf904fbc48cbe678cb8d",
+      "crc32": "a1b7d29f",
+      "sha1": "3817da978a0b04d371a553b198addadf4727736b",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-26T20:51:13.627755-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828303",
+      "size": "84700",
+      "md5": "3c62d9e4158af7a77e3bcf08d5b793be",
+      "crc32": "236c1ea3",
+      "sha1": "ac127ff6b00e39b4492f881051290702097cc63c",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-26T20:51:13.627755-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-26T20:51:13.627755-03:00.jpg",
+      "mtime": "1666853028",
+      "size": "9842",
+      "md5": "f785e977a884f36fa357a8fa8a1ca948",
+      "crc32": "2782f080",
+      "sha1": "c22c794fc844b9fc90c1f0fd369686e40d6895df"
+    },
+    {
+      "name": "diariope-2022-10-27T09:06:44.371133-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872407",
+      "size": "122410",
+      "md5": "6352592f9ea037a9dd48736b29d98512",
+      "crc32": "16ee2835",
+      "sha1": "ed705d583b8a71818cf028d3ea51d67d31552d4f",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-27T09:06:44.371133-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872409",
+      "size": "147323",
+      "md5": "b14de742b8537817203920be127743ce",
+      "crc32": "cf86cc68",
+      "sha1": "2364dc558cba22c80f567499107c4e29a5336eb9",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-27T09:06:44.371133-03:00.jpg",
+      "source": "original",
+      "mtime": "1666872406",
+      "size": "261141",
+      "md5": "34085219057e7ec1b7eadebcc0637db5",
+      "crc32": "96887748",
+      "sha1": "b9b7b7784379b93031f15a5991cf9cd7b3adfaad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-27T09:06:44.371133-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872411",
+      "size": "1591",
+      "md5": "685c8921b1e6632ecf388fa7b4f270a1",
+      "crc32": "443f9d15",
+      "sha1": "79152aa0be7b74e9133ecf42d3ec43b2c903bf09",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-27T09:06:44.371133-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666872413",
+      "size": "74635",
+      "md5": "bed1a27cb101e7a7f93239d362dc2b6e",
+      "crc32": "6c3dc92d",
+      "sha1": "2588c5e8b7bdf98420b7ccedb574f5dbbd243086",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-27T09:06:44.371133-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-27T09:06:44.371133-03:00.jpg",
+      "mtime": "1666872865",
+      "size": "9834",
+      "md5": "563620cc3b3e70b484154733297d54d5",
+      "crc32": "7a8490da",
+      "sha1": "29d0cc485c123d127031a93f8f1fc829c7a313b4"
+    },
+    {
+      "name": "diariope-2022-10-27T09:13:08.513412-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872792",
+      "size": "123327",
+      "md5": "060f1d0bdb14df2a65edd076b469adf3",
+      "crc32": "3ca65163",
+      "sha1": "a84d6156ba9ba0b1a15b9123805298db19a02296",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-27T09:13:08.513412-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872794",
+      "size": "148109",
+      "md5": "63db5b3c904e27031a4c1a7d67f6be3d",
+      "crc32": "3a03953f",
+      "sha1": "e799eb0c26c980cbbc86c3a33bdf42639dd7d80d",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-27T09:13:08.513412-03:00.jpg",
+      "source": "original",
+      "mtime": "1666872790",
+      "size": "261141",
+      "md5": "34085219057e7ec1b7eadebcc0637db5",
+      "crc32": "96887748",
+      "sha1": "b9b7b7784379b93031f15a5991cf9cd7b3adfaad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-27T09:13:08.513412-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872796",
+      "size": "1590",
+      "md5": "311437bb1d35dac976f29cf80f5727ec",
+      "crc32": "f754ae3f",
+      "sha1": "efb7a0c6142e1bdb92b62c154b16cc6d0199a5ab",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-27T09:13:08.513412-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666872797",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-27T09:13:08.513412-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-27T09:13:08.513412-03:00.jpg",
+      "mtime": "1666889473",
+      "size": "9834",
+      "md5": "563620cc3b3e70b484154733297d54d5",
+      "crc32": "7a8490da",
+      "sha1": "29d0cc485c123d127031a93f8f1fc829c7a313b4"
+    },
+    {
+      "name": "diariope-2022-10-27T20:37:32.569714-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666913877",
+      "size": "124693",
+      "md5": "eaf05ececc6f071e3cb8f6951d777b3d",
+      "crc32": "5800fbbb",
+      "sha1": "98e7b0a0531762f6b554af1a0b94d60b86334d0d",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-27T20:37:32.569714-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666913879",
+      "size": "148095",
+      "md5": "272f0a6dab06ba842fe5a95cd2e220c9",
+      "crc32": "af9be6b3",
+      "sha1": "ae10aa6d170100ee2984e1aef8c832f4953cc597",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-27T20:37:32.569714-03:00.jpg",
+      "source": "original",
+      "mtime": "1666913875",
+      "size": "259512",
+      "md5": "a9e39c507356826867afd57345e5f21a",
+      "crc32": "12836ac1",
+      "sha1": "416be90b6c3a6255c325bdf0b67e2fb044976dec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-27T20:37:32.569714-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666913880",
+      "size": "1591",
+      "md5": "c44f770a556770ac34d3aae91bb52f69",
+      "crc32": "011910a7",
+      "sha1": "fecf8401186dcdff67eae9dd73e889978a639b5a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-27T20:37:32.569714-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666913884",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-27T20:37:32.569714-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-27T20:37:32.569714-03:00.jpg",
+      "mtime": "1666915200",
+      "size": "9423",
+      "md5": "fb9f31273b135945a2813dfd89ac9b12",
+      "crc32": "00726116",
+      "sha1": "6bfd6aecb9f27e5c0113d416eb2ae83e731f2a53"
+    },
+    {
+      "name": "diariope-2022-10-28T08:47:25.272474-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666957675",
+      "size": "118061",
+      "md5": "6887d7f21a3395ae72c51719f5b5f875",
+      "crc32": "1f2e3435",
+      "sha1": "5e8d366ca33bef16c7d122662e73992766355261",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-28T08:47:25.272474-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666957677",
+      "size": "142335",
+      "md5": "db9fbe867110e06e922592cb1ae63972",
+      "crc32": "a5ab2c98",
+      "sha1": "03283b505301016aa671a1ed1eebe56e8a17bae8",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-28T08:47:25.272474-03:00.jpg",
+      "source": "original",
+      "mtime": "1666957673",
+      "size": "272387",
+      "md5": "a5584876930cc4cfa21d98502f6fb322",
+      "crc32": "91bc0ab8",
+      "sha1": "4242207f59ff67bd1b5554800a439b94f5420f54",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-28T08:47:25.272474-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666957678",
+      "size": "1591",
+      "md5": "4b96df08037d1b9d437b90ef45403af1",
+      "crc32": "601e0720",
+      "sha1": "7ddea74da5e8d022f491da99ef740bd5aa34c755",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-28T08:47:25.272474-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666957680",
+      "size": "76604",
+      "md5": "bb4668a741e56a90a930466bd0c5ce69",
+      "crc32": "88091c00",
+      "sha1": "35f15ee7fbec20b06e7940f36fed6170e3615337",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-28T08:47:25.272474-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-28T08:47:25.272474-03:00.jpg",
+      "mtime": "1666958039",
+      "size": "9574",
+      "md5": "c323a4b93f57688331cf2c94939965fc",
+      "crc32": "64b8db93",
+      "sha1": "f0f833a8f960308a5180bbd64b172bd9fd1cc9c1"
+    },
+    {
+      "name": "diariope-2022-10-28T08:52:13.937399-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666957937",
+      "size": "119514",
+      "md5": "87f21bd14e486b36c837be3019c8b8aa",
+      "crc32": "0b2c88fe",
+      "sha1": "15750a5847e8cf4a08f308fed4a70a252bbe8295",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-28T08:52:13.937399-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666957938",
+      "size": "142857",
+      "md5": "db28c3cb4fc4107882cc2a6aa9da45b8",
+      "crc32": "e0b93490",
+      "sha1": "af8697b371c5538c7fa3d00c9378be1bf3f7dfe6",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-28T08:52:13.937399-03:00.jpg",
+      "source": "original",
+      "mtime": "1666957935",
+      "size": "272387",
+      "md5": "a5584876930cc4cfa21d98502f6fb322",
+      "crc32": "91bc0ab8",
+      "sha1": "4242207f59ff67bd1b5554800a439b94f5420f54",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-28T08:52:13.937399-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666957940",
+      "size": "1591",
+      "md5": "b76d46071941d3347b77d1f8c1745301",
+      "crc32": "b10ec351",
+      "sha1": "f532934760d79bd6d13f6e38a99b842fc3d727ac",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-28T08:52:13.937399-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666957942",
+      "size": "244",
+      "md5": "25eea04f8f91c9ee7d7bbb679b330192",
+      "crc32": "898a1013",
+      "sha1": "f321aa5d8834adc22200acaa8890af96a918b892",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-28T08:52:13.937399-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-28T08:52:13.937399-03:00.jpg",
+      "mtime": "1666965197",
+      "size": "9574",
+      "md5": "c323a4b93f57688331cf2c94939965fc",
+      "crc32": "64b8db93",
+      "sha1": "f0f833a8f960308a5180bbd64b172bd9fd1cc9c1"
+    },
+    {
+      "name": "diariope-2022-10-28T21:05:55.664606-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667001969",
+      "size": "120218",
+      "md5": "ee53065b0fe62f78f41e8ce349809a5f",
+      "crc32": "7ab05833",
+      "sha1": "c96fe7ac86ffcdaea3f469449b176992b8930b92",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-28T21:05:55.664606-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667001971",
+      "size": "142622",
+      "md5": "91cd46ac9331fdc719188b099e6713e2",
+      "crc32": "bb062885",
+      "sha1": "1b300c74ac91fd63abce8db04f70499a7de0d415",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-28T21:05:55.664606-03:00.jpg",
+      "source": "original",
+      "mtime": "1667001968",
+      "size": "260815",
+      "md5": "052a303cfb07c2a7c560bef186815c2d",
+      "crc32": "cafdfa8f",
+      "sha1": "0722b5641eeb750c6c67024aa5bd33a663f01947",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-28T21:05:55.664606-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667001973",
+      "size": "1591",
+      "md5": "26966b23912d0da7c7600b507bffc639",
+      "crc32": "975f1598",
+      "sha1": "2276e8598cd877830412ab169cbacb815deb6b9a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-28T21:05:55.664606-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667001977",
+      "size": "218",
+      "md5": "6dc768981d7e0c7da7f9f924d51183ae",
+      "crc32": "e2840d9e",
+      "sha1": "c2343ddc9161e8994e2335b6c96d122a8a4f5521",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-28T21:05:55.664606-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-28T21:05:55.664606-03:00.jpg",
+      "mtime": "1667003910",
+      "size": "9351",
+      "md5": "c7ff438d9abbc1a4029edec795800175",
+      "crc32": "b6a7fef2",
+      "sha1": "29396364059acb751378d5d8c6a3340b8c94ef63"
+    },
+    {
+      "name": "diariope-2022-10-29T09:02:29.149445-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667044963",
+      "size": "119494",
+      "md5": "6a622cbb5b97dff325eb595040ba08e6",
+      "crc32": "7b2044df",
+      "sha1": "0a1c56d6c1e773998f9b92efa6919226c0a596fb",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-29T09:02:29.149445-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667044965",
+      "size": "142522",
+      "md5": "d87e49606b90439fa244517071266490",
+      "crc32": "47c552db",
+      "sha1": "12fddbb87b2958425cc101aff5b32c7d8894da20",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-29T09:02:29.149445-03:00.jpg",
+      "source": "original",
+      "mtime": "1667044961",
+      "size": "254363",
+      "md5": "a42c8b6852c4e3b50cc4d9e1f29a1ca7",
+      "crc32": "387b6b3d",
+      "sha1": "89d9325197684645ef5f568f0814d4ae5744f7c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-29T09:02:29.149445-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667044966",
+      "size": "1587",
+      "md5": "76c9f8af5809de23ec04e0213c1d451a",
+      "crc32": "87df4b45",
+      "sha1": "16acb793fa8c4662444b744214c9aae10e3db57f",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-29T09:02:29.149445-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667044968",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-29T09:02:29.149445-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-29T09:02:29.149445-03:00.jpg",
+      "mtime": "1667045403",
+      "size": "9279",
+      "md5": "f4b91dbfc81d6c2e590e77ff2d63bc85",
+      "crc32": "b80f2c01",
+      "sha1": "44158f9425882145e73bea286f82bc2d3fd65f7f"
+    },
+    {
+      "name": "diariope-2022-10-29T09:08:15.554209-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667045299",
+      "size": "119013",
+      "md5": "bdff74da98f2bc2f248ce83937bcf0dc",
+      "crc32": "a200e168",
+      "sha1": "1ebaab54533bbb9d4b43d5578ac76b3adf470055",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-29T09:08:15.554209-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667045302",
+      "size": "142412",
+      "md5": "9602b22e041efabe9b63fb8ea77d9180",
+      "crc32": "11dcf123",
+      "sha1": "842b3b57ba4d58b355c7a4b501fa504eaf4b8ec4",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-29T09:08:15.554209-03:00.jpg",
+      "source": "original",
+      "mtime": "1667045297",
+      "size": "254363",
+      "md5": "a42c8b6852c4e3b50cc4d9e1f29a1ca7",
+      "crc32": "387b6b3d",
+      "sha1": "89d9325197684645ef5f568f0814d4ae5744f7c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-29T09:08:15.554209-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667045304",
+      "size": "1587",
+      "md5": "30279ad91782cc5c4e9bad4d6b267470",
+      "crc32": "15b0d8d1",
+      "sha1": "e8edb5368a7ff1b3f28725fbddda17c3a2fd10d1",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-29T09:08:15.554209-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667045305",
+      "size": "85024",
+      "md5": "b5a7e3bc79535ee78e719fa559c4150c",
+      "crc32": "2d970b05",
+      "sha1": "0369a114d61be6bed143c882fd98808976366a6a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-29T09:08:15.554209-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-29T09:08:15.554209-03:00.jpg",
+      "mtime": "1667049096",
+      "size": "9279",
+      "md5": "f4b91dbfc81d6c2e590e77ff2d63bc85",
+      "crc32": "b80f2c01",
+      "sha1": "44158f9425882145e73bea286f82bc2d3fd65f7f"
+    },
+    {
+      "name": "diariope-2022-10-29T20:46:21.865900-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667087199",
+      "size": "118755",
+      "md5": "e250f331c71a6dbd9cddc0f28f1c45ae",
+      "crc32": "997eb3de",
+      "sha1": "85cfbe632ca52aa48461d08f20fdf6013a31ca61",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-29T20:46:21.865900-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667087201",
+      "size": "142199",
+      "md5": "58ee2a5e6621294eee6dd1f284cdff4b",
+      "crc32": "c059def1",
+      "sha1": "8343f5b928995e4d93a3f81e7b972b909499af19",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-29T20:46:21.865900-03:00.jpg",
+      "source": "original",
+      "mtime": "1667087197",
+      "size": "256306",
+      "md5": "6a433bcda0c9c472878acb7754df4bfb",
+      "crc32": "0ecdd1b4",
+      "sha1": "ddac24947ff92ef427600b0b532731068cd4af8d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-29T20:46:21.865900-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667087203",
+      "size": "1588",
+      "md5": "d4d1ce1ae36facb4f6c92274e676ab34",
+      "crc32": "6b90d732",
+      "sha1": "fe16659a1964c634a8e556a56a74fb8e5948b0b4",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-29T20:46:21.865900-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667087205",
+      "size": "61363",
+      "md5": "5560cccfeffc923f89f99c3fd94e1b43",
+      "crc32": "38de5001",
+      "sha1": "8055c5ec370db8299985f0369325c9eb37fc66d6",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-29T20:46:21.865900-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-29T20:46:21.865900-03:00.jpg",
+      "mtime": "1667092320",
+      "size": "9288",
+      "md5": "40775f48785d9799f2917c82ba6ea6fb",
+      "crc32": "1eb126f9",
+      "sha1": "ec60ae01918f185ccf372c1dfc9a095689076ebc"
+    },
+    {
+      "name": "diariope-2022-10-30T08:43:19.333915-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130222",
+      "size": "119676",
+      "md5": "c136df48e0792dabb2c49dea21925611",
+      "crc32": "e6e82eb8",
+      "sha1": "d8d90b637bd317b7ee9ba1ea62cbc122f6aad678",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T08:43:19.333915-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130223",
+      "size": "142077",
+      "md5": "daf2db52f0fbf8575769d28a1df4974e",
+      "crc32": "e58f4d0e",
+      "sha1": "d5f299c02170c569cf7085c8c4698aa3e0bd5d53",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T08:43:19.333915-03:00.jpg",
+      "source": "original",
+      "mtime": "1667130220",
+      "size": "256592",
+      "md5": "5c82224f7b36bc988314d4dc2aaee720",
+      "crc32": "e4281be9",
+      "sha1": "6b0de0e85cfbb26b32bbf451664d53065ec31842",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-30T08:43:19.333915-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130225",
+      "size": "1588",
+      "md5": "09e8d80c3b5519b33e822c8c79d5304a",
+      "crc32": "3975b7f7",
+      "sha1": "54904f5ab58a1b415e641e0f1cf8652232823597",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T08:43:19.333915-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130227",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T08:43:19.333915-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-30T08:43:19.333915-03:00.jpg",
+      "mtime": "1667130532",
+      "size": "9294",
+      "md5": "a54e1a2682362f2d90525ed7e6066856",
+      "crc32": "47b8626b",
+      "sha1": "c66ea7edf1f6e3025361811fbf2f2a3931e66e92"
+    },
+    {
+      "name": "diariope-2022-10-30T08:47:49.772544-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130473",
+      "size": "120520",
+      "md5": "a922eb4da6be9ba19c2c9b3b19350466",
+      "crc32": "44b47f22",
+      "sha1": "c093d39556c9f310831da90a9dff33432c986516",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T08:47:49.772544-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130474",
+      "size": "142768",
+      "md5": "ec458dcd2a166fd9d512bb059696ead0",
+      "crc32": "50de77dc",
+      "sha1": "d7e128facef980a42efaa7c88f612a7f1c468fd7",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T08:47:49.772544-03:00.jpg",
+      "source": "original",
+      "mtime": "1667130471",
+      "size": "259459",
+      "md5": "7e1bfd2d197a413212b6819353118655",
+      "crc32": "549d7aae",
+      "sha1": "29d01cf0a17684b5cecdb7c1a2b958ba12d1d096",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-30T08:47:49.772544-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130476",
+      "size": "1590",
+      "md5": "1567cc5f5d47fb02f9f6692492c3f307",
+      "crc32": "3a3d3627",
+      "sha1": "c92e965a1eea7ff50437eba0d249d5009838b2d6",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T08:47:49.772544-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130478",
+      "size": "262",
+      "md5": "3f8a1ce397a08b6a380303aee217f360",
+      "crc32": "5460b803",
+      "sha1": "c538384bee5ccf179505344094079f2787f9c89e",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T08:47:49.772544-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-30T08:47:49.772544-03:00.jpg",
+      "mtime": "1667131784",
+      "size": "9276",
+      "md5": "ee1f8195c32d20a76f08c7f7a43bfe9a",
+      "crc32": "74a8a970",
+      "sha1": "4bc3b2f61a28472ff5410666038f9929d4ac8421"
+    },
+    {
+      "name": "diariope-2022-10-30T18:33:51.784889-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667165657",
+      "size": "119035",
+      "md5": "a018663b26208833393165e672c9a6cd",
+      "crc32": "dc378845",
+      "sha1": "d003e980970b4b9dece2ca021ffdfc0a4b28f25c",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T18:33:51.784889-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667165660",
+      "size": "142363",
+      "md5": "56d8d3b4437c116926ce0e6c1c1d1485",
+      "crc32": "243a413b",
+      "sha1": "91fb68d5caa67ef2a611b2197f9f18cf41b75bec",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T18:33:51.784889-03:00.jpg",
+      "source": "original",
+      "mtime": "1667165656",
+      "size": "267207",
+      "md5": "c73c28d1a76c3906afe37f29805f5a43",
+      "crc32": "f21a0659",
+      "sha1": "d8b3c29190c80656b871945c4b6165e9bbced3f4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-30T18:33:51.784889-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667165662",
+      "size": "1590",
+      "md5": "6ee59102d7b4a475b3fe3e3ea61b8162",
+      "crc32": "176c46e7",
+      "sha1": "b630cdcda63aa62146890be5566d7a655a0ebe0c",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T18:33:51.784889-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667165663",
+      "size": "88959",
+      "md5": "6ec1487a335418c28c8a338a2dcd277f",
+      "crc32": "37fcefaa",
+      "sha1": "66b9cd719bb521a38ef7a394ccdb18823d056c4e",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T18:33:51.784889-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-30T18:33:51.784889-03:00.jpg",
+      "mtime": "1667166144",
+      "size": "9469",
+      "md5": "7b0a82283d892d11d2a67e0a7bd5c1e6",
+      "crc32": "b83f019d",
+      "sha1": "59b297f875678b7423c1ed21204f00ef2686a868"
+    },
+    {
+      "name": "diariope-2022-10-30T20:37:21.268611-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667173066",
+      "size": "119285",
+      "md5": "94d5a593caffad12ebeb932e9cd9a6e1",
+      "crc32": "a3cc98d6",
+      "sha1": "c162e9e061f41bf08f9a42201cc6836fa6fe6f89",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T20:37:21.268611-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667173068",
+      "size": "98612",
+      "md5": "7df1bb72a780afc93965dcfa4fcfe0ca",
+      "crc32": "ffadf465",
+      "sha1": "ad731d28007eeed7fb7f91c27c7f36605148a3e0",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T20:37:21.268611-03:00.jpg",
+      "source": "original",
+      "mtime": "1667173064",
+      "size": "253991",
+      "md5": "022d00547f23fe9a250987367067636c",
+      "crc32": "a24382a4",
+      "sha1": "f234a97d601962950bd98afacd59d3d7c094583d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-30T20:37:21.268611-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667173069",
+      "size": "1588",
+      "md5": "b29cf27122385c78c163a4332514635d",
+      "crc32": "cbb4aff9",
+      "sha1": "dc7932734d4ac28eb12c4031916f9c9d3172cf90",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T20:37:21.268611-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667173071",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T20:37:21.268611-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-30T20:37:21.268611-03:00.jpg",
+      "mtime": "1667173335",
+      "size": "9580",
+      "md5": "67a613e374f373fe9c614e5fdabfed44",
+      "crc32": "0dbd6a38",
+      "sha1": "4daa9519aaac4c40e900b838a86913d704e0fab0"
+    },
+    {
+      "name": "diariope-2022-10-30T21:10:18.205819-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667175021",
+      "size": "121054",
+      "md5": "007e0692ee07cb400f3c03ecfd1c758d",
+      "crc32": "8f772a72",
+      "sha1": "807cfa069a79ba4055802f0c02c89dd665352c0a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T21:10:18.205819-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667175023",
+      "size": "143360",
+      "md5": "a6bd500ddb84f200032d940593b91279",
+      "crc32": "b0688e25",
+      "sha1": "7bf78a150b114abf3867e9254490c4d932adf158",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T21:10:18.205819-03:00.jpg",
+      "source": "original",
+      "mtime": "1667175020",
+      "size": "236212",
+      "md5": "015f18a756e69382a4d4de256679ecc4",
+      "crc32": "8cf88ee6",
+      "sha1": "fa04ca2e54ae8f3b17c92a9f22c364fc96a11125",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-30T21:10:18.205819-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667175026",
+      "size": "1591",
+      "md5": "10b1681ea7ac22bbf91ed09059a7e821",
+      "crc32": "1ee4dfe3",
+      "sha1": "49083dc71dcb00e87f54e3962e6ac933e8e51319",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T21:10:18.205819-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667175028",
+      "size": "84635",
+      "md5": "6099de39adf949abb044450a50b7441b",
+      "crc32": "154aabad",
+      "sha1": "d1c6f1d1012ceeb66cea7d7abddc5d55fad5dcb0",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-30T21:10:18.205819-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-30T21:10:18.205819-03:00.jpg",
+      "mtime": "1667175762",
+      "size": "9366",
+      "md5": "f6e536bcd8f2eaf97a0076023f30b667",
+      "crc32": "f2a6772e",
+      "sha1": "9a06412772295b62c26fcc3d34659eee24441fed"
+    },
+    {
+      "name": "diariope-2022-10-31T08:53:27.805550-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667217217",
+      "size": "118625",
+      "md5": "29fda355186af533dfab3e791302a0b0",
+      "crc32": "c5f9b7ef",
+      "sha1": "8f3167020278befa97912bbce5fe5f0331aec3f3",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-31T08:53:27.805550-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667217219",
+      "size": "142805",
+      "md5": "0740a2708b4894e985d1b2e1203d20ae",
+      "crc32": "c5fa8a55",
+      "sha1": "c2d3f1797275f7dd485318844da858edf21723a7",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-31T08:53:27.805550-03:00.jpg",
+      "source": "original",
+      "mtime": "1667217216",
+      "size": "258779",
+      "md5": "dba5c68c0534a095e41274a9d2c6f2ed",
+      "crc32": "5abc035d",
+      "sha1": "a1f6c0e217aade56f5dc88052a73679838df9639",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-31T08:53:27.805550-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667217220",
+      "size": "1588",
+      "md5": "4532bc834019fd900495bcbc37e46115",
+      "crc32": "4ef8a7ac",
+      "sha1": "3dedb862c42e689b273a71b147f6350d114a6b28",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-31T08:53:27.805550-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667217223",
+      "size": "75478",
+      "md5": "da215c18cbeacf0e47aff8996a2b3733",
+      "crc32": "ec5d792e",
+      "sha1": "ad9236cdbfecaab15ab886fde4c34067fbe9fd11",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-31T08:53:27.805550-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-31T08:53:27.805550-03:00.jpg",
+      "mtime": "1667217739",
+      "size": "9567",
+      "md5": "766e4ee259c5d34786262bdc183c8706",
+      "crc32": "ca8d4cee",
+      "sha1": "15d3cdd4bc800b5c90f28f447af2387059133670"
+    },
+    {
+      "name": "diariope-2022-10-31T08:57:35.388710-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667217459",
+      "size": "118923",
+      "md5": "15d63892157e0d51d3a556cd8a3f5c07",
+      "crc32": "be7e9123",
+      "sha1": "6c0b964aa011678100f097c3baa9f06b321dd062",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-31T08:57:35.388710-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667217461",
+      "size": "143006",
+      "md5": "e2c50552ff0b41965a67928cb0f10d47",
+      "crc32": "64b3c7a6",
+      "sha1": "a72c03e7000de4b7d6725636d1dfcb6265b8fc0d",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-31T08:57:35.388710-03:00.jpg",
+      "source": "original",
+      "mtime": "1667217457",
+      "size": "258779",
+      "md5": "dba5c68c0534a095e41274a9d2c6f2ed",
+      "crc32": "5abc035d",
+      "sha1": "a1f6c0e217aade56f5dc88052a73679838df9639",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-31T08:57:35.388710-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667217463",
+      "size": "1588",
+      "md5": "59235b92aff0c2bb1f94420e0eeacf79",
+      "crc32": "ab319a13",
+      "sha1": "e9cf6e62363bc8e84f6fa3b1a04935531221285c",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-31T08:57:35.388710-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667217465",
+      "size": "245",
+      "md5": "391a0c2019967e2502b6110a26c252e7",
+      "crc32": "3ddac72f",
+      "sha1": "83f49d1f11d263b73c390b8995c6d83379f3aeed",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-31T08:57:35.388710-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-31T08:57:35.388710-03:00.jpg",
+      "mtime": "1667219344",
+      "size": "9567",
+      "md5": "766e4ee259c5d34786262bdc183c8706",
+      "crc32": "ca8d4cee",
+      "sha1": "15d3cdd4bc800b5c90f28f447af2387059133670"
+    },
+    {
+      "name": "diariope-2022-10-31T20:45:50.466220-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667259980",
+      "size": "119508",
+      "md5": "4be697258569d7714087a185b6d128f6",
+      "crc32": "94d86e25",
+      "sha1": "5964e642139ae288b73e7efb0dd18d83cfe5bdeb",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-31T20:45:50.466220-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667259982",
+      "size": "143541",
+      "md5": "004aab96b21b9892313a2fa651721422",
+      "crc32": "ab5d0f23",
+      "sha1": "9ade8c615edd1d5ea0efb29a025340273bcfd009",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-31T20:45:50.466220-03:00.jpg",
+      "source": "original",
+      "mtime": "1667259978",
+      "size": "288379",
+      "md5": "f2ba277ebeaac14e0c2c9477c295760e",
+      "crc32": "f3b42686",
+      "sha1": "86d6232d20a45256bd6166673f4468145e29fa35",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "diariope-2022-10-31T20:45:50.466220-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667259984",
+      "size": "1591",
+      "md5": "b542f44b04442621a4995e39779ba493",
+      "crc32": "100ef8ac",
+      "sha1": "77cce488eef53bc64d963a1cfc10d9d8da63322a",
+      "format": "JSON"
+    },
+    {
+      "name": "diariope-2022-10-31T20:45:50.466220-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667259986",
+      "size": "88492",
+      "md5": "6a3adfbb75397da4c05c1fc71c29f1c6",
+      "crc32": "82b837d8",
+      "sha1": "015dc963a14ff9ac7b04a8d6b97c0d1052d790d4",
+      "format": "JSON"
+    },
+    {
       "name": "diariope-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a5a1f383f1f11afcae8e2cd2d84d81aa2cea5c95",
-      "mtime": "1666700975",
-      "size": "303698",
-      "md5": "78cad0f3332f916eddeda1be48f37b35",
-      "crc32": "3af84628",
-      "sha1": "86de1569fc8d7757cb5b791da9f9339cdf6d5b35",
+      "btih": "1f6c97ecc14aa37113be7b780af7a2abb8109332",
+      "mtime": "1667260061",
+      "size": "330384",
+      "md5": "3a24920c508fc39655e92e23064bfa69",
+      "crc32": "b5104649",
+      "sha1": "c955854856b594b334fc6c7276c9a196cb8ccc03",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diariope-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f0909e1bf8950814c7f0657597956012",
+      "md5": "bccb77295f69dd8e1ba458d1f1cdc459",
       "summation": "md5"
     },
     {
       "name": "diariope-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666700958",
-      "size": "1822720",
-      "md5": "f7aa7b77ac3d112963f2d2567113ace0",
-      "crc32": "f99f5b4c",
-      "sha1": "bf1da1f65bef83aaffffbaf0e679287e97682c97",
+      "mtime": "1667259990",
+      "size": "1982464",
+      "md5": "192b6dff635ec77091529caceca4506d",
+      "crc32": "263392d4",
+      "sha1": "78f55a327ad49eb52b18a6d023a06549f766ffaf",
       "format": "Metadata"
     },
     {
@@ -14801,9 +16104,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1432,
-  "item_last_updated": 1666700975,
-  "item_size": 138051309,
+  "files_count": 1558,
+  "item_last_updated": 1667260061,
+  "item_size": 150277856,
   "metadata": {
     "identifier": "diariope-2022",
     "collection": [
@@ -14821,20 +16124,20 @@
     "addeddate": "2022-08-04 04:55:38"
   },
   "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
+  "server": "ia801400.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451642671,
+      "task_id": 3458249789,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1402543907,
+  "uniq": 358728530,
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia801400.us.archive.org"
   ]
 }

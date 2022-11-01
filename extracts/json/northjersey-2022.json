@@ -1,6 +1,5 @@
 {
-  "conflict": 1666723440,
-  "created": 1666723440,
+  "created": 1667244873,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/14/items/northjersey-2022",
@@ -4408,31 +4407,786 @@
       "format": "JSON"
     },
     {
+      "name": "northjersey-2022-10-25T14:19:41.201326-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-25T14:19:41.201326-04:00.jpg",
+      "mtime": "1666723442",
+      "size": "9233",
+      "md5": "6fb9241c37fa69c169f93b74a58d3b8a",
+      "crc32": "27cf30da",
+      "sha1": "da59bb5a382540ca240ec3593441acebaf4d6a8f"
+    },
+    {
+      "name": "northjersey-2022-10-26T04:16:36.853063-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772200",
+      "size": "23021",
+      "md5": "606328439eb7367acaabd68f06d4feea",
+      "crc32": "2f295256",
+      "sha1": "426132d1ad90a533d7fdd951c40843676818f119",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-26T04:16:36.853063-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772202",
+      "size": "37742",
+      "md5": "f52419607178c1df5d92f1411df4fdb1",
+      "crc32": "ebada7cb",
+      "sha1": "506465e7a674900c84ca136014b183f51e801cd5",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-26T04:16:36.853063-04:00.jpg",
+      "source": "original",
+      "mtime": "1666772198",
+      "size": "268704",
+      "md5": "0d9c8bc0ea57ac6b03093fa1ed8812a1",
+      "crc32": "79624205",
+      "sha1": "4caac4f5b612daf4917fb67aad372388b4d34863",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-26T04:16:36.853063-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772204",
+      "size": "1503",
+      "md5": "b2610ad788cef6e291dfda7aa11d885c",
+      "crc32": "0ef54083",
+      "sha1": "253f5d108b2a275f0c0b6e71a9be6331a53655cf",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-26T04:16:36.853063-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772205",
+      "size": "92409",
+      "md5": "fdee06a05fcc32bd3d794a049fde35e7",
+      "crc32": "7d582b2c",
+      "sha1": "a6580c6c222bcba238de0cbb1bec10c79baabd27",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-26T04:16:36.853063-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-26T04:16:36.853063-04:00.jpg",
+      "mtime": "1666774327",
+      "size": "9331",
+      "md5": "7f18f24f927e748b44ea600aee738401",
+      "crc32": "32ec1c23",
+      "sha1": "b82532e3f924663a49f47c7c7e75f0020958a2f5"
+    },
+    {
+      "name": "northjersey-2022-10-26T16:43:28.193318-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666817013",
+      "size": "23366",
+      "md5": "2cf45ee78beb87c15c6cd161bce76a46",
+      "crc32": "be6092a9",
+      "sha1": "3a2e0b1913c4568f15ad7e9762823489efbed271",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-26T16:43:28.193318-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666817015",
+      "size": "32305",
+      "md5": "3437180a3874d4685e5dab3bcd67c646",
+      "crc32": "8cebbd3a",
+      "sha1": "3dd0352cb74624a6f9f32dcd8bdb9f377a52e9e1",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-26T16:43:28.193318-04:00.jpg",
+      "source": "original",
+      "mtime": "1666817012",
+      "size": "223989",
+      "md5": "6a304c4e5cc4fa4108933d0ec762f44a",
+      "crc32": "22480eeb",
+      "sha1": "d3d006238c501170573f901303d408d4bbb92525",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-26T16:43:28.193318-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666817018",
+      "size": "1504",
+      "md5": "3447b8a1a9000177eb182d0b1f9bbb1b",
+      "crc32": "a8582075",
+      "sha1": "a67779af86491ca28808520a46860cf3f04a68ba",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-26T16:43:28.193318-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666817021",
+      "size": "89998",
+      "md5": "73b942e770800dc137772c41d23e22df",
+      "crc32": "84c12175",
+      "sha1": "38cc2b1f2733720e0ecf11b61e52f03ddd2f976f",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-26T16:43:28.193318-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-26T16:43:28.193318-04:00.jpg",
+      "mtime": "1666836021",
+      "size": "8739",
+      "md5": "4931c4735a80579d90bc0f0aa43f2c0e",
+      "crc32": "750a36da",
+      "sha1": "3c37acf05d9f36fb61185808f5cb7eb959e296fb"
+    },
+    {
+      "name": "northjersey-2022-10-27T03:23:27.988554-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855412",
+      "size": "22502",
+      "md5": "f9cb2bfaef1cdb6d6daa2d732e58263d",
+      "crc32": "511798dc",
+      "sha1": "fff2fb867bc91d17771801e672d349cb8ea7e836",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-27T03:23:27.988554-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855414",
+      "size": "39151",
+      "md5": "ee657ce4473a0e6d6e3340ffcd53ab2a",
+      "crc32": "76bb870a",
+      "sha1": "c786bf592baa94473347cc01e08dd179f01c57cf",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-27T03:23:27.988554-04:00.jpg",
+      "source": "original",
+      "mtime": "1666855411",
+      "size": "231483",
+      "md5": "78841589882283b31140b7f662cebee7",
+      "crc32": "0224e0f3",
+      "sha1": "cf80f06c3fa15235968800f1f6a3e1421703d05c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-27T03:23:27.988554-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855416",
+      "size": "1503",
+      "md5": "24136b2ec1b9b8cf24a2bf3cb70292c9",
+      "crc32": "c4a54eab",
+      "sha1": "ed716023e125ca650b1d1e3268de91fa74eb533c",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-27T03:23:27.988554-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855418",
+      "size": "88061",
+      "md5": "b967adf97b5970c9a61699afaaf01a24",
+      "crc32": "84d35623",
+      "sha1": "77ca3324bc419a25e17039a22d9701ab64932a7a",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-27T03:23:27.988554-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-27T03:23:27.988554-04:00.jpg",
+      "mtime": "1666878126",
+      "size": "9005",
+      "md5": "530fcd17ec64500645edc3b4af73ff77",
+      "crc32": "afde5074",
+      "sha1": "37ceb2cae6f5a89fd778419ef1c1baec306a4bb9"
+    },
+    {
+      "name": "northjersey-2022-10-27T15:20:41.478477-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898450",
+      "size": "21894",
+      "md5": "0f44b26eb5d58f60d8c89d91215c0718",
+      "crc32": "7be6c45a",
+      "sha1": "193d3b8355035bc3d8508b663b403827ae2bb0ab",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-27T15:20:41.478477-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898452",
+      "size": "41865",
+      "md5": "c0ce3c1f3ae11860f8ba069f039f124e",
+      "crc32": "5b58ce3b",
+      "sha1": "d76dd9b66d2b65fa212b799eb7d7abdb814b4eb8",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-27T15:20:41.478477-04:00.jpg",
+      "source": "original",
+      "mtime": "1666898448",
+      "size": "253922",
+      "md5": "d4cb162014fe9e621ed39a8400f51997",
+      "crc32": "0f16ea9d",
+      "sha1": "62777e9df17b299cd300d283c56ea4ed54aa8652",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-27T15:20:41.478477-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898454",
+      "size": "1502",
+      "md5": "4fd05a72811b0df9074c24744a4fe818",
+      "crc32": "ba41505e",
+      "sha1": "61ee5b8054271e981cea1bf554b3e77ab2d1f019",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-27T15:20:41.478477-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898456",
+      "size": "113851",
+      "md5": "9206f3c988d739f54d15c0879d374f30",
+      "crc32": "1c965bf0",
+      "sha1": "2dc813f550edbf69d6f8e22daa6977e36285ae83",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-27T15:20:41.478477-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-27T15:20:41.478477-04:00.jpg",
+      "mtime": "1666906523",
+      "size": "9075",
+      "md5": "6c05001c44a250ab0da639c9df9f4c17",
+      "crc32": "5c9c8b59",
+      "sha1": "20c8378517c6bf8088d960a8709f455722dd6e51"
+    },
+    {
+      "name": "northjersey-2022-10-28T04:43:03.382096-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946589",
+      "size": "23376",
+      "md5": "da61ffc1ae5ff09aded7a91d093207df",
+      "crc32": "2ce9340f",
+      "sha1": "7a16aaafa4a2206a7d66ff117c47263e2078a2ad",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-28T04:43:03.382096-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946591",
+      "size": "35642",
+      "md5": "dfd89fd757dce4247a274cce725b4885",
+      "crc32": "97e543c9",
+      "sha1": "43eaf60ce6c2ebda51bb05a059b2e4b094e4213e",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-28T04:43:03.382096-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946587",
+      "size": "268963",
+      "md5": "7613f06b58a577b80178efd6234a7886",
+      "crc32": "e0011cdf",
+      "sha1": "eec08fc68865aa3be0561d257c5fec99727a85e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-28T04:43:03.382096-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946593",
+      "size": "1504",
+      "md5": "cfb6657680ed535f74151a5f1c1b94b0",
+      "crc32": "a909dad6",
+      "sha1": "04ca8cd41185d2779772323b48931792df194902",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-28T04:43:03.382096-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946595",
+      "size": "80992",
+      "md5": "920ea71fc8ee6ba254d964fdf33a0058",
+      "crc32": "a483f201",
+      "sha1": "c5871fd4861ccda717707867a19eb993000d925d",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-28T04:43:03.382096-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-28T04:43:03.382096-04:00.jpg",
+      "mtime": "1666951474",
+      "size": "9119",
+      "md5": "98a4c3a384365cc90ccdda48103cb5ed",
+      "crc32": "84203809",
+      "sha1": "ce5e71b42ef781fbaa0d7e359f58a6612b881735"
+    },
+    {
+      "name": "northjersey-2022-10-28T14:27:05.064747-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666981632",
+      "size": "22001",
+      "md5": "06f9111f95c9e376bb28941c0a7dfe42",
+      "crc32": "346df3a5",
+      "sha1": "b146024ce614662b515d06fa542838d9da83149f",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-28T14:27:05.064747-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666981634",
+      "size": "41855",
+      "md5": "52de9ed8c0b79081143b648ad6ee7767",
+      "crc32": "85843715",
+      "sha1": "119a27667d6dd4f2b0675dec351c2c4f673033cb",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-28T14:27:05.064747-04:00.jpg",
+      "source": "original",
+      "mtime": "1666981630",
+      "size": "288019",
+      "md5": "b398025a710224347e189cf68b987c68",
+      "crc32": "c24802ba",
+      "sha1": "d9ea98d8f35a1e8923586537bc29008cf5cf70cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-28T14:27:05.064747-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666981636",
+      "size": "1503",
+      "md5": "c76a0fc6e69a8e2e7b8363f2779b4d82",
+      "crc32": "50436176",
+      "sha1": "7e0a9834ddc0e5f273221b7288bd317ab964843f",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-28T14:27:05.064747-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666981638",
+      "size": "113728",
+      "md5": "71d9dcefcccbf3f0b35badf62e41cef2",
+      "crc32": "86ae4c21",
+      "sha1": "488993fce52c74eedb3257d9c4605379a22f9642",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-28T14:27:05.064747-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-28T14:27:05.064747-04:00.jpg",
+      "mtime": "1666983935",
+      "size": "9740",
+      "md5": "0157acec1a8025b572ab7cd57e25a564",
+      "crc32": "d323b579",
+      "sha1": "34115167de275fcef91e1fc6b9af57477ec5cbc2"
+    },
+    {
+      "name": "northjersey-2022-10-29T02:42:59.995615-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025785",
+      "size": "22312",
+      "md5": "763a819e5546aaddaf198692ebe720ee",
+      "crc32": "1fce7c4d",
+      "sha1": "2dddeda9e2e9bd452736cc6f1aeb3f93e2ed0ec3",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-29T02:42:59.995615-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025787",
+      "size": "45052",
+      "md5": "5800ce55869d0aee3404cfe31145ca18",
+      "crc32": "5c65b196",
+      "sha1": "15799cfc68c1e985172145c1026192113500f151",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-29T02:42:59.995615-04:00.jpg",
+      "source": "original",
+      "mtime": "1667025784",
+      "size": "290877",
+      "md5": "b8ee7416c8d74165378fcb05e8014fdd",
+      "crc32": "b1296af9",
+      "sha1": "135b08520a9f59c76f9c2b082512bf40f4aca367",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-29T02:42:59.995615-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025789",
+      "size": "1504",
+      "md5": "aea37d297e9891361fd107329fcc63e5",
+      "crc32": "dac21dcb",
+      "sha1": "41ce7345f89340d61bf8abb12335d7884a79621d",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-29T02:42:59.995615-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025790",
+      "size": "270",
+      "md5": "91217d4795e5e41427d17294ac137e16",
+      "crc32": "ab2a891c",
+      "sha1": "fd3e8de5594ce537ae7d7cda6d135aef76e3e2b4",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-29T02:42:59.995615-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-29T02:42:59.995615-04:00.jpg",
+      "mtime": "1667027578",
+      "size": "9413",
+      "md5": "54276cdf5386b1887fa99009f4efda33",
+      "crc32": "0f981da6",
+      "sha1": "80a08f7d8a56e43290d6d73edda660cf95f098fd"
+    },
+    {
+      "name": "northjersey-2022-10-29T15:31:55.863136-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667071923",
+      "size": "21879",
+      "md5": "ef5ed1ef3b814b4bac9030c65da48c3a",
+      "crc32": "f09b29cc",
+      "sha1": "9f117490d5c217e56cc03bd071a14588f2400c32",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-29T15:31:55.863136-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667071924",
+      "size": "37391",
+      "md5": "d209efbb365b1fab28ba0eba17837bda",
+      "crc32": "6afa17e0",
+      "sha1": "758392a026795afdccd037283f7935c887cd8049",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-29T15:31:55.863136-04:00.jpg",
+      "source": "original",
+      "mtime": "1667071920",
+      "size": "291342",
+      "md5": "d7595373088378a710c376c23a50c090",
+      "crc32": "1ddfeb99",
+      "sha1": "dcecd41e6a2c6e08e3ac1c64f740a2ca1a99ad32",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-29T15:31:55.863136-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667071926",
+      "size": "1504",
+      "md5": "6c54e1bd4408e08b3ebe128715213fa1",
+      "crc32": "22962f84",
+      "sha1": "e12997cad270a93fd4aa44343d796dfbe3f430bf",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-29T15:31:55.863136-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667071928",
+      "size": "114289",
+      "md5": "4aadc736408d48074953f4650aa5fd0e",
+      "crc32": "c7582f14",
+      "sha1": "2f8de1e50cbb6642f8e1addab1888a222ba5ba3a",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-29T15:31:55.863136-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-29T15:31:55.863136-04:00.jpg",
+      "mtime": "1667072868",
+      "size": "9342",
+      "md5": "bf812176bc3af5714e0003dbdadca2eb",
+      "crc32": "6e975a73",
+      "sha1": "3db6968d341805fced0a8aeb0e05511240412987"
+    },
+    {
+      "name": "northjersey-2022-10-30T02:58:18.895772-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667113118",
+      "size": "21802",
+      "md5": "a653af90630f5450dd60eed343dcf304",
+      "crc32": "847a7766",
+      "sha1": "745ef622bff674658ed5c620e46e757b8aef4df3",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-30T02:58:18.895772-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667113120",
+      "size": "37898",
+      "md5": "3eeae37a407cf8b581ace88b4a531fea",
+      "crc32": "fc668dce",
+      "sha1": "4926b7863f97018b4e316442672918bc18972e7f",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-30T02:58:18.895772-04:00.jpg",
+      "source": "original",
+      "mtime": "1667113116",
+      "size": "277478",
+      "md5": "83a27391e49c3ce97f2630f037618f9a",
+      "crc32": "121563cd",
+      "sha1": "2a4178ac8c4c3bb783ad0313adc6483efe0708e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-30T02:58:18.895772-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667113122",
+      "size": "1504",
+      "md5": "8ee36c9e7898fe3bdd66d106cf249294",
+      "crc32": "0411cab1",
+      "sha1": "8c2e8d5421931aed3b2cbf7e2becb80a7b725497",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-30T02:58:18.895772-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667113124",
+      "size": "102316",
+      "md5": "69fa9b9b1e9d85211d46c3e072f2232b",
+      "crc32": "fb56d536",
+      "sha1": "22e30cafb4b9fe728149b209361bf03c1e32286d",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-30T02:58:18.895772-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-30T02:58:18.895772-04:00.jpg",
+      "mtime": "1667114280",
+      "size": "9203",
+      "md5": "18e2fd05fce6780ed7f4f35920b46ed8",
+      "crc32": "89a81123",
+      "sha1": "eb2fb5ee9cb046dc2ca15c6b678cbda855120a5d"
+    },
+    {
+      "name": "northjersey-2022-10-30T14:24:11.802166-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667154265",
+      "size": "22250",
+      "md5": "6cb3f9c94a496ddae0c1b3cf77269745",
+      "crc32": "fda28a0d",
+      "sha1": "7f2b079028df42b4e04bca6970d46321a2780da0",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-30T14:24:11.802166-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667154270",
+      "size": "36139",
+      "md5": "9a4cb425ff825d157574e1c500260f88",
+      "crc32": "863fd4e3",
+      "sha1": "3a047b994aad3f5c805e86ba0854f0c058d91577",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-30T14:24:11.802166-04:00.jpg",
+      "source": "original",
+      "mtime": "1667154259",
+      "size": "271679",
+      "md5": "de1535b7ef1ab80efefb413e591474e5",
+      "crc32": "7a97bb45",
+      "sha1": "adc519bf61f414954748fe454ec4d6f200fb0703",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-30T14:24:11.802166-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667154274",
+      "size": "1504",
+      "md5": "8169f044f1cab69236293ca23c1c9495",
+      "crc32": "4ca01cb7",
+      "sha1": "df214881f6983173a9ca82a0b4d630be4d6735cd",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-30T14:24:11.802166-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667154278",
+      "size": "94355",
+      "md5": "cf4f24af8a6ab784aad6798b37d770fe",
+      "crc32": "281e005c",
+      "sha1": "c6f29760b27f95d7cd36e59d2636118a0bfc51e5",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-30T14:24:11.802166-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-30T14:24:11.802166-04:00.jpg",
+      "mtime": "1667155314",
+      "size": "9039",
+      "md5": "eda64e4408467e8f0bd2da896d75793f",
+      "crc32": "74c2f92e",
+      "sha1": "0fa994549893b74a7aef64ad1e3149c3fc068d5c"
+    },
+    {
+      "name": "northjersey-2022-10-31T02:40:43.527094-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198447",
+      "size": "22140",
+      "md5": "615c2b9743da1071003333e08b1ad1fa",
+      "crc32": "d8d848e2",
+      "sha1": "c09cda3d0fecfc5c8fd49a01ee55e502dc0e7055",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-31T02:40:43.527094-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198449",
+      "size": "37861",
+      "md5": "7777cf97d6aacb559badb60389c69a22",
+      "crc32": "e08ce43f",
+      "sha1": "f95c2a0beaaf06f7c91ab19baa1872eb14f9984a",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-31T02:40:43.527094-04:00.jpg",
+      "source": "original",
+      "mtime": "1667198446",
+      "size": "297537",
+      "md5": "694ee03fa6a43c64af8b74d3d7b7ef81",
+      "crc32": "f4400e9a",
+      "sha1": "9d60a49ad9d5fff42dadeb05ca1ad8ce9b7456bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-31T02:40:43.527094-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198450",
+      "size": "1504",
+      "md5": "453bb714c2e522088706071ebf2bab91",
+      "crc32": "bddb8789",
+      "sha1": "de030e43cb90c60c75a81565c1e4914409ea932b",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-31T02:40:43.527094-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198452",
+      "size": "153722",
+      "md5": "0757a757eee12b67b833a39cafefa6ed",
+      "crc32": "c1c604e5",
+      "sha1": "6fdb578a25b24efebf9d56a4168e967215db2faa",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-31T02:40:43.527094-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-31T02:40:43.527094-04:00.jpg",
+      "mtime": "1667201284",
+      "size": "9346",
+      "md5": "030dd893cb6a489f232e2e92350b7f84",
+      "crc32": "2fa222e3",
+      "sha1": "2367633240d5d129bfa791ce35d11742edf31510"
+    },
+    {
+      "name": "northjersey-2022-10-31T15:18:31.378550-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667243916",
+      "size": "22366",
+      "md5": "75319d3cf5f14e3f291ce616acf04ec9",
+      "crc32": "ac59644d",
+      "sha1": "d6f8b381614ec55e938cad72f17b39a1e79c8f8f",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-31T15:18:31.378550-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667243919",
+      "size": "45779",
+      "md5": "38415f995b49d791bb0a95699e76f660",
+      "crc32": "e04a6a33",
+      "sha1": "7bafd56d2f0ffb39e57062654bcc880c3295f1e8",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-31T15:18:31.378550-04:00.jpg",
+      "source": "original",
+      "mtime": "1667243914",
+      "size": "267834",
+      "md5": "acb3ea983f5b1340ef8c4e2c363e6609",
+      "crc32": "9407bb3a",
+      "sha1": "c47dd95a8df91c44620bc1925040af1b65af0e36",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-10-31T15:18:31.378550-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667243920",
+      "size": "1504",
+      "md5": "6c16f6f9d06e2dfa8d44de224cbaede3",
+      "crc32": "09102826",
+      "sha1": "1dec97c9eae01e59f043c1b40d1d69f86001d3f1",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-31T15:18:31.378550-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667243923",
+      "size": "92358",
+      "md5": "48093935b9a859a2a55f88c3a765b451",
+      "crc32": "2551589a",
+      "sha1": "7760213e494c115a90745e6e4d66af152156ca65",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-10-31T15:18:31.378550-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-10-31T15:18:31.378550-04:00.jpg",
+      "mtime": "1667244827",
+      "size": "9254",
+      "md5": "c7b28c7453cd07af7e9920eeddd9a3d2",
+      "crc32": "1c72d8c0",
+      "sha1": "818d48b107038786562e7babb01193a33ef3e58e"
+    },
+    {
       "name": "northjersey-2022_archive.torrent",
       "source": "metadata",
-      "btih": "04110f6200e59ec8c3f9cf0bfe400e3ad4e371bc",
-      "mtime": "1666722187",
-      "size": "92388",
-      "md5": "ee83942b2f69ac8ba27d924bf89a1084",
-      "crc32": "407695d9",
-      "sha1": "3822450dc57e31c5cc965d6329638aa941abc2b1",
+      "btih": "8bc70ac3daecd3676c242ac40d9b9d66cbc9c209",
+      "mtime": "1667244839",
+      "size": "107998",
+      "md5": "2f621bf76e9d2e306d1d3acad9a4f481",
+      "crc32": "37abeb1e",
+      "sha1": "a8e75eff460a27cee63e6526c0099366f48440ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "northjersey-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0de59392ac389555b3bcea7cbb2f3c68",
+      "md5": "88c50e80c272219b9a7d1347ef9e07b7",
       "summation": "md5"
     },
     {
       "name": "northjersey-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722141",
-      "size": "569344",
-      "md5": "e3cedb68d006fb7c63e821e3d7112efa",
-      "crc32": "e98b0dc3",
-      "sha1": "b6790a86da73dc14d4ff77924b4b7487842c53da",
+      "mtime": "1667244023",
+      "size": "659456",
+      "md5": "a2bd3c46077a26daac79854278fe1878",
+      "crc32": "b3f77a97",
+      "sha1": "9d9370648bdca02466d6a2a9c69c26f805762c4f",
       "format": "Metadata"
     },
     {
@@ -4446,9 +5200,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 430,
-  "item_last_updated": 1666722187,
-  "item_size": 29948355,
+  "files_count": 503,
+  "item_last_updated": 1667244839,
+  "item_size": 35297724,
   "metadata": {
     "identifier": "northjersey-2022",
     "collection": [
@@ -4465,21 +5219,10 @@
     "publicdate": "2022-09-20 19:06:17",
     "addeddate": "2022-09-20 19:06:17"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451934674,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 612911213,
+  "server": "ia801404.us.archive.org",
+  "uniq": 1389316959,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

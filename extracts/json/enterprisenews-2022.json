@@ -1,8 +1,13 @@
 {
-  "created": 1666718066,
+  "created": 1667244365,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/enterprisenews-2022",
+  "enterprisenews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -4397,31 +4402,786 @@
       "format": "JSON"
     },
     {
+      "name": "enterprisenews-2022-10-25T13:13:25.652038-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-25T13:13:25.652038-04:00.jpg",
+      "mtime": "1666719331",
+      "size": "9186",
+      "md5": "5fd842882d9d791939134c853149cab0",
+      "crc32": "39c6ce89",
+      "sha1": "409bd2521dac79c980ace2a737c154857ccaeca5"
+    },
+    {
+      "name": "enterprisenews-2022-10-26T02:47:49.108262-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666766875",
+      "size": "21951",
+      "md5": "141699ad870c2c953149ee5a11dbb700",
+      "crc32": "c7508613",
+      "sha1": "67299a04468af11ccf905a4ddcc6e6bc99588807",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-26T02:47:49.108262-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666766877",
+      "size": "32789",
+      "md5": "103ddd8ca17213d22cb1825ba4acaf17",
+      "crc32": "4583b3d4",
+      "sha1": "bb87227295d10e415b544a25588a13764c350bf3",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-26T02:47:49.108262-04:00.jpg",
+      "source": "original",
+      "mtime": "1666766874",
+      "size": "207781",
+      "md5": "269782d4b074e4ebe03dc97c1f95a607",
+      "crc32": "b8126b70",
+      "sha1": "fb74bec7ea0b20bbd21147bca371409abce5336f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-26T02:47:49.108262-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666766878",
+      "size": "1531",
+      "md5": "df29c237adead54886e8cc7cab39e391",
+      "crc32": "a3c8dd96",
+      "sha1": "9cce13cbe84e003324db8291a72b2389f64cf18a",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-26T02:47:49.108262-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666766880",
+      "size": "64951",
+      "md5": "652b102ee6149dc9835b7cfcb41bbad5",
+      "crc32": "14c08ae8",
+      "sha1": "c7624a92c6bdb39237670dc4627f0c3dbf5b065c",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-26T02:47:49.108262-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-26T02:47:49.108262-04:00.jpg",
+      "mtime": "1666767640",
+      "size": "8828",
+      "md5": "f9defbcaf2ebc4f74272fefe0242b64b",
+      "crc32": "bda7f7ca",
+      "sha1": "3ce727922c285095a02e3d03905daaa8bb94eb9e"
+    },
+    {
+      "name": "enterprisenews-2022-10-26T15:16:37.670390-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666811803",
+      "size": "20991",
+      "md5": "d782b3ea195aad39fa8826d578cd8a41",
+      "crc32": "fe2481af",
+      "sha1": "a999ca9cfe2b0bbfa9e4cfc0c09524e5cc38fd16",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-26T15:16:37.670390-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666811806",
+      "size": "27229",
+      "md5": "21efaa6b16cacb512ecda1efb231bb13",
+      "crc32": "989eee15",
+      "sha1": "4a7181861eebcfad819d0df1864a9fc18a94d0d3",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-26T15:16:37.670390-04:00.jpg",
+      "source": "original",
+      "mtime": "1666811801",
+      "size": "259725",
+      "md5": "d9cbc2012b104f39c2083f9fd17f6bbb",
+      "crc32": "e5329246",
+      "sha1": "691e9eb3f356e61717e71b86150ac80d8f6410cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-26T15:16:37.670390-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666811809",
+      "size": "1531",
+      "md5": "9000a49af0a94bd1935d0b5e52ca5be5",
+      "crc32": "93842ee1",
+      "sha1": "464921dba7deee54b2fcb22ef18e14e8694a58d5",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-26T15:16:37.670390-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666811812",
+      "size": "92011",
+      "md5": "db8430dd1479f1c4f154f2321e7151ca",
+      "crc32": "85b8d9cd",
+      "sha1": "afe0036345d7d4e217d2cb70d7efb2761118d6ed",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-26T15:16:37.670390-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-26T15:16:37.670390-04:00.jpg",
+      "mtime": "1666820478",
+      "size": "9420",
+      "md5": "a43f9421009032d626982a6af4726f73",
+      "crc32": "f67457af",
+      "sha1": "8354f6183832a26a4515a2b59a1fec5f2feec6fd"
+    },
+    {
+      "name": "enterprisenews-2022-10-27T01:59:35.930601-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666850379",
+      "size": "21481",
+      "md5": "7d0931eda03ae673df8e696717b78ead",
+      "crc32": "73aeb158",
+      "sha1": "f2e253aef4ebf4ddad5233d09d99b57f87ff6ebe",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-27T01:59:35.930601-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666850382",
+      "size": "32448",
+      "md5": "108d3c4358999956e9beb5c9f9594337",
+      "crc32": "950b0593",
+      "sha1": "289c1e2e0aa3790ae015a5b7cd3e27f5d5ecb80d",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-27T01:59:35.930601-04:00.jpg",
+      "source": "original",
+      "mtime": "1666850377",
+      "size": "247283",
+      "md5": "d420e48e694c681a9604320821b9c701",
+      "crc32": "fc677a0f",
+      "sha1": "d617a9bf139548af94918bcb2b13c4bb05b32638",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-27T01:59:35.930601-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666850384",
+      "size": "1531",
+      "md5": "4379a7852d83506c8ca660ed7265fd6b",
+      "crc32": "1996dd85",
+      "sha1": "c0151163596291aaf2d49b4dfaf94d70834f5935",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-27T01:59:35.930601-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666850386",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-27T01:59:35.930601-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-27T01:59:35.930601-04:00.jpg",
+      "mtime": "1666874204",
+      "size": "9313",
+      "md5": "22275a0a1702d5210290b24fa4ce1b84",
+      "crc32": "0ebf082e",
+      "sha1": "2acee50473825288e790bad746af62e6e88b20e5"
+    },
+    {
+      "name": "enterprisenews-2022-10-27T13:55:01.703323-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893308",
+      "size": "21072",
+      "md5": "b4df0a20d6146525ff5418226fe39ba9",
+      "crc32": "048a8dcb",
+      "sha1": "43961a41715e2cee04af6ca3500edade375867eb",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-27T13:55:01.703323-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893310",
+      "size": "33956",
+      "md5": "1436566bebe51bc5abca4f05e41c6ecf",
+      "crc32": "f5cb3c0f",
+      "sha1": "a8edcb4f58b61b9f3bab5f86a160887ee469b2cc",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-27T13:55:01.703323-04:00.jpg",
+      "source": "original",
+      "mtime": "1666893306",
+      "size": "261371",
+      "md5": "7df750eb3a43513300c0389c82f12706",
+      "crc32": "d8f94d7e",
+      "sha1": "7b94ef7c9fed3ab129edf4b2253dafa255185f03",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-27T13:55:01.703323-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893312",
+      "size": "1531",
+      "md5": "c7a0f0a3de39d5366485fdb4bba54498",
+      "crc32": "b0b0a0de",
+      "sha1": "532b3bc579285cb61d61b080ff36fdb67cc604eb",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-27T13:55:01.703323-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893314",
+      "size": "135608",
+      "md5": "9d371d0fdeff5dfd62c99c385633a430",
+      "crc32": "c1a7ab5a",
+      "sha1": "4cb7e12cc8d1ec321ff25248dd1b46380a601256",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-27T13:55:01.703323-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-27T13:55:01.703323-04:00.jpg",
+      "mtime": "1666902599",
+      "size": "9340",
+      "md5": "ef51c59e52c6bc3d94cebc27c4045c48",
+      "crc32": "7ed6e9ed",
+      "sha1": "5301960f64fdba11e79b15659f63e12cbb1dffec"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T04:30:00.660189-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945803",
+      "size": "21886",
+      "md5": "24b47b39503694ab7ca877bfec509ef0",
+      "crc32": "2a82a044",
+      "sha1": "e69a3b42089489150547c76dffb4b42f8c251452",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T04:30:00.660189-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945804",
+      "size": "37579",
+      "md5": "4b62306d32453eb089c5bb436cb5598c",
+      "crc32": "6cdb11e8",
+      "sha1": "5027e06189b13b2c1930f50cebe1bc40ac0bdc84",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T04:30:00.660189-04:00.jpg",
+      "source": "original",
+      "mtime": "1666945801",
+      "size": "237528",
+      "md5": "81d2515b6df231ac901e90a5a5584521",
+      "crc32": "e95b486c",
+      "sha1": "57df1b7cc678161cde6c08707594b04377f8deaa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T04:30:00.660189-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945807",
+      "size": "1531",
+      "md5": "c9516b7030d111946513ff062ab77ac9",
+      "crc32": "a1faa83b",
+      "sha1": "88882ba0dcd078019a5f335192862cdafb7162fc",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T04:30:00.660189-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945808",
+      "size": "130277",
+      "md5": "0fd1e405eb1e646f591169f3412b7c5a",
+      "crc32": "69a3a11e",
+      "sha1": "56f3fe9fc8c1f725dc6577acb0903212c39d2abc",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T04:30:00.660189-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-28T04:30:00.660189-04:00.jpg",
+      "mtime": "1666949995",
+      "size": "9116",
+      "md5": "84d100a36cdc7a37aad55713f3fdf5a3",
+      "crc32": "07be4309",
+      "sha1": "2076a008479cf9262ee6e7e67e68f32748ee86bb"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T13:19:18.439460-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666977573",
+      "size": "21160",
+      "md5": "ea76a6453a68149bc1abd9d9b5e79ea3",
+      "crc32": "463d05ae",
+      "sha1": "82589d8508c2215f498aca8336b52c81e105fb81",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T13:19:18.439460-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666977575",
+      "size": "30468",
+      "md5": "0f2c3d225764470bc3665c19473f426c",
+      "crc32": "feca2f9e",
+      "sha1": "0341e1af1672147e321d76f6f4762a68a7936b2b",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T13:19:18.439460-04:00.jpg",
+      "source": "original",
+      "mtime": "1666977571",
+      "size": "244480",
+      "md5": "c8d27a80656ebf0676c7f1680a792606",
+      "crc32": "1150cd98",
+      "sha1": "c9347b0d7a71bfdb26f19b0ebb5c911a486cceed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T13:19:18.439460-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666977577",
+      "size": "1531",
+      "md5": "97be8f578c886918f88cb7b46f86bbe5",
+      "crc32": "d657f74f",
+      "sha1": "b82a40331dea06ce5c5e2ae2586dcb2d25e45669",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T13:19:18.439460-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666977579",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-28T13:19:18.439460-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-28T13:19:18.439460-04:00.jpg",
+      "mtime": "1666980933",
+      "size": "9244",
+      "md5": "bae038296daf82ecbe6689b75235bc1f",
+      "crc32": "cc114508",
+      "sha1": "5e318fe1694a4a437e1c9bb725967154a9ac9244"
+    },
+    {
+      "name": "enterprisenews-2022-10-29T01:29:58.581979-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667021402",
+      "size": "21277",
+      "md5": "f0538b460e03993165b697a42169f3c5",
+      "crc32": "eb419191",
+      "sha1": "be28c216b5608f93eb3fa232dbbf6d7f783420ce",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-29T01:29:58.581979-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667021404",
+      "size": "38845",
+      "md5": "1bf55e3054051d817d032a935bcb32c5",
+      "crc32": "763b7377",
+      "sha1": "6273249156d2c22b81e924884113a63d3a0bd1af",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-29T01:29:58.581979-04:00.jpg",
+      "source": "original",
+      "mtime": "1667021400",
+      "size": "238919",
+      "md5": "494adeacdc275b321884627cfe86bc2a",
+      "crc32": "38df06f7",
+      "sha1": "5051a6c19ef7cbdfb5e3291ad634a9897ed86a6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-29T01:29:58.581979-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667021406",
+      "size": "1530",
+      "md5": "502ac9e8755dc185813bcced86886aa2",
+      "crc32": "5884ba55",
+      "sha1": "65492084378574c2406a8325df3584976e2e4849",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-29T01:29:58.581979-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667021408",
+      "size": "256",
+      "md5": "c904ed26cc116c57296a16a98c4a6de6",
+      "crc32": "43eaa970",
+      "sha1": "36974de18da130386636f8f322f072baf4514582",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-29T01:29:58.581979-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-29T01:29:58.581979-04:00.jpg",
+      "mtime": "1667023880",
+      "size": "9177",
+      "md5": "c944fcfea3733a85a4303d0278bef78d",
+      "crc32": "d8fd6ddd",
+      "sha1": "5f7a90f76274945dcb4b160d6ff6994ed8459e19"
+    },
+    {
+      "name": "enterprisenews-2022-10-29T13:56:45.177938-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667066209",
+      "size": "20459",
+      "md5": "739ab5751ccbd57f55e5575d2363df7b",
+      "crc32": "b4865a5d",
+      "sha1": "8202960acb00ca8096fde1069fc91da8f1733925",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-29T13:56:45.177938-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667066210",
+      "size": "31641",
+      "md5": "6e08f933a8e2ff75a9886c7e90ce9896",
+      "crc32": "f93b7d74",
+      "sha1": "40bdd623e3889c3e9f5e127503891e91176998ab",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-29T13:56:45.177938-04:00.jpg",
+      "source": "original",
+      "mtime": "1667066207",
+      "size": "265833",
+      "md5": "cd49642c2f7c2f751c25ef485195ca8c",
+      "crc32": "e1aa2a9b",
+      "sha1": "460eceb36e86625cc9194e663164233b5c2e0065",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-29T13:56:45.177938-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667066212",
+      "size": "1531",
+      "md5": "b64a78893874f98f922bc4241929e589",
+      "crc32": "b7f7142a",
+      "sha1": "7ca4d7248aabf8ed62b774445f560b3c390b0853",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-29T13:56:45.177938-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667066214",
+      "size": "77383",
+      "md5": "241e294fcc2f4e5ab383e0fad2123474",
+      "crc32": "2c2c7796",
+      "sha1": "b0dad1baa5ca21039a8bb728ec24feaf574f30a0",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-29T13:56:45.177938-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-29T13:56:45.177938-04:00.jpg",
+      "mtime": "1667066669",
+      "size": "9652",
+      "md5": "08b2db0e9faa071ae91788e7b6accbc7",
+      "crc32": "1f329092",
+      "sha1": "ce1e78a4d11a73ce6d6e741bb9604307f9ab9377"
+    },
+    {
+      "name": "enterprisenews-2022-10-30T01:38:08.511764-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667108292",
+      "size": "20517",
+      "md5": "0487420f0ed1e1497573f25c6b434dff",
+      "crc32": "a382c962",
+      "sha1": "6ad8e28c8e1d70947a977522a2061dfc84a018fc",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-30T01:38:08.511764-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667108293",
+      "size": "33530",
+      "md5": "c6570aef93ab8f5147e2374bc6111b49",
+      "crc32": "dcc9b9dd",
+      "sha1": "b38c47735119f2685de1625f25b0cb577f08814a",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-30T01:38:08.511764-04:00.jpg",
+      "source": "original",
+      "mtime": "1667108290",
+      "size": "244175",
+      "md5": "369d7ffa923f9e3925cada5e3e647e1c",
+      "crc32": "65d39725",
+      "sha1": "56e52ca6c1357c91da32acf6b2382666d2538bcf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-30T01:38:08.511764-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667108295",
+      "size": "1531",
+      "md5": "9927e61d9d10d2c21ca6dc167e244e13",
+      "crc32": "4abeee68",
+      "sha1": "e7eddc1dba968a1ad1dba956eafbd0621c301f1d",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-30T01:38:08.511764-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667108297",
+      "size": "107767",
+      "md5": "9cfef00d30c79cdaf250ffc38243446c",
+      "crc32": "448c9750",
+      "sha1": "a258720988a3f66efc5140eae9a6ad33587e4640",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-30T01:38:08.511764-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-30T01:38:08.511764-04:00.jpg",
+      "mtime": "1667108815",
+      "size": "9088",
+      "md5": "f585bff809aff9bee20672d690eb38d0",
+      "crc32": "4e143905",
+      "sha1": "2ebac0dbf748a133cf72f69b6a94523f93bd2cd4"
+    },
+    {
+      "name": "enterprisenews-2022-10-30T13:21:41.755708-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667150506",
+      "size": "19699",
+      "md5": "fade62452a5efe5106e8a32720f03e50",
+      "crc32": "41712eb9",
+      "sha1": "d88fe8f9d58c32c380b28b5d0a09ba7543e30c73",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-30T13:21:41.755708-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667150508",
+      "size": "35585",
+      "md5": "617811e3f9050a47e71220384c4b90aa",
+      "crc32": "cef23a74",
+      "sha1": "15c8caea7f1911605f85e80569a088aac998a5c8",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-30T13:21:41.755708-04:00.jpg",
+      "source": "original",
+      "mtime": "1667150505",
+      "size": "244687",
+      "md5": "cbdf43911cb0ab1c025fe3a4eb67c82d",
+      "crc32": "4b901a41",
+      "sha1": "3222b491d45b62e11d72590687d4855bd57a9c17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-30T13:21:41.755708-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667150509",
+      "size": "1530",
+      "md5": "deb5774005b1aea4fea6fb825c036f96",
+      "crc32": "a73624b0",
+      "sha1": "a972c096407aca71165c7232942e883fdafc63e7",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-30T13:21:41.755708-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667150511",
+      "size": "77255",
+      "md5": "134378b94137f83f0d87cf7752fcf494",
+      "crc32": "60e074cb",
+      "sha1": "88282f14c3e29a8f75adbd48df3fd0f89d7c1106",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-30T13:21:41.755708-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-30T13:21:41.755708-04:00.jpg",
+      "mtime": "1667151409",
+      "size": "9074",
+      "md5": "9ecaf85c70cad9f9c244339f11d58e7c",
+      "crc32": "1e712e92",
+      "sha1": "b7ef348a000c9d6ef245352ea96ad453f3a5066f"
+    },
+    {
+      "name": "enterprisenews-2022-10-31T02:37:26.683348-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198251",
+      "size": "20305",
+      "md5": "95969bede6d47ebdad19697e59993021",
+      "crc32": "4e9d0e5b",
+      "sha1": "36b74518dfb51806a7860f0c45579d7ccf6daf97",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-31T02:37:26.683348-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198253",
+      "size": "45276",
+      "md5": "10bf09c039c7cad5daa6a0912cc83f09",
+      "crc32": "10af5b1e",
+      "sha1": "5e66663446080b31e68003f9a5926ded93e0eed4",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-31T02:37:26.683348-04:00.jpg",
+      "source": "original",
+      "mtime": "1667198250",
+      "size": "254528",
+      "md5": "fa2de845cdf5d6850fa3e974e1787ff7",
+      "crc32": "cdbbf854",
+      "sha1": "9d6d6a7efde4025107e5271083a1e8c9510b31eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-31T02:37:26.683348-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198255",
+      "size": "1531",
+      "md5": "a3d57e0d22aca68ac6fe88eae466c229",
+      "crc32": "167794d8",
+      "sha1": "186ee7cf3ff427b4c54154750336137e010b8305",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-31T02:37:26.683348-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198257",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-31T02:37:26.683348-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-31T02:37:26.683348-04:00.jpg",
+      "mtime": "1667200822",
+      "size": "9226",
+      "md5": "5c0521b233caa8a9477557413dc60bab",
+      "crc32": "bc33f139",
+      "sha1": "ba469cec383413c68d1236470d8ed323bfef4f00"
+    },
+    {
+      "name": "enterprisenews-2022-10-31T13:47:43.403315-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667238467",
+      "size": "20834",
+      "md5": "7a603d3ae24988fe6d08428c091f0804",
+      "crc32": "74802e89",
+      "sha1": "a6912dda52a3b6112f9636656323869c286e45ec",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-31T13:47:43.403315-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667238468",
+      "size": "34119",
+      "md5": "482c1c5e9bc24c527bf29f3716aeb04b",
+      "crc32": "e7ec30d9",
+      "sha1": "e60eb24ac49932b7377548483f6a0cba67ba070b",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-31T13:47:43.403315-04:00.jpg",
+      "source": "original",
+      "mtime": "1667238465",
+      "size": "235817",
+      "md5": "56a277efc5412887621a676bab132dab",
+      "crc32": "1667571f",
+      "sha1": "852e918aebabab343ea2df0942a2cd71ee3f6ecd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-10-31T13:47:43.403315-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667238470",
+      "size": "1531",
+      "md5": "204c2c77ea4a3d8b5123f5d93f411861",
+      "crc32": "649843af",
+      "sha1": "e3544740f4ba3c5356e66329907ec9941bb44873",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-31T13:47:43.403315-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667238472",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-10-31T13:47:43.403315-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-10-31T13:47:43.403315-04:00.jpg",
+      "mtime": "1667239926",
+      "size": "9323",
+      "md5": "f77929326e7439072a68e6cae47a24eb",
+      "crc32": "c971163e",
+      "sha1": "c38f809d2bc1d2ac5899ea6e6b5340d75996fe53"
+    },
+    {
       "name": "enterprisenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1299689ead011fa18cf1cebe5e06f52e1e3e4fc4",
-      "mtime": "1666718062",
-      "size": "93439",
-      "md5": "af642921142c5c132fec2511675975c9",
-      "crc32": "00acb106",
-      "sha1": "7dc3ebb3f6168a9c938bb2f5b001fc07a7d023f6",
+      "btih": "72900a09a70f4070de93f4af950969c5496910db",
+      "mtime": "1667239939",
+      "size": "109218",
+      "md5": "7ef53d72a92f850ed253281b3aafa599",
+      "crc32": "f87cd0f0",
+      "sha1": "9f123256fc98f8cc132e7be2afd1fb6badcf9943",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enterprisenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f4b8a97b11ac6ba7f311d202cd44f022",
+      "md5": "b92219b6f8ecb9d89c89af3fbd46d0ea",
       "summation": "md5"
     },
     {
       "name": "enterprisenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666718022",
-      "size": "565248",
-      "md5": "02138dd2e03999441b75530a8f0e87d8",
-      "crc32": "9d92426f",
-      "sha1": "29ca3e0ba21ccf4c06569ce348d362c89dee47a3",
+      "mtime": "1667238477",
+      "size": "655360",
+      "md5": "89fdf8e523f4d779f1f410974d41564b",
+      "crc32": "89e708ef",
+      "sha1": "a4d8291cf3aec94c7b862b7ba4275cfdcf843de2",
       "format": "Metadata"
     },
     {
@@ -4435,9 +5195,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 429,
-  "item_last_updated": 1666718062,
-  "item_size": 29142511,
+  "files_count": 502,
+  "item_last_updated": 1667239939,
+  "item_size": 33680299,
   "metadata": {
     "identifier": "enterprisenews-2022",
     "collection": [
@@ -4454,21 +5214,10 @@
     "publicdate": "2022-09-20 17:50:30",
     "addeddate": "2022-09-20 17:50:30"
   },
-  "pending_tasks": true,
   "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451845930,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1941489450,
+  "uniq": 484220208,
   "workable_servers": [
-    "ia601402.us.archive.org"
+    "ia601402.us.archive.org",
+    "ia801402.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666695508,
+  "created": 1667257162,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/2/items/aberdeennews-2022",
@@ -4335,31 +4335,848 @@
       "format": "JSON"
     },
     {
+      "name": "aberdeennews-2022-10-25T05:55:37.372466-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-25T05:55:37.372466-05:00.jpg",
+      "mtime": "1666697927",
+      "size": "8955",
+      "md5": "1e5870da51ce8ae4810da9c290524b29",
+      "crc32": "9a954dfd",
+      "sha1": "4bf2e6ea19e71a7265cbe20b5f23bbc919598cc3"
+    },
+    {
+      "name": "aberdeennews-2022-10-25T17:57:32.938526-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738655",
+      "size": "23109",
+      "md5": "68c65fb3999f3cc1d818ed8ee72288b4",
+      "crc32": "ed0b3c28",
+      "sha1": "23905e142d2e4cefc22fa18058a0ef67b348cabf",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-25T17:57:32.938526-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738657",
+      "size": "36377",
+      "md5": "5b9c2e7a23d8ab014939ef7781ca2beb",
+      "crc32": "f00cd044",
+      "sha1": "67ae8f7689d875e5eb0e04a6cef1864fa8cce870",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-25T17:57:32.938526-05:00.jpg",
+      "source": "original",
+      "mtime": "1666738653",
+      "size": "255190",
+      "md5": "95326971f9b2ddf15bd5c4a9be369325",
+      "crc32": "8a86eae1",
+      "sha1": "3b154737e2728dffadfb1835de6259bbd3f6c769",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-25T17:57:32.938526-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666738658",
+      "size": "1513",
+      "md5": "9d08fe7abb14ba32ebea23b5887a6471",
+      "crc32": "745b59f9",
+      "sha1": "55fa99a0a2f81fecb3d13155930a9fb9de103af4",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-25T17:57:32.938526-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738660",
+      "size": "156943",
+      "md5": "3dd49e4eaee491821c9a258ad8818cce",
+      "crc32": "ae9d01d5",
+      "sha1": "ee1629f7bf63c79bc15351c9bb1acac9207b6c8c",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-25T17:57:32.938526-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-25T17:57:32.938526-05:00.jpg",
+      "mtime": "1666739961",
+      "size": "9453",
+      "md5": "c763875aaf84fde2e4aed6ac50ae5862",
+      "crc32": "3cc8e598",
+      "sha1": "68baa8a0dd3531972b5a280c760cbe1e3d4ecd0e"
+    },
+    {
+      "name": "aberdeennews-2022-10-26T05:51:43.184825-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781509",
+      "size": "21995",
+      "md5": "89909ff6baa6326fdb45cf705743f9e2",
+      "crc32": "2db58cbc",
+      "sha1": "962216c9720c1d65383529bb744393fe4e85098a",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-26T05:51:43.184825-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781510",
+      "size": "33629",
+      "md5": "28e31b08b44c10e6551283baa0178ee8",
+      "crc32": "1a4579ca",
+      "sha1": "5306468191f272c83452ffa7b78879cda092d403",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-26T05:51:43.184825-05:00.jpg",
+      "source": "original",
+      "mtime": "1666781507",
+      "size": "276214",
+      "md5": "c11ceadba1037b69301c7a9026eb3813",
+      "crc32": "524c581d",
+      "sha1": "0330f48601d33ad8532d75c9015addcade144df2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-26T05:51:43.184825-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781512",
+      "size": "1513",
+      "md5": "7472459d347f7146f9db4213241d2746",
+      "crc32": "7e30659c",
+      "sha1": "96da369013d3cae4001877fefd7e3003ec1e8f07",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-26T05:51:43.184825-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781513",
+      "size": "105",
+      "md5": "d717ec15a80eb3b2eaa402b3f7ed2a20",
+      "crc32": "110534b8",
+      "sha1": "38e5335a91c52f997b26aef86eec3f2e04ae2b86",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-26T05:51:43.184825-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-26T05:51:43.184825-05:00.jpg",
+      "mtime": "1666782626",
+      "size": "9225",
+      "md5": "ff9415824e31fe3d2db2b05a63bb6763",
+      "crc32": "5301994b",
+      "sha1": "901df14ee8bb35158f9daa0634ef8ba2c0b36488"
+    },
+    {
+      "name": "aberdeennews-2022-10-26T17:55:06.642620-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666824912",
+      "size": "22249",
+      "md5": "f7469b1e50b3467a5bfbd4db89f1e8b9",
+      "crc32": "2ceed0ad",
+      "sha1": "4345fa8ea446284a964ae2556906ce1afb4f538c",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-26T17:55:06.642620-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666824914",
+      "size": "40424",
+      "md5": "ca3a5bf0fa1fe2d5cedf710a2ab3c64a",
+      "crc32": "8f15bb33",
+      "sha1": "ba57b1b30e71d263a62d6cdda17e703eb881cca7",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-26T17:55:06.642620-05:00.jpg",
+      "source": "original",
+      "mtime": "1666824910",
+      "size": "281456",
+      "md5": "bf02efc411638365286e8adc2fd5fcb9",
+      "crc32": "a5693aed",
+      "sha1": "3777a02654b3f7b3e60cf6469bf5d2721a640fb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-26T17:55:06.642620-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666824916",
+      "size": "1513",
+      "md5": "edd1dfbc979f67f2c23be6536743d8b6",
+      "crc32": "a96f39a9",
+      "sha1": "c124f4b9ba07fecb3950c2de4636cf827f29e3e7",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-26T17:55:06.642620-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666824918",
+      "size": "114657",
+      "md5": "923bc2ee129ebd669b6a5e0f01988c3f",
+      "crc32": "c42e8f07",
+      "sha1": "454ee60d02e9feb6d885cd69c592558284b62206",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-26T17:55:06.642620-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-26T17:55:06.642620-05:00.jpg",
+      "mtime": "1666849062",
+      "size": "9218",
+      "md5": "2af2fca853a10acad04aadb57573fc37",
+      "crc32": "77432e86",
+      "sha1": "ac32203983aad14e9908905feb54fe8221ad36c2"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T06:00:11.933880-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666868417",
+      "size": "21825",
+      "md5": "143eec077f27a3f210d5cb3165109b0b",
+      "crc32": "0e3176a7",
+      "sha1": "91460ab9ca50290272dc2d457c4888cc9d9fb99c",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T06:00:11.933880-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666868418",
+      "size": "39883",
+      "md5": "58c01707192a6de9de1c750eb7accfe9",
+      "crc32": "ae543cb7",
+      "sha1": "314db95ade2a821476b2bea0c13da95138c46b3c",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T06:00:11.933880-05:00.jpg",
+      "source": "original",
+      "mtime": "1666868415",
+      "size": "259175",
+      "md5": "08afff69c27fee39a5a2d00eebf662ce",
+      "crc32": "d8c379d6",
+      "sha1": "3bc4d5d1846dccfe3a9cd0c564833e21039a5398",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T06:00:11.933880-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666868420",
+      "size": "1513",
+      "md5": "e1fa229342b947301aee6072c5fba5bb",
+      "crc32": "28ac0d16",
+      "sha1": "e84d9af6b7e4c5f55e51da12551a17d9ebee631a",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T06:00:11.933880-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666868422",
+      "size": "66834",
+      "md5": "68728a9c491f2bd4a9d66f4c1245e5a4",
+      "crc32": "a5e92e0b",
+      "sha1": "246850425695f3948ce09e8b0a738c16acfdd7c0",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T06:00:11.933880-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-27T06:00:11.933880-05:00.jpg",
+      "mtime": "1666886944",
+      "size": "9439",
+      "md5": "8371f41b8097b3ba0a594347c698c301",
+      "crc32": "3c9eef79",
+      "sha1": "47e16bf47099a4f09cffc625ff6ccabe4898d2d4"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T17:45:30.687571-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910735",
+      "size": "22963",
+      "md5": "b014e87e7a7d022aead4cb85a955dda8",
+      "crc32": "b7fdbfde",
+      "sha1": "e3d9431039afdce66a7eba696265f23bff5a8940",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T17:45:30.687571-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910737",
+      "size": "41320",
+      "md5": "df32631eae6c30b38c5e2aacd45410b3",
+      "crc32": "4aa406fc",
+      "sha1": "2e388a77b4d33a3bf4c7577a97bed0bc2c85e790",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T17:45:30.687571-05:00.jpg",
+      "source": "original",
+      "mtime": "1666910732",
+      "size": "258439",
+      "md5": "f5b85987565dcce6549f7035f60787b7",
+      "crc32": "7bf05189",
+      "sha1": "e591cf895ab0dfaf5758f37d1122962f8b45d90e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T17:45:30.687571-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910739",
+      "size": "1513",
+      "md5": "d3652bb97213deba476eb34406422b48",
+      "crc32": "97fdb72c",
+      "sha1": "c2217d63ec5952f215687dd9d5cc257460e771c3",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T17:45:30.687571-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910741",
+      "size": "83551",
+      "md5": "9fe1eb3b1b5f52e74c7dd0fee0a05cd1",
+      "crc32": "e387993e",
+      "sha1": "8467953420b7f2bbaff146bc408b7a4ddaeda02e",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-27T17:45:30.687571-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-27T17:45:30.687571-05:00.jpg",
+      "mtime": "1666913290",
+      "size": "9134",
+      "md5": "fd8eff2878e6b62c82861fdb0e05a899",
+      "crc32": "2b4e7e4f",
+      "sha1": "ba27af04812b870f7c5fa43842e263808f1f08d3"
+    },
+    {
+      "name": "aberdeennews-2022-10-28T05:51:16.714766-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666954285",
+      "size": "22769",
+      "md5": "c9f766d7ed25b3a968811eb6a06f8678",
+      "crc32": "91f66daf",
+      "sha1": "52ead17ca0b3375c88f419d4f3d952d3d940e089",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-28T05:51:16.714766-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666954287",
+      "size": "38619",
+      "md5": "a20d2280b217a43b599709cbf43f828e",
+      "crc32": "0da837c4",
+      "sha1": "46f8b925a2ab239f19e8022cd7180fb436577967",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-28T05:51:16.714766-05:00.jpg",
+      "source": "original",
+      "mtime": "1666954283",
+      "size": "243592",
+      "md5": "996e9655b25237719ebe5f4d6d480384",
+      "crc32": "5f3ed0c9",
+      "sha1": "5e0b5ad13061976ed494f8b062461c1a36182516",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-28T05:51:16.714766-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666954288",
+      "size": "1513",
+      "md5": "452225301e9ed016aad5d212bd4e566d",
+      "crc32": "973cc46f",
+      "sha1": "3ac85e0e208f1250ea7e843091f922232b63f3cb",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-28T05:51:16.714766-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666954290",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-28T05:51:16.714766-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-28T05:51:16.714766-05:00.jpg",
+      "mtime": "1666961663",
+      "size": "8957",
+      "md5": "3bcc9a73debc2495c38a425622e3719b",
+      "crc32": "28cfb814",
+      "sha1": "bf17113e778eeb6da658aaddc99194f005a2fdcc"
+    },
+    {
+      "name": "aberdeennews-2022-10-28T18:03:17.726779-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666998202",
+      "size": "22592",
+      "md5": "e093488b1c143c626105093e76925f1d",
+      "crc32": "06189d7b",
+      "sha1": "219b8dc6df444b21965072fb3d2ef17b121ad0f1",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-28T18:03:17.726779-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666998203",
+      "size": "36854",
+      "md5": "0b090343462f6dddbc2f7fa0a10a9b67",
+      "crc32": "7c86befe",
+      "sha1": "765cee4692a2210a47e702c848f77b393517087f",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-28T18:03:17.726779-05:00.jpg",
+      "source": "original",
+      "mtime": "1666998200",
+      "size": "273223",
+      "md5": "65dbc884dd42445e4f99d25ff97f1de1",
+      "crc32": "6d66f91e",
+      "sha1": "ec948d49b06415bbf9184a3cb9b8bb2f6e444cfc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-28T18:03:17.726779-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666998205",
+      "size": "1513",
+      "md5": "a3593ca9b15f94e988e210a9c6c54d01",
+      "crc32": "30a6c3b5",
+      "sha1": "3242f2487b678393c20fb59d9a7d579d83666beb",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-28T18:03:17.726779-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666998206",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-28T18:03:17.726779-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-28T18:03:17.726779-05:00.jpg",
+      "mtime": "1666999289",
+      "size": "9588",
+      "md5": "e4eb2e8ed8a59ec9c69b68187b8645e7",
+      "crc32": "3b76a9f1",
+      "sha1": "52503ad240c552df667ba2ed6898349231bd88e1"
+    },
+    {
+      "name": "aberdeennews-2022-10-29T05:49:51.254957-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040596",
+      "size": "22297",
+      "md5": "1cd135a7519c4890b0e861633e66e27d",
+      "crc32": "f063dbb9",
+      "sha1": "3bc45c71311a5bc4652026be52565ecd179f1dec",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-29T05:49:51.254957-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040597",
+      "size": "36174",
+      "md5": "afd87aaa14684056ced12df8e711cece",
+      "crc32": "815aa78c",
+      "sha1": "08398f226a9ea5c76b8fc43cd62a25cfb753f30c",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-29T05:49:51.254957-05:00.jpg",
+      "source": "original",
+      "mtime": "1667040595",
+      "size": "263662",
+      "md5": "25b725fb3c942b2bf5ed207f3d87c20c",
+      "crc32": "aa3c6568",
+      "sha1": "283b01bc94d7bc822c829793ce257fc1d7494aaf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-29T05:49:51.254957-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040599",
+      "size": "1513",
+      "md5": "2b58cfc2b50fa149e59f30f6082a8561",
+      "crc32": "b2b10375",
+      "sha1": "0dd99df3441386431cd5cec23d03a435ffbfade7",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-29T05:49:51.254957-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040601",
+      "size": "116644",
+      "md5": "0d865aff087550250300256b86375c9c",
+      "crc32": "1e2948c0",
+      "sha1": "66243c78f8a32c088a2ae7912a2cfc7941424c63",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-29T05:49:51.254957-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-29T05:49:51.254957-05:00.jpg",
+      "mtime": "1667041412",
+      "size": "9529",
+      "md5": "bc515a93a65c09fcb496705e8eccb474",
+      "crc32": "bad62ffd",
+      "sha1": "9dd1f892c5578ae5d9758c970a21bd1b60a781b3"
+    },
+    {
+      "name": "aberdeennews-2022-10-29T17:50:31.490229-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667083839",
+      "size": "22009",
+      "md5": "63f06cdb95c0f78ff1c7caf7d82d2026",
+      "crc32": "52848297",
+      "sha1": "30f9355ef4ae6284e40acfac1aa653072c32086c",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-29T17:50:31.490229-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667083841",
+      "size": "34402",
+      "md5": "a030ac48baca3afed400c6157ba9efc0",
+      "crc32": "fa411b2f",
+      "sha1": "d9da2f73698a9387f5d2c194c5a866f381e0691f",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-29T17:50:31.490229-05:00.jpg",
+      "source": "original",
+      "mtime": "1667083838",
+      "size": "270231",
+      "md5": "22745a56fad1ca717be8938b024525b9",
+      "crc32": "9408710b",
+      "sha1": "09631acfe204b72dbd19597ee56078c7d8c94e5e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-29T17:50:31.490229-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667083843",
+      "size": "1513",
+      "md5": "56a4843a3995ca66b476d0363b0ff12f",
+      "crc32": "bdb38ab0",
+      "sha1": "6b76447b3bbdd229ae073fff57a4f367eca06e44",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-29T17:50:31.490229-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667083844",
+      "size": "84019",
+      "md5": "81ce8e64e6f0e0ab11a0cafb1e057e06",
+      "crc32": "eecd3362",
+      "sha1": "759915b2e6005a6ab947580665397fa1b06ffa6c",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-29T17:50:31.490229-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-29T17:50:31.490229-05:00.jpg",
+      "mtime": "1667084947",
+      "size": "9215",
+      "md5": "76c2a82c63d75394fd4b13f3d9f443c6",
+      "crc32": "4b20d33e",
+      "sha1": "9cba24b009c485fa0ee0501c6661f9aef25424ec"
+    },
+    {
+      "name": "aberdeennews-2022-10-30T05:45:20.159508-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126725",
+      "size": "23480",
+      "md5": "5afb732d4b452ad2d882c1c32e307ebb",
+      "crc32": "ebc3659a",
+      "sha1": "ef7821dd110a9e92bca2456b4aa23453c7738bf3",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-30T05:45:20.159508-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126726",
+      "size": "43747",
+      "md5": "01003b5cc327bc829cde1e9618d44928",
+      "crc32": "98ebd6dd",
+      "sha1": "c1c46e7567ccc147c7623be30954be5bbe93fd4a",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-30T05:45:20.159508-05:00.jpg",
+      "source": "original",
+      "mtime": "1667126723",
+      "size": "284082",
+      "md5": "57a52b426c7b0889624218d9e20e507d",
+      "crc32": "2d268d56",
+      "sha1": "0062e927b731bfb062b7051d03589a943facd8b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-30T05:45:20.159508-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126728",
+      "size": "1512",
+      "md5": "9198ba1f03866bdd2232cd1751da1f48",
+      "crc32": "16990956",
+      "sha1": "311b9dcb1c5ff17b0ebe89335cbfdf398b6059f6",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-30T05:45:20.159508-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126729",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-30T05:45:20.159508-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-30T05:45:20.159508-05:00.jpg",
+      "mtime": "1667127002",
+      "size": "9389",
+      "md5": "c6d1ca0a1dd1f3ca974898dc2a978783",
+      "crc32": "0708623c",
+      "sha1": "9e612784fcd9ef345fa17ba78b204ec3004769a0"
+    },
+    {
+      "name": "aberdeennews-2022-10-30T17:39:31.957047-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667169576",
+      "size": "22709",
+      "md5": "084a358afc24bcc71763ea5dd2dfcd80",
+      "crc32": "4d7a24eb",
+      "sha1": "4b5a072325252f76583b6eb0a4081b6248a5e4e6",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-30T17:39:31.957047-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667169578",
+      "size": "41292",
+      "md5": "d1bbe26f64a08ebddfb15b56277c2946",
+      "crc32": "5cb9c370",
+      "sha1": "6dabab7b188ce9b73e44c81e0242ed4db9ebd497",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-30T17:39:31.957047-05:00.jpg",
+      "source": "original",
+      "mtime": "1667169575",
+      "size": "278544",
+      "md5": "1231c2e74205632eab12707810ccd1da",
+      "crc32": "c41e30ff",
+      "sha1": "f608be45784e0f0564c9ecc1885103bce7539247",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-30T17:39:31.957047-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667169580",
+      "size": "1513",
+      "md5": "14c6fc1cd72be71a12b5e6e3471f7b86",
+      "crc32": "0ff6fbf6",
+      "sha1": "029984014e8178a18832efac8dc5aeeee88cdde1",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-30T17:39:31.957047-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667169582",
+      "size": "74937",
+      "md5": "6c52470bf1cb258469bd7f6d4be44063",
+      "crc32": "8c1d6a0b",
+      "sha1": "3e758982d56f20903b480e1552324280f4aa34ea",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-30T17:39:31.957047-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-30T17:39:31.957047-05:00.jpg",
+      "mtime": "1667170676",
+      "size": "9365",
+      "md5": "3181b664f31309221f1c451f679d3a21",
+      "crc32": "328de370",
+      "sha1": "2abb05fd398cbb9e2f7aadaebcdb896962100dac"
+    },
+    {
+      "name": "aberdeennews-2022-10-31T05:46:01.616700-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667213170",
+      "size": "23817",
+      "md5": "d908a8b8e6b744697abc1853dc33d9e8",
+      "crc32": "97bfb25d",
+      "sha1": "1cc1c7383ad97368d0791975712e81ee124c1deb",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-31T05:46:01.616700-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667213171",
+      "size": "44393",
+      "md5": "ef6568f830ffa2aa1b2fa4674dc88119",
+      "crc32": "f2288619",
+      "sha1": "a9b37f4b12983ecc97ba4634387926190b35ed07",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-31T05:46:01.616700-05:00.jpg",
+      "source": "original",
+      "mtime": "1667213168",
+      "size": "223957",
+      "md5": "b5ba59c761237b8d08bb0ac94bd01cad",
+      "crc32": "c2175c1e",
+      "sha1": "1afcdd9f531e627ee974a763f1e450c2d81775dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-31T05:46:01.616700-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667213173",
+      "size": "1513",
+      "md5": "5a3609de4d9a65809d9dc0ef44cc035e",
+      "crc32": "5c3f3291",
+      "sha1": "52397f626f262e4b89fff199d303d2a8a78671f3",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-31T05:46:01.616700-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667213174",
+      "size": "105",
+      "md5": "d717ec15a80eb3b2eaa402b3f7ed2a20",
+      "crc32": "110534b8",
+      "sha1": "38e5335a91c52f997b26aef86eec3f2e04ae2b86",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-31T05:46:01.616700-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-31T05:46:01.616700-05:00.jpg",
+      "mtime": "1667214011",
+      "size": "8972",
+      "md5": "bb0e08015edda0545bdeae8e598136d5",
+      "crc32": "995e2553",
+      "sha1": "a92daa7521d97d73b66755fa928c039cd0021208"
+    },
+    {
+      "name": "aberdeennews-2022-10-31T17:51:34.479310-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667256704",
+      "size": "22647",
+      "md5": "68b0761dd25e690dcbebf14c8343015b",
+      "crc32": "bf193d35",
+      "sha1": "03d154e60043249519ea0847ba8dbc6b0ce02653",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-31T17:51:34.479310-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667256705",
+      "size": "40082",
+      "md5": "bfaca1f0085e7d352e8ffd75480b7319",
+      "crc32": "a3cb7e85",
+      "sha1": "a99df6469ab7d69e5006ce5bcf235dc855a50c46",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-31T17:51:34.479310-05:00.jpg",
+      "source": "original",
+      "mtime": "1667256702",
+      "size": "238985",
+      "md5": "c47a28acda03caee1a9f070c1e692b3c",
+      "crc32": "e431c5d6",
+      "sha1": "71fbcd8a7b6b23d663052cd619243eb33dcb64bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-10-31T17:51:34.479310-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667256706",
+      "size": "1513",
+      "md5": "37776c7d6bca9b22bc0a4d7a12082aa1",
+      "crc32": "0dc31eb1",
+      "sha1": "01cf185d05027d482daea67bee0652d61597a5f2",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-31T17:51:34.479310-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667256708",
+      "size": "76773",
+      "md5": "955b55b9971022ee252c0348747b8705",
+      "crc32": "f7913efd",
+      "sha1": "7f4602bc22912e7a23eec6bcfd7d11026d0570e3",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-10-31T17:51:34.479310-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-10-31T17:51:34.479310-05:00.jpg",
+      "mtime": "1667257125",
+      "size": "9346",
+      "md5": "6dcd6f080065d89532e8c627c66a9f41",
+      "crc32": "03d4e67b",
+      "sha1": "0347cb9eb2b0f9acdefb116eef0d0ecc5df53448"
+    },
+    {
       "name": "aberdeennews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ce74e146fd0cd21ef6d3945396c49335836b5c0",
-      "mtime": "1666695504",
-      "size": "91288",
-      "md5": "b9ca8536607fff4783dca57a61f13548",
-      "crc32": "ec9b26d1",
-      "sha1": "4cb4c1c0b1ed860376554607087804880347b946",
+      "btih": "c0b6398708793438f180233b74ed150130c48e6b",
+      "mtime": "1667257136",
+      "size": "108212",
+      "md5": "d6da0134666c741e9d6fb498b029f121",
+      "crc32": "26906807",
+      "sha1": "7c683683e09cef821f38f3ea922c9d077fe3851f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aberdeennews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "689ab89930b0b5d3dc2ee42f37edb56c",
+      "md5": "4ce3f6ba4f7e6f0c0b4536ce9ae0d68d",
       "summation": "md5"
     },
     {
       "name": "aberdeennews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695464",
-      "size": "557056",
-      "md5": "d966966885c99bfe3e6915475c58de73",
-      "crc32": "a8766e0d",
-      "sha1": "c83944d37d8ac428a8b22f764486904794e63771",
+      "mtime": "1667256714",
+      "size": "655360",
+      "md5": "f2eaa7db3484dee580b7c5c222feabc8",
+      "crc32": "0d0a5a5d",
+      "sha1": "5922bd534129dae5b8ea258ebcef8e099c5441bd",
       "format": "Metadata"
     },
     {
@@ -4373,9 +5190,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 423,
-  "item_last_updated": 1666695504,
-  "item_size": 29049031,
+  "files_count": 502,
+  "item_last_updated": 1667257136,
+  "item_size": 34297293,
   "metadata": {
     "identifier": "aberdeennews-2022",
     "collection": [
@@ -4392,21 +5209,10 @@
     "publicdate": "2022-09-20 22:07:51",
     "addeddate": "2022-09-20 22:07:51"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451502904,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2101556578,
+  "server": "ia801503.us.archive.org",
+  "uniq": 168292651,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

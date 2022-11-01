@@ -1,5 +1,6 @@
 {
-  "created": 1666695693,
+  "conflict": 1667257254,
+  "created": 1667257254,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/10/items/arkbusiness-2022",
@@ -5379,31 +5380,848 @@
       "format": "JSON"
     },
     {
+      "name": "arkbusiness-2022-10-25T05:59:07.955445-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-25T05:59:07.955445-05:00.jpg",
+      "mtime": "1666697490",
+      "size": "9299",
+      "md5": "a0e0ee05984b850d5135638adf8407bb",
+      "crc32": "0ad11171",
+      "sha1": "0b7ce02d9959a37142a1f00ce00087e18b611f53"
+    },
+    {
+      "name": "arkbusiness-2022-10-25T17:59:44.954450-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738791",
+      "size": "41758",
+      "md5": "f173ae5023db0135e95a43653f468d63",
+      "crc32": "66cdf4a3",
+      "sha1": "e8c88fb5dbb6d52b3b8f95d35a8e15823e11efff",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-25T17:59:44.954450-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738793",
+      "size": "37045",
+      "md5": "1f83c2e1479511293a2fe5eb56ace673",
+      "crc32": "2ba43530",
+      "sha1": "d33e5df2dd9cc4203af6ff9956169775753dbaed",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-25T17:59:44.954450-05:00.jpg",
+      "source": "original",
+      "mtime": "1666738789",
+      "size": "311389",
+      "md5": "e8bca2d6d08432b8f36a044f1c63a516",
+      "crc32": "82df6b21",
+      "sha1": "9f9dbe70075861081c5098c23d4cdc40516d46ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-25T17:59:44.954450-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666738795",
+      "size": "1549",
+      "md5": "affd6475f662ff134d6b399384084179",
+      "crc32": "6d3daf1f",
+      "sha1": "33a00a3e9147ac52c4f30c20b441cc5315d53d1b",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-25T17:59:44.954450-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738797",
+      "size": "19925",
+      "md5": "d7805a333340f57f19c206d36fd5bef7",
+      "crc32": "c61a4f12",
+      "sha1": "8ab61434b148c767a1fea4464257600e656233fd",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-25T17:59:44.954450-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-25T17:59:44.954450-05:00.jpg",
+      "mtime": "1666740873",
+      "size": "9915",
+      "md5": "6b2b646ace656e11066183153a76ff3e",
+      "crc32": "793e1058",
+      "sha1": "4e05f51d7d8201f3245c180f58e7bd7086ba6d1f"
+    },
+    {
+      "name": "arkbusiness-2022-10-26T05:54:14.735585-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781659",
+      "size": "41736",
+      "md5": "b9f4d63ff92a6953a3b72da4cb010fbd",
+      "crc32": "c74737b7",
+      "sha1": "723f76ff6037268ff83e40f9312a8295c2591879",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-26T05:54:14.735585-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781661",
+      "size": "37181",
+      "md5": "c9a517ac865fe5d071e4b6d7384f9c90",
+      "crc32": "8e173317",
+      "sha1": "47f5dec4fea573fc869d33f8cee1b3829141a85d",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-26T05:54:14.735585-05:00.jpg",
+      "source": "original",
+      "mtime": "1666781658",
+      "size": "311384",
+      "md5": "250acef6a4c97ac85f005e4c4feccaa0",
+      "crc32": "75e64eca",
+      "sha1": "005c0ae4188a0ffe0fd04c34c64cfe6a6b0f2fc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-26T05:54:14.735585-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781663",
+      "size": "1549",
+      "md5": "70e5208f917e571c1fc03a3d65b8ff26",
+      "crc32": "7ddcb37c",
+      "sha1": "99073aee79a14b30b4bc43e548a7111cf656b38b",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-26T05:54:14.735585-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781664",
+      "size": "109",
+      "md5": "26e3ea468254115ba47f45125cf1473e",
+      "crc32": "eaab789b",
+      "sha1": "644b76e9398dd95afa8c17cd3eaa09e8bb1e67a0",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-26T05:54:14.735585-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-26T05:54:14.735585-05:00.jpg",
+      "mtime": "1666783055",
+      "size": "9915",
+      "md5": "824506dc1b8ee26ce16c5f1e8f5a2ca9",
+      "crc32": "cb2d2058",
+      "sha1": "de5f8e022046c6a07eaf98fbfa118f32a462a682"
+    },
+    {
+      "name": "arkbusiness-2022-10-26T17:56:04.501622-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666824969",
+      "size": "41578",
+      "md5": "13a4df03194d3b25c0b8b65ab16301a9",
+      "crc32": "f4b4f638",
+      "sha1": "0e295ab7be490c657067c99743957d9aad77dc0f",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-26T17:56:04.501622-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666824971",
+      "size": "36690",
+      "md5": "1e73b51efd9257123c92dc02982c63fd",
+      "crc32": "d0f273f8",
+      "sha1": "163985aad3ed045e8a3815ef95b0c0688f1c87f2",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-26T17:56:04.501622-05:00.jpg",
+      "source": "original",
+      "mtime": "1666824967",
+      "size": "302736",
+      "md5": "67da8a43a740f659cad4d04b12e21882",
+      "crc32": "b4d260d1",
+      "sha1": "0a1580986280f10e01d1ccdd427b0d0e21de1a8a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-26T17:56:04.501622-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666824973",
+      "size": "1549",
+      "md5": "95a205022f0646597bb618fca3ea47c6",
+      "crc32": "aa8460b3",
+      "sha1": "5d88efa774c18d1615ed522ed81224151fa6c4cc",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-26T17:56:04.501622-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666824976",
+      "size": "20203",
+      "md5": "a836248ddd9eb0e676a0b95348f24237",
+      "crc32": "e98a17b3",
+      "sha1": "e8c871dd6446db605bdb1f81c2296f567fcf7796",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-26T17:56:04.501622-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-26T17:56:04.501622-05:00.jpg",
+      "mtime": "1666849173",
+      "size": "9724",
+      "md5": "661e361da24f43f96ec0055a94f19e08",
+      "crc32": "748f3950",
+      "sha1": "eeac41a35e2f6a58569ea4660ce8efcb289ae566"
+    },
+    {
+      "name": "arkbusiness-2022-10-27T06:02:48.905126-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666868577",
+      "size": "41515",
+      "md5": "3d3930c521e618e8110162c2390607e0",
+      "crc32": "59267ff2",
+      "sha1": "355eccfaf858695f82b03ef510878cb041eeea55",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-27T06:02:48.905126-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666868579",
+      "size": "36660",
+      "md5": "a269e04a93c9026d57f9d5727539f882",
+      "crc32": "a5084db1",
+      "sha1": "366f388c9280344027e73ebe9902c2c873e4a7f6",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-27T06:02:48.905126-05:00.jpg",
+      "source": "original",
+      "mtime": "1666868575",
+      "size": "300438",
+      "md5": "32f97c4eadcc2d82c805b2d2e898d694",
+      "crc32": "fe9e65a7",
+      "sha1": "6d15f0bea176c1201a72ef78ff88babe4f745f76",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-27T06:02:48.905126-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666868583",
+      "size": "1549",
+      "md5": "495764484dd8b4247388961b441aebbd",
+      "crc32": "6472f939",
+      "sha1": "818fc219a97050799d963b01a4f122d06785c51b",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-27T06:02:48.905126-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666868584",
+      "size": "109",
+      "md5": "26e3ea468254115ba47f45125cf1473e",
+      "crc32": "eaab789b",
+      "sha1": "644b76e9398dd95afa8c17cd3eaa09e8bb1e67a0",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-27T06:02:48.905126-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-27T06:02:48.905126-05:00.jpg",
+      "mtime": "1666886944",
+      "size": "9745",
+      "md5": "0b425ba282d25027206320aa393ae00c",
+      "crc32": "04d116e9",
+      "sha1": "eac0904363ce70470424494f91dd2bda11b3f54d"
+    },
+    {
+      "name": "arkbusiness-2022-10-27T17:46:10.817386-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910776",
+      "size": "41051",
+      "md5": "f2736d3fe2aec0a35de5d3cbce605f03",
+      "crc32": "0f482f3e",
+      "sha1": "a9b6fec9b91c5d6d9e0ddbf5da93941453d4500a",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-27T17:46:10.817386-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910779",
+      "size": "36256",
+      "md5": "5a612ff584f60cb830c92512450c491b",
+      "crc32": "69363bc8",
+      "sha1": "fa67661f558d048945c6a9d5a15755837975d90f",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-27T17:46:10.817386-05:00.jpg",
+      "source": "original",
+      "mtime": "1666910774",
+      "size": "347503",
+      "md5": "c376441e4f783ac55655c754d0c8edf6",
+      "crc32": "7d23a352",
+      "sha1": "37e74d2a4d6801a1aff8baa9f7436c12f2353460",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-27T17:46:10.817386-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910780",
+      "size": "1549",
+      "md5": "6357bf457fcda92a64a2cc2a3cf56567",
+      "crc32": "80390ab1",
+      "sha1": "9f27cf8f50c50c8efe87e25e30920b1624f33922",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-27T17:46:10.817386-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910781",
+      "size": "20654",
+      "md5": "4547d18503b9c8217c00e14fa6a96e16",
+      "crc32": "6d1c1b2e",
+      "sha1": "dc065a2432202479b8686043f18a4057cf07259f",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-27T17:46:10.817386-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-27T17:46:10.817386-05:00.jpg",
+      "mtime": "1666913241",
+      "size": "10102",
+      "md5": "4106267faf2c504ec2d5e98fc378ea36",
+      "crc32": "b8f676d2",
+      "sha1": "6fb6d8124117524ba62d6f0f07f6cc7e635c4236"
+    },
+    {
+      "name": "arkbusiness-2022-10-28T05:54:13.335127-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666954456",
+      "size": "41123",
+      "md5": "22ffa87e371979b916fd11199a09fd27",
+      "crc32": "007beffa",
+      "sha1": "a3a52ca3bc5fcea1b32837a7b49b5cf0468af3c1",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-28T05:54:13.335127-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666954458",
+      "size": "36251",
+      "md5": "dcc8258a389cb42ce220ac62ac7029b1",
+      "crc32": "ea84ea82",
+      "sha1": "f5a402d05628b0574113f1a7e38a5ee4bee3ce87",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-28T05:54:13.335127-05:00.jpg",
+      "source": "original",
+      "mtime": "1666954455",
+      "size": "347222",
+      "md5": "984d6993fa32ef107852d6829a0d8f99",
+      "crc32": "077fc3a6",
+      "sha1": "a3793fd5bad712700af27bfd02cc050b66b17f4f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-28T05:54:13.335127-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666954459",
+      "size": "1549",
+      "md5": "2185d0de507f465a26389b0029af68bb",
+      "crc32": "b6e1f8c1",
+      "sha1": "7a47fad3234ab4e3051f0192a55fb717a9559e9d",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-28T05:54:13.335127-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666954461",
+      "size": "20081",
+      "md5": "889478106929ca61e2034106ecef8cf0",
+      "crc32": "1062ddfe",
+      "sha1": "638e808e6a3d7f58d525fe59e6524259e16d71a9",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-28T05:54:13.335127-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-28T05:54:13.335127-05:00.jpg",
+      "mtime": "1666960729",
+      "size": "10109",
+      "md5": "a37456ea6cbb3bbbe972864d7019ffcb",
+      "crc32": "db8d18d6",
+      "sha1": "ea5f82d589c889e07e150f07f77ae668f4ad46f4"
+    },
+    {
+      "name": "arkbusiness-2022-10-28T18:03:48.416563-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666998233",
+      "size": "41401",
+      "md5": "1932c35fecae84f6c53e7bb53b16cfaa",
+      "crc32": "5cc634e7",
+      "sha1": "9e6b6dc98fd6bc010c2623d44df780b8ec0054ee",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-28T18:03:48.416563-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666998235",
+      "size": "36855",
+      "md5": "c33be6824fabe0d5c173bdda3120911a",
+      "crc32": "f94cffcc",
+      "sha1": "db7e8d7ec4425b1409500ee154e6903710e2d8d1",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-28T18:03:48.416563-05:00.jpg",
+      "source": "original",
+      "mtime": "1666998232",
+      "size": "297083",
+      "md5": "41f7789b61e3d9bf50a3b60cb3acb33f",
+      "crc32": "efe6bdb0",
+      "sha1": "d9239df9e734ebfc9dfdd18a134b06d59274923b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-28T18:03:48.416563-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666998236",
+      "size": "1549",
+      "md5": "c11644730aecb9add87561f7e76ddaa8",
+      "crc32": "4534f6a9",
+      "sha1": "b1028040e7aaeb33f104aa1f2dba5d0b2a3f7da2",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-28T18:03:48.416563-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666998237",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-28T18:03:48.416563-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-28T18:03:48.416563-05:00.jpg",
+      "mtime": "1666999329",
+      "size": "9486",
+      "md5": "7f6f401f6e7c2f6eddd3b8d4483ba886",
+      "crc32": "f2bb9823",
+      "sha1": "3ff18e1360ccb4f6f376b4e541ca0a60d5699290"
+    },
+    {
+      "name": "arkbusiness-2022-10-29T05:51:21.742614-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040695",
+      "size": "41364",
+      "md5": "082e01611a53c1e12c1813cb461116c4",
+      "crc32": "f23e557d",
+      "sha1": "c5ccb3337dc7f2425ec350bace8cb511c8f0db14",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-29T05:51:21.742614-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040697",
+      "size": "36725",
+      "md5": "3ff4a800bafe0013ace21317fb64b482",
+      "crc32": "368fb6a5",
+      "sha1": "5294c05fee69b1d774675b82a8cbafd269a20fff",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-29T05:51:21.742614-05:00.jpg",
+      "source": "original",
+      "mtime": "1667040694",
+      "size": "297197",
+      "md5": "4278416b70792d07899ddb0e6c3b4605",
+      "crc32": "08bb7d47",
+      "sha1": "e7b35fbec1ef09a0d51f718701c4b9db8ff39b0a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-29T05:51:21.742614-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040698",
+      "size": "1549",
+      "md5": "6dcfc3d485bcfc0f4f5ba9abc1bd30c2",
+      "crc32": "d017aa49",
+      "sha1": "ff49d1c04a2a0c76d28072c339b7de370b7762a0",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-29T05:51:21.742614-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040700",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-29T05:51:21.742614-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-29T05:51:21.742614-05:00.jpg",
+      "mtime": "1667041540",
+      "size": "9482",
+      "md5": "843cf6103cfa14c061be11773343fdfa",
+      "crc32": "296fe2f8",
+      "sha1": "d78561d607b1b3ef56a47b8bec7608bbfe3a4d3c"
+    },
+    {
+      "name": "arkbusiness-2022-10-29T17:53:01.940954-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667083996",
+      "size": "41361",
+      "md5": "a31a91d45c59e73a96db5d4aac0d127d",
+      "crc32": "08d02ed1",
+      "sha1": "1f643b3bf10981c8e93fc2e4784a86c3174d28ae",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-29T17:53:01.940954-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667083997",
+      "size": "36737",
+      "md5": "ae2bc52041da1be2ce0bd4a9411dcea7",
+      "crc32": "63dcb105",
+      "sha1": "3076e0f7fb6c4ef51fabdd3a19ca06e9f98d3f6e",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-29T17:53:01.940954-05:00.jpg",
+      "source": "original",
+      "mtime": "1667083994",
+      "size": "297151",
+      "md5": "0b92c21dcd8cd82a6c9a9a7a9973bc7f",
+      "crc32": "4061ede0",
+      "sha1": "d225e285f1c3142aa5fd9a5be64ac4f806522878",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-29T17:53:01.940954-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667083998",
+      "size": "1548",
+      "md5": "30df0ffad81097b519aac7739fbb4c02",
+      "crc32": "e8bd7b86",
+      "sha1": "7bf5e584f66855b55d56486cc6f55e36c927bbca",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-29T17:53:01.940954-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667084000",
+      "size": "20231",
+      "md5": "1db871f8fda4167e3d4db03f6420498f",
+      "crc32": "2f94bb97",
+      "sha1": "c3324670399e6d25ba5701bb425ac6888d6f8260",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-29T17:53:01.940954-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-29T17:53:01.940954-05:00.jpg",
+      "mtime": "1667084939",
+      "size": "9480",
+      "md5": "1e6fe1d2a16948a22cbb3e5b43db368e",
+      "crc32": "db6a1ca8",
+      "sha1": "7e211ed8501ba4a34255912b5dff2ef3279ed3c0"
+    },
+    {
+      "name": "arkbusiness-2022-10-30T05:46:00.215238-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126764",
+      "size": "41358",
+      "md5": "301982ce70c9947513d3b25f6c9a662c",
+      "crc32": "b26c7851",
+      "sha1": "73dff07844cbed59a573c68ecda2a30dbfbb4399",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-30T05:46:00.215238-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126765",
+      "size": "36726",
+      "md5": "bffff22a4445c4baa10c67336f82c205",
+      "crc32": "0b75bf87",
+      "sha1": "2c6757183e2be3c60afbe5ba58cbde2fc1012f66",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-30T05:46:00.215238-05:00.jpg",
+      "source": "original",
+      "mtime": "1667126762",
+      "size": "297195",
+      "md5": "ed30453b186456ef4d1bbc5c793b9959",
+      "crc32": "e6abaf30",
+      "sha1": "b90e4dead3a18347d721acabca5a78370bef484b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-30T05:46:00.215238-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126767",
+      "size": "1549",
+      "md5": "45e101d8146d7978991644304a5f9665",
+      "crc32": "d6e08879",
+      "sha1": "f4d483059643a6c277021e618787cd36ae293f81",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-30T05:46:00.215238-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126769",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-30T05:46:00.215238-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-30T05:46:00.215238-05:00.jpg",
+      "mtime": "1667126822",
+      "size": "9478",
+      "md5": "d4a1fb7096e88ff6fd9581d52e02e5c8",
+      "crc32": "01059b1f",
+      "sha1": "528260e4a28b11323d0b6fd0d22568a0afb68bf7"
+    },
+    {
+      "name": "arkbusiness-2022-10-30T17:39:13.573879-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667169557",
+      "size": "41359",
+      "md5": "f4b90ea96ae499b173db7eee591be412",
+      "crc32": "43986f03",
+      "sha1": "2ec3ca5e00bfe3f92de700f40a4b3c02ab333206",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-30T17:39:13.573879-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667169560",
+      "size": "36732",
+      "md5": "0b0936dadc605749169d9185a40ef451",
+      "crc32": "73ef7b40",
+      "sha1": "0ca71aa90b62d0195da9526c7ceb57062ac7e7a1",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-30T17:39:13.573879-05:00.jpg",
+      "source": "original",
+      "mtime": "1667169555",
+      "size": "297153",
+      "md5": "1e6540af4464372b5cf87b695a030043",
+      "crc32": "545c726a",
+      "sha1": "f08a697938a1ecdee92dbc62569d864677243155",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-30T17:39:13.573879-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667169562",
+      "size": "1548",
+      "md5": "a1394db5af8a012de22a00b452f52566",
+      "crc32": "02ce7430",
+      "sha1": "34664724e39408cafeb03e108e3e4d423db5fb67",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-30T17:39:13.573879-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667169564",
+      "size": "20262",
+      "md5": "380fb641f99865d078425c9c29e842e8",
+      "crc32": "70f1544e",
+      "sha1": "fae5245772b82b2d70576cd4c995df6470a2f69d",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-30T17:39:13.573879-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-30T17:39:13.573879-05:00.jpg",
+      "mtime": "1667169657",
+      "size": "9478",
+      "md5": "6ebd991ae3562b66028f27abf9a48fcd",
+      "crc32": "7296c4f8",
+      "sha1": "d43dbc5bc88fa3f1bf94ceebc94bc56f8c9b9f4e"
+    },
+    {
+      "name": "arkbusiness-2022-10-31T05:48:40.841405-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667213327",
+      "size": "40062",
+      "md5": "adbd802163b9e54e20ac3508c4bbef06",
+      "crc32": "d4194427",
+      "sha1": "9d8f2cd4aa81acd8d140c1d086593c238f0d27ee",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-31T05:48:40.841405-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667213329",
+      "size": "36695",
+      "md5": "5d7e342b3f2448e4d87a6820dcf9f009",
+      "crc32": "b43929e6",
+      "sha1": "ba1efe0c986505cf7748be404e4f61eb1e91b7ea",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-31T05:48:40.841405-05:00.jpg",
+      "source": "original",
+      "mtime": "1667213326",
+      "size": "307730",
+      "md5": "ab76bfc878e854922df0ae5f4058f5fb",
+      "crc32": "4345963f",
+      "sha1": "39f20ea2b4ccc8575a2b593748e1ae22f00319c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-31T05:48:40.841405-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667213330",
+      "size": "1548",
+      "md5": "431fe69feb699766692270a300da9096",
+      "crc32": "97e57ce1",
+      "sha1": "53b4e66e183e5d4b57444940972dd849db714a39",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-31T05:48:40.841405-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667213332",
+      "size": "257",
+      "md5": "5654b13f17ae7a926a851d4cc81f2450",
+      "crc32": "4e98dae9",
+      "sha1": "87cf77a409a533bdfc9af5742b5845ba326510f4",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-31T05:48:40.841405-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-31T05:48:40.841405-05:00.jpg",
+      "mtime": "1667214115",
+      "size": "9604",
+      "md5": "3df8601073e5e070d7a0ae2e3adec4ce",
+      "crc32": "19e2a722",
+      "sha1": "b096364ef7711ef6466465a5f2fe36227d6b2fcf"
+    },
+    {
+      "name": "arkbusiness-2022-10-31T17:51:42.700101-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667256711",
+      "size": "41290",
+      "md5": "d2078540ab154351ed090da76c97c92a",
+      "crc32": "2c5f94db",
+      "sha1": "47f2ce032c27aeb67346b0c7587471a868ba3f1f",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-31T17:51:42.700101-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667256712",
+      "size": "36237",
+      "md5": "7dd8cadc70635b0294e610803ddaa186",
+      "crc32": "1eaee47c",
+      "sha1": "470af3d4d08e7e8961ed8106580315e23a182e40",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-31T17:51:42.700101-05:00.jpg",
+      "source": "original",
+      "mtime": "1667256709",
+      "size": "313913",
+      "md5": "d3ab0aae344df34ae431771b9b793453",
+      "crc32": "71241944",
+      "sha1": "b8cb51b88ef68f8b4fe70505722fd257f3ee07da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-10-31T17:51:42.700101-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667256714",
+      "size": "1549",
+      "md5": "bb1c1a7e4d0cd0bb63c6bee023b20257",
+      "crc32": "b708a9c1",
+      "sha1": "ad4bdf8753aa99f13a713bffb447b17a087394ab",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-31T17:51:42.700101-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667256716",
+      "size": "20241",
+      "md5": "307e3b6e6c8d334261476cd5e2516fd0",
+      "crc32": "7c80e541",
+      "sha1": "65822d9177b084a36e7c8f15c160b7423f287bba",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-10-31T17:51:42.700101-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-10-31T17:51:42.700101-05:00.jpg",
+      "mtime": "1667257241",
+      "size": "9948",
+      "md5": "fdf4bef33ff9cf1951af92d880aa8924",
+      "crc32": "c80dbde2",
+      "sha1": "2e65f91724cdcbec59bd43ef40c4094325a6d8e9"
+    },
+    {
       "name": "arkbusiness-2022_archive.torrent",
       "source": "metadata",
-      "btih": "23d0f40fb550b37d46d7bdb93fb6afce41a60860",
-      "mtime": "1666695691",
-      "size": "112428",
-      "md5": "1152958d0b718c53aa88f90815703d2e",
-      "crc32": "5ff35ef5",
-      "sha1": "cac3f6f5f45c1f54c44e980458535bc947950bea",
+      "btih": "c8dd2af0398cda29f09411ed5ce85c0f793b5719",
+      "mtime": "1667257251",
+      "size": "129290",
+      "md5": "fce01b825ef6751acf56acabf0436675",
+      "crc32": "c0973538",
+      "sha1": "4bdc34756d5b61b3c10bc414820542aef0564580",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arkbusiness-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c4c09a4be5ec6053e9b41d95e4b84cb",
+      "md5": "995140aee48a64668dab7efd534718db",
       "summation": "md5"
     },
     {
       "name": "arkbusiness-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695650",
-      "size": "684032",
-      "md5": "3fbdd4718a4c027508a56b3ba9e302a6",
-      "crc32": "b9e9de1f",
-      "sha1": "4f7bac902c4feb5c8bbed13e740967edab440863",
+      "mtime": "1667256721",
+      "size": "778240",
+      "md5": "dca373975901b2dfd9b71d766f7de7dc",
+      "crc32": "1cefd218",
+      "sha1": "b748a890cd27472e0793cea6baf0e040e3688911",
       "format": "Metadata"
     },
     {
@@ -5417,9 +6235,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 524,
-  "item_last_updated": 1666695691,
-  "item_size": 37184534,
+  "files_count": 603,
+  "item_last_updated": 1667257251,
+  "item_size": 42636021,
   "metadata": {
     "identifier": "arkbusiness-2022",
     "collection": [
@@ -5441,15 +6259,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451509920,
+      "task_id": 3458211015,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458217321,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1549594334,
+  "uniq": 1229187321,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

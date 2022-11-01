@@ -1,5 +1,5 @@
 {
-  "created": 1666706178,
+  "created": 1667227878,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/23/items/newsgorkhapatra-2022",
@@ -10577,31 +10577,775 @@
       "format": "JSON"
     },
     {
+      "name": "newsgorkhapatra-2022-10-25T19:40:05.186910+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-25T19:40:05.186910+05:45.jpg",
+      "mtime": "1666708387",
+      "size": "10781",
+      "md5": "4ca58fd0c8a217e9f140c9896d9d3bc0",
+      "crc32": "4fbe457c",
+      "sha1": "ecd315ec01b76b3b8eb8970f28b719aea699f7b5"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-26T08:15:07.679590+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666751411",
+      "size": "87242",
+      "md5": "f5a43ef2a8941fd03931c99b8c8508a2",
+      "crc32": "5d27e90a",
+      "sha1": "74e63417f45928d368dd70566459cd2d9c891078",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-26T08:15:07.679590+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666751413",
+      "size": "69125",
+      "md5": "4412c361158211a588df9ae663300ce4",
+      "crc32": "c58eb821",
+      "sha1": "4011e9e9031bbffdc52416c6e4c2ddaf500ac5d7",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-26T08:15:07.679590+05:45.jpg",
+      "source": "original",
+      "mtime": "1666751409",
+      "size": "225249",
+      "md5": "dec157efebe54d52accd0008dfc887ae",
+      "crc32": "e9641cbc",
+      "sha1": "c48d1bf7161b2d6c4550380891fd4e142573b044",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-26T08:15:07.679590+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666751415",
+      "size": "1522",
+      "md5": "f5a3ba6a5ee5426daea1a471354bd1a0",
+      "crc32": "adc4bd1d",
+      "sha1": "3d7c29f19825c616ded847ec86a3989d696867e7",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-26T08:15:07.679590+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666751416",
+      "size": "15634",
+      "md5": "0fd9362a3c297db72461bbaf66e951a9",
+      "crc32": "6a8fe70c",
+      "sha1": "de63359aa50160638f7bcff24f1bbaa70340f839",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-26T08:15:07.679590+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-26T08:15:07.679590+05:45.jpg",
+      "mtime": "1666751608",
+      "size": "10421",
+      "md5": "e28feb3768ce06b22be8bca734e42277",
+      "crc32": "14138a27",
+      "sha1": "296ca47a20a7ffe00354f8ec1e77ac0e794a8de4"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-26T20:39:09.833416+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666796059",
+      "size": "93431",
+      "md5": "1eab698be4abaee0d6ca0e304c9ec9ce",
+      "crc32": "0b65e290",
+      "sha1": "88316dcc215738efade425de5207b99d723bee08",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-26T20:39:09.833416+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796063",
+      "size": "69911",
+      "md5": "8c457a7e7d81d2bab64aa1b03f108cfb",
+      "crc32": "4991c0b4",
+      "sha1": "23fbbe49d7bce884dfc89ed5fed1b1f88be29474",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-26T20:39:09.833416+05:45.jpg",
+      "source": "original",
+      "mtime": "1666796057",
+      "size": "287852",
+      "md5": "da95e04e7610d730f42d124cc735a417",
+      "crc32": "e425ebb6",
+      "sha1": "f34ecde785c619ccc9e00e665941da73e59fb87f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-26T20:39:09.833416+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796066",
+      "size": "1522",
+      "md5": "6e2155cba55dbb877c9174a63f24f91b",
+      "crc32": "2a014d68",
+      "sha1": "8ae4747a4855bfde66ed58fb9ba398133d4ef31b",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-26T20:39:09.833416+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666796068",
+      "size": "106",
+      "md5": "15076212b5d405637ca84eba22cf3878",
+      "crc32": "07a6e255",
+      "sha1": "1a78df38ac943bdfc07d4649991881e0e917caaf",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-26T20:39:09.833416+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-26T20:39:09.833416+05:45.jpg",
+      "mtime": "1666796649",
+      "size": "10317",
+      "md5": "69cd6d7b2ce0935b72485322231f7ece",
+      "crc32": "d4e1dc0a",
+      "sha1": "53af2d963a2f3f5edc9ffc48af10285f95c5426b"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T08:10:48.170111+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666837552",
+      "size": "88538",
+      "md5": "6781f96c0a0a9711053754d91afa3334",
+      "crc32": "19743b0d",
+      "sha1": "fa0e3aecf2d90ec94ff48fba9cce6f37050275fe",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T08:10:48.170111+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837553",
+      "size": "68462",
+      "md5": "37743e8ec88ee21340ec621f7062c758",
+      "crc32": "50b260d5",
+      "sha1": "8ed016c8c7705288bb456819a31a06759a563f20",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T08:10:48.170111+05:45.jpg",
+      "source": "original",
+      "mtime": "1666837550",
+      "size": "252910",
+      "md5": "9ccf7501f5f4fc9435de2c4cd6105663",
+      "crc32": "1c35ae77",
+      "sha1": "a04adff7bd4b32d920c98e241f8c435993990b65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T08:10:48.170111+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837555",
+      "size": "1521",
+      "md5": "3fa60b13f77d67c19d5beaeb1f70d34d",
+      "crc32": "7329a4d0",
+      "sha1": "6148b1767ec777259a10c5cc191ceba927ea5e70",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T08:10:48.170111+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666837558",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T08:10:48.170111+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-27T08:10:48.170111+05:45.jpg",
+      "mtime": "1666862159",
+      "size": "10178",
+      "md5": "696a4c76d843b7ca333c1f0f951c94bf",
+      "crc32": "8eb806e5",
+      "sha1": "b3a2a2505437326ec39698f3a453fc7c108e0b31"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T19:56:49.956266+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666879916",
+      "size": "90364",
+      "md5": "0e373ff2bc3a8016264bdcd26630eb9a",
+      "crc32": "4b4709b9",
+      "sha1": "f58beefd81891b2b272d19ad5a62fc9ec21b705a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T19:56:49.956266+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666879919",
+      "size": "68402",
+      "md5": "6614a60da0954a67b3cec41fb87ccd02",
+      "crc32": "d717afd5",
+      "sha1": "1ab79158d9195782dead2e485b74fc78f6041749",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T19:56:49.956266+05:45.jpg",
+      "source": "original",
+      "mtime": "1666879913",
+      "size": "245315",
+      "md5": "21c6d113c0db5b0b099cc6a9138c1e89",
+      "crc32": "d0df2d9e",
+      "sha1": "f0c0d113828de90f95510a1c7397e8f001b14ba9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T19:56:49.956266+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666879922",
+      "size": "1519",
+      "md5": "e14ddc94adb139c12146e890a293a171",
+      "crc32": "b1d959aa",
+      "sha1": "6ec8527404946dc5bcd10a864602ced9bef846cd",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T19:56:49.956266+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666879925",
+      "size": "16880",
+      "md5": "8f819ed06c84cfd787392293ccacba7a",
+      "crc32": "b89aa88a",
+      "sha1": "30a402874675ffa2c32587f8d06f2f3b335396ca",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-27T19:56:49.956266+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-27T19:56:49.956266+05:45.jpg",
+      "mtime": "1666893597",
+      "size": "10777",
+      "md5": "07ec6a347aa12f7513b86413f4d39232",
+      "crc32": "f5fb16ba",
+      "sha1": "b16198453451b9df791aa9fcd1f4271b298cc2d3"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-28T08:12:12.572234+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666924041",
+      "size": "89752",
+      "md5": "a2678ef9c0837812a315217f336555fe",
+      "crc32": "5895223e",
+      "sha1": "fcb450020d4edfd662a9c31a4326c4f8bf1703c0",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-28T08:12:12.572234+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666924042",
+      "size": "68214",
+      "md5": "b7441418640f0f50f0acb2e6b81b5e75",
+      "crc32": "45511d81",
+      "sha1": "d10e92de6c36406f10bb87a835924738e843f94e",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-28T08:12:12.572234+05:45.jpg",
+      "source": "original",
+      "mtime": "1666924039",
+      "size": "392166",
+      "md5": "f3dd1d5bfad026e940f7a111c2cc7e20",
+      "crc32": "f6469286",
+      "sha1": "a1aee2fb99ca4496dbfcffc4f238250aaa408484",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-28T08:12:12.572234+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666924044",
+      "size": "1522",
+      "md5": "957a045c3b1dae565af5b08f6483c8cb",
+      "crc32": "a8d27b54",
+      "sha1": "328aa01dba1e52c6b354428fd4c95150a77eae06",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-28T08:12:12.572234+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666924045",
+      "size": "16496",
+      "md5": "e5ef1c78be3b6ed5f393285337c739de",
+      "crc32": "3acad757",
+      "sha1": "3dbb55a9004265e2e12de7fa92b76aca3466fe98",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-28T08:12:12.572234+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-28T08:12:12.572234+05:45.jpg",
+      "mtime": "1666925299",
+      "size": "10215",
+      "md5": "4eef548b213340d96d3f00fe70e8df0f",
+      "crc32": "356dd860",
+      "sha1": "162e3f6ddfdcb02758ee7c5822253544a99cbfec"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-28T19:47:14.862869+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1666965741",
+      "size": "86238",
+      "md5": "b7609a2355a2597286fa70581c017713",
+      "crc32": "2bc2702b",
+      "sha1": "df7a0147af26d318a4d312f1cf2dd49f3ccda8ec",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-28T19:47:14.862869+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666965743",
+      "size": "67416",
+      "md5": "cf77e98265eda2fec8761bf441313845",
+      "crc32": "e380582c",
+      "sha1": "daac8dd0f69eef6500cbd606231b512eda0835d0",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-28T19:47:14.862869+05:45.jpg",
+      "source": "original",
+      "mtime": "1666965739",
+      "size": "220220",
+      "md5": "0116a0d8a4e539e60e1e9b02217c36e5",
+      "crc32": "eeba08a6",
+      "sha1": "ca9a0838a76d8bc2b77f4f15dadf46c8212bf716",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-28T19:47:14.862869+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1666965745",
+      "size": "1522",
+      "md5": "c1d29bf07d87ec79283954d097dd4e26",
+      "crc32": "53d11ee6",
+      "sha1": "8d54d8691a0543ba568493dccc0fca989dfcdd2d",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-28T19:47:14.862869+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1666965747",
+      "size": "16011",
+      "md5": "a6452f3b4454210a2cae99fbb4d77a28",
+      "crc32": "d281fec7",
+      "sha1": "284c90743e48ba5e728e09aebc2b2c21bb7f8de1",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-28T19:47:14.862869+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-28T19:47:14.862869+05:45.jpg",
+      "mtime": "1666970645",
+      "size": "10117",
+      "md5": "53eda184f72149f1b9a008bc2f32f5c2",
+      "crc32": "d099c201",
+      "sha1": "1e9b06c22da5a7be9f7f205de355a6dc3d67456d"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-29T07:59:36.473192+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667009679",
+      "size": "85712",
+      "md5": "45eb2045ec06e280973f288e5ab65a0d",
+      "crc32": "ec1b7c8d",
+      "sha1": "176c14db863f0c845e58b7901c5b9e93a844e2b5",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-29T07:59:36.473192+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667009681",
+      "size": "66923",
+      "md5": "d974e97294676154abbc9adfdb26c1e8",
+      "crc32": "ddee01ad",
+      "sha1": "4b8188598bdb5b1a369ab114a2f6abd217d7659a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-29T07:59:36.473192+05:45.jpg",
+      "source": "original",
+      "mtime": "1667009678",
+      "size": "295214",
+      "md5": "cf4186c81b3ea17a2d7c0352388cfffe",
+      "crc32": "35be454b",
+      "sha1": "de2bfeeb2730f574021f1fe18a17c8291d020e2f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-29T07:59:36.473192+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667009683",
+      "size": "1522",
+      "md5": "f34947d6709ffe175a42e09b8c55d214",
+      "crc32": "5d4f1e20",
+      "sha1": "013443d1324e6823720dd9a6259692c6ffcfbf73",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-29T07:59:36.473192+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667009685",
+      "size": "210",
+      "md5": "ecfaaef2e6d2d4b9dfb07634b9235837",
+      "crc32": "e504abec",
+      "sha1": "398ccda1edd9d5e6f40c8e04a39e16e80fd195ca",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-29T07:59:36.473192+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-29T07:59:36.473192+05:45.jpg",
+      "mtime": "1667011103",
+      "size": "10313",
+      "md5": "3f522fd6a2ff0ffc3de98053f395baac",
+      "crc32": "2aa8dfb1",
+      "sha1": "b57992ff1fd42ed4161f14b31514f2a9a28ce76f"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-29T19:48:25.165771+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667052218",
+      "size": "89511",
+      "md5": "572787335142f59d86af1b5c4c53c27a",
+      "crc32": "2e4d4df2",
+      "sha1": "e9cae090f35b020ba6ae1236e8ec7d64d71d427f",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-29T19:48:25.165771+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667052220",
+      "size": "67725",
+      "md5": "267580b85e8d3f93599dbc3591cb06b5",
+      "crc32": "ca6f8b4a",
+      "sha1": "9e57c0352c58f259bf8dd3d83b9a3d6c07b3acd2",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-29T19:48:25.165771+05:45.jpg",
+      "source": "original",
+      "mtime": "1667052216",
+      "size": "346657",
+      "md5": "e4b703c456d6333fcf436cc9378dacf6",
+      "crc32": "2af92ccd",
+      "sha1": "e000967cfcc748ff05191f76b428d1f7a7c2393a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-29T19:48:25.165771+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667052222",
+      "size": "1522",
+      "md5": "c2c67b30cf2d71c718fe75ad8c439251",
+      "crc32": "ee5024b6",
+      "sha1": "8d5cd407d37b242d5d0f23aefea5dd55fb1514d9",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-29T19:48:25.165771+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667052223",
+      "size": "15907",
+      "md5": "a577c552c1a32e4a848438defe75f878",
+      "crc32": "2bd3b9fe",
+      "sha1": "5ee4d38ebe546918f0aeb0cd217da7a856f43623",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-29T19:48:25.165771+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-29T19:48:25.165771+05:45.jpg",
+      "mtime": "1667053437",
+      "size": "10118",
+      "md5": "aba916aeac8ca30f96439b5822ab6f87",
+      "crc32": "14ac28fd",
+      "sha1": "89f822f307be47871c20e48a73e456ac68095226"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-30T07:52:15.939046+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667095660",
+      "size": "85067",
+      "md5": "00b94f2d398461313d14f60696807a69",
+      "crc32": "0d9707e6",
+      "sha1": "3256876d2967556c48d139499296d79d9c9f5799",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-30T07:52:15.939046+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095662",
+      "size": "66733",
+      "md5": "5ab540cbad33f75e679b816788f8facd",
+      "crc32": "fe98b5d2",
+      "sha1": "9aa204b0d107e874858658b52d54f8003d488332",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-30T07:52:15.939046+05:45.jpg",
+      "source": "original",
+      "mtime": "1667095659",
+      "size": "231346",
+      "md5": "00281ecb7aaa62e3e1a1bfcc7ddad8a5",
+      "crc32": "1ae6b2e8",
+      "sha1": "635ee06a52a8849ce3209da3a056081549bca930",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-30T07:52:15.939046+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095663",
+      "size": "1521",
+      "md5": "f953a2561e193a07fe49282d8a2dceb5",
+      "crc32": "dc6693af",
+      "sha1": "e0ef6eebd2c32bd41faa1cddce8ac08725ffdb3f",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-30T07:52:15.939046+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667095665",
+      "size": "210",
+      "md5": "c00548f0545649fce538051a904029c1",
+      "crc32": "36268168",
+      "sha1": "e0dd3421f7df51ea1f9e4b20aa8aee911a7c7a29",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-30T07:52:15.939046+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-30T07:52:15.939046+05:45.jpg",
+      "mtime": "1667097573",
+      "size": "9654",
+      "md5": "48eed0133d290d7b54486a2195242de8",
+      "crc32": "addb0692",
+      "sha1": "538943bb0b37d4cf55feacf088c086bf7759dda7"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-30T19:32:13.276151+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667137658",
+      "size": "85057",
+      "md5": "325af1d56fc42ab5b4bb7dcacb2d2181",
+      "crc32": "2c24bcab",
+      "sha1": "47366e53d3bfe4da93da7549f04e02e5b91b0a28",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-30T19:32:13.276151+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667137660",
+      "size": "68672",
+      "md5": "61d0053d254719335eb2bfbb2d58def2",
+      "crc32": "b4507470",
+      "sha1": "50b8d36b07665a1bcd5b9d11887d330c45169530",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-30T19:32:13.276151+05:45.jpg",
+      "source": "original",
+      "mtime": "1667137656",
+      "size": "288652",
+      "md5": "ade0c8e0960ad6ad78a6b721b2c51e16",
+      "crc32": "847a9542",
+      "sha1": "4dfd58695db61ff3a03039b9036accf6ba705e6a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-30T19:32:13.276151+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667137662",
+      "size": "1519",
+      "md5": "d7bb2d891acf280d2fb5b19e0725fe71",
+      "crc32": "6e26ad60",
+      "sha1": "152e346da58f8427dc867dfb1a511afd9b203a5e",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-30T19:32:13.276151+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667137664",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-30T19:32:13.276151+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-30T19:32:13.276151+05:45.jpg",
+      "mtime": "1667138307",
+      "size": "11199",
+      "md5": "b203414d9f89ac15f1ff4ebbe40bc944",
+      "crc32": "82194877",
+      "sha1": "d5ea5b788e5a85cd31d0cb5fdb384670aaee62b1"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T07:57:49.853542+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667182391",
+      "size": "87419",
+      "md5": "c67c33de94b1389b609fff2d3aa436c0",
+      "crc32": "c064a17b",
+      "sha1": "ecf43179d7077835ec621f9d7f425aba4f9d3b39",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T07:57:49.853542+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667182392",
+      "size": "66885",
+      "md5": "38bdfe7259411f8ac802eaf4536d78d0",
+      "crc32": "d9fc14f0",
+      "sha1": "9f24405def5bef00501452f9a3fa797171f24ae7",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T07:57:49.853542+05:45.jpg",
+      "source": "original",
+      "mtime": "1667182389",
+      "size": "215119",
+      "md5": "3418239e1cc1d0eb265e1579c8967576",
+      "crc32": "d5642dcd",
+      "sha1": "42915fb9bf3b7dfd56cfbba3c0dbee4f72362912",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T07:57:49.853542+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667182394",
+      "size": "1522",
+      "md5": "669957aa86d56501f286701cc7233f41",
+      "crc32": "2a5d89a0",
+      "sha1": "d6c187a19dc62b0cd0ec4f3b033d727d52070288",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T07:57:49.853542+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667182397",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T07:57:49.853542+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsgorkhapatra-2022-10-31T07:57:49.853542+05:45.jpg",
+      "mtime": "1667183935",
+      "size": "9176",
+      "md5": "4ba5117b61bebc7bb77c6bef5ed15072",
+      "crc32": "c15c907d",
+      "sha1": "d4d20693c7171a19a3eff41ffdc50cab61adfda6"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T19:57:29.927342+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667225561",
+      "size": "101206",
+      "md5": "881a659c9bf6198a80d5c924aa19a788",
+      "crc32": "4a4b9c4a",
+      "sha1": "eb8dacfd2f519f11a85ae478088e20918ebf6bf7",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T19:57:29.927342+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667225567",
+      "size": "69174",
+      "md5": "b11bd11ee4917f9144e14bc072b16292",
+      "crc32": "fc9ba0de",
+      "sha1": "9f40a02930f5392c8c87c63bb65acd828aa41512",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T19:57:29.927342+05:45.jpg",
+      "source": "original",
+      "mtime": "1667225559",
+      "size": "297876",
+      "md5": "32e7aae67699e37d942023087f224b93",
+      "crc32": "b65c8077",
+      "sha1": "ccab608363274f293a5a42672b233ac720f1a301",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T19:57:29.927342+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667225568",
+      "size": "1519",
+      "md5": "98c2e0caec9140c15a75a200e8c71c66",
+      "crc32": "fa7b68d4",
+      "sha1": "95972addac6f73afd8dc0dbe9b065d033bd65fe0",
+      "format": "JSON"
+    },
+    {
+      "name": "newsgorkhapatra-2022-10-31T19:57:29.927342+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667225569",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "newsgorkhapatra-2022_archive.torrent",
       "source": "metadata",
-      "btih": "060fa2f740568d864a4f7af900ea67a18b389b84",
-      "mtime": "1666706173",
-      "size": "224321",
-      "md5": "9d7b31513f2a8cdb25425f614b96ab3b",
-      "crc32": "da0fe7e9",
-      "sha1": "ba7b69ca6f6c5af65b48e98c90c439597e7e79d1",
+      "btih": "548c6e39931399ec6513290f10d9bb1d7c2ad681",
+      "mtime": "1667227868",
+      "size": "240006",
+      "md5": "1ccce9e7038db0803a8438784ac50ec1",
+      "crc32": "7c0f8557",
+      "sha1": "fac785bd7a3d71d92f401ba22cf5ae01e7814fdc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsgorkhapatra-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57366a1f2e352e9d146729536702e579",
+      "md5": "a0106ab46fe1d89b580df2bf9f151afb",
       "summation": "md5"
     },
     {
       "name": "newsgorkhapatra-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666706129",
-      "size": "1323008",
-      "md5": "6522aa526b40134e0119e2498eccd728",
-      "crc32": "f83c6909",
-      "sha1": "115f3d79c27d1f372c984a0426cfc86663e974ff",
+      "mtime": "1667227842",
+      "size": "1417216",
+      "md5": "7d42c08d91fd4f03771abf5a095944b1",
+      "crc32": "7368b99f",
+      "sha1": "1cbe52da93e8638a490b9744c337c94c71f256d3",
       "format": "Metadata"
     },
     {
@@ -10615,9 +11359,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1027,
-  "item_last_updated": 1666706173,
-  "item_size": 78804754,
+  "files_count": 1099,
+  "item_last_updated": 1667227868,
+  "item_size": 84324183,
   "metadata": {
     "identifier": "newsgorkhapatra-2022",
     "collection": [
@@ -10639,7 +11383,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451701957,
+      "task_id": 3457844676,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10647,7 +11391,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1316952637,
+  "uniq": 363863461,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

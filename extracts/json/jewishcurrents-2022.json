@@ -1,5 +1,5 @@
 {
-  "created": 1666702905,
+  "created": 1667221101,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/8/items/jewishcurrents-2022",
@@ -12713,31 +12713,786 @@
       "format": "JSON"
     },
     {
+      "name": "jewishcurrents-2022-10-25T09:00:07.399947-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-25T09:00:07.399947-04:00.jpg",
+      "mtime": "1666704861",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-25T21:25:22.780574-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666747526",
+      "size": "14926",
+      "md5": "95509b3e40d7be522e2e4b7907415871",
+      "crc32": "e22b3c8d",
+      "sha1": "c5ba687cd090e65dd2dd6b5820218743238a36c2",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-25T21:25:22.780574-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666747528",
+      "size": "30688",
+      "md5": "858cfa3edb2883322d0be3d10e323106",
+      "crc32": "0d157a8a",
+      "sha1": "e6ef0eaaf5d6344539f48e365138c74390cd525e",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-25T21:25:22.780574-04:00.jpg",
+      "source": "original",
+      "mtime": "1666747524",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-25T21:25:22.780574-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666747530",
+      "size": "1495",
+      "md5": "00e15fd0bfc8e0d8aacc92b1461bee1a",
+      "crc32": "0ba065fc",
+      "sha1": "2ae7bdf361f40303e760945547b514a655feeb14",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-25T21:25:22.780574-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666747532",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-25T21:25:22.780574-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-25T21:25:22.780574-04:00.jpg",
+      "mtime": "1666749737",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-26T09:02:48.654154-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666789394",
+      "size": "14131",
+      "md5": "2d5a2e1398f118c03ac330f2edb661d2",
+      "crc32": "66f4291a",
+      "sha1": "182713915294927d14569a89bc12999aa9c5d7a1",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-26T09:02:48.654154-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666789396",
+      "size": "30688",
+      "md5": "858cfa3edb2883322d0be3d10e323106",
+      "crc32": "0d157a8a",
+      "sha1": "e6ef0eaaf5d6344539f48e365138c74390cd525e",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-26T09:02:48.654154-04:00.jpg",
+      "source": "original",
+      "mtime": "1666789392",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-26T09:02:48.654154-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666789398",
+      "size": "1495",
+      "md5": "142f73d72ace27eaa74c02e1f7ec1611",
+      "crc32": "f0e5dd1d",
+      "sha1": "49d7c3192e48c69a1bab5ca796006e49bbb75682",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-26T09:02:48.654154-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666789403",
+      "size": "7665",
+      "md5": "3e1ef740cd8069293cb67ece7f1a74d6",
+      "crc32": "da2feb33",
+      "sha1": "cdfca0581a69aa07a741f42cbdb916209c2fe519",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-26T09:02:48.654154-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-26T09:02:48.654154-04:00.jpg",
+      "mtime": "1666790636",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-26T21:22:00.186151-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666833732",
+      "size": "14131",
+      "md5": "2d5a2e1398f118c03ac330f2edb661d2",
+      "crc32": "66f4291a",
+      "sha1": "182713915294927d14569a89bc12999aa9c5d7a1",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-26T21:22:00.186151-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666833735",
+      "size": "30688",
+      "md5": "858cfa3edb2883322d0be3d10e323106",
+      "crc32": "0d157a8a",
+      "sha1": "e6ef0eaaf5d6344539f48e365138c74390cd525e",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-26T21:22:00.186151-04:00.jpg",
+      "source": "original",
+      "mtime": "1666833722",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-26T21:22:00.186151-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666833737",
+      "size": "1495",
+      "md5": "1c62f67ee19693d66b5e3ca60c13f5b4",
+      "crc32": "aa80b8f9",
+      "sha1": "01480a1624c169b6ec9d478c944530726ad5768d",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-26T21:22:00.186151-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666833739",
+      "size": "272",
+      "md5": "da6a1de843aa2ffe596c300cd8cf6d1d",
+      "crc32": "9c01bc40",
+      "sha1": "670b4298c869fbf50ff26ef6fecc0e93833f62c0",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-26T21:22:00.186151-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-26T21:22:00.186151-04:00.jpg",
+      "mtime": "1666857972",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-27T09:13:53.291876-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666876463",
+      "size": "15147",
+      "md5": "ea63ae6b1fa66906921f4002025aa164",
+      "crc32": "f4641e81",
+      "sha1": "c85b879525414adb28d7f826ca3837473c80a87e",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-27T09:13:53.291876-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666876465",
+      "size": "31882",
+      "md5": "a114bb78bf1b501f84374eb0b0a0d8f3",
+      "crc32": "4f52e957",
+      "sha1": "ffeedca3ba6a86bbf69d858c6a5e3bc434c7d3b0",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-27T09:13:53.291876-04:00.jpg",
+      "source": "original",
+      "mtime": "1666876461",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-27T09:13:53.291876-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666876467",
+      "size": "1494",
+      "md5": "b9e666d5a6985e5c4130840745797913",
+      "crc32": "14f7fbdb",
+      "sha1": "a8a283cf5dca35cbf6f0efda9e264a34aebaee97",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-27T09:13:53.291876-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666876469",
+      "size": "211",
+      "md5": "ad85a618d0b16775deab9f9f23aaec97",
+      "crc32": "a919372c",
+      "sha1": "299b93c13bdb871778ebc5b4cb8c08fa066323ad",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-27T09:13:53.291876-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-27T09:13:53.291876-04:00.jpg",
+      "mtime": "1666891288",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-27T21:20:09.535873-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666920012",
+      "size": "14139",
+      "md5": "528e7f7e2598439313dd8ddd9c0ee75b",
+      "crc32": "3ed1870a",
+      "sha1": "695f2014e8e5a4ca96cf9b7e2fc017b9dc81a71d",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-27T21:20:09.535873-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666920014",
+      "size": "30683",
+      "md5": "95ef1bfb119778d42bf875f2cd9b3966",
+      "crc32": "281a59aa",
+      "sha1": "b379678f8eb0ed2a979890c31453fd94704352fd",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-27T21:20:09.535873-04:00.jpg",
+      "source": "original",
+      "mtime": "1666920011",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-27T21:20:09.535873-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666920016",
+      "size": "1495",
+      "md5": "356902d3a5f3cc33c68742cc48af2c81",
+      "crc32": "a1a1e66b",
+      "sha1": "4f851ae4fc2ede4a89e7f97b26d22a0b85999bd6",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-27T21:20:09.535873-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666920017",
+      "size": "7868",
+      "md5": "5d637b4b875d1a584144c3055aeea91c",
+      "crc32": "c3049561",
+      "sha1": "3cc8cde5e994514e134fe98ad45cbfaa2f903006",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-27T21:20:09.535873-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-27T21:20:09.535873-04:00.jpg",
+      "mtime": "1666921739",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T08:59:54.089618-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666961997",
+      "size": "14139",
+      "md5": "528e7f7e2598439313dd8ddd9c0ee75b",
+      "crc32": "3ed1870a",
+      "sha1": "695f2014e8e5a4ca96cf9b7e2fc017b9dc81a71d",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T08:59:54.089618-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666961999",
+      "size": "31877",
+      "md5": "20f23b39b4e3ef1a0389d9eb1573c2e6",
+      "crc32": "857fce54",
+      "sha1": "42a1fff2c4d58897d213ffb6619de66e9025de91",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T08:59:54.089618-04:00.jpg",
+      "source": "original",
+      "mtime": "1666961996",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T08:59:54.089618-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666962000",
+      "size": "1495",
+      "md5": "91b90da93b7968c0745d03de050b64d7",
+      "crc32": "96b37fa4",
+      "sha1": "9b7b97e298b1a430650d2dee86d99294e50fbdec",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T08:59:54.089618-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666962004",
+      "size": "7886",
+      "md5": "0a1fc21790f7b9d5d0c80f73160aadaa",
+      "crc32": "786f4fcd",
+      "sha1": "8b2cb1a1331c77501098e4d9d849a03ce7e0d07d",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T08:59:54.089618-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-28T08:59:54.089618-04:00.jpg",
+      "mtime": "1666968001",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T21:18:48.712768-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667006332",
+      "size": "14139",
+      "md5": "528e7f7e2598439313dd8ddd9c0ee75b",
+      "crc32": "3ed1870a",
+      "sha1": "695f2014e8e5a4ca96cf9b7e2fc017b9dc81a71d",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T21:18:48.712768-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667006334",
+      "size": "30683",
+      "md5": "95ef1bfb119778d42bf875f2cd9b3966",
+      "crc32": "281a59aa",
+      "sha1": "b379678f8eb0ed2a979890c31453fd94704352fd",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T21:18:48.712768-04:00.jpg",
+      "source": "original",
+      "mtime": "1667006330",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T21:18:48.712768-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667006335",
+      "size": "1495",
+      "md5": "2e798f1912e4c95f5d7b2f09b6c5d748",
+      "crc32": "dcb5baa5",
+      "sha1": "ad61a15739da86d2934dcf6147bb9cd3754e4b57",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T21:18:48.712768-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667006337",
+      "size": "211",
+      "md5": "5b482d501b0fcb9a0b06f6aa768557d6",
+      "crc32": "7a3b1da8",
+      "sha1": "ae04db8ed80181ba4a6c6e33dcae1ae5ec9a0329",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-28T21:18:48.712768-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-28T21:18:48.712768-04:00.jpg",
+      "mtime": "1667007170",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-29T08:52:22.257654-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667047947",
+      "size": "14139",
+      "md5": "528e7f7e2598439313dd8ddd9c0ee75b",
+      "crc32": "3ed1870a",
+      "sha1": "695f2014e8e5a4ca96cf9b7e2fc017b9dc81a71d",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-29T08:52:22.257654-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667047949",
+      "size": "30683",
+      "md5": "95ef1bfb119778d42bf875f2cd9b3966",
+      "crc32": "281a59aa",
+      "sha1": "b379678f8eb0ed2a979890c31453fd94704352fd",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-29T08:52:22.257654-04:00.jpg",
+      "source": "original",
+      "mtime": "1667047943",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-29T08:52:22.257654-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667047951",
+      "size": "1495",
+      "md5": "078738710670e4c7a59c93615573f805",
+      "crc32": "5e203da4",
+      "sha1": "d528571b7de5b572d7c3744764875a2707706ce0",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-29T08:52:22.257654-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667047952",
+      "size": "7868",
+      "md5": "ee3b944760c908e2b16d3722c021c672",
+      "crc32": "f96843f7",
+      "sha1": "e2d12ce8f22e9872537b6861f9332282236cdd0a",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-29T08:52:22.257654-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-29T08:52:22.257654-04:00.jpg",
+      "mtime": "1667050729",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-29T21:04:45.427931-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667091893",
+      "size": "14139",
+      "md5": "528e7f7e2598439313dd8ddd9c0ee75b",
+      "crc32": "3ed1870a",
+      "sha1": "695f2014e8e5a4ca96cf9b7e2fc017b9dc81a71d",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-29T21:04:45.427931-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667091895",
+      "size": "30683",
+      "md5": "95ef1bfb119778d42bf875f2cd9b3966",
+      "crc32": "281a59aa",
+      "sha1": "b379678f8eb0ed2a979890c31453fd94704352fd",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-29T21:04:45.427931-04:00.jpg",
+      "source": "original",
+      "mtime": "1667091891",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-29T21:04:45.427931-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667091896",
+      "size": "1495",
+      "md5": "18d709d8a20e5bc534b2eb028f730371",
+      "crc32": "b21319db",
+      "sha1": "433bee358dec9c94fc1bd18b7db497992c165803",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-29T21:04:45.427931-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667091898",
+      "size": "7868",
+      "md5": "1de5d04f851975f6930ca17a303a3695",
+      "crc32": "a8b4c82e",
+      "sha1": "1b09635d63767faaa3919b9455dc12a31b7a9bec",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-29T21:04:45.427931-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-29T21:04:45.427931-04:00.jpg",
+      "mtime": "1667092844",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-30T08:48:28.773927-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667134128",
+      "size": "15155",
+      "md5": "d6ede271f344ca95a42a165b9e683aaa",
+      "crc32": "8695ee46",
+      "sha1": "673c33ca1302e575e410bc9cca3ef218b0e005a6",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-30T08:48:28.773927-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667134129",
+      "size": "30683",
+      "md5": "95ef1bfb119778d42bf875f2cd9b3966",
+      "crc32": "281a59aa",
+      "sha1": "b379678f8eb0ed2a979890c31453fd94704352fd",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-30T08:48:28.773927-04:00.jpg",
+      "source": "original",
+      "mtime": "1667134126",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-30T08:48:28.773927-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667134132",
+      "size": "1494",
+      "md5": "21034f04a05c5525aa304aa385f8e69c",
+      "crc32": "09b767d6",
+      "sha1": "9d302d73bd0aee3e3007a7bc6c22a548411da43b",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-30T08:48:28.773927-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667134133",
+      "size": "7867",
+      "md5": "b01a8fe2b797c562b82b491ae8cfdc76",
+      "crc32": "2ae213e4",
+      "sha1": "b0b61f22f53b45ac137d69dbef7af9b66298f6f4",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-30T08:48:28.773927-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-30T08:48:28.773927-04:00.jpg",
+      "mtime": "1667134734",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-30T21:09:13.129275-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667178556",
+      "size": "14139",
+      "md5": "528e7f7e2598439313dd8ddd9c0ee75b",
+      "crc32": "3ed1870a",
+      "sha1": "695f2014e8e5a4ca96cf9b7e2fc017b9dc81a71d",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-30T21:09:13.129275-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667178557",
+      "size": "31877",
+      "md5": "20f23b39b4e3ef1a0389d9eb1573c2e6",
+      "crc32": "857fce54",
+      "sha1": "42a1fff2c4d58897d213ffb6619de66e9025de91",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-30T21:09:13.129275-04:00.jpg",
+      "source": "original",
+      "mtime": "1667178554",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-30T21:09:13.129275-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667178561",
+      "size": "1495",
+      "md5": "154850fb34a88c7b67af9caaf62abd0f",
+      "crc32": "5c7e4f8d",
+      "sha1": "df664000bf34b10eccdc381a4256b7b07d2e5ad2",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-30T21:09:13.129275-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667178563",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-30T21:09:13.129275-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-30T21:09:13.129275-04:00.jpg",
+      "mtime": "1667179602",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
+      "name": "jewishcurrents-2022-10-31T08:52:08.260349-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667220734",
+      "size": "14139",
+      "md5": "528e7f7e2598439313dd8ddd9c0ee75b",
+      "crc32": "3ed1870a",
+      "sha1": "695f2014e8e5a4ca96cf9b7e2fc017b9dc81a71d",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-31T08:52:08.260349-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667220736",
+      "size": "30683",
+      "md5": "95ef1bfb119778d42bf875f2cd9b3966",
+      "crc32": "281a59aa",
+      "sha1": "b379678f8eb0ed2a979890c31453fd94704352fd",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-31T08:52:08.260349-04:00.jpg",
+      "source": "original",
+      "mtime": "1667220732",
+      "size": "221728",
+      "md5": "ee80a69b38bdecdc3f950341f8ce1aac",
+      "crc32": "8b922305",
+      "sha1": "a720681d52a198c40bb2216bed20355565c8ce39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jewishcurrents-2022-10-31T08:52:08.260349-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667220738",
+      "size": "1495",
+      "md5": "949fe5ab3f192cc48e112b10f4ab3ec1",
+      "crc32": "6099d81a",
+      "sha1": "6addc36e971182e7f33dd1df213764d91e566be6",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-31T08:52:08.260349-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667220739",
+      "size": "7868",
+      "md5": "15f82eb1bf124462fb2399658ae7c5d0",
+      "crc32": "a5834a80",
+      "sha1": "9908d9ac9b5d2889039fba68ac122923aa05d1ba",
+      "format": "JSON"
+    },
+    {
+      "name": "jewishcurrents-2022-10-31T08:52:08.260349-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jewishcurrents-2022-10-31T08:52:08.260349-04:00.jpg",
+      "mtime": "1667221031",
+      "size": "8363",
+      "md5": "1675bb8954fc0e3ddc177ecefac6af51",
+      "crc32": "88348e9f",
+      "sha1": "5980ebce52ffd448f46fd4f60d7d64e920f30773"
+    },
+    {
       "name": "jewishcurrents-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d6abe76a78cb4823133b5d71c206caedc9b26462",
-      "mtime": "1666702898",
-      "size": "266028",
-      "md5": "29fc69cbdc038255802153b9eb54b5e9",
-      "crc32": "4d6d1ae2",
-      "sha1": "bc22156cfed4fa715d7cd84481aaa5054cac46a3",
+      "btih": "50ac4f0764bc02cba6a48566e004245ee292393c",
+      "mtime": "1667221079",
+      "size": "281737",
+      "md5": "2f9d93fbe63f4f31e1e65c791ef578d7",
+      "crc32": "a5c4630e",
+      "sha1": "fa4c4cd26244327505c928e361c570e5b58071f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jewishcurrents-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "02406b0444e670d9c4b5d3e9749c5203",
+      "md5": "49e3b90e580fd55cf94aa233c696488c",
       "summation": "md5"
     },
     {
       "name": "jewishcurrents-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666702849",
-      "size": "1560576",
-      "md5": "50e226751c26dda4c4154963809db1da",
-      "crc32": "4bc76412",
-      "sha1": "b2ad694a516aec17f8d7c859d39bda9aa8944ba6",
+      "mtime": "1667220758",
+      "size": "1650688",
+      "md5": "f75f797b47e9c26a87d6561773c480af",
+      "crc32": "182ad2c6",
+      "sha1": "1e067d41ad2f27d3e6c1ef361d5b72a18b843874",
       "format": "Metadata"
     },
     {
@@ -12751,9 +13506,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1231,
-  "item_last_updated": 1666702898,
-  "item_size": 64773936,
+  "files_count": 1304,
+  "item_last_updated": 1667221079,
+  "item_size": 68267399,
   "metadata": {
     "identifier": "jewishcurrents-2022",
     "collection": [
@@ -12770,21 +13525,10 @@
     "publicdate": "2022-07-09 03:59:40",
     "addeddate": "2022-07-09 03:59:40"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451666807,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1376728485,
+  "uniq": 1794607157,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

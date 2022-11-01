@@ -1,5 +1,5 @@
 {
-  "created": 1666709670,
+  "created": 1667228502,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/3/items/therealnews-2022",
@@ -12429,31 +12429,775 @@
       "format": "JSON"
     },
     {
+      "name": "therealnews-2022-10-25T10:53:07.291977-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-25T10:53:07.291977-04:00.jpg",
+      "mtime": "1666712559",
+      "size": "11206",
+      "md5": "e32dd3eec96fde91f2074a7661f4a154",
+      "crc32": "633e3f82",
+      "sha1": "8e3d75a552daf01fc50e01979075e14d445373b5"
+    },
+    {
+      "name": "therealnews-2022-10-25T23:46:04.654677-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666755978",
+      "size": "25592",
+      "md5": "57de9f0b67776f9f53e61dc878da1d18",
+      "crc32": "4ff5ca96",
+      "sha1": "693433b872f91e5309ea3b91c0c3ffd945336c93",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-25T23:46:04.654677-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666755980",
+      "size": "33768",
+      "md5": "0b8f80213ba7d8d527725d21a7ca26ad",
+      "crc32": "12b101bf",
+      "sha1": "abcb869b0e745d493bd38e42b1551e25cd5c84c9",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-25T23:46:04.654677-04:00.jpg",
+      "source": "original",
+      "mtime": "1666755977",
+      "size": "317133",
+      "md5": "c776b50856f9a40475500c8d14a69759",
+      "crc32": "71c88054",
+      "sha1": "2c09fd763dcb18a1ec57ab23ac71c49443edbdb8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-25T23:46:04.654677-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666755981",
+      "size": "1468",
+      "md5": "58188557f2a31c45c1a29b74c324304e",
+      "crc32": "5f7527eb",
+      "sha1": "6102c80d808bc6075f97cedf2b1c37ef8ac1e7a7",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-25T23:46:04.654677-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666755983",
+      "size": "204",
+      "md5": "8426d7a634f6513fb67a43524a1606d6",
+      "crc32": "cb176630",
+      "sha1": "592f3b347e5d3f7d43a708ea004a59084d52d2a9",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-25T23:46:04.654677-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-25T23:46:04.654677-04:00.jpg",
+      "mtime": "1666756152",
+      "size": "11206",
+      "md5": "e32dd3eec96fde91f2074a7661f4a154",
+      "crc32": "633e3f82",
+      "sha1": "8e3d75a552daf01fc50e01979075e14d445373b5"
+    },
+    {
+      "name": "therealnews-2022-10-26T11:06:02.482429-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796779",
+      "size": "25592",
+      "md5": "f4db0a14d6a7cf50c57a04446d97b20d",
+      "crc32": "e598643f",
+      "sha1": "3a27567d4bfefc3611b011a477774eeaa283606e",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-26T11:06:02.482429-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796786",
+      "size": "33844",
+      "md5": "d721736cc4cc05fec63f6aed77ede252",
+      "crc32": "21364651",
+      "sha1": "b576acea9b87282975f6d0c166d53f47a849d4c8",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-26T11:06:02.482429-04:00.jpg",
+      "source": "original",
+      "mtime": "1666796777",
+      "size": "317133",
+      "md5": "c776b50856f9a40475500c8d14a69759",
+      "crc32": "71c88054",
+      "sha1": "2c09fd763dcb18a1ec57ab23ac71c49443edbdb8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-26T11:06:02.482429-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796788",
+      "size": "1468",
+      "md5": "0cefc9b18ab301f47a8b3778f1929da5",
+      "crc32": "ae66fa54",
+      "sha1": "123f0712c182e387852254d414c789b03c2a6d38",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-26T11:06:02.482429-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796790",
+      "size": "23551",
+      "md5": "324e161e48e381a6a249b5d6310fe0b3",
+      "crc32": "bf32eaca",
+      "sha1": "222b6af9d5027d7e8c844127e9fd06b5e98fa68c",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-26T11:06:02.482429-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-26T11:06:02.482429-04:00.jpg",
+      "mtime": "1666797902",
+      "size": "11206",
+      "md5": "e32dd3eec96fde91f2074a7661f4a154",
+      "crc32": "633e3f82",
+      "sha1": "8e3d75a552daf01fc50e01979075e14d445373b5"
+    },
+    {
+      "name": "therealnews-2022-10-26T23:41:08.129493-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666842078",
+      "size": "25435",
+      "md5": "41f0e09bc4d116ff5df05d6a6c2c9454",
+      "crc32": "137637d9",
+      "sha1": "239e728933b564b031e78a0ed38985ed5541b7ba",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-26T23:41:08.129493-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666842079",
+      "size": "33818",
+      "md5": "05e19a7a4893f68652ed68d70913f5fd",
+      "crc32": "3fbab56b",
+      "sha1": "337d3f51637ba16c34c3826524169870bebfb4e6",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-26T23:41:08.129493-04:00.jpg",
+      "source": "original",
+      "mtime": "1666842076",
+      "size": "426950",
+      "md5": "2aa7b20647559aa599adecfd1a2df8a0",
+      "crc32": "b6c1849a",
+      "sha1": "af8d41fc4d5e75c835ea3055341efe304741d49b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-26T23:41:08.129493-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666842081",
+      "size": "1468",
+      "md5": "c9d442d582b101b7a293fd4e657cfb25",
+      "crc32": "5a4d18c8",
+      "sha1": "e35f9e137f13145382aec0eeb6adfd6260785d62",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-26T23:41:08.129493-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666842082",
+      "size": "22904",
+      "md5": "901f2435df4dab0162d43424490c6482",
+      "crc32": "97f40dde",
+      "sha1": "899a34e03a857de18f55124ac5e3553c36eeed3b",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-26T23:41:08.129493-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-26T23:41:08.129493-04:00.jpg",
+      "mtime": "1666867084",
+      "size": "11178",
+      "md5": "d210fb4b996b13bbff1e7e6d2f0ade42",
+      "crc32": "da0ae1e8",
+      "sha1": "77a64c082b422f53d1fcfe893eb708aa5082c585"
+    },
+    {
+      "name": "therealnews-2022-10-27T11:10:47.081231-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883460",
+      "size": "25435",
+      "md5": "41f0e09bc4d116ff5df05d6a6c2c9454",
+      "crc32": "137637d9",
+      "sha1": "239e728933b564b031e78a0ed38985ed5541b7ba",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-27T11:10:47.081231-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883462",
+      "size": "33818",
+      "md5": "05e19a7a4893f68652ed68d70913f5fd",
+      "crc32": "3fbab56b",
+      "sha1": "337d3f51637ba16c34c3826524169870bebfb4e6",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-27T11:10:47.081231-04:00.jpg",
+      "source": "original",
+      "mtime": "1666883457",
+      "size": "426950",
+      "md5": "2aa7b20647559aa599adecfd1a2df8a0",
+      "crc32": "b6c1849a",
+      "sha1": "af8d41fc4d5e75c835ea3055341efe304741d49b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-27T11:10:47.081231-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883464",
+      "size": "1468",
+      "md5": "e337c345700ac8916045a9ee430dd04c",
+      "crc32": "582a6e2c",
+      "sha1": "81bfc24f379de9c97c56227a67f4698f59f745a9",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-27T11:10:47.081231-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883467",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-27T11:10:47.081231-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-27T11:10:47.081231-04:00.jpg",
+      "mtime": "1666896417",
+      "size": "11178",
+      "md5": "d210fb4b996b13bbff1e7e6d2f0ade42",
+      "crc32": "da0ae1e8",
+      "sha1": "77a64c082b422f53d1fcfe893eb708aa5082c585"
+    },
+    {
+      "name": "therealnews-2022-10-28T00:39:57.359909-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666932009",
+      "size": "25688",
+      "md5": "6b530c446a4bdb888ab7e05f56e26807",
+      "crc32": "38bd3def",
+      "sha1": "e2bf9639894a3c3212a7d98aa06c1d65e70fbb93",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-28T00:39:57.359909-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666932011",
+      "size": "33887",
+      "md5": "55984a2ff9d8a1f6e3714ca9a976b8dc",
+      "crc32": "043c7175",
+      "sha1": "875372d403c02d418ab3c27031e33cdf1a7fa8e8",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-28T00:39:57.359909-04:00.jpg",
+      "source": "original",
+      "mtime": "1666932008",
+      "size": "346146",
+      "md5": "ecbee9f044f7cbf152aa94d10805b6b9",
+      "crc32": "fd814111",
+      "sha1": "a7378fcdf9eb3488c85e48f7e13fa1294307cb8f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-28T00:39:57.359909-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666932012",
+      "size": "1468",
+      "md5": "3a5c572d67e93ecdd613ccd6cfe9c1ee",
+      "crc32": "89fb680e",
+      "sha1": "ff183f3ca2085839ea8cfe7be1aff1487a62ab39",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-28T00:39:57.359909-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666932014",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-28T00:39:57.359909-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-28T00:39:57.359909-04:00.jpg",
+      "mtime": "1666933594",
+      "size": "10856",
+      "md5": "9350aa2602c97035759e93c87bad7f82",
+      "crc32": "9b856afb",
+      "sha1": "a0c47b8e6719b9c11daacb2cc6bdd807040e54ba"
+    },
+    {
+      "name": "therealnews-2022-10-28T10:45:22.897179-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968336",
+      "size": "25472",
+      "md5": "2597c877b549e4f187f2af4b46f7c127",
+      "crc32": "460d5689",
+      "sha1": "18db6d391a1734303cafc356c9467d3826ed844a",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-28T10:45:22.897179-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968338",
+      "size": "33887",
+      "md5": "55984a2ff9d8a1f6e3714ca9a976b8dc",
+      "crc32": "043c7175",
+      "sha1": "875372d403c02d418ab3c27031e33cdf1a7fa8e8",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-28T10:45:22.897179-04:00.jpg",
+      "source": "original",
+      "mtime": "1666968334",
+      "size": "346985",
+      "md5": "de2cf8c620bc7a63be020d919d521f39",
+      "crc32": "04b0a1b4",
+      "sha1": "42e7f40d5fc2ea3f5b69e7ad16d4b6a68054d6d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-28T10:45:22.897179-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968340",
+      "size": "1468",
+      "md5": "6790556a1ea2ce2e01821944b08016a0",
+      "crc32": "65d95fdb",
+      "sha1": "60a86ce5911b495878e4dd95d99ad91474fc944d",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-28T10:45:22.897179-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968341",
+      "size": "23481",
+      "md5": "6bbb818b2cd4ac653de6d5526f320a60",
+      "crc32": "7c8c829a",
+      "sha1": "95d9acd8dec3cab33c972555b2bd810f2ff306f9",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-28T10:45:22.897179-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-28T10:45:22.897179-04:00.jpg",
+      "mtime": "1666973445",
+      "size": "10895",
+      "md5": "7ffe5d56405b8de968d0df65c0b04e93",
+      "crc32": "7f0c3eb6",
+      "sha1": "7591b08218f74796b61d2585e4874e326e802e15"
+    },
+    {
+      "name": "therealnews-2022-10-28T23:31:52.322718-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014315",
+      "size": "25607",
+      "md5": "bb7809de2be9f52afa32683f66c9eb0a",
+      "crc32": "c4a1ee6f",
+      "sha1": "09d9a4f45c6a31f805a3a016426a463fbc2ef627",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-28T23:31:52.322718-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014317",
+      "size": "33883",
+      "md5": "c64e7358dc42d16c2cbd2bc5ea77daba",
+      "crc32": "e7441dbd",
+      "sha1": "ffd5dba5b4ae69f65ce96f04ccf73c27c248ebce",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-28T23:31:52.322718-04:00.jpg",
+      "source": "original",
+      "mtime": "1667014313",
+      "size": "343866",
+      "md5": "601deeea7c78090ee917ff38b8d978f1",
+      "crc32": "d280f60e",
+      "sha1": "69994e5b7dcb32d6f35fc95517830046d485d46b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-28T23:31:52.322718-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014318",
+      "size": "1467",
+      "md5": "dd3e09cb5d07c5fec695cbfba7c986d9",
+      "crc32": "f7def29e",
+      "sha1": "87376fa04f74661884e45ec6d0da49a2cefe548f",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-28T23:31:52.322718-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014320",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-28T23:31:52.322718-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-28T23:31:52.322718-04:00.jpg",
+      "mtime": "1667016232",
+      "size": "11427",
+      "md5": "9f3aa9ca220fc98e2b897af3b49bc750",
+      "crc32": "890a944d",
+      "sha1": "e37039718fa54eaefda9cec42951429c63c80b32"
+    },
+    {
+      "name": "therealnews-2022-10-29T11:07:42.669740-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667056069",
+      "size": "25607",
+      "md5": "bb7809de2be9f52afa32683f66c9eb0a",
+      "crc32": "c4a1ee6f",
+      "sha1": "09d9a4f45c6a31f805a3a016426a463fbc2ef627",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-29T11:07:42.669740-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667056072",
+      "size": "33883",
+      "md5": "c64e7358dc42d16c2cbd2bc5ea77daba",
+      "crc32": "e7441dbd",
+      "sha1": "ffd5dba5b4ae69f65ce96f04ccf73c27c248ebce",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-29T11:07:42.669740-04:00.jpg",
+      "source": "original",
+      "mtime": "1667056067",
+      "size": "343866",
+      "md5": "601deeea7c78090ee917ff38b8d978f1",
+      "crc32": "d280f60e",
+      "sha1": "69994e5b7dcb32d6f35fc95517830046d485d46b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-29T11:07:42.669740-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667056078",
+      "size": "1467",
+      "md5": "ee7b5291bd4e3ca85e7495df73f09c38",
+      "crc32": "7d74438e",
+      "sha1": "7c095bce6bba614fb07f436de9db0e08c9992846",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-29T11:07:42.669740-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667056081",
+      "size": "24148",
+      "md5": "9788b1bb5d0b62785d75cdc6bc1d260f",
+      "crc32": "02cc5de5",
+      "sha1": "b87a7759a23d87c454f1a69b315b376681bf384e",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-29T11:07:42.669740-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-29T11:07:42.669740-04:00.jpg",
+      "mtime": "1667057660",
+      "size": "11427",
+      "md5": "9f3aa9ca220fc98e2b897af3b49bc750",
+      "crc32": "890a944d",
+      "sha1": "e37039718fa54eaefda9cec42951429c63c80b32"
+    },
+    {
+      "name": "therealnews-2022-10-29T23:29:18.953342-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100565",
+      "size": "25607",
+      "md5": "bb7809de2be9f52afa32683f66c9eb0a",
+      "crc32": "c4a1ee6f",
+      "sha1": "09d9a4f45c6a31f805a3a016426a463fbc2ef627",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-29T23:29:18.953342-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100567",
+      "size": "33883",
+      "md5": "d466ac18f8bf232540287069ef4c6a19",
+      "crc32": "60da8490",
+      "sha1": "53ba5e0423bd27d8042be084d483fa79868b41d9",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-29T23:29:18.953342-04:00.jpg",
+      "source": "original",
+      "mtime": "1667100564",
+      "size": "343866",
+      "md5": "601deeea7c78090ee917ff38b8d978f1",
+      "crc32": "d280f60e",
+      "sha1": "69994e5b7dcb32d6f35fc95517830046d485d46b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-29T23:29:18.953342-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100568",
+      "size": "1468",
+      "md5": "b59b279e1809b034f2200dbc5017b07f",
+      "crc32": "f461590b",
+      "sha1": "b52792f3391bf1781a12e11d62a7790ae580aa18",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-29T23:29:18.953342-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100570",
+      "size": "23546",
+      "md5": "9ae98a964a68f02775c471cfe07ed0ea",
+      "crc32": "5c45f8b8",
+      "sha1": "c3582616a18f4d1f1b055d637bd807ce15969cab",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-29T23:29:18.953342-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-29T23:29:18.953342-04:00.jpg",
+      "mtime": "1667101551",
+      "size": "11427",
+      "md5": "9f3aa9ca220fc98e2b897af3b49bc750",
+      "crc32": "890a944d",
+      "sha1": "e37039718fa54eaefda9cec42951429c63c80b32"
+    },
+    {
+      "name": "therealnews-2022-10-30T10:40:50.689322-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667140858",
+      "size": "25607",
+      "md5": "bb7809de2be9f52afa32683f66c9eb0a",
+      "crc32": "c4a1ee6f",
+      "sha1": "09d9a4f45c6a31f805a3a016426a463fbc2ef627",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-30T10:40:50.689322-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667140860",
+      "size": "33883",
+      "md5": "fc3b6f05d99b77cc9d3e3b6bb6de1c5d",
+      "crc32": "5929c7d8",
+      "sha1": "1e675eb72fb382b378b7ceff64faacd6bd5baeea",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-30T10:40:50.689322-04:00.jpg",
+      "source": "original",
+      "mtime": "1667140855",
+      "size": "343866",
+      "md5": "601deeea7c78090ee917ff38b8d978f1",
+      "crc32": "d280f60e",
+      "sha1": "69994e5b7dcb32d6f35fc95517830046d485d46b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-30T10:40:50.689322-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667140862",
+      "size": "1468",
+      "md5": "5adc828785b58dbd0fc4d1de537e388f",
+      "crc32": "f92a69b3",
+      "sha1": "0fd32478a54785da2a45e8c9463c07eee1561ed0",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-30T10:40:50.689322-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667140863",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-30T10:40:50.689322-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-30T10:40:50.689322-04:00.jpg",
+      "mtime": "1667141574",
+      "size": "11427",
+      "md5": "9f3aa9ca220fc98e2b897af3b49bc750",
+      "crc32": "890a944d",
+      "sha1": "e37039718fa54eaefda9cec42951429c63c80b32"
+    },
+    {
+      "name": "therealnews-2022-10-30T23:27:08.301614-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667186838",
+      "size": "25607",
+      "md5": "bb7809de2be9f52afa32683f66c9eb0a",
+      "crc32": "c4a1ee6f",
+      "sha1": "09d9a4f45c6a31f805a3a016426a463fbc2ef627",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-30T23:27:08.301614-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667186839",
+      "size": "33975",
+      "md5": "b0da6d43005e4775593255120e27660b",
+      "crc32": "4df0737c",
+      "sha1": "76c759b0068c3c18ed66183098ecc2916849fe81",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-30T23:27:08.301614-04:00.jpg",
+      "source": "original",
+      "mtime": "1667186836",
+      "size": "343866",
+      "md5": "601deeea7c78090ee917ff38b8d978f1",
+      "crc32": "d280f60e",
+      "sha1": "69994e5b7dcb32d6f35fc95517830046d485d46b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-30T23:27:08.301614-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667186841",
+      "size": "1468",
+      "md5": "f5e20db15bffd81e9a8dc288a7a1c3e8",
+      "crc32": "85ceaffc",
+      "sha1": "68eddf71de78a07a7ef016d752bea4e677eaeea6",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-30T23:27:08.301614-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667186843",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-30T23:27:08.301614-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-30T23:27:08.301614-04:00.jpg",
+      "mtime": "1667188590",
+      "size": "11427",
+      "md5": "9f3aa9ca220fc98e2b897af3b49bc750",
+      "crc32": "890a944d",
+      "sha1": "e37039718fa54eaefda9cec42951429c63c80b32"
+    },
+    {
+      "name": "therealnews-2022-10-31T11:00:24.434453-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667228432",
+      "size": "25607",
+      "md5": "bb7809de2be9f52afa32683f66c9eb0a",
+      "crc32": "c4a1ee6f",
+      "sha1": "09d9a4f45c6a31f805a3a016426a463fbc2ef627",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-31T11:00:24.434453-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667228434",
+      "size": "34025",
+      "md5": "d2d60f2fcd800ee714af431686c453de",
+      "crc32": "283ef1d7",
+      "sha1": "2117dd4161b920fa8e0698379aaa74b88d00bdcc",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-31T11:00:24.434453-04:00.jpg",
+      "source": "original",
+      "mtime": "1667228430",
+      "size": "343866",
+      "md5": "601deeea7c78090ee917ff38b8d978f1",
+      "crc32": "d280f60e",
+      "sha1": "69994e5b7dcb32d6f35fc95517830046d485d46b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "therealnews-2022-10-31T11:00:24.434453-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667228435",
+      "size": "1467",
+      "md5": "83c246514642c8a803ad0ee48a4dcbd5",
+      "crc32": "b6aa5590",
+      "sha1": "7a268ede14fff8d12b371365f05fe6247898ba58",
+      "format": "JSON"
+    },
+    {
+      "name": "therealnews-2022-10-31T11:00:24.434453-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667228437",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "therealnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "01bcbb2acea60f2f13d71d09dcebc96ffe60d678",
-      "mtime": "1666709665",
-      "size": "257972",
-      "md5": "10a52e107b6b1d01bf88aeff00ee10ad",
-      "crc32": "26770ccb",
-      "sha1": "81037a3b637a2be9c0f74bc7b024d4e2b9892344",
+      "btih": "de4684a9bc00ed7b9835ed97beff655efcdd749a",
+      "mtime": "1667228498",
+      "size": "273350",
+      "md5": "ecfca230426e95cfe3f89856283d51f3",
+      "crc32": "5bfafe65",
+      "sha1": "353a4fa40ae1d4e0de1f17cf30b0bbe5ba46cba1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "therealnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b304f4d9c06603aa9786893bda2d55d",
+      "md5": "267dbcbb8aca2227b29e4897f71b4773",
       "summation": "md5"
     },
     {
       "name": "therealnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666709616",
-      "size": "1527808",
-      "md5": "1c5a10f5612d0eb7453b7f20080084a0",
-      "crc32": "c13994dc",
-      "sha1": "94cf3e182fc4419e92c7586ca105d6933ce914e0",
+      "mtime": "1667228442",
+      "size": "1617920",
+      "md5": "c8996abd39fd8aa41cd9e377e6a17a45",
+      "crc32": "24a02de0",
+      "sha1": "13a6496eedc0a46aab25df696b0dfae0a2fb8502",
       "format": "Metadata"
     },
     {
@@ -12467,9 +13211,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1204,
-  "item_last_updated": 1666709665,
-  "item_size": 92426183,
+  "files_count": 1276,
+  "item_last_updated": 1667228498,
+  "item_size": 97761095,
   "metadata": {
     "identifier": "therealnews-2022",
     "collection": [
@@ -12491,7 +13235,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451740074,
+      "task_id": 3457850687,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12499,7 +13243,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 811043980,
+  "uniq": 427928190,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

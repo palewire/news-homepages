@@ -1,5 +1,5 @@
 {
-  "created": 1666703019,
+  "created": 1667221325,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/20/items/katvnews-2022",
@@ -5409,31 +5409,786 @@
       "format": "JSON"
     },
     {
+      "name": "katvnews-2022-10-25T08:02:38.387080-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-25T08:02:38.387080-05:00.jpg",
+      "mtime": "1666705504",
+      "size": "9929",
+      "md5": "b30909b9c6b2f98b5a228ba2f2241f06",
+      "crc32": "ed9ae41f",
+      "sha1": "9719a2a4235a1f16dc408162a8a12a223df8f17e"
+    },
+    {
+      "name": "katvnews-2022-10-25T20:28:55.953249-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666747739",
+      "size": "73943",
+      "md5": "57e9f7da56f6d173647123cb0d7beb4a",
+      "crc32": "0020ba94",
+      "sha1": "46563f47e10bb679add5dc23d5d7fd9a398dc5fd",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-25T20:28:55.953249-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666747741",
+      "size": "67020",
+      "md5": "f51261131c777f8ad968d156dfebaa6d",
+      "crc32": "5995720d",
+      "sha1": "edd33c68850a1d750ab19101b7a92def26abd7cf",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-25T20:28:55.953249-05:00.jpg",
+      "source": "original",
+      "mtime": "1666747737",
+      "size": "296614",
+      "md5": "2890b888b81eaee446f77c0b5595ad1c",
+      "crc32": "567d5205",
+      "sha1": "06d135bc8985445ee6bde9352c02a22e5ebf6ba6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-25T20:28:55.953249-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666747743",
+      "size": "1405",
+      "md5": "8074751a16dbacd703010e28cef5641d",
+      "crc32": "4dfb0f3d",
+      "sha1": "e26e222365783386842954cea3c32ff336dff2c7",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-25T20:28:55.953249-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666747745",
+      "size": "77615",
+      "md5": "d833fd94bc5823623d7b3818cb4cc6a4",
+      "crc32": "0c9ae133",
+      "sha1": "be500b6cf44ece8530f89fca9feea6d892f2bd5a",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-25T20:28:55.953249-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-25T20:28:55.953249-05:00.jpg",
+      "mtime": "1666749228",
+      "size": "10639",
+      "md5": "c63e324464588a0abc7a7d874c3ac0fc",
+      "crc32": "e025cea8",
+      "sha1": "2bbc81f904475666efeb31e704d6d190a8f2c2d2"
+    },
+    {
+      "name": "katvnews-2022-10-26T08:03:32.161129-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666789423",
+      "size": "74975",
+      "md5": "c9a63b22a3c1daff68dfab595b321cb1",
+      "crc32": "c849e87a",
+      "sha1": "a771299eea3c87bcd4a67e0da314321bb12b6d79",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-26T08:03:32.161129-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666789425",
+      "size": "69588",
+      "md5": "12d33d688009e18b8b9bd5af39b33909",
+      "crc32": "53002651",
+      "sha1": "03105cfb8ac4c29a44a4152a3910b5efe3a85fe8",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-26T08:03:32.161129-05:00.jpg",
+      "source": "original",
+      "mtime": "1666789421",
+      "size": "289999",
+      "md5": "bd9c782befd541bf3932a46cfeb81c67",
+      "crc32": "a456af3b",
+      "sha1": "97fd8bdd3e29eabfa3b544c45a3d2b7b64c64308",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-26T08:03:32.161129-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666789427",
+      "size": "1405",
+      "md5": "3aa6dd6abd888a72198f239c9f73558d",
+      "crc32": "74a3f958",
+      "sha1": "2a4d52d2ec5cb82677638f4e061008cb69b68b78",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-26T08:03:32.161129-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666789431",
+      "size": "76503",
+      "md5": "31a2fb91acbb45007207ad1acd311acb",
+      "crc32": "93f26653",
+      "sha1": "94df442cc13c8c761f611252db05d049f2e031b9",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-26T08:03:32.161129-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-26T08:03:32.161129-05:00.jpg",
+      "mtime": "1666790613",
+      "size": "10452",
+      "md5": "3d015e2630862c01aad84f6b614b3924",
+      "crc32": "a70ec232",
+      "sha1": "5b7ed084ee00b04622bd0b55facdcb3f59c6f384"
+    },
+    {
+      "name": "katvnews-2022-10-26T20:25:10.718278-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666833923",
+      "size": "75000",
+      "md5": "bb18fa0fec522f4c5b8cc511c1be357e",
+      "crc32": "56645ae8",
+      "sha1": "82bd077243e6bab4ef2acb849545e846975e8a54",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-26T20:25:10.718278-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666833932",
+      "size": "67771",
+      "md5": "cae18af2b60b5bc81913ffeb06231b2f",
+      "crc32": "3a9d55dd",
+      "sha1": "ccd4c912b896ac4196a3e6eb401241a6118ca4fd",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-26T20:25:10.718278-05:00.jpg",
+      "source": "original",
+      "mtime": "1666833920",
+      "size": "322289",
+      "md5": "fe418d63b822c75a84e185847f55a150",
+      "crc32": "0eddf626",
+      "sha1": "3262aab04d99af34d8a4f7b2e84b14485e4d2fc2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-26T20:25:10.718278-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666833949",
+      "size": "1405",
+      "md5": "4ab9b55c0664335b76975d7bc01f9a40",
+      "crc32": "24f39c13",
+      "sha1": "2c15c6ea8ad26abf69847abf330a1d435bb511f6",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-26T20:25:10.718278-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666833952",
+      "size": "93",
+      "md5": "5caec07454715f5248e28aee4e918903",
+      "crc32": "8f218c8b",
+      "sha1": "61a130d7bc247e16b301edab86611783295cac7b",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-26T20:25:10.718278-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-26T20:25:10.718278-05:00.jpg",
+      "mtime": "1666858231",
+      "size": "10419",
+      "md5": "70de4c97e5b0f106649095661535fa36",
+      "crc32": "788d7ce3",
+      "sha1": "ee9f3969c7e0209e17ffeb0ed1525249d31bb1f0"
+    },
+    {
+      "name": "katvnews-2022-10-27T08:16:53.403371-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666876629",
+      "size": "74670",
+      "md5": "9b6547ce914c976050fca6e4996b8840",
+      "crc32": "92087c6f",
+      "sha1": "925e7561d60e0a12290283bb79df5f7de3eb0e3b",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-27T08:16:53.403371-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666876630",
+      "size": "68792",
+      "md5": "81ec1caac375a756b9c96b2d4a76f589",
+      "crc32": "6a93ee99",
+      "sha1": "78943ae01914174e5f2b760159c119d8a409fe1b",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-27T08:16:53.403371-05:00.jpg",
+      "source": "original",
+      "mtime": "1666876626",
+      "size": "289110",
+      "md5": "6fae6d58361f8d1201f8fdd0dd7ee532",
+      "crc32": "e05e8285",
+      "sha1": "b822268a058f84685f2189ee88ddc5253a93cdad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-27T08:16:53.403371-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666876634",
+      "size": "1405",
+      "md5": "65662ba5d9acb6143a5ae097c9d0825f",
+      "crc32": "1223ec2b",
+      "sha1": "bc3d868f36b24724eeaba1e4babf0bd434aba2f6",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-27T08:16:53.403371-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666876636",
+      "size": "85828",
+      "md5": "f18486ecd03276f9bab5aa3640a46a1b",
+      "crc32": "d2727600",
+      "sha1": "5499533faa019c6e28023f58b0c46ebfe20ed906",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-27T08:16:53.403371-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-27T08:16:53.403371-05:00.jpg",
+      "mtime": "1666891380",
+      "size": "10148",
+      "md5": "2eecd67ddbe2588a7c5c606be08c5842",
+      "crc32": "69512479",
+      "sha1": "1640a4fbe9899bc381d983554ffe91c9a9ab14ab"
+    },
+    {
+      "name": "katvnews-2022-10-27T20:22:17.808348-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666920153",
+      "size": "75459",
+      "md5": "e087175799a4d233e77681025006ba0e",
+      "crc32": "f1d343ec",
+      "sha1": "6e02b95dc270439a995c920e43f43ffe2de8150d",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-27T20:22:17.808348-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666920154",
+      "size": "66764",
+      "md5": "3fca915a1ffa4b8db50dde1e84fdfd1a",
+      "crc32": "45fa78e7",
+      "sha1": "5d3d8f830b27070b3840f52c892ae4f9a3bdeca8",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-27T20:22:17.808348-05:00.jpg",
+      "source": "original",
+      "mtime": "1666920151",
+      "size": "342689",
+      "md5": "4095356669971f644b5e478acb4bab7e",
+      "crc32": "8c1a2217",
+      "sha1": "bbd5be5da4f4f3f56cc74115ffbfcfee471244f7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-27T20:22:17.808348-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666920156",
+      "size": "1405",
+      "md5": "44a98d1f6e50540a51b450d62d1290bf",
+      "crc32": "454968ae",
+      "sha1": "4e027f7c4c59cb1fa7502ef45971fd9b245884af",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-27T20:22:17.808348-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666920157",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-27T20:22:17.808348-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-27T20:22:17.808348-05:00.jpg",
+      "mtime": "1666922253",
+      "size": "10572",
+      "md5": "8d1c12b3072b751af0eff9359781fc19",
+      "crc32": "6007fd27",
+      "sha1": "c9d001d5bcb9ae69fa88373aff5bbb5df0471896"
+    },
+    {
+      "name": "katvnews-2022-10-28T08:01:12.735346-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666962080",
+      "size": "75226",
+      "md5": "1873936c78fc2c401491dfc4d8c3b28f",
+      "crc32": "bb15064d",
+      "sha1": "9d2e05134ba58e8b671c5cca5ce3276be0b4c785",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-28T08:01:12.735346-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666962082",
+      "size": "67702",
+      "md5": "92bed1bc6247792789505ebafaa0436f",
+      "crc32": "d5ca58c6",
+      "sha1": "6b40826eedb6ef5db3a7e7de7e15fd1cd1807b72",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-28T08:01:12.735346-05:00.jpg",
+      "source": "original",
+      "mtime": "1666962076",
+      "size": "282949",
+      "md5": "fb56a3af18cedee3a4b0b45881ca2cb3",
+      "crc32": "03f7a543",
+      "sha1": "2eeac549cafade3d0c2ad65cee952584a312a1c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-28T08:01:12.735346-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666962084",
+      "size": "1404",
+      "md5": "cf4dc1e6e0f6ebf4cb9632b9dbf32929",
+      "crc32": "30a876fb",
+      "sha1": "a1bdb434f93a27011d0192026787520a1ebf0fbf",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-28T08:01:12.735346-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666962086",
+      "size": "83437",
+      "md5": "238a5a1f8050d04bb864805626698444",
+      "crc32": "c9bdf17f",
+      "sha1": "678d38adb791326d5227fe48bd24afa4845e1e89",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-28T08:01:12.735346-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-28T08:01:12.735346-05:00.jpg",
+      "mtime": "1666968061",
+      "size": "9930",
+      "md5": "599411c7541bc8e406d79797588f7801",
+      "crc32": "e26054d5",
+      "sha1": "b45e6b1a69d41a2c9b6f555589e069a8a603ce2a"
+    },
+    {
+      "name": "katvnews-2022-10-28T20:22:09.343275-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667006532",
+      "size": "74574",
+      "md5": "1fc6dfbbc18c2e9904664451dfc9459b",
+      "crc32": "da0816fa",
+      "sha1": "58b4f32c97132287c8bd97f63f37b99618069b63",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-28T20:22:09.343275-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667006534",
+      "size": "68296",
+      "md5": "b0d5fe972d9e8ee6b5727e8c4bb07693",
+      "crc32": "267be880",
+      "sha1": "afaaa652b6eaacdb20d81b295363496268f7701c",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-28T20:22:09.343275-05:00.jpg",
+      "source": "original",
+      "mtime": "1667006531",
+      "size": "312969",
+      "md5": "c8e0245e5c323b50913ed6a6df27e35f",
+      "crc32": "de47f183",
+      "sha1": "deed25a8776184dc9c150103b3516708a8040d00",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-28T20:22:09.343275-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667006536",
+      "size": "1402",
+      "md5": "b24a0bedf53e28a13e8ee391649306e9",
+      "crc32": "3431c249",
+      "sha1": "75068e946d192da638ce29f040ea98efeae94ea9",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-28T20:22:09.343275-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667006538",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-28T20:22:09.343275-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-28T20:22:09.343275-05:00.jpg",
+      "mtime": "1667007421",
+      "size": "10282",
+      "md5": "59e17213bc73eb95e0ef34b221878671",
+      "crc32": "389e2ab6",
+      "sha1": "6d4e787d7fd1aecb89ef68967b9611b492fbe787"
+    },
+    {
+      "name": "katvnews-2022-10-29T07:53:20.912544-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667048009",
+      "size": "72294",
+      "md5": "33834e491b5fdbc26ffb0f9036c15d20",
+      "crc32": "aeee304d",
+      "sha1": "7b03f2099f5bd684ca1398341de4fc0bb69c723e",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-29T07:53:20.912544-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667048011",
+      "size": "65861",
+      "md5": "d43e4f6b049c7d9bfac6cb6485e3fd42",
+      "crc32": "08601de5",
+      "sha1": "86eec892f69ae22ffe17aa006c5c735204583b17",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-29T07:53:20.912544-05:00.jpg",
+      "source": "original",
+      "mtime": "1667048008",
+      "size": "316247",
+      "md5": "ed4e2cd2e25ab7efb95ed0b25cf19109",
+      "crc32": "88faee2a",
+      "sha1": "f8a589d4c7644dbdcb13202260bd1e9f25335f99",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-29T07:53:20.912544-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667048013",
+      "size": "1405",
+      "md5": "c4209fa701c78467a76dd655b2d20cea",
+      "crc32": "075b125e",
+      "sha1": "06bc126e83a226477418389a3147a39b5fc47bf7",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-29T07:53:20.912544-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667048014",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-29T07:53:20.912544-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-29T07:53:20.912544-05:00.jpg",
+      "mtime": "1667050887",
+      "size": "10438",
+      "md5": "f288f536cc3721c56e29ab7885116e53",
+      "crc32": "3cfeb3ee",
+      "sha1": "38c59cea26b183b9b4b909bcebb3c60744f33e04"
+    },
+    {
+      "name": "katvnews-2022-10-29T20:06:17.738359-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667091983",
+      "size": "73542",
+      "md5": "558e69419e5404ee35680c3f2f33bcba",
+      "crc32": "7ee8a2ca",
+      "sha1": "ab56e0ce6e2af975b3d12dbb07c5a67bbc0ee37f",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-29T20:06:17.738359-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667091985",
+      "size": "63210",
+      "md5": "20032ce8560585dce5b54d7ab2eb95a2",
+      "crc32": "fb7d8df0",
+      "sha1": "2dc0ce9b85d31e49ce3ffb7ecd350332b2b59736",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-29T20:06:17.738359-05:00.jpg",
+      "source": "original",
+      "mtime": "1667091982",
+      "size": "325568",
+      "md5": "2f87ddfa373f692d8695e591958f2d17",
+      "crc32": "f457e666",
+      "sha1": "fb75084aeecde64bdf183f658a0d55ab28da6927",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-29T20:06:17.738359-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667091988",
+      "size": "1404",
+      "md5": "e23e61bb297d190400dfdb8141be8d2f",
+      "crc32": "8d550222",
+      "sha1": "d6d4d5daa46b8e2a283c23251613e1cad2f53a8c",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-29T20:06:17.738359-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667091990",
+      "size": "86998",
+      "md5": "b5c232272d6facdc992537892d75cd8d",
+      "crc32": "049767ee",
+      "sha1": "19966f7ba5fb0fa97eee8f8140ea8087eb0120c9",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-29T20:06:17.738359-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-29T20:06:17.738359-05:00.jpg",
+      "mtime": "1667092800",
+      "size": "10464",
+      "md5": "913b1c87fcdd21df2325998f6fe73f47",
+      "crc32": "54d83ab6",
+      "sha1": "d4b4fcc662a1358f290a8a63e28f203e311e2108"
+    },
+    {
+      "name": "katvnews-2022-10-30T07:50:02.997260-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667134211",
+      "size": "72120",
+      "md5": "18186264f4d73159517a2403c49bbfdd",
+      "crc32": "1f59e78a",
+      "sha1": "24ebb32584c1340ea9f1824dab4def3159f429dc",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-30T07:50:02.997260-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667134213",
+      "size": "62900",
+      "md5": "c7de40ef4cbb99db7cb8eafeb69360bc",
+      "crc32": "43fd0c2d",
+      "sha1": "3d9aa986c684d34895c7178135272fb161fecd6c",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-30T07:50:02.997260-05:00.jpg",
+      "source": "original",
+      "mtime": "1667134209",
+      "size": "310264",
+      "md5": "8e2292ca997cea5f18d6769d393c9ab8",
+      "crc32": "6332cbab",
+      "sha1": "41004599ff8432d2f9322b046474228b31b24d1a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-30T07:50:02.997260-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667134215",
+      "size": "1404",
+      "md5": "8db65eef7837a0db49a9df955fb6969d",
+      "crc32": "a3011825",
+      "sha1": "64cac153b13045e258dc8b562839bc42b356fc2c",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-30T07:50:02.997260-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667134216",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-30T07:50:02.997260-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-30T07:50:02.997260-05:00.jpg",
+      "mtime": "1667134822",
+      "size": "10216",
+      "md5": "7ccbb84155686b3631847a112efdeefa",
+      "crc32": "7700642d",
+      "sha1": "7474660c5fef02d1b3d13ac4e7f063657f16fe1f"
+    },
+    {
+      "name": "katvnews-2022-10-30T20:09:34.546061-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667178580",
+      "size": "72259",
+      "md5": "01311b322a03457ed91905f44d5aa0c0",
+      "crc32": "da3cb379",
+      "sha1": "1023e2dc7d2e7e312cf8bbacdc2a9768d7b051d4",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-30T20:09:34.546061-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667178581",
+      "size": "63287",
+      "md5": "9d62fb9c3cb73d87dccb9de06da7741d",
+      "crc32": "429532f5",
+      "sha1": "604f2c60f29fcfaf997594c2039bb39419a822d7",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-30T20:09:34.546061-05:00.jpg",
+      "source": "original",
+      "mtime": "1667178578",
+      "size": "315414",
+      "md5": "3dfedb9a20e9949683fa4d7571c21055",
+      "crc32": "70aba469",
+      "sha1": "fcabe5d3e2ff3f5b8ba126ad3ed535b3f1ced3ca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-30T20:09:34.546061-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667178583",
+      "size": "1405",
+      "md5": "51b2dea7d12265e52c545019f2233404",
+      "crc32": "ebf90836",
+      "sha1": "d6301a084361371ab31a1fd3ea8c44019d055bfe",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-30T20:09:34.546061-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667178584",
+      "size": "66737",
+      "md5": "fa949e6203b737507e0b1b62d829fc05",
+      "crc32": "917c14b5",
+      "sha1": "8283a0441c94c8c2199a552aa78f5fbb70f3cfe7",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-30T20:09:34.546061-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-30T20:09:34.546061-05:00.jpg",
+      "mtime": "1667179562",
+      "size": "10332",
+      "md5": "84ac6495dcc6e8461bb6351b6e07293b",
+      "crc32": "e7095766",
+      "sha1": "7c84566ead109e4524b86d417805489811ade35b"
+    },
+    {
+      "name": "katvnews-2022-10-31T07:52:34.341547-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667220764",
+      "size": "74003",
+      "md5": "23ff0024d51e4af99f172397376f0247",
+      "crc32": "cc405e10",
+      "sha1": "0d9509dfa39a3783ae342584f34184e73da91b77",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-31T07:52:34.341547-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667220766",
+      "size": "64819",
+      "md5": "28db0cb9a635f7b2bd3d102a7fda069b",
+      "crc32": "45c41d95",
+      "sha1": "00e1ce896502bd2b686a6f49359767ee7c638617",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-31T07:52:34.341547-05:00.jpg",
+      "source": "original",
+      "mtime": "1667220762",
+      "size": "268269",
+      "md5": "767776df2179ecd9eca6e65537f647b0",
+      "crc32": "106b991f",
+      "sha1": "6dafcfba49fd4ae458ce978c73dfc28f7eb6cb49",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "katvnews-2022-10-31T07:52:34.341547-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667220768",
+      "size": "1405",
+      "md5": "c8f62efc9c1a9ae703e79a71f876cd71",
+      "crc32": "670ef76e",
+      "sha1": "aced9c0666fc52ccc1bbe6a6d1c8909de500987b",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-31T07:52:34.341547-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667220769",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "katvnews-2022-10-31T07:52:34.341547-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "katvnews-2022-10-31T07:52:34.341547-05:00.jpg",
+      "mtime": "1667221248",
+      "size": "9822",
+      "md5": "ebab5904b4533c57db679a68c4f7ef7b",
+      "crc32": "ae749d3b",
+      "sha1": "ccdf826d62d3f0c3ce8e072bb4e5ffbc40e1c4dc"
+    },
+    {
       "name": "katvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed20dcdc04c9afd3a50af42a120c6bdca72e4812",
-      "mtime": "1666703014",
-      "size": "111731",
-      "md5": "66eb4cec4f5209fd54f55a86ca210215",
-      "crc32": "7ec2b670",
-      "sha1": "4d0b73d8d415fb09f3755ba63aa457cb223d133f",
+      "btih": "b5d2077763104f9b1d70411d713ba97a82af6521",
+      "mtime": "1667221255",
+      "size": "127136",
+      "md5": "0d9b2d617437e72627bf0a45106cef66",
+      "crc32": "de37afce",
+      "sha1": "9035e8b83abf555b1e771bcff6de9e07f932280c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "katvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a1b32928c4f8e134c190a5bc14d090e",
+      "md5": "e7bbdeda6800cf65cd7c486530dbb573",
       "summation": "md5"
     },
     {
       "name": "katvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666702973",
-      "size": "688128",
-      "md5": "a4ec9b44648f1cc231bcec4c7ddcdc9b",
-      "crc32": "3e981c9a",
-      "sha1": "be4f210766828d3999b3d2e4047db2467c37b9cd",
+      "mtime": "1667220776",
+      "size": "778240",
+      "md5": "71c3af068d97a7966ab5d519ecde3935",
+      "crc32": "5f7aa476",
+      "sha1": "933f494c52eacce5e09f6b0fbed2663bddcb43cf",
       "format": "Metadata"
     },
     {
@@ -5447,9 +6202,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 527,
-  "item_last_updated": 1666703014,
-  "item_size": 43096089,
+  "files_count": 600,
+  "item_last_updated": 1667221255,
+  "item_size": 49186780,
   "metadata": {
     "identifier": "katvnews-2022",
     "collection": [
@@ -5466,21 +6221,10 @@
     "publicdate": "2022-09-12 12:31:17",
     "addeddate": "2022-09-12 12:31:17"
   },
-  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451669659,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1362224069,
+  "uniq": 1414975895,
   "workable_servers": [
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

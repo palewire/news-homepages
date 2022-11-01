@@ -1,5 +1,6 @@
 {
-  "created": 1666695497,
+  "conflict": 1667257257,
+  "created": 1667257257,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/20/items/alreporter-2022",
@@ -5421,31 +5422,848 @@
       "format": "JSON"
     },
     {
+      "name": "alreporter-2022-10-25T05:55:43.048344-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-25T05:55:43.048344-05:00.jpg",
+      "mtime": "1666697346",
+      "size": "10095",
+      "md5": "731103758904a43918863f877778ef09",
+      "crc32": "6191f3d3",
+      "sha1": "27543dce7dbcf6b5b6ebd9cd261b251682f52aa9"
+    },
+    {
+      "name": "alreporter-2022-10-25T17:56:26.573903-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738590",
+      "size": "32003",
+      "md5": "484eb7993566f112c67d201d3c0a13e4",
+      "crc32": "32c2d33e",
+      "sha1": "b02685d42a7ee27e59b1f3788e43f16647b4d6c1",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-25T17:56:26.573903-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738592",
+      "size": "28909",
+      "md5": "ff725525e55138a54c5663cad2ea17b3",
+      "crc32": "581d7a15",
+      "sha1": "55871b3da22fae204d05c7bec0996debe3fe63d7",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-25T17:56:26.573903-05:00.jpg",
+      "source": "original",
+      "mtime": "1666738588",
+      "size": "236711",
+      "md5": "2a2e57640a69500a2ecd78a5ed3228cc",
+      "crc32": "7432f2e2",
+      "sha1": "419d363f9e712d577a75b2f1df6025fdd21e62e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-25T17:56:26.573903-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666738593",
+      "size": "1495",
+      "md5": "3a658c51f48cbf3fa6501267a140a32b",
+      "crc32": "6c2cc89c",
+      "sha1": "324efeaeca0372420af2963f9efb9b1e64a2c0bb",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-25T17:56:26.573903-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738595",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-25T17:56:26.573903-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-25T17:56:26.573903-05:00.jpg",
+      "mtime": "1666739973",
+      "size": "9880",
+      "md5": "e926a48e9652504871730f34f4f7c73b",
+      "crc32": "83eccc5a",
+      "sha1": "bc8d5121b1f33e13c288aa6e2bc40c74b8d38e95"
+    },
+    {
+      "name": "alreporter-2022-10-26T05:52:04.672800-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781527",
+      "size": "32003",
+      "md5": "484eb7993566f112c67d201d3c0a13e4",
+      "crc32": "32c2d33e",
+      "sha1": "b02685d42a7ee27e59b1f3788e43f16647b4d6c1",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-26T05:52:04.672800-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781529",
+      "size": "28930",
+      "md5": "5f28922b7b87e89de850582a6ba9cbac",
+      "crc32": "789a4cdf",
+      "sha1": "ad1204dad27d26c23c9c2494cd7cb6f1e268d040",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-26T05:52:04.672800-05:00.jpg",
+      "source": "original",
+      "mtime": "1666781526",
+      "size": "239104",
+      "md5": "760b36a86b3f803462e2fb50be85066d",
+      "crc32": "6a542ff0",
+      "sha1": "2df3a98197bb06bcbd7e2c0d4838f1ac23f646d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-26T05:52:04.672800-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781531",
+      "size": "1495",
+      "md5": "1daa7be268bf526f7997eb9afb269159",
+      "crc32": "6f5e98d4",
+      "sha1": "f60971af54c223a7dedf706744aee8b36185b6c2",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-26T05:52:04.672800-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781532",
+      "size": "207",
+      "md5": "20c6b4f18f396a6c57388780bb7492c6",
+      "crc32": "1b0322fc",
+      "sha1": "d17e56c15b69a204fea0ddae9d79b6243bebcbed",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-26T05:52:04.672800-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-26T05:52:04.672800-05:00.jpg",
+      "mtime": "1666782720",
+      "size": "9894",
+      "md5": "6efc0de0feaa581bef8c213f6d7f6736",
+      "crc32": "5a0437c1",
+      "sha1": "ae839fcb5c4ac9a4415edb2ce7b67ed88dcd58c0"
+    },
+    {
+      "name": "alreporter-2022-10-26T17:55:22.392135-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666824927",
+      "size": "31850",
+      "md5": "de4f9244a89769850799d02f8955ef0b",
+      "crc32": "3427396c",
+      "sha1": "aa2df12028b1808aef9372310e1813cade62a227",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-26T17:55:22.392135-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666824929",
+      "size": "28392",
+      "md5": "740624bd587998c9c278ade0de750f28",
+      "crc32": "dafdbb15",
+      "sha1": "e7a1d7eabc1eb781c4792e36c2f2d42ba66a1125",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-26T17:55:22.392135-05:00.jpg",
+      "source": "original",
+      "mtime": "1666824925",
+      "size": "282618",
+      "md5": "0159ed739f54ded8b79856451c249b4f",
+      "crc32": "ff1e20b3",
+      "sha1": "0efebe82353513236ca9bde74b8706f8cbaf2d16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-26T17:55:22.392135-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666824931",
+      "size": "1495",
+      "md5": "ca52714388e7b9062c111c7856072cc1",
+      "crc32": "63165773",
+      "sha1": "8410e115c838a08df3ab84f647d71cef738ff4f9",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-26T17:55:22.392135-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666824932",
+      "size": "19367",
+      "md5": "395227e2bd9321336047973a72e00f78",
+      "crc32": "a8bc1430",
+      "sha1": "d1b78d85da0b07ff3f78c76c40971c0a44e1256c",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-26T17:55:22.392135-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-26T17:55:22.392135-05:00.jpg",
+      "mtime": "1666849039",
+      "size": "10458",
+      "md5": "4ed2859cc20b2000e8eb6e6231393984",
+      "crc32": "c35b0d36",
+      "sha1": "fce692c2d371275fc80258ede8854821f5eadac7"
+    },
+    {
+      "name": "alreporter-2022-10-27T05:59:51.970070-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666868396",
+      "size": "31850",
+      "md5": "de4f9244a89769850799d02f8955ef0b",
+      "crc32": "3427396c",
+      "sha1": "aa2df12028b1808aef9372310e1813cade62a227",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-27T05:59:51.970070-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666868398",
+      "size": "28781",
+      "md5": "aee1092104679380a05f5241b3a30077",
+      "crc32": "1ea5d7f3",
+      "sha1": "a09c28ac81e396a48820d6042e00d40ade6707f3",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-27T05:59:51.970070-05:00.jpg",
+      "source": "original",
+      "mtime": "1666868393",
+      "size": "282593",
+      "md5": "3bff589c65a99c7546c990318742302b",
+      "crc32": "0b95d460",
+      "sha1": "c92a72f34c4245e5a51da11e1a94f075e8a43562",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-27T05:59:51.970070-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666868400",
+      "size": "1495",
+      "md5": "eee51f0f7c93fcd84c77e100a27f8320",
+      "crc32": "cb06648e",
+      "sha1": "c5e8287b9ca8739ef1ad449476f490fc9ea6c87b",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-27T05:59:51.970070-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666868403",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-27T05:59:51.970070-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-27T05:59:51.970070-05:00.jpg",
+      "mtime": "1666886632",
+      "size": "10456",
+      "md5": "799811ff22645da30387da889f24e1c9",
+      "crc32": "0f64a274",
+      "sha1": "d43c37f5c01d7924469161fd2497ee017e5dd4d3"
+    },
+    {
+      "name": "alreporter-2022-10-27T17:46:09.394647-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910779",
+      "size": "31568",
+      "md5": "0c603c5677bf8a43c0ff6481619bbd2e",
+      "crc32": "67e2a341",
+      "sha1": "b0c3365a074b8ab0fdd05fce39e7d0390cf31a18",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-27T17:46:09.394647-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910781",
+      "size": "28254",
+      "md5": "bdabd2ef9aa23312ec1c04fd74036983",
+      "crc32": "8a26bc43",
+      "sha1": "270bc35c1f26e0bcfb8918f3a60bf78e77c2733d",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-27T17:46:09.394647-05:00.jpg",
+      "source": "original",
+      "mtime": "1666910777",
+      "size": "316922",
+      "md5": "5f80bf2c30a7637722969d839695634c",
+      "crc32": "f8afb1b0",
+      "sha1": "a0131774df7035495b6c89ed7c3bdf1aaa2b6e17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-27T17:46:09.394647-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910783",
+      "size": "1495",
+      "md5": "d881e05f16ea4b8c668ec7c77c68ead9",
+      "crc32": "540ceb2d",
+      "sha1": "b68824c98ce0b85e8f6d2da7af5afc1297635213",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-27T17:46:09.394647-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910785",
+      "size": "17612",
+      "md5": "6eb96e8ad5533dd35d61c3feb08a4758",
+      "crc32": "90c8ce95",
+      "sha1": "271ddb405ff9be1568dc44a154697a441f83e8ea",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-27T17:46:09.394647-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-27T17:46:09.394647-05:00.jpg",
+      "mtime": "1666913279",
+      "size": "10331",
+      "md5": "c2e73a4bcca6c6905be68a133df77308",
+      "crc32": "5c5a2513",
+      "sha1": "fcf102724df1ea45c111ad8699737aa24795f165"
+    },
+    {
+      "name": "alreporter-2022-10-28T05:52:17.116724-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666954345",
+      "size": "31464",
+      "md5": "f33a87fa51feb46dec76d2361aecf748",
+      "crc32": "2b0f2086",
+      "sha1": "2e9152737a9e06f4bb65e8749ae7fc679d862b15",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-28T05:52:17.116724-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666954348",
+      "size": "28627",
+      "md5": "13607dfefc91962e339d0bb733e6384c",
+      "crc32": "52c880a8",
+      "sha1": "2eeef7423bb9fffb88ae2eda7f80aabc7bc95709",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-28T05:52:17.116724-05:00.jpg",
+      "source": "original",
+      "mtime": "1666954343",
+      "size": "310979",
+      "md5": "d6a7d7a65ea3bf497466a78527176c17",
+      "crc32": "8d4c5516",
+      "sha1": "8cf6ea218e74c7a78bba88411082e38950ab608d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-28T05:52:17.116724-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666954350",
+      "size": "1495",
+      "md5": "6758226ebc2107b4b5562a4875823320",
+      "crc32": "e9bb889d",
+      "sha1": "bf526f92bc8a0525dbd8d82c81f95c7916df2dfb",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-28T05:52:17.116724-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666954351",
+      "size": "18877",
+      "md5": "61d9188d8749ab260860a208813c38fc",
+      "crc32": "6d0252e8",
+      "sha1": "2cd8d8f761bca0d6e1aff68cc3d8a2708808d9ff",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-28T05:52:17.116724-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-28T05:52:17.116724-05:00.jpg",
+      "mtime": "1666959919",
+      "size": "10340",
+      "md5": "e8993dc8da4e5098815495c2143584b1",
+      "crc32": "861c1b7b",
+      "sha1": "0ef40ed6f082fe82e5a5a5ba0242144cee9fc4ce"
+    },
+    {
+      "name": "alreporter-2022-10-28T18:01:34.691077-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666998102",
+      "size": "31464",
+      "md5": "c40f68d92072af389f486facd52d3920",
+      "crc32": "480a41c6",
+      "sha1": "21d1fa8af45702e6c2fe85dd3bad538ce3a1b426",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-28T18:01:34.691077-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666998104",
+      "size": "27917",
+      "md5": "ce5f28e361cbaa2be2d3041d37e944f3",
+      "crc32": "b97d2220",
+      "sha1": "a1693b1b1e51a3e54922e0ad39490652fccd1669",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-28T18:01:34.691077-05:00.jpg",
+      "source": "original",
+      "mtime": "1666998100",
+      "size": "274972",
+      "md5": "925a244af9d57370ecc329257d9f9516",
+      "crc32": "ac2c9fea",
+      "sha1": "4920aaf3f01852d86a55a71d9cd202cc03e1c81d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-28T18:01:34.691077-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666998106",
+      "size": "1494",
+      "md5": "f05656875d798152afe50ab430ec84ca",
+      "crc32": "caa174ab",
+      "sha1": "3e6046519739d5be6d846d000caeecd1791abc4c",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-28T18:01:34.691077-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666998108",
+      "size": "207",
+      "md5": "32ca51f731903228d310bbc7eae4b8ee",
+      "crc32": "b73ef845",
+      "sha1": "78633eb19110befda54318917c37593893b69d39",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-28T18:01:34.691077-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-28T18:01:34.691077-05:00.jpg",
+      "mtime": "1667000357",
+      "size": "10114",
+      "md5": "850bc43a757f0bff49ec3bdb03909794",
+      "crc32": "8a06ac58",
+      "sha1": "f631de7385676012c245cc19afadabb7c347f093"
+    },
+    {
+      "name": "alreporter-2022-10-29T05:49:12.770394-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040558",
+      "size": "31464",
+      "md5": "c40f68d92072af389f486facd52d3920",
+      "crc32": "480a41c6",
+      "sha1": "21d1fa8af45702e6c2fe85dd3bad538ce3a1b426",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-29T05:49:12.770394-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040560",
+      "size": "27905",
+      "md5": "1fae599655425ff7671a9cf6ef071cfa",
+      "crc32": "c01d4660",
+      "sha1": "f35d79466d64f4b99b6c154f74961d45e0a6c801",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-29T05:49:12.770394-05:00.jpg",
+      "source": "original",
+      "mtime": "1667040556",
+      "size": "274647",
+      "md5": "5adcc845f1c25557ae06ad1d5dd39916",
+      "crc32": "cef71fac",
+      "sha1": "98c8215a1e7912712bddaaca0c4aae1bfff660c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-29T05:49:12.770394-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040562",
+      "size": "1495",
+      "md5": "42e9c534d356b6513a037562a2c622ac",
+      "crc32": "b1cda167",
+      "sha1": "f30cf3486ea07c755297e079e0134241bec34b18",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-29T05:49:12.770394-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040564",
+      "size": "19245",
+      "md5": "fa1ceaa453700859f7ce1f9ef41ce4c0",
+      "crc32": "1750070e",
+      "sha1": "9b420514cf55dc7c83348f91908ae37b4d7e36fe",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-29T05:49:12.770394-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-29T05:49:12.770394-05:00.jpg",
+      "mtime": "1667041872",
+      "size": "10115",
+      "md5": "73379e12594dac6fd52b2cf54b5eea86",
+      "crc32": "eb15e916",
+      "sha1": "497028cc959d2c45e3db536883827f0ec6a78494"
+    },
+    {
+      "name": "alreporter-2022-10-29T17:50:05.506155-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667083812",
+      "size": "31464",
+      "md5": "c40f68d92072af389f486facd52d3920",
+      "crc32": "480a41c6",
+      "sha1": "21d1fa8af45702e6c2fe85dd3bad538ce3a1b426",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-29T17:50:05.506155-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667083814",
+      "size": "28052",
+      "md5": "7f1db8585b2b99e4269db03cd959ac95",
+      "crc32": "865581ff",
+      "sha1": "46c5f86006815ad4875cfc67ac42cde065c2dc09",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-29T17:50:05.506155-05:00.jpg",
+      "source": "original",
+      "mtime": "1667083810",
+      "size": "274972",
+      "md5": "925a244af9d57370ecc329257d9f9516",
+      "crc32": "ac2c9fea",
+      "sha1": "4920aaf3f01852d86a55a71d9cd202cc03e1c81d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-29T17:50:05.506155-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667083815",
+      "size": "1495",
+      "md5": "b995f540994c6a806098ab9395d363af",
+      "crc32": "61d6896e",
+      "sha1": "57406b6eef120554efbd9d3e6b7270d687647bd4",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-29T17:50:05.506155-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667083817",
+      "size": "18830",
+      "md5": "1649a81bcbe707278307a0fc37d8469e",
+      "crc32": "f2c2ff6e",
+      "sha1": "726e9a7796d7c4361462378cebc5128e56f7716e",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-29T17:50:05.506155-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-29T17:50:05.506155-05:00.jpg",
+      "mtime": "1667084793",
+      "size": "10114",
+      "md5": "850bc43a757f0bff49ec3bdb03909794",
+      "crc32": "8a06ac58",
+      "sha1": "f631de7385676012c245cc19afadabb7c347f093"
+    },
+    {
+      "name": "alreporter-2022-10-30T05:44:46.379432-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126690",
+      "size": "31464",
+      "md5": "c40f68d92072af389f486facd52d3920",
+      "crc32": "480a41c6",
+      "sha1": "21d1fa8af45702e6c2fe85dd3bad538ce3a1b426",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-30T05:44:46.379432-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126692",
+      "size": "28664",
+      "md5": "4a9be2cf0e70e9ba85e4f19b6f8ac8cb",
+      "crc32": "81a31212",
+      "sha1": "a7fb7b452c4e63aa42a002a9df0bf67a861738c5",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-30T05:44:46.379432-05:00.jpg",
+      "source": "original",
+      "mtime": "1667126688",
+      "size": "270308",
+      "md5": "e848f20c07d205ce3823979b20ac1b76",
+      "crc32": "0b58d062",
+      "sha1": "0d6ba8b21b6e463504ae5ebea7bc527cc5b1f55d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-30T05:44:46.379432-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126693",
+      "size": "1494",
+      "md5": "e07b1bdc5447c5a027eb2f1a8cde23a3",
+      "crc32": "2ac18fe3",
+      "sha1": "6faa5848efc5916679d12b56174b4eca846dd29d",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-30T05:44:46.379432-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126695",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-30T05:44:46.379432-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-30T05:44:46.379432-05:00.jpg",
+      "mtime": "1667126759",
+      "size": "10102",
+      "md5": "ab17065d85488cba4271e6a173d14a44",
+      "crc32": "335ce533",
+      "sha1": "2e43fabf4d3a77937a7d0c439e5f80b60c346a7a"
+    },
+    {
+      "name": "alreporter-2022-10-30T17:39:09.841170-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667169554",
+      "size": "31464",
+      "md5": "c40f68d92072af389f486facd52d3920",
+      "crc32": "480a41c6",
+      "sha1": "21d1fa8af45702e6c2fe85dd3bad538ce3a1b426",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-30T17:39:09.841170-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667169555",
+      "size": "28417",
+      "md5": "a9a65de28c6467e012fd928f707c6d44",
+      "crc32": "453587fb",
+      "sha1": "537a8e7393fba69df81f30bf28b56cfc128b1838",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-30T17:39:09.841170-05:00.jpg",
+      "source": "original",
+      "mtime": "1667169552",
+      "size": "274972",
+      "md5": "925a244af9d57370ecc329257d9f9516",
+      "crc32": "ac2c9fea",
+      "sha1": "4920aaf3f01852d86a55a71d9cd202cc03e1c81d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-30T17:39:09.841170-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667169557",
+      "size": "1494",
+      "md5": "9f3e2328b1dc53875043809243c88eed",
+      "crc32": "16895acc",
+      "sha1": "89653a1467ff9db91e602ad3d61ba5db766e5f14",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-30T17:39:09.841170-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667169558",
+      "size": "18299",
+      "md5": "9098079a30abf84d329a57f7da092285",
+      "crc32": "4b6d6b24",
+      "sha1": "818c2984117a9eb0d86a714e01b8f26bf34f5d80",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-30T17:39:09.841170-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-30T17:39:09.841170-05:00.jpg",
+      "mtime": "1667172513",
+      "size": "10114",
+      "md5": "850bc43a757f0bff49ec3bdb03909794",
+      "crc32": "8a06ac58",
+      "sha1": "f631de7385676012c245cc19afadabb7c347f093"
+    },
+    {
+      "name": "alreporter-2022-10-31T05:46:01.432976-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667213172",
+      "size": "31464",
+      "md5": "c40f68d92072af389f486facd52d3920",
+      "crc32": "480a41c6",
+      "sha1": "21d1fa8af45702e6c2fe85dd3bad538ce3a1b426",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-31T05:46:01.432976-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667213174",
+      "size": "28086",
+      "md5": "280b5c7552592d108a59a05238c5a193",
+      "crc32": "e2010db4",
+      "sha1": "9448a0528e7cad4623144952d0a37ea094dd2088",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-31T05:46:01.432976-05:00.jpg",
+      "source": "original",
+      "mtime": "1667213171",
+      "size": "274972",
+      "md5": "925a244af9d57370ecc329257d9f9516",
+      "crc32": "ac2c9fea",
+      "sha1": "4920aaf3f01852d86a55a71d9cd202cc03e1c81d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-31T05:46:01.432976-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667213176",
+      "size": "1494",
+      "md5": "2a817be143afb5d49c23cc1afe743c7a",
+      "crc32": "7310514c",
+      "sha1": "d8105b3eca50b082363f2f981458c9f54c2bb157",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-31T05:46:01.432976-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667213177",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-31T05:46:01.432976-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-31T05:46:01.432976-05:00.jpg",
+      "mtime": "1667214352",
+      "size": "10114",
+      "md5": "850bc43a757f0bff49ec3bdb03909794",
+      "crc32": "8a06ac58",
+      "sha1": "f631de7385676012c245cc19afadabb7c347f093"
+    },
+    {
+      "name": "alreporter-2022-10-31T17:51:19.989692-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667256693",
+      "size": "31693",
+      "md5": "e71a98fa64dedffd656ef2381b359bb6",
+      "crc32": "ea193433",
+      "sha1": "a000832be17acdbf2de3a94d60be0186271af9e7",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-31T17:51:19.989692-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667256695",
+      "size": "28612",
+      "md5": "74760e480407be0622ad1a85cc01c466",
+      "crc32": "e2a8b651",
+      "sha1": "faf9affe34fc8df9d47aaa6c414fe9f914f2e42c",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-31T17:51:19.989692-05:00.jpg",
+      "source": "original",
+      "mtime": "1667256691",
+      "size": "267266",
+      "md5": "1b2a6c1179f6cc243d75398bc55a15cd",
+      "crc32": "07f5e931",
+      "sha1": "18d5357743d7bcf5c10ba4263631b78e9c9c34e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alreporter-2022-10-31T17:51:19.989692-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667256697",
+      "size": "1493",
+      "md5": "9faf054a8df92336183b889212c2caf1",
+      "crc32": "4c85197a",
+      "sha1": "4c1669500946d0133348d56640acb4eefa7bcaac",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-31T17:51:19.989692-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667256698",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alreporter-2022-10-31T17:51:19.989692-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alreporter-2022-10-31T17:51:19.989692-05:00.jpg",
+      "mtime": "1667257246",
+      "size": "10088",
+      "md5": "b6369405f89ce06b52bbf3380d0b6f4c",
+      "crc32": "5f60f0e5",
+      "sha1": "9da8f3e4bbe265817f4acd4176127e6c8cfc1658"
+    },
+    {
       "name": "alreporter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "21a794078fb838c22d2259eb17e460a41f91b3e2",
-      "mtime": "1666695493",
-      "size": "112700",
-      "md5": "05a52a4fc79cce6512e518fcdb461f5f",
-      "crc32": "f198592c",
-      "sha1": "e087ffc6de47913e4b3fb7300a89faa04688ed3d",
+      "btih": "d50fafa0587af11c2102c1f6f0c8f73146943755",
+      "mtime": "1667257255",
+      "size": "129451",
+      "md5": "4b568f1ccaff506062c3bfea8d136bff",
+      "crc32": "8ebeedbb",
+      "sha1": "1609974d6fd673a586133948bf04487f86d78543",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alreporter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "844d40b153c3f71acd369bc00fe15ab7",
+      "md5": "0559b2cdf12089b6ee56e9df42984003",
       "summation": "md5"
     },
     {
       "name": "alreporter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695453",
-      "size": "688128",
-      "md5": "6e6c3bee4e1c4378a73225844b59871e",
-      "crc32": "25fd3efd",
-      "sha1": "575d9983210224c97a70cff15445ec8c9a7179d1",
+      "mtime": "1667256705",
+      "size": "782336",
+      "md5": "0d177cdb6acba2bea05007908bd1f536",
+      "crc32": "e60577ee",
+      "sha1": "b3c8b86e1162c236b52521aea22d85720814d402",
       "format": "Metadata"
     },
     {
@@ -5459,9 +6277,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 528,
-  "item_last_updated": 1666695493,
-  "item_size": 34247911,
+  "files_count": 607,
+  "item_last_updated": 1667257255,
+  "item_size": 38995965,
   "metadata": {
     "identifier": "alreporter-2022",
     "collection": [
@@ -5483,15 +6301,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451502588,
+      "task_id": 3458210931,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458217441,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1959101186,
+  "uniq": 1486693673,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

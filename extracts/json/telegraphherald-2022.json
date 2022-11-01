@@ -1,5 +1,5 @@
 {
-  "created": 1666709532,
+  "created": 1667228348,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/telegraphherald-2022",
@@ -20805,31 +20805,899 @@
       "format": "JSON"
     },
     {
+      "name": "telegraphherald-2022-10-25T09:50:30.967826-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-25T09:50:30.967826-05:00.jpg",
+      "mtime": "1666712375",
+      "size": "9770",
+      "md5": "6dddc999f5d62ca778e930317efe3eb7",
+      "crc32": "6cacb6ca",
+      "sha1": "ae14f25286741a91e8c27487e8f7418784e44cef"
+    },
+    {
+      "name": "telegraphherald-2022-10-25T22:42:21.862674-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666755746",
+      "size": "49000",
+      "md5": "bd0cbe6d42a8a6fa35a9266a30b9d5be",
+      "crc32": "e24c4ca7",
+      "sha1": "18c9705db423f5ee718e9e8fa2fb472b4d5035c0",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-25T22:42:21.862674-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666755748",
+      "size": "50292",
+      "md5": "6d9267af435f56932f3b01a5f73f6e22",
+      "crc32": "e55ff50e",
+      "sha1": "131e3eff8ebac1216ec0e29482917a611672d1cc",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-25T22:42:21.862674-05:00.jpg",
+      "source": "original",
+      "mtime": "1666755744",
+      "size": "302725",
+      "md5": "8a83071ae5c164300ca5f095773f133d",
+      "crc32": "686b38b3",
+      "sha1": "c137813e13be2e35b7e6f478378ba014ccf9700c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-25T22:42:21.862674-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666755750",
+      "size": "1538",
+      "md5": "6946282922619bd80e02ec5adba127b6",
+      "crc32": "d5cb57aa",
+      "sha1": "d11518a1d9b18088cec491883f695610664e015c",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-25T22:42:21.862674-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666755752",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-25T22:42:21.862674-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-25T22:42:21.862674-05:00.jpg",
+      "mtime": "1666756667",
+      "size": "9672",
+      "md5": "da1354d4e1c5591f92865645e820ac4d",
+      "crc32": "24a4c560",
+      "sha1": "5f3b53ad74ecbb1ebe2d7fe5cbc69fdd6ab34aaf"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T10:03:48.145889-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796654",
+      "size": "47626",
+      "md5": "edf52abc1dfdaf5979daffa390dcf5fd",
+      "crc32": "23eff319",
+      "sha1": "664967c6fe3c24ece32584754ef91ee714c0b597",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T10:03:48.145889-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796656",
+      "size": "49166",
+      "md5": "ef0d6dab9d7c9bcceb2b14f1aa478a92",
+      "crc32": "034a7d67",
+      "sha1": "d536ac9381d013babe7d95c9339b7ae73cd15513",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T10:03:48.145889-05:00.jpg",
+      "source": "original",
+      "mtime": "1666796653",
+      "size": "260049",
+      "md5": "a145597fbd735e25e5762f6499c8b3b2",
+      "crc32": "2ebccda8",
+      "sha1": "684dae9cf145f4443f649fa4b72f8546012a866b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T10:03:48.145889-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796657",
+      "size": "1538",
+      "md5": "89652be0c6de7d89d19268de354ba7c1",
+      "crc32": "0bea71b9",
+      "sha1": "ab6748ec480506cb02e8211bc9737feb341f310e",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T10:03:48.145889-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796659",
+      "size": "80172",
+      "md5": "a9805af57d80d2f0cc33759784a272a6",
+      "crc32": "fb33b033",
+      "sha1": "05494241dc6985af2a9511dd96f76024daa05290",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T10:03:48.145889-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-26T10:03:48.145889-05:00.jpg",
+      "mtime": "1666797781",
+      "size": "9172",
+      "md5": "c1f95723b93c0cf904a83976cc8a2227",
+      "crc32": "8352b301",
+      "sha1": "d4830ed3a7cd1ee2ddfb6567d11ed29b620e2ce6"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T11:19:34.651143-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666801179",
+      "size": "47563",
+      "md5": "e09afb70bb9446d052a20bbcb417452b",
+      "crc32": "316937c4",
+      "sha1": "c68f909d8a7ae0443fe6ee17eb01963cca50496e",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T11:19:34.651143-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666801181",
+      "size": "49558",
+      "md5": "8fafb8bf3ff6f77480549de24309f620",
+      "crc32": "1e0db309",
+      "sha1": "f1d9f1e9269653960943fd2b12c1277e9dee97f0",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T11:19:34.651143-05:00.jpg",
+      "source": "original",
+      "mtime": "1666801177",
+      "size": "264381",
+      "md5": "a52c04fa2fb67d3459e86c7b4081c0a3",
+      "crc32": "0b6b184a",
+      "sha1": "36a46f0535de17b8508b2b5ba9167bc8a200acbe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T11:19:34.651143-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666801183",
+      "size": "1539",
+      "md5": "649012d494adfcfd771d98af6adb32b0",
+      "crc32": "5870dbc7",
+      "sha1": "f8e302dd5ffde2eb3cf2924636029c512dfda8f0",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T11:19:34.651143-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666801185",
+      "size": "448",
+      "md5": "294034b73669737f6e5aacd1dc5df9cc",
+      "crc32": "6e96cbc8",
+      "sha1": "48e461cb55bc3b929ebd2ab28fafeac1e8426718",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T11:19:34.651143-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-26T11:19:34.651143-05:00.jpg",
+      "mtime": "1666803190",
+      "size": "9410",
+      "md5": "a0cccde7854e997f59aa9232323d8362",
+      "crc32": "8b1a25cc",
+      "sha1": "1751d5deee1aea6ffb880f3639e714617b6413c2"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T22:37:12.336196-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666841857",
+      "size": "48823",
+      "md5": "ae24d7cf374aed43b5a6815e40e7c091",
+      "crc32": "ddc5174c",
+      "sha1": "d83e2465f2c592b30f0a013d011f2b591bf7daa3",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T22:37:12.336196-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666841859",
+      "size": "50343",
+      "md5": "0c08f0cb5372619b724e421513298bf8",
+      "crc32": "88b5b048",
+      "sha1": "c655bdbff10fdb3c94579f635c5c13ad39cf6235",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T22:37:12.336196-05:00.jpg",
+      "source": "original",
+      "mtime": "1666841855",
+      "size": "293416",
+      "md5": "5cfe6ea0e44d93fce640d8870a25b5f9",
+      "crc32": "e9f0b2d7",
+      "sha1": "23535390f58d03738546a026194fc5d2a665a653",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T22:37:12.336196-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666841861",
+      "size": "1540",
+      "md5": "562df05791755b4c37fb73469214cc5e",
+      "crc32": "2864a28d",
+      "sha1": "2b452728b0ef554aa9674da6dc69954c2fd81915",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T22:37:12.336196-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666841863",
+      "size": "79041",
+      "md5": "72fb32f5804e6eaa35e6ac23de360bfb",
+      "crc32": "fdf3c3c6",
+      "sha1": "9e91972763764c5e9e1bf32713ef4f8eb8787150",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-26T22:37:12.336196-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-26T22:37:12.336196-05:00.jpg",
+      "mtime": "1666866383",
+      "size": "9662",
+      "md5": "a82cdddb34c7c8cca424cf39bc074076",
+      "crc32": "204a021a",
+      "sha1": "0c0602a558971fe3286b4cf9a1eba86d37914e90"
+    },
+    {
+      "name": "telegraphherald-2022-10-27T10:07:50.006092-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883301",
+      "size": "47742",
+      "md5": "90ac9642e0d3d5a3d6147252166badc6",
+      "crc32": "9c7bf04e",
+      "sha1": "6185c045602860ade426616ed3c50fd87eb559b1",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-27T10:07:50.006092-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883307",
+      "size": "49842",
+      "md5": "94473eab9888754ef41274839c66da55",
+      "crc32": "f4065688",
+      "sha1": "b5d4bbb274f4d260c176c504ea49bba88d6b90da",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-27T10:07:50.006092-05:00.jpg",
+      "source": "original",
+      "mtime": "1666883298",
+      "size": "289849",
+      "md5": "58ff763c6bfb5f2e893bf9c601c448b3",
+      "crc32": "6a6f3e51",
+      "sha1": "febb64c1b93ed8d23c8460355c93819325f7b93f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-27T10:07:50.006092-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883316",
+      "size": "1540",
+      "md5": "696c5a8c78ea1cbd236adb22a2e5508d",
+      "crc32": "2ef720cb",
+      "sha1": "490c0afb1351c04a1b996c18625734e4ad0c53d8",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-27T10:07:50.006092-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883319",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-27T10:07:50.006092-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-27T10:07:50.006092-05:00.jpg",
+      "mtime": "1666895860",
+      "size": "9519",
+      "md5": "38690f2639d6a19ba7a1e706409bde00",
+      "crc32": "e44c6ca2",
+      "sha1": "f1bae3b759d61f326649bac542fbcbf9fc02cdd5"
+    },
+    {
+      "name": "telegraphherald-2022-10-27T23:35:51.448436-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666931755",
+      "size": "47319",
+      "md5": "c84dca250202dfd46c71bcf86bef5876",
+      "crc32": "1deb6297",
+      "sha1": "ec96067a316ededb65a4e563743faf5b4ce8985a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-27T23:35:51.448436-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666931757",
+      "size": "49837",
+      "md5": "61f07555103a1675aabb6e228d37d1c5",
+      "crc32": "501c6ec1",
+      "sha1": "66a622dd06296b957e56ca2e0d7b945991b25664",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-27T23:35:51.448436-05:00.jpg",
+      "source": "original",
+      "mtime": "1666931753",
+      "size": "266507",
+      "md5": "99269b1a14db6a98e5946825c22609da",
+      "crc32": "d08d4533",
+      "sha1": "d25f266229946a851c37a253a5ae254d61c86ef0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-27T23:35:51.448436-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666931759",
+      "size": "1540",
+      "md5": "23cfc0b5779556725b93cee3190640da",
+      "crc32": "aee108a1",
+      "sha1": "7c519566e08ac5ce4f2dcd6752132bce2e997fd0",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-27T23:35:51.448436-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666931761",
+      "size": "65762",
+      "md5": "d0f16c834f5298f2485b7bab429e44cb",
+      "crc32": "c3b088b5",
+      "sha1": "4a218617828bae3b075489010b04bf3d799eb8d4",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-27T23:35:51.448436-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-27T23:35:51.448436-05:00.jpg",
+      "mtime": "1666933088",
+      "size": "9506",
+      "md5": "580f5570ed52c0f4b068c9ce50da5aca",
+      "crc32": "67d41025",
+      "sha1": "d68bec8fbb5eba8a9baeac392ef8b30f0d6835cb"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T09:43:01.364771-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968185",
+      "size": "45778",
+      "md5": "f6eac437b28e580adb0b0f1a7025a7ab",
+      "crc32": "34c8903f",
+      "sha1": "3b4041b2b8a2fd379eb92206dfe672935a40033a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T09:43:01.364771-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968187",
+      "size": "48211",
+      "md5": "37cc1ee731817698b72433bd42e471eb",
+      "crc32": "6aeab0cc",
+      "sha1": "42360dda403d04b56d77452204597e71c46a2e56",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T09:43:01.364771-05:00.jpg",
+      "source": "original",
+      "mtime": "1666968183",
+      "size": "279558",
+      "md5": "b24a70f7c8af7b11f643a5d5f041a534",
+      "crc32": "9bbd9cb8",
+      "sha1": "1685ab2527566625c88f9d4bca6c1824c13a3785",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T09:43:01.364771-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968190",
+      "size": "1540",
+      "md5": "004a1a88e4158621bb8331353034284d",
+      "crc32": "f4841f31",
+      "sha1": "01614997a41db26771565199bda8fa8b373edfc8",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T09:43:01.364771-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968192",
+      "size": "59014",
+      "md5": "1e2ff6e8563bcd792a04dd8168003367",
+      "crc32": "2538410c",
+      "sha1": "a6036769488a96ac8fef723d1c9e4c1b1c4ff05c",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T09:43:01.364771-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-28T09:43:01.364771-05:00.jpg",
+      "mtime": "1666972841",
+      "size": "9492",
+      "md5": "ff85cef022434c6a4367c072ba62cb8c",
+      "crc32": "027949ae",
+      "sha1": "ca35cb523a1f8be8ff9760e66d42411428ef1d3f"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T10:59:29.963624-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972774",
+      "size": "45827",
+      "md5": "5ffd41140690152c5b32dc147276e3ab",
+      "crc32": "d868ca86",
+      "sha1": "ebb783b3c7184581b75b31ae274bd8400e9b09f2",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T10:59:29.963624-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972776",
+      "size": "48331",
+      "md5": "b7f776af3e75d2dc7bb6ac5b35ede50a",
+      "crc32": "61efc238",
+      "sha1": "79c18cccfc58073986a7be21900d6cc1de27ebb4",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T10:59:29.963624-05:00.jpg",
+      "source": "original",
+      "mtime": "1666972772",
+      "size": "281960",
+      "md5": "21691d325aaad2064bfa2376b5a418c2",
+      "crc32": "3cffe287",
+      "sha1": "c4f963794e6021a82512110e6be8a7b6a638d51e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T10:59:29.963624-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972778",
+      "size": "1539",
+      "md5": "2d72d1faa56457e840d2717735271bde",
+      "crc32": "6d65810d",
+      "sha1": "bfc9946c4f85fe6fc5c03ec5712cee5e8c40bb2c",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T10:59:29.963624-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972780",
+      "size": "17702",
+      "md5": "8c7b1d07a3ba13d307f13aeff13877af",
+      "crc32": "288c4fca",
+      "sha1": "e63c343168ab96e49213bfe8c7d46ed5d4d462bd",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T10:59:29.963624-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-28T10:59:29.963624-05:00.jpg",
+      "mtime": "1666977773",
+      "size": "9564",
+      "md5": "aa7813028174e44aab324d7269ceab3e",
+      "crc32": "4b0a7108",
+      "sha1": "0f1719d7a7ed65b7bd100b1219d07ba1d9ee5214"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T22:29:17.336172-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014161",
+      "size": "47703",
+      "md5": "2ee01b32da70ed002f61f2b210e67bd4",
+      "crc32": "9676a8d0",
+      "sha1": "a4f4c7431b8cdd3e6a7968eedd2277ddab6f0940",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T22:29:17.336172-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014162",
+      "size": "50829",
+      "md5": "3573844935eaa8cf26a9ba8667058b4f",
+      "crc32": "4d916b61",
+      "sha1": "2d6c73d29a069cc7eff1a856f73ad8492f76f80c",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T22:29:17.336172-05:00.jpg",
+      "source": "original",
+      "mtime": "1667014159",
+      "size": "285632",
+      "md5": "d3845c6a5f1d51bff21f7bd3f06feb18",
+      "crc32": "3f0f3ab9",
+      "sha1": "feabfc6f39f97c448cbd68995ede30c3dfceedfa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T22:29:17.336172-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014164",
+      "size": "1540",
+      "md5": "58edd0765782aecce19510a762332881",
+      "crc32": "f84233ff",
+      "sha1": "8aeb3a3fc2ea95918c36792e42c0710c632bcd68",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T22:29:17.336172-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014168",
+      "size": "212",
+      "md5": "0d378eed7ef69d7c6a01de1d45b1b37b",
+      "crc32": "918cd948",
+      "sha1": "5190414e1ec717e4625a4e58e9f49ad4f7605af8",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-28T22:29:17.336172-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-28T22:29:17.336172-05:00.jpg",
+      "mtime": "1667015221",
+      "size": "9894",
+      "md5": "2bd4ede0da3aa39ca5dcf0297794a145",
+      "crc32": "d1221873",
+      "sha1": "278ff544d615303f05a91311e7c5333f5334cd26"
+    },
+    {
+      "name": "telegraphherald-2022-10-29T10:04:11.016966-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667055854",
+      "size": "46594",
+      "md5": "efefa39464b11c42c2f8c523c8f82d38",
+      "crc32": "aba1e9a2",
+      "sha1": "debcd4204de64de35ea5e462c8dfbe4934ef04f2",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-29T10:04:11.016966-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667055857",
+      "size": "49501",
+      "md5": "8820ecdb5146c2d945a4688bdb29a3f6",
+      "crc32": "59dda53a",
+      "sha1": "fb8e26dea43f2d1bfb50ea0ae443f8124d5aede1",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-29T10:04:11.016966-05:00.jpg",
+      "source": "original",
+      "mtime": "1667055853",
+      "size": "296944",
+      "md5": "da7251c877680ca454316fb8ba17724c",
+      "crc32": "e8ee56bc",
+      "sha1": "4c10df5762ddfdee6341ae2c610f6b9230e900a5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-29T10:04:11.016966-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667055859",
+      "size": "1538",
+      "md5": "b15a623c89cf23e1ade73ddb621638cb",
+      "crc32": "300b39ea",
+      "sha1": "52446a75943826cf1e34c05c5082e2606d5f47b1",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-29T10:04:11.016966-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667055863",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-29T10:04:11.016966-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-29T10:04:11.016966-05:00.jpg",
+      "mtime": "1667056408",
+      "size": "10089",
+      "md5": "9e8edcf601c5d01d3ff1c08e23bc7c40",
+      "crc32": "0594d35d",
+      "sha1": "54da3145115f2ee240268ace49bfff1bf4db1b04"
+    },
+    {
+      "name": "telegraphherald-2022-10-29T22:27:50.618758-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100474",
+      "size": "47080",
+      "md5": "1644a7782121e79e44bf22f1d8e720c0",
+      "crc32": "51e07223",
+      "sha1": "8931d9eb992bbc13736c2ce60d5e5261bea42e77",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-29T22:27:50.618758-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100476",
+      "size": "49198",
+      "md5": "77a38b21120afa4b3b21d9e03cf15018",
+      "crc32": "0eb2bffb",
+      "sha1": "353a03b8e868e8ed9579f50ed629c6f331becdd8",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-29T22:27:50.618758-05:00.jpg",
+      "source": "original",
+      "mtime": "1667100472",
+      "size": "264070",
+      "md5": "cbb7de01eee718bf0748d213b92cc5c3",
+      "crc32": "07337e77",
+      "sha1": "460d91464bd0c9094ef87c197d8526607df796ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-29T22:27:50.618758-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100478",
+      "size": "1540",
+      "md5": "4ddd5e821ef953639d83b8dc4e8e5101",
+      "crc32": "9a593f97",
+      "sha1": "46a448d13b51ae7d7415b69af4080957602f8677",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-29T22:27:50.618758-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100479",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-29T22:27:50.618758-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-29T22:27:50.618758-05:00.jpg",
+      "mtime": "1667101822",
+      "size": "9162",
+      "md5": "7cd842f1958042e7c514b605a70a1a65",
+      "crc32": "39cc4782",
+      "sha1": "1e576cc10f097885a686c1d8e183b508c29a327f"
+    },
+    {
+      "name": "telegraphherald-2022-10-30T09:39:13.605402-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667140796",
+      "size": "47681",
+      "md5": "3fd683ad46795b4e2c8d11def4d8859b",
+      "crc32": "1fb2c42d",
+      "sha1": "cd0da0b018659166918232b1239defb50377e7a3",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-30T09:39:13.605402-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667140797",
+      "size": "49881",
+      "md5": "6bfdaab1344a45e2a3daa87b194735c8",
+      "crc32": "d3e87c54",
+      "sha1": "7acd1aa041c7486e4ecbd8eed1522ef9fb88436a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-30T09:39:13.605402-05:00.jpg",
+      "source": "original",
+      "mtime": "1667140794",
+      "size": "311586",
+      "md5": "6ddc4b283b5edf54677b5ae7e9273fe3",
+      "crc32": "58d698b0",
+      "sha1": "3514f2b9cc0a8dc78ef41adf40d9d4d3f27b230e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-30T09:39:13.605402-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667140799",
+      "size": "1538",
+      "md5": "e2c6309d7ce396e51c01a2c3cbedbd72",
+      "crc32": "caf9c837",
+      "sha1": "da788a6195d12d0ed753d3a34d78a038734b5868",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-30T09:39:13.605402-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667140801",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-30T09:39:13.605402-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-30T09:39:13.605402-05:00.jpg",
+      "mtime": "1667141614",
+      "size": "10025",
+      "md5": "c351f26428d08e62f31705ab5ea2a6a3",
+      "crc32": "d5b0fa4c",
+      "sha1": "dc4bbf2a3a89f9459164218a60c9b525dbabff0d"
+    },
+    {
+      "name": "telegraphherald-2022-10-30T22:25:21.848628-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667186768",
+      "size": "48144",
+      "md5": "c3f3d19ec64d875f6879b4d378c2ad06",
+      "crc32": "c88f85e9",
+      "sha1": "9ba4b43502723de38226b2a675134fb6fbe88969",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-30T22:25:21.848628-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667186770",
+      "size": "49452",
+      "md5": "8fea70c58b508856082e1719f79eac0c",
+      "crc32": "71b50858",
+      "sha1": "c072d8ad9d04609d545e6fa586de716fcae0a55c",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-30T22:25:21.848628-05:00.jpg",
+      "source": "original",
+      "mtime": "1667186767",
+      "size": "285349",
+      "md5": "ae35458840b367be9f54b4e5507acc5b",
+      "crc32": "bacc6555",
+      "sha1": "4d91ab70f54cd5b4d3c1fa051b081bf68f0682cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-30T22:25:21.848628-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667186775",
+      "size": "1540",
+      "md5": "368ada7dc8d1dd0c04c0c0be38c1feca",
+      "crc32": "c01e4189",
+      "sha1": "4336d14d36fcf1f407549841c5282a7f73b1197c",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-30T22:25:21.848628-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667186777",
+      "size": "62027",
+      "md5": "2cdc72e786bc61fad01c9d28251fb282",
+      "crc32": "8383045b",
+      "sha1": "c376fd7b9a61bd599f2dff4d7bee61053e7fa2fa",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-30T22:25:21.848628-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraphherald-2022-10-30T22:25:21.848628-05:00.jpg",
+      "mtime": "1667187817",
+      "size": "9710",
+      "md5": "935307a021822fb81f4bb3351865bcef",
+      "crc32": "6e2c295c",
+      "sha1": "6d648629cf756195b34febef4b3048821b41ff21"
+    },
+    {
+      "name": "telegraphherald-2022-10-31T09:57:23.448673-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667228258",
+      "size": "47197",
+      "md5": "10b07e99135570cd269f41f07d9d4d27",
+      "crc32": "f43c3ce6",
+      "sha1": "836b9786557779c877e668c1335db77f9807f4f3",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-31T09:57:23.448673-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667228260",
+      "size": "48944",
+      "md5": "4167a81c2c008710c81cc5c01eb83470",
+      "crc32": "b0d72adb",
+      "sha1": "c657ab5ff32368751db1a1de033502123c0529d1",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-31T09:57:23.448673-05:00.jpg",
+      "source": "original",
+      "mtime": "1667228256",
+      "size": "280488",
+      "md5": "53bc8fb6cdaeef097b9c94b2180b0c4c",
+      "crc32": "a51940d3",
+      "sha1": "61b18c2f27094c2ec63435f5881fd3afde0b486f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraphherald-2022-10-31T09:57:23.448673-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667228262",
+      "size": "1540",
+      "md5": "6eeb86e6d8223cd216b70a346e06b121",
+      "crc32": "743d6603",
+      "sha1": "8afe37f1e947e3ab7bf29f69d31b08d67cb83e74",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraphherald-2022-10-31T09:57:23.448673-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667228265",
+      "size": "108",
+      "md5": "1fe9f54a0bc527378cab39c61e11aa57",
+      "crc32": "87fa1fe4",
+      "sha1": "41c12b8e36c8801b52e140986a7734bd90616dbc",
+      "format": "JSON"
+    },
+    {
       "name": "telegraphherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1d7b3acde005476a370179c71b3e6bbd965f6ea",
-      "mtime": "1666709521",
-      "size": "436297",
-      "md5": "4be7595dcdd08e271d540318f9b4f487",
-      "crc32": "294c89b2",
-      "sha1": "d1a05a0b16092a6efd2a40fb4de730a3a853f432",
+      "btih": "7e659911ee5597b1b4b74ffa7e07936fc6c549f3",
+      "mtime": "1667228340",
+      "size": "454549",
+      "md5": "4c894b7da1d6a5707fda2eb4af5c7c36",
+      "crc32": "06f5baba",
+      "sha1": "c791b0328464647406a9aea256813e28f84dbd1a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraphherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b33d7fce33316a34494cedb88a48dd7f",
+      "md5": "41799419aae7ca110b86d49ec1ba6e2b",
       "summation": "md5"
     },
     {
       "name": "telegraphherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666709447",
-      "size": "2457600",
-      "md5": "59bbf99443c34943d97161ac6a08c2af",
-      "crc32": "5177651a",
-      "sha1": "5e745430d29ff5db8d131f9d823a15a6a4f145da",
+      "mtime": "1667228269",
+      "size": "2568192",
+      "md5": "a5bfc15d212d37b37af31eca53620a33",
+      "crc32": "101b81de",
+      "sha1": "f577d41b7244a5813b2099c7536448ce0c25e553",
       "format": "Metadata"
     },
     {
@@ -20843,9 +21711,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2002,
-  "item_last_updated": 1666709521,
-  "item_size": 167176168,
+  "files_count": 2086,
+  "item_last_updated": 1667228340,
+  "item_size": 173146681,
   "metadata": {
     "identifier": "telegraphherald-2022",
     "collection": [
@@ -20867,7 +21735,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451738339,
+      "task_id": 3457848520,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -20875,7 +21743,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1918617386,
+  "uniq": 1550374507,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

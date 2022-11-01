@@ -1,5 +1,5 @@
 {
-  "created": 1666709492,
+  "created": 1667228303,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/30/items/tennessean-2022",
@@ -4283,31 +4283,775 @@
       "format": "JSON"
     },
     {
+      "name": "tennessean-2022-10-25T09:50:26.830526-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-25T09:50:26.830526-05:00.jpg",
+      "mtime": "1666712252",
+      "size": "9208",
+      "md5": "26bc5342c58d9d5e8ca34037bd75bf92",
+      "crc32": "bbf51fe3",
+      "sha1": "aefae235cb911a2cd4c3ba24500244e5dac9168f"
+    },
+    {
+      "name": "tennessean-2022-10-25T22:45:15.189831-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666755918",
+      "size": "22926",
+      "md5": "7760d86942c749b384d94f0ff70ebbf4",
+      "crc32": "c0c973ee",
+      "sha1": "05da37eb9722a1beb193dc0794be4cd07849a64c",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-25T22:45:15.189831-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666755919",
+      "size": "15477",
+      "md5": "9e19c797e6ecd1f7897788547211614b",
+      "crc32": "15b41ba1",
+      "sha1": "0b6d002a7ca13baa8fe7024729239f255ed639b9",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-25T22:45:15.189831-05:00.jpg",
+      "source": "original",
+      "mtime": "1666755916",
+      "size": "267569",
+      "md5": "7bce4fe3d8377be41c2fb84ce450710e",
+      "crc32": "368c8428",
+      "sha1": "55b80e698452b5edbbc9b7adc419af90818c6a6d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-25T22:45:15.189831-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666755920",
+      "size": "1494",
+      "md5": "23122da67fc14f9c4bbbdab31ff43db3",
+      "crc32": "a17f5237",
+      "sha1": "6ee901a44643bcce3ca5dc89cfaca3f26ee2f6d0",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-25T22:45:15.189831-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666755922",
+      "size": "92622",
+      "md5": "1b266d681eb41c8f6d93e2d20c4d6e2c",
+      "crc32": "20e22559",
+      "sha1": "918e4bc1ec107bfb9b88268b489067d0c02cd7dc",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-25T22:45:15.189831-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-25T22:45:15.189831-05:00.jpg",
+      "mtime": "1666756061",
+      "size": "9230",
+      "md5": "c921d49ee78ca605fc39d79d9345b59d",
+      "crc32": "c36e4c94",
+      "sha1": "5dd87b83a1ed0642e331f4533c75fd83e770b7bf"
+    },
+    {
+      "name": "tennessean-2022-10-26T10:02:54.178848-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796581",
+      "size": "22920",
+      "md5": "251a6d80fc98bd0ac613d4e81de14854",
+      "crc32": "8baa26c3",
+      "sha1": "bdc070293f9bebf291032ef89e6d833d77cb4ed2",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-26T10:02:54.178848-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796583",
+      "size": "33916",
+      "md5": "3b0cace850d86415b1fc78888f2f2c43",
+      "crc32": "97789d3d",
+      "sha1": "c82c492c25ce75488d58291bd59d5024642c9e62",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-26T10:02:54.178848-05:00.jpg",
+      "source": "original",
+      "mtime": "1666796579",
+      "size": "276500",
+      "md5": "ccd1145f2530eb32e72212c35595bb52",
+      "crc32": "af3c7dbc",
+      "sha1": "818aaec459dd737dd7cef591fc6f941cfa9d82c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-26T10:02:54.178848-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796586",
+      "size": "1495",
+      "md5": "0f0900dc36d3c380afb364bb176bf164",
+      "crc32": "f7b49762",
+      "sha1": "570f99e4b1341a491bb3732a95c50c219a3b5800",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-26T10:02:54.178848-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796587",
+      "size": "149661",
+      "md5": "b6d51af15319e9b149e65e740bc867f8",
+      "crc32": "49823d00",
+      "sha1": "cb3f74a18eaba145e8cc9c5f8a8f14d0ee3b676f",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-26T10:02:54.178848-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-26T10:02:54.178848-05:00.jpg",
+      "mtime": "1666797572",
+      "size": "9326",
+      "md5": "2034ac62949d3127301756e323d7e2ba",
+      "crc32": "26c95836",
+      "sha1": "3bb3a9704c58b44d0cadafee23e10dcf9b2da408"
+    },
+    {
+      "name": "tennessean-2022-10-26T22:37:12.395852-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666841838",
+      "size": "22870",
+      "md5": "3bc64879203a8e4e6e3ba67dca255d1f",
+      "crc32": "ef9c07d2",
+      "sha1": "7af52efdc51c3d9d728e5cc55f8d1de0c7889a96",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-26T22:37:12.395852-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666841839",
+      "size": "30378",
+      "md5": "534ad7384fd21795972c1cf79047cbeb",
+      "crc32": "571f2020",
+      "sha1": "6e283e1db0bb1ab612f0094b464cffc11de1b6e1",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-26T22:37:12.395852-05:00.jpg",
+      "source": "original",
+      "mtime": "1666841834",
+      "size": "245053",
+      "md5": "52a9d9bada4c2cf817b9091491e22bbc",
+      "crc32": "cab28298",
+      "sha1": "c01311cec70fc3a46aa64e6d58ded827fce61156",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-26T22:37:12.395852-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666841841",
+      "size": "1494",
+      "md5": "bd4324e26b0dc9a1d45e2c29188ac6d2",
+      "crc32": "0e762bfa",
+      "sha1": "c47da5cad933f072245ddfe29f572e7efd49e7a5",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-26T22:37:12.395852-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666841843",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-26T22:37:12.395852-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-26T22:37:12.395852-05:00.jpg",
+      "mtime": "1666867452",
+      "size": "8934",
+      "md5": "89db8fe89472172b7223850525b2a375",
+      "crc32": "4c26d701",
+      "sha1": "0cd746741a2efe2552ad1209618eaffcf77878e8"
+    },
+    {
+      "name": "tennessean-2022-10-27T10:07:33.328036-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883257",
+      "size": "21923",
+      "md5": "99796258989b0fe1cc175926e846d58c",
+      "crc32": "516ee7ed",
+      "sha1": "00df5a1d59f8cb9ffe7b217bd3af6353afc88225",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-27T10:07:33.328036-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883262",
+      "size": "38856",
+      "md5": "2822b2a7d149654e1c5fd275d232abaf",
+      "crc32": "894cbb8b",
+      "sha1": "7db719c0670fa89309054a2f7f26e5b57149c196",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-27T10:07:33.328036-05:00.jpg",
+      "source": "original",
+      "mtime": "1666883255",
+      "size": "274150",
+      "md5": "4f13fe5cf7313aecf70fb76a42365c42",
+      "crc32": "6e0241aa",
+      "sha1": "f0574046afebab503bd4d8406b114a460378f650",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-27T10:07:33.328036-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883265",
+      "size": "1495",
+      "md5": "8f456b67d31e5e5419543c0e51739bc4",
+      "crc32": "5c0e0538",
+      "sha1": "d3f403fdd273dc7ebf2045e1cf6193a5c089b848",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-27T10:07:33.328036-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883268",
+      "size": "143540",
+      "md5": "ab888bd44eb3d7a5a73e885f635caa2b",
+      "crc32": "3bd9c10c",
+      "sha1": "03b5ac436a59d56d94bca15096abea6ab3fa047c",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-27T10:07:33.328036-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-27T10:07:33.328036-05:00.jpg",
+      "mtime": "1666895389",
+      "size": "9316",
+      "md5": "3a9ff9b1a91f7b517a9952f412fb35e0",
+      "crc32": "c2284161",
+      "sha1": "17f0ed0690fa19970ecedc300f1a115b139982de"
+    },
+    {
+      "name": "tennessean-2022-10-27T23:36:29.614798-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666931792",
+      "size": "22594",
+      "md5": "aac8ecd6320f7c43005d33cc9666c7f7",
+      "crc32": "b0c3d02d",
+      "sha1": "347f6c5cd587462a8ddeb5a1714f5bd155254038",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-27T23:36:29.614798-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666931793",
+      "size": "15882",
+      "md5": "f3a9e048cf2571161b9f4c4f26e38d08",
+      "crc32": "307e2967",
+      "sha1": "60d9d2dc6bc38c44a67068b590269007fbb8c165",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-27T23:36:29.614798-05:00.jpg",
+      "source": "original",
+      "mtime": "1666931790",
+      "size": "244899",
+      "md5": "7b3eb0039e758fce17f72fb72327bb96",
+      "crc32": "6dbf4c51",
+      "sha1": "383004e9ff778a80f6045a334d9db1b69bd9ffed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-27T23:36:29.614798-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666931795",
+      "size": "1495",
+      "md5": "b909d77d13d455bb35fdd39c5899bfdb",
+      "crc32": "23bdc0f8",
+      "sha1": "74bb4a31545db906d4e6a4c54d24b4c352962ab1",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-27T23:36:29.614798-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666931796",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-27T23:36:29.614798-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-27T23:36:29.614798-05:00.jpg",
+      "mtime": "1666933378",
+      "size": "9280",
+      "md5": "3983ca256e465e8a4131e2776fda1d68",
+      "crc32": "aa66c4a2",
+      "sha1": "1f474173dea4d076b69b1e4a8f5d697a7e0893ae"
+    },
+    {
+      "name": "tennessean-2022-10-28T09:43:45.916573-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968229",
+      "size": "21838",
+      "md5": "b5e201fc62069023a0376c84a64bad21",
+      "crc32": "569b62f7",
+      "sha1": "e155659b838c1f2e63c0faff96c01366543be950",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-28T09:43:45.916573-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968231",
+      "size": "31883",
+      "md5": "8c2244b32a8448c54cb5545fc23e456f",
+      "crc32": "2fe7abc7",
+      "sha1": "3e2c18446545d66f374b2b5129394ee0544de48b",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-28T09:43:45.916573-05:00.jpg",
+      "source": "original",
+      "mtime": "1666968227",
+      "size": "247495",
+      "md5": "5dea976bb7a8c0193bd2e376abdf0a6c",
+      "crc32": "2d65e070",
+      "sha1": "0bc49ec163d3abe79772aa5aa47e903c9e786bee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-28T09:43:45.916573-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968233",
+      "size": "1495",
+      "md5": "ed14ee205beddf482e9f6fda4e1f516f",
+      "crc32": "172c3db7",
+      "sha1": "3d4ffc96cc4032b3e277d8468aa23e3de850ff4a",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-28T09:43:45.916573-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968234",
+      "size": "148151",
+      "md5": "339426c49e81a1f842608b56d0eab3ca",
+      "crc32": "b3884601",
+      "sha1": "a295f6229129fa6253e64d8a9318aab4facc979e",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-28T09:43:45.916573-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-28T09:43:45.916573-05:00.jpg",
+      "mtime": "1666973634",
+      "size": "9282",
+      "md5": "3fa5145f2005e6ff6367ba45100d2987",
+      "crc32": "8cba3e2c",
+      "sha1": "dfbcc3e0b5af29abbaeabe09a454f523936f8d20"
+    },
+    {
+      "name": "tennessean-2022-10-28T22:29:31.948658-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014178",
+      "size": "21992",
+      "md5": "db1d02a250749906cfe6c18e6b7ff080",
+      "crc32": "6141614d",
+      "sha1": "e1bbee00b1cf0f7354c1768468831a59e222103e",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-28T22:29:31.948658-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014180",
+      "size": "32764",
+      "md5": "ed3903cd386047410697de8be3782260",
+      "crc32": "141ba27d",
+      "sha1": "26c0ab10509d62780eca1c249562627da6deeda5",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-28T22:29:31.948658-05:00.jpg",
+      "source": "original",
+      "mtime": "1667014176",
+      "size": "236833",
+      "md5": "7f4c951f7fe516446555765bda64702b",
+      "crc32": "bb12736c",
+      "sha1": "f95d2aa03323c63a92367122daf3504b22d7e2e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-28T22:29:31.948658-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014182",
+      "size": "1495",
+      "md5": "397c3402db29d87e1a60f4bf50750680",
+      "crc32": "9f9d99e2",
+      "sha1": "affda3756daf77b89bcef217d972f3b41949fad2",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-28T22:29:31.948658-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014183",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-28T22:29:31.948658-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-28T22:29:31.948658-05:00.jpg",
+      "mtime": "1667015232",
+      "size": "8905",
+      "md5": "49db5792be332a1c774a4818d8eaf1de",
+      "crc32": "05801b0b",
+      "sha1": "fce045d6c754b29829a831b5270782fe50819e90"
+    },
+    {
+      "name": "tennessean-2022-10-29T10:04:21.382789-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667055866",
+      "size": "22230",
+      "md5": "c395c917166001d4fca6f08c733a62ce",
+      "crc32": "e357047b",
+      "sha1": "97533e530f2c384221c0c84e4fc2cfd91f0d4793",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-29T10:04:21.382789-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667055868",
+      "size": "34719",
+      "md5": "e2597cfa62e3fc08a5991ea0c8e64fdf",
+      "crc32": "b434f0d0",
+      "sha1": "1ade569b588b72257832783e522419eeb79bcfbb",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-29T10:04:21.382789-05:00.jpg",
+      "source": "original",
+      "mtime": "1667055863",
+      "size": "238291",
+      "md5": "0b9e6416cd8c58396674cfe6921af5ef",
+      "crc32": "2f81f6f3",
+      "sha1": "1b0e1480b12886dc3406907ef891aceec86cf155",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-29T10:04:21.382789-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667055869",
+      "size": "1494",
+      "md5": "5adbed9ebc68cb1349473f3de522dec2",
+      "crc32": "d18711b4",
+      "sha1": "0f474a5152abf52311a56ce811fd3167f0aa9e9c",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-29T10:04:21.382789-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667055871",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-29T10:04:21.382789-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-29T10:04:21.382789-05:00.jpg",
+      "mtime": "1667056603",
+      "size": "9250",
+      "md5": "378376acfa9cfec620de1326a1870c41",
+      "crc32": "1972b13b",
+      "sha1": "e4a0a683018509282acb63ee413e521fba5430de"
+    },
+    {
+      "name": "tennessean-2022-10-29T22:28:05.066729-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100488",
+      "size": "23016",
+      "md5": "ef0fa93f5310208cfc85e91394fb4f8a",
+      "crc32": "03bbb0c2",
+      "sha1": "817f6930d572e366deffe6683838d840e17746b8",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-29T22:28:05.066729-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100490",
+      "size": "35128",
+      "md5": "e219c94902a3a732748ad114aeba8b82",
+      "crc32": "e926634a",
+      "sha1": "44437dbff4e9420235bab3575c71bddcb9807a36",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-29T22:28:05.066729-05:00.jpg",
+      "source": "original",
+      "mtime": "1667100487",
+      "size": "260542",
+      "md5": "c4deef070d7bdff0b41423574654df20",
+      "crc32": "19ec2df9",
+      "sha1": "927645efd1b470093092ad86a1f01be029e33c80",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-29T22:28:05.066729-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100491",
+      "size": "1495",
+      "md5": "15a98716883e70d67b15c7571b7622b7",
+      "crc32": "6366dbcc",
+      "sha1": "79b11aa3949003ee02c1e25c61b4d7cc0912dfe6",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-29T22:28:05.066729-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100493",
+      "size": "86333",
+      "md5": "723b8ae79bef528ae0a6c57089e0e637",
+      "crc32": "78f76550",
+      "sha1": "b649b4655b2a50d63519484361a20ad35f8458ca",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-29T22:28:05.066729-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-29T22:28:05.066729-05:00.jpg",
+      "mtime": "1667102530",
+      "size": "9506",
+      "md5": "209b987ee2c5b9508c53ed6be93a60d5",
+      "crc32": "efda3edc",
+      "sha1": "9ae24d0fcb22b20cc70237aa8ec193ac7cca80f6"
+    },
+    {
+      "name": "tennessean-2022-10-30T09:39:15.967494-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667140759",
+      "size": "21674",
+      "md5": "a185f0d1e384e452bb4db146cdecb026",
+      "crc32": "f7af848b",
+      "sha1": "8020cfca350e31c25181498680ee9efdd13379bd",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-30T09:39:15.967494-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667140760",
+      "size": "38169",
+      "md5": "9f82da765cb6ee66336b9bf70cd50867",
+      "crc32": "27305313",
+      "sha1": "53b3e0cae62632acbd02016da0fd079cb5117087",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-30T09:39:15.967494-05:00.jpg",
+      "source": "original",
+      "mtime": "1667140757",
+      "size": "249877",
+      "md5": "d022f87413ef4dd6f56a4c94f53daf4e",
+      "crc32": "9563140c",
+      "sha1": "a584901d7da5a3e887018fd6bd7f7708bbb53338",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-30T09:39:15.967494-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667140762",
+      "size": "1495",
+      "md5": "3fa00d86ee44e46d1d26c1b04447d697",
+      "crc32": "618c3368",
+      "sha1": "c593f721a2324bf8c71ce9775402f4df57bc692e",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-30T09:39:15.967494-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667140764",
+      "size": "73106",
+      "md5": "f91b51b287752462deba35344d7b8f88",
+      "crc32": "3bfe985a",
+      "sha1": "c3c4f19fe7d53b46b86653a40d5a07fa6a010061",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-30T09:39:15.967494-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-30T09:39:15.967494-05:00.jpg",
+      "mtime": "1667140929",
+      "size": "9395",
+      "md5": "ad42781bbf6e11759c8293f8e8b0a418",
+      "crc32": "5a15e11c",
+      "sha1": "cc2dbcbcacb5d453b90d6a4b4f90c09cf566db72"
+    },
+    {
+      "name": "tennessean-2022-10-30T22:25:46.484360-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667186751",
+      "size": "22851",
+      "md5": "15ddfc302794bf311b27fdbb76ee9130",
+      "crc32": "79cad189",
+      "sha1": "5bb795aec1e906f026fdf3938d9d42c21c387c22",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-30T22:25:46.484360-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667186753",
+      "size": "15853",
+      "md5": "9eec81999bc3864f8f96f50727544098",
+      "crc32": "dd27a9f4",
+      "sha1": "b1354030015a7094d46e5826ebe022b880dba60b",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-30T22:25:46.484360-05:00.jpg",
+      "source": "original",
+      "mtime": "1667186750",
+      "size": "257192",
+      "md5": "45217632febf06b8b8552ee5e6eb8df9",
+      "crc32": "53cc1372",
+      "sha1": "413199e45136f9a0e652bd6c8f2a063de99a58e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-30T22:25:46.484360-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667186754",
+      "size": "1495",
+      "md5": "811bda05c6f647c7da7c8731f6faa36c",
+      "crc32": "54bda0e7",
+      "sha1": "18c49494edc93bfb2e912d9ef913b5d207c1d421",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-30T22:25:46.484360-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667186756",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-30T22:25:46.484360-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-30T22:25:46.484360-05:00.jpg",
+      "mtime": "1667188274",
+      "size": "9551",
+      "md5": "cf2e9985f95f00ea81a0aae49fc1aae4",
+      "crc32": "b1dac9c1",
+      "sha1": "071019e8583c89ae9e96a7a56a08fd146ce8d087"
+    },
+    {
+      "name": "tennessean-2022-10-31T09:57:23.841194-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667228250",
+      "size": "23291",
+      "md5": "16ff9591c9844c5bc9c0b358ba1a9120",
+      "crc32": "cd10fe84",
+      "sha1": "6c192bb3bd4d2074454a52976b7ad1cf5411f662",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-31T09:57:23.841194-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667228251",
+      "size": "38220",
+      "md5": "ab239323ff37809489d8b4ffe0d8ed41",
+      "crc32": "382a60c9",
+      "sha1": "e9e087eeb012d0fbbd33ac1f7710666c06ddf0ea",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-31T09:57:23.841194-05:00.jpg",
+      "source": "original",
+      "mtime": "1667228248",
+      "size": "274108",
+      "md5": "feab1963ce3a397304e0edb3958c210e",
+      "crc32": "cb153211",
+      "sha1": "2b87e7a46bd9ad363cc4ebea347aa8b33f3aeaf7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-10-31T09:57:23.841194-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667228253",
+      "size": "1495",
+      "md5": "267a72f0431d113b8e4c5fa9a37265c5",
+      "crc32": "ca616d18",
+      "sha1": "65036b4d079ce80253be0a99264b3bae01567804",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-10-31T09:57:23.841194-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667228255",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "tennessean-2022_archive.torrent",
       "source": "metadata",
-      "btih": "40b48cd049ae1373a8959bc33dc6104befd5e290",
-      "mtime": "1666709486",
-      "size": "89289",
-      "md5": "b31636994683b1513157b36cc88e372b",
-      "crc32": "3216033a",
-      "sha1": "1bcfa92effedbf165b09d1ed6e49f9d7eb75d960",
+      "btih": "e67f5134ad06eee2d2dba7925b547e9cf37bb6d6",
+      "mtime": "1667228299",
+      "size": "104568",
+      "md5": "c79fac3d5714e9efe973a4f189d6fd97",
+      "crc32": "f2a37b76",
+      "sha1": "63ee9375b03fa818ce218688fa492dbfa8cddf9d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tennessean-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6ef1cbc0a40ad224b9a1e53fde221979",
+      "md5": "19223d928a9eea353c7076e223573145",
       "summation": "md5"
     },
     {
       "name": "tennessean-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666709447",
-      "size": "544768",
-      "md5": "f89f5bd3240ffc25bec711a744ffb2ec",
-      "crc32": "2c4eea81",
-      "sha1": "6513327ac1cbc8b9c981f4325f5d578fee572aa6",
+      "mtime": "1667228260",
+      "size": "634880",
+      "md5": "f4c652bc6b19db80cf7fe7ae05d1338a",
+      "crc32": "922b8357",
+      "sha1": "ee542ed99c378510083934d7101d0bc94dff3c0b",
       "format": "Metadata"
     },
     {
@@ -4321,9 +5065,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 418,
-  "item_last_updated": 1666709486,
-  "item_size": 26929840,
+  "files_count": 490,
+  "item_last_updated": 1667228299,
+  "item_size": 31562855,
   "metadata": {
     "identifier": "tennessean-2022",
     "collection": [
@@ -4345,7 +5089,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451737893,
+      "task_id": 3457848048,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4353,7 +5097,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 326880586,
+  "uniq": 261348769,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

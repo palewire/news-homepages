@@ -1,5 +1,5 @@
 {
-  "created": 1666717713,
+  "created": 1667151569,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/kpcwradio-2022",
@@ -12577,31 +12577,662 @@
       "format": "JSON"
     },
     {
+      "name": "kpcwradio-2022-10-25T11:07:09.896209-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-10-25T11:07:09.896209-06:00.jpg",
+      "mtime": "1666718450",
+      "size": "10251",
+      "md5": "68b1e9bc96a54fd9fb854ca9b428ae5c",
+      "crc32": "e55d717f",
+      "sha1": "d419e5ab2324fbc5c4d8a44e04bc17521558a33b"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T00:38:30.332211-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666766320",
+      "size": "19776",
+      "md5": "333489db0d3762b152ccaba6356e8f3e",
+      "crc32": "4bd52d3e",
+      "sha1": "a762f912a5f48ec9e77dec5853f8fc742625adbf",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T00:38:30.332211-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666766322",
+      "size": "37586",
+      "md5": "2bb2f31932c79068039cfd6dc2bdc6c0",
+      "crc32": "674e88cb",
+      "sha1": "0f04bef215d5100d41f417789a82aabc7539597b",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T00:38:30.332211-06:00.jpg",
+      "source": "original",
+      "mtime": "1666766318",
+      "size": "275553",
+      "md5": "baa7c4a4ae44b0ffdb6f59cc1f873d33",
+      "crc32": "667fa7c6",
+      "sha1": "36080d172c355a52af2e2680266c436a9f839ba9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T00:38:30.332211-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666766324",
+      "size": "1441",
+      "md5": "98f79894bd063332b4f91187db60e4ff",
+      "crc32": "e8bb65e1",
+      "sha1": "884067987f75eb2b01f0d65b92794cd94fd005f9",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T00:38:30.332211-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666766325",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T00:38:30.332211-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-10-26T00:38:30.332211-06:00.jpg",
+      "mtime": "1666767447",
+      "size": "10401",
+      "md5": "a0125e764c450f69809a804fa5bb5a9d",
+      "crc32": "887a7d4e",
+      "sha1": "82f9c79dba035d634a43061fbf1a8537b66e6313"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T12:11:04.744147-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666807901",
+      "size": "19652",
+      "md5": "e046d36d3e8fae274328698f07734819",
+      "crc32": "2e5619d3",
+      "sha1": "3990533ab638bcd2b3b43b690176095b366ee45f",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T12:11:04.744147-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666807907",
+      "size": "37754",
+      "md5": "4a9f4f8858203f0e0e07fd51b3048d69",
+      "crc32": "db211c2b",
+      "sha1": "2900ab357c651d0d463d6f4ec5df83ad28dbd392",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T12:11:04.744147-06:00.jpg",
+      "source": "original",
+      "mtime": "1666807895",
+      "size": "264050",
+      "md5": "21078f1b10e2173a0676dfb4a19313e8",
+      "crc32": "d48a4ff7",
+      "sha1": "bba8fc8a828649457643d252c165dd5e8417b0e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T12:11:04.744147-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666807913",
+      "size": "1441",
+      "md5": "8bf013bf284704c7b92e6185540248d7",
+      "crc32": "d146df51",
+      "sha1": "d930b4124ed1df1a7fc73b985d3549abdf013ebb",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T12:11:04.744147-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666807919",
+      "size": "14694",
+      "md5": "6743ce96cb315f003593a16fd1f47a9f",
+      "crc32": "101ac23b",
+      "sha1": "e24123eeed918044cb16f318c8085ea16f160cac",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T12:11:04.744147-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-10-26T12:11:04.744147-06:00.jpg",
+      "mtime": "1666823158",
+      "size": "10249",
+      "md5": "15a6ba52f932616db355957f9d6c56d1",
+      "crc32": "348600e2",
+      "sha1": "aaacfaed1685a6ba364ca22916d983dbea9171d5"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T23:50:03.968241-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666849810",
+      "size": "20159",
+      "md5": "1c52fa5be2f22141fd38b96f5ec207b0",
+      "crc32": "236d7de5",
+      "sha1": "e6fe99f149fc16be1b6b2391e381bf9a3cbab166",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T23:50:03.968241-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666849812",
+      "size": "37701",
+      "md5": "46b5e89c0862783a9815b8aa5f8c954f",
+      "crc32": "61d9de02",
+      "sha1": "898e3a03d0d795f0c490f07564de2ac43868cc1d",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T23:50:03.968241-06:00.jpg",
+      "source": "original",
+      "mtime": "1666849809",
+      "size": "331448",
+      "md5": "f86f22bcc05ed6595af47370e69ad4a8",
+      "crc32": "aeb2598d",
+      "sha1": "d2b1c2ccc02ca58db11fff1112b0838588845a4a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T23:50:03.968241-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666849813",
+      "size": "1441",
+      "md5": "d94304f0bb568d49e1dbf9cd086d1ef5",
+      "crc32": "ec58068d",
+      "sha1": "f6d59ba3d84180534693232d3a43149ef1e07e1e",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T23:50:03.968241-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666849816",
+      "size": "14693",
+      "md5": "b82a80ab60095d5fbb39f043847fe044",
+      "crc32": "d8cb26a3",
+      "sha1": "1cf0282b10316e688351630f6a43a883a2f75ad7",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-26T23:50:03.968241-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-10-26T23:50:03.968241-06:00.jpg",
+      "mtime": "1666873815",
+      "size": "10309",
+      "md5": "6d806b25c8b6dcc1e2ca492564053c3b",
+      "crc32": "1084ffe9",
+      "sha1": "2fcdae169356ea2ac61b7a6500f8551d9a4b00dc"
+    },
+    {
+      "name": "kpcwradio-2022-10-27T11:45:17.704438-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666892725",
+      "size": "20140",
+      "md5": "cb3c4a07c0915c9509ad31365ecc2408",
+      "crc32": "bb42cdc3",
+      "sha1": "628db8a7f04cdb4a11c4ddafbef4c0e135786c0e",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-27T11:45:17.704438-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666892726",
+      "size": "37319",
+      "md5": "5475b80d650e94ae20990e17bf7b8c45",
+      "crc32": "90a63399",
+      "sha1": "83fa2e25870f92b15a49d9ca3c5a248cb32546b6",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-27T11:45:17.704438-06:00.jpg",
+      "source": "original",
+      "mtime": "1666892723",
+      "size": "331174",
+      "md5": "b77258494fa3920fb29ee229562d5e4d",
+      "crc32": "9cba8e31",
+      "sha1": "9aee07bc76750f50fc12147328ada09cf89eb2ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-10-27T11:45:17.704438-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666892730",
+      "size": "1441",
+      "md5": "69637bb6420687a329c90d797610a054",
+      "crc32": "e1a67311",
+      "sha1": "70843640cab91041dab33317f9e519b4672a5dcd",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-27T11:45:17.704438-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666892731",
+      "size": "14335",
+      "md5": "c3cc3c9257a2ea288452c22fe23754a0",
+      "crc32": "84f2d7bd",
+      "sha1": "92f184554ffe56a91e26328f584a8c2351d7cb0e",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-27T11:45:17.704438-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-10-27T11:45:17.704438-06:00.jpg",
+      "mtime": "1666902650",
+      "size": "10313",
+      "md5": "a579bd639b481ad5088ae97400cfa916",
+      "crc32": "f93fb2e2",
+      "sha1": "741f0e56cf94b626ea76b098b9134bb4e88a5274"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T00:36:22.500531-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666939003",
+      "size": "19990",
+      "md5": "9da9bcd6f84ad21670c875b8ffd7533e",
+      "crc32": "81c27b71",
+      "sha1": "fc7ac64f92ca53f8d4e3f58241f9a0c8d5dfc918",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T00:36:22.500531-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666939004",
+      "size": "36710",
+      "md5": "68bd1cf624e498ce946469130d40fa4f",
+      "crc32": "72f73db8",
+      "sha1": "7246c8f7ca54788dba964d7d5ff5b9ba9c4d5091",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T00:36:22.500531-06:00.jpg",
+      "source": "original",
+      "mtime": "1666939001",
+      "size": "265285",
+      "md5": "2c2e32433b4471ceea2316f4e388bca1",
+      "crc32": "8dc60b76",
+      "sha1": "9b15347bdaae4c07c1f1355403606d8758806929",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T00:36:22.500531-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666939006",
+      "size": "1441",
+      "md5": "282165131ad87c2ce639923d8b43978f",
+      "crc32": "37fd8ce9",
+      "sha1": "cf896d2839bd73c6baacd30dd2581c58ebd18110",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T00:36:22.500531-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666939008",
+      "size": "13940",
+      "md5": "cf181af9e0ac90bca17dac708a05e498",
+      "crc32": "8f3211b3",
+      "sha1": "5e22e6268fcb0b5b2d89b922440d4fbea3d5bcfd",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T00:36:22.500531-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-10-28T00:36:22.500531-06:00.jpg",
+      "mtime": "1666939640",
+      "size": "10717",
+      "md5": "08ccd968b0650a2a9987ad1114692844",
+      "crc32": "19192ab6",
+      "sha1": "5ac440aebf7f8486c28f562d144d44ac0381c817"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T10:39:17.164171-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975170",
+      "size": "20000",
+      "md5": "96cf92d05d88a1a7db0f646c7b84430b",
+      "crc32": "16418558",
+      "sha1": "f514ba7eed9014acae0893a2dff67dddc91816c4",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T10:39:17.164171-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975171",
+      "size": "37079",
+      "md5": "f269e8651f61333450214aa446169628",
+      "crc32": "84124ecb",
+      "sha1": "698613764feb935a8cec193d38d17f4602ba9bfe",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T10:39:17.164171-06:00.jpg",
+      "source": "original",
+      "mtime": "1666975168",
+      "size": "264984",
+      "md5": "791e448dd0c58a6f7bfa48cb84c28c41",
+      "crc32": "b452c440",
+      "sha1": "525855b8120044f849bdbee0ebc592db05a34521",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T10:39:17.164171-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975173",
+      "size": "1441",
+      "md5": "768ba27a4d0933082676b58b7171f741",
+      "crc32": "8a66644e",
+      "sha1": "6001f96f467f63e962fbda6bb9fa314e6e840764",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T10:39:17.164171-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975175",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T10:39:17.164171-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-10-28T10:39:17.164171-06:00.jpg",
+      "mtime": "1666979276",
+      "size": "10704",
+      "md5": "49020100a4c9b8c696bef3549dbc61e1",
+      "crc32": "37bb8f83",
+      "sha1": "521550b11d17a34c1eb6898897a5559a83e63369"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T23:23:25.481592-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667021008",
+      "size": "19869",
+      "md5": "19bd5f164b21a1370e6bcd4cc4b7feff",
+      "crc32": "62a4f192",
+      "sha1": "00944bc501b2dd7c39e1e202e9283e7e70d39dc0",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T23:23:25.481592-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667021009",
+      "size": "37383",
+      "md5": "74f8b1888cf79ee205bb911ada35160a",
+      "crc32": "d01a234f",
+      "sha1": "1165f1870ea700a984b3ad2897df93e9147c5e17",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T23:23:25.481592-06:00.jpg",
+      "source": "original",
+      "mtime": "1667021006",
+      "size": "266073",
+      "md5": "31cf2c62f1f9d971fe8e2b335e938294",
+      "crc32": "bca9bb05",
+      "sha1": "0f7d362c0c733b626c9e825e9e7df8aad1ac6bbd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T23:23:25.481592-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667021011",
+      "size": "1440",
+      "md5": "b1c0d984cf84ee095174700d51047d94",
+      "crc32": "850dffa5",
+      "sha1": "7cfa4ea09cbc857c6204b78f19a7fd5b51101726",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T23:23:25.481592-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667021015",
+      "size": "201",
+      "md5": "348df3171f5127bce1b3337b9086d80c",
+      "crc32": "e82d5959",
+      "sha1": "f0319d4e74c3bf0966fdc80b252a2c57d12faadf",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-28T23:23:25.481592-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-10-28T23:23:25.481592-06:00.jpg",
+      "mtime": "1667023449",
+      "size": "10518",
+      "md5": "14c4602ccf0cb02fd14338dfd51d9459",
+      "crc32": "dabcbd20",
+      "sha1": "ce8d9d63e272f1193518f6e0387a87cc33f9850c"
+    },
+    {
+      "name": "kpcwradio-2022-10-29T11:43:49.722432-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667065445",
+      "size": "19530",
+      "md5": "0b31dab070b2971e0d3fb41dfd4d47c7",
+      "crc32": "8e2d7b70",
+      "sha1": "81fafd8145d831d2782b19cf7b4862ac5502590a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-29T11:43:49.722432-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667065448",
+      "size": "36851",
+      "md5": "8b58dc1d64c990d18d0cfdd361da60f0",
+      "crc32": "cd2a1c96",
+      "sha1": "1c2c28c9e3d426e0a2f42b9174f517444e520634",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-29T11:43:49.722432-06:00.jpg",
+      "source": "original",
+      "mtime": "1667065443",
+      "size": "260549",
+      "md5": "4bc5726574aa798a9cace1da8831f9e7",
+      "crc32": "674686f6",
+      "sha1": "b80ddf9fcc1f1717fc61d600a368c75dcb131758",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-10-29T11:43:49.722432-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667065449",
+      "size": "1441",
+      "md5": "db44d54700b6bda2ddd1c302c3f83156",
+      "crc32": "fd932eb4",
+      "sha1": "a40a87cc20b312bf7a6162613470174094d2d331",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-29T11:43:49.722432-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667065451",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-29T11:43:49.722432-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-10-29T11:43:49.722432-06:00.jpg",
+      "mtime": "1667065962",
+      "size": "10239",
+      "md5": "15ca11d6135a8cbed39e9a0021e30dee",
+      "crc32": "b8c5c4c1",
+      "sha1": "336a1e3ba276f07bd1f61845067a18a22b524279"
+    },
+    {
+      "name": "kpcwradio-2022-10-29T23:30:53.192346-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667107864",
+      "size": "19631",
+      "md5": "d394df9949da0b4739314f02e493727a",
+      "crc32": "add4d006",
+      "sha1": "d499765b63edc983aa9424020ca8bd5256353b9a",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-29T23:30:53.192346-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667107866",
+      "size": "37482",
+      "md5": "3ae660e185cfa466feae2468a3b12257",
+      "crc32": "2df734c7",
+      "sha1": "df36bcd8090bb5dd3fdd8ad102711ac7bd66ae94",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-29T23:30:53.192346-06:00.jpg",
+      "source": "original",
+      "mtime": "1667107862",
+      "size": "262243",
+      "md5": "666d8519d0921a06a7bb7c2bf79a07db",
+      "crc32": "100c6eaa",
+      "sha1": "16ddacbd69ea414a42b2dd6591f1583c32288790",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-10-29T23:30:53.192346-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667107867",
+      "size": "1440",
+      "md5": "8ceae2e93306ec0931cc570a3ca71ce3",
+      "crc32": "a590dad8",
+      "sha1": "2e576ee3d1984a7ef93d1df601d75dfa0c60df16",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-29T23:30:53.192346-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667107869",
+      "size": "14677",
+      "md5": "b5e8e70ce267a613871b8c775c9e6131",
+      "crc32": "0514fb72",
+      "sha1": "b818f49c19bd54a68b5f11ca165f5969fa4d4385",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-29T23:30:53.192346-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-10-29T23:30:53.192346-06:00.jpg",
+      "mtime": "1667108570",
+      "size": "10254",
+      "md5": "beeec427a52507a96978606f87af3e07",
+      "crc32": "940530fc",
+      "sha1": "3a8b7f0132a39fb3663b231c6e25bcab34a03a6a"
+    },
+    {
+      "name": "kpcwradio-2022-10-30T11:13:52.208934-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667150047",
+      "size": "19975",
+      "md5": "eae23c4a9ed2cf0f6485650ef558339b",
+      "crc32": "340d0f06",
+      "sha1": "dee3ac3567af8ac1d9ca2e93c22ecba2e9148a71",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-30T11:13:52.208934-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667150049",
+      "size": "37588",
+      "md5": "77c7ddc5f5a522c49e0eefae68975037",
+      "crc32": "80633031",
+      "sha1": "c9936e993a3bc616de141cf1ead771ee08530b88",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-30T11:13:52.208934-06:00.jpg",
+      "source": "original",
+      "mtime": "1667150045",
+      "size": "261426",
+      "md5": "f7da17e4fdc14b428424e75276a29d1a",
+      "crc32": "56fb9cfa",
+      "sha1": "d56f37cd0e05571932312e6cbd1886295121808f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-10-30T11:13:52.208934-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667150051",
+      "size": "1440",
+      "md5": "41e456ddfea6702e2df158edfa63b3e0",
+      "crc32": "ed65b1cf",
+      "sha1": "4bc6971ebbabf8e22fe853fe7e8a93f951f2aa1d",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-30T11:13:52.208934-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667150052",
+      "size": "14496",
+      "md5": "155ff27c0842974663179ab735d57f27",
+      "crc32": "d67f2c42",
+      "sha1": "593e231ad4f8331115d47f64f7185c81395cef36",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-10-30T11:13:52.208934-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpcwradio-2022-10-30T11:13:52.208934-06:00.jpg",
+      "mtime": "1667151432",
+      "size": "10240",
+      "md5": "f0a88ced0d561a9794d8e0ccfd806c43",
+      "crc32": "d3a64ef9",
+      "sha1": "fad24060de99b6a1768cb780f1b1a56775c04153"
+    },
+    {
       "name": "kpcwradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7382ee767143d3bd7fd42cc085a86d3135af8033",
-      "mtime": "1666717705",
-      "size": "257931",
-      "md5": "386a2aa172b4d6a91864d00ec101835b",
-      "crc32": "4456fd1c",
-      "sha1": "a5560fc62c6eaf037d7beed33f9d09f6c17f4d02",
+      "btih": "96fb2423cf6f95297ded63089069ec146929882e",
+      "mtime": "1667151474",
+      "size": "270809",
+      "md5": "60f6428f838c7faa9f7411d0ef48427a",
+      "crc32": "80f800ac",
+      "sha1": "cdf0b55ea4890b0e381c4209eb3ea070f031f7e9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcwradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b30ff507f8053810d28d1f81fce5728",
+      "md5": "f708fb4db85501659827bb04d4559e2c",
       "summation": "md5"
     },
     {
       "name": "kpcwradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666717652",
-      "size": "1540096",
-      "md5": "22068e6f2638a8acb9c23e65b5ec16bd",
-      "crc32": "ed59d6cf",
-      "sha1": "fc414f11238e28e96b59040706b602afab53632b",
+      "mtime": "1667150058",
+      "size": "1613824",
+      "md5": "22035cb374fbb044d0d9b9ce62a7033b",
+      "crc32": "8c217fd1",
+      "sha1": "045c4fc734a7b4e037d24f4617f1076d6f62b4a2",
       "format": "Metadata"
     },
     {
@@ -12615,9 +13246,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1218,
-  "item_last_updated": 1666717705,
-  "item_size": 77509000,
+  "files_count": 1279,
+  "item_last_updated": 1667151474,
+  "item_size": 81166810,
   "metadata": {
     "identifier": "kpcwradio-2022",
     "collection": [
@@ -12634,21 +13265,10 @@
     "publicdate": "2022-07-09 04:00:05",
     "addeddate": "2022-07-09 04:00:05"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451839289,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1375912331,
+  "uniq": 869422056,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

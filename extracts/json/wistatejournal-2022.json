@@ -1,5 +1,5 @@
 {
-  "created": 1666713022,
+  "created": 1667232462,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/2/items/wistatejournal-2022",
@@ -18439,31 +18439,775 @@
       "format": "JSON"
     },
     {
+      "name": "wistatejournal-2022-10-25T10:48:51.370551-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-25T10:48:51.370551-05:00.jpg",
+      "mtime": "1666714710",
+      "size": "12501",
+      "md5": "6c7178d5b8a42d4280db53df36edeaec",
+      "crc32": "20fa41db",
+      "sha1": "1f9921bb8689fc7339272071133be5b4cb7b1297"
+    },
+    {
+      "name": "wistatejournal-2022-10-26T01:32:26.044200-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666765961",
+      "size": "25889",
+      "md5": "320a53499db557890f30a581f9c453a5",
+      "crc32": "bcafb007",
+      "sha1": "576da82a13b35b8f447606289a36e2da24d583c1",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-26T01:32:26.044200-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666765963",
+      "size": "74621",
+      "md5": "a27e2c7c329e9e81c94db98a848949f8",
+      "crc32": "e273f9a2",
+      "sha1": "6296ff6d89bd1d01df84bc001e33f7774d0ed05a",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-26T01:32:26.044200-05:00.jpg",
+      "source": "original",
+      "mtime": "1666765959",
+      "size": "341332",
+      "md5": "71f9dd90a61a906056e2656e35a2411f",
+      "crc32": "d7178fa8",
+      "sha1": "a17e2e03e56549af02ad4e751540510dc4925561",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-26T01:32:26.044200-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666765964",
+      "size": "1468",
+      "md5": "e86da3c00f7627770e06137122dfa30a",
+      "crc32": "745dee3a",
+      "sha1": "23fefae5d5d67b2bf98085d04a0e21e42560e0b7",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-26T01:32:26.044200-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666765966",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-26T01:32:26.044200-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-26T01:32:26.044200-05:00.jpg",
+      "mtime": "1666767064",
+      "size": "12745",
+      "md5": "a5860b70b3daaefb6d60b84bd50e231f",
+      "crc32": "8a997d38",
+      "sha1": "ebc81dbd62c70d08b5fddd4f5b054d3792e9e2cb"
+    },
+    {
+      "name": "wistatejournal-2022-10-26T11:31:31.384855-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666801909",
+      "size": "25400",
+      "md5": "d519f22f35d93c359d9e12d09035bfe1",
+      "crc32": "a21e48b3",
+      "sha1": "7b354bb112e23a053413fc572d17f4c165f75629",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-26T11:31:31.384855-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666801911",
+      "size": "74247",
+      "md5": "2ba44a74436392d2a1fd87fbeffb1001",
+      "crc32": "f04a36cd",
+      "sha1": "8e3d277d9a8f62ceb675bf7ae42d05866ec5cb2e",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-26T11:31:31.384855-05:00.jpg",
+      "source": "original",
+      "mtime": "1666801908",
+      "size": "308136",
+      "md5": "563532c5ad0a8394cb5ec45c19c720b9",
+      "crc32": "0364ff5a",
+      "sha1": "dfc3a983f34e7899d70b76ecf7f5c055301e8c84",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-26T11:31:31.384855-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666801915",
+      "size": "1468",
+      "md5": "d634dd20bc8683c69beaaa9afcbc398d",
+      "crc32": "9bca578d",
+      "sha1": "eff15ec8dc816b213e54b0be4db9505f4799f704",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-26T11:31:31.384855-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666801917",
+      "size": "42403",
+      "md5": "7d8a2566a4ab920265d745142b7c9a9f",
+      "crc32": "d7848ffc",
+      "sha1": "618df9266276672c49ad5611e5a55a2067fde828",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-26T11:31:31.384855-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-26T11:31:31.384855-05:00.jpg",
+      "mtime": "1666804166",
+      "size": "12274",
+      "md5": "acd1cb7e25f16eb0aa13c161e955a59f",
+      "crc32": "9f2eb819",
+      "sha1": "41de660fae86edddf108494d1e9c156f147e096a"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T00:09:27.301075-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666847371",
+      "size": "25668",
+      "md5": "904a5c7d9bb5a809ea2b273c09963319",
+      "crc32": "2cfc850d",
+      "sha1": "d56e7f5d5e89a92310dac5715ed59cc1f79d4c9c",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T00:09:27.301075-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666847373",
+      "size": "74042",
+      "md5": "e35b2a74c785152aae529f94976d6620",
+      "crc32": "012d2c4a",
+      "sha1": "0b5a18773336b82107fb7eb9916a44c528f2dfe6",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T00:09:27.301075-05:00.jpg",
+      "source": "original",
+      "mtime": "1666847369",
+      "size": "322771",
+      "md5": "f0ff147480be04033b48b2717a621baf",
+      "crc32": "2aa58fd0",
+      "sha1": "53f8b0bd0cfeba3a3faaeb018af98f0e64e3fd11",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T00:09:27.301075-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666847375",
+      "size": "1468",
+      "md5": "26106438498e10e2d36327dc5b91d73e",
+      "crc32": "276911bd",
+      "sha1": "6652b28db5ecabcb60af863020dcde609690ae49",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T00:09:27.301075-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666847377",
+      "size": "45395",
+      "md5": "b21edad03999fdf6e8bdfcf917443ff4",
+      "crc32": "57880dc3",
+      "sha1": "19f4dc9e52313bd6f65691044487ab00ac9c042c",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T00:09:27.301075-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-27T00:09:27.301075-05:00.jpg",
+      "mtime": "1666871892",
+      "size": "12542",
+      "md5": "66643a330ded4c45d37671c2b6f85574",
+      "crc32": "3d755e33",
+      "sha1": "48cdc9523c08956bc0dcb9716cca16b148d392d3"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T11:13:25.258775-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666887209",
+      "size": "26796",
+      "md5": "cc4f3f30a1a796d67b517f3d7e456a6f",
+      "crc32": "351751b0",
+      "sha1": "1820a2a60ccfcf61edfa2fd0327dd665c762107e",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T11:13:25.258775-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666887211",
+      "size": "74297",
+      "md5": "1759ccc1e1ba7d970496219e4ef8e16b",
+      "crc32": "226166d8",
+      "sha1": "2a14383348fe27478220857cdf97209fe54e2069",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T11:13:25.258775-05:00.jpg",
+      "source": "original",
+      "mtime": "1666887207",
+      "size": "351900",
+      "md5": "085fb0cd78a698d24670e239082460f2",
+      "crc32": "107f682c",
+      "sha1": "70de9337c975bd5c51543bbaeabd44ac6e9eabbf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T11:13:25.258775-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666887215",
+      "size": "1468",
+      "md5": "26d5ceb6b4b7f5f6993d824ad75b508f",
+      "crc32": "aa111c8c",
+      "sha1": "1d58591bd5d4e0845e127edecd5c2fe57a63a482",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T11:13:25.258775-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666887218",
+      "size": "40976",
+      "md5": "be629e294c86ec4ec4fc5ac7f0b10d6a",
+      "crc32": "80d38e6a",
+      "sha1": "731a1ee30ad8627c536953041d88b9fa3463a583",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T11:13:25.258775-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-27T11:13:25.258775-05:00.jpg",
+      "mtime": "1666899621",
+      "size": "12663",
+      "md5": "ef82ab4484b2a0967ac9bb2b98749c77",
+      "crc32": "70e1f905",
+      "sha1": "305e0b62f858004211a3115339607169ce31dba7"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T23:53:56.219779-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666932838",
+      "size": "25270",
+      "md5": "2a7c31f8f845bfc230fdc8f3adaa969f",
+      "crc32": "a4f231de",
+      "sha1": "0a565164bccfa4f91c8abe569b627e9854db125d",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T23:53:56.219779-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666932840",
+      "size": "74807",
+      "md5": "b83c115f8886b2ede175dda343b5ae50",
+      "crc32": "866415d1",
+      "sha1": "8bd608b9382f9f268a123d3f18b868dbfaaa9462",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T23:53:56.219779-05:00.jpg",
+      "source": "original",
+      "mtime": "1666932837",
+      "size": "309741",
+      "md5": "423b528c5a6573255feafd335f5c1e47",
+      "crc32": "91fe1fa3",
+      "sha1": "8a317c7a5a923a8c74ab463fe6b5397aa9780553",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T23:53:56.219779-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666932841",
+      "size": "1468",
+      "md5": "6ffd025a556c14a23e196019067f225d",
+      "crc32": "b6b41371",
+      "sha1": "e6919a5bbd7d11c37d3d27419fbd91ab594a8b42",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T23:53:56.219779-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666932843",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-27T23:53:56.219779-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-27T23:53:56.219779-05:00.jpg",
+      "mtime": "1666934278",
+      "size": "12391",
+      "md5": "a2a5e08dc9430e0faf754fa291349f81",
+      "crc32": "739b020d",
+      "sha1": "d83c8494bdd94e4e68fc7f927bf00fd283498189"
+    },
+    {
+      "name": "wistatejournal-2022-10-28T10:58:22.410528-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972706",
+      "size": "25605",
+      "md5": "4eba3617fe2eb0f8c853d1a2964b76ff",
+      "crc32": "7459f513",
+      "sha1": "b7cd06861cb5abfee2c6658a1a46983053980380",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-28T10:58:22.410528-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972708",
+      "size": "74983",
+      "md5": "26a4e1561a06e9b4363af6d9786435b0",
+      "crc32": "6f759049",
+      "sha1": "9b2384c70f4fac3220161bdad543f9ac415b6b7c",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-28T10:58:22.410528-05:00.jpg",
+      "source": "original",
+      "mtime": "1666972704",
+      "size": "352754",
+      "md5": "77e554a34c4be7dd1c8b80c549bd8fcb",
+      "crc32": "f198aa00",
+      "sha1": "aa91c5d9f1a413720b7711a69b89afdb9af2681e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-28T10:58:22.410528-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972709",
+      "size": "1468",
+      "md5": "f80c997fde67834f56fab9c6b808f6c5",
+      "crc32": "a30c0937",
+      "sha1": "577bacf64acaf8fb8d6a3366981ba95f15a01c56",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-28T10:58:22.410528-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972711",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-28T10:58:22.410528-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-28T10:58:22.410528-05:00.jpg",
+      "mtime": "1666977690",
+      "size": "12826",
+      "md5": "43b9fafed09c2acff0dd760cf682f88b",
+      "crc32": "d580d2b2",
+      "sha1": "0a728ff148b4a89310ef11763008a7f569631b4f"
+    },
+    {
+      "name": "wistatejournal-2022-10-28T23:18:05.340302-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667017088",
+      "size": "25836",
+      "md5": "6d4cd70a43bd5395431783de0cdfa6a9",
+      "crc32": "b0413bbb",
+      "sha1": "d1952f3b9cd4be6f3586f4f02b9eb6acb210e585",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-28T23:18:05.340302-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667017091",
+      "size": "73365",
+      "md5": "6d21abbd03b1f5f8b7fed3bed1b42c4e",
+      "crc32": "ae6f6cd0",
+      "sha1": "288dfaee2d2a316f8307ce8aad75914dac6d9ff3",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-28T23:18:05.340302-05:00.jpg",
+      "source": "original",
+      "mtime": "1667017087",
+      "size": "318577",
+      "md5": "5dddf270dd008351abd165cbeb9f7358",
+      "crc32": "11741e63",
+      "sha1": "f41d679d22acf51ac574adab902e9a8329c4baae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-28T23:18:05.340302-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667017092",
+      "size": "1468",
+      "md5": "f49d3dc14c87cf983e1d80b74005202c",
+      "crc32": "88994812",
+      "sha1": "dda02c6732ec1da0d3af8f4639383f42bf17eb88",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-28T23:18:05.340302-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667017094",
+      "size": "204",
+      "md5": "5c73708908cd5e63a455efe6e0c76915",
+      "crc32": "16dd4552",
+      "sha1": "63918746a3075a89800cd13337760a05545c603d",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-28T23:18:05.340302-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-28T23:18:05.340302-05:00.jpg",
+      "mtime": "1667020093",
+      "size": "12366",
+      "md5": "e0403645e1554e66baa67b7c0cb4838c",
+      "crc32": "6817f750",
+      "sha1": "5b2bf5df88dc85e2c5b3796a3ae2d7e3d25c1d86"
+    },
+    {
+      "name": "wistatejournal-2022-10-29T11:13:56.610814-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667060040",
+      "size": "24692",
+      "md5": "9f985505bc45cfce91bbb5ad12e1a40f",
+      "crc32": "7a392600",
+      "sha1": "3f229b7290eaa85ba3e764469f3705371509ccfb",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-29T11:13:56.610814-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667060045",
+      "size": "73508",
+      "md5": "be62caddf9b43a6ab03ddef78ea98295",
+      "crc32": "719b9745",
+      "sha1": "f5ff3e3ebdcba1505bc4796642be697370f11758",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-29T11:13:56.610814-05:00.jpg",
+      "source": "original",
+      "mtime": "1667060038",
+      "size": "339236",
+      "md5": "751066dc99caf43a6ac5e6a1b33479d8",
+      "crc32": "62a3c5cf",
+      "sha1": "5abe260ca14d933d58b9d64996ad6764fa1fb9a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-29T11:13:56.610814-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667060047",
+      "size": "1468",
+      "md5": "bea6a0340cdd786f961181d2a6b709c3",
+      "crc32": "c47469a9",
+      "sha1": "26e2e12fa5ceb5a95e3c2ccea2772e941ce979e3",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-29T11:13:56.610814-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667060051",
+      "size": "48453",
+      "md5": "4dea5bf5bb070fb16627fe58ff9e6fb8",
+      "crc32": "831bf311",
+      "sha1": "189907dcbcec457ecc8be2780a9ca02cacc1d640",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-29T11:13:56.610814-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-29T11:13:56.610814-05:00.jpg",
+      "mtime": "1667063146",
+      "size": "12377",
+      "md5": "0a5c2da6ce7c8df0da91929c381a1de2",
+      "crc32": "607d067c",
+      "sha1": "82da24c6ee57c023c36da0b0ebc2bf6c6b91cda2"
+    },
+    {
+      "name": "wistatejournal-2022-10-29T23:22:17.498400-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667103744",
+      "size": "25154",
+      "md5": "44d2406642165040b6f6f60f3c4d7955",
+      "crc32": "eb9c1947",
+      "sha1": "42b9cedd4d36bbaee3d8938ffa7a649302deae52",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-29T23:22:17.498400-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667103750",
+      "size": "74057",
+      "md5": "b89a1334f6b5a7abea341039bc6441cb",
+      "crc32": "1fbd144b",
+      "sha1": "c55c82aba618c78afba97b9b29090bdbf78a10f3",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-29T23:22:17.498400-05:00.jpg",
+      "source": "original",
+      "mtime": "1667103739",
+      "size": "333105",
+      "md5": "2364a2c62e12ff20f268cf58a88a621b",
+      "crc32": "db65ff41",
+      "sha1": "afd3cc00d59f3e5309aafd8a6b359c72fd9a10d6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-29T23:22:17.498400-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667103752",
+      "size": "1468",
+      "md5": "2f56675f3d940d6d171d83cc63582f44",
+      "crc32": "9ff2186b",
+      "sha1": "56c4a8624e8cccf28f993ee4afbaee60cf9b68fb",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-29T23:22:17.498400-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667103754",
+      "size": "38152",
+      "md5": "7be7cc9367be97db01528b32ea8cf36a",
+      "crc32": "174582d8",
+      "sha1": "9ed152b65187477ff3b6ed1a3500eec333aeee54",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-29T23:22:17.498400-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-29T23:22:17.498400-05:00.jpg",
+      "mtime": "1667104711",
+      "size": "12544",
+      "md5": "dae47cd2bbeee32e1850070b27e1113e",
+      "crc32": "0cfafa1f",
+      "sha1": "093c5d87a9385f16894ea37bfe1a8bb202d656ae"
+    },
+    {
+      "name": "wistatejournal-2022-10-30T10:50:17.505518-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667145030",
+      "size": "24577",
+      "md5": "fc14da01cd4a3d0d60a283568a8e8f5e",
+      "crc32": "f5d2218b",
+      "sha1": "bc7be5cc73580248565c6a4e081f83e35fa900e2",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-30T10:50:17.505518-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667145032",
+      "size": "73520",
+      "md5": "64b3b789fbe420a93376a122f3b0cf9e",
+      "crc32": "f2068c24",
+      "sha1": "5ed1db1211feae87ebbfd97357c81cd55c955917",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-30T10:50:17.505518-05:00.jpg",
+      "source": "original",
+      "mtime": "1667145028",
+      "size": "329977",
+      "md5": "cd465bf162755d6be88f770eb107644e",
+      "crc32": "147b07b9",
+      "sha1": "ba944126b7326d3b62e809605ee543df52593e7d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-30T10:50:17.505518-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667145034",
+      "size": "1468",
+      "md5": "3f93a0a154c3536be86c6f68d3d9a95a",
+      "crc32": "93097461",
+      "sha1": "a035e53279337f73c674b5eb46d51d85be99094d",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-30T10:50:17.505518-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667145035",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-30T10:50:17.505518-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-30T10:50:17.505518-05:00.jpg",
+      "mtime": "1667146192",
+      "size": "12680",
+      "md5": "133141ef99f4573333a9c8315ff3ac0d",
+      "crc32": "f15c3fb2",
+      "sha1": "22b03aea980b196e22f01894edeff925a2f24f28"
+    },
+    {
+      "name": "wistatejournal-2022-10-30T23:54:47.691062-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667192091",
+      "size": "25771",
+      "md5": "21f9b2c7426364cf3a977a90198f0c70",
+      "crc32": "51774f93",
+      "sha1": "458cb4853435a32927cdc98cc5c9f295631562bc",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-30T23:54:47.691062-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667192093",
+      "size": "74112",
+      "md5": "204c2a87f5a4e02d3169fa5c37cb3893",
+      "crc32": "d6bdcfbe",
+      "sha1": "b46c670c4c1f821ce39a0aff553895bfe7f3e7ef",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-30T23:54:47.691062-05:00.jpg",
+      "source": "original",
+      "mtime": "1667192089",
+      "size": "298570",
+      "md5": "ee16965e1c15f19b73749958f01d2a9f",
+      "crc32": "f80c51d6",
+      "sha1": "45101a1769e6bad9f788671d16a5014b407ea203",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-30T23:54:47.691062-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667192095",
+      "size": "1468",
+      "md5": "84a98fe62b1bd63c71a77ae3a5c791d6",
+      "crc32": "5a804a2a",
+      "sha1": "b565fca870efb7a96ca72b142ddd9355249d4ece",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-30T23:54:47.691062-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667192097",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-30T23:54:47.691062-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wistatejournal-2022-10-30T23:54:47.691062-05:00.jpg",
+      "mtime": "1667192617",
+      "size": "12290",
+      "md5": "b3df9b3df21ce10290367f680af278ec",
+      "crc32": "c12c2e5f",
+      "sha1": "d0545fbc85f9afd7f0b56bf5d4d1d18fd3379d9c"
+    },
+    {
+      "name": "wistatejournal-2022-10-31T11:05:50.095215-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667232373",
+      "size": "25744",
+      "md5": "cf54ed354d5bd4f7c6519a293e1a7409",
+      "crc32": "591cac81",
+      "sha1": "1369bc87c8e63a54edbf7569d4aecc64b473f305",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-31T11:05:50.095215-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667232375",
+      "size": "74398",
+      "md5": "b6706ce0de325c33e47910661ee96851",
+      "crc32": "ad59d9de",
+      "sha1": "7585afabe21caaa0c62a585b03299b07f8413aae",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-31T11:05:50.095215-05:00.jpg",
+      "source": "original",
+      "mtime": "1667232371",
+      "size": "312576",
+      "md5": "3bd066dcb7874c1462d9dfed366286a3",
+      "crc32": "de68a124",
+      "sha1": "9c6d54b87fc574b7968cef0af1d469e17bb22f6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wistatejournal-2022-10-31T11:05:50.095215-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667232377",
+      "size": "1459",
+      "md5": "98b0ab24d8739c11c3473ed7dc2a809c",
+      "crc32": "32cf8d96",
+      "sha1": "dcd20914eb6d2587a122e44e3fcc4e09430d8fb2",
+      "format": "JSON"
+    },
+    {
+      "name": "wistatejournal-2022-10-31T11:05:50.095215-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667232380",
+      "size": "40968",
+      "md5": "82b9cd8a6ff199f2f468f1eb4b6d0715",
+      "crc32": "6c991318",
+      "sha1": "69d56a7d0a9d44fb4a5b0705cac89185fbb47316",
+      "format": "JSON"
+    },
+    {
       "name": "wistatejournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6467a9b4fc6374e152d9df62b8c6edef42eefc7e",
-      "mtime": "1666713016",
-      "size": "386011",
-      "md5": "a1bcd6f15757dc2e1aafbc6f69787790",
-      "crc32": "b0a014ef",
-      "sha1": "38514b8016cdccb4af81c645a1dcc17c8e68bc8d",
+      "btih": "a79cf0a05626da76599dc970cbf8dabd188663ea",
+      "mtime": "1667232452",
+      "size": "401627",
+      "md5": "85996488e7cc4473eb95c3a55153ad53",
+      "crc32": "a7744061",
+      "sha1": "28cbf16d3c1a54d6a355f1b1d4b41fc965f4be61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wistatejournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "682e719992374ee8795443b840c68351",
+      "md5": "d5980cec376fa6ccf091d1c1f69af9b0",
       "summation": "md5"
     },
     {
       "name": "wistatejournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666712960",
-      "size": "2174976",
-      "md5": "88e4d0be5084c15ffa3a1d39d5d16fdd",
-      "crc32": "e599d21b",
-      "sha1": "1ff8cb34fe241e49ba7e64333ba0bd1addae3d5c",
+      "mtime": "1667232386",
+      "size": "2269184",
+      "md5": "dd487dc9c3ff632e072fa84b83cc4a66",
+      "crc32": "4529dd6e",
+      "sha1": "5c923ccfb6fb422e309f10fd02731af9967378de",
       "format": "Metadata"
     },
     {
@@ -18477,9 +19221,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1775,
-  "item_last_updated": 1666713016,
-  "item_size": 162860707,
+  "files_count": 1847,
+  "item_last_updated": 1667232452,
+  "item_size": 168510932,
   "metadata": {
     "identifier": "wistatejournal-2022",
     "collection": [
@@ -18501,7 +19245,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451774587,
+      "task_id": 3457892885,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -18509,7 +19253,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1054558481,
+  "uniq": 1456530491,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666706191,
+  "created": 1667225637,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/minnpost-2022",
@@ -19131,31 +19131,775 @@
       "format": "JSON"
     },
     {
+      "name": "minnpost-2022-10-25T08:55:07.823709-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-25T08:55:07.823709-05:00.jpg",
+      "mtime": "1666711405",
+      "size": "9696",
+      "md5": "02f3029be884a7825daf2239823c8b80",
+      "crc32": "aae0b024",
+      "sha1": "52c037261c5192a61de6c03d811fd3da839f018e"
+    },
+    {
+      "name": "minnpost-2022-10-25T21:30:01.685481-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666751411",
+      "size": "32677",
+      "md5": "c3bef8e8d144669cf46b32a672166fae",
+      "crc32": "b30d080c",
+      "sha1": "880c4c3f26bb168dcd585af6fb1901161548d9c8",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-25T21:30:01.685481-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666751413",
+      "size": "25360",
+      "md5": "356791a1d17de48d60b0e82417dc029d",
+      "crc32": "34d55916",
+      "sha1": "80812e077b20853e3f9b551b6e0cce107880e1ca",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-25T21:30:01.685481-05:00.jpg",
+      "source": "original",
+      "mtime": "1666751408",
+      "size": "298215",
+      "md5": "114ffd7765193d5f062af28617ddb626",
+      "crc32": "4fd10ef1",
+      "sha1": "79b524a018df4782bc1702be2b9ce6c90b38dccd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-25T21:30:01.685481-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666751415",
+      "size": "1468",
+      "md5": "ee3a7d8a2ec0a1e7b01fd1c735eea8da",
+      "crc32": "509baca2",
+      "sha1": "499291493405426c15547d17ce6df12eb8ac5f73",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-25T21:30:01.685481-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666751416",
+      "size": "30914",
+      "md5": "c59beaf3b697d7dc5f02c26446f0b545",
+      "crc32": "27b5b839",
+      "sha1": "1f043328166a70c3220d4ec0181249991a92b00e",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-25T21:30:01.685481-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-25T21:30:01.685481-05:00.jpg",
+      "mtime": "1666751661",
+      "size": "10142",
+      "md5": "6d54e1292529e000bd0bf1062aca7e9d",
+      "crc32": "13232d09",
+      "sha1": "88962f07457e7f6dc1e0035acb12315afa69b378"
+    },
+    {
+      "name": "minnpost-2022-10-26T09:54:40.501154-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796091",
+      "size": "33400",
+      "md5": "015249fb15da7fbfb737aac93c8c000f",
+      "crc32": "f6607633",
+      "sha1": "07e18b3d3bae56d879b8cd804e1f40bbe0c927ee",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-26T09:54:40.501154-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796093",
+      "size": "25322",
+      "md5": "d86fdd2243a0d22fcc4ba0211e210ad3",
+      "crc32": "93d531a5",
+      "sha1": "80a8db1dd89953a0a2bc7a60a0cb70bd11be494f",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-26T09:54:40.501154-05:00.jpg",
+      "source": "original",
+      "mtime": "1666796089",
+      "size": "299559",
+      "md5": "13dac7ac82875eb0468e20855d7c09af",
+      "crc32": "410dc975",
+      "sha1": "542792628183254370808dc0ad8bf97c8b4aeacb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-26T09:54:40.501154-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796095",
+      "size": "1467",
+      "md5": "c9f65f7a5f1902ddec8372a95a20fefe",
+      "crc32": "b885cdff",
+      "sha1": "b862a09798dad9bfc4b243d02d8a50fdf76b3d52",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-26T09:54:40.501154-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796096",
+      "size": "30799",
+      "md5": "4c052db761bc4af6c3d0ab74cc27e205",
+      "crc32": "abbb84f5",
+      "sha1": "81a7a9bb2bbce8baacf150561e65f1196f5af724",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-26T09:54:40.501154-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-26T09:54:40.501154-05:00.jpg",
+      "mtime": "1666804199",
+      "size": "10149",
+      "md5": "4b4da9f3468b858bfa55f9dc428b2397",
+      "crc32": "ff0d3fb3",
+      "sha1": "736b9ae3674e8bbdb2e18753df5ee2a923a7aaf5"
+    },
+    {
+      "name": "minnpost-2022-10-26T21:26:24.359985-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666837587",
+      "size": "32825",
+      "md5": "2580d4c8ae1cc5cfceb1f435fa837b64",
+      "crc32": "dffd10f4",
+      "sha1": "f6442331385349dad3dffefed1fa491b702d480b",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-26T21:26:24.359985-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837590",
+      "size": "25307",
+      "md5": "ec1793d518adf35d58087f5edd38e44c",
+      "crc32": "2c2fe3f2",
+      "sha1": "810bb4b778a06b6689a7ac56b8c4e887b2cb762f",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-26T21:26:24.359985-05:00.jpg",
+      "source": "original",
+      "mtime": "1666837585",
+      "size": "279286",
+      "md5": "52a85b196516498bc18ea24b21dd53ea",
+      "crc32": "6384c2ff",
+      "sha1": "4323d21be51214973153aa796db8c41c7bdef7a3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-26T21:26:24.359985-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837591",
+      "size": "1468",
+      "md5": "2abe88f6aee69a1f29b717e1986fdd38",
+      "crc32": "cf0a2667",
+      "sha1": "052052e40fa10036ed980b857603d99bc2bb98b0",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-26T21:26:24.359985-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666837593",
+      "size": "205",
+      "md5": "fb9b3915ae9baefd857ce7729026fd9c",
+      "crc32": "20bca5c5",
+      "sha1": "f62465d7842c51195858d932627bc9576a08311a",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-26T21:26:24.359985-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-26T21:26:24.359985-05:00.jpg",
+      "mtime": "1666862481",
+      "size": "9870",
+      "md5": "e09dee9b3ab4995441659b29fc975ba9",
+      "crc32": "15602a5e",
+      "sha1": "563faabf3da2bec0c09ba5cab5d6984a353b15d2"
+    },
+    {
+      "name": "minnpost-2022-10-27T09:11:57.850331-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666879928",
+      "size": "33622",
+      "md5": "f19eba4f1fab89347dbcba48b5913f62",
+      "crc32": "359dfe5a",
+      "sha1": "5ae7b21314007bdb667115d087e59bf82f5789de",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-27T09:11:57.850331-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666879931",
+      "size": "25347",
+      "md5": "e0e7dd5d9057ee3bfcca1c107589a378",
+      "crc32": "be754b0a",
+      "sha1": "1345b518cc80f135568e971d1d958b84eaab085d",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-27T09:11:57.850331-05:00.jpg",
+      "source": "original",
+      "mtime": "1666879926",
+      "size": "335064",
+      "md5": "8e94881b04cf9f1544b23949743c3623",
+      "crc32": "12f64583",
+      "sha1": "c9a7bd4f85360de48a624f68662abfa495253b6b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-27T09:11:57.850331-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666879933",
+      "size": "1477",
+      "md5": "bca4b1cf102ab056f11b04a349f2caf6",
+      "crc32": "c1f2fe75",
+      "sha1": "fe411d99bdc503552bf3ba253ece869e1fdc2d78",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-27T09:11:57.850331-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666879936",
+      "size": "205",
+      "md5": "6d02859fe7f07662e151a64a261581ea",
+      "crc32": "5fa355f8",
+      "sha1": "85b480ddbb784dbe5d5d0963600e83b7e6655c55",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-27T09:11:57.850331-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-27T09:11:57.850331-05:00.jpg",
+      "mtime": "1666893481",
+      "size": "10552",
+      "md5": "e98c5db286552c339685068e93f343cf",
+      "crc32": "97b8a8cd",
+      "sha1": "09b244006354ac0ce82aee7ad9aedac05dfcc5d1"
+    },
+    {
+      "name": "minnpost-2022-10-27T21:26:56.781271-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666924021",
+      "size": "33069",
+      "md5": "340e7e2036968f506b7a3f25a20af5ef",
+      "crc32": "fbfefdde",
+      "sha1": "3cbcc4112d2754d810fb8a6949da718adde6144b",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-27T21:26:56.781271-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666924023",
+      "size": "24933",
+      "md5": "1f8b1423d00dd7ff899caf040acb8cec",
+      "crc32": "1978ceba",
+      "sha1": "2acb55bf07a3e744c693367fd29c25e8468f2516",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-27T21:26:56.781271-05:00.jpg",
+      "source": "original",
+      "mtime": "1666924018",
+      "size": "323346",
+      "md5": "23adb28d25c9e5d890d76f34a367eaae",
+      "crc32": "bd60bb04",
+      "sha1": "45da82920ba6efe6e14877e302f754e3ee095993",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-27T21:26:56.781271-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666924025",
+      "size": "1467",
+      "md5": "f6a5770fe37e31e4c47feda2f572a58f",
+      "crc32": "124163a0",
+      "sha1": "68a062bfef682d4585a98edf04146f2263238588",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-27T21:26:56.781271-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666924027",
+      "size": "30490",
+      "md5": "f2f0fe014434b530cf5447d81bf20bd7",
+      "crc32": "c3a033b9",
+      "sha1": "63fdfa432f5ba09797708a0f6905d7d7cbb6b41f",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-27T21:26:56.781271-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-27T21:26:56.781271-05:00.jpg",
+      "mtime": "1666925586",
+      "size": "9557",
+      "md5": "2015dad3adcb91d4881423cb7e0b8634",
+      "crc32": "2265fc35",
+      "sha1": "758ddf297737346c8060fb229156c338964b9e7c"
+    },
+    {
+      "name": "minnpost-2022-10-28T09:02:22.371101-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666965772",
+      "size": "33313",
+      "md5": "13fe533103ec4274509d04e1e0139df6",
+      "crc32": "f281b470",
+      "sha1": "4110cc3179a28daa19bdb1006efe32da2432a2c4",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-28T09:02:22.371101-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666965774",
+      "size": "24890",
+      "md5": "7c6398e35f767d44dd116ad0e09f4d34",
+      "crc32": "3816fc49",
+      "sha1": "fb8be0733ce464d41653c3fda0007efeb8b7ef95",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-28T09:02:22.371101-05:00.jpg",
+      "source": "original",
+      "mtime": "1666965770",
+      "size": "329194",
+      "md5": "890a08bfad4273843b2c3b3f2938eb6b",
+      "crc32": "fab21291",
+      "sha1": "a16b8a04d57f56e0422176a9906d69547a377f7c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-28T09:02:22.371101-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666965776",
+      "size": "1468",
+      "md5": "af6a8ec1ebfc0a97b183de891004ecdf",
+      "crc32": "a8bc23aa",
+      "sha1": "f16daeb2f63be4c4cd980b69e9bcf21127ab8101",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-28T09:02:22.371101-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666965778",
+      "size": "30147",
+      "md5": "18dab7332714002cdc49319016fd3aee",
+      "crc32": "540d84b6",
+      "sha1": "6974abf03331577404043861db7b7856fba74c9f",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-28T09:02:22.371101-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-28T09:02:22.371101-05:00.jpg",
+      "mtime": "1666970726",
+      "size": "9709",
+      "md5": "0aa607ad090fb7406d5df5d044f911b2",
+      "crc32": "d7b368cd",
+      "sha1": "d4f5457743888ab381512867bd5792345652c133"
+    },
+    {
+      "name": "minnpost-2022-10-28T21:14:24.690145-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667009668",
+      "size": "36140",
+      "md5": "c7c8a64eb1755ab40c11eb7ccc6735be",
+      "crc32": "949970a3",
+      "sha1": "17f21c9a7702c6e7e7e089d0abdc20f445bda953",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-28T21:14:24.690145-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667009670",
+      "size": "26697",
+      "md5": "9382d24dc7235e6bf3fbf47cd78d9501",
+      "crc32": "0ed475ed",
+      "sha1": "5a6a4d8c568179374799ffdeeb9b364f0c3fdc6e",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-28T21:14:24.690145-05:00.jpg",
+      "source": "original",
+      "mtime": "1667009666",
+      "size": "288969",
+      "md5": "b84b6eee48ec31afc0479de945abaf37",
+      "crc32": "90c95612",
+      "sha1": "beaed038f70f3c0f903a62c81e26bdd24d175cac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-28T21:14:24.690145-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667009672",
+      "size": "1468",
+      "md5": "c0ed8d3d919b6e6c38a1e67e129f1308",
+      "crc32": "3292fcea",
+      "sha1": "97ef67265e35f0204dba0cc4b2e7797c5444681b",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-28T21:14:24.690145-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667009673",
+      "size": "258",
+      "md5": "697ea9e61a91bceaec11148304898222",
+      "crc32": "c23a9476",
+      "sha1": "f78e2adcf87e943c1bbe37741a218cb8e38428e2",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-28T21:14:24.690145-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-28T21:14:24.690145-05:00.jpg",
+      "mtime": "1667011375",
+      "size": "9837",
+      "md5": "d31a3bb004fbf9c53c10e2868699d4c8",
+      "crc32": "bf769413",
+      "sha1": "108d1d135be61699b6cf05a8a56d9f65899ec1cd"
+    },
+    {
+      "name": "minnpost-2022-10-29T09:03:44.294487-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667052233",
+      "size": "35588",
+      "md5": "43e650c71ecd3c3756e1ef1f1c4b8990",
+      "crc32": "14c0b783",
+      "sha1": "8c0cf5cddaa039c94b8b6e30cecdafde3c3f9ddc",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-29T09:03:44.294487-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667052235",
+      "size": "26697",
+      "md5": "9382d24dc7235e6bf3fbf47cd78d9501",
+      "crc32": "0ed475ed",
+      "sha1": "5a6a4d8c568179374799ffdeeb9b364f0c3fdc6e",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-29T09:03:44.294487-05:00.jpg",
+      "source": "original",
+      "mtime": "1667052232",
+      "size": "288969",
+      "md5": "b84b6eee48ec31afc0479de945abaf37",
+      "crc32": "90c95612",
+      "sha1": "beaed038f70f3c0f903a62c81e26bdd24d175cac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-29T09:03:44.294487-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667052237",
+      "size": "1466",
+      "md5": "bc6bffe8996b9ac944e38d51f4ec8b26",
+      "crc32": "3e5b17a1",
+      "sha1": "af2f5d1f99f7f30735d1a1a32f5b02650737dc06",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-29T09:03:44.294487-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667052238",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-29T09:03:44.294487-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-29T09:03:44.294487-05:00.jpg",
+      "mtime": "1667053553",
+      "size": "9837",
+      "md5": "d31a3bb004fbf9c53c10e2868699d4c8",
+      "crc32": "bf769413",
+      "sha1": "108d1d135be61699b6cf05a8a56d9f65899ec1cd"
+    },
+    {
+      "name": "minnpost-2022-10-29T21:06:41.464097-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667095613",
+      "size": "35588",
+      "md5": "43e650c71ecd3c3756e1ef1f1c4b8990",
+      "crc32": "14c0b783",
+      "sha1": "8c0cf5cddaa039c94b8b6e30cecdafde3c3f9ddc",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-29T21:06:41.464097-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095614",
+      "size": "26697",
+      "md5": "9382d24dc7235e6bf3fbf47cd78d9501",
+      "crc32": "0ed475ed",
+      "sha1": "5a6a4d8c568179374799ffdeeb9b364f0c3fdc6e",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-29T21:06:41.464097-05:00.jpg",
+      "source": "original",
+      "mtime": "1667095611",
+      "size": "288969",
+      "md5": "b84b6eee48ec31afc0479de945abaf37",
+      "crc32": "90c95612",
+      "sha1": "beaed038f70f3c0f903a62c81e26bdd24d175cac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-29T21:06:41.464097-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095616",
+      "size": "1467",
+      "md5": "6f13527f38359048fd7f50f75ca2e1b2",
+      "crc32": "17a80a31",
+      "sha1": "de3c6952da39fe3c71e92d5b49d313421ae1c02c",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-29T21:06:41.464097-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667095618",
+      "size": "205",
+      "md5": "fcc4950b194e0a7fbd57979bdf9837bc",
+      "crc32": "f39e8f41",
+      "sha1": "d7573b34dedda6f8060a49681cc385425dbfbe95",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-29T21:06:41.464097-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-29T21:06:41.464097-05:00.jpg",
+      "mtime": "1667096929",
+      "size": "9837",
+      "md5": "d31a3bb004fbf9c53c10e2868699d4c8",
+      "crc32": "bf769413",
+      "sha1": "108d1d135be61699b6cf05a8a56d9f65899ec1cd"
+    },
+    {
+      "name": "minnpost-2022-10-30T08:47:43.771318-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667137672",
+      "size": "35569",
+      "md5": "55e9dac1f42dffbc2391270417383ce3",
+      "crc32": "9b1513e6",
+      "sha1": "062cd4a3b570fc2c3b838473238404925f1cecff",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-30T08:47:43.771318-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667137673",
+      "size": "26667",
+      "md5": "10f454c8c42a97a8d7c7ecdf8df730e3",
+      "crc32": "bad0f8f8",
+      "sha1": "b988cbef705d85d004e69e4f996760100577142c",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-30T08:47:43.771318-05:00.jpg",
+      "source": "original",
+      "mtime": "1667137670",
+      "size": "288969",
+      "md5": "b84b6eee48ec31afc0479de945abaf37",
+      "crc32": "90c95612",
+      "sha1": "beaed038f70f3c0f903a62c81e26bdd24d175cac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-30T08:47:43.771318-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667137675",
+      "size": "1468",
+      "md5": "69aec5079ace29d50031825d0591340c",
+      "crc32": "f243c59d",
+      "sha1": "abcd708a36fd08024ce55e239ddb4c2d7e24c115",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-30T08:47:43.771318-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667137677",
+      "size": "30231",
+      "md5": "e23e54916a894106d060bdb0af11f389",
+      "crc32": "d6d579fe",
+      "sha1": "205fb84d5db2d26d98faaa4942c7891d212522ce",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-30T08:47:43.771318-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-30T08:47:43.771318-05:00.jpg",
+      "mtime": "1667138118",
+      "size": "9837",
+      "md5": "d31a3bb004fbf9c53c10e2868699d4c8",
+      "crc32": "bf769413",
+      "sha1": "108d1d135be61699b6cf05a8a56d9f65899ec1cd"
+    },
+    {
+      "name": "minnpost-2022-10-30T21:12:52.801008-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667182382",
+      "size": "35569",
+      "md5": "55e9dac1f42dffbc2391270417383ce3",
+      "crc32": "9b1513e6",
+      "sha1": "062cd4a3b570fc2c3b838473238404925f1cecff",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-30T21:12:52.801008-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667182383",
+      "size": "26667",
+      "md5": "10f454c8c42a97a8d7c7ecdf8df730e3",
+      "crc32": "bad0f8f8",
+      "sha1": "b988cbef705d85d004e69e4f996760100577142c",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-30T21:12:52.801008-05:00.jpg",
+      "source": "original",
+      "mtime": "1667182380",
+      "size": "288969",
+      "md5": "b84b6eee48ec31afc0479de945abaf37",
+      "crc32": "90c95612",
+      "sha1": "beaed038f70f3c0f903a62c81e26bdd24d175cac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-30T21:12:52.801008-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667182386",
+      "size": "1468",
+      "md5": "6d82a8c67b9a30826d5cda093d2cd48f",
+      "crc32": "2804538c",
+      "sha1": "9247700cbbca5c7edca6bbc820450214a3ea618e",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-30T21:12:52.801008-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667182390",
+      "size": "30459",
+      "md5": "270cbc768e93a180ec39d55adef577b2",
+      "crc32": "0cc7b35d",
+      "sha1": "27c3eeed9a9784beeacb277fa8f87659c6cae7de",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-30T21:12:52.801008-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "minnpost-2022-10-30T21:12:52.801008-05:00.jpg",
+      "mtime": "1667182945",
+      "size": "9837",
+      "md5": "d31a3bb004fbf9c53c10e2868699d4c8",
+      "crc32": "bf769413",
+      "sha1": "108d1d135be61699b6cf05a8a56d9f65899ec1cd"
+    },
+    {
+      "name": "minnpost-2022-10-31T09:12:29.471897-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667225561",
+      "size": "35536",
+      "md5": "2e618182b7a0d9e254a222a5f60c8960",
+      "crc32": "758b1e44",
+      "sha1": "a20f1c4a9a412f79d8da77e7d40fed0d1cf70605",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-31T09:12:29.471897-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667225563",
+      "size": "25256",
+      "md5": "ed591876c506b87b473ed4724a2bb9d5",
+      "crc32": "293462b7",
+      "sha1": "deae5a7676a3a23279069ae81bca3d314abadd02",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-31T09:12:29.471897-05:00.jpg",
+      "source": "original",
+      "mtime": "1667225559",
+      "size": "286278",
+      "md5": "f1a295e83e2a836705643c67abbcb66e",
+      "crc32": "1a299ea3",
+      "sha1": "9636cccee80e8723cd5861a1eefad95d9abe799b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "minnpost-2022-10-31T09:12:29.471897-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667225565",
+      "size": "1467",
+      "md5": "7d7321c3e71cc1ffdb3359a79d3d3ab0",
+      "crc32": "c01fe447",
+      "sha1": "fb95af08b41d0eaee802a17f51fc1d6e2cc28972",
+      "format": "JSON"
+    },
+    {
+      "name": "minnpost-2022-10-31T09:12:29.471897-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667225567",
+      "size": "30248",
+      "md5": "0c0ae0d9f2978c26e03fc5c33dc8ff0f",
+      "crc32": "6a06ed5a",
+      "sha1": "9d1052df89214f3bbba04ff923051019d9da49a9",
+      "format": "JSON"
+    },
+    {
       "name": "minnpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2fb1e2eeda6d39caf85fa739499e125fc4c335d6",
-      "mtime": "1666706186",
-      "size": "388776",
-      "md5": "8464cd705f33667e4d2e92471bce0452",
-      "crc32": "2dd0f0c1",
-      "sha1": "7e38d1fe7359866776eeff469a1c00d518d86726",
+      "btih": "7ae4f0d4ffe198b78e55e881f0e1df77d1d5602c",
+      "mtime": "1667225632",
+      "size": "403913",
+      "md5": "b7682c6de86d1c94771f94feef01668c",
+      "crc32": "781a046a",
+      "sha1": "74cb10b8909319f870cde54c653108cedb696b94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "minnpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a541aeb2dc73b3d76c2c8518a8b0749c",
+      "md5": "a6033ef1b12525bc6f4018cbc39bf2c0",
       "summation": "md5"
     },
     {
       "name": "minnpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666706122",
-      "size": "2240512",
-      "md5": "908c7fa7c33828fc9cde1c411a37e6f8",
-      "crc32": "e03b368b",
-      "sha1": "38e5f7c983ca00c19dec50bd793dc05bb6957e32",
+      "mtime": "1667225570",
+      "size": "2330624",
+      "md5": "9859e2b6dd885be98379c342142aa5c9",
+      "crc32": "7b2f243c",
+      "sha1": "0689a28f968dcb60ebfc5f80da1cc684eb160d05",
       "format": "Metadata"
     },
     {
@@ -19169,9 +19913,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1842,
-  "item_last_updated": 1666706186,
-  "item_size": 149322807,
+  "files_count": 1914,
+  "item_last_updated": 1667225632,
+  "item_size": 154097421,
   "metadata": {
     "identifier": "minnpost-2022",
     "collection": [
@@ -19193,15 +19937,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451702117,
+      "task_id": 3457827253,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1043994872,
+  "uniq": 133370823,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]

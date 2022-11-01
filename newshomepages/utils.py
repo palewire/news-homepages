@@ -610,6 +610,8 @@ def _load_new_page_disable_javascript(
     if custom_javascript:
         print("Executing custom JavaScript")
         page.evaluate(custom_javascript)
+        print("Waiting another 5 seconds..")
+        time.sleep(5)
 
     # Hide the scrollbars
     print("Hiding scrollbars with CSS")

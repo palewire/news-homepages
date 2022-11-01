@@ -1,5 +1,6 @@
 {
-  "created": 1666695507,
+  "conflict": 1667257248,
+  "created": 1667257248,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/2/items/alpublicradio-2022",
@@ -5409,31 +5410,826 @@
       "format": "JSON"
     },
     {
+      "name": "alpublicradio-2022-10-25T05:56:08.234963-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-25T05:56:08.234963-05:00.jpg",
+      "mtime": "1666697268",
+      "size": "10164",
+      "md5": "e1d34a78a6804c763637a2cfab79ea22",
+      "crc32": "2a9f0c19",
+      "sha1": "01e75445269a61334061e62fba45660fe4569be9"
+    },
+    {
+      "name": "alpublicradio-2022-10-25T17:56:38.482223-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738603",
+      "size": "26278",
+      "md5": "c43e875b552d634db9a506e6b7b910bf",
+      "crc32": "60186278",
+      "sha1": "b548780e840047b18609e23ca1c6827ab857507d",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-25T17:56:38.482223-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738606",
+      "size": "40931",
+      "md5": "e26300054df12da10d0447f52215cef0",
+      "crc32": "2756fb04",
+      "sha1": "06a3b46fef74178bc2bb9755628e9e7dc8dfe186",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-25T17:56:38.482223-05:00.jpg",
+      "source": "original",
+      "mtime": "1666738601",
+      "size": "280839",
+      "md5": "3eb5d4e596beb8d94867130089b30caf",
+      "crc32": "c46eba15",
+      "sha1": "290dcdb1baeab19a46fb12d446baad3345d9b874",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-25T17:56:38.482223-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666738607",
+      "size": "1422",
+      "md5": "3825802bf4c523c7e0e76b4f6ca5ca50",
+      "crc32": "d42dbbef",
+      "sha1": "0f8fa774ea85d944b397e13590f5b49364c4f869",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-25T17:56:38.482223-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738609",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-25T17:56:38.482223-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-25T17:56:38.482223-05:00.jpg",
+      "mtime": "1666740311",
+      "size": "9992",
+      "md5": "4506751d8dfbc4afd0479115a4c4e742",
+      "crc32": "635ee0b6",
+      "sha1": "a34c9d9052dc341e0db47d65c8351ebbdd405a62"
+    },
+    {
+      "name": "alpublicradio-2022-10-26T05:51:25.506673-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781493",
+      "size": "25813",
+      "md5": "34a08115b78bd563630313297bb86e35",
+      "crc32": "b42c18ef",
+      "sha1": "141413e18c38e61b9987144e17ea16f1c856a4ae",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-26T05:51:25.506673-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781495",
+      "size": "40828",
+      "md5": "4338e6f1efd38fd7b4c5ba45921f0ed1",
+      "crc32": "e4f4822e",
+      "sha1": "f2f630e453c835bcb84ada1ad5d7d524130845aa",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-26T05:51:25.506673-05:00.jpg",
+      "source": "original",
+      "mtime": "1666781491",
+      "size": "286367",
+      "md5": "75f900a5064cd4aabc5cdbed8bb0d27e",
+      "crc32": "1d3bb82a",
+      "sha1": "46a2984f4ec915e5a591b1934e6ad6281dc03596",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-26T05:51:25.506673-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781496",
+      "size": "1422",
+      "md5": "8dde9af737a14509fac1dbc2e17092d8",
+      "crc32": "b8367014",
+      "sha1": "8c19dd27fb17cfdc4be07ee34aed8e289a64cf1d",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-26T05:51:25.506673-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781498",
+      "size": "200",
+      "md5": "970d75073f919f8bd36c78b93cfb3a6f",
+      "crc32": "0ab1a74c",
+      "sha1": "638bb242f5d86831574b0a125fbd673d1ae51c93",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-26T05:51:25.506673-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-26T05:51:25.506673-05:00.jpg",
+      "mtime": "1666782602",
+      "size": "10126",
+      "md5": "8676bcc09815cba301c64da7d2a63418",
+      "crc32": "9f340a61",
+      "sha1": "dba5149aeb03812f48a3420c9b418a95862a1bae"
+    },
+    {
+      "name": "alpublicradio-2022-10-26T17:55:47.032018-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666824952",
+      "size": "25910",
+      "md5": "570467f419f723c4a8d815f332620c77",
+      "crc32": "8fa5e641",
+      "sha1": "8d3ff7190c22ffca14ae185208807bd3ec17273d",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-26T17:55:47.032018-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666824953",
+      "size": "40855",
+      "md5": "4cb7aa7533a1dd9a59deaf9689a4faff",
+      "crc32": "4359c831",
+      "sha1": "913d989e35fed7870623aa2adaaf0da0bc3b9f5c",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-26T17:55:47.032018-05:00.jpg",
+      "source": "original",
+      "mtime": "1666824950",
+      "size": "282123",
+      "md5": "53b963988ac193060676df6da8cfd268",
+      "crc32": "a7f19b70",
+      "sha1": "9e83a0db242b90883abe0f5aed993241ddfe63ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-26T17:55:47.032018-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666824955",
+      "size": "1423",
+      "md5": "5611435df9a293715be5cbe6535de773",
+      "crc32": "2733639f",
+      "sha1": "40693e9fcd827e179a0fb422470abc521fa0b619",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-26T17:55:47.032018-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666824958",
+      "size": "15712",
+      "md5": "e84bc8ac99df290f82aae599512b33c2",
+      "crc32": "7a606b5c",
+      "sha1": "7888d52d557eb9aec1d5d7c48f0c5ff83fea2018",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-26T17:55:47.032018-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-26T17:55:47.032018-05:00.jpg",
+      "mtime": "1666849373",
+      "size": "10140",
+      "md5": "f0b2c2754b70fb5f20fcecf5e36b0e76",
+      "crc32": "576809ef",
+      "sha1": "cb370405e0a00dd9aee03cf066f1fc03c8aff761"
+    },
+    {
+      "name": "alpublicradio-2022-10-27T06:00:02.410343-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666868409",
+      "size": "25430",
+      "md5": "670086da307305d1a31a9e5dc7d2d2ed",
+      "crc32": "646e6776",
+      "sha1": "9dc6f12a4958e9c945eab5e4003f70104593e4bf",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-27T06:00:02.410343-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666868411",
+      "size": "40996",
+      "md5": "bf19f4f756e8fad113fcb80aa9902e6d",
+      "crc32": "8785c3fd",
+      "sha1": "1cbbde44a6017a0bc632e780f15c36034bf39714",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-27T06:00:02.410343-05:00.jpg",
+      "source": "original",
+      "mtime": "1666868407",
+      "size": "342716",
+      "md5": "973cb26d19726a29b96f73d9682a8fae",
+      "crc32": "36b64499",
+      "sha1": "e6f24cafc0ad0e77d8a9e8775763c367c0dc5ebb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-27T06:00:02.410343-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666868413",
+      "size": "1423",
+      "md5": "5258458c2bdf4992f2a5a19d3f8a110b",
+      "crc32": "4adb29e4",
+      "sha1": "8055088fdd00ec37d6b3521653b04e51ba37f1c5",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-27T06:00:02.410343-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666868414",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-27T06:00:02.410343-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-27T06:00:02.410343-05:00.jpg",
+      "mtime": "1666886778",
+      "size": "10071",
+      "md5": "287195c7559cd77952d4e3f04044da09",
+      "crc32": "c36e7fba",
+      "sha1": "590e9c6b2dcad790e5e10a1ff8a8cc95216af608"
+    },
+    {
+      "name": "alpublicradio-2022-10-27T17:45:51.418683-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910759",
+      "size": "26443",
+      "md5": "aa7969601208d7e0af9c809613c3f77f",
+      "crc32": "aafd912c",
+      "sha1": "1f6901a527840ea7d61eef0339bb03fa173d2004",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-27T17:45:51.418683-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910761",
+      "size": "40908",
+      "md5": "5a57e1559e02d98568c7b4d602b55b51",
+      "crc32": "b9b1ef10",
+      "sha1": "ef9219684066d6bb42e575a375a25e75676ff6cd",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-27T17:45:51.418683-05:00.jpg",
+      "source": "original",
+      "mtime": "1666910757",
+      "size": "341124",
+      "md5": "606c882ba4ebb080e6c3b2031a2ba629",
+      "crc32": "e4087ba0",
+      "sha1": "f9a4c32b1d1542c00d86db8a3882d36520d213fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-27T17:45:51.418683-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910764",
+      "size": "1423",
+      "md5": "2104fc9b8de6bdca9080b45d3506e071",
+      "crc32": "547203cc",
+      "sha1": "af32cabf3424ae4e237127ebe5deeaff091d6d62",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-27T17:45:51.418683-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910765",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-27T17:45:51.418683-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-27T17:45:51.418683-05:00.jpg",
+      "mtime": "1666913248",
+      "size": "10042",
+      "md5": "d9a8f2bb74585e8e9012eddd02569c1d",
+      "crc32": "3c4a08f3",
+      "sha1": "1df2be286e6dad8bd7fa594691fb22e18ae1938e"
+    },
+    {
+      "name": "alpublicradio-2022-10-28T05:51:25.477089-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666954288",
+      "size": "25625",
+      "md5": "ad1fd6d8c3f7bd5e95ba98b248fd9735",
+      "crc32": "967d426b",
+      "sha1": "c7a9406c8885a6b8e8b406709440951bd7062889",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-28T05:51:25.477089-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666954290",
+      "size": "40782",
+      "md5": "34ccfd49e1e3e767533957e8d56f99da",
+      "crc32": "539506dc",
+      "sha1": "fe519aab2cebe5e0f215649c902a1886f1536eb2",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-28T05:51:25.477089-05:00.jpg",
+      "source": "original",
+      "mtime": "1666954287",
+      "size": "235672",
+      "md5": "7b1dbe36f294fc439b03ad1dfd1e4fb2",
+      "crc32": "f690c1a2",
+      "sha1": "f637e34dd08fa1469fd8e9474f2fb01ba9cad680",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-28T05:51:25.477089-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666954291",
+      "size": "1429",
+      "md5": "06f2ff8a415d8b797683a471936f4afa",
+      "crc32": "44bc055b",
+      "sha1": "13c5a0ba076ea6ed124466757c7217f8caddccb3",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-28T05:51:25.477089-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666954293",
+      "size": "15243",
+      "md5": "44f5913fe56af5095441c17734d92fe0",
+      "crc32": "ed0d8b92",
+      "sha1": "ff3b723d1e0b57a0b5d514110ba11fbe5707ef8c",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-28T05:51:25.477089-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-28T05:51:25.477089-05:00.jpg",
+      "mtime": "1666959789",
+      "size": "9280",
+      "md5": "683e7a1a242f65e32c083f361ffba9d6",
+      "crc32": "72528e05",
+      "sha1": "d07f5c5c953587c5a71511de5338961f404db23d"
+    },
+    {
+      "name": "alpublicradio-2022-10-28T18:04:15.046929-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666998259",
+      "size": "25767",
+      "md5": "97978ae3a1d585a30718d5857e0dc650",
+      "crc32": "8928d113",
+      "sha1": "af3bb890ab7fdc13da949e8fc7720ce89290388f",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-28T18:04:15.046929-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666998260",
+      "size": "40891",
+      "md5": "f9c3198a88c3de8b4f191db429480012",
+      "crc32": "94e5c335",
+      "sha1": "2e1de0718411e6a08a6d58657c22f83f79e74413",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-28T18:04:15.046929-05:00.jpg",
+      "source": "original",
+      "mtime": "1666998258",
+      "size": "232294",
+      "md5": "221c5484d2a8505df71371a42646bd5d",
+      "crc32": "0ee83fb7",
+      "sha1": "53cecfd9c325da6b75ad24d98b9e5e686263f35d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-28T18:04:15.046929-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666998262",
+      "size": "1423",
+      "md5": "81ea184f24b17044c06392703addb53c",
+      "crc32": "d0e0c175",
+      "sha1": "71a52b8c92142a71c91ae9497d345ced19dc8dda",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-28T18:04:15.046929-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666998263",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-28T18:04:15.046929-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-28T18:04:15.046929-05:00.jpg",
+      "mtime": "1666999642",
+      "size": "9317",
+      "md5": "091292f5f33927fec86f3e8466eee99b",
+      "crc32": "f853a6a5",
+      "sha1": "7673775bd4a4a64e810e12023a28874455d51e56"
+    },
+    {
+      "name": "alpublicradio-2022-10-29T05:49:35.105995-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040581",
+      "size": "25808",
+      "md5": "3dcaf0b9bc584b7596898eee448b33f0",
+      "crc32": "3bf6b4d4",
+      "sha1": "6b32d621358c6a5c8975ba9149c4f9186b58280b",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-29T05:49:35.105995-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040582",
+      "size": "40895",
+      "md5": "94d0f25112b86e687269013de62aa644",
+      "crc32": "3b0232dd",
+      "sha1": "9c6cd375ad9525fea241b0a371293faf14f6c1d1",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-29T05:49:35.105995-05:00.jpg",
+      "source": "original",
+      "mtime": "1667040579",
+      "size": "233432",
+      "md5": "43682e596f61ae7283394b18cab3e930",
+      "crc32": "4904d170",
+      "sha1": "0c32ad0c0a67cfe4d34b70a48190c2fc281597f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-29T05:49:35.105995-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040584",
+      "size": "1423",
+      "md5": "479fe55c88024063b8fd7dd75efd5ba4",
+      "crc32": "c3c71213",
+      "sha1": "f02ec6c8c09ebaf2577e84afb3c9b52800d42ce9",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-29T05:49:35.105995-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040586",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-29T05:49:35.105995-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-29T05:49:35.105995-05:00.jpg",
+      "mtime": "1667041704",
+      "size": "9343",
+      "md5": "bf268bd05354b7acc4179c97d9a75a6e",
+      "crc32": "f80e24d2",
+      "sha1": "e6b7dca1c17d60026cec0af6f05122b260687346"
+    },
+    {
+      "name": "alpublicradio-2022-10-29T17:50:23.788372-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667083833",
+      "size": "25971",
+      "md5": "eb9cc2a4a2bc0b64f57e4b962586e5e5",
+      "crc32": "aa1c1c7a",
+      "sha1": "e159545632635fc38bf63a735d660e7206be9da2",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-29T17:50:23.788372-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667083834",
+      "size": "40903",
+      "md5": "279c93fa998e6cddf4faf421268aa435",
+      "crc32": "80b7cce5",
+      "sha1": "87ba4f3c2244b67d7cbcc19946255ad4282cad01",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-29T17:50:23.788372-05:00.jpg",
+      "source": "original",
+      "mtime": "1667083831",
+      "size": "267584",
+      "md5": "e05c8aa14ddb73495581a10281d1843c",
+      "crc32": "366a28b6",
+      "sha1": "fb68990b22231a1f8a3bcf7d5b71a9fec6df3fa7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-29T17:50:23.788372-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667083836",
+      "size": "1423",
+      "md5": "f94855981c64b87369d214a33537c222",
+      "crc32": "df1f45b0",
+      "sha1": "74c2230dbdacb8ca5ef73e517d45f3319a165ed8",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-29T17:50:23.788372-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667083837",
+      "size": "15488",
+      "md5": "ea0fac8c5f6114625943bdad2c090cbe",
+      "crc32": "0016d2a6",
+      "sha1": "27fa2e866f6fee57a430a8fc2dfd58efe7808eba",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-29T17:50:23.788372-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-29T17:50:23.788372-05:00.jpg",
+      "mtime": "1667084916",
+      "size": "10063",
+      "md5": "e9e7154484f4ff5f3e8e8dc092bcc116",
+      "crc32": "4ff1c3df",
+      "sha1": "79274aa85dedd8d7ab423c8cb8f0dc901fe9c55d"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T05:43:53.785300-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126649",
+      "size": "25989",
+      "md5": "3e42ebc8d73d4f8a0a04fae1ae30c691",
+      "crc32": "2b73ad95",
+      "sha1": "fb441b4edd88d243dbd27631f02b22f2d1fc6cd1",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T05:43:53.785300-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126650",
+      "size": "40938",
+      "md5": "769ca7610d14776cef41832008decb0b",
+      "crc32": "957320b0",
+      "sha1": "a79797efa1ecf6966acc94e39947dbe3178fc824",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T05:43:53.785300-05:00.jpg",
+      "source": "original",
+      "mtime": "1667126647",
+      "size": "269027",
+      "md5": "d6d71f189aad22624834f102f945ef0e",
+      "crc32": "04a8fb66",
+      "sha1": "19a26a250a0ee62e7bfa9ad999c8b700e796ee6e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T05:43:53.785300-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126652",
+      "size": "1422",
+      "md5": "2c33d546f176ca148ff1cf9f544e2ec9",
+      "crc32": "3a8264f2",
+      "sha1": "31db287a845b91df0e73c927fe8a54677a1ba0ba",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T05:43:53.785300-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126653",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T05:43:53.785300-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-30T05:43:53.785300-05:00.jpg",
+      "mtime": "1667126714",
+      "size": "10085",
+      "md5": "0391e2c1164215f885da645d97e48e26",
+      "crc32": "fa88e826",
+      "sha1": "089b6c273b472cdf710113a7681fa99562e76990"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T17:39:21.283618-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667169576",
+      "size": "26029",
+      "md5": "a8731ef7b8828a79666263bcd93b6de9",
+      "crc32": "0c0a7864",
+      "sha1": "78854fb3a8417a0518ccfe0f640a78484b1cab07",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T17:39:21.283618-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667169577",
+      "size": "40872",
+      "md5": "89d8dc15caaec45083840c95fa9d8927",
+      "crc32": "dd9a64fe",
+      "sha1": "97f3e6ce9ba086f87bba2a05bd26dedcde809414",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T17:39:21.283618-05:00.jpg",
+      "source": "original",
+      "mtime": "1667169574",
+      "size": "271114",
+      "md5": "be7a6084da246f4d8a5b9b878ec9c239",
+      "crc32": "a7b90731",
+      "sha1": "940893a0294f0674c6f65925d68a5c682eb2ea02",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T17:39:21.283618-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667169579",
+      "size": "1423",
+      "md5": "4cb492e4eeb07d225f5c633b8bcfb54f",
+      "crc32": "629d993a",
+      "sha1": "c561a8a83428013a5be524b543c1b1b73cba3534",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T17:39:21.283618-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667169581",
+      "size": "15451",
+      "md5": "3c78ef14efb220949343980baeef07ee",
+      "crc32": "a12e14a5",
+      "sha1": "ea0cbec34c00f4c5487447039349423e85c87cac",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-30T17:39:21.283618-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-30T17:39:21.283618-05:00.jpg",
+      "mtime": "1667170017",
+      "size": "10050",
+      "md5": "2dfaec6108da9787f3c60908471ba512",
+      "crc32": "8e31082d",
+      "sha1": "548c0b3ecc99955456d246c22c8550a25f41e9d1"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T05:45:56.711345-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667213162",
+      "size": "25962",
+      "md5": "9dee9379e14d94ca7e18e503b6236ded",
+      "crc32": "50e44b44",
+      "sha1": "6c2b6c30516a263ce80327330e18b3a163b32229",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T05:45:56.711345-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667213165",
+      "size": "40843",
+      "md5": "03e572e8863c66c118350be2eb097452",
+      "crc32": "fdb661f9",
+      "sha1": "25e37283d6af40af85a1e51efe6fbdcf59ab712d",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T05:45:56.711345-05:00.jpg",
+      "source": "original",
+      "mtime": "1667213160",
+      "size": "268167",
+      "md5": "7835aeedd73277fba196b8ae86c3a3ec",
+      "crc32": "280d2557",
+      "sha1": "10fa6bb092c6fcbf4e17553f3cdb897d7f8c2ff8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T05:45:56.711345-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667213166",
+      "size": "1423",
+      "md5": "8bd4337007b8f3d283d5601850928486",
+      "crc32": "e87f8d4e",
+      "sha1": "df106ae31a5af8d07c3b82b92167d7b5252733f0",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T05:45:56.711345-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667213168",
+      "size": "15415",
+      "md5": "ce084d1ed7060d08be1d2ed8a6c95db7",
+      "crc32": "5339aab5",
+      "sha1": "a677545f7b6b65e2f2ff5534ee3aa2b4410970ca",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T05:45:56.711345-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-10-31T05:45:56.711345-05:00.jpg",
+      "mtime": "1667213613",
+      "size": "10087",
+      "md5": "656f5a3bace95af2141af155dfcab3e5",
+      "crc32": "67962c47",
+      "sha1": "d2b5e8e5f9ce51623f95993f311683456d935825"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T17:51:23.106319-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667256692",
+      "size": "26019",
+      "md5": "bb33bd1bd6fbbf969009335ce09a6472",
+      "crc32": "fc92462f",
+      "sha1": "a1320b44105aaf5f99bc694b2e68f9b3b7a4832a",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T17:51:23.106319-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667256693",
+      "size": "40744",
+      "md5": "e4f9f264d9fccd1ba253a53bd5caf0fa",
+      "crc32": "55f375e8",
+      "sha1": "c13406b70007ec411edc0fea2904c2f9e869835f",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T17:51:23.106319-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667256695",
+      "size": "1422",
+      "md5": "1db132a75da49bca0b7aaedeff25e45a",
+      "crc32": "70620ff5",
+      "sha1": "9a4a35176e22a4b7d9c94eac45dcfdf880bb1243",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-10-31T17:51:23.106319-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667256697",
+      "size": "14777",
+      "md5": "d49d438590ec2ba758013e644fc875f2",
+      "crc32": "f1c5c916",
+      "sha1": "c0ceb82be727807659395147bd1808237551b8d8",
+      "format": "JSON"
+    },
+    {
       "name": "alpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0e208166d419d7e6602311c8322a6e499e86e0a3",
-      "mtime": "1666695504",
-      "size": "114007",
-      "md5": "ce91eeada969258e709ee762c869d6e9",
-      "crc32": "aeece367",
-      "sha1": "85262f6149ffbed209279c1a92c9b6d4ce9e857f",
+      "btih": "749847c84cd2afc49dd62859ab81a411d7c06e23",
+      "mtime": "1667256743",
+      "size": "130558",
+      "md5": "08d4a823d6a826983c67cb0fbf925ad4",
+      "crc32": "4e156d42",
+      "sha1": "aab7f5f1e3087fe01b76c619e025427823544f15",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "87059d0bd2fd5467601b0b8cc1c7b583",
+      "md5": "631773717bf858c72771277e8165dddc",
       "summation": "md5"
     },
     {
       "name": "alpublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695464",
-      "size": "688128",
-      "md5": "d616a404791534b146104113f14d877a",
-      "crc32": "16238339",
-      "sha1": "892fe8aec0b82070d196334ca3046ae4dc51ad35",
+      "mtime": "1667256703",
+      "size": "786432",
+      "md5": "d9eed4a11c7e6bcea86a81eb2ac1e7fd",
+      "crc32": "1b6a24fa",
+      "sha1": "a987d4e2e59498cb2d8cf6c079754fb8e1158fb5",
       "format": "Metadata"
     },
     {
@@ -5447,9 +6243,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 527,
-  "item_last_updated": 1666695504,
-  "item_size": 32278715,
+  "files_count": 604,
+  "item_last_updated": 1667256743,
+  "item_size": 36813218,
   "metadata": {
     "identifier": "alpublicradio-2022",
     "collection": [
@@ -5471,15 +6267,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451502896,
+      "task_id": 3458210773,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458217224,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1820319044,
+  "uniq": 733790288,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

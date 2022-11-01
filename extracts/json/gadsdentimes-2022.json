@@ -1,5 +1,5 @@
 {
-  "created": 1666718094,
+  "created": 1667239573,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/17/items/gadsdentimes-2022",
@@ -4407,31 +4407,786 @@
       "format": "JSON"
     },
     {
+      "name": "gadsdentimes-2022-10-25T12:13:46.625082-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-25T12:13:46.625082-05:00.jpg",
+      "mtime": "1666718699",
+      "size": "9291",
+      "md5": "0d8ad25252317a848a397ca4a25045e4",
+      "crc32": "5b96418f",
+      "sha1": "c768c751eb633847b06b68b52313bd0911fe65be"
+    },
+    {
+      "name": "gadsdentimes-2022-10-26T01:48:26.263616-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666766913",
+      "size": "25155",
+      "md5": "38e31d79d70edab5bd25677cb0d34d3e",
+      "crc32": "f8c04ccc",
+      "sha1": "f50e23f8e3a95ddcc316fa392743615ed16e17fb",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-26T01:48:26.263616-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666766914",
+      "size": "42125",
+      "md5": "e745d536448a3e9da696e442be6a2fc6",
+      "crc32": "5dd3951e",
+      "sha1": "aea1f8792ed91cc14e54be1a525bcd86480f47b5",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-26T01:48:26.263616-05:00.jpg",
+      "source": "original",
+      "mtime": "1666766911",
+      "size": "264098",
+      "md5": "87fc5bb3c519b4048e515664197db025",
+      "crc32": "efcfaf75",
+      "sha1": "e209f17e646f4d7aca65dba03a2c0eb9ed89e278",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-26T01:48:26.263616-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666766917",
+      "size": "1513",
+      "md5": "e5881fbb7bfc81be60a00bd72c0cfaf8",
+      "crc32": "b8bf34e5",
+      "sha1": "3112b9e99194f05defb56783e0d0ec8d3b5e0b73",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-26T01:48:26.263616-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666766918",
+      "size": "71433",
+      "md5": "2f23e679aaad5284a59f453f8c33e1e3",
+      "crc32": "8faafb8f",
+      "sha1": "370daa49b9be3e63f201e7868c68d61542ecdd91",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-26T01:48:26.263616-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-26T01:48:26.263616-05:00.jpg",
+      "mtime": "1666768603",
+      "size": "9264",
+      "md5": "0e1d580c1b95e7c09cb020763f53a7c3",
+      "crc32": "d20a1dc6",
+      "sha1": "69945c95983d1ccd8a672279abbfe524c63ab978"
+    },
+    {
+      "name": "gadsdentimes-2022-10-26T14:16:09.447670-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666811779",
+      "size": "24291",
+      "md5": "37943570baeb88255a082a240296febf",
+      "crc32": "a8cbd880",
+      "sha1": "5e2af903d1aec55a3ef0926b8574a682e5c8bffb",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-26T14:16:09.447670-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666811782",
+      "size": "54025",
+      "md5": "c1bab87238531621a2590eb6936187b5",
+      "crc32": "2aa40cf2",
+      "sha1": "a72c7b9fc076c567f7658170e5443dd649cee95d",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-26T14:16:09.447670-05:00.jpg",
+      "source": "original",
+      "mtime": "1666811775",
+      "size": "259903",
+      "md5": "29f8def8881993a3f3f08811d75b0526",
+      "crc32": "e2361094",
+      "sha1": "f16df4530d8359dd8e8f9bd2079840702c6bebd7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-26T14:16:09.447670-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666811787",
+      "size": "1513",
+      "md5": "641a90844076699dfcf75da889034a71",
+      "crc32": "440da10a",
+      "sha1": "1ffbe6955a0f67fbae03ba74e4a76eae9736d60c",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-26T14:16:09.447670-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666811790",
+      "size": "88516",
+      "md5": "9d2817cf22268522e4cad21809b5549d",
+      "crc32": "17ef6112",
+      "sha1": "6484d21dcd94b5ad4f5b15f7380b9467e3d00c04",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-26T14:16:09.447670-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-26T14:16:09.447670-05:00.jpg",
+      "mtime": "1666820669",
+      "size": "9241",
+      "md5": "ac173ef892a99bfd7cb70714e5628d0c",
+      "crc32": "0bef33af",
+      "sha1": "c24935c3d03e23460168aa54c252aba1a3b76ee1"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T01:01:03.643539-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666850471",
+      "size": "24472",
+      "md5": "96af8f819c8b2d7eb7367a7a68db0d70",
+      "crc32": "aa7e080e",
+      "sha1": "db6ada9b9046053618f6526d92e7a99295618d19",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T01:01:03.643539-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666850473",
+      "size": "40786",
+      "md5": "a53f245e20580e30f618bf312132d45c",
+      "crc32": "f45f09e6",
+      "sha1": "59acc1b1e4ac765d5a349f1bf65804dccbe7ca2b",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T01:01:03.643539-05:00.jpg",
+      "source": "original",
+      "mtime": "1666850469",
+      "size": "311680",
+      "md5": "3f17ca5bd93ec785f053c722cd1e2800",
+      "crc32": "31195251",
+      "sha1": "2059735c3d0322ff839dace0c52ebd1e7a451627",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T01:01:03.643539-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666850475",
+      "size": "1512",
+      "md5": "c78f5b362640f2a00b8682fcbba8a938",
+      "crc32": "7da12604",
+      "sha1": "1eec80138f7b20b4538ef76e5f76a2fea7d3c32f",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T01:01:03.643539-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666850478",
+      "size": "97051",
+      "md5": "14822bc020bb60201809681caecf6232",
+      "crc32": "e67d0075",
+      "sha1": "a67eb24745958f3067850dd6685d164d33939218",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T01:01:03.643539-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-27T01:01:03.643539-05:00.jpg",
+      "mtime": "1666874219",
+      "size": "9416",
+      "md5": "672831b28cd7dc551ee76d0b79630f9d",
+      "crc32": "4b618835",
+      "sha1": "3c6ccfe836f279f2facde0efa6b528e7c801f044"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T12:58:24.889967-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893510",
+      "size": "25759",
+      "md5": "cf0c5bbb8e2e932573dcd6386e15d9a2",
+      "crc32": "4d696516",
+      "sha1": "b6132ebd492cd94ea50c3f53de973305f6f223d7",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T12:58:24.889967-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893511",
+      "size": "51085",
+      "md5": "6e49b1d810c07045e8bad401d586fa2e",
+      "crc32": "b4351d66",
+      "sha1": "70952291cb879aa4d7afcc34f29fe9ff049b019b",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T12:58:24.889967-05:00.jpg",
+      "source": "original",
+      "mtime": "1666893507",
+      "size": "313006",
+      "md5": "7c35c309ac17318b949495392f2554d0",
+      "crc32": "dfda5b58",
+      "sha1": "3f08987628d42a2cf098e9e04285da9a1b29547e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T12:58:24.889967-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893513",
+      "size": "1511",
+      "md5": "fe8e6f6aa5969683ab749057c404bf27",
+      "crc32": "cb345841",
+      "sha1": "a71cae8bf00773cceb3cd3ac2ea4b8288dcf934e",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T12:58:24.889967-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893515",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-27T12:58:24.889967-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-27T12:58:24.889967-05:00.jpg",
+      "mtime": "1666902835",
+      "size": "9405",
+      "md5": "893e4cec9bb99371ce8e6be7c246cb61",
+      "crc32": "e1c4bed2",
+      "sha1": "7c2aab86ace4fecc57c565a36c5307d6e8cbebf4"
+    },
+    {
+      "name": "gadsdentimes-2022-10-28T03:29:35.361134-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945780",
+      "size": "23781",
+      "md5": "56d3320d1604a80b74af4bb97ed5aeb5",
+      "crc32": "c7442b0b",
+      "sha1": "b06201ba23a551e979fce88975b6fdc928019fd6",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-28T03:29:35.361134-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945781",
+      "size": "46937",
+      "md5": "0229a7a26b6feac39cb452afd5786411",
+      "crc32": "47fe14ed",
+      "sha1": "c13e54f632df08357d27253e2c1de6028f2271a3",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-28T03:29:35.361134-05:00.jpg",
+      "source": "original",
+      "mtime": "1666945778",
+      "size": "250135",
+      "md5": "ffed094067f3ba3cff4eb007614cc0cf",
+      "crc32": "4ecd9321",
+      "sha1": "8d107a4a78aeaa55a6bd8722e48ea8321e5b7e2a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-28T03:29:35.361134-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945783",
+      "size": "1513",
+      "md5": "245999167e230b59af05a114f184b5c2",
+      "crc32": "60b95936",
+      "sha1": "1d646fefdbbecc885b3e4d8fb51ada9bdaa6433b",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-28T03:29:35.361134-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945785",
+      "size": "93208",
+      "md5": "d8e96c8e7a5d16889244eca718e63ef7",
+      "crc32": "68122a90",
+      "sha1": "aec543cd2b51e9d1d92ddd7378db7bb84e27f31b",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-28T03:29:35.361134-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-28T03:29:35.361134-05:00.jpg",
+      "mtime": "1666949910",
+      "size": "9633",
+      "md5": "a1f2fcffe63d131e17ee647146664d3e",
+      "crc32": "cf78260a",
+      "sha1": "c3645b13b30193f037b1f7c3817d993adb3dc69c"
+    },
+    {
+      "name": "gadsdentimes-2022-10-28T12:20:28.964378-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666977636",
+      "size": "24241",
+      "md5": "9ed4a5b941a6f93f5e9e41329fc3505a",
+      "crc32": "842daffb",
+      "sha1": "4227ddc60e6a245481be346123983d722e02602f",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-28T12:20:28.964378-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666977638",
+      "size": "52617",
+      "md5": "765a6d37cf2f0be276f0fa9a0d875186",
+      "crc32": "99776679",
+      "sha1": "56e872830fda0157c7d684fd88aa4b4ebdbe9d9d",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-28T12:20:28.964378-05:00.jpg",
+      "source": "original",
+      "mtime": "1666977634",
+      "size": "252855",
+      "md5": "e446786afdc48ffed6fb0a15dfb2a963",
+      "crc32": "ffbef7bb",
+      "sha1": "c60cfb875fc28bff9119f1e23d64021934d10270",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-28T12:20:28.964378-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666977640",
+      "size": "1513",
+      "md5": "24c51da9c48212d7a15e429e9bd73db5",
+      "crc32": "67133d97",
+      "sha1": "f60a83dba4775d0860a6433443016b93969ba322",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-28T12:20:28.964378-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666977642",
+      "size": "96452",
+      "md5": "f4be5b4a0be7b61c684c4c2d54ad6d7a",
+      "crc32": "10ae91e1",
+      "sha1": "22e2b18a95046b7c4608fd75b6f15ba255933776",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-28T12:20:28.964378-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-28T12:20:28.964378-05:00.jpg",
+      "mtime": "1666981484",
+      "size": "9603",
+      "md5": "2a83477292147753a6a530574832bd11",
+      "crc32": "31b00584",
+      "sha1": "ee65a6fffd825eb08d35eb468a3cb94697962a48"
+    },
+    {
+      "name": "gadsdentimes-2022-10-29T00:32:19.720868-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667021546",
+      "size": "24117",
+      "md5": "9930d3bad757b3e8b73a5d32e769bb8c",
+      "crc32": "47f672ea",
+      "sha1": "cb4660a7136bd7454da86c2ed54453097a0a40d4",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-29T00:32:19.720868-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667021547",
+      "size": "52533",
+      "md5": "36cfb5c3ea096874d0928c678f859c5f",
+      "crc32": "b03628c2",
+      "sha1": "d2639461709112e653e5644fb9c86f59df1d749e",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-29T00:32:19.720868-05:00.jpg",
+      "source": "original",
+      "mtime": "1667021545",
+      "size": "275720",
+      "md5": "2f9439e96bb7298740eec5915b1437ff",
+      "crc32": "87e6c03c",
+      "sha1": "848f6e4664d95c1e4ab1b3d31a6cfb00335a4a31",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-29T00:32:19.720868-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667021549",
+      "size": "1513",
+      "md5": "487fa495ed89889585392c9a659c0d3c",
+      "crc32": "ec86f76e",
+      "sha1": "8c579d0731338275b344e405f8656cfd7286906a",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-29T00:32:19.720868-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667021550",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-29T00:32:19.720868-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-29T00:32:19.720868-05:00.jpg",
+      "mtime": "1667024135",
+      "size": "9089",
+      "md5": "4ee2291c0ef320c534dbbc9fb938e1b9",
+      "crc32": "c8dc35ac",
+      "sha1": "a22ca63a4e33e7be616fb441a9ccc13b07485a67"
+    },
+    {
+      "name": "gadsdentimes-2022-10-29T12:57:11.699166-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667066236",
+      "size": "23953",
+      "md5": "a3a254a64b6024b35f15b4a43eced0a3",
+      "crc32": "23c4c84b",
+      "sha1": "183b4fd9bcc9de3b0a82f38f29481bf6e27b0ba1",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-29T12:57:11.699166-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667066237",
+      "size": "46743",
+      "md5": "ee692380bb9a36cf7b8445debd868f09",
+      "crc32": "0e8c2e3e",
+      "sha1": "8499fb6207433b229ed5f31af9a3204d98454e02",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-29T12:57:11.699166-05:00.jpg",
+      "source": "original",
+      "mtime": "1667066234",
+      "size": "266353",
+      "md5": "e4fdf33d761039b99ce139140f38963e",
+      "crc32": "3434aa09",
+      "sha1": "c535fbe754502b17b06923afaad55daeddd57b16",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-29T12:57:11.699166-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667066238",
+      "size": "1513",
+      "md5": "de2d5a84b04c25895d3d5d76a3b6871b",
+      "crc32": "fc21f2bd",
+      "sha1": "0f7d68c39055d257ea03fd3df617d36b9995598d",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-29T12:57:11.699166-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667066241",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-29T12:57:11.699166-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-29T12:57:11.699166-05:00.jpg",
+      "mtime": "1667066636",
+      "size": "9556",
+      "md5": "56e2d562abc8faa441ac17f55dcbfd6e",
+      "crc32": "abd2c5fe",
+      "sha1": "f793e3806c5c9fe9f64cc703b8b3b4574f296999"
+    },
+    {
+      "name": "gadsdentimes-2022-10-30T00:40:43.435917-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667108447",
+      "size": "24820",
+      "md5": "adac7573026cc84279fb545c49ad959d",
+      "crc32": "3fa8a700",
+      "sha1": "e179f8ed063845e23e3b7fa7561270fc9846fb6c",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-30T00:40:43.435917-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667108453",
+      "size": "51190",
+      "md5": "69d48dd22d8246261a54a39ac7df6879",
+      "crc32": "4250feda",
+      "sha1": "0112d3a2d253c9ea3fa32a089a1f10d6ed2d4740",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-30T00:40:43.435917-05:00.jpg",
+      "source": "original",
+      "mtime": "1667108445",
+      "size": "273199",
+      "md5": "90b057478a9bcb7dd19f0fc1eb8c9323",
+      "crc32": "a958d526",
+      "sha1": "7eeb5500a8cc528190ae796ee6866c69f9056b82",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-30T00:40:43.435917-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667108455",
+      "size": "1512",
+      "md5": "5579d78425472be61c87aaddce9f6a73",
+      "crc32": "7509bca8",
+      "sha1": "e387b56562efe7b7916313bb6a133126508c08ce",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-30T00:40:43.435917-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667108456",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-30T00:40:43.435917-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-30T00:40:43.435917-05:00.jpg",
+      "mtime": "1667108936",
+      "size": "9684",
+      "md5": "0dd63ccb66d4318bb50c5ef0dfa5c160",
+      "crc32": "6ca4796e",
+      "sha1": "556e018e15bca3b9cf37e63814b118e2895b7094"
+    },
+    {
+      "name": "gadsdentimes-2022-10-30T12:22:46.932122-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667150573",
+      "size": "23703",
+      "md5": "bda661b458c7d831dc5e36adb72d9930",
+      "crc32": "c964bbd1",
+      "sha1": "40078abc5885d8e330c6465dcfafb593a86ef8ae",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-30T12:22:46.932122-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667150575",
+      "size": "42969",
+      "md5": "19413ee6c38688a8491c5a5ff37c2d48",
+      "crc32": "eaf21b53",
+      "sha1": "9a5f385da4bf2b928e5d86ba32fff292c10dbcd2",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-30T12:22:46.932122-05:00.jpg",
+      "source": "original",
+      "mtime": "1667150571",
+      "size": "276267",
+      "md5": "bbe980689eea502e84fb8ed883a9adf2",
+      "crc32": "cc29f9a1",
+      "sha1": "7bbc5f6d3af28be5e7384e3150a3473f7174003b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-30T12:22:46.932122-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667150576",
+      "size": "1512",
+      "md5": "b431bce220267b0b68eee161c9f47d17",
+      "crc32": "582e4edb",
+      "sha1": "21875d91b4166a494921ac0dc2d4868c5eca6529",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-30T12:22:46.932122-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667150578",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-30T12:22:46.932122-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-30T12:22:46.932122-05:00.jpg",
+      "mtime": "1667151246",
+      "size": "9694",
+      "md5": "064192e97ca67159580a08f721dc441d",
+      "crc32": "c44f762d",
+      "sha1": "f6fc0f40ce8482800223bbc378f3dc851d49931c"
+    },
+    {
+      "name": "gadsdentimes-2022-10-31T01:38:19.352525-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198302",
+      "size": "23317",
+      "md5": "a8a16df9d506ad46b6e8f5f6fdec7124",
+      "crc32": "98aa9ed2",
+      "sha1": "43bd84397bb9f604cfb957feb3a2196cd47dd6e7",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-31T01:38:19.352525-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198304",
+      "size": "40894",
+      "md5": "030e165513490a173c1aaa1910c01b53",
+      "crc32": "a43d0108",
+      "sha1": "5126887757d467a5d0987c2ce5c6547640b00e0d",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-31T01:38:19.352525-05:00.jpg",
+      "source": "original",
+      "mtime": "1667198301",
+      "size": "288610",
+      "md5": "0c3e6b183763f8257bc7d0aea56e84a3",
+      "crc32": "1eaba874",
+      "sha1": "6b1e95e009daf82a08e4ed156238599f4f7ff2e6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-31T01:38:19.352525-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198306",
+      "size": "1513",
+      "md5": "8af3f46dab9da499bce7f9df661b374a",
+      "crc32": "8d0c8c29",
+      "sha1": "f3e01d7dcdb69475cf0e70dd82844c5fcceff8b8",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-31T01:38:19.352525-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198307",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-31T01:38:19.352525-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-31T01:38:19.352525-05:00.jpg",
+      "mtime": "1667200433",
+      "size": "9422",
+      "md5": "796d0a43b758e37c7bf9ead41fbdade3",
+      "crc32": "a7b3526f",
+      "sha1": "ac405e5b315ed15f4a4cb9bd5fc81576c51f9199"
+    },
+    {
+      "name": "gadsdentimes-2022-10-31T12:48:53.942852-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667238539",
+      "size": "24545",
+      "md5": "c1c0931587221cf5f8da0f498f3ab5d4",
+      "crc32": "ae23b69f",
+      "sha1": "fd03668b37f66845f86566947a5b521aa9aaa404",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-31T12:48:53.942852-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667238541",
+      "size": "49176",
+      "md5": "3778a44e7047007d1082f0d5147366e0",
+      "crc32": "e260c7b0",
+      "sha1": "bb73997b44dfe43aff7ffe300d5cf5fed12b54f8",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-31T12:48:53.942852-05:00.jpg",
+      "source": "original",
+      "mtime": "1667238537",
+      "size": "245605",
+      "md5": "4b3196edadd0e109ed068fd418c9c0ab",
+      "crc32": "6041499d",
+      "sha1": "59128f70c7c2e5034cb3acbc835b561090fc32d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-10-31T12:48:53.942852-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667238543",
+      "size": "1513",
+      "md5": "b3b7669553be71ca145a389a0a466d25",
+      "crc32": "e6aa3d0e",
+      "sha1": "c9c7b78e57c6eb54cdd405e43f909dccda2b3c09",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-31T12:48:53.942852-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667238545",
+      "size": "78351",
+      "md5": "564356845f16451f874d402014cecb7e",
+      "crc32": "4ffddbeb",
+      "sha1": "baafbece047051fb537b4e2152f376e1c92f650d",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-10-31T12:48:53.942852-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-10-31T12:48:53.942852-05:00.jpg",
+      "mtime": "1667239505",
+      "size": "9211",
+      "md5": "961d44399dd60c05bbca14e6bd680b23",
+      "crc32": "4b8599c2",
+      "sha1": "0798dd3215d724dd5f2935d30811289392a6a225"
+    },
+    {
       "name": "gadsdentimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bbd4be488fb618447cb66554213e14dfeec3821a",
-      "mtime": "1666718086",
-      "size": "92766",
-      "md5": "8fcdeb03c9c05de4a3e9e5c3f2943a9c",
-      "crc32": "64630675",
-      "sha1": "717c79a673ea57755cc0e172a80e9e1605fd568a",
+      "btih": "f6f3f44d1edc8d62f859bd069f213e0b615ff212",
+      "mtime": "1667239511",
+      "size": "108394",
+      "md5": "e51635a1ebc6a7b49493e49ef416a5ac",
+      "crc32": "36288ce6",
+      "sha1": "692fa0d5254bd39c69e64b43adeffe8547975703",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gadsdentimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bb90c4399cc58afbcb6a2871bb11d8d7",
+      "md5": "9fedb7b2dac68a6cf71b2f35ceb63461",
       "summation": "md5"
     },
     {
       "name": "gadsdentimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666718047",
-      "size": "569344",
-      "md5": "ce2a8b02cdf07412a3cedf13f4c623d2",
-      "crc32": "b1654e74",
-      "sha1": "fc5117e9b28ee32004c31a5cbb46f5e4e69ce7b1",
+      "mtime": "1667238550",
+      "size": "659456",
+      "md5": "f8321273323bb036197d5262f8b7663a",
+      "crc32": "3cf0b583",
+      "sha1": "ec0025bcb434f87feb91d83298005cd2dc4cd45c",
       "format": "Metadata"
     },
     {
@@ -4445,9 +5200,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 430,
-  "item_last_updated": 1666718086,
-  "item_size": 28994440,
+  "files_count": 503,
+  "item_last_updated": 1667239511,
+  "item_size": 33907728,
   "metadata": {
     "identifier": "gadsdentimes-2022",
     "collection": [
@@ -4464,21 +5219,10 @@
     "publicdate": "2022-09-20 17:53:32",
     "addeddate": "2022-09-20 17:53:32"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451846454,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1635942068,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1430749128,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

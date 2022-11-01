@@ -1,5 +1,5 @@
 {
-  "created": 1666706180,
+  "created": 1667228259,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/nettavisen-2022",
@@ -11695,31 +11695,786 @@
       "format": "JSON"
     },
     {
+      "name": "nettavisen-2022-10-25T15:55:07.242835+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-25T15:55:07.242835+02:00.jpg",
+      "mtime": "1666708827",
+      "size": "10693",
+      "md5": "3a6fbfea1680b04a96c0c3bdda293b2d",
+      "crc32": "f628e0b3",
+      "sha1": "3a9d9dbd9c7d514424f089271f9da1b4c4f65c5f"
+    },
+    {
+      "name": "nettavisen-2022-10-26T04:30:44.114451+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666751456",
+      "size": "22451",
+      "md5": "632c07104d528e68b49cea540915a279",
+      "crc32": "12b8ed1e",
+      "sha1": "7c932506c5710c038d473c7b93c03287f5b0f1f5",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-26T04:30:44.114451+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666751458",
+      "size": "87585",
+      "md5": "37302d42c8e944538c4cf683229fb01f",
+      "crc32": "d16d4204",
+      "sha1": "543e773d4bd7c927cff10e4de909f544600b4431",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-26T04:30:44.114451+02:00.jpg",
+      "source": "original",
+      "mtime": "1666751454",
+      "size": "221308",
+      "md5": "591da93092536bcf6dbcef851672df71",
+      "crc32": "1631177e",
+      "sha1": "df2cdd7d7c7a93e6a59b743e4f0e2d5709f84e34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-26T04:30:44.114451+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666751459",
+      "size": "1486",
+      "md5": "df30824f33e2216aa24b35504ddad3c1",
+      "crc32": "da470b54",
+      "sha1": "7c9af3ea3a28d45a54ef568041b8634f714588ce",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-26T04:30:44.114451+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666751461",
+      "size": "31858",
+      "md5": "70533baefb15de315ced74a7a6303882",
+      "crc32": "b21aa62e",
+      "sha1": "95d8a372b7b17f6faffff7bbe55889a9a0a618e1",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-26T04:30:44.114451+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-26T04:30:44.114451+02:00.jpg",
+      "mtime": "1666752245",
+      "size": "10033",
+      "md5": "4610cb201ef700427d51c94233697ecf",
+      "crc32": "c707ecf2",
+      "sha1": "25350959989fc19b2d88086614dd6fdf81ab9471"
+    },
+    {
+      "name": "nettavisen-2022-10-26T16:54:30.512850+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796078",
+      "size": "22668",
+      "md5": "6873dcd2fe9a9a4f4838aa8a9d0d9b85",
+      "crc32": "53fe71ed",
+      "sha1": "6d5d2e8feb87af8ddbed6d98a7c8bf415c4b3fb7",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-26T16:54:30.512850+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796080",
+      "size": "87688",
+      "md5": "582a62eee761c899ed76de028c0ca252",
+      "crc32": "f26fe210",
+      "sha1": "18f4ce9455a14df65ede8e4405f5470b7650d711",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-26T16:54:30.512850+02:00.jpg",
+      "source": "original",
+      "mtime": "1666796076",
+      "size": "244052",
+      "md5": "c2b2c5c6f281418b2e3c83e4b6b64082",
+      "crc32": "db053b29",
+      "sha1": "da2e5e6d0f9072c0d5fd284c13ff882c343e357a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-26T16:54:30.512850+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796081",
+      "size": "1485",
+      "md5": "e40c28fc0779e778ac58b545726be9e9",
+      "crc32": "714ada8d",
+      "sha1": "2cfb5e69ac773a6ceaf570e783f02544e269c65c",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-26T16:54:30.512850+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796083",
+      "size": "386",
+      "md5": "b7d3cfb0dbec1507bcdfac189e928748",
+      "crc32": "5d29cb85",
+      "sha1": "7dc68a60127f5f09c1a1ffbd0a0e248d01d0fa59",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-26T16:54:30.512850+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-26T16:54:30.512850+02:00.jpg",
+      "mtime": "1666796712",
+      "size": "10755",
+      "md5": "1d70c84ce2e19eba9c1d11efb658dd0d",
+      "crc32": "c7a7d170",
+      "sha1": "ea59f2ac0044302e641be73f816603eb5e05c2f6"
+    },
+    {
+      "name": "nettavisen-2022-10-27T04:26:12.524219+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666837575",
+      "size": "3475",
+      "md5": "1815e718e6371d2a13380d2830b92794",
+      "crc32": "83506ebd",
+      "sha1": "fcd9cdd173e4a60b25b89c2c06448b9003f25618",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-27T04:26:12.524219+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837577",
+      "size": "32831",
+      "md5": "ab8c6a6edf4c9c3889edf671fd125483",
+      "crc32": "08bf349a",
+      "sha1": "52c16a1c138e7866494e6575198f41178e93b3e9",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-27T04:26:12.524219+02:00.jpg",
+      "source": "original",
+      "mtime": "1666837573",
+      "size": "235828",
+      "md5": "b42ab694a7b977968db4519c5618c160",
+      "crc32": "9da7e40e",
+      "sha1": "b6465e243ee0d96575054643ff855fc4746ebd55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-27T04:26:12.524219+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837579",
+      "size": "1485",
+      "md5": "108a6c8c4b751692d3f391b7978c4185",
+      "crc32": "89984840",
+      "sha1": "9c4dcec08e4fd572eddae5cb3f30cf345c26fb9a",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-27T04:26:12.524219+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666837581",
+      "size": "102",
+      "md5": "8111814f0f69499099784799adce11ef",
+      "crc32": "8bb57221",
+      "sha1": "e68c2fa91ad8553bdb3e6ef71daba6f418e5839e",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-27T04:26:12.524219+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-27T04:26:12.524219+02:00.jpg",
+      "mtime": "1666862222",
+      "size": "10450",
+      "md5": "0ecca87bfae6f7b762b0e09c7fb144f4",
+      "crc32": "fb3ceaa7",
+      "sha1": "d1ace66fa3887575b15dddef40ba38bd2c6f72ea"
+    },
+    {
+      "name": "nettavisen-2022-10-27T16:12:09.219641+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666879942",
+      "size": "21936",
+      "md5": "269fcf64ae388e469572a6deeeae2cbc",
+      "crc32": "ca64d9c6",
+      "sha1": "00b58273ca7ef2a29a0693f5218075e843f4d9ef",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-27T16:12:09.219641+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666879945",
+      "size": "85277",
+      "md5": "c201432412d9e275f853338af5993738",
+      "crc32": "0a57a439",
+      "sha1": "f5bde54b947a7dd949f997194c2d8ee5e9728c70",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-27T16:12:09.219641+02:00.jpg",
+      "source": "original",
+      "mtime": "1666879940",
+      "size": "246074",
+      "md5": "89ba40a337687b734f4d5b0b3d24d15d",
+      "crc32": "a92e9276",
+      "sha1": "c2d1d74d299824f33d2e1e51e9d7d6c12891f430",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-27T16:12:09.219641+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666879947",
+      "size": "1486",
+      "md5": "2affc95bff8802e9886ba2727337bf73",
+      "crc32": "d84faec8",
+      "sha1": "49e1b03e3f18e39db259b35636ca335e2dd84cf9",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-27T16:12:09.219641+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666879949",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-27T16:12:09.219641+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-27T16:12:09.219641+02:00.jpg",
+      "mtime": "1666893306",
+      "size": "10792",
+      "md5": "46288f42ea9475f84b01048092e2033a",
+      "crc32": "3736c745",
+      "sha1": "b2f7ce26cd8a718633f38f24ff4a44a6497f5230"
+    },
+    {
+      "name": "nettavisen-2022-10-28T04:26:56.832666+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666924020",
+      "size": "21360",
+      "md5": "41b8ae7082728a5d91dbe3626d160a2a",
+      "crc32": "277871c2",
+      "sha1": "b614b65116307cc8dc75f8bf2ac8a1ecb807ac8d",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-28T04:26:56.832666+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666924022",
+      "size": "84695",
+      "md5": "87744e00f8244be72357bdc4f538de41",
+      "crc32": "4070ceae",
+      "sha1": "af24cd741b039bb736e06b15d784d9d2c7b4d7f9",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-28T04:26:56.832666+02:00.jpg",
+      "source": "original",
+      "mtime": "1666924018",
+      "size": "206690",
+      "md5": "f4fa3cc9520a822024249da15ba3a8c9",
+      "crc32": "e9179c41",
+      "sha1": "e23dc4a9139d647e27e15e7d9c308d1e6be5686d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-28T04:26:56.832666+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666924023",
+      "size": "1486",
+      "md5": "21f288a92475aebdda04f358eb5d658a",
+      "crc32": "d29df2e1",
+      "sha1": "9b89673841a253e10a388ca42b90469858dbe05b",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-28T04:26:56.832666+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666924025",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-28T04:26:56.832666+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-28T04:26:56.832666+02:00.jpg",
+      "mtime": "1666925382",
+      "size": "10119",
+      "md5": "4a187845c0ed2c7e427ba5785ae271ad",
+      "crc32": "c2881659",
+      "sha1": "f6f346df1fb55226cfa048c89df69a9d5a56a08c"
+    },
+    {
+      "name": "nettavisen-2022-10-28T16:02:02.621358+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666965738",
+      "size": "3475",
+      "md5": "1815e718e6371d2a13380d2830b92794",
+      "crc32": "83506ebd",
+      "sha1": "fcd9cdd173e4a60b25b89c2c06448b9003f25618",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-28T16:02:02.621358+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666965741",
+      "size": "83782",
+      "md5": "e52cd6153913e3336554c0c4569c33b0",
+      "crc32": "82013950",
+      "sha1": "9c962e2898a500d0cd90a89788ff15d7b8644f89",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-28T16:02:02.621358+02:00.jpg",
+      "source": "original",
+      "mtime": "1666965735",
+      "size": "266095",
+      "md5": "eaa0ae10ad2e48e4508a3ac6874abb61",
+      "crc32": "c0cb8ac1",
+      "sha1": "8503ce255b0910ceea3f0ca8e3be38a5009a6d95",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-28T16:02:02.621358+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666965743",
+      "size": "1486",
+      "md5": "18cfa4d6bfc364b88c5c5e96054a8a9e",
+      "crc32": "1d9cbb00",
+      "sha1": "4001850ab1d39764b2ff7bb0097a9109775e8a02",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-28T16:02:02.621358+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666965745",
+      "size": "34051",
+      "md5": "a9630f1d945cd6a70e3ecae448ec95b0",
+      "crc32": "0585dc0d",
+      "sha1": "1c18501f028d6ce7f3debacaac990257e99f5b8d",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-28T16:02:02.621358+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-28T16:02:02.621358+02:00.jpg",
+      "mtime": "1666970602",
+      "size": "10727",
+      "md5": "3b7afa9e6ce598f742411c49078d7369",
+      "crc32": "d96ea330",
+      "sha1": "f04f0667e46167525cd2dacdd2b7c383fb9c6a76"
+    },
+    {
+      "name": "nettavisen-2022-10-29T04:14:25.515443+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667009669",
+      "size": "21312",
+      "md5": "28de7de52e6113dabbc8729a7b15b545",
+      "crc32": "0612c13d",
+      "sha1": "dca3263a30882d90643e98a619578da32589c007",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-29T04:14:25.515443+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667009672",
+      "size": "30718",
+      "md5": "0cbb7d2b4820e72ef5d7fd584c5a5771",
+      "crc32": "283b2ed7",
+      "sha1": "235d1b9f9cd062eaee8a9f76598beb65788e254d",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-29T04:14:25.515443+02:00.jpg",
+      "source": "original",
+      "mtime": "1667009667",
+      "size": "247089",
+      "md5": "52fc4d601ce108c58c285f59a75959d0",
+      "crc32": "5b507582",
+      "sha1": "ddd0fe78a194124baf74446d3f396fb59bd802be",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-29T04:14:25.515443+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667009673",
+      "size": "1486",
+      "md5": "f4c839710371468ab0fbbc3602b6edf8",
+      "crc32": "b4d680a0",
+      "sha1": "4ecb99f59b5027a3564ebc7aed059a21643b95a1",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-29T04:14:25.515443+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667009675",
+      "size": "102",
+      "md5": "8111814f0f69499099784799adce11ef",
+      "crc32": "8bb57221",
+      "sha1": "e68c2fa91ad8553bdb3e6ef71daba6f418e5839e",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-29T04:14:25.515443+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-29T04:14:25.515443+02:00.jpg",
+      "mtime": "1667011320",
+      "size": "10486",
+      "md5": "05c4fd840ac0bf5eb0c4ba13d246e172",
+      "crc32": "be46196a",
+      "sha1": "948ce393a7dee303f370a63dda2b1649668cc2b6"
+    },
+    {
+      "name": "nettavisen-2022-10-29T16:03:11.495437+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667052212",
+      "size": "21452",
+      "md5": "e58c34b69c95b2b5749618d3d9e53b51",
+      "crc32": "a9a656c0",
+      "sha1": "27973c05c564abda29b16876e7dbbead2a82f81c",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-29T16:03:11.495437+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667052214",
+      "size": "31498",
+      "md5": "e0bf9ea8767e94528d872707919d3c21",
+      "crc32": "8a1ebcda",
+      "sha1": "c19fca327c2ea6b5cfae887ed6605501fee28aea",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-29T16:03:11.495437+02:00.jpg",
+      "source": "original",
+      "mtime": "1667052210",
+      "size": "273410",
+      "md5": "970a89baa6478439e385b244289782db",
+      "crc32": "cb8d7d6a",
+      "sha1": "22c9f6f877d0077e5782f3f5c3bb7f5cc0b36f0b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-29T16:03:11.495437+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667052216",
+      "size": "1485",
+      "md5": "fab5e0eeaff9030e31f1d1119998fef0",
+      "crc32": "0868bcd4",
+      "sha1": "c44b80c16d32958a1840ff4efe4fffe87930fb5a",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-29T16:03:11.495437+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667052218",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-29T16:03:11.495437+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-29T16:03:11.495437+02:00.jpg",
+      "mtime": "1667053973",
+      "size": "10454",
+      "md5": "373bd489bb1d6fb5b992d86e37aa8f30",
+      "crc32": "ce7c7398",
+      "sha1": "b762bdc07cd4d4b46ee0c822fa0c3bf5cf8bc5f0"
+    },
+    {
+      "name": "nettavisen-2022-10-30T03:06:34.511783+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667095632",
+      "size": "3475",
+      "md5": "1815e718e6371d2a13380d2830b92794",
+      "crc32": "83506ebd",
+      "sha1": "fcd9cdd173e4a60b25b89c2c06448b9003f25618",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-30T03:06:34.511783+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095633",
+      "size": "86163",
+      "md5": "79f146d23615e8a5ce95014d148ced12",
+      "crc32": "dc04826e",
+      "sha1": "97b3a24eacc8e6fd94eb4bdcd81ca399866c6cb7",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-30T03:06:34.511783+01:00.jpg",
+      "source": "original",
+      "mtime": "1667095630",
+      "size": "286473",
+      "md5": "90d2d19f3d2eaf565ade20d9a74ef5be",
+      "crc32": "149818d4",
+      "sha1": "4f54d9a313306ad6347cc537fd8acadb48fdd1ee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-30T03:06:34.511783+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095635",
+      "size": "1485",
+      "md5": "2ebc6fc8513e65e35d1d343d43d4bbae",
+      "crc32": "ceac5d82",
+      "sha1": "4cbabc5d987b02b7c47c31da22c8f611831a1163",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-30T03:06:34.511783+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667095636",
+      "size": "102",
+      "md5": "8111814f0f69499099784799adce11ef",
+      "crc32": "8bb57221",
+      "sha1": "e68c2fa91ad8553bdb3e6ef71daba6f418e5839e",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-30T03:06:34.511783+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-30T03:06:34.511783+01:00.jpg",
+      "mtime": "1667097043",
+      "size": "11198",
+      "md5": "2109bbfd4c8506a6e6315b7b9a1eb22c",
+      "crc32": "9b0b1e4f",
+      "sha1": "2bb01db6a5d0ffa2918f861f74e415c91523ff7c"
+    },
+    {
+      "name": "nettavisen-2022-10-30T14:47:09.892104+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667137638",
+      "size": "21959",
+      "md5": "a580446939dc19fd410b8de5199e8b3a",
+      "crc32": "a2ebfb02",
+      "sha1": "ebc59b1a2d0bd92a05cd17fdbbbdfc22c9599175",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-30T14:47:09.892104+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667137640",
+      "size": "32376",
+      "md5": "ce0579f96ec2e0e4c127036f9582836c",
+      "crc32": "9f6906b0",
+      "sha1": "3112a0961ff2d35421f93128e636d86b1ca6758a",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-30T14:47:09.892104+01:00.jpg",
+      "source": "original",
+      "mtime": "1667137636",
+      "size": "235637",
+      "md5": "380e169803e06452bfaffb4c16658e80",
+      "crc32": "49b20148",
+      "sha1": "d83b6509fd500ce03cda18ac4382700f836221d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-30T14:47:09.892104+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667137642",
+      "size": "1486",
+      "md5": "d3707a5f82141ada3bd90f7f30fa981a",
+      "crc32": "bf330651",
+      "sha1": "ffaddf06046052f7b894ee4cf957b686c534ae47",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-30T14:47:09.892104+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667137643",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-30T14:47:09.892104+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-30T14:47:09.892104+01:00.jpg",
+      "mtime": "1667138387",
+      "size": "10491",
+      "md5": "216c07cda7fd6433a225d84bda8a4a9f",
+      "crc32": "8dc7841e",
+      "sha1": "8a6c475962085edf10094094c2907f1b663d55c1"
+    },
+    {
+      "name": "nettavisen-2022-10-31T03:12:50.076997+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667182392",
+      "size": "3475",
+      "md5": "1815e718e6371d2a13380d2830b92794",
+      "crc32": "83506ebd",
+      "sha1": "fcd9cdd173e4a60b25b89c2c06448b9003f25618",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-31T03:12:50.076997+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667182393",
+      "size": "87241",
+      "md5": "e30a3e36132740d3e3c57bc574ddeb49",
+      "crc32": "6222006d",
+      "sha1": "6ebf1a3e162198f1b83488f7ced89a7b6000381b",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-31T03:12:50.076997+01:00.jpg",
+      "source": "original",
+      "mtime": "1667182390",
+      "size": "252513",
+      "md5": "19646e40606602d196e151139594411a",
+      "crc32": "ec439ce0",
+      "sha1": "ac40cce9606e2d4446917e411aa5135e17dc2a76",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-31T03:12:50.076997+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667182395",
+      "size": "1486",
+      "md5": "c3c3adef26a362b9c0b0e362af14c7d6",
+      "crc32": "9e7b8ad1",
+      "sha1": "1a775388b3280a34734998eaebb77091d92dfed6",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-31T03:12:50.076997+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667182397",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-31T03:12:50.076997+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-31T03:12:50.076997+01:00.jpg",
+      "mtime": "1667183050",
+      "size": "10288",
+      "md5": "82b91e05a16c06414a2bc63b394adcaf",
+      "crc32": "b4fa7f1b",
+      "sha1": "859d83bef132126e509d4169836227981f700edb"
+    },
+    {
+      "name": "nettavisen-2022-10-31T15:12:08.115555+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667225551",
+      "size": "21294",
+      "md5": "559422eb5c28b1c51da69aab8e63f1bb",
+      "crc32": "5ee0a56b",
+      "sha1": "38ace9a5b9e899a2acff0fc028fff3b605723cfb",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-31T15:12:08.115555+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667225553",
+      "size": "31507",
+      "md5": "29369e8f09133cf96361b295d119c26e",
+      "crc32": "fb9976aa",
+      "sha1": "addaca33af11fd0fb57526b886f8691cee6c6615",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-31T15:12:08.115555+01:00.jpg",
+      "source": "original",
+      "mtime": "1667225549",
+      "size": "227318",
+      "md5": "dacc89f45ce144360a25b7bacc7e61ba",
+      "crc32": "c7edd644",
+      "sha1": "0535a5e0a0c9bb0edee57295f6e5a68b02a7e90d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-10-31T15:12:08.115555+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667225555",
+      "size": "1486",
+      "md5": "d7e5148201b35a1cf52396b8f8a30343",
+      "crc32": "52059056",
+      "sha1": "547676c8c047ca7aa0b4627b2fda762e1553d9dd",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-31T15:12:08.115555+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667225557",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-10-31T15:12:08.115555+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nettavisen-2022-10-31T15:12:08.115555+01:00.jpg",
+      "mtime": "1667226355",
+      "size": "9966",
+      "md5": "00f9b5d12ac123c9b9578f3df600cb3a",
+      "crc32": "e6398ecd",
+      "sha1": "bd914366426e8500d26504ac57073306e38aa90e"
+    },
+    {
       "name": "nettavisen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0f8c713f9bc71bfcdd7bfacd320f5d5c188406f8",
-      "mtime": "1666706175",
-      "size": "241571",
-      "md5": "1706f8aa7fd8d417a8569d4c6d6c160e",
-      "crc32": "c8e9b90d",
-      "sha1": "c31275c1cb5e6685148e69de8f06af87b8187891",
+      "btih": "e2e7f473955a49652d3c9cc51a7410b278b5075b",
+      "mtime": "1667226409",
+      "size": "257033",
+      "md5": "a0ae7d3a564d49b3632247f149f1373f",
+      "crc32": "cc016b10",
+      "sha1": "b3045986831f1c8c19691d0cb3658a7e4e757fd8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nettavisen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1efec2285a772a0ed7df6e55d402f874",
+      "md5": "9cd7e0a89e5730237abaed1a2e8d7f22",
       "summation": "md5"
     },
     {
       "name": "nettavisen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666706129",
-      "size": "1445888",
-      "md5": "d0d016f8d802010b2be8c209cb8d3f6e",
-      "crc32": "6b78f888",
-      "sha1": "00791da3197589bea8baae027437c1d0a56179b8",
+      "mtime": "1667225560",
+      "size": "1536000",
+      "md5": "60a9847dff1dd8811b0e1f941f4d75a2",
+      "crc32": "10387ca9",
+      "sha1": "2080907845a78f9ddbf0b062b343829d9061fae7",
       "format": "Metadata"
     },
     {
@@ -11733,9 +12488,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1134,
-  "item_last_updated": 1666706175,
-  "item_size": 78803581,
+  "files_count": 1207,
+  "item_last_updated": 1667226409,
+  "item_size": 83023428,
   "metadata": {
     "identifier": "nettavisen-2022",
     "collection": [
@@ -11752,21 +12507,15 @@
     "publicdate": "2022-07-20 11:37:15",
     "addeddate": "2022-07-20 11:37:15"
   },
-  "pending_tasks": true,
+  "nettavisen-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451701969,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1890670359,
+  "uniq": 687447398,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

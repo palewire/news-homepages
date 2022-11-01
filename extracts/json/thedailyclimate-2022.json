@@ -1,5 +1,5 @@
 {
-  "created": 1666709611,
+  "created": 1667228571,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/28/items/thedailyclimate-2022",
@@ -11485,31 +11485,775 @@
       "format": "JSON"
     },
     {
+      "name": "thedailyclimate-2022-10-25T08:52:21.037352-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-25T08:52:21.037352-06:00.jpg",
+      "mtime": "1666712445",
+      "size": "11067",
+      "md5": "7645b34e2a64c28b0cc0b768c07e0f70",
+      "crc32": "4ced5206",
+      "sha1": "35a03493398c1caec7395e4eb026ad81810d0d79"
+    },
+    {
+      "name": "thedailyclimate-2022-10-25T21:45:56.952040-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666755965",
+      "size": "27679",
+      "md5": "e099a4336dc2f4d9fd4c751bd1990401",
+      "crc32": "f95bcaf3",
+      "sha1": "3fee22bef3125a07953bec4ee8759b3045843868",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-25T21:45:56.952040-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666755966",
+      "size": "43979",
+      "md5": "7a625b139a66b9dc630748a186bc2074",
+      "crc32": "d9bf1479",
+      "sha1": "89d0fecc0bd916dc1a1189672f248c469dc4bf8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-25T21:45:56.952040-06:00.jpg",
+      "source": "original",
+      "mtime": "1666755963",
+      "size": "296814",
+      "md5": "2681e730d66939a1195c394aeaf432f4",
+      "crc32": "23acd993",
+      "sha1": "c95e013b12fdb32fe59454a7c1492d62c89634fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-25T21:45:56.952040-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666755968",
+      "size": "1503",
+      "md5": "e20e341c44c9e25a61b0af6de8644141",
+      "crc32": "03dbe4cd",
+      "sha1": "255bc2992c58bb78512ae98928a76c7382d9eed1",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-25T21:45:56.952040-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666755969",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-25T21:45:56.952040-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-25T21:45:56.952040-06:00.jpg",
+      "mtime": "1666756157",
+      "size": "10353",
+      "md5": "e4f68d397d32dda6ac93b02161606949",
+      "crc32": "aa5e76b6",
+      "sha1": "b715026d12b924fb9c3708709fe4a613de066184"
+    },
+    {
+      "name": "thedailyclimate-2022-10-26T09:03:57.029403-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796646",
+      "size": "27094",
+      "md5": "25b5e77cec263c6788bbb621695772de",
+      "crc32": "add5486f",
+      "sha1": "b5f9a0dd90e52fa3ed3aa012664759780adb36f0",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-26T09:03:57.029403-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796648",
+      "size": "42089",
+      "md5": "be42405c9a6d7cbde5c8484fb012d368",
+      "crc32": "c93918d5",
+      "sha1": "d0633690c476c0f020249be1aed85f1fa307a2ba",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-26T09:03:57.029403-06:00.jpg",
+      "source": "original",
+      "mtime": "1666796644",
+      "size": "312301",
+      "md5": "2ce3b73483529b8aeff1b6790b418259",
+      "crc32": "13557f9b",
+      "sha1": "68449ef469764938d9582efaaaad44646ef40a1d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-26T09:03:57.029403-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796650",
+      "size": "1513",
+      "md5": "adcae5c83e411d3c3d218c281ec8daff",
+      "crc32": "fa5e75a5",
+      "sha1": "fa9dcbe0d955d02dadf4c7042b326897719af333",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-26T09:03:57.029403-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796652",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-26T09:03:57.029403-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-26T09:03:57.029403-06:00.jpg",
+      "mtime": "1666797704",
+      "size": "11030",
+      "md5": "de7ecc79b58e1d59ae4c291b2e6edcac",
+      "crc32": "6464be65",
+      "sha1": "9c6dc6013c3f6cdc447067e86ec0ced7319f4826"
+    },
+    {
+      "name": "thedailyclimate-2022-10-26T21:40:11.372380-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666842022",
+      "size": "27583",
+      "md5": "2966922b58097d52afb182a378c3e14d",
+      "crc32": "80220ea2",
+      "sha1": "31666ab57e05deb2168d15022db72acb111a6c0e",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-26T21:40:11.372380-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666842024",
+      "size": "43240",
+      "md5": "ce2f0ae3d689d3580a59acc9d239d049",
+      "crc32": "b7cfd1aa",
+      "sha1": "2f7f03f68b0a3b853f2afa3617ab040aece5fd2b",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-26T21:40:11.372380-06:00.jpg",
+      "source": "original",
+      "mtime": "1666842020",
+      "size": "284278",
+      "md5": "e9cd1638563f510bf92f597c3aac0fa9",
+      "crc32": "e6681d9b",
+      "sha1": "543c080e77f82c5151c232ae11c7df686b6db7fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-26T21:40:11.372380-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666842025",
+      "size": "1504",
+      "md5": "c15754d45065f7901b19101301b53c37",
+      "crc32": "63f2f96a",
+      "sha1": "10449ed800562cf71ea97723aafddd4b5f9c71ab",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-26T21:40:11.372380-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666842027",
+      "size": "18361",
+      "md5": "99a2b3a29a36cebbdd4615d885b9cb88",
+      "crc32": "839190f6",
+      "sha1": "f6c24b29ac22f007629dca8e37d18f0abc469caf",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-26T21:40:11.372380-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-26T21:40:11.372380-06:00.jpg",
+      "mtime": "1666866673",
+      "size": "10680",
+      "md5": "c98c12c437f8021294b189fcb36c8e1f",
+      "crc32": "bd80ee5b",
+      "sha1": "133bd0f7809c1139135f1430f6e24524b91d5dff"
+    },
+    {
+      "name": "thedailyclimate-2022-10-27T09:10:46.074464-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883456",
+      "size": "27122",
+      "md5": "eaefd6049f78a64dddd47981a1864e20",
+      "crc32": "95ca6c76",
+      "sha1": "9eeefd90a96ea6712184a54456413bced13a1701",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-27T09:10:46.074464-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883458",
+      "size": "42709",
+      "md5": "2eff2fbe95eb4a7897895d8ac7e673de",
+      "crc32": "499aaf0c",
+      "sha1": "f6846a83b84e1e19e53f91aa257006c2908d1ce5",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-27T09:10:46.074464-06:00.jpg",
+      "source": "original",
+      "mtime": "1666883453",
+      "size": "286342",
+      "md5": "493799597310a1a79d17d6b0b67f9da7",
+      "crc32": "8fe2523a",
+      "sha1": "461f6330eecaeef137d47a0bdc185721bb4fb34c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-27T09:10:46.074464-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883461",
+      "size": "1504",
+      "md5": "44956f8d44df9e05bb4583fd51491cd8",
+      "crc32": "b6e7ee84",
+      "sha1": "5b28d4f15c950d4224ec83cde3135c3d0fd85d93",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-27T09:10:46.074464-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883465",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-27T09:10:46.074464-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-27T09:10:46.074464-06:00.jpg",
+      "mtime": "1666895487",
+      "size": "10537",
+      "md5": "8a5e33b2cba1f1419e2cfb3a2da76afa",
+      "crc32": "935c2150",
+      "sha1": "132f56dcc652b9b67d8e790ad88bd8470e590820"
+    },
+    {
+      "name": "thedailyclimate-2022-10-27T22:39:18.670337-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666931967",
+      "size": "27833",
+      "md5": "aeaca23c9d66b59bd833736873bb1ffa",
+      "crc32": "c98ee599",
+      "sha1": "3d58b88942c168e6636185fecc1b30531872d7cd",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-27T22:39:18.670337-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666931969",
+      "size": "43427",
+      "md5": "5df61e6964a1eafe3b52dc9ba81efa51",
+      "crc32": "29800baf",
+      "sha1": "6a0fb3ade322c11343bf35823c95f71cb8b319c6",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-27T22:39:18.670337-06:00.jpg",
+      "source": "original",
+      "mtime": "1666931965",
+      "size": "285254",
+      "md5": "0fc6ee852a42d0abd189cc565cafa8ec",
+      "crc32": "fc80bab8",
+      "sha1": "b75eb0f0953f08696a067c94054c673425365678",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-27T22:39:18.670337-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666931970",
+      "size": "1513",
+      "md5": "21eb2b92cef79226f5d4fe1be44e66da",
+      "crc32": "7183487f",
+      "sha1": "e96ed46a2f5a681bf0b550f8b3239c7436869f50",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-27T22:39:18.670337-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666931972",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-27T22:39:18.670337-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-27T22:39:18.670337-06:00.jpg",
+      "mtime": "1666933367",
+      "size": "10541",
+      "md5": "d22eb0e14c28fa61f9b36436ea1a3c57",
+      "crc32": "e89331e5",
+      "sha1": "afcd9d8121545a57b91b5a29eec9ed405e50a831"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T08:45:22.006882-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968331",
+      "size": "27917",
+      "md5": "d47060e94dbc5e753294f28272de21d8",
+      "crc32": "714c4dc5",
+      "sha1": "d666c2d699284bf0528994903453b108ca213a54",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T08:45:22.006882-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968332",
+      "size": "49461",
+      "md5": "8d122f0d6b00a412897f0cfabbc59231",
+      "crc32": "eec2eaa9",
+      "sha1": "f2de693951435b673b7b3cae0ad672366aa74267",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T08:45:22.006882-06:00.jpg",
+      "source": "original",
+      "mtime": "1666968329",
+      "size": "282566",
+      "md5": "58bb6d8a93a7938a280bedd7c05fd061",
+      "crc32": "0d84f7c8",
+      "sha1": "c30f69970a273724bcd428b6e0bb4380c29ca1f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T08:45:22.006882-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968334",
+      "size": "1513",
+      "md5": "c336377b503045c60dde06cb765db289",
+      "crc32": "2f67deed",
+      "sha1": "f9daa849f63a8ae07bc5f9443f8e514160617fa4",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T08:45:22.006882-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968336",
+      "size": "18420",
+      "md5": "073295dd74d64b0ca2a685f95a2f3d09",
+      "crc32": "f943b222",
+      "sha1": "ca1ef890b2dc38848abeeea91a562aeb4db8a4fa",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T08:45:22.006882-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-28T08:45:22.006882-06:00.jpg",
+      "mtime": "1666973364",
+      "size": "10841",
+      "md5": "559ef4550f95030bca172ef3ba80d06f",
+      "crc32": "6fe64d91",
+      "sha1": "6c23b9910d2fd0ed71355fd61a75c178a97a3760"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T21:31:18.993024-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014286",
+      "size": "27816",
+      "md5": "ff19119cd81e6f6c9b9d32e7de2c7b14",
+      "crc32": "3e248cee",
+      "sha1": "fcb2d8e2fcc05f043cfb78f192fabe291fa4d4c5",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T21:31:18.993024-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014288",
+      "size": "49597",
+      "md5": "c7b495493f8eb7d413f43003198f8a20",
+      "crc32": "ff32309a",
+      "sha1": "643cbc1019210086fdc205f037240eee8e881e8c",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T21:31:18.993024-06:00.jpg",
+      "source": "original",
+      "mtime": "1667014285",
+      "size": "278780",
+      "md5": "0c37f5eed8eeaedce483caf14e8730cf",
+      "crc32": "55ca66d3",
+      "sha1": "7797976c9be9984c5dc189d37b63d560bbe8e55c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T21:31:18.993024-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014289",
+      "size": "1503",
+      "md5": "ebc19f6cfc67b52012d4ef43a21b5130",
+      "crc32": "6ff12780",
+      "sha1": "7b29607fba3476d84f2b5348aa6f971fde18f930",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T21:31:18.993024-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014291",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-28T21:31:18.993024-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-28T21:31:18.993024-06:00.jpg",
+      "mtime": "1667015318",
+      "size": "10878",
+      "md5": "ce1e9e86e47addd1a9860cc4aaeb8157",
+      "crc32": "914c2141",
+      "sha1": "c66bdb442031ea328b716bcaf56d28376e2c9b33"
+    },
+    {
+      "name": "thedailyclimate-2022-10-29T09:07:43.022220-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667056072",
+      "size": "28072",
+      "md5": "f03a731c580b3fe7076d1db25451dd47",
+      "crc32": "ff11244a",
+      "sha1": "188c44417d061b504be009d6d2a402bd13220837",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-29T09:07:43.022220-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667056073",
+      "size": "49270",
+      "md5": "c70a28d9ad011909eb227c49257c6298",
+      "crc32": "fb07b0ad",
+      "sha1": "48075a1c02bd432dbb16437afbe66f17fbab4605",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-29T09:07:43.022220-06:00.jpg",
+      "source": "original",
+      "mtime": "1667056070",
+      "size": "288055",
+      "md5": "6a24d229fcd550ae3fb5c275cde78bd8",
+      "crc32": "d6665897",
+      "sha1": "22ddb5de3b8c8ddb0cf37bc7e8fe8c7da6ffb057",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-29T09:07:43.022220-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667056076",
+      "size": "1503",
+      "md5": "471b9e73194adf4afe448607f0710788",
+      "crc32": "e2086461",
+      "sha1": "420cf3aa3e486f2e5de53eb36ff7b63bec4c60b4",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-29T09:07:43.022220-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667056079",
+      "size": "18936",
+      "md5": "3451524e2ddd2fa3b5455238d1b65e72",
+      "crc32": "e4483a7f",
+      "sha1": "f8cf999a0e507d0aca0ccd402322eb8ff412ff54",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-29T09:07:43.022220-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-29T09:07:43.022220-06:00.jpg",
+      "mtime": "1667056868",
+      "size": "11106",
+      "md5": "a32cc43e255ce941a8f5bd37fbe055ee",
+      "crc32": "20b207fe",
+      "sha1": "25cdb07e47c169562a071be91ddf4af95f24e274"
+    },
+    {
+      "name": "thedailyclimate-2022-10-29T21:29:05.076478-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100568",
+      "size": "28034",
+      "md5": "0f1d033fc24c94fb9008e024547d8199",
+      "crc32": "4247e476",
+      "sha1": "8617f164e3e0c8b187722ccec66c7ffa8f67f109",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-29T21:29:05.076478-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100569",
+      "size": "49098",
+      "md5": "ce3f0fbd1baf87df552647ea5da720ad",
+      "crc32": "a898a6f6",
+      "sha1": "719ca2cb0b130d758628fdb23578bf10f56c4dc3",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-29T21:29:05.076478-06:00.jpg",
+      "source": "original",
+      "mtime": "1667100566",
+      "size": "278494",
+      "md5": "4d9e736294b2d181c11af0a83fc43091",
+      "crc32": "8ef1d308",
+      "sha1": "3cbe6d86a4293adb6d8a8adac77026e3358b1abd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-29T21:29:05.076478-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100571",
+      "size": "1503",
+      "md5": "f91d7067edb774dcd838f2d73bd5e830",
+      "crc32": "00dc29f1",
+      "sha1": "2e9be32dcb0290e40917bf4fd0f690a8fd923a7f",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-29T21:29:05.076478-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100573",
+      "size": "19191",
+      "md5": "10399254fa7ac6c1823d8b2c16e7e6e2",
+      "crc32": "337abacd",
+      "sha1": "01410cfa2ba7686d435f9cb553e86d82c29242de",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-29T21:29:05.076478-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-29T21:29:05.076478-06:00.jpg",
+      "mtime": "1667102844",
+      "size": "10790",
+      "md5": "44b275d4873e4a69fbbaf6bbd1b8d83a",
+      "crc32": "ac32bca9",
+      "sha1": "975be9eeff6f64593064c787f5cae3dbf5adfeea"
+    },
+    {
+      "name": "thedailyclimate-2022-10-30T08:41:20.758091-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667140888",
+      "size": "28006",
+      "md5": "3cd0047a8e953fdb47bf13a0ae22988b",
+      "crc32": "7e9bbe2f",
+      "sha1": "1b4717c6ca1f7736652c303954145e058815e3e0",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-30T08:41:20.758091-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667140890",
+      "size": "48343",
+      "md5": "92a8f1005583571d190957238ab270ae",
+      "crc32": "2cae41d0",
+      "sha1": "1c9eb6d681abc31cdba0a76620b82a6d6459c7b0",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-30T08:41:20.758091-06:00.jpg",
+      "source": "original",
+      "mtime": "1667140886",
+      "size": "273273",
+      "md5": "4f91c8bb40c650ed2456d7f107bae2c4",
+      "crc32": "e6078640",
+      "sha1": "7985764edad4d6137471c2ad84992fc946fdcd27",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-30T08:41:20.758091-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667140891",
+      "size": "1504",
+      "md5": "2170afd9373fe9a1c97acaace2a1a683",
+      "crc32": "e786a7db",
+      "sha1": "2bcc11173f6409914766bc59bbd166fc47fc4c80",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-30T08:41:20.758091-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667140893",
+      "size": "19820",
+      "md5": "f2ece2f80319564a22d35ed13319ff3d",
+      "crc32": "202ee888",
+      "sha1": "fd675e65a09555cb67d7bc67876757be06de1196",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-30T08:41:20.758091-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-30T08:41:20.758091-06:00.jpg",
+      "mtime": "1667141235",
+      "size": "10929",
+      "md5": "33a228bde63adff37ba2d73e006a5610",
+      "crc32": "563730c7",
+      "sha1": "b0cc59bff120661cc0fa5fb62b8e8bca2e5dcf12"
+    },
+    {
+      "name": "thedailyclimate-2022-10-30T21:27:25.350044-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667186866",
+      "size": "28308",
+      "md5": "7fe1f0ca8065ee01b36ccade660a5b57",
+      "crc32": "113b19f8",
+      "sha1": "4ca0f37135d062a51cd9ac2e6064818a201309e9",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-30T21:27:25.350044-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667186868",
+      "size": "49874",
+      "md5": "96dee1ce06b2a96089b5871a08953c4d",
+      "crc32": "788d2d27",
+      "sha1": "bb12905c6d9c1a26bb0760ba3d5722db0e41868f",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-30T21:27:25.350044-06:00.jpg",
+      "source": "original",
+      "mtime": "1667186864",
+      "size": "279545",
+      "md5": "54b7eaa0c8eabdafcefe7598720ca19c",
+      "crc32": "66bdae57",
+      "sha1": "6917b480b804cba3e9da83035ba095e858ea69f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-30T21:27:25.350044-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667186870",
+      "size": "1504",
+      "md5": "b492c6b024fc6ef9a483d29a8ae286ff",
+      "crc32": "fc127d27",
+      "sha1": "ccc845cd40770960aaf11a3629aebb546b2e8ba3",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-30T21:27:25.350044-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667186872",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-30T21:27:25.350044-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-30T21:27:25.350044-06:00.jpg",
+      "mtime": "1667187670",
+      "size": "10889",
+      "md5": "e6b59420eca97a2b7085ee64bff70598",
+      "crc32": "eafe325a",
+      "sha1": "7a6fbbdbae6a99a1fb461e0473ecda4aca1e4f11"
+    },
+    {
+      "name": "thedailyclimate-2022-10-31T08:59:48.012135-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667228404",
+      "size": "27628",
+      "md5": "ecbb57946f4a3ac6ec8eca239730a1f9",
+      "crc32": "d80eace4",
+      "sha1": "4af4ece661077f5ba13d1af014aa0e5ad5c986e8",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-31T08:59:48.012135-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667228407",
+      "size": "44143",
+      "md5": "a7a65a7911572d17cd4cbf7cf738215b",
+      "crc32": "ed642fdf",
+      "sha1": "846904ddfe2dbb1dbb3f015cd9c6a6ec79e8828d",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-31T08:59:48.012135-06:00.jpg",
+      "source": "original",
+      "mtime": "1667228400",
+      "size": "292634",
+      "md5": "7e31a3079c3f4001a6c951deaa2aeb58",
+      "crc32": "e42c91b1",
+      "sha1": "51b5f81c7d2a228da27ed35b4b576caf4853bdf3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyclimate-2022-10-31T08:59:48.012135-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667228409",
+      "size": "1504",
+      "md5": "54f6d007ddd1262355f7fd7dc4eb4bea",
+      "crc32": "6e3fdf78",
+      "sha1": "7a8e7dfe8000bad12e170e82fffe5163ab50d48b",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyclimate-2022-10-31T08:59:48.012135-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667228411",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thedailyclimate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d8a480de4613f59548e89117bbb4da729c74470a",
-      "mtime": "1666709608",
-      "size": "242786",
-      "md5": "99ceb7a03e8f0b89a00f796cecd73025",
-      "crc32": "860aed8b",
-      "sha1": "04d2bcb5cc6504a463fc787080642afd296deeae",
+      "btih": "14908b28d32a8e79ead3f2648171489edadb8039",
+      "mtime": "1667228522",
+      "size": "258432",
+      "md5": "38714805e2f337579d1bca5cf6aa5a4e",
+      "crc32": "07a352ae",
+      "sha1": "4902b8746eea441fa1a093b2bda240c9d172d9b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyclimate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "417ff8adfab19df0ed9e1b31168fa0ef",
+      "md5": "10062f0990f6b8bc89933560b9d337d2",
       "summation": "md5"
     },
     {
       "name": "thedailyclimate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666709560",
-      "size": "1433600",
-      "md5": "4a22fe8b6f3ce2d93b8f03ad93aca596",
-      "crc32": "479bcce9",
-      "sha1": "d96a3538b1b17a2cdd0e6bbb58f3fa961620f21e",
+      "mtime": "1667228418",
+      "size": "1523712",
+      "md5": "3381c6e571c22ec597d886ba25618edc",
+      "crc32": "eb9b30fb",
+      "sha1": "de6bfb8430e6446236fd95c690e5798862bd02ef",
       "format": "Metadata"
     },
     {
@@ -11523,9 +12267,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1114,
-  "item_last_updated": 1666709608,
-  "item_size": 73464059,
+  "files_count": 1186,
+  "item_last_updated": 1667228522,
+  "item_size": 78140329,
   "metadata": {
     "identifier": "thedailyclimate-2022",
     "collection": [
@@ -11547,7 +12291,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451739404,
+      "task_id": 3457851878,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11555,7 +12299,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 194815203,
+  "uniq": 505237916,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

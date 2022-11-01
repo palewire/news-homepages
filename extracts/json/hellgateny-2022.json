@@ -1,5 +1,5 @@
 {
-  "created": 1666702545,
+  "created": 1667260190,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/hellgateny-2022",
@@ -13262,31 +13262,826 @@
       "sha1": "9cda863568d4393af410b22c4570c19f1f3a09c5"
     },
     {
+      "name": "hellgateny-2022-10-25T20:05:53.833669-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666742777",
+      "size": "18158",
+      "md5": "ebeb09c8dd918112fc01626100e659be",
+      "crc32": "89c7f51d",
+      "sha1": "ab7373ff6717a12d64466960e07d7032e7bb83e5",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-25T20:05:53.833669-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666742778",
+      "size": "17031",
+      "md5": "f8d19a6ea45df7e4ea34716aef024f68",
+      "crc32": "68d0a75f",
+      "sha1": "d3fb9972204721c235113511b56a1bcaea079d4f",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-25T20:05:53.833669-04:00.jpg",
+      "source": "original",
+      "mtime": "1666742775",
+      "size": "212518",
+      "md5": "89a57c0f50676e6168c772b303354755",
+      "crc32": "a31db1c2",
+      "sha1": "9a22b91e985ca42e3d895ea9c6b37b6b55d36ef7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-25T20:05:53.833669-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666742780",
+      "size": "1468",
+      "md5": "4e73687664bcd99d5b3fb37571b70b42",
+      "crc32": "596044c8",
+      "sha1": "8d87d0f238180c6a2e9e9d33d4cee4d6f2d06a82",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-25T20:05:53.833669-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666742781",
+      "size": "14172",
+      "md5": "ee3ff979ec56e22321e5c556c37fa05d",
+      "crc32": "cd3fc30d",
+      "sha1": "e209cfd5b3bb3310f06328dde61ee918f35f848e",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-25T20:05:53.833669-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-25T20:05:53.833669-04:00.jpg",
+      "mtime": "1666745905",
+      "size": "8808",
+      "md5": "6fd26651bfc225f42987eeaa46fc194b",
+      "crc32": "4ec75859",
+      "sha1": "66676e2b8e3250f204d36d820be7fcbe5d28e705"
+    },
+    {
+      "name": "hellgateny-2022-10-26T08:07:36.691742-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666786067",
+      "size": "18158",
+      "md5": "ebeb09c8dd918112fc01626100e659be",
+      "crc32": "89c7f51d",
+      "sha1": "ab7373ff6717a12d64466960e07d7032e7bb83e5",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-26T08:07:36.691742-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666786069",
+      "size": "17031",
+      "md5": "f8d19a6ea45df7e4ea34716aef024f68",
+      "crc32": "68d0a75f",
+      "sha1": "d3fb9972204721c235113511b56a1bcaea079d4f",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-26T08:07:36.691742-04:00.jpg",
+      "source": "original",
+      "mtime": "1666786065",
+      "size": "212445",
+      "md5": "802c46cd7701c591dd89f5f220bc9a22",
+      "crc32": "6911322f",
+      "sha1": "8e23f9a6152b150b4d7e028b0ff76d07366e4979",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-26T08:07:36.691742-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666786070",
+      "size": "1465",
+      "md5": "f346e4ea8a5413eaebf33efa2a6d2730",
+      "crc32": "b9dcfa5d",
+      "sha1": "5538b6e6480aab9750ff26447d3ea4a5d091fd51",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-26T08:07:36.691742-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666786071",
+      "size": "12526",
+      "md5": "a60b3375080c3371dccdc691ba836dfb",
+      "crc32": "b35b5b4d",
+      "sha1": "3cabc770c828b32997379ae61a1d89ed0193052a",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-26T08:07:36.691742-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-26T08:07:36.691742-04:00.jpg",
+      "mtime": "1666787690",
+      "size": "8810",
+      "md5": "675abba22caad8ee137bd9cc3dfd343d",
+      "crc32": "71c1dfe7",
+      "sha1": "9e54805a07d70313d07758a93c178b19989680be"
+    },
+    {
+      "name": "hellgateny-2022-10-26T19:53:17.152889-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828413",
+      "size": "18374",
+      "md5": "ed664f3b173f3c75cf7d6b07b862e9c1",
+      "crc32": "a1789764",
+      "sha1": "f0734d33067069a0bb34f21a21673c0654e3d5cd",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-26T19:53:17.152889-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828415",
+      "size": "17103",
+      "md5": "d9803ba2071bce92b53e2daff9911211",
+      "crc32": "57e46af1",
+      "sha1": "cd34fcb4e38ef88dd6cca41e6dff2a31c63d4810",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-26T19:53:17.152889-04:00.jpg",
+      "source": "original",
+      "mtime": "1666828407",
+      "size": "207355",
+      "md5": "1ca53ac3cff56cdcff11c895d248c2c3",
+      "crc32": "85d77749",
+      "sha1": "73de12961aa2abf501733fd5b03bbaf41138959a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-26T19:53:17.152889-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828417",
+      "size": "1464",
+      "md5": "96f5b6109b8956debe395861a1bb7ca7",
+      "crc32": "dc103576",
+      "sha1": "c1d73ba36cccf7042462a108305d6a454a761c58",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-26T19:53:17.152889-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828418",
+      "size": "15928",
+      "md5": "6c8fb353284c3ed608f48af44f19e500",
+      "crc32": "6f776b0f",
+      "sha1": "10df913162507e663798e01c892b9e4acc5a1420",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-26T19:53:17.152889-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-26T19:53:17.152889-04:00.jpg",
+      "mtime": "1666852788",
+      "size": "8697",
+      "md5": "1e88ae322af8b30f1e611a8e364bcc91",
+      "crc32": "2f608559",
+      "sha1": "09609e0c328d67629678df2a9224515551abf975"
+    },
+    {
+      "name": "hellgateny-2022-10-27T08:16:02.390494-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872969",
+      "size": "18374",
+      "md5": "ed664f3b173f3c75cf7d6b07b862e9c1",
+      "crc32": "a1789764",
+      "sha1": "f0734d33067069a0bb34f21a21673c0654e3d5cd",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-27T08:16:02.390494-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872971",
+      "size": "17103",
+      "md5": "d9803ba2071bce92b53e2daff9911211",
+      "crc32": "57e46af1",
+      "sha1": "cd34fcb4e38ef88dd6cca41e6dff2a31c63d4810",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-27T08:16:02.390494-04:00.jpg",
+      "source": "original",
+      "mtime": "1666872964",
+      "size": "207355",
+      "md5": "1ca53ac3cff56cdcff11c895d248c2c3",
+      "crc32": "85d77749",
+      "sha1": "73de12961aa2abf501733fd5b03bbaf41138959a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-27T08:16:02.390494-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872975",
+      "size": "1467",
+      "md5": "4b6707b6c71785c8052add390a14efdb",
+      "crc32": "af1e1a01",
+      "sha1": "7f77b287431d4762099a8832525bac00d4a4938f",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-27T08:16:02.390494-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666872977",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-27T08:16:02.390494-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-27T08:16:02.390494-04:00.jpg",
+      "mtime": "1666889284",
+      "size": "8697",
+      "md5": "1e88ae322af8b30f1e611a8e364bcc91",
+      "crc32": "2f608559",
+      "sha1": "09609e0c328d67629678df2a9224515551abf975"
+    },
+    {
+      "name": "hellgateny-2022-10-27T19:39:37.238412-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666914002",
+      "size": "18347",
+      "md5": "eaf50303524d4ad171e1b60aaa5ed9a9",
+      "crc32": "4076cb40",
+      "sha1": "3b9c004a3ee36ed46ad8fd9955f0185286516cdd",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-27T19:39:37.238412-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666914004",
+      "size": "17018",
+      "md5": "df3d54c2ef45c3e07e383f6de04f6ef4",
+      "crc32": "3b2fb81e",
+      "sha1": "6009752f36a9520da3f8daf643f5666098e02388",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-27T19:39:37.238412-04:00.jpg",
+      "source": "original",
+      "mtime": "1666914000",
+      "size": "210462",
+      "md5": "44b7277a09af22d5a7319867c62786bc",
+      "crc32": "f8a2e7c1",
+      "sha1": "eb50cee302952efbe33ff3f890b0c30420a0bcfe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-27T19:39:37.238412-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666914006",
+      "size": "1457",
+      "md5": "fc99ed022f97a20c069e257ac3698fe6",
+      "crc32": "ae04ac43",
+      "sha1": "0a3f8b51416aaa05bc71fcb6358d0d8bf5a36902",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-27T19:39:37.238412-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666914008",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-27T19:39:37.238412-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-27T19:39:37.238412-04:00.jpg",
+      "mtime": "1666915264",
+      "size": "8528",
+      "md5": "cec9548781c478caa84c8d4057782135",
+      "crc32": "eb0c7ad5",
+      "sha1": "374cbce33c9b73f7455fcf8a4b3d9cb820f5fb55"
+    },
+    {
+      "name": "hellgateny-2022-10-28T07:51:35.432466-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666957904",
+      "size": "18347",
+      "md5": "eaf50303524d4ad171e1b60aaa5ed9a9",
+      "crc32": "4076cb40",
+      "sha1": "3b9c004a3ee36ed46ad8fd9955f0185286516cdd",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-28T07:51:35.432466-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666957906",
+      "size": "17018",
+      "md5": "df3d54c2ef45c3e07e383f6de04f6ef4",
+      "crc32": "3b2fb81e",
+      "sha1": "6009752f36a9520da3f8daf643f5666098e02388",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-28T07:51:35.432466-04:00.jpg",
+      "source": "original",
+      "mtime": "1666957903",
+      "size": "210462",
+      "md5": "44b7277a09af22d5a7319867c62786bc",
+      "crc32": "f8a2e7c1",
+      "sha1": "eb50cee302952efbe33ff3f890b0c30420a0bcfe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-28T07:51:35.432466-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666957907",
+      "size": "1464",
+      "md5": "de975241ab5d5999cdf94df182d4c4f9",
+      "crc32": "298aa791",
+      "sha1": "2e2ceb092867fc710fc7600861d084c6218504b9",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-28T07:51:35.432466-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666957909",
+      "size": "12511",
+      "md5": "9bb96c632dcb696558fd5ef1196d1e51",
+      "crc32": "54635547",
+      "sha1": "4b59cfcbf7167d79fa08afe13dca10958c2daaa2",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-28T07:51:35.432466-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-28T07:51:35.432466-04:00.jpg",
+      "mtime": "1666964816",
+      "size": "8528",
+      "md5": "cec9548781c478caa84c8d4057782135",
+      "crc32": "eb0c7ad5",
+      "sha1": "374cbce33c9b73f7455fcf8a4b3d9cb820f5fb55"
+    },
+    {
+      "name": "hellgateny-2022-10-28T20:13:09.920903-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667002401",
+      "size": "18323",
+      "md5": "8dd86061352209e9cd7383ddc146a17e",
+      "crc32": "df5d0ed9",
+      "sha1": "888ca91855945adf68ad3953c9af827929eec99d",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-28T20:13:09.920903-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667002403",
+      "size": "16906",
+      "md5": "0526d80973c1bc96beb5bdac2b6ea5e7",
+      "crc32": "d8728633",
+      "sha1": "7205bd12b9122e309accd09fc1029339a6eb2c14",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-28T20:13:09.920903-04:00.jpg",
+      "source": "original",
+      "mtime": "1667002400",
+      "size": "233005",
+      "md5": "0ff3eeb4dbe96cdcede444b3ab3ea685",
+      "crc32": "026c5656",
+      "sha1": "fe990b50bf50003f08ff33d333d23917b99509b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-28T20:13:09.920903-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667002406",
+      "size": "1462",
+      "md5": "2887eea2515084d6f3d1d345489c6197",
+      "crc32": "b8ec0023",
+      "sha1": "b0e7318f88bdf2748e226cce709c909b66ee16a0",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-28T20:13:09.920903-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667002408",
+      "size": "208",
+      "md5": "edb31347a86251a5f81ca11c82a9f7bf",
+      "crc32": "39cd0f58",
+      "sha1": "a5e6a35def61682e29fc37146ed5c39531ada803",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-28T20:13:09.920903-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-28T20:13:09.920903-04:00.jpg",
+      "mtime": "1667004379",
+      "size": "8922",
+      "md5": "e4402473714458f6cdbfbce12c9578e0",
+      "crc32": "11857257",
+      "sha1": "1d7fe5e4d806adc419e05935ea9597e4fa58ecaf"
+    },
+    {
+      "name": "hellgateny-2022-10-29T08:05:54.013229-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667045161",
+      "size": "18323",
+      "md5": "8dd86061352209e9cd7383ddc146a17e",
+      "crc32": "df5d0ed9",
+      "sha1": "888ca91855945adf68ad3953c9af827929eec99d",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-29T08:05:54.013229-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667045162",
+      "size": "16906",
+      "md5": "0526d80973c1bc96beb5bdac2b6ea5e7",
+      "crc32": "d8728633",
+      "sha1": "7205bd12b9122e309accd09fc1029339a6eb2c14",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-29T08:05:54.013229-04:00.jpg",
+      "source": "original",
+      "mtime": "1667045155",
+      "size": "233005",
+      "md5": "0ff3eeb4dbe96cdcede444b3ab3ea685",
+      "crc32": "026c5656",
+      "sha1": "fe990b50bf50003f08ff33d333d23917b99509b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-29T08:05:54.013229-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667045163",
+      "size": "1465",
+      "md5": "5d57b0f34c5e339200042a1a353beec4",
+      "crc32": "80fcc551",
+      "sha1": "84cd9d6a8f865b6ad57af9164b413f2b377d8ccc",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-29T08:05:54.013229-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667045167",
+      "size": "12502",
+      "md5": "d4c199a26c4d0b93b740a36069f4f118",
+      "crc32": "e8743e52",
+      "sha1": "b0676c42881f4a25233147f5215ae3637b1afe65",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-29T08:05:54.013229-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-29T08:05:54.013229-04:00.jpg",
+      "mtime": "1667048408",
+      "size": "8922",
+      "md5": "e4402473714458f6cdbfbce12c9578e0",
+      "crc32": "11857257",
+      "sha1": "1d7fe5e4d806adc419e05935ea9597e4fa58ecaf"
+    },
+    {
+      "name": "hellgateny-2022-10-29T19:48:17.059264-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667087311",
+      "size": "18323",
+      "md5": "8dd86061352209e9cd7383ddc146a17e",
+      "crc32": "df5d0ed9",
+      "sha1": "888ca91855945adf68ad3953c9af827929eec99d",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-29T19:48:17.059264-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667087313",
+      "size": "16906",
+      "md5": "0526d80973c1bc96beb5bdac2b6ea5e7",
+      "crc32": "d8728633",
+      "sha1": "7205bd12b9122e309accd09fc1029339a6eb2c14",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-29T19:48:17.059264-04:00.jpg",
+      "source": "original",
+      "mtime": "1667087307",
+      "size": "233005",
+      "md5": "0ff3eeb4dbe96cdcede444b3ab3ea685",
+      "crc32": "026c5656",
+      "sha1": "fe990b50bf50003f08ff33d333d23917b99509b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-29T19:48:17.059264-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667087315",
+      "size": "1465",
+      "md5": "9b4aaa555f8a836df54901105fa99b85",
+      "crc32": "ccaad57b",
+      "sha1": "d843ac0022b994bfe45f7ff8f9abc2d86d43e7da",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-29T19:48:17.059264-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667087317",
+      "size": "12696",
+      "md5": "ed2b5f6f8441436977827fb1b636790d",
+      "crc32": "54509a4a",
+      "sha1": "d74042510db4810ec5620b31be8570394f8d8638",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-29T19:48:17.059264-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-29T19:48:17.059264-04:00.jpg",
+      "mtime": "1667087954",
+      "size": "8922",
+      "md5": "e4402473714458f6cdbfbce12c9578e0",
+      "crc32": "11857257",
+      "sha1": "1d7fe5e4d806adc419e05935ea9597e4fa58ecaf"
+    },
+    {
+      "name": "hellgateny-2022-10-30T07:46:35.683310-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130405",
+      "size": "18323",
+      "md5": "8dd86061352209e9cd7383ddc146a17e",
+      "crc32": "df5d0ed9",
+      "sha1": "888ca91855945adf68ad3953c9af827929eec99d",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-30T07:46:35.683310-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130407",
+      "size": "16906",
+      "md5": "0526d80973c1bc96beb5bdac2b6ea5e7",
+      "crc32": "d8728633",
+      "sha1": "7205bd12b9122e309accd09fc1029339a6eb2c14",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-30T07:46:35.683310-04:00.jpg",
+      "source": "original",
+      "mtime": "1667130403",
+      "size": "233005",
+      "md5": "0ff3eeb4dbe96cdcede444b3ab3ea685",
+      "crc32": "026c5656",
+      "sha1": "fe990b50bf50003f08ff33d333d23917b99509b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-30T07:46:35.683310-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130408",
+      "size": "1462",
+      "md5": "c1f571822e7d05343cf65f992ed3170f",
+      "crc32": "f34f9cd5",
+      "sha1": "42377dddd453588ac4e62406f46f9685e862133b",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-30T07:46:35.683310-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130410",
+      "size": "9265",
+      "md5": "d6834dee2c32cf1b4ac6dfe28be03ec3",
+      "crc32": "89f589c6",
+      "sha1": "8896bca3eec736aa3c07c5be6650bc59d3c2b85f",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-30T07:46:35.683310-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-30T07:46:35.683310-04:00.jpg",
+      "mtime": "1667131395",
+      "size": "8922",
+      "md5": "e4402473714458f6cdbfbce12c9578e0",
+      "crc32": "11857257",
+      "sha1": "1d7fe5e4d806adc419e05935ea9597e4fa58ecaf"
+    },
+    {
+      "name": "hellgateny-2022-10-30T19:39:16.650320-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667173160",
+      "size": "18405",
+      "md5": "9617504d253e664122ce48109ac75f13",
+      "crc32": "73221397",
+      "sha1": "a2823c68c9172c30d2dbeaaabb0a9e3b2fefadeb",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-30T19:39:16.650320-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667173161",
+      "size": "17012",
+      "md5": "63ed8bea0a1024837dee794e1389db2f",
+      "crc32": "88eeb167",
+      "sha1": "a08030d95e73780fdab450a5a9dc42de2568e5b7",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-30T19:39:16.650320-04:00.jpg",
+      "source": "original",
+      "mtime": "1667173158",
+      "size": "233536",
+      "md5": "1d6e371eccc73d37097f8e0fa858b791",
+      "crc32": "c1423a6d",
+      "sha1": "9114023eb30b8c2a665b38c4c6898d4ef151c7bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-30T19:39:16.650320-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667173163",
+      "size": "1465",
+      "md5": "f9c0b81b41f9e23ae491ca0d20e74995",
+      "crc32": "ed10e19d",
+      "sha1": "47826eefdd53a5af539c89dcda946640e5595b6e",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-30T19:39:16.650320-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667173165",
+      "size": "9095",
+      "md5": "efceefce8f9fff4a6586848620a7f0d8",
+      "crc32": "ca4ec085",
+      "sha1": "14c94a143d0303e5c3e7fecc8001f41dbe017299",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-30T19:39:16.650320-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-30T19:39:16.650320-04:00.jpg",
+      "mtime": "1667173428",
+      "size": "8931",
+      "md5": "91496412f257b208d393781372c0cb82",
+      "crc32": "5db7244b",
+      "sha1": "c844fe5eb31dc26f6a68fa357e0ec0f35572020e"
+    },
+    {
+      "name": "hellgateny-2022-10-31T07:56:50.762613-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667217421",
+      "size": "18405",
+      "md5": "9617504d253e664122ce48109ac75f13",
+      "crc32": "73221397",
+      "sha1": "a2823c68c9172c30d2dbeaaabb0a9e3b2fefadeb",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-31T07:56:50.762613-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667217423",
+      "size": "17012",
+      "md5": "63ed8bea0a1024837dee794e1389db2f",
+      "crc32": "88eeb167",
+      "sha1": "a08030d95e73780fdab450a5a9dc42de2568e5b7",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-31T07:56:50.762613-04:00.jpg",
+      "source": "original",
+      "mtime": "1667217419",
+      "size": "233536",
+      "md5": "1d6e371eccc73d37097f8e0fa858b791",
+      "crc32": "c1423a6d",
+      "sha1": "9114023eb30b8c2a665b38c4c6898d4ef151c7bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-31T07:56:50.762613-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667217424",
+      "size": "1467",
+      "md5": "d5527995b3677c49228184f72928cd7e",
+      "crc32": "b9f5a9d2",
+      "sha1": "f2ec6d81adafa5dae014ebfba8f1a05f900fd4b2",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-31T07:56:50.762613-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667217426",
+      "size": "12799",
+      "md5": "afd5976f09cc1646e12930db8d4ce6a8",
+      "crc32": "31219a3d",
+      "sha1": "abcf6a2548c7be6f6fba18ea81bf577eef59f59c",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-31T07:56:50.762613-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hellgateny-2022-10-31T07:56:50.762613-04:00.jpg",
+      "mtime": "1667219754",
+      "size": "8931",
+      "md5": "91496412f257b208d393781372c0cb82",
+      "crc32": "5db7244b",
+      "sha1": "c844fe5eb31dc26f6a68fa357e0ec0f35572020e"
+    },
+    {
+      "name": "hellgateny-2022-10-31T19:48:36.748793-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667260127",
+      "size": "18441",
+      "md5": "c76d10db2cc0eba678922cfc80575766",
+      "crc32": "00aae01d",
+      "sha1": "b2a129e0d805182a50505ed86b93afad8289503e",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-31T19:48:36.748793-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667260129",
+      "size": "17079",
+      "md5": "0e851080d02267ac9064119ae2d69198",
+      "crc32": "5247ca89",
+      "sha1": "98ce332ad82061b23dac25b90144280148c53d62",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-31T19:48:36.748793-04:00.jpg",
+      "source": "original",
+      "mtime": "1667260125",
+      "size": "238736",
+      "md5": "dc83e0b6d0090d7044758841bec27d4e",
+      "crc32": "77b1aae2",
+      "sha1": "210f572fdcc564421c0014341571a51016eb2c2e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hellgateny-2022-10-31T19:48:36.748793-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667260131",
+      "size": "1461",
+      "md5": "b9aab6ae7965503c89a2d0730e0039aa",
+      "crc32": "e2543378",
+      "sha1": "c6f2004de6e050b6bed176522f98036e0da80798",
+      "format": "JSON"
+    },
+    {
+      "name": "hellgateny-2022-10-31T19:48:36.748793-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667260133",
+      "size": "13133",
+      "md5": "63abcdeb1c186fbdc256214fc9989aac",
+      "crc32": "b19b73ae",
+      "sha1": "66779031dd1443cd74f35cdf7c044f287d1e8a9b",
+      "format": "JSON"
+    },
+    {
       "name": "hellgateny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c55516348683db949d56a681d23ed87d4d06b13",
-      "mtime": "1666702476",
-      "size": "272061",
-      "md5": "440999177786a367b548b0303845056b",
-      "crc32": "57c75b99",
-      "sha1": "18556a140c0e8c395c65dfbf708bddbfae8361c2",
+      "btih": "03f5dbf30b44bfe90beaec9303e83b719bc15545",
+      "mtime": "1667260187",
+      "size": "288354",
+      "md5": "540d767c160d34d775037517a5798cf8",
+      "crc32": "50edb380",
+      "sha1": "80954fef00ea3d317a19dd726bf8855fd4caf364",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hellgateny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec827270eb7c9ec2fbeee169052cbc7b",
+      "md5": "331d537fd9d52a98b9f1b9a5ec2b3644",
       "summation": "md5"
     },
     {
       "name": "hellgateny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666699769",
-      "size": "1613824",
-      "md5": "6b62364cace51416d62fcbd2532a3e89",
-      "crc32": "2bb12449",
-      "sha1": "122376057b8a06dc82afd87e48f80a339a244eb6",
+      "mtime": "1667260138",
+      "size": "1708032",
+      "md5": "fc77161f38f10cd56d0d47b5fe3f4255",
+      "crc32": "aba59b45",
+      "sha1": "50fc7972047f1cb19d58c4c3c546660c4181bfcb",
       "format": "Metadata"
     },
     {
@@ -13300,9 +14095,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1283,
-  "item_last_updated": 1666702476,
-  "item_size": 67086247,
+  "files_count": 1360,
+  "item_last_updated": 1667260187,
+  "item_size": 70804394,
   "metadata": {
     "identifier": "hellgateny-2022",
     "collection": [
@@ -13319,10 +14114,21 @@
     "publicdate": "2022-07-04 21:54:35",
     "addeddate": "2022-07-04 21:54:35"
   },
+  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "uniq": 728835020,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458250890,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1664958859,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia902507.us.archive.org"
   ]
 }

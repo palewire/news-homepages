@@ -1,5 +1,5 @@
 {
-  "created": 1666706262,
+  "created": 1667226911,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/8/items/mydesert-2022",
@@ -27287,31 +27287,786 @@
       "format": "JSON"
     },
     {
+      "name": "mydesert-2022-10-25T06:54:59.698393-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-25T06:54:59.698393-07:00.jpg",
+      "mtime": "1666708626",
+      "size": "8824",
+      "md5": "74c929595bdff8bb85a8c5efb261b2b8",
+      "crc32": "3df7e120",
+      "sha1": "ec7878bb179b53c5885beb932d385f451fc34722"
+    },
+    {
+      "name": "mydesert-2022-10-25T19:29:52.293392-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666751396",
+      "size": "20839",
+      "md5": "d8a39178efc4747a44cec25d4333fcc1",
+      "crc32": "b3e3ff74",
+      "sha1": "793359b0b1874ba0208a6bbd37a0f67747fc2ed9",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-25T19:29:52.293392-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666751398",
+      "size": "41629",
+      "md5": "934ae7b1b71ccf3d69c02456f88865e5",
+      "crc32": "7ea55df0",
+      "sha1": "e3ec570911627855b95413f0940a4058eac65ac7",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-25T19:29:52.293392-07:00.jpg",
+      "source": "original",
+      "mtime": "1666751394",
+      "size": "247038",
+      "md5": "91d9635697f9b9d84ab57b89d4d671de",
+      "crc32": "ad7aa45a",
+      "sha1": "bf404f8fe44058c137698fe97bb7dd10a700ac23",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-25T19:29:52.293392-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666751400",
+      "size": "1486",
+      "md5": "f92e6e9fe33af9c2f3ce8c01ad500b21",
+      "crc32": "5db33eb1",
+      "sha1": "f802183a15cf50ebdb1cc281023ca0c4088d2905",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-25T19:29:52.293392-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666751403",
+      "size": "123816",
+      "md5": "eb6f0992afced554d9c60fae0d70003d",
+      "crc32": "651cc018",
+      "sha1": "b2999fac7bafda06b83761b292ba017181351cd9",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-25T19:29:52.293392-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-25T19:29:52.293392-07:00.jpg",
+      "mtime": "1666752163",
+      "size": "9390",
+      "md5": "aee334b90575f3706c42e62418ca8cdc",
+      "crc32": "58439f6a",
+      "sha1": "46b1d3fd938ca7a35a5038ccccf5d7ff8a4dc867"
+    },
+    {
+      "name": "mydesert-2022-10-26T07:53:55.977821-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796084",
+      "size": "20446",
+      "md5": "75f038403c7036d3aa0f1f497e06710d",
+      "crc32": "a275edd2",
+      "sha1": "451cab42198c83e24a1b12fd8f921a4ef3486a4e",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-26T07:53:55.977821-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796086",
+      "size": "48322",
+      "md5": "2604a23d7e85a5ca303c672a1ff11e45",
+      "crc32": "a5b0d86f",
+      "sha1": "614b7f020a7e1700cd5d5c9a55f466f0a8714d84",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-26T07:53:55.977821-07:00.jpg",
+      "source": "original",
+      "mtime": "1666796081",
+      "size": "240510",
+      "md5": "b9a14004a30b1c33b90c0fb9d5087fe8",
+      "crc32": "85309d7e",
+      "sha1": "e511252ca25bf08829d5a54488c911dba1f7e54f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-26T07:53:55.977821-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796088",
+      "size": "1486",
+      "md5": "2293084b212920e4b7148ec270cd355d",
+      "crc32": "d9199d29",
+      "sha1": "63dab50f72628c509e1e9da27ff9755236834bbd",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-26T07:53:55.977821-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796090",
+      "size": "71464",
+      "md5": "6c10e72722ee5f743ef7449200aee08d",
+      "crc32": "33eda575",
+      "sha1": "a5f17768bbc8156f8aabb581d49e5e54c2b5f7cc",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-26T07:53:55.977821-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-26T07:53:55.977821-07:00.jpg",
+      "mtime": "1666797049",
+      "size": "9174",
+      "md5": "a8cd8dd4bc6d90b5e1d6533a1b3928bb",
+      "crc32": "046ed231",
+      "sha1": "10f1c425ef9330debb6e468065342bfe83f01aa5"
+    },
+    {
+      "name": "mydesert-2022-10-26T19:25:53.979818-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666837558",
+      "size": "21039",
+      "md5": "b96bbc4a2e1ff8a8b3abc70b138ae0bf",
+      "crc32": "009989c4",
+      "sha1": "d20fe687c4a5d0068278d6272aab3c27c7ef0ef3",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-26T19:25:53.979818-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837561",
+      "size": "33309",
+      "md5": "ef3fac018e55f8dda033c20a0bcb4e9a",
+      "crc32": "8b63d650",
+      "sha1": "fd5df607cf961bc349044c3b10d64b073a65266e",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-26T19:25:53.979818-07:00.jpg",
+      "source": "original",
+      "mtime": "1666837556",
+      "size": "238727",
+      "md5": "fc8ba66bc3d1141d7fb237aafb1b2bc3",
+      "crc32": "652dc9da",
+      "sha1": "0f6a4caf3c8b49658e43d7cfcae6ea3ef6fcf896",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-26T19:25:53.979818-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837562",
+      "size": "1486",
+      "md5": "799f73bfda22c86495f9b7b31917c35b",
+      "crc32": "54dc5e24",
+      "sha1": "c134f5dd8a4d9e4bc9416198a83f09361f504652",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-26T19:25:53.979818-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666837564",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-26T19:25:53.979818-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-26T19:25:53.979818-07:00.jpg",
+      "mtime": "1666862912",
+      "size": "8906",
+      "md5": "de093476ba09f31c35a8b2ef8aa4cee4",
+      "crc32": "bec62acc",
+      "sha1": "9c51a3d1e62edb082c832aed3f2add6422ced9d3"
+    },
+    {
+      "name": "mydesert-2022-10-27T07:12:10.346650-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666879951",
+      "size": "20808",
+      "md5": "8f0ef83a5cd5b9630763120368645a74",
+      "crc32": "eeb46faa",
+      "sha1": "9c397ecace510a9da4f89e8000862197cb734d03",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-27T07:12:10.346650-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666879955",
+      "size": "33846",
+      "md5": "55f80b83e36ec64844cd048ca2b1151b",
+      "crc32": "1ce4f08f",
+      "sha1": "431c84396b25d629cfca99af0516fefbbee41bf9",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-27T07:12:10.346650-07:00.jpg",
+      "source": "original",
+      "mtime": "1666879950",
+      "size": "246259",
+      "md5": "d3ddf66da3e006bdab3222db39c16cde",
+      "crc32": "67834514",
+      "sha1": "53a1e226f8988f865686fbf18367a761fdcc60a5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-27T07:12:10.346650-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666879957",
+      "size": "1485",
+      "md5": "93cea764f60741b7715d0761016e151d",
+      "crc32": "9c6d7e8e",
+      "sha1": "ff6358cb2eb3a29c78b5dc5e0a065105959bde70",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-27T07:12:10.346650-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666879959",
+      "size": "94780",
+      "md5": "201c55fc1472e2fb2ab8c31c593167bf",
+      "crc32": "0a06eda4",
+      "sha1": "a79314c134e660cbc5714d7890c92e2804fef31f",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-27T07:12:10.346650-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-27T07:12:10.346650-07:00.jpg",
+      "mtime": "1666893519",
+      "size": "8747",
+      "md5": "4d8bedeed04a7ce667bc90c40d70a443",
+      "crc32": "350620db",
+      "sha1": "32e89b86076da003aa0c67c2139dac5017a53dca"
+    },
+    {
+      "name": "mydesert-2022-10-27T19:26:47.792251-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666924031",
+      "size": "22686",
+      "md5": "7ecd38410fa664a1b33f5b777033d255",
+      "crc32": "0bb647e2",
+      "sha1": "5b4b99af1f7d91e7a6e4560967f5ced2d9fe6f96",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-27T19:26:47.792251-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666924032",
+      "size": "29701",
+      "md5": "6c13b271976cc9d235edb6ad8cd29d68",
+      "crc32": "43a480e7",
+      "sha1": "3c81cd015bbdb0c9995e97ecff385e4e2d62b531",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-27T19:26:47.792251-07:00.jpg",
+      "source": "original",
+      "mtime": "1666924029",
+      "size": "277569",
+      "md5": "93c8182246552d060df31d039fff6092",
+      "crc32": "c00bcb70",
+      "sha1": "9c6076ea3e611ebb0951cc4233f9c68004a58f09",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-27T19:26:47.792251-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666924034",
+      "size": "1486",
+      "md5": "81eedc6519208f8bad40cba4939e875a",
+      "crc32": "908a4453",
+      "sha1": "ee420120779b1854d767abc56cf890a72fca4236",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-27T19:26:47.792251-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666924036",
+      "size": "102",
+      "md5": "68a977f3ddebb2549918a507a77cbc8b",
+      "crc32": "7f102d3e",
+      "sha1": "a6f1b51eef01a4a75c7423ce79a4ec0f0784e9e6",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-27T19:26:47.792251-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-27T19:26:47.792251-07:00.jpg",
+      "mtime": "1666925464",
+      "size": "9424",
+      "md5": "218f3ae89056cfdcc8c53444313a493c",
+      "crc32": "1928b93a",
+      "sha1": "38e29ca5fd07b485faa58983435a7cb8310429b4"
+    },
+    {
+      "name": "mydesert-2022-10-28T07:02:46.317377-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666965769",
+      "size": "20522",
+      "md5": "602d0baf9c7a7c5cad6174006bd7c7ca",
+      "crc32": "45d4b3de",
+      "sha1": "faa277296b545d29c784a06b13cd09ab41e9e974",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-28T07:02:46.317377-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666965772",
+      "size": "30386",
+      "md5": "8562b92b715f75be430722d8159805a1",
+      "crc32": "b3647b1d",
+      "sha1": "4980103112aea072d67ee2f72d660b4a01d3991b",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-28T07:02:46.317377-07:00.jpg",
+      "source": "original",
+      "mtime": "1666965767",
+      "size": "232865",
+      "md5": "2a56920c4f19217d39fd8d064e1f15fe",
+      "crc32": "16150b83",
+      "sha1": "06f9f79775ff7435ad0f468ff50888564668c808",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-28T07:02:46.317377-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666965774",
+      "size": "1486",
+      "md5": "4baa1f87e3c7d29ddb45cfa673363994",
+      "crc32": "49589a33",
+      "sha1": "79d817c2a1dbccbf423df6e777d09ef98e8ef023",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-28T07:02:46.317377-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666965776",
+      "size": "97974",
+      "md5": "88fd9094c934c67d010895f194e517da",
+      "crc32": "56553f1c",
+      "sha1": "ac3b4f887c1a04f79e399bd475b6392bd248b69f",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-28T07:02:46.317377-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-28T07:02:46.317377-07:00.jpg",
+      "mtime": "1666970801",
+      "size": "9071",
+      "md5": "34084c9adf58f8ec3ebbda4df355e133",
+      "crc32": "0d9f9fdf",
+      "sha1": "b428d4d0dff1ec2f6daa05ec8534fd8d6158cd7a"
+    },
+    {
+      "name": "mydesert-2022-10-28T19:14:36.850066-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667009680",
+      "size": "21220",
+      "md5": "7470c51a40c1ffdd5f63d6c4a063820d",
+      "crc32": "15b0fb71",
+      "sha1": "b2917c2b3c99b716820df1464e40558b42abe542",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-28T19:14:36.850066-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667009682",
+      "size": "32398",
+      "md5": "2e62b2fbf096b939fe77ce1d35d4d401",
+      "crc32": "b771f1b8",
+      "sha1": "1b2cef4232a589ba0f17f98c606a4cca529dadc9",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-28T19:14:36.850066-07:00.jpg",
+      "source": "original",
+      "mtime": "1667009678",
+      "size": "272061",
+      "md5": "852f2cc349ed6f45101e4184cd8372f8",
+      "crc32": "42f375f8",
+      "sha1": "b142f8d41b61e5e429c2cbf74507b8634b9fe0b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-28T19:14:36.850066-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667009684",
+      "size": "1486",
+      "md5": "25af08e6b325f58c2d8fe19ed4c51ce8",
+      "crc32": "7b6b81e5",
+      "sha1": "02d82aed5310b72a4d18408b2ef1aaebcbc01226",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-28T19:14:36.850066-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667009686",
+      "size": "102",
+      "md5": "68a977f3ddebb2549918a507a77cbc8b",
+      "crc32": "7f102d3e",
+      "sha1": "a6f1b51eef01a4a75c7423ce79a4ec0f0784e9e6",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-28T19:14:36.850066-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-28T19:14:36.850066-07:00.jpg",
+      "mtime": "1667011360",
+      "size": "9048",
+      "md5": "f4d9873719f9b78076269d6e4af1c383",
+      "crc32": "72ce3075",
+      "sha1": "a0998ef66ce1551e10a2db36204598ab4f44c904"
+    },
+    {
+      "name": "mydesert-2022-10-29T07:02:56.781667-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667052181",
+      "size": "21293",
+      "md5": "4d18759e19c6ac28a841cd21abee812f",
+      "crc32": "a135b023",
+      "sha1": "9edcbeaf51c78f93c9ea634238fddf2769356f7e",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-29T07:02:56.781667-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667052184",
+      "size": "31974",
+      "md5": "771e89c21ab1d9592e177b5df9e6e746",
+      "crc32": "3e91b023",
+      "sha1": "4f29ed4b2aa6924ce96501604bdec2228da33554",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-29T07:02:56.781667-07:00.jpg",
+      "source": "original",
+      "mtime": "1667052179",
+      "size": "263450",
+      "md5": "4374833eab7081376d825bca2ce59f6a",
+      "crc32": "68929730",
+      "sha1": "481c5bdf94d8ed9e905586a92a04d7b8458f1b94",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-29T07:02:56.781667-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667052186",
+      "size": "1486",
+      "md5": "0510e4793d1e450de94f6c2a0bfa55cc",
+      "crc32": "db2b5a22",
+      "sha1": "e9b1155f3ff77eba6d1b0f92514e225156a6c571",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-29T07:02:56.781667-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667052188",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-29T07:02:56.781667-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-29T07:02:56.781667-07:00.jpg",
+      "mtime": "1667053884",
+      "size": "9202",
+      "md5": "f2962a8e41b6e70701314e658be955b0",
+      "crc32": "2363e7cf",
+      "sha1": "b06b649914c1e116cee39a38426d48f4ee03691d"
+    },
+    {
+      "name": "mydesert-2022-10-29T19:06:33.368902-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667095632",
+      "size": "20857",
+      "md5": "a28744037869bd98d3cb553bef3a672d",
+      "crc32": "0cb10749",
+      "sha1": "e976592d487b171db88d89da06156a0799a4a02f",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-29T19:06:33.368902-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095634",
+      "size": "38602",
+      "md5": "645f66c17ae03b177628dfb49af9e56e",
+      "crc32": "21bca687",
+      "sha1": "9942abb8d91a3fbf882dbe2d4098ab9f044f62cd",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-29T19:06:33.368902-07:00.jpg",
+      "source": "original",
+      "mtime": "1667095631",
+      "size": "241226",
+      "md5": "e351613e41b4a9909553d9f78ad27a07",
+      "crc32": "8a43d0a0",
+      "sha1": "786c7e99608d3917e33e460f3d5816b1fc28e68c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-29T19:06:33.368902-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095636",
+      "size": "1486",
+      "md5": "51d0cb72a7b1184aed3bf173a3f36b3b",
+      "crc32": "32ba7aaa",
+      "sha1": "509ec2ba81e9728c90cc029e030dee8b0ea07811",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-29T19:06:33.368902-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667095638",
+      "size": "133666",
+      "md5": "6ccb23eb21a116a2d7e85d0f52fdefa7",
+      "crc32": "7ffcc05a",
+      "sha1": "904b774e42b347333a69eb3b6e732e5471e6780e",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-29T19:06:33.368902-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-29T19:06:33.368902-07:00.jpg",
+      "mtime": "1667097091",
+      "size": "8850",
+      "md5": "be1cc6b303444c57d2a3c361e61f3d94",
+      "crc32": "4647fc7d",
+      "sha1": "65efbe29de360470f111f9080a9c2a7b455281b4"
+    },
+    {
+      "name": "mydesert-2022-10-30T06:47:07.288775-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667137667",
+      "size": "21434",
+      "md5": "8f4dc6007039efc4239ecc5c38310995",
+      "crc32": "3f8ec63d",
+      "sha1": "8ac32c719f23fd6116f74c38aff70c807fb55423",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-30T06:47:07.288775-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667137669",
+      "size": "39944",
+      "md5": "e7204c7b0bcfd2cad64961e6d4407a85",
+      "crc32": "28a930dd",
+      "sha1": "a7e158fa80d9f0c2dd189bf69c7ad3e58261a092",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-30T06:47:07.288775-07:00.jpg",
+      "source": "original",
+      "mtime": "1667137665",
+      "size": "256408",
+      "md5": "4574d95aaff1bad79bf6e0ffcb0f443d",
+      "crc32": "77d0f066",
+      "sha1": "ecf1cde3f4517f36b2067db95485e12997253e1a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-30T06:47:07.288775-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667137671",
+      "size": "1486",
+      "md5": "69a874524d840e50ae0699f0ae8e5f42",
+      "crc32": "963e48c7",
+      "sha1": "7db5787cf408549f2a48bef970106d7520412e64",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-30T06:47:07.288775-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667137673",
+      "size": "77541",
+      "md5": "0cfbbfc438e46fe0b33eba6975a7c80b",
+      "crc32": "0925ad76",
+      "sha1": "7c06a26dceed67f5e98e1126c6cafc6da1303ac7",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-30T06:47:07.288775-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-30T06:47:07.288775-07:00.jpg",
+      "mtime": "1667139760",
+      "size": "9130",
+      "md5": "40e380a3b6dd99ecea8c69fd30081b70",
+      "crc32": "f0ab28ca",
+      "sha1": "39a7123b095f09249107394ea08125e48743812e"
+    },
+    {
+      "name": "mydesert-2022-10-30T19:12:51.228466-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667182418",
+      "size": "20730",
+      "md5": "19f1988b14d60aca46931df9cb3a16ab",
+      "crc32": "00b0c9d8",
+      "sha1": "6e591370506f9e0d315e2ef6f1c93bb483d7a3fd",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-30T19:12:51.228466-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667182420",
+      "size": "18233",
+      "md5": "154e7ad51a3523a9f4a8416ee0ee454e",
+      "crc32": "dda62daf",
+      "sha1": "a37d274695cbd3acc087875e5853d48cfb46a4b7",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-30T19:12:51.228466-07:00.jpg",
+      "source": "original",
+      "mtime": "1667182416",
+      "size": "222772",
+      "md5": "3b30586bb21ffb2281b0cb8daabc1a2c",
+      "crc32": "38408dcb",
+      "sha1": "a7578db9a1f3cf30d83a3821285c714d3cb99892",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-30T19:12:51.228466-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667182421",
+      "size": "1484",
+      "md5": "25bdbe4d7cb6ffcefba67371ce1f8da5",
+      "crc32": "9d3eff6f",
+      "sha1": "a1df9e4307941054c50b33da1f99c1d9c8c21c8e",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-30T19:12:51.228466-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667182423",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-30T19:12:51.228466-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-30T19:12:51.228466-07:00.jpg",
+      "mtime": "1667183249",
+      "size": "8954",
+      "md5": "36195827f49806e47ec4ced9d0458f2b",
+      "crc32": "2b062ca3",
+      "sha1": "68d07b3a091378eb930d9c89c4ce51b4bf825553"
+    },
+    {
+      "name": "mydesert-2022-10-31T07:12:32.539365-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667225586",
+      "size": "21408",
+      "md5": "3482c03a013be52958ab5eb81a97037c",
+      "crc32": "0640e68b",
+      "sha1": "8740240227ffe6a21d0bb0dbaa95b337c3afef42",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-31T07:12:32.539365-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667225588",
+      "size": "38951",
+      "md5": "2efb25835428deb78f2cfde4868950ec",
+      "crc32": "97c73b32",
+      "sha1": "e1e16b070133c3fc9bf6890dd394513d543d2b5a",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-31T07:12:32.539365-07:00.jpg",
+      "source": "original",
+      "mtime": "1667225585",
+      "size": "246162",
+      "md5": "3bc5eeb341156ba5260a5d96895209e5",
+      "crc32": "95031a85",
+      "sha1": "8c2337a54c5e3cef2ae125f9e7a3f628a08e4bc7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydesert-2022-10-31T07:12:32.539365-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667225590",
+      "size": "1486",
+      "md5": "99c22628702b158d76bee9ffda862e25",
+      "crc32": "60ccedc1",
+      "sha1": "5538dd68f5dc95234028da2c006fc690edf06bf1",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-31T07:12:32.539365-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667225593",
+      "size": "97902",
+      "md5": "d7bb1cfcee436e9986f37453662db868",
+      "crc32": "f7fa2df5",
+      "sha1": "3531da98e80c9917caef7c1cf95390dc7974d55e",
+      "format": "JSON"
+    },
+    {
+      "name": "mydesert-2022-10-31T07:12:32.539365-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mydesert-2022-10-31T07:12:32.539365-07:00.jpg",
+      "mtime": "1667226637",
+      "size": "8976",
+      "md5": "92b3c60e427f26853800e7bd085f6ab8",
+      "crc32": "200cd2e4",
+      "sha1": "33afc8d9811d55d66f238786ce9a1fe03a0fd550"
+    },
+    {
       "name": "mydesert-2022_archive.torrent",
       "source": "metadata",
-      "btih": "20d0b2cc3142cbfe9256c1e37c72c53053c51eac",
-      "mtime": "1666706256",
-      "size": "553196",
-      "md5": "e68fc611e256d857f217996bf043860b",
-      "crc32": "9fc3ec8f",
-      "sha1": "76c4252d760c0a3a8389b8bd08d2f3e3cb117b3b",
+      "btih": "bb1bc116d4ff02fdbeca7fabfd0cc05c1c3f01df",
+      "mtime": "1667226876",
+      "size": "568536",
+      "md5": "b0149d8ba49bf7b3910041ade8c7a6a2",
+      "crc32": "d4f4285f",
+      "sha1": "6fc46a15a6012a4d04198a0f9fd5e79a1bbb46fb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mydesert-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "69220bf5ebc125c93c2d83e0fd5b6945",
+      "md5": "eefb3bac62d61432625c6335e160a67d",
       "summation": "md5"
     },
     {
       "name": "mydesert-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666706159",
-      "size": "3186688",
-      "md5": "b27b3a79480c81231c7a7738ee262660",
-      "crc32": "9dc40eba",
-      "sha1": "ed6f1b5f1702b2e7b53663c515c01e70f659c3fa",
+      "mtime": "1667225609",
+      "size": "3276800",
+      "md5": "f7787564847c2f2a78aac40043d4aa55",
+      "crc32": "6a082df0",
+      "sha1": "8bb84e000d25c4fbfd6dc1c73fa174c0dfd910d1",
       "format": "Metadata"
     },
     {
@@ -27325,9 +28080,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2625,
-  "item_last_updated": 1666706256,
-  "item_size": 203919644,
+  "files_count": 2698,
+  "item_last_updated": 1667226876,
+  "item_size": 208514198,
   "metadata": {
     "identifier": "mydesert-2022",
     "collection": [
@@ -27344,21 +28099,10 @@
     "publicdate": "2022-03-23 02:08:56",
     "addeddate": "2022-03-23 02:08:56"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451703085,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 912861620,
+  "server": "ia802508.us.archive.org",
+  "uniq": 1813554703,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

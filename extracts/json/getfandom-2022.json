@@ -1,5 +1,5 @@
 {
-  "created": 1666718162,
+  "created": 1667244615,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/getfandom-2022",
@@ -11771,31 +11771,786 @@
       "format": "JSON"
     },
     {
+      "name": "getfandom-2022-10-25T10:14:47.486062-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-25T10:14:47.486062-07:00.jpg",
+      "mtime": "1666719278",
+      "size": "10616",
+      "md5": "ce613a5440534e3b8a2a478115894730",
+      "crc32": "56993213",
+      "sha1": "01185c79d08d282a41e7b01f57ff60b52317c4b8"
+    },
+    {
+      "name": "getfandom-2022-10-25T23:51:13.737638-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666767080",
+      "size": "15465",
+      "md5": "02ccdfb23f07acbc46048259fb11eb8c",
+      "crc32": "182b2b5b",
+      "sha1": "2757e2e1c5f24f68f8d7cb62493dc57a40c210e7",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-25T23:51:13.737638-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666767082",
+      "size": "23828",
+      "md5": "9c551036f1286b400c8cfb717e2e2b84",
+      "crc32": "b8928ba9",
+      "sha1": "8308083f3505b3ca0ebdaee9ac14385c31f105dd",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-25T23:51:13.737638-07:00.jpg",
+      "source": "original",
+      "mtime": "1666767078",
+      "size": "282563",
+      "md5": "512bdf28099af2768fe45690fadc5ecb",
+      "crc32": "37dcf9a8",
+      "sha1": "e3d64704e976289d9982557f5f061cac5ba2fc2d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-25T23:51:13.737638-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666767084",
+      "size": "1456",
+      "md5": "4db0972fcd9f1604a769ef4db752eca9",
+      "crc32": "ce76350b",
+      "sha1": "cbbba1e8d513aeb3d3b81b51bc3d296b942b6a61",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-25T23:51:13.737638-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666767086",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-25T23:51:13.737638-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-25T23:51:13.737638-07:00.jpg",
+      "mtime": "1666767811",
+      "size": "10612",
+      "md5": "331c28cd98ae787512343bdb63fc97d0",
+      "crc32": "900d11b2",
+      "sha1": "bf8d91b27115d6cecca35bdde719315844fb9ed0"
+    },
+    {
+      "name": "getfandom-2022-10-26T12:19:46.911159-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666811996",
+      "size": "15296",
+      "md5": "faabdcb9352c802607527a78ff638534",
+      "crc32": "18eee712",
+      "sha1": "9b3484abcc1bbe5dd29ce27c90faec8a63664543",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-26T12:19:46.911159-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666811999",
+      "size": "23338",
+      "md5": "dcdc49dc3c579076596eff32f1e6a5a0",
+      "crc32": "26eb5888",
+      "sha1": "05300f22703f3b6630a8e00f19d59884f937c3b9",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-26T12:19:46.911159-07:00.jpg",
+      "source": "original",
+      "mtime": "1666811993",
+      "size": "278651",
+      "md5": "e269943c64a5a44b15705e22a66aba28",
+      "crc32": "d5d17d04",
+      "sha1": "b57255e61a20be59fbaf06b06553039fc407ada6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-26T12:19:46.911159-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666812002",
+      "size": "1455",
+      "md5": "0512c8c46a887b61393e4ac45e74a164",
+      "crc32": "1a821f72",
+      "sha1": "efdf103bbfb37debe5e4cf0df60c900e46a70f24",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-26T12:19:46.911159-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666812005",
+      "size": "47155",
+      "md5": "67532fb45221dec5310d8c85010fe2a9",
+      "crc32": "b84be415",
+      "sha1": "f69a96112cdc9ffc2da6ca36d83867c2d091f862",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-26T12:19:46.911159-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-26T12:19:46.911159-07:00.jpg",
+      "mtime": "1666820775",
+      "size": "10764",
+      "md5": "a9663f8edda05f2e0f9e0f9a7865a300",
+      "crc32": "a376870c",
+      "sha1": "7fa2882c2631200bea2b525d1d5320e17d3fe188"
+    },
+    {
+      "name": "getfandom-2022-10-26T23:00:54.850855-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666850459",
+      "size": "15294",
+      "md5": "b3ccc6d79c508e011cbd207885c42695",
+      "crc32": "c7650d48",
+      "sha1": "90d8f25b1df8c98881957b701aa23a39df83a87f",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-26T23:00:54.850855-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666850461",
+      "size": "23336",
+      "md5": "777803ce963b10b5f622cdc0ffcde791",
+      "crc32": "d67f063e",
+      "sha1": "357e9c65324e0100954d3d2b559b20559bdf8840",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-26T23:00:54.850855-07:00.jpg",
+      "source": "original",
+      "mtime": "1666850457",
+      "size": "278605",
+      "md5": "50c5723ad390fbf19276954c45e0c801",
+      "crc32": "9b1136c6",
+      "sha1": "4237347930f3d8853cebf254ec79c838e28eaa34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-26T23:00:54.850855-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666850464",
+      "size": "1455",
+      "md5": "24da06fedcd7e1be07ac03433c2ceb20",
+      "crc32": "016461c2",
+      "sha1": "6a6151298fa0285e9e1ea557be61c05bc8723aab",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-26T23:00:54.850855-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666850465",
+      "size": "43543",
+      "md5": "6e813975204d982a34eed2c1cef94d8a",
+      "crc32": "83cb86e2",
+      "sha1": "954c85133b27ada82f478a2797c01e7da4bf2457",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-26T23:00:54.850855-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-26T23:00:54.850855-07:00.jpg",
+      "mtime": "1666874251",
+      "size": "10759",
+      "md5": "36a1723d632f9ca4ff6f3f4ae2204a52",
+      "crc32": "fef9830c",
+      "sha1": "68a535246f7f94f37d1283919542529a4f47f863"
+    },
+    {
+      "name": "getfandom-2022-10-27T10:58:50.381130-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893533",
+      "size": "15298",
+      "md5": "c8ea597b82c2a4d125a606d7afd03a47",
+      "crc32": "0627fbc8",
+      "sha1": "17a781fce6488575442ac5d12982744fd78fe600",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-27T10:58:50.381130-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893535",
+      "size": "23340",
+      "md5": "c556377c8d37ce781667526bc3af312f",
+      "crc32": "6b42b30c",
+      "sha1": "aeab4b51624287056054c0bca03c87fb8021e10d",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-27T10:58:50.381130-07:00.jpg",
+      "source": "original",
+      "mtime": "1666893531",
+      "size": "278576",
+      "md5": "2d372f432e9ba44fc5c635654c001607",
+      "crc32": "9cbafee3",
+      "sha1": "2575c1bed8b14e31be041111f032efde8686302b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-27T10:58:50.381130-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893536",
+      "size": "1455",
+      "md5": "0d41e6deffff03accfb13ede0f344061",
+      "crc32": "205bba76",
+      "sha1": "7ed20fed79ec925e95a9eac91f4586b9ff59101a",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-27T10:58:50.381130-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893538",
+      "size": "40567",
+      "md5": "394631419c06382f54d149713dfeae36",
+      "crc32": "5b7a021c",
+      "sha1": "98daa0e4097fef19aff05ec162b0e5bcc38bee67",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-27T10:58:50.381130-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-27T10:58:50.381130-07:00.jpg",
+      "mtime": "1666902980",
+      "size": "10761",
+      "md5": "3bf7594f2a6e41a541f07720ab6efd9b",
+      "crc32": "fa3c00ba",
+      "sha1": "e7cf1275b6d5dd44789b410efbf484b64787c993"
+    },
+    {
+      "name": "getfandom-2022-10-28T01:33:34.186034-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946021",
+      "size": "15298",
+      "md5": "42b3bce9fb0f934f351457e7c423209d",
+      "crc32": "58ef8101",
+      "sha1": "984e54781ca990b9546297e6d98112b7c53bdec7",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-28T01:33:34.186034-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946023",
+      "size": "23340",
+      "md5": "5fbe256469a2370949b9491cabffc68a",
+      "crc32": "743fc918",
+      "sha1": "4be463bffcef1d8748096751f3b1ab56038c2cde",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-28T01:33:34.186034-07:00.jpg",
+      "source": "original",
+      "mtime": "1666946019",
+      "size": "278604",
+      "md5": "2f5e69a5cd593bf5d4e0231febc6cec4",
+      "crc32": "f1abe019",
+      "sha1": "8f728eccaf075b731e8ed8f05447f8696371091d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-28T01:33:34.186034-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946024",
+      "size": "1456",
+      "md5": "ad39cd300e64278199b1330cc93cffa9",
+      "crc32": "776f2c44",
+      "sha1": "c2ed695443f0fb0390d19970f4c233d5dd62bdba",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-28T01:33:34.186034-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946026",
+      "size": "230",
+      "md5": "571f7f0b157daa9dffe22b2760ec6434",
+      "crc32": "ea3651ee",
+      "sha1": "b12eeb5c06e4d14b98285f3218131edd68093303",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-28T01:33:34.186034-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-28T01:33:34.186034-07:00.jpg",
+      "mtime": "1666950259",
+      "size": "10757",
+      "md5": "807ac64e4950b607158b1a4902f89545",
+      "crc32": "85a8f134",
+      "sha1": "4bc805f29defcfb2195b7505273c91574c0dd8ae"
+    },
+    {
+      "name": "getfandom-2022-10-28T10:19:53.966242-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666977597",
+      "size": "15298",
+      "md5": "5877e2d4e14985a0c1ff998afe941944",
+      "crc32": "1861d6f3",
+      "sha1": "94f0a758522720a8e5a34c861f73597898281a02",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-28T10:19:53.966242-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666977599",
+      "size": "23340",
+      "md5": "a52f9ba5c1db6a2d8893c0ce7aa842f6",
+      "crc32": "953ade08",
+      "sha1": "a2dc4e89f8ef68c500278aeebe969cae8d400fa9",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-28T10:19:53.966242-07:00.jpg",
+      "source": "original",
+      "mtime": "1666977596",
+      "size": "278602",
+      "md5": "0af7fc613ddb7a03cfbed1effa2b078c",
+      "crc32": "bbca32a3",
+      "sha1": "f2942bcb7f98e7ffcfb2303e24e2a876b39ae1f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-28T10:19:53.966242-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666977603",
+      "size": "1456",
+      "md5": "abb3a118bae1a9850640671ea9d2c973",
+      "crc32": "ae8078ac",
+      "sha1": "42e49e8498c512c595b35a6d293de064a2c7662d",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-28T10:19:53.966242-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666977606",
+      "size": "230",
+      "md5": "7ba6b8a292a5bad7b659f070c43e48d8",
+      "crc32": "a8d6a644",
+      "sha1": "5e1e60b81c738c22957c654e919107415945314f",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-28T10:19:53.966242-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-28T10:19:53.966242-07:00.jpg",
+      "mtime": "1666980994",
+      "size": "10764",
+      "md5": "ee62712222e4f3245c916b3d75f36a55",
+      "crc32": "ba578a94",
+      "sha1": "dd78d15d0dbb18dd5568628a83b004e6e25afa9d"
+    },
+    {
+      "name": "getfandom-2022-10-28T22:31:53.240247-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667021516",
+      "size": "15298",
+      "md5": "41f367e177e318a48e79145fee49ea38",
+      "crc32": "ff05b9f7",
+      "sha1": "21bfd28f9e61866df412bdcc8e94f175e57292a5",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-28T22:31:53.240247-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667021518",
+      "size": "23340",
+      "md5": "5fe0d31eb9793473f5dd7f9ac16ea363",
+      "crc32": "99954a42",
+      "sha1": "3a733dc4b5dc1db8d2c38fd774031f8794f3132c",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-28T22:31:53.240247-07:00.jpg",
+      "source": "original",
+      "mtime": "1667021514",
+      "size": "278645",
+      "md5": "80484d1b68ba60d44a4edc6cb58e6838",
+      "crc32": "cc396c4a",
+      "sha1": "3b1f07b80deccf0e715255c542b918d85ac99235",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-28T22:31:53.240247-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667021520",
+      "size": "1456",
+      "md5": "ebd87f56e8c6607ba0fd024b8210db34",
+      "crc32": "026f3b34",
+      "sha1": "77f5177d35b158a5fa0eadb101095af82fe60a03",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-28T22:31:53.240247-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667021521",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-28T22:31:53.240247-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-28T22:31:53.240247-07:00.jpg",
+      "mtime": "1667024491",
+      "size": "10761",
+      "md5": "ff66c489d29024bd011432201d806d03",
+      "crc32": "56efe307",
+      "sha1": "2680bb7d63545a90537dee8932f3cb62a6c5f56e"
+    },
+    {
+      "name": "getfandom-2022-10-29T10:59:47.013506-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667066390",
+      "size": "14852",
+      "md5": "3744978016e76c2d6dcb24721aac92ee",
+      "crc32": "74b08c8e",
+      "sha1": "50c501d759093a3d084c15ab6fa88dd8d65a5a94",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-29T10:59:47.013506-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667066392",
+      "size": "23340",
+      "md5": "ab764d291de93eb52bc9eb129ae32c82",
+      "crc32": "531d25f1",
+      "sha1": "d830e614180d3c65537eca974d0476bcef4dd384",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-29T10:59:47.013506-07:00.jpg",
+      "source": "original",
+      "mtime": "1667066388",
+      "size": "278662",
+      "md5": "57e0cc9ccb445c2e619e64c6fc940457",
+      "crc32": "0e7a04df",
+      "sha1": "c32298618cf26579e5b9c9f98cf82b451f2c0892",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-29T10:59:47.013506-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667066394",
+      "size": "1456",
+      "md5": "52513af470e1bd850f7f9e05076194ea",
+      "crc32": "792f406b",
+      "sha1": "0a42b4876fea554703b65ffab0d3b5385349c8e2",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-29T10:59:47.013506-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667066396",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-29T10:59:47.013506-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-29T10:59:47.013506-07:00.jpg",
+      "mtime": "1667066814",
+      "size": "10761",
+      "md5": "75a2f04eff13d6fa6ee8726bd09be19d",
+      "crc32": "800cb7c7",
+      "sha1": "4c70be08cc878cb554771a226f383ec7e0e98d00"
+    },
+    {
+      "name": "getfandom-2022-10-29T22:40:30.809041-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667108433",
+      "size": "15298",
+      "md5": "df30a53efdd6f5d8caf865e31fd72842",
+      "crc32": "eb21643c",
+      "sha1": "be3bacff5bc2dea2453aec8fa3afb12c23d9d895",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-29T22:40:30.809041-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667108435",
+      "size": "23340",
+      "md5": "f4e465a4eef2bec78734dfbdb63c7eeb",
+      "crc32": "640ea6f6",
+      "sha1": "e304b34d52cfaa34dea58742715998cfe0ccff2e",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-29T22:40:30.809041-07:00.jpg",
+      "source": "original",
+      "mtime": "1667108432",
+      "size": "278586",
+      "md5": "77479f21e8dbb0a5bf31cb55fdf7275e",
+      "crc32": "f341ebac",
+      "sha1": "9ed85d066f699654ff277debc94deaae75f6d68e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-29T22:40:30.809041-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667108436",
+      "size": "1458",
+      "md5": "73e244872722decc770239932673ca0c",
+      "crc32": "50684322",
+      "sha1": "e9307e1f55461d19b8136e7781dccfbe1b8e812c",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-29T22:40:30.809041-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667108440",
+      "size": "46778",
+      "md5": "604fd3d46bb02381a1177773797ea1ff",
+      "crc32": "b8caa74e",
+      "sha1": "f503a79648be148abb7b9e84ca2ef773c63eeb5c",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-29T22:40:30.809041-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-29T22:40:30.809041-07:00.jpg",
+      "mtime": "1667109905",
+      "size": "10764",
+      "md5": "5140d1149d58e12f22bb443e0da60516",
+      "crc32": "fe23932e",
+      "sha1": "276044533ca2311f569a07457f97eeeab371c8d2"
+    },
+    {
+      "name": "getfandom-2022-10-30T10:22:30.869220-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667150554",
+      "size": "15298",
+      "md5": "c6cc4c23332282ccf2f4affbc1e8d388",
+      "crc32": "abaf33ce",
+      "sha1": "36efc1c6e836004f4ff90bfc465c000986a58a0d",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-30T10:22:30.869220-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667150557",
+      "size": "23340",
+      "md5": "9173026201e18b2bc4c2cbd745623098",
+      "crc32": "850bb1e6",
+      "sha1": "6bac7851d9cd21a2925579c854e9bfc2ff323607",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-30T10:22:30.869220-07:00.jpg",
+      "source": "original",
+      "mtime": "1667150552",
+      "size": "278608",
+      "md5": "ecfa6964da6f152c17cf98f55eedb668",
+      "crc32": "cb918b87",
+      "sha1": "5049c464d795970dd09b8706ac87f726a00f5085",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-30T10:22:30.869220-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667150559",
+      "size": "1457",
+      "md5": "b6fe03e6592fae5672b26cb4f36abdca",
+      "crc32": "025de249",
+      "sha1": "3371cf803383cba6955f8c2ee026a0716775b5c4",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-30T10:22:30.869220-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667150561",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-30T10:22:30.869220-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-30T10:22:30.869220-07:00.jpg",
+      "mtime": "1667152279",
+      "size": "10760",
+      "md5": "a7aaafa39060b1035be4118196ac1d86",
+      "crc32": "4146eb7b",
+      "sha1": "072a9c623e8b7e48e9dadcff662a947fcf15e462"
+    },
+    {
+      "name": "getfandom-2022-10-30T23:40:09.808435-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198427",
+      "size": "15306",
+      "md5": "f4b512d4aebfaff9c0faaa64a62e672c",
+      "crc32": "5b557b99",
+      "sha1": "e4a3f334beb09cbc1b135552b6533160e6c33543",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-30T23:40:09.808435-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198429",
+      "size": "23348",
+      "md5": "8fad3d82ff0485b61e28050990fba956",
+      "crc32": "7d6123b5",
+      "sha1": "acd4afa945d9cbd1f376d60e3b2d5db8cf66e559",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-30T23:40:09.808435-07:00.jpg",
+      "source": "original",
+      "mtime": "1667198426",
+      "size": "278847",
+      "md5": "deebdb51c19eaade390abc65da72ca3a",
+      "crc32": "0a2f49a2",
+      "sha1": "e4ce89602acc5a94c337a828e2b76fb66ea832f4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-30T23:40:09.808435-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198431",
+      "size": "1456",
+      "md5": "b9da58dc604f109b1aa3cc8c5012917a",
+      "crc32": "a9f01388",
+      "sha1": "af161863a672df89ad4edfd2cedc6c683cd02734",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-30T23:40:09.808435-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198432",
+      "size": "43078",
+      "md5": "e56a67d098d7505da078c78efd3f19f6",
+      "crc32": "bd48ae68",
+      "sha1": "05c7cad192dd37d919caa46e8f222d960eb9a399",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-30T23:40:09.808435-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-30T23:40:09.808435-07:00.jpg",
+      "mtime": "1667200571",
+      "size": "10756",
+      "md5": "a6a3fda9edc5c80fdea03778e8395602",
+      "crc32": "283b4f85",
+      "sha1": "ac73b594a4515d028a6b1d5565a2a85ee7dfa113"
+    },
+    {
+      "name": "getfandom-2022-10-31T10:50:02.473184-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667238632",
+      "size": "14936",
+      "md5": "200a252f5420a45ad248c96ae060d197",
+      "crc32": "448a5d5a",
+      "sha1": "0411cdab32a5969251933d558ac6cf08a57dcb4d",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-31T10:50:02.473184-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667238634",
+      "size": "23444",
+      "md5": "d0be202c7c6c0f5528dc069a352ff403",
+      "crc32": "8abbd02c",
+      "sha1": "fad04b41dec5b353dcfff56d2dbe0d3a0c4edfc1",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-31T10:50:02.473184-07:00.jpg",
+      "source": "original",
+      "mtime": "1667238631",
+      "size": "274524",
+      "md5": "fc66d574e368a8c564af84c102377160",
+      "crc32": "67175c1a",
+      "sha1": "bdef413b917a69f271bf6997954e769b511de04f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "getfandom-2022-10-31T10:50:02.473184-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667238636",
+      "size": "1456",
+      "md5": "bb62335d7c85acd6ac85b8499ba2a3db",
+      "crc32": "e5c7b464",
+      "sha1": "3402f9d69db9a9f6b0a5d3c48cbc9c2b0e507b1d",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-31T10:50:02.473184-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667238638",
+      "size": "229",
+      "md5": "ae5ff2e813a18b77df16f10491b1770d",
+      "crc32": "f390e481",
+      "sha1": "d20744fe636046c7cecbd7476bc3fb3f73fad93e",
+      "format": "JSON"
+    },
+    {
+      "name": "getfandom-2022-10-31T10:50:02.473184-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "getfandom-2022-10-31T10:50:02.473184-07:00.jpg",
+      "mtime": "1667240016",
+      "size": "10599",
+      "md5": "c918128f9297cc327749a8800a1c6c53",
+      "crc32": "fbe0fc0c",
+      "sha1": "92af0230728683e3129294a5cd2de0ce18bb917d"
+    },
+    {
       "name": "getfandom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "039415b2a9e2cd7661c187a52e0b153dd3865906",
-      "mtime": "1666718156",
-      "size": "241663",
-      "md5": "9b447c13b2a4f658da970ea879058fd5",
-      "crc32": "d321c5dc",
-      "sha1": "c5bb6dbf76fad4375bf4dd6d7c5d156a01a88c67",
+      "btih": "af5a2baa436b27c7a58860bcb65f212bf49a6c9a",
+      "mtime": "1667240038",
+      "size": "257063",
+      "md5": "27052ff997563fb1a1c81cb5bb766855",
+      "crc32": "9fe779e5",
+      "sha1": "e41a643f0f3fc8c8300c2c1c823ddb587e63c373",
       "format": "Archive BitTorrent"
     },
     {
       "name": "getfandom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "961ad9fce5cc5a2d17c5a9c83300d4c8",
+      "md5": "84a3a75c29310c46bb950b53bf751f11",
       "summation": "md5"
     },
     {
       "name": "getfandom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666718106",
-      "size": "1449984",
-      "md5": "dd208212138c805e3cb937bf82029bc3",
-      "crc32": "680d409a",
-      "sha1": "b0ab1fd8d61163118a752996e0aadf196a3c904e",
+      "mtime": "1667238653",
+      "size": "1540096",
+      "md5": "60ea1ad081f5dcb36d94b132e98f14c1",
+      "crc32": "0ae11206",
+      "sha1": "f166048264a02e796e0d2804309e8b8b8105d9c2",
       "format": "Metadata"
     },
     {
@@ -11809,9 +12564,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1141,
-  "item_last_updated": 1666718156,
-  "item_size": 72883202,
+  "files_count": 1214,
+  "getfandom-2022": {
+    "url": "https://www.fandom.com/",
+    "job_id": "spn2-188960549d8fd2f056eda337545946039bf9563f",
+    "message": "The same snapshot had been made 3 minutes, 50 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "item_last_updated": 1667240038,
+  "item_size": 77175322,
   "metadata": {
     "identifier": "getfandom-2022",
     "collection": [
@@ -11828,21 +12588,10 @@
     "publicdate": "2022-07-18 02:22:01",
     "addeddate": "2022-07-18 02:22:01"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451847640,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 267242997,
+  "uniq": 14272486,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666709615,
+  "created": 1667228460,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/25/items/theperrychief-2022",
@@ -5275,31 +5275,899 @@
       "format": "JSON"
     },
     {
+      "name": "theperrychief-2022-10-25T09:52:29.476066-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-25T09:52:29.476066-05:00.jpg",
+      "mtime": "1666712449",
+      "size": "8765",
+      "md5": "d8e64275bf25a8cc540d95f9a73932e4",
+      "crc32": "60665491",
+      "sha1": "f98c30e7fd5c4314c5f0dc442e5161c819b27240"
+    },
+    {
+      "name": "theperrychief-2022-10-25T22:46:10.832016-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666755984",
+      "size": "19717",
+      "md5": "546ba95b8ee8837b9f9db4b8820b8c19",
+      "crc32": "38be8247",
+      "sha1": "738cd32aeedac6a0830801d10d386396094c4080",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-25T22:46:10.832016-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666755986",
+      "size": "28124",
+      "md5": "e66882d54049626286d38e70f5da1e36",
+      "crc32": "1c80de19",
+      "sha1": "7a247343f3af85af71c1c9c2b3dadd0b99bbfc8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-25T22:46:10.832016-05:00.jpg",
+      "source": "original",
+      "mtime": "1666755983",
+      "size": "248719",
+      "md5": "38b96bc4e8a8402be7e8c7d7a7a07748",
+      "crc32": "d84e5f30",
+      "sha1": "331b97c3cdec7ac9eca869d36029879407ddc018",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-25T22:46:10.832016-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666755987",
+      "size": "1837",
+      "md5": "6efade62cdbf3798dbac707185987ccf",
+      "crc32": "6461dae4",
+      "sha1": "722d6a4ea24c29a837cc9e1d368b9a1d533bf399",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-25T22:46:10.832016-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666755991",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-25T22:46:10.832016-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-25T22:46:10.832016-05:00.jpg",
+      "mtime": "1666756166",
+      "size": "8747",
+      "md5": "35b2f8e0729ab4710fe25df50029c6cb",
+      "crc32": "62d8cea3",
+      "sha1": "bd8bc563f9651f739f888995c977ad0bb0ef03d6"
+    },
+    {
+      "name": "theperrychief-2022-10-26T10:05:57.790542-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796765",
+      "size": "20632",
+      "md5": "1f330fc80768d8b5620a063ea94a3a9a",
+      "crc32": "0345614b",
+      "sha1": "4ea038a114ebe6dacf00cb48eb05356d9cd7032f",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-26T10:05:57.790542-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796766",
+      "size": "32242",
+      "md5": "0fe1012e1e7b6c110417fcf286ba1409",
+      "crc32": "a8b49397",
+      "sha1": "dd45ac2b3a0dc92b484b9aab3423a12c27abc977",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-26T10:05:57.790542-05:00.jpg",
+      "source": "original",
+      "mtime": "1666796763",
+      "size": "253864",
+      "md5": "74a0c99748bb758be092baa235ce6192",
+      "crc32": "86008cba",
+      "sha1": "541ac7d976db3eba65d1ffc61a0bab27eb24f40d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-26T10:05:57.790542-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796768",
+      "size": "1837",
+      "md5": "dc5ff385e366e59cd60a1a9b24b110ca",
+      "crc32": "b25f8d58",
+      "sha1": "217127e1be2e8bd404f7f291a40b9f03d20cd6f6",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-26T10:05:57.790542-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796770",
+      "size": "109485",
+      "md5": "45437f7abe9b1baaa3b163db0cbb3cba",
+      "crc32": "bb3fcb5a",
+      "sha1": "654804ddc83170c2f650bfa0427caa648a47eb68",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-26T10:05:57.790542-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-26T10:05:57.790542-05:00.jpg",
+      "mtime": "1666797874",
+      "size": "8860",
+      "md5": "34365c1bc7e559e8090fe189dcf96b97",
+      "crc32": "c93eb63b",
+      "sha1": "79c4b81f8549b3e4a99c2d61e85b8b4938ba7efe"
+    },
+    {
+      "name": "theperrychief-2022-10-26T11:20:03.593701-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666801206",
+      "size": "20935",
+      "md5": "5324d4d5b511c676edc31798413e3814",
+      "crc32": "8510a6f2",
+      "sha1": "f547ff67ae982a60c210868c09f3d8a17066d1af",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-26T11:20:03.593701-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666801208",
+      "size": "37193",
+      "md5": "966d9cd1c5aacc080190e9baf5c0550b",
+      "crc32": "aca318b5",
+      "sha1": "91ae486d92fd9a16784053e977e037774de9544e",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-26T11:20:03.593701-05:00.jpg",
+      "source": "original",
+      "mtime": "1666801205",
+      "size": "262732",
+      "md5": "3bfc9c656a1964db88b32b8d55b8c27e",
+      "crc32": "b77c8bb6",
+      "sha1": "f11ed9109e0d3097db0d9b7512c1411962af80d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-26T11:20:03.593701-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666801210",
+      "size": "1837",
+      "md5": "65a4b50660538fdf14ee0af1b841fd59",
+      "crc32": "d9a84a44",
+      "sha1": "e050d946f7dc177386ca73077d67c7c8b449c72e",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-26T11:20:03.593701-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666801212",
+      "size": "60837",
+      "md5": "90837902f98bef8bc6e5fa5b585908fd",
+      "crc32": "39c012b5",
+      "sha1": "311634c7525baac2c7277bf8b00cd3373ecf9465",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-26T11:20:03.593701-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-26T11:20:03.593701-05:00.jpg",
+      "mtime": "1666803160",
+      "size": "8919",
+      "md5": "0afed8e546d032389fc1437a2d2dd4dc",
+      "crc32": "c888a62a",
+      "sha1": "fb9dd32d89c9c1965055425da07389796927fae7"
+    },
+    {
+      "name": "theperrychief-2022-10-26T22:41:13.335747-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666842079",
+      "size": "21233",
+      "md5": "6767dcac64948e2fb90325c5d95eef86",
+      "crc32": "e8fda22d",
+      "sha1": "cd8028a922e2dfb49e727562ec66ea86491ecd15",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-26T22:41:13.335747-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666842080",
+      "size": "34413",
+      "md5": "ea86708924cd935e790b2fbfa9aa0509",
+      "crc32": "21d85da0",
+      "sha1": "44f60f0dadc7d5134799481ddb6922eef323367b",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-26T22:41:13.335747-05:00.jpg",
+      "source": "original",
+      "mtime": "1666842077",
+      "size": "265425",
+      "md5": "82baec9e56bafe3df441655266c863f2",
+      "crc32": "c1b35f7b",
+      "sha1": "8c94c0423cd938fbb45f8fdcefc363d008b2226b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-26T22:41:13.335747-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666842081",
+      "size": "1837",
+      "md5": "55c44721e11eb13d383719cf68061339",
+      "crc32": "14b6f961",
+      "sha1": "75f4ffc4fbef6fa3d689efc7ca926501e7609200",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-26T22:41:13.335747-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666842083",
+      "size": "71429",
+      "md5": "bab9c3b3a95952ea0d6b2fbb3041fae4",
+      "crc32": "ee4a7bcd",
+      "sha1": "09569e3d23b64ff42fa556e12ab16e9554b09711",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-26T22:41:13.335747-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-26T22:41:13.335747-05:00.jpg",
+      "mtime": "1666866617",
+      "size": "8907",
+      "md5": "daede62380cbd9c413b8166e7232663e",
+      "crc32": "fc29631d",
+      "sha1": "f0966e604d11f4f7788a2dcc1491a6e8353cb91d"
+    },
+    {
+      "name": "theperrychief-2022-10-27T10:11:07.994656-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883475",
+      "size": "14130",
+      "md5": "99c67691aea7110aa6b4bbdfc88109e1",
+      "crc32": "149fcc85",
+      "sha1": "1c945b660bc734b9428cc12f1e0fd8575f727ae0",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-27T10:11:07.994656-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883478",
+      "size": "33633",
+      "md5": "1f737b924bd4339e2264ed0348601c23",
+      "crc32": "d04b068a",
+      "sha1": "dd8e378a2a42861da1e492b561b59260c5c2e555",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-27T10:11:07.994656-05:00.jpg",
+      "source": "original",
+      "mtime": "1666883472",
+      "size": "277700",
+      "md5": "4f84b7c0266fc2402d4346a211fe71dc",
+      "crc32": "41f9b490",
+      "sha1": "74e93efe751cb2ccd440983a6fa69f9833d8ddb0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-27T10:11:07.994656-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883480",
+      "size": "1837",
+      "md5": "5d4497494d4ff42496a1601feb8ce204",
+      "crc32": "f36c72f0",
+      "sha1": "23cd652145f4dbd3ca7834bf4878c41d1f619c5c",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-27T10:11:07.994656-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883482",
+      "size": "90878",
+      "md5": "04fa5c951caf569e3f9d7167e86309a1",
+      "crc32": "64a03c33",
+      "sha1": "5a4b6a7a5e95631cda8aed965a63f3319d2c29c6",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-27T10:11:07.994656-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-27T10:11:07.994656-05:00.jpg",
+      "mtime": "1666898480",
+      "size": "9065",
+      "md5": "cacd2b56aa31f9d5a8fbe419d5d572c5",
+      "crc32": "00f1002f",
+      "sha1": "33c3d4616b90638d167cb23af660aa43318d1d2e"
+    },
+    {
+      "name": "theperrychief-2022-10-27T23:39:31.879844-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666931978",
+      "size": "21529",
+      "md5": "f92d937a0ea73bc8730e598c28367cd1",
+      "crc32": "d8ff991f",
+      "sha1": "6ccde1bcf5a07099f3f9eae69854481ff1a3b6e4",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-27T23:39:31.879844-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666931979",
+      "size": "28279",
+      "md5": "a2dbce1fb1a3f7b8c43520e503ef7d2f",
+      "crc32": "2d086984",
+      "sha1": "f35aad3a7722779e14cb58ea55f62b2c7a16eec7",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-27T23:39:31.879844-05:00.jpg",
+      "source": "original",
+      "mtime": "1666931976",
+      "size": "276344",
+      "md5": "53d57cb6d92a7e970a1cbe16f98207d3",
+      "crc32": "3e59a6d7",
+      "sha1": "62b20830f9d13502d316c45d362838b57305071f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-27T23:39:31.879844-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666931984",
+      "size": "1837",
+      "md5": "5feb35e84632b7cf8a45fe4825560966",
+      "crc32": "ea6c7175",
+      "sha1": "42438e4d91ae3bc76134bb9f6378b679de0da48e",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-27T23:39:31.879844-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666931985",
+      "size": "50777",
+      "md5": "151b6b2b72099055a8efebca8009f3a9",
+      "crc32": "4f83336f",
+      "sha1": "ceb326856821adce34eaa46512b3c2c2785c2702",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-27T23:39:31.879844-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-27T23:39:31.879844-05:00.jpg",
+      "mtime": "1666933399",
+      "size": "9015",
+      "md5": "355ad5c9be5ed1ab29abf30fd32b5fa6",
+      "crc32": "5e13ae2c",
+      "sha1": "95d8605d40610f4f2302dfba11200d7dd74b3f48"
+    },
+    {
+      "name": "theperrychief-2022-10-28T09:45:50.196371-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968352",
+      "size": "20961",
+      "md5": "65794d8b261a59f2d96d0d94a58f1979",
+      "crc32": "23d1c6b9",
+      "sha1": "fec8f87320179b90f317dd516062cdbd7104c1f5",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-28T09:45:50.196371-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968354",
+      "size": "29508",
+      "md5": "1f20ed15b8aaaea5b2f651f1d40b05ba",
+      "crc32": "de5b5a34",
+      "sha1": "98d6fe316ffc9fccc3fd3d81fa407fdc9ecbefcf",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-28T09:45:50.196371-05:00.jpg",
+      "source": "original",
+      "mtime": "1666968351",
+      "size": "261002",
+      "md5": "b85542e9bc23dfdebe6e4d8ebe2fcf27",
+      "crc32": "b7f5881f",
+      "sha1": "1c46d41af99f58a2f7a9f368e7117bedfb824bb6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-28T09:45:50.196371-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968355",
+      "size": "1837",
+      "md5": "b7385ec25fc6283b21b0676503b05088",
+      "crc32": "a54f68b0",
+      "sha1": "8df9d0c9213811b01d85bbe0cd396e24960236ff",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-28T09:45:50.196371-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968357",
+      "size": "254",
+      "md5": "c0fff4c3169f27e429311ad7c65dda13",
+      "crc32": "8b60576f",
+      "sha1": "a493f15e22820009d50588bb714b332252f4ff38",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-28T09:45:50.196371-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-28T09:45:50.196371-05:00.jpg",
+      "mtime": "1666972792",
+      "size": "8967",
+      "md5": "01bc40c337dfc12e7bb84ae529d3d26f",
+      "crc32": "d32c527e",
+      "sha1": "680bdb966be5576c259e3e5aedc8c3721293058f"
+    },
+    {
+      "name": "theperrychief-2022-10-28T10:59:06.734518-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972751",
+      "size": "21382",
+      "md5": "ec6818da45505e30d6962c737bfa77a7",
+      "crc32": "3c787220",
+      "sha1": "b4f67b2f0d582e72abc54d3975a71da5a3f6cc43",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-28T10:59:06.734518-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972753",
+      "size": "13118",
+      "md5": "473965a209527b0f43fb44b4a96410d6",
+      "crc32": "34a2be3f",
+      "sha1": "cdd7bf8109d44ef942196d1f42f65b0dbd09d84e",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-28T10:59:06.734518-05:00.jpg",
+      "source": "original",
+      "mtime": "1666972749",
+      "size": "260726",
+      "md5": "b92d6693b8dd53e9a74309ff920734e7",
+      "crc32": "6837de65",
+      "sha1": "3139d1454ac5c76af1a95a6c8ead92d58f23daf3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-28T10:59:06.734518-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972755",
+      "size": "1837",
+      "md5": "8de25d5e089cddf67aea953792b9075e",
+      "crc32": "b10b5b36",
+      "sha1": "fa07acfb9640ce0ff148a4f89a0d274bdfd6b7ac",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-28T10:59:06.734518-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972757",
+      "size": "254",
+      "md5": "c0fff4c3169f27e429311ad7c65dda13",
+      "crc32": "8b60576f",
+      "sha1": "a493f15e22820009d50588bb714b332252f4ff38",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-28T10:59:06.734518-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-28T10:59:06.734518-05:00.jpg",
+      "mtime": "1666977977",
+      "size": "8984",
+      "md5": "ac7d69c1d1ff2cda3755c7264f8d293a",
+      "crc32": "0b0b10c4",
+      "sha1": "4c87e3ceb67e4e6027503d92db433f3fe5c959f0"
+    },
+    {
+      "name": "theperrychief-2022-10-28T22:31:38.223999-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014302",
+      "size": "19923",
+      "md5": "c0982d141bc31d04cde08951e44f8e4c",
+      "crc32": "785d4067",
+      "sha1": "662cd5bde60097b0c00cdef567ecbf9232e86db7",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-28T22:31:38.223999-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014304",
+      "size": "30220",
+      "md5": "0a77490db0748f4318a86e93fa6528f3",
+      "crc32": "ca54ea6b",
+      "sha1": "4a65e3a1c6a5762bc69be36b4bec0a60001081a6",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-28T22:31:38.223999-05:00.jpg",
+      "source": "original",
+      "mtime": "1667014299",
+      "size": "262215",
+      "md5": "a57e2ce5e62ef24fffcfa37779a218d3",
+      "crc32": "343960f8",
+      "sha1": "b5d5f7acf9b16ff198d3a3641f38f2cdebc80af3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-28T22:31:38.223999-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014306",
+      "size": "1837",
+      "md5": "bc1a355e337399446cd6b0aab41e7418",
+      "crc32": "f3fc5b8f",
+      "sha1": "058b9ccd0bbd2a93edf3f1d5b4f2d13fc3aea3bb",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-28T22:31:38.223999-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014307",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-28T22:31:38.223999-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-28T22:31:38.223999-05:00.jpg",
+      "mtime": "1667015972",
+      "size": "8979",
+      "md5": "a2fe3fd40f2f0bba4d66722a59f1cb29",
+      "crc32": "bbb206e8",
+      "sha1": "794002d96b6d4bde18bfdfe49e4398f2689ff729"
+    },
+    {
+      "name": "theperrychief-2022-10-29T10:07:19.224283-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667056042",
+      "size": "20531",
+      "md5": "a65075a8c2f474e30f34f306bc28c96d",
+      "crc32": "b5eacf6c",
+      "sha1": "2d2ec05930a9d9acd7d5ef7c0292ea45d5138d15",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-29T10:07:19.224283-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667056044",
+      "size": "28508",
+      "md5": "23744de2d21ece3332363cdeeba1dc5e",
+      "crc32": "4b0b1d55",
+      "sha1": "d8239e9fcbd6f2066d70fdd9abd39791e9a06d88",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-29T10:07:19.224283-05:00.jpg",
+      "source": "original",
+      "mtime": "1667056040",
+      "size": "256690",
+      "md5": "96e904a855325081d4d1f9753e02266c",
+      "crc32": "e3314dcd",
+      "sha1": "33a68a7352a013f188ae3173089ef1007564e4fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-29T10:07:19.224283-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667056046",
+      "size": "1835",
+      "md5": "34f9582dd978ca6d06db78f9106fc93f",
+      "crc32": "7bc76490",
+      "sha1": "7c7a323bf202496801f673dc34ada3b69c339c57",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-29T10:07:19.224283-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667056047",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-29T10:07:19.224283-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-29T10:07:19.224283-05:00.jpg",
+      "mtime": "1667057629",
+      "size": "8967",
+      "md5": "f5a46abb5faedfdf499524b9b2f531ff",
+      "crc32": "266f54fe",
+      "sha1": "e4d234713aafe7bffcc46416f5a69ba44f1139c1"
+    },
+    {
+      "name": "theperrychief-2022-10-29T22:29:50.879569-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100615",
+      "size": "20909",
+      "md5": "c46474977ef4e5dcc45b06fc625e8c54",
+      "crc32": "63c61339",
+      "sha1": "c34dcba4a122266a414dd9279227b85b8bfd7628",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-29T22:29:50.879569-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100616",
+      "size": "31989",
+      "md5": "bcfa368b87065989235e4790848a8c22",
+      "crc32": "c9481005",
+      "sha1": "9f0f8cbc475c73a49b0937a58b014bbc91041173",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-29T22:29:50.879569-05:00.jpg",
+      "source": "original",
+      "mtime": "1667100613",
+      "size": "243267",
+      "md5": "75924438c20e46c2054b6aa4df154562",
+      "crc32": "3aa6ef69",
+      "sha1": "bf3bdc2a57ec6b5b0526f091cdba81d2cf157eea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-29T22:29:50.879569-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100618",
+      "size": "1837",
+      "md5": "ac5fd46bef867dd17507c19130684f55",
+      "crc32": "cbb493a4",
+      "sha1": "64d768cb4823f864dccb371328456b66cda5c204",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-29T22:29:50.879569-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100619",
+      "size": "119856",
+      "md5": "93d9ee98614c7bd0779d22d426b05886",
+      "crc32": "5ad11d33",
+      "sha1": "7dec8fc605f68646a0fae1d39ccb6542db8957ad",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-29T22:29:50.879569-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-29T22:29:50.879569-05:00.jpg",
+      "mtime": "1667101451",
+      "size": "8871",
+      "md5": "30405b481568058fa9e099e08f64844c",
+      "crc32": "23ffd946",
+      "sha1": "cbfe842fb3008a60587600bddc11b9b09df31115"
+    },
+    {
+      "name": "theperrychief-2022-10-30T09:40:51.185499-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667140857",
+      "size": "21607",
+      "md5": "188ce55e7572737396f9d01c1bd9dca0",
+      "crc32": "3814580e",
+      "sha1": "c123f049fd1e8d52f1573478d60cd34ab4473b2a",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-30T09:40:51.185499-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667140859",
+      "size": "31528",
+      "md5": "17c6bb75a328e9d9c03792373d0614db",
+      "crc32": "dca028de",
+      "sha1": "85cc5a47a56e3a6de863de380d7c59bd0a325df9",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-30T09:40:51.185499-05:00.jpg",
+      "source": "original",
+      "mtime": "1667140855",
+      "size": "239002",
+      "md5": "7026038faf23120acccdec897cd36473",
+      "crc32": "662b452b",
+      "sha1": "1c20d6b26b15ca7284a06583b3f7539aa9d90b0f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-30T09:40:51.185499-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667140861",
+      "size": "1837",
+      "md5": "4086b7fcfedb4fe0471e809cc113ecc7",
+      "crc32": "55cd21c3",
+      "sha1": "774acff015ed86dff7e3a15e18c468b8069e8793",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-30T09:40:51.185499-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667140862",
+      "size": "91523",
+      "md5": "3af12d652c07cc80636d81933d8cb9e4",
+      "crc32": "6c46b626",
+      "sha1": "e468b3f18e31f23c42f941d067352757bf6ac41c",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-30T09:40:51.185499-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-30T09:40:51.185499-05:00.jpg",
+      "mtime": "1667141569",
+      "size": "8712",
+      "md5": "5608d8fab04a5d9bdaa6e4aaca94170a",
+      "crc32": "215a3ea5",
+      "sha1": "a97a8fe4a4db002237abaacdcdadbfb94259911f"
+    },
+    {
+      "name": "theperrychief-2022-10-30T22:27:21.051833-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667186844",
+      "size": "20273",
+      "md5": "aef6051b4247024eef64f2309cb9e2ae",
+      "crc32": "0aa51af6",
+      "sha1": "3b88d5653788d1ec2c46b01230c86a040928b15e",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-30T22:27:21.051833-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667186845",
+      "size": "28009",
+      "md5": "be2021cfa267db1d7609cd7612195795",
+      "crc32": "68e2d785",
+      "sha1": "3444d96e73c348481c38254cab5d1ffa65fcedb4",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-30T22:27:21.051833-05:00.jpg",
+      "source": "original",
+      "mtime": "1667186842",
+      "size": "238441",
+      "md5": "ed3859c644f4a3f53b2425333d4763cf",
+      "crc32": "3d95ff37",
+      "sha1": "a1d3a94617e237a11cfae7d3affa9a22abfbdcdd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-30T22:27:21.051833-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667186847",
+      "size": "1837",
+      "md5": "8e1b88b5b3bb0991c92e7ad9e151cffe",
+      "crc32": "5a58f40a",
+      "sha1": "1a66d5c991af5a249821d1b09cae1d022b030a9c",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-30T22:27:21.051833-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667186849",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-30T22:27:21.051833-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theperrychief-2022-10-30T22:27:21.051833-05:00.jpg",
+      "mtime": "1667188348",
+      "size": "8714",
+      "md5": "1a37311e28d2f9a376d2fea8f448f025",
+      "crc32": "4b14bdbc",
+      "sha1": "dafa0d4a2c075892a1fbd7b8d35698fa528a716f"
+    },
+    {
+      "name": "theperrychief-2022-10-31T09:59:57.905815-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667228401",
+      "size": "11197",
+      "md5": "4dcb140b98077ff2b272544b47122d33",
+      "crc32": "8c04768d",
+      "sha1": "afff89c327c30b6962360b7ec96a95bbbb17221a",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-31T09:59:57.905815-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667228404",
+      "size": "29544",
+      "md5": "b14b53851bed3ee80888bc46d13edd09",
+      "crc32": "845471a3",
+      "sha1": "9a4228e63767850cb0b8ebe936643e1d1e59a759",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-31T09:59:57.905815-05:00.jpg",
+      "source": "original",
+      "mtime": "1667228399",
+      "size": "227393",
+      "md5": "df1d9230d989d9d31a6f55df9ecbb9c1",
+      "crc32": "d85e14a4",
+      "sha1": "e8087916c3200a7a3a2798860fd9d587b92f0d8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theperrychief-2022-10-31T09:59:57.905815-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667228407",
+      "size": "1836",
+      "md5": "88f49915f9d6fff2b83942ae04ee5275",
+      "crc32": "3f34eb4d",
+      "sha1": "cff3163faa803e9327bc955723eb85216b8eab0b",
+      "format": "JSON"
+    },
+    {
+      "name": "theperrychief-2022-10-31T09:59:57.905815-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667228409",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theperrychief-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d7b3286ba7e25d2d415683959e1dbc958d9552db",
-      "mtime": "1666709611",
-      "size": "111233",
-      "md5": "b85228abf41f7bcdce560a8cf1e6ea13",
-      "crc32": "fdb86f92",
-      "sha1": "9c5e13ecc73c728e0d78ffe39925fbb39848cd49",
+      "btih": "dbc4539227fdd35e804a00d28988fe94c598f0cd",
+      "mtime": "1667228454",
+      "size": "129299",
+      "md5": "5d1b6fdc8f24eb3055f098e15bd096d7",
+      "crc32": "44be9ea0",
+      "sha1": "ddd787622b50dd72ddb0765b09e23d740bcdd12c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theperrychief-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9ab31a4e803e5d8d040541eb93dabe82",
+      "md5": "65f0356c614f1fb9d42e15f7f7954827",
       "summation": "md5"
     },
     {
       "name": "theperrychief-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666709572",
-      "size": "671744",
-      "md5": "075b9cb5e45c95ffa9b1701e8c0d806b",
-      "crc32": "667504ba",
-      "sha1": "ed720a7ac4d412efa7df4e28c9f1354b805dc6b0",
+      "mtime": "1667228413",
+      "size": "778240",
+      "md5": "d4fca4ac010e519ce3e96664b805e547",
+      "crc32": "e13dfc24",
+      "sha1": "fc93e6dd884b7a45f68ca4a0f26532bc77bbe831",
       "format": "Metadata"
     },
     {
@@ -5313,9 +6181,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 514,
-  "item_last_updated": 1666709611,
-  "item_size": 33268850,
+  "files_count": 598,
+  "item_last_updated": 1667228454,
+  "item_size": 38404689,
   "metadata": {
     "identifier": "theperrychief-2022",
     "collection": [
@@ -5337,7 +6205,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451739445,
+      "task_id": 3457850017,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5345,7 +6213,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 408584327,
+  "uniq": 1460712111,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

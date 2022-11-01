@@ -1,5 +1,5 @@
 {
-  "created": 1666695734,
+  "created": 1667257065,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/25/items/boingboing-2022",
@@ -14115,31 +14115,837 @@
       "format": "JSON"
     },
     {
+      "name": "boingboing-2022-10-25T03:58:56.228261-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-25T03:58:56.228261-07:00.jpg",
+      "mtime": "1666697760",
+      "size": "7993",
+      "md5": "0b96f232dedc970e183417f931ad730d",
+      "crc32": "5bd12851",
+      "sha1": "2fb5989236dbdf2321301d4324a543c71eaf0fc2"
+    },
+    {
+      "name": "boingboing-2022-10-25T15:59:40.846626-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738784",
+      "size": "18505",
+      "md5": "bb403f78686aec6add7298a14fd02fb7",
+      "crc32": "5e7af4b8",
+      "sha1": "f76ae38ff9e6c5b55ed9b96338e50ddacd649931",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-25T15:59:40.846626-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738786",
+      "size": "24252",
+      "md5": "ea77fe25f0b80432270200192564134c",
+      "crc32": "9125a5d0",
+      "sha1": "d758cec0e2d5309d71b616e4055ab7802475c91d",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-25T15:59:40.846626-07:00.jpg",
+      "source": "original",
+      "mtime": "1666738782",
+      "size": "198962",
+      "md5": "c6075ad6ed6b413aab4e888cc6c4d1f3",
+      "crc32": "5425751e",
+      "sha1": "fddc8a1b7649e766dd1e767a70c4015f581374aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-25T15:59:40.846626-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666738790",
+      "size": "1459",
+      "md5": "2a34a2bba87665700683c6ae0c85d0d7",
+      "crc32": "ce0ffb1b",
+      "sha1": "d735faa363395d1513d98f3ecd3bb1207ca33309",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-25T15:59:40.846626-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738793",
+      "size": "247",
+      "md5": "3dc552e767776ad7deb0106e6e912d82",
+      "crc32": "2f44d50c",
+      "sha1": "f0da5e2bc133795282f8297c79e3215b4e5c9163",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-25T15:59:40.846626-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-25T15:59:40.846626-07:00.jpg",
+      "mtime": "1666740552",
+      "size": "8275",
+      "md5": "796359eebce96ae29ced8a65b99b2da5",
+      "crc32": "4e358b52",
+      "sha1": "9c52a3509c0d214c731b43398122229f76c5f878"
+    },
+    {
+      "name": "boingboing-2022-10-26T03:54:42.106522-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781701",
+      "size": "17170",
+      "md5": "f395b49453974214c95c080abf83dd89",
+      "crc32": "8fe97864",
+      "sha1": "50b8473498efefb2ddbe01f1cd25c824b8ee5969",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-26T03:54:42.106522-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781703",
+      "size": "24373",
+      "md5": "f092904d3e74d22b754c713adc348d2f",
+      "crc32": "d01d87ad",
+      "sha1": "ec062a3d4fda67e3a25a62a8b284f0bdb077ca56",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-26T03:54:42.106522-07:00.jpg",
+      "source": "original",
+      "mtime": "1666781700",
+      "size": "195185",
+      "md5": "ef05ccf4c28e3cd0c4df00da10bc7f30",
+      "crc32": "b960fe2a",
+      "sha1": "30b4f57648022f0cbf50823a67c9178d101227e6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-26T03:54:42.106522-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781705",
+      "size": "1459",
+      "md5": "e487f8d4c06dc492b7c23fb5811679bd",
+      "crc32": "a6c404df",
+      "sha1": "3446d13d2cfdd022a6cdd21c6c18a4fa4f882c2d",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-26T03:54:42.106522-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781707",
+      "size": "203",
+      "md5": "96a600534707b9283b01bd41c78ec06d",
+      "crc32": "a6528043",
+      "sha1": "aec0e1481a4ea2d83f56f5c920e3422429ac320d",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-26T03:54:42.106522-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-26T03:54:42.106522-07:00.jpg",
+      "mtime": "1666783112",
+      "size": "8207",
+      "md5": "4f408f9f64a7048bcce438ad0945bee7",
+      "crc32": "33a50948",
+      "sha1": "0a094e26cf4a10fc7b5379de912d578bc0113cba"
+    },
+    {
+      "name": "boingboing-2022-10-26T15:58:21.811738-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666825116",
+      "size": "17898",
+      "md5": "b54e2a9afa5991715055bff52c4921ee",
+      "crc32": "699e723b",
+      "sha1": "7fb63bab8c18adbe7da26eb250967d8e58c1c321",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-26T15:58:21.811738-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666825118",
+      "size": "24150",
+      "md5": "5446b59207d3e70c15ae849f4a2e4ffe",
+      "crc32": "e8ab5037",
+      "sha1": "52cce4c7866a35a14c79c8c395a4c42b92754285",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-26T15:58:21.811738-07:00.jpg",
+      "source": "original",
+      "mtime": "1666825114",
+      "size": "210773",
+      "md5": "5c0a8815e606a734f9fd58fb8dfa9cc5",
+      "crc32": "d8df8be4",
+      "sha1": "c5cf07aee8a3b555df60f017d042ccb0cffb0b61",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-26T15:58:21.811738-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666825120",
+      "size": "1459",
+      "md5": "f923b4f5753199514b2e65cc94134d25",
+      "crc32": "f7b6ba30",
+      "sha1": "4f93504223bbb0e35c243fe942d587c8cc73de5f",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-26T15:58:21.811738-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666825121",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-26T15:58:21.811738-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-26T15:58:21.811738-07:00.jpg",
+      "mtime": "1666849481",
+      "size": "8165",
+      "md5": "c85f8cde3121d430bf18bc72a60f9d31",
+      "crc32": "3c1452f5",
+      "sha1": "1666d1a758ba536739c17810eb06e3088784f095"
+    },
+    {
+      "name": "boingboing-2022-10-27T04:05:51.911179-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666868798",
+      "size": "18351",
+      "md5": "730523b7d630a7e8365644ae66aac0ea",
+      "crc32": "77e2378f",
+      "sha1": "5fc77e74ecb73e5e2f9514d66e0759f377f0ae5d",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-27T04:05:51.911179-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666868800",
+      "size": "24259",
+      "md5": "2fefb29846d29b802df6252e4f2489d5",
+      "crc32": "0986d837",
+      "sha1": "e42c85a06f2c33ba70a604d9880dd0d8e8ba74ad",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-27T04:05:51.911179-07:00.jpg",
+      "source": "original",
+      "mtime": "1666868796",
+      "size": "215873",
+      "md5": "585f13a173228e4b57b67fec94d3ef27",
+      "crc32": "91c787b1",
+      "sha1": "5abc8d7e10580243e58c2701bf8922f91fd216a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-27T04:05:51.911179-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666868802",
+      "size": "1459",
+      "md5": "2070efc364aae860f90ebd6ec10af479",
+      "crc32": "0a99b3fd",
+      "sha1": "95efbc1cae75d64ca3252bdfae8197a651a06612",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-27T04:05:51.911179-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666868804",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-27T04:05:51.911179-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-27T04:05:51.911179-07:00.jpg",
+      "mtime": "1666887309",
+      "size": "8177",
+      "md5": "3ad8a39c9e5a527eddecbdc1ba97ab90",
+      "crc32": "33714793",
+      "sha1": "5a6bb9794cbb5ed5a83cd770237bf60bd349f09c"
+    },
+    {
+      "name": "boingboing-2022-10-27T15:48:43.108448-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910953",
+      "size": "18139",
+      "md5": "72c0a4a058869cb5bb36a1c7c6ffd0d3",
+      "crc32": "915c1dc4",
+      "sha1": "d4b9b41ba7c34248ac7c629acd3d1b2448bb5c5f",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-27T15:48:43.108448-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910957",
+      "size": "24578",
+      "md5": "e128d70dcd5f6b901144ff81b1cb48d2",
+      "crc32": "10f094a1",
+      "sha1": "4e326faae521da83406fb98276a36e5e9c30036d",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-27T15:48:43.108448-07:00.jpg",
+      "source": "original",
+      "mtime": "1666910951",
+      "size": "195760",
+      "md5": "25febfbd945816ecd54912404e78aa36",
+      "crc32": "1f639237",
+      "sha1": "161bab87c0e13ab3a8c21d99366f490fc6d9e63d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-27T15:48:43.108448-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910963",
+      "size": "1459",
+      "md5": "7b84097a58105ef157c27253fa2a4d82",
+      "crc32": "ba02e5a2",
+      "sha1": "5344ae50a60695c465abdfe95fe2c1841649c39f",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-27T15:48:43.108448-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910965",
+      "size": "88904",
+      "md5": "e27fbbfe53e6241daf1dbc832c5a2911",
+      "crc32": "e31912f4",
+      "sha1": "f9b5067676686aa01e8f9107d818acba576f3128",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-27T15:48:43.108448-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-27T15:48:43.108448-07:00.jpg",
+      "mtime": "1666913444",
+      "size": "8192",
+      "md5": "0a0deb4e78116069a07dc84083abbc33",
+      "crc32": "7f0f671a",
+      "sha1": "0a5b9e81992d9f11286ae467fdc9c8aa304e0dfc"
+    },
+    {
+      "name": "boingboing-2022-10-28T03:54:29.817509-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666954473",
+      "size": "17171",
+      "md5": "20e4cf3263ad591c34b3bd1445d3946d",
+      "crc32": "ebe8363b",
+      "sha1": "7c7fc0e5d33af71b86f5a47eb75a79de1fede5e1",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-28T03:54:29.817509-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666954474",
+      "size": "24328",
+      "md5": "f27dc29ff830e3ed18ecf073d8387cef",
+      "crc32": "1611e69c",
+      "sha1": "debc9ae3b5f599b2e9a222a0a6c1e51496ac6197",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-28T03:54:29.817509-07:00.jpg",
+      "source": "original",
+      "mtime": "1666954471",
+      "size": "187132",
+      "md5": "2559861719374a05e54626db0e97a9db",
+      "crc32": "16d7db49",
+      "sha1": "85f4ea63ee9add5d07901eb92fb4356f7a6613bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-28T03:54:29.817509-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666954477",
+      "size": "1459",
+      "md5": "2a74050d324076b284bd9fb6464ea128",
+      "crc32": "93b45f36",
+      "sha1": "c2d9a77bf92f5296bc0d374c7fba83a6b58f81b5",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-28T03:54:29.817509-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666954479",
+      "size": "247",
+      "md5": "e7ae1eacb8b3c75dad76e779261ab5eb",
+      "crc32": "5828dfd0",
+      "sha1": "8b1f1584aff2ab27468f5b0d8105a20c59ac1b6a",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-28T03:54:29.817509-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-28T03:54:29.817509-07:00.jpg",
+      "mtime": "1666960282",
+      "size": "8148",
+      "md5": "ed32aa19f40d7d455aa2f4e3d67ffb3e",
+      "crc32": "1185b1c5",
+      "sha1": "60b484fa820022322f8c60a1a6824499ee96d74e"
+    },
+    {
+      "name": "boingboing-2022-10-28T16:06:04.882275-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666998374",
+      "size": "16958",
+      "md5": "10e36cf417857e54146fba3b05f341fb",
+      "crc32": "289d9ae2",
+      "sha1": "db459084844db9b044dadbc9ed6d4c658f53b393",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-28T16:06:04.882275-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666998375",
+      "size": "24023",
+      "md5": "594e846fbdce36cc28fb866c809d354c",
+      "crc32": "e95007cd",
+      "sha1": "d8f3ecf945a73eef7485d58542e7cce2a8952787",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-28T16:06:04.882275-07:00.jpg",
+      "source": "original",
+      "mtime": "1666998372",
+      "size": "189222",
+      "md5": "0927ae3c512fd514874e0813519422ba",
+      "crc32": "6773d7ed",
+      "sha1": "ca401853e44dd1e790df53c3dccac070f4693444",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-28T16:06:04.882275-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666998377",
+      "size": "1459",
+      "md5": "59b12df0c62e9ffdaaf3614e492a3638",
+      "crc32": "b6c8be78",
+      "sha1": "754784af0c39b0234da35340baa953fc9aea1ab0",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-28T16:06:04.882275-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666998378",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-28T16:06:04.882275-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-28T16:06:04.882275-07:00.jpg",
+      "mtime": "1666999503",
+      "size": "8150",
+      "md5": "b4092c754db31a6144babcdc2b740071",
+      "crc32": "f9d845c7",
+      "sha1": "661ce3c46cdeadab28263ff6e92231673825dab4"
+    },
+    {
+      "name": "boingboing-2022-10-29T03:53:38.519230-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040822",
+      "size": "16974",
+      "md5": "d35477a6a890714c46736540acb27535",
+      "crc32": "d78c8aa6",
+      "sha1": "816c940633f47d0ed4fe1264f7581ece7ec83602",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-29T03:53:38.519230-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040824",
+      "size": "24015",
+      "md5": "0f4f896b9e3c76fe0c5c75facbf00ec8",
+      "crc32": "9011c433",
+      "sha1": "fab8ff82fac8f64859c04ca11186975c833cf97f",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-29T03:53:38.519230-07:00.jpg",
+      "source": "original",
+      "mtime": "1667040820",
+      "size": "189317",
+      "md5": "3ca192ca4b34bab1beb66fa806c58f12",
+      "crc32": "61fccc39",
+      "sha1": "f3fdacae60db01c2cece82c20b296e6ca7b17d8e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-29T03:53:38.519230-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040830",
+      "size": "1459",
+      "md5": "27f5f95ee41b9d4a2cf2b492b40a1f9f",
+      "crc32": "f8fda8fd",
+      "sha1": "4692485392af0238429af8b823ef309deb7d94c4",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-29T03:53:38.519230-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040832",
+      "size": "83504",
+      "md5": "a93ae396339bd196271ce398ecf6253c",
+      "crc32": "6e4c7020",
+      "sha1": "6ffa161f3ec92e0b04993b14c3d2f54bb2f793c2",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-29T03:53:38.519230-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-29T03:53:38.519230-07:00.jpg",
+      "mtime": "1667041661",
+      "size": "8215",
+      "md5": "23ece12db90675a4b9efa9d9cfb42bfc",
+      "crc32": "338cd828",
+      "sha1": "099b53a24c21648d6a2972e1d6ef87d7352e8478"
+    },
+    {
+      "name": "boingboing-2022-10-29T15:52:41.109550-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667083970",
+      "size": "17952",
+      "md5": "602837cb64906e87ef9382e211d1e6f2",
+      "crc32": "2b89aa0b",
+      "sha1": "ffb14f89d9f46f1db85c06192aba01ff707e428f",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-29T15:52:41.109550-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667083972",
+      "size": "24072",
+      "md5": "b69051e547753019130149046f96de2e",
+      "crc32": "17b58efe",
+      "sha1": "f364d79e3615ce902c7248d19cae6f152394334b",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-29T15:52:41.109550-07:00.jpg",
+      "source": "original",
+      "mtime": "1667083969",
+      "size": "198258",
+      "md5": "dd0de16c61841c7a33d76d58cb1c8290",
+      "crc32": "4bf63e5d",
+      "sha1": "03a967d0d79fa36dc83b19dcafaea2013c33b66d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-29T15:52:41.109550-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667083973",
+      "size": "1459",
+      "md5": "692bac9c1e8507e8ac91f7ea5a13526b",
+      "crc32": "954c3620",
+      "sha1": "e7aa41f0bcfe79513a53d7e9dca6a3ebd95f6728",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-29T15:52:41.109550-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667083975",
+      "size": "56344",
+      "md5": "beced8c2540b240f80f32fca0b72c4d2",
+      "crc32": "1004e5bf",
+      "sha1": "e56e1ddfd25b51a54cb25783f1ccc93f1da314f3",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-29T15:52:41.109550-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-29T15:52:41.109550-07:00.jpg",
+      "mtime": "1667084886",
+      "size": "8136",
+      "md5": "be21b0c4ee594a42dfb9597988152700",
+      "crc32": "3749ca00",
+      "sha1": "1f79645a0cffcaeb1c36697d530c427f2bb24a0f"
+    },
+    {
+      "name": "boingboing-2022-10-30T03:48:16.632079-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126899",
+      "size": "17996",
+      "md5": "9fc87109baf6736744388c6a95602178",
+      "crc32": "07a0a4d3",
+      "sha1": "c92e0bfddfa06e2691786fcad40dd4052f3f374b",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-30T03:48:16.632079-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126900",
+      "size": "24161",
+      "md5": "4de113a7c2719988c46a2d8249e647ba",
+      "crc32": "3bc8570f",
+      "sha1": "262c7580ba4a5368d0963cbbaa1eb87b70bbdc65",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-30T03:48:16.632079-07:00.jpg",
+      "source": "original",
+      "mtime": "1667126897",
+      "size": "210301",
+      "md5": "4467883a894fcde376472ec1ecc928b2",
+      "crc32": "3bdac1ab",
+      "sha1": "29f996afc52257aee69d9dfebf7b9f184ec48aae",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-30T03:48:16.632079-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126902",
+      "size": "1459",
+      "md5": "ec74cb37a3bbf936d10cfa597864e387",
+      "crc32": "6aaa0a9c",
+      "sha1": "d1349558abab5591d9a3ce01dc1fb8accd50db60",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-30T03:48:16.632079-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126903",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-30T03:48:16.632079-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-30T03:48:16.632079-07:00.jpg",
+      "mtime": "1667129432",
+      "size": "8312",
+      "md5": "34871738df67b443a2984d730803b43b",
+      "crc32": "81d892cb",
+      "sha1": "b5f68d8c3372d3b6d601cd832458960db1c04bfd"
+    },
+    {
+      "name": "boingboing-2022-10-30T15:41:27.240666-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667169707",
+      "size": "17713",
+      "md5": "47d156cdcb7a5982ac40cd6640f638b5",
+      "crc32": "d11940ff",
+      "sha1": "5614dadbadf7e504317cf514a60fec8aec7b81ec",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-30T15:41:27.240666-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667169709",
+      "size": "23425",
+      "md5": "43498e7fb8d5ce712973bc1a56d79ea4",
+      "crc32": "969fa8a0",
+      "sha1": "c82859062324b7dc60faa28e74d2f9b0b326f9cb",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-30T15:41:27.240666-07:00.jpg",
+      "source": "original",
+      "mtime": "1667169705",
+      "size": "192828",
+      "md5": "4b505c26ae9510b6c334231ab0b9892c",
+      "crc32": "b607823c",
+      "sha1": "018acd476c936527c8010660a643dd544cee50fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-30T15:41:27.240666-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667169711",
+      "size": "1459",
+      "md5": "3067db681c091a646cd13f5bfd2ea2a0",
+      "crc32": "210cc40c",
+      "sha1": "b57625ee30ebd3de5312cbea8c817df62c52087e",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-30T15:41:27.240666-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667169713",
+      "size": "80215",
+      "md5": "dfcc2aa4b634bb85d4816388a67f8adb",
+      "crc32": "f36b427c",
+      "sha1": "942015b1c8af03d274fdb3f9f178ea1202ce42ef",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-30T15:41:27.240666-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-30T15:41:27.240666-07:00.jpg",
+      "mtime": "1667170291",
+      "size": "7982",
+      "md5": "63d7c444d032ffbacb559a2d55a5be4e",
+      "crc32": "0eace1d2",
+      "sha1": "c583ab31d8bd8db1786a358279332893abb875e0"
+    },
+    {
+      "name": "boingboing-2022-10-31T03:49:57.588229-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667213409",
+      "size": "17702",
+      "md5": "b5f0a498d14e75a96726b27a74c2b93a",
+      "crc32": "3eab867b",
+      "sha1": "07b2eed5023e85b951e701ee6e4a56c4a771dfd2",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-31T03:49:57.588229-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667213412",
+      "size": "23369",
+      "md5": "b3099c7b065901cee3569d36c0ecca7d",
+      "crc32": "abcee2f0",
+      "sha1": "57d1dd8cf3a59f71ef416643743269f15911d2a1",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-31T03:49:57.588229-07:00.jpg",
+      "source": "original",
+      "mtime": "1667213407",
+      "size": "191205",
+      "md5": "57616e2e77a093d94b4fe70a49c433d3",
+      "crc32": "38fcf988",
+      "sha1": "3816f62e416904449c12687c7f678c2195c727a4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-31T03:49:57.588229-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667213414",
+      "size": "1459",
+      "md5": "2a92d28fbf20655e83dbcd2abb5b12ad",
+      "crc32": "690879fe",
+      "sha1": "3e1126c44862b67e8782b766dab8f592c96d3abd",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-31T03:49:57.588229-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667213416",
+      "size": "125936",
+      "md5": "ac5f53652a2e7a8b250590b5aaa93175",
+      "crc32": "5f8c3655",
+      "sha1": "002b2a49794341bc2953e31efa3ad11cfdb42970",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-31T03:49:57.588229-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-10-31T03:49:57.588229-07:00.jpg",
+      "mtime": "1667214144",
+      "size": "7979",
+      "md5": "b7823bf0cfc1110754ad326fa53e4789",
+      "crc32": "96a2c4c4",
+      "sha1": "772ab45d7f932736fb89e33ae8014ec4f2805535"
+    },
+    {
+      "name": "boingboing-2022-10-31T15:56:12.137306-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667256985",
+      "size": "16983",
+      "md5": "5ddb5f422b093e025b528be097d31735",
+      "crc32": "10a6eac8",
+      "sha1": "56855323fdd62f46d76c431c0b7dc3c40618644b",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-31T15:56:12.137306-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667256987",
+      "size": "23973",
+      "md5": "e0d90b6074f354356e0bfa8dfee5a1eb",
+      "crc32": "8894a270",
+      "sha1": "5450d3b8352e07f1f1ba5672df63e5985ac81c1e",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-31T15:56:12.137306-07:00.jpg",
+      "source": "original",
+      "mtime": "1667256983",
+      "size": "178744",
+      "md5": "52a515d16dc608e333f3bb146b0dee33",
+      "crc32": "1555ae5c",
+      "sha1": "655ef6ce747f89382fe5a4a8bdb168d449e59647",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "boingboing-2022-10-31T15:56:12.137306-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667256989",
+      "size": "1459",
+      "md5": "abe55f928b6329e10e53fb205f63c666",
+      "crc32": "3d3e5707",
+      "sha1": "e4caed54c2baed66effd98b4c89e0568220b3a7a",
+      "format": "JSON"
+    },
+    {
+      "name": "boingboing-2022-10-31T15:56:12.137306-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667256990",
+      "size": "94900",
+      "md5": "d3e4b4124eb119093f3bfd7e5fb25914",
+      "crc32": "e4104abe",
+      "sha1": "fef914b85d842b56cb9068d380ca6eecb9004c7c",
+      "format": "JSON"
+    },
+    {
       "name": "boingboing-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fb8e0245421784ac96549b827b24f5197ece1934",
-      "mtime": "1666695723",
-      "size": "288545",
-      "md5": "6425d6c78c920d02ad4b6edb38160542",
-      "crc32": "66212437",
-      "sha1": "07acb057e82a4f27c271ab4ce8ca92bdf89c8060",
+      "btih": "adc6793237f55643ddb76b7949b24fbfab5f6d32",
+      "mtime": "1667257055",
+      "size": "305039",
+      "md5": "d868dbbc4be2dbe1faa9cde32b505607",
+      "crc32": "99383752",
+      "sha1": "d6ff2f01d10674d5da1e5c1f4dbb4a0ba5d7dd8a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "boingboing-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0cdad49c0d677969177f168f996f866d",
+      "md5": "ec93ae89e5b8e68152710dfc177f92ae",
       "summation": "md5"
     },
     {
       "name": "boingboing-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695669",
-      "size": "1687552",
-      "md5": "8bb75ae3140c8c4acdb3ca418a3387cd",
-      "crc32": "262e2736",
-      "sha1": "3e327f6371815be1744e8f9fb401c6d2626264e0",
+      "mtime": "1667256996",
+      "size": "1781760",
+      "md5": "a61ad173210f72eda7f93fbda83c9886",
+      "crc32": "d036f87a",
+      "sha1": "4f9bd7bec383b410f68fff088dd93646238db482",
       "format": "Metadata"
     },
     {
@@ -14153,9 +14959,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1362,
-  "item_last_updated": 1666695723,
-  "item_size": 71404596,
+  "files_count": 1440,
+  "item_last_updated": 1667257055,
+  "item_size": 75267554,
   "metadata": {
     "identifier": "boingboing-2022",
     "collection": [
@@ -14177,7 +14983,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451512019,
+      "task_id": 3458214564,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14185,7 +14991,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1474163559,
+  "uniq": 819989861,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

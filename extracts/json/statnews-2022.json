@@ -1,5 +1,5 @@
 {
-  "created": 1666723582,
+  "created": 1667246501,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/2/items/statnews-2022",
@@ -11339,31 +11339,786 @@
       "format": "JSON"
     },
     {
+      "name": "statnews-2022-10-25T14:43:51.920440-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-25T14:43:51.920440-04:00.jpg",
+      "mtime": "1666725157",
+      "size": "9946",
+      "md5": "4b13ee9b847cd5ca935bc3997f7432d1",
+      "crc32": "30dbe450",
+      "sha1": "c888bedebbd78bdcf086ca25edbed6928c18c8fb"
+    },
+    {
+      "name": "statnews-2022-10-26T04:26:25.979085-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772799",
+      "size": "31791",
+      "md5": "9c02dd9c25f5027ed802869603810288",
+      "crc32": "d4e5494d",
+      "sha1": "5cc895d72ccf25453bc60fbc9eac3c4056e49097",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-26T04:26:25.979085-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772801",
+      "size": "36971",
+      "md5": "3e506293e10d73c9c6162d1e86f9f816",
+      "crc32": "cbdf6155",
+      "sha1": "089e4255f1e4bb2b7dda411cb9e855f64eb94a04",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-26T04:26:25.979085-04:00.jpg",
+      "source": "original",
+      "mtime": "1666772798",
+      "size": "246010",
+      "md5": "e97eb78b7c30b0dd7754d6727438ee5a",
+      "crc32": "f1b3b57f",
+      "sha1": "f53cc7d8bb5559a6ccfd3affc7b94b5b51edf96a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-10-26T04:26:25.979085-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772802",
+      "size": "1477",
+      "md5": "e46f5112de7d691dbef17ffe8122f1bb",
+      "crc32": "26fca2c6",
+      "sha1": "753b2d16532f01cba05023c663f1f3dddc7ab227",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-26T04:26:25.979085-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772807",
+      "size": "26398",
+      "md5": "4ec3b3181be9098b683345e3c035a9c9",
+      "crc32": "011b5269",
+      "sha1": "039b64c0ddd86a10a91ff7f277999b6cf6e3c030",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-26T04:26:25.979085-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-26T04:26:25.979085-04:00.jpg",
+      "mtime": "1666774242",
+      "size": "9951",
+      "md5": "88e3340c989b5deae2ca24a19db4522f",
+      "crc32": "b4aceea8",
+      "sha1": "1ab790cd377dfe1521ae094d570d085e49e7fffa"
+    },
+    {
+      "name": "statnews-2022-10-26T16:35:26.098999-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666816535",
+      "size": "31561",
+      "md5": "b354d3f7cfed0a086000c74a4a94c96e",
+      "crc32": "63b88641",
+      "sha1": "ae2740e7fc8632b8d78618b8986817b365cb4b7d",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-26T16:35:26.098999-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666816539",
+      "size": "36885",
+      "md5": "25571cf1be1da033f2e787163146c5ac",
+      "crc32": "c1696a6f",
+      "sha1": "7c5c7c2e74faeedd4497808851f620bb699bfd88",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-26T16:35:26.098999-04:00.jpg",
+      "source": "original",
+      "mtime": "1666816530",
+      "size": "256743",
+      "md5": "a1fa53cd2652531f141e1173483f3d80",
+      "crc32": "0f2cf8dd",
+      "sha1": "40c630084705b0d2d88ff2f96ca06ec5abf298d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-10-26T16:35:26.098999-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666816542",
+      "size": "1477",
+      "md5": "af44af55a3e72152afc3356bcb82ea38",
+      "crc32": "bd78b4e1",
+      "sha1": "852289ad37acd52b9670c1a9538400452df837b8",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-26T16:35:26.098999-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666816545",
+      "size": "25125",
+      "md5": "6ca48f17614c6ebefa0979f40da731bf",
+      "crc32": "6c604434",
+      "sha1": "b8fb994882d45fbf6046943339746b88fbbef285",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-26T16:35:26.098999-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-26T16:35:26.098999-04:00.jpg",
+      "mtime": "1666843099",
+      "size": "9978",
+      "md5": "0cdf674a943f5b1110d7812514374550",
+      "crc32": "89df285f",
+      "sha1": "fa4d403c6bb9f30dd5390e6658fb7931a3105a8b"
+    },
+    {
+      "name": "statnews-2022-10-27T03:16:19.955982-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666854985",
+      "size": "31545",
+      "md5": "dafdd74cce66749ce3c5ac4a06fd01bc",
+      "crc32": "40c22302",
+      "sha1": "37c228adeec02488608bcf09f8d3ea54a14393c5",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-27T03:16:19.955982-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666854993",
+      "size": "37089",
+      "md5": "059014c54adae1b35990dc9ba7f994b0",
+      "crc32": "f3a48e00",
+      "sha1": "70e08b2e1a5f1dc30b0c385294f2137186c22fea",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-27T03:16:19.955982-04:00.jpg",
+      "source": "original",
+      "mtime": "1666854983",
+      "size": "253887",
+      "md5": "103e518ae234f45db2c554f2a4c883fd",
+      "crc32": "378d0070",
+      "sha1": "1a8e0e533c97965c4100ed97c0e2771aabd89a98",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-10-27T03:16:19.955982-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666854996",
+      "size": "1476",
+      "md5": "e284afb1e572cfc64613562fcc6c1fda",
+      "crc32": "e06c0fdf",
+      "sha1": "2564bd0ab9b54c92fd8284b545b7750a214c4742",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-27T03:16:19.955982-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666854999",
+      "size": "25067",
+      "md5": "59eac42f45b76006a173b222d4f1c4a3",
+      "crc32": "cab83c24",
+      "sha1": "3603c8f76d6ab6f383cae04a274bf1f0b1efbebb",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-27T03:16:19.955982-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-27T03:16:19.955982-04:00.jpg",
+      "mtime": "1666877129",
+      "size": "9997",
+      "md5": "5845902154a0f9a3d2cc75762d058fc2",
+      "crc32": "499ed2fc",
+      "sha1": "e50995b3f96a32370e4d8d18aa9d3750b65757e3"
+    },
+    {
+      "name": "statnews-2022-10-27T15:51:58.104142-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666900329",
+      "size": "33275",
+      "md5": "64006ed86016e711eaec470a5e72cf38",
+      "crc32": "6b5d1a3e",
+      "sha1": "3a04e4e638d2a44318a5056d30cf70338ddd0485",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-27T15:51:58.104142-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666900331",
+      "size": "37110",
+      "md5": "c8aa431a534058ad891a960dde0ce14e",
+      "crc32": "b2b7d7ab",
+      "sha1": "db86a1b06d4cb98d6bcaf226fa37e7174b201419",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-27T15:51:58.104142-04:00.jpg",
+      "source": "original",
+      "mtime": "1666900326",
+      "size": "263408",
+      "md5": "c498945dca868ac079156e393655b421",
+      "crc32": "924fd367",
+      "sha1": "165118320808d803d5d00ef20414f0e2ff7e641f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-10-27T15:51:58.104142-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666900333",
+      "size": "1477",
+      "md5": "ff69efe04b52cdf246633df9ed781d21",
+      "crc32": "8f08c177",
+      "sha1": "4d895d74bb870aded1a42d36107735230eb5e034",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-27T15:51:58.104142-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666900335",
+      "size": "25027",
+      "md5": "278b02de52d6f9860bb28f4cce4857c8",
+      "crc32": "fadc16f5",
+      "sha1": "03cf21e36a47d09142a3241964d452d89fb55975",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-27T15:51:58.104142-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-27T15:51:58.104142-04:00.jpg",
+      "mtime": "1666907725",
+      "size": "9735",
+      "md5": "c1322b91192e01b8cdf07a707aac4bd7",
+      "crc32": "4682388d",
+      "sha1": "fa553bcfc34edda33d590458fcfdbbd9e33fe722"
+    },
+    {
+      "name": "statnews-2022-10-28T04:32:44.141456-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945968",
+      "size": "33346",
+      "md5": "ed9c15ac4e2600c8e317110df4074701",
+      "crc32": "3e633126",
+      "sha1": "959a1368fae58d4f06129e8ac483a4773f5817e4",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-28T04:32:44.141456-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945969",
+      "size": "37439",
+      "md5": "3a81f10cd0e533c391802f37ab258373",
+      "crc32": "30eefa21",
+      "sha1": "912145fd661ca19cb776fd1c00cf1ad1d09c0187",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-28T04:32:44.141456-04:00.jpg",
+      "source": "original",
+      "mtime": "1666945966",
+      "size": "257254",
+      "md5": "2d15ad9aca4cf5b73d3ff8c530b18c08",
+      "crc32": "72fa3009",
+      "sha1": "21c900d40829111b20c372baad5db5095f7f972f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-10-28T04:32:44.141456-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945971",
+      "size": "1477",
+      "md5": "605cccee86e12e0081d6140969a22422",
+      "crc32": "7f0770d5",
+      "sha1": "8eabdda1138ecb7e05b378fd232da72835a6ac27",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-28T04:32:44.141456-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945973",
+      "size": "205",
+      "md5": "93945fb73da1c9069266a79dac47320b",
+      "crc32": "b9b459bb",
+      "sha1": "a51494894999766882cbbcf1c10af04d9a1f8b66",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-28T04:32:44.141456-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-28T04:32:44.141456-04:00.jpg",
+      "mtime": "1666950794",
+      "size": "9750",
+      "md5": "0215f6d8c7323978d60cd2e63403b2b8",
+      "crc32": "9bb43654",
+      "sha1": "8063b36c51739dbde1e46e575ba88e20023957aa"
+    },
+    {
+      "name": "statnews-2022-10-28T14:32:58.652741-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666981988",
+      "size": "32902",
+      "md5": "a1398a9ca9f7b927f00d03ad153e7426",
+      "crc32": "8ae6b7f8",
+      "sha1": "e87e0f56a14c7a50ef16ead792324ff758da3062",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-28T14:32:58.652741-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666981990",
+      "size": "37148",
+      "md5": "c29e87e326c71ca9c5a9f4a4b56fb40d",
+      "crc32": "b03ab69f",
+      "sha1": "2a4a970608817b0998f58709576d1e46db9560f9",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-28T14:32:58.652741-04:00.jpg",
+      "source": "original",
+      "mtime": "1666981986",
+      "size": "276861",
+      "md5": "a2076a9c645832a66ca18241c2280b1b",
+      "crc32": "346c747d",
+      "sha1": "a8df8cdf6fb09bf6f9ea0313a66c403105447862",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-10-28T14:32:58.652741-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666981992",
+      "size": "1477",
+      "md5": "f704f0ba10f6a434cf529d72d4f9aa75",
+      "crc32": "66fe7b66",
+      "sha1": "100ab432195537cd9d90724401134269afc923fe",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-28T14:32:58.652741-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666981993",
+      "size": "23617",
+      "md5": "4a4122e2024b2b64c181615cb32ec178",
+      "crc32": "80615e9d",
+      "sha1": "a67ca211f3cca3994c0c517ac408167839083345",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-28T14:32:58.652741-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-28T14:32:58.652741-04:00.jpg",
+      "mtime": "1666985192",
+      "size": "10414",
+      "md5": "7363cca1e4990a8789bbbd8a6763d1f7",
+      "crc32": "f01dff34",
+      "sha1": "8e751efeafc6453ec5bacbeac2448053f0c9a86a"
+    },
+    {
+      "name": "statnews-2022-10-29T02:37:44.644076-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025469",
+      "size": "32889",
+      "md5": "569294703ea426605e7ccffc7bf68417",
+      "crc32": "90654643",
+      "sha1": "1bf4bf5300c8d3e2b3dc1284de093baf588146ae",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-29T02:37:44.644076-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025471",
+      "size": "37198",
+      "md5": "742105f5c8d16d0a140de9e9b25a83eb",
+      "crc32": "66ca4407",
+      "sha1": "f8a5a27b8b2d354be8611f089086cd9c143a1756",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-29T02:37:44.644076-04:00.jpg",
+      "source": "original",
+      "mtime": "1667025466",
+      "size": "278778",
+      "md5": "410dba9d6a34c5d5b82da17e89ec54ef",
+      "crc32": "bda3ccdb",
+      "sha1": "a54e7fdc4f696278219951b5625c717b047139d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-10-29T02:37:44.644076-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025473",
+      "size": "1475",
+      "md5": "3fc91e500d8a5e56217d8ae6d933cc91",
+      "crc32": "8d9b6159",
+      "sha1": "04d3154c6b14e43cb172fe5e09537bf7acde3909",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-29T02:37:44.644076-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025475",
+      "size": "205",
+      "md5": "93945fb73da1c9069266a79dac47320b",
+      "crc32": "b9b459bb",
+      "sha1": "a51494894999766882cbbcf1c10af04d9a1f8b66",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-29T02:37:44.644076-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-29T02:37:44.644076-04:00.jpg",
+      "mtime": "1667027335",
+      "size": "10388",
+      "md5": "eb4752e9baa2f40c05d18ce5dec5c1f5",
+      "crc32": "78e8d878",
+      "sha1": "f0c1c57723e7849a58c1cfaef4b1602a8ebf5c6c"
+    },
+    {
+      "name": "statnews-2022-10-29T16:05:35.385116-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667073942",
+      "size": "32859",
+      "md5": "f4797cf638cf71054a5c561a892fec22",
+      "crc32": "36f04f1a",
+      "sha1": "d26d30e9da736518eb7bdcd65a412e8e927eca9b",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-29T16:05:35.385116-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667073944",
+      "size": "36974",
+      "md5": "4189b09075a9aabb86c35e16818aec84",
+      "crc32": "44e7206f",
+      "sha1": "06ab4c5662ef57c6387f1747f4cabd6ad258e100",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-29T16:05:35.385116-04:00.jpg",
+      "source": "original",
+      "mtime": "1667073940",
+      "size": "267682",
+      "md5": "936244907bd387761e8c367f5d14712c",
+      "crc32": "d3ce25b8",
+      "sha1": "060c740d5fc78423798fda6e79d969c2104ed3df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-10-29T16:05:35.385116-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667073947",
+      "size": "1476",
+      "md5": "1569b1829704c967337ef50b44c0c95b",
+      "crc32": "ade60851",
+      "sha1": "956cbefc551e5482f1ef808e0242e8f878e651c8",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-29T16:05:35.385116-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667073948",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-29T16:05:35.385116-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-29T16:05:35.385116-04:00.jpg",
+      "mtime": "1667075044",
+      "size": "10071",
+      "md5": "4322f7b8983ae328ab355ebefbcaa189",
+      "crc32": "ed7c7a27",
+      "sha1": "87e66eaaf1d4685046cc9dfc875b63bedd5ca5ab"
+    },
+    {
+      "name": "statnews-2022-10-30T02:51:12.523906-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667112676",
+      "size": "32859",
+      "md5": "f4797cf638cf71054a5c561a892fec22",
+      "crc32": "36f04f1a",
+      "sha1": "d26d30e9da736518eb7bdcd65a412e8e927eca9b",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-30T02:51:12.523906-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667112678",
+      "size": "37001",
+      "md5": "9eb597d116623fb6cd5781cc5f39c7ce",
+      "crc32": "fb3dab50",
+      "sha1": "cf3462b887852ede2a6744b22638002253f1cf53",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-30T02:51:12.523906-04:00.jpg",
+      "source": "original",
+      "mtime": "1667112674",
+      "size": "267682",
+      "md5": "936244907bd387761e8c367f5d14712c",
+      "crc32": "d3ce25b8",
+      "sha1": "060c740d5fc78423798fda6e79d969c2104ed3df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-10-30T02:51:12.523906-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667112680",
+      "size": "1477",
+      "md5": "77b31161507aa92d9512894ee22af957",
+      "crc32": "fc28ac59",
+      "sha1": "92b5e4166d3caed1c818b557a4519ee31959f4af",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-30T02:51:12.523906-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667112682",
+      "size": "21809",
+      "md5": "a5b94d22abec683a6d9aecac0ef74642",
+      "crc32": "b571e556",
+      "sha1": "da5819ceabba8e280ecf16c9aeedf0b97b8673ad",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-30T02:51:12.523906-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-30T02:51:12.523906-04:00.jpg",
+      "mtime": "1667113665",
+      "size": "10071",
+      "md5": "4322f7b8983ae328ab355ebefbcaa189",
+      "crc32": "ed7c7a27",
+      "sha1": "87e66eaaf1d4685046cc9dfc875b63bedd5ca5ab"
+    },
+    {
+      "name": "statnews-2022-10-30T14:30:45.285141-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667154648",
+      "size": "32907",
+      "md5": "5da76db2d45500d663cce42bbb59fe2e",
+      "crc32": "988fef05",
+      "sha1": "5a0af8b58bea37feb3a13f44ecf1450c1fb5aeb6",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-30T14:30:45.285141-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667154651",
+      "size": "36887",
+      "md5": "7a66a64066a065dfbc65557b2438efae",
+      "crc32": "6784c093",
+      "sha1": "41114456302b75b7da4ff2022c99f310c4fcf384",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-30T14:30:45.285141-04:00.jpg",
+      "source": "original",
+      "mtime": "1667154647",
+      "size": "262710",
+      "md5": "b8b9218d804e12e7ca53b3abd99a56a9",
+      "crc32": "94e3e7e4",
+      "sha1": "3f8578f64783e80b75e642ae64b74e1dd5545362",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-10-30T14:30:45.285141-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667154653",
+      "size": "1476",
+      "md5": "639186ad47a66af078d52fd9c0f04dc0",
+      "crc32": "3b2e779a",
+      "sha1": "3e1a3817df52e7c7c6ec68a4753b31968cb4be1f",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-30T14:30:45.285141-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667154656",
+      "size": "101",
+      "md5": "606d073e1b5635651561bfd52e02de48",
+      "crc32": "191d148f",
+      "sha1": "b90cb9c1c0b3f169ec04d57a20231ca0f2962b88",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-30T14:30:45.285141-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-30T14:30:45.285141-04:00.jpg",
+      "mtime": "1667155394",
+      "size": "10041",
+      "md5": "ca363fb571fafb363af4f6ebe906f302",
+      "crc32": "4a1b963c",
+      "sha1": "e7ded13231431df728daf4b46d05238f9cd37a66"
+    },
+    {
+      "name": "statnews-2022-10-31T02:45:39.335197-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198759",
+      "size": "32798",
+      "md5": "407418d9c2f87fcb8a03afa336196daa",
+      "crc32": "ccc7a519",
+      "sha1": "e698409c7e78caa4ff647574a17769b2da790df0",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-31T02:45:39.335197-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198761",
+      "size": "36914",
+      "md5": "f414ba870ca3237294a04f05e0c198d3",
+      "crc32": "6f60c264",
+      "sha1": "fbdf78f731a986c556743ef4e99fcbd6a22aa69f",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-31T02:45:39.335197-04:00.jpg",
+      "source": "original",
+      "mtime": "1667198757",
+      "size": "265922",
+      "md5": "8e366ecc918cab4e22932049a23f8464",
+      "crc32": "e8191698",
+      "sha1": "439a92a414259503a0e5754a6d0aa058b7816fcb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-10-31T02:45:39.335197-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198762",
+      "size": "1477",
+      "md5": "da3e7dd570958349779c757460098bf2",
+      "crc32": "e1e60307",
+      "sha1": "823f67e6414a265d940ac8aecf80ee344129bcfc",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-31T02:45:39.335197-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198764",
+      "size": "249",
+      "md5": "986180622fb12e0ebf3c1c3abed12c5a",
+      "crc32": "7e97ef5e",
+      "sha1": "dcb781f9578fecf3612a3c4a5c2fd41abfc86b82",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-31T02:45:39.335197-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-31T02:45:39.335197-04:00.jpg",
+      "mtime": "1667200827",
+      "size": "10055",
+      "md5": "3bf1cbe3d13a3dc7f3ad234c27c5ea7c",
+      "crc32": "2060f582",
+      "sha1": "05a4ddcbe5c8f6f335ec019ea752e6eaebc04be0"
+    },
+    {
+      "name": "statnews-2022-10-31T15:48:35.430425-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667245740",
+      "size": "33817",
+      "md5": "a4061b69565e2329d15c92b21fae2709",
+      "crc32": "56a59e3e",
+      "sha1": "897eb5a79d00f68df0f840f04da33051a401743b",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-31T15:48:35.430425-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667245742",
+      "size": "36801",
+      "md5": "106e08d3152abc693cdb59121cf70859",
+      "crc32": "58ff439b",
+      "sha1": "3f58197f5e71656e6535d9b608649040eba62280",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-31T15:48:35.430425-04:00.jpg",
+      "source": "original",
+      "mtime": "1667245738",
+      "size": "272599",
+      "md5": "0dddca0fce44e3e581a67e56c7a173bf",
+      "crc32": "2a4ddc10",
+      "sha1": "2bfb853cca51a9dac27c16beae1a3a307f9f1999",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statnews-2022-10-31T15:48:35.430425-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667245744",
+      "size": "1477",
+      "md5": "dd3ae470e11aad8fb9a972312b221813",
+      "crc32": "a4a41c1a",
+      "sha1": "01ad679efa012bd534ad4e1ac09dcba489536d8d",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-31T15:48:35.430425-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667245746",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "statnews-2022-10-31T15:48:35.430425-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statnews-2022-10-31T15:48:35.430425-04:00.jpg",
+      "mtime": "1667246145",
+      "size": "10161",
+      "md5": "a6f25c49a969f2e70d42f0cb8d2e46c6",
+      "crc32": "e3a344c5",
+      "sha1": "6eb4ccbdfca80569d3effbab4a1cba7a6a7ac0dc"
+    },
+    {
       "name": "statnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1003dce3b5cdd755b68d7ba5b187a0f01c4296b",
-      "mtime": "1666723564",
-      "size": "231749",
-      "md5": "a524f90d198455510f4b4a4049d7eba1",
-      "crc32": "77c719fc",
-      "sha1": "4342df78b9b5c704c147b16bc8b20f6478ace3e5",
+      "btih": "202b09153b4587a07b24ef1d8a35cdb8341d85f3",
+      "mtime": "1667246162",
+      "size": "247092",
+      "md5": "ed9642ea6438e20055ae3ed962a60619",
+      "crc32": "76af2007",
+      "sha1": "35b1d30d63f7e2dcbd8600cf7ae32123888a6cec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "statnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3bda7a782c664a9529f7c1a3fa37a6f4",
+      "md5": "946cda77cbdfac47f011305b20b214a7",
       "summation": "md5"
     },
     {
       "name": "statnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666723508",
-      "size": "1400832",
-      "md5": "4f57aff35ca52c9d6f4868b104bd3be8",
-      "crc32": "135d78df",
-      "sha1": "4b4c7d996185b811b3af7dedbe657f22a91e905d",
+      "mtime": "1667245756",
+      "size": "1490944",
+      "md5": "92caea94ed5fa00700054e84f8219c17",
+      "crc32": "321919d3",
+      "sha1": "5f8fd4e96fc66e65f468a2b1ea28d0939b2d392b",
       "format": "Metadata"
     },
     {
@@ -11377,9 +12132,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1100,
-  "item_last_updated": 1666723564,
-  "item_size": 68271594,
+  "files_count": 1173,
+  "item_last_updated": 1667246162,
+  "item_size": 72680035,
   "metadata": {
     "identifier": "statnews-2022",
     "collection": [
@@ -11396,21 +12151,10 @@
     "publicdate": "2022-07-23 04:23:24",
     "addeddate": "2022-07-23 04:23:24"
   },
-  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451971930,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1244603014,
+  "uniq": 379320883,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

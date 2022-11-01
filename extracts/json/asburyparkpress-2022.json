@@ -1,5 +1,5 @@
 {
-  "created": 1666695700,
+  "created": 1667256896,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/11/items/asburyparkpress-2022",
@@ -4397,31 +4397,837 @@
       "format": "JSON"
     },
     {
+      "name": "asburyparkpress-2022-10-25T06:59:10.071225-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-25T06:59:10.071225-04:00.jpg",
+      "mtime": "1666697698",
+      "size": "9214",
+      "md5": "1b543e4246419155b9aeb7a410ea2ee7",
+      "crc32": "89bdd5a0",
+      "sha1": "7b57604a71cf3712c5586ab2a791fb6310cb208a"
+    },
+    {
+      "name": "asburyparkpress-2022-10-25T18:59:46.536247-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738789",
+      "size": "10648",
+      "md5": "831d19a226b20f28ace377ae0f6f0b92",
+      "crc32": "39a91c45",
+      "sha1": "cd44e6c82c46c46e5e49be3bffc7197ab8852d70",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-25T18:59:46.536247-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738791",
+      "size": "23201",
+      "md5": "168477db4eac363d0f2c38e18337bffa",
+      "crc32": "25e555ff",
+      "sha1": "60852b9785023fd3f0f8146dc00317a20fa0147a",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-25T18:59:46.536247-04:00.jpg",
+      "source": "original",
+      "mtime": "1666738788",
+      "size": "262425",
+      "md5": "4872183a4518dcb5cdfefbffd58400d4",
+      "crc32": "82a13152",
+      "sha1": "bbfd43eef89b7927bfd01645ca9a053cdbeae57a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-25T18:59:46.536247-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666738793",
+      "size": "1432",
+      "md5": "d9c3380bf3342b5d353ae59f8a535820",
+      "crc32": "bb4a2212",
+      "sha1": "58facfabe3d2d9a49a1925e2a31e99d54480991b",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-25T18:59:46.536247-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738795",
+      "size": "104769",
+      "md5": "4fa6b3209dec6625d083bd194b31438b",
+      "crc32": "15ee1ab7",
+      "sha1": "3e67acd38905e607f3f7962526a7f0e849c295d9",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-25T18:59:46.536247-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-25T18:59:46.536247-04:00.jpg",
+      "mtime": "1666740525",
+      "size": "9688",
+      "md5": "de6879257d658a168d2e3db96a40e741",
+      "crc32": "822896cb",
+      "sha1": "5e2e6894ea8ca492155cca49e09840b46e64eb51"
+    },
+    {
+      "name": "asburyparkpress-2022-10-26T06:54:11.555578-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781656",
+      "size": "19051",
+      "md5": "3c3494e7a7b0042c55535690e0dbe521",
+      "crc32": "ab7a3a5d",
+      "sha1": "dabaf96faffa91481e76c6def4b62e2f12c49c8e",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-26T06:54:11.555578-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781658",
+      "size": "29346",
+      "md5": "2f08ffb0d58098c8b70ffce18547b2ae",
+      "crc32": "aae56b03",
+      "sha1": "740367a35c81676aab88748e643c4d54da50b25f",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-26T06:54:11.555578-04:00.jpg",
+      "source": "original",
+      "mtime": "1666781654",
+      "size": "281802",
+      "md5": "5dd01f3aead9f85b5b8426a45f672a0d",
+      "crc32": "363c76c4",
+      "sha1": "d503cfbec85da8c79c392503d80aa99e81a48ac6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-26T06:54:11.555578-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781659",
+      "size": "1430",
+      "md5": "e76bbaf40025b4646e77cfcb7be8d047",
+      "crc32": "2a80f499",
+      "sha1": "95e788a55796fd6dc7c22dc39a3c95bda72e69ac",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-26T06:54:11.555578-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781661",
+      "size": "200",
+      "md5": "b709479d3a5e7edca8033a4b47cfdf0f",
+      "crc32": "de8a7433",
+      "sha1": "81232e62b4166caebf8b34843dafce89a37341ab",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-26T06:54:11.555578-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-26T06:54:11.555578-04:00.jpg",
+      "mtime": "1666783004",
+      "size": "9459",
+      "md5": "c5c6f3b69d422ec756b34c964ab6786c",
+      "crc32": "ace973fb",
+      "sha1": "7b5eafa249a7e679c9df7ab74234f86d2f0c9702"
+    },
+    {
+      "name": "asburyparkpress-2022-10-26T18:56:56.789679-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666825023",
+      "size": "18841",
+      "md5": "8ab9655abc9a2e9a6ce2dab65df21667",
+      "crc32": "9e8ae5b0",
+      "sha1": "614c3eb86130f13769ce8cbc70f1d3289f882a28",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-26T18:56:56.789679-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666825025",
+      "size": "30638",
+      "md5": "2684283655dc436f17f58f180fdcf62f",
+      "crc32": "e253f694",
+      "sha1": "9021a6457962dbab31211653b7429f479b1761e6",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-26T18:56:56.789679-04:00.jpg",
+      "source": "original",
+      "mtime": "1666825021",
+      "size": "274029",
+      "md5": "1c8a79db32448ac38e3772ee750ee38b",
+      "crc32": "ca7c804e",
+      "sha1": "9be33c0bb72b4835aa610c827f0a460a776a7b0e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-26T18:56:56.789679-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666825027",
+      "size": "1430",
+      "md5": "cda141cce2f36d0879ad8a99b72b9878",
+      "crc32": "85218f31",
+      "sha1": "26ea9df2c6d0e15023ac66dc6b9b656ffd85bc04",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-26T18:56:56.789679-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666825028",
+      "size": "102597",
+      "md5": "c9f1035be2ba45314c7c11fd6deef09a",
+      "crc32": "dec4ddab",
+      "sha1": "1a718944872899e91aab261470d054cfef9b5bb3",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-26T18:56:56.789679-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-26T18:56:56.789679-04:00.jpg",
+      "mtime": "1666849179",
+      "size": "9369",
+      "md5": "bff82a5555dd30c8384c039a3fe2f7c1",
+      "crc32": "cf72c625",
+      "sha1": "b2d94b4a0b83cbad737559de2751bf21282ac10b"
+    },
+    {
+      "name": "asburyparkpress-2022-10-27T07:03:05.595799-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666868597",
+      "size": "18802",
+      "md5": "0356196963f0e300769dc5aa80722107",
+      "crc32": "e19ae094",
+      "sha1": "5e6d2488051b52bcb8bb77bc82907dd2b881f307",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-27T07:03:05.595799-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666868600",
+      "size": "33279",
+      "md5": "725674d0af4b24450e066875e8995c88",
+      "crc32": "d157d1f4",
+      "sha1": "a2549a34ab4190e8424f89c1e982c0a6babb1d30",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-27T07:03:05.595799-04:00.jpg",
+      "source": "original",
+      "mtime": "1666868595",
+      "size": "249033",
+      "md5": "31e4083c72a4f615bc9cf9ddc3fd0568",
+      "crc32": "5edf564a",
+      "sha1": "aead634ee738288ede1c89617fb7f5721663dfe7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-27T07:03:05.595799-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666868602",
+      "size": "1431",
+      "md5": "1b15df5f9cf0c4e8908b5092a331e44f",
+      "crc32": "520ae2db",
+      "sha1": "f0be6a4c7f6679cb63d2457a93983e28b7a3a87c",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-27T07:03:05.595799-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666868603",
+      "size": "122576",
+      "md5": "8ae9a0b7da42d0ad1f416abacbd0725d",
+      "crc32": "7d6fbe4a",
+      "sha1": "2546912f78614baf0b3fa8851ea7bde7dd3a9fc5",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-27T07:03:05.595799-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-27T07:03:05.595799-04:00.jpg",
+      "mtime": "1666887459",
+      "size": "9123",
+      "md5": "43280bc86dc4693f246e8cedc2129536",
+      "crc32": "0b2dab48",
+      "sha1": "ea89cd7bf64acfcaec9136c13a88d154ff6aec12"
+    },
+    {
+      "name": "asburyparkpress-2022-10-27T18:47:35.542920-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910863",
+      "size": "19578",
+      "md5": "2142d1668eda4b83033f0e0aefb69e65",
+      "crc32": "bcce47c8",
+      "sha1": "0ceee1d05b45b40b3b9ce7898c05f75df11bda2a",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-27T18:47:35.542920-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910865",
+      "size": "28896",
+      "md5": "2d2609e5c15d092bb35f274da3d5f830",
+      "crc32": "45b758e0",
+      "sha1": "ea0373fa7da5f0a9d458ef00dea211a70ce1ecac",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-27T18:47:35.542920-04:00.jpg",
+      "source": "original",
+      "mtime": "1666910860",
+      "size": "226380",
+      "md5": "a7eeb2402272f9756deb1add0991c1b2",
+      "crc32": "477e2b78",
+      "sha1": "d35a3a1a74023e02736b384fd105ce7db765fe9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-27T18:47:35.542920-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910868",
+      "size": "1431",
+      "md5": "6373de9d65e5bad166e1347480e326fe",
+      "crc32": "9eed9ba6",
+      "sha1": "e0e92125b000b7092fc2710f6608a7e7ed5d3ee5",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-27T18:47:35.542920-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910872",
+      "size": "128998",
+      "md5": "922a288a1838dda1216de8348c2f7756",
+      "crc32": "8b004495",
+      "sha1": "6c0565935ebfb050c0759c4e0fe920b250d8fa19",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-27T18:47:35.542920-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-27T18:47:35.542920-04:00.jpg",
+      "mtime": "1666913458",
+      "size": "9078",
+      "md5": "3854589a45638189d4274ced8a8c8d46",
+      "crc32": "0ec9781d",
+      "sha1": "85b4ae2bbab1e9ef752b91753f1fac976298998d"
+    },
+    {
+      "name": "asburyparkpress-2022-10-28T06:54:01.930104-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666954445",
+      "size": "19169",
+      "md5": "4f5213f7213c6106052f06925c37a790",
+      "crc32": "be28aa77",
+      "sha1": "f06d2239fc711e938e021eaed7801c470dcf07df",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-28T06:54:01.930104-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666954447",
+      "size": "26685",
+      "md5": "7c45a54c2b1f73d2395dbdf7dc99ccbd",
+      "crc32": "5e6eaadd",
+      "sha1": "5e7715cfc483890fbb92910a0c2c947602535678",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-28T06:54:01.930104-04:00.jpg",
+      "source": "original",
+      "mtime": "1666954443",
+      "size": "236946",
+      "md5": "aaef919b0fe0d37817e2f50af402d3bf",
+      "crc32": "1674cd5f",
+      "sha1": "4e47d2aef80de669e2f28d8958d4c9e560b3abf1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-28T06:54:01.930104-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666954449",
+      "size": "1429",
+      "md5": "b37ba8e129e9a217c9c644d143666a93",
+      "crc32": "1a634595",
+      "sha1": "dd100bcab8bcb8709ebf3bcf116c7edba8466b65",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-28T06:54:01.930104-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666954450",
+      "size": "92235",
+      "md5": "79a817cfef569202783d0703828a373b",
+      "crc32": "1636c9cf",
+      "sha1": "411ae7aef81cd54402ce0e38ab38d4068f92df7b",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-28T06:54:01.930104-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-28T06:54:01.930104-04:00.jpg",
+      "mtime": "1666960200",
+      "size": "8881",
+      "md5": "050d11d58a61e907b4840bd7db9629ad",
+      "crc32": "6a73023b",
+      "sha1": "de651519852ae848368b6c39d7f71d3bd4f23f68"
+    },
+    {
+      "name": "asburyparkpress-2022-10-28T19:03:34.154458-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666998217",
+      "size": "19565",
+      "md5": "e1d3e3518533b83a67d54b49595b52b4",
+      "crc32": "1342f192",
+      "sha1": "4e96ac7c943a53fa7e5a4cd639930fe2099955d7",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-28T19:03:34.154458-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666998219",
+      "size": "28513",
+      "md5": "3919389f2603052ee636c5b0bf95ca1f",
+      "crc32": "efdf91f7",
+      "sha1": "630f811d4e3778eacdbd6348ccc17a6e00cdbbdc",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-28T19:03:34.154458-04:00.jpg",
+      "source": "original",
+      "mtime": "1666998215",
+      "size": "292723",
+      "md5": "8fef3de389e24ad6d03066afe38cbfa2",
+      "crc32": "4616f995",
+      "sha1": "e138681b8b1bd7978a707b223ee21d9e1e4bc04e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-28T19:03:34.154458-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666998220",
+      "size": "1430",
+      "md5": "88a69fa4131c7da471254210837eabdd",
+      "crc32": "d466a772",
+      "sha1": "50c7274e031897d7d2b0b7e020e598b287fbefcf",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-28T19:03:34.154458-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666998222",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-28T19:03:34.154458-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-28T19:03:34.154458-04:00.jpg",
+      "mtime": "1666999305",
+      "size": "9383",
+      "md5": "e3458fe813217a1546e4f4ae038e3ad1",
+      "crc32": "97e71d2b",
+      "sha1": "28293eff0677de3f60fd20908d7d4d97cd9ba18e"
+    },
+    {
+      "name": "asburyparkpress-2022-10-29T06:52:04.129819-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040736",
+      "size": "19729",
+      "md5": "59326fe3816b266a483dc740459e6cd6",
+      "crc32": "1cd1312f",
+      "sha1": "6e70b814b3d2e7e3bfd6d6ae9b95f4dd34118bed",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-29T06:52:04.129819-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040738",
+      "size": "25924",
+      "md5": "af9a1f3c4e9736d94ee696c2cee3c7a7",
+      "crc32": "f3b12a48",
+      "sha1": "d1f90e2b15d14554c81b9b5c662b325ee822e733",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-29T06:52:04.129819-04:00.jpg",
+      "source": "original",
+      "mtime": "1667040729",
+      "size": "257848",
+      "md5": "899d21b16e4dc5f074b27ec405985d0e",
+      "crc32": "876a2d16",
+      "sha1": "dda5f2a82ad0e237934a1afbf44b89e7dd1aac44",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-29T06:52:04.129819-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040739",
+      "size": "1432",
+      "md5": "769dec00e0fffc8300ede93c94d90329",
+      "crc32": "3ee12555",
+      "sha1": "6b4abab423512119973f449f208b9e20b00e6e78",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-29T06:52:04.129819-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040741",
+      "size": "91045",
+      "md5": "16eaf72deecebed6885a62bca1ab1d6e",
+      "crc32": "fa032d72",
+      "sha1": "ac364c6f8794cb68268b5b4fadfea3241e26b3da",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-29T06:52:04.129819-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-29T06:52:04.129819-04:00.jpg",
+      "mtime": "1667041537",
+      "size": "8923",
+      "md5": "4c43baea86931808e938fd0ba352740d",
+      "crc32": "3e4928eb",
+      "sha1": "38b6720b655fd5b822eb8362f7578cf742b6e69a"
+    },
+    {
+      "name": "asburyparkpress-2022-10-29T18:52:29.969970-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667083963",
+      "size": "19685",
+      "md5": "922199f26567e4e4f08409a011e953c4",
+      "crc32": "19819da7",
+      "sha1": "34067585f6db4d1bd4bdb2f9ceb7d797130ab7ca",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-29T18:52:29.969970-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667083965",
+      "size": "27263",
+      "md5": "ea2aa7343c75f49c45489c4cadd0a7d1",
+      "crc32": "153d7b5e",
+      "sha1": "7b8c235fd49ec3628a68e29b5b994f17d5bca6ff",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-29T18:52:29.969970-04:00.jpg",
+      "source": "original",
+      "mtime": "1667083962",
+      "size": "293703",
+      "md5": "eb0d3ddbcc275e8d35b8967c1c883068",
+      "crc32": "89de7b9a",
+      "sha1": "50a6c18c452765588cc56a8f7c45c410382983f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-29T18:52:29.969970-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667083967",
+      "size": "1428",
+      "md5": "88eaf373eb70eeba8246eaa38e078b06",
+      "crc32": "65fdb2b3",
+      "sha1": "1079aae3f6795beaaca117386f3b4b572d9ba40d",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-29T18:52:29.969970-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667083969",
+      "size": "116805",
+      "md5": "298bef772ac423a3344a3c1cc0a598ab",
+      "crc32": "80694acc",
+      "sha1": "d35494e9f9cb7b7a7ebb3fbf66ea41dca76d54f1",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-29T18:52:29.969970-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-29T18:52:29.969970-04:00.jpg",
+      "mtime": "1667085143",
+      "size": "9496",
+      "md5": "31ba892c2d93d757619946e21a61b40d",
+      "crc32": "636ec5ae",
+      "sha1": "cef1c0837e16c0250bf349a5eee39a74d8e784df"
+    },
+    {
+      "name": "asburyparkpress-2022-10-30T06:46:10.398409-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126784",
+      "size": "20114",
+      "md5": "9b94c1e504ad2d76e7c5e5d62c584810",
+      "crc32": "e624d1db",
+      "sha1": "4dbfcd540c60e31225a2de2d504d3352dba0a8b8",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-30T06:46:10.398409-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126785",
+      "size": "24710",
+      "md5": "7bb137c90c8e174f42593e9122665008",
+      "crc32": "b28a84d6",
+      "sha1": "2944740658e89ec1cbdfa29ccfc1df9c41b54c11",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-30T06:46:10.398409-04:00.jpg",
+      "source": "original",
+      "mtime": "1667126782",
+      "size": "281189",
+      "md5": "55dffec6ce377fc32cb76f07980fed7c",
+      "crc32": "2f5daa15",
+      "sha1": "011dda42b24b06f198bc3f90a000c1d750dc0c91",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-30T06:46:10.398409-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126787",
+      "size": "1429",
+      "md5": "02f1db178cdb2af3f1555e39d8019d3d",
+      "crc32": "93ff4ee0",
+      "sha1": "7b0c613adf6f5b5c12f16e2b6ed7997f5ba69c87",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-30T06:46:10.398409-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126789",
+      "size": "200",
+      "md5": "6253cd6ee7b6602dfc9f2f7a30f053c4",
+      "crc32": "a195840e",
+      "sha1": "567374cd89f9c49d5daf554727b753ad64436015",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-30T06:46:10.398409-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-30T06:46:10.398409-04:00.jpg",
+      "mtime": "1667128045",
+      "size": "9414",
+      "md5": "f9187ab30a6913d4cc7ec546bb00e470",
+      "crc32": "4d5139ac",
+      "sha1": "6d90775b6a65da87dfef25df9c78010a965b8981"
+    },
+    {
+      "name": "asburyparkpress-2022-10-30T18:41:22.828306-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667169687",
+      "size": "19852",
+      "md5": "7d85a02f287174f2b5922ed5fddc9bbf",
+      "crc32": "af52f3f3",
+      "sha1": "f2facf8e349620208a7f8640211b50a94a5396b1",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-30T18:41:22.828306-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667169688",
+      "size": "26771",
+      "md5": "9c5f11ad7c19f98173944375f3d6643c",
+      "crc32": "3fcb8f8b",
+      "sha1": "1d5846dc940a36d2da345c8fa974493b2740c689",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-30T18:41:22.828306-04:00.jpg",
+      "source": "original",
+      "mtime": "1667169685",
+      "size": "291371",
+      "md5": "5c083adedc482aab2f978f194c2da813",
+      "crc32": "3290c1cb",
+      "sha1": "0734c401cd83b963276eff151e898611ae85a105",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-30T18:41:22.828306-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667169690",
+      "size": "1432",
+      "md5": "d6d3c98b4accd85fcc4a1c6b6dc07f8f",
+      "crc32": "903d06a0",
+      "sha1": "b413d1c7339268aaad105bd3b3a3729c84829927",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-30T18:41:22.828306-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667169691",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-30T18:41:22.828306-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-30T18:41:22.828306-04:00.jpg",
+      "mtime": "1667170262",
+      "size": "9533",
+      "md5": "7e3148f7e34407fcde49bd51c334f011",
+      "crc32": "741d7fcf",
+      "sha1": "82c6c1cd45e48662363081595e843bbbe3b6bb85"
+    },
+    {
+      "name": "asburyparkpress-2022-10-31T06:48:50.761880-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667213338",
+      "size": "20559",
+      "md5": "3697460d5a7dfa8a475f77252821c97a",
+      "crc32": "eb70a140",
+      "sha1": "f263e05805d217e5546b80bd71b54659c7e7a12c",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-31T06:48:50.761880-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667213340",
+      "size": "31382",
+      "md5": "9db2b38a09e3e9034bfdae0319b6f223",
+      "crc32": "c191473e",
+      "sha1": "0790abf345e0c8df65ff5b871bfdeec29fcd7274",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-31T06:48:50.761880-04:00.jpg",
+      "source": "original",
+      "mtime": "1667213337",
+      "size": "301810",
+      "md5": "1c41629a92702a92bcdba4d2df40e399",
+      "crc32": "baa44939",
+      "sha1": "e7fac89082a83bd9b17b9934e32536740b6b1eb5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-31T06:48:50.761880-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667213341",
+      "size": "1430",
+      "md5": "9ec8bb4f6de38410fb5989e36aa0c0bd",
+      "crc32": "28fc2ae4",
+      "sha1": "a3d1224202224cb6d817b9f2a138552955831f67",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-31T06:48:50.761880-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667213344",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-31T06:48:50.761880-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-31T06:48:50.761880-04:00.jpg",
+      "mtime": "1667214009",
+      "size": "9622",
+      "md5": "f92cbf4b6e1b67d5b1e3850034bd6e03",
+      "crc32": "7a075ea6",
+      "sha1": "bb71aa84019b9434c4d9ae0bad1e5acf608c4238"
+    },
+    {
+      "name": "asburyparkpress-2022-10-31T18:53:45.402475-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667256831",
+      "size": "19027",
+      "md5": "62324bf43bd732f1be2d8f42da454347",
+      "crc32": "35621d46",
+      "sha1": "561200515d842377d9cf84b2363f858bfee19ea5",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-31T18:53:45.402475-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667256832",
+      "size": "27522",
+      "md5": "84ce6ef94a94a398d1327d8d13fdcb85",
+      "crc32": "927df257",
+      "sha1": "34101a93790b06ba39df0cc03c644e0bf73e6514",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-31T18:53:45.402475-04:00.jpg",
+      "source": "original",
+      "mtime": "1667256829",
+      "size": "244568",
+      "md5": "d633b1a564bfef3aef27ff7caae25398",
+      "crc32": "8ea719d3",
+      "sha1": "80644e5cee4cbe493e30e46a80bbe88942bb0d94",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asburyparkpress-2022-10-31T18:53:45.402475-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667256834",
+      "size": "1430",
+      "md5": "ef410e670f6851aacb94b8d71b4cd18b",
+      "crc32": "3dd61348",
+      "sha1": "5040d93f892e33b348f3c7d7560cbdf07936574f",
+      "format": "JSON"
+    },
+    {
+      "name": "asburyparkpress-2022-10-31T18:53:45.402475-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667256837",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "asburyparkpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "152123a16ccd920b1b47fa839117cfd596899d9f",
-      "mtime": "1666695697",
-      "size": "93814",
-      "md5": "46769868de33feb8a94f58ff847c51ce",
-      "crc32": "541f01d9",
-      "sha1": "985dff215bf65eea203da5b92cabbaf99a1f0f97",
+      "btih": "b76066bf8dc5e55cda332d5c9b4f2dd31419a0c8",
+      "mtime": "1667256886",
+      "size": "110764",
+      "md5": "927e1768d85e30c7b65add2910017307",
+      "crc32": "65f4d4c3",
+      "sha1": "00ef67d8479db56d8a85500051d85bcdfd00c9e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "asburyparkpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9149282cfce2d8dd71e65eb46a984bfe",
+      "md5": "a3905f21bb52cdd7825f4dcda44c556a",
       "summation": "md5"
     },
     {
       "name": "asburyparkpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695659",
-      "size": "565248",
-      "md5": "17be8f11f8a08440941c9ecd4d3cca68",
-      "crc32": "f8ed32c9",
-      "sha1": "91a09b275f8ed5b6b01ec559b0b2f05d480ec1e6",
+      "mtime": "1667256841",
+      "size": "663552",
+      "md5": "a844a53643bba7eb7e55a154fb6bf569",
+      "crc32": "e5f2a501",
+      "sha1": "c6b2c8c8350e714ec39e538d49da46649e6052dd",
       "format": "Metadata"
     },
     {
@@ -4435,9 +5241,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 429,
-  "item_last_updated": 1666695697,
-  "item_size": 28101096,
+  "files_count": 507,
+  "item_last_updated": 1667256886,
+  "item_size": 33218937,
   "metadata": {
     "identifier": "asburyparkpress-2022",
     "collection": [
@@ -4459,15 +5265,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451510238,
+      "task_id": 3458212556,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1977421732,
+  "uniq": 2110710871,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666717968,
+  "created": 1667239158,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/5/items/csgazette-2022",
@@ -8707,31 +8707,786 @@
       "format": "JSON"
     },
     {
+      "name": "csgazette-2022-10-25T11:11:32.730614-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-25T11:11:32.730614-06:00.jpg",
+      "mtime": "1666718683",
+      "size": "9930",
+      "md5": "914253c220f6818dd54116d59b0ae3d4",
+      "crc32": "d1a88e70",
+      "sha1": "c42154d91be23e747e963eebe23136dae5c62714"
+    },
+    {
+      "name": "csgazette-2022-10-26T00:41:58.110609-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666766530",
+      "size": "58429",
+      "md5": "52576c6ec39cc9b7ebeee17c751bd2d3",
+      "crc32": "11e9392d",
+      "sha1": "9662f59ee58ba5bdc20e17ef4c5375454ef98369",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-26T00:41:58.110609-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666766532",
+      "size": "105892",
+      "md5": "f4c37a868ce875b27bb93af8f0c1ac25",
+      "crc32": "8bf17f53",
+      "sha1": "dc9b4c0c1e7e62eba1686622361495d7bfd2a547",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-26T00:41:58.110609-06:00.jpg",
+      "source": "original",
+      "mtime": "1666766529",
+      "size": "398184",
+      "md5": "86f8d6fc90a6181e10d478c56a631288",
+      "crc32": "9582cee6",
+      "sha1": "16dd29df01b888067033725bc9c9fa87d663ebc7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-26T00:41:58.110609-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666766535",
+      "size": "1429",
+      "md5": "c9d08d419f53763a82c4fbcf0a80e8f9",
+      "crc32": "c7775cb6",
+      "sha1": "fcc5461e82e84334ba2a1a4dda55926c3d7c0811",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-26T00:41:58.110609-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666766537",
+      "size": "161148",
+      "md5": "96aa30b3f0ac87a45c556382fa4063c7",
+      "crc32": "8c730563",
+      "sha1": "eeea2ec3089673e4bae5b8e76177a5aec65762b2",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-26T00:41:58.110609-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-26T00:41:58.110609-06:00.jpg",
+      "mtime": "1666767492",
+      "size": "9837",
+      "md5": "fad29a8c7292e89ffbf6682f8870150e",
+      "crc32": "0c58005e",
+      "sha1": "e88ddb59597f8b42467c58841434cb6d36ee3654"
+    },
+    {
+      "name": "csgazette-2022-10-26T13:09:17.484639-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666811369",
+      "size": "57992",
+      "md5": "f7aa7503a3fdb723bb2868dc9ae00c7b",
+      "crc32": "986e68d0",
+      "sha1": "6ad7a28a4c8f0e5d3ac7af585745291b298e1501",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-26T13:09:17.484639-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666811372",
+      "size": "106823",
+      "md5": "73ff49d4ca09cd83ca85499d2ee20917",
+      "crc32": "24a7a6d8",
+      "sha1": "2bbfcdc85577b9efc1f5c3fcff4a5460c43f2fa3",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-26T13:09:17.484639-06:00.jpg",
+      "source": "original",
+      "mtime": "1666811365",
+      "size": "381869",
+      "md5": "21291cb61469e7bd76f1a3282bf8e060",
+      "crc32": "15faf574",
+      "sha1": "d240e30ade9edaaff640936f88d16246deb784d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-26T13:09:17.484639-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666811375",
+      "size": "1429",
+      "md5": "e418f93f79e9b4b556d5912900fd04ed",
+      "crc32": "4d453ef8",
+      "sha1": "49a483b3a49127a5f740a5955a73b4a17cef58fe",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-26T13:09:17.484639-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666811379",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-26T13:09:17.484639-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-26T13:09:17.484639-06:00.jpg",
+      "mtime": "1666822909",
+      "size": "10198",
+      "md5": "66458e858d521ef1895a78335a0c4055",
+      "crc32": "e2202216",
+      "sha1": "e857cec19d71b26b7e2bc216d8ab192efa96d8ff"
+    },
+    {
+      "name": "csgazette-2022-10-26T23:54:20.646691-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666850072",
+      "size": "57520",
+      "md5": "7b8973612868511bf5e42ec0df9777d1",
+      "crc32": "e7267991",
+      "sha1": "310f6d22cb863e7f53b9c810b6b286846da79045",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-26T23:54:20.646691-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666850073",
+      "size": "106291",
+      "md5": "f8d4312c9e4d1a6ff64f7292a6b47c00",
+      "crc32": "a91cbf60",
+      "sha1": "0574844788f8f7ec28f3632ce0a4c76e357d9f75",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-26T23:54:20.646691-06:00.jpg",
+      "source": "original",
+      "mtime": "1666850068",
+      "size": "397235",
+      "md5": "d7a0535ebdb1fede66128e6aa96a7ce5",
+      "crc32": "0cafa68f",
+      "sha1": "28743f746c9f401ec1de0bb22907f1900821a7d6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-26T23:54:20.646691-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666850075",
+      "size": "1429",
+      "md5": "b37908a7aa40efcc39e6da4b542c4f17",
+      "crc32": "cfd6081e",
+      "sha1": "e4e885170ca85db23077ef40c0604f4c9033864a",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-26T23:54:20.646691-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666850077",
+      "size": "164253",
+      "md5": "843ae88ff2b75adf1a6786af1f57ed3f",
+      "crc32": "f1759034",
+      "sha1": "33369eff2ad1026317419f749df25fcbc458604e",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-26T23:54:20.646691-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-26T23:54:20.646691-06:00.jpg",
+      "mtime": "1666874016",
+      "size": "10541",
+      "md5": "15aa5caedcc6856982e8ba96cb11788b",
+      "crc32": "a1bbb783",
+      "sha1": "35687aeff8eb1d0fff5ad2104097239f7b8133ad"
+    },
+    {
+      "name": "csgazette-2022-10-27T11:49:50.912048-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893001",
+      "size": "57594",
+      "md5": "44de6b0f34c5e61c82d2224edef65696",
+      "crc32": "f79f5be5",
+      "sha1": "1cc0f505d040367662da0da6b393d3ed8d2cd6e7",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-27T11:49:50.912048-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893003",
+      "size": "105541",
+      "md5": "a2daa8cc92694a90566555da6f46deb7",
+      "crc32": "b0605886",
+      "sha1": "51446d1e9822178432cd1ee68c4bae90241d1ed3",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-27T11:49:50.912048-06:00.jpg",
+      "source": "original",
+      "mtime": "1666892998",
+      "size": "358089",
+      "md5": "d973b10a9045be1b52b5fbb922c0ce7d",
+      "crc32": "d1ff636c",
+      "sha1": "bca47c130345a83f9cb3a8711cb07c166c16006a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-27T11:49:50.912048-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893005",
+      "size": "1429",
+      "md5": "8a876fb4a350f72ddb3842e40eb32017",
+      "crc32": "6fcea80a",
+      "sha1": "9c7049aec92639bc15770ca758ae326ef17f1fb7",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-27T11:49:50.912048-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893007",
+      "size": "188762",
+      "md5": "e0a791d961a8687480c14454a9a35d6d",
+      "crc32": "d76eda06",
+      "sha1": "234274eb8bdff514ef7369b208a82c8a6f40d473",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-27T11:49:50.912048-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-27T11:49:50.912048-06:00.jpg",
+      "mtime": "1666902960",
+      "size": "10184",
+      "md5": "8f9af67f2b7df25725f9de24ff81b136",
+      "crc32": "1f875bfd",
+      "sha1": "194f65192fb4837013ed57a2b9f3b2dc49c69e63"
+    },
+    {
+      "name": "csgazette-2022-10-28T02:22:28.526084-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945358",
+      "size": "57432",
+      "md5": "e5585b2208fdb7b4613d5ee98d36720a",
+      "crc32": "2b1d6329",
+      "sha1": "205458203d960fe3ff4ca2e6aa2e1610a067f502",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-28T02:22:28.526084-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945360",
+      "size": "104936",
+      "md5": "df1e5ef90cf5e5f8e7ab8152bf492e47",
+      "crc32": "7985baeb",
+      "sha1": "119794d9f02202fbd012c22eb3d4fadfbbcdd28c",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-28T02:22:28.526084-06:00.jpg",
+      "source": "original",
+      "mtime": "1666945356",
+      "size": "373417",
+      "md5": "e3550fd0f5a98969e88c34a044ebc45b",
+      "crc32": "be591fe8",
+      "sha1": "fe3552294d085acac7b9aec6a10f4f8f6b5f7988",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-28T02:22:28.526084-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945362",
+      "size": "1430",
+      "md5": "a879121d49f0d9ef5bffb178f0fd3de0",
+      "crc32": "a708d5ce",
+      "sha1": "3937fd4c22c766c2c71b603ab27733c21038837d",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-28T02:22:28.526084-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945363",
+      "size": "119026",
+      "md5": "70c0ceadc1ae3d6bafe0b68d29f4628d",
+      "crc32": "9e9eaf0d",
+      "sha1": "72abfe37bb268e7dc0c7e791c6f97a147e25a533",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-28T02:22:28.526084-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-28T02:22:28.526084-06:00.jpg",
+      "mtime": "1666949753",
+      "size": "10166",
+      "md5": "5d1862bb0ac064467f267e5947f71490",
+      "crc32": "0972d558",
+      "sha1": "ca902a5b962382e1376407271a6e7b66cf06070f"
+    },
+    {
+      "name": "csgazette-2022-10-28T11:16:09.276938-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666977394",
+      "size": "56933",
+      "md5": "35dd91ff5e399a1c0ece18eb3aed7d7c",
+      "crc32": "ef675ecd",
+      "sha1": "258ace4969cf47a270605465c936e41d045226f9",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-28T11:16:09.276938-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666977400",
+      "size": "104928",
+      "md5": "6fb9e86038ba35223707dddb080f3932",
+      "crc32": "fa773dc0",
+      "sha1": "d6bd59709f454091664a96215448ec640969ec46",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-28T11:16:09.276938-06:00.jpg",
+      "source": "original",
+      "mtime": "1666977392",
+      "size": "383934",
+      "md5": "a104f36918042bf4b4f153a01c2781f3",
+      "crc32": "1f389be8",
+      "sha1": "492f991b558325c4430ddca0c885f2018412d190",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-28T11:16:09.276938-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666977402",
+      "size": "1430",
+      "md5": "3d326f585852e53a922fbee3b1e3afb0",
+      "crc32": "746068f7",
+      "sha1": "80cb4686aa7974a2a16331693ea9aca0e0f1baa9",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-28T11:16:09.276938-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666977403",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-28T11:16:09.276938-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-28T11:16:09.276938-06:00.jpg",
+      "mtime": "1666980731",
+      "size": "10391",
+      "md5": "7e3359d6a04c6f29475adc318bcfcca3",
+      "crc32": "1b200244",
+      "sha1": "50839caea977dbe04f87a900a01f3a3ec272a66e"
+    },
+    {
+      "name": "csgazette-2022-10-28T23:26:21.910319-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667021185",
+      "size": "57666",
+      "md5": "095cb8f8a791769a4bcee27867403cd4",
+      "crc32": "63a48f06",
+      "sha1": "ace09591dd44a38b28cd0d9bfd9ac57a4ae1cecf",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-28T23:26:21.910319-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667021187",
+      "size": "105667",
+      "md5": "8a83973046a19a8d7b5d2a6d2dd833e4",
+      "crc32": "2e3a0c56",
+      "sha1": "5d2c66fbf83ceffd4c9d01663559c0934767e2ef",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-28T23:26:21.910319-06:00.jpg",
+      "source": "original",
+      "mtime": "1667021183",
+      "size": "383341",
+      "md5": "77d8638d6fef233474da83abfc57c72f",
+      "crc32": "3f1a0714",
+      "sha1": "aa99e78a542b790768c46d0a23094400edf9dcf6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-28T23:26:21.910319-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667021189",
+      "size": "1429",
+      "md5": "608b4abacc3b64d01a6eae5bb7b308fe",
+      "crc32": "c8c5edb5",
+      "sha1": "487606f537e530dbbf2c3e74e27f7760905a71a3",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-28T23:26:21.910319-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667021191",
+      "size": "200",
+      "md5": "091dfb5adcf349891c43ecee642bd2e9",
+      "crc32": "deb42c74",
+      "sha1": "5b23bfefe49be1eb3d58ccd7c681ca4a80f18f95",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-28T23:26:21.910319-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-28T23:26:21.910319-06:00.jpg",
+      "mtime": "1667023917",
+      "size": "10334",
+      "md5": "a2e2388b4ab8a5943725f0b08c58dd55",
+      "crc32": "5d502eb7",
+      "sha1": "bbfe09767e3bfebe5b6e1153bfa0d69669bd164a"
+    },
+    {
+      "name": "csgazette-2022-10-29T11:50:17.518005-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667065833",
+      "size": "57034",
+      "md5": "a0271f795785a5a018850814ee7ce4a4",
+      "crc32": "553a0498",
+      "sha1": "d35d6ff378d4c006983d616abb9d03a1ed8c17c6",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-29T11:50:17.518005-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667065834",
+      "size": "104083",
+      "md5": "d5f1cd01f1f8c66ab6545c720ea53b47",
+      "crc32": "53e90432",
+      "sha1": "65cd6b3cde7119de28a109b45893454db1284301",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-29T11:50:17.518005-06:00.jpg",
+      "source": "original",
+      "mtime": "1667065831",
+      "size": "393782",
+      "md5": "ed063deeb5015d3636ba4e7bb2bfb712",
+      "crc32": "f173242c",
+      "sha1": "fb56fffd8d480d1c39de9daf6224a7af73a747ef",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-29T11:50:17.518005-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667065836",
+      "size": "1430",
+      "md5": "bd74c35a2bc3aef73ef8a790453c7a5d",
+      "crc32": "e90dc8c3",
+      "sha1": "d2a070c3ee9c9e3cd3a5c70b45a77b9522c3f1f3",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-29T11:50:17.518005-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667065838",
+      "size": "96",
+      "md5": "d9c286ff297fdc68c62c5b56aaf1e0b7",
+      "crc32": "180ed673",
+      "sha1": "2b45062f0de1b750aaf70d69622d2f9a4289abfa",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-29T11:50:17.518005-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-29T11:50:17.518005-06:00.jpg",
+      "mtime": "1667066794",
+      "size": "10505",
+      "md5": "53f2e54a9003056cae1043228c0d8b52",
+      "crc32": "acb53d5c",
+      "sha1": "08192713638313f03a15bfb4fafd1a7601eb3729"
+    },
+    {
+      "name": "csgazette-2022-10-29T23:35:17.767489-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667108136",
+      "size": "57628",
+      "md5": "fbcd9b31315ef72c4e447ab070c329d7",
+      "crc32": "0eb8dc22",
+      "sha1": "1a4e07a7b01ad0d052b54efbbb2375cb53e6a710",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-29T23:35:17.767489-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667108137",
+      "size": "105420",
+      "md5": "90dd2dfc87f3d744d709cde401c3363a",
+      "crc32": "917e62a2",
+      "sha1": "85aca015f20d0bc445bbc67b054fe668579812a5",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-29T23:35:17.767489-06:00.jpg",
+      "source": "original",
+      "mtime": "1667108134",
+      "size": "397777",
+      "md5": "fda4517fa37b959a5bb1900e370c5f92",
+      "crc32": "36e8b245",
+      "sha1": "b249722e864d5b79f15207844c1dba3aa84c25c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-29T23:35:17.767489-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667108139",
+      "size": "1429",
+      "md5": "5c96457d785f2f89254b30b436d7b96b",
+      "crc32": "d4258152",
+      "sha1": "f53cb67f102196c38aa49854ae1c7577c9d4bc43",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-29T23:35:17.767489-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667108140",
+      "size": "108320",
+      "md5": "b563e67da83513f2cf9b8c6474922ee8",
+      "crc32": "d249317b",
+      "sha1": "d601723a1d6c7ea40d16d4ad1e54e99e7dc7658e",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-29T23:35:17.767489-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-29T23:35:17.767489-06:00.jpg",
+      "mtime": "1667108765",
+      "size": "10397",
+      "md5": "98c642ef07de3faff066223fe454db38",
+      "crc32": "74bd410f",
+      "sha1": "36bb77d246af5a7cb63526d01c8f804222b9e504"
+    },
+    {
+      "name": "csgazette-2022-10-30T11:17:28.782663-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667150279",
+      "size": "56467",
+      "md5": "57ae806c756508d1eda93ecdd471f81e",
+      "crc32": "0bc069af",
+      "sha1": "52d5d3fbc92fc12a59974eb6689e849f67a2855b",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-30T11:17:28.782663-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667150280",
+      "size": "103874",
+      "md5": "bcd3f4653e5027e0379315c408bb13b7",
+      "crc32": "87fb5363",
+      "sha1": "efbdf597efa4f3e8777c70f3d3dfbd3c1827d662",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-30T11:17:28.782663-06:00.jpg",
+      "source": "original",
+      "mtime": "1667150277",
+      "size": "382232",
+      "md5": "cd84281beafa91214e214d6b1981e5bb",
+      "crc32": "b8d7c256",
+      "sha1": "7eb2fc328a18e4a5911f71616fd76cf652de5a60",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-30T11:17:28.782663-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667150283",
+      "size": "1431",
+      "md5": "0a9d331f76cbdd3bd93eb907f5a964af",
+      "crc32": "a3125dbb",
+      "sha1": "4f20a3bc46d93dd3c3c9bbeac2ec04ad6dd16270",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-30T11:17:28.782663-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667150284",
+      "size": "124954",
+      "md5": "51a6d1decc8f9d2f9607a7ed9bd2ac00",
+      "crc32": "2e7083c2",
+      "sha1": "1fdc0d1e33384aea22a67c8f3760b791d97d4b1b",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-30T11:17:28.782663-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-30T11:17:28.782663-06:00.jpg",
+      "mtime": "1667151127",
+      "size": "10490",
+      "md5": "d8124a09dd63aa842ddd2a2b3c202163",
+      "crc32": "6b683786",
+      "sha1": "77a2bc371cd3ff89d0ca8ab53e5ef63fb4bb51b5"
+    },
+    {
+      "name": "csgazette-2022-10-31T00:35:05.233288-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198114",
+      "size": "56725",
+      "md5": "1ecd68a2f5ab2d598b0aaeaca0ac2adb",
+      "crc32": "11a6ef62",
+      "sha1": "f701c7aa523da73b497ba94b88c1134619a7edd1",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-31T00:35:05.233288-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198116",
+      "size": "104456",
+      "md5": "4015b15d58c5ef8d0ad8539890da9de1",
+      "crc32": "3b7cd680",
+      "sha1": "d125ea819dde5b47040c3939e259612c54cae3c7",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-31T00:35:05.233288-06:00.jpg",
+      "source": "original",
+      "mtime": "1667198113",
+      "size": "399992",
+      "md5": "726db63215ddb9b9a400a301aeda71b1",
+      "crc32": "d6ae2233",
+      "sha1": "8dd8c3cbe59c56a6ba0291dc94d2ef0ce0ad1330",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-31T00:35:05.233288-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198118",
+      "size": "1431",
+      "md5": "36b01bde859b4984b74fecb32bab311a",
+      "crc32": "86fa2c0e",
+      "sha1": "988e32b2b0ade630088742abe0b013e2a64730dd",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-31T00:35:05.233288-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198120",
+      "size": "130621",
+      "md5": "01cf92bd92165a761a60864af351ccb8",
+      "crc32": "0c165598",
+      "sha1": "640933e5d95225ff5a79b71be982c0b92c0fc5a5",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-31T00:35:05.233288-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-31T00:35:05.233288-06:00.jpg",
+      "mtime": "1667200140",
+      "size": "10435",
+      "md5": "6ae184da2c3ac3325d920ff207a249f7",
+      "crc32": "ed68e597",
+      "sha1": "565d31ecc43089f59156106614a56d62ee68e6d8"
+    },
+    {
+      "name": "csgazette-2022-10-31T11:43:49.574754-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667238241",
+      "size": "56801",
+      "md5": "9bec2f29e76c098fa8f381578ba4bd79",
+      "crc32": "6635b996",
+      "sha1": "ed0885811cbbb33afd7c782cb136c41ab3de01ee",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-31T11:43:49.574754-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667238243",
+      "size": "104716",
+      "md5": "647ce47d7a5ba1cd8dd892c485d547b6",
+      "crc32": "f9d3ea92",
+      "sha1": "fd5f24d2dc877ec5d5f06d3cde771bead25a6632",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-31T11:43:49.574754-06:00.jpg",
+      "source": "original",
+      "mtime": "1667238240",
+      "size": "405248",
+      "md5": "116b3baff12ca56b28c36da0a138a322",
+      "crc32": "f14e9b74",
+      "sha1": "f290d012f551998adf1367a25772ad7ad3688206",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "csgazette-2022-10-31T11:43:49.574754-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667238245",
+      "size": "1432",
+      "md5": "40b18fb0e2230097022c363f781da1b4",
+      "crc32": "b6017991",
+      "sha1": "971e50a4a72db9d3f58565dc8134b2e4ba5d8c04",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-31T11:43:49.574754-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667238247",
+      "size": "219607",
+      "md5": "07dff43ab61ec79da455666d5cdae8e2",
+      "crc32": "0b81b0b1",
+      "sha1": "e7cc6b9e411676c43aac45d54b926a47749d8f15",
+      "format": "JSON"
+    },
+    {
+      "name": "csgazette-2022-10-31T11:43:49.574754-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "csgazette-2022-10-31T11:43:49.574754-06:00.jpg",
+      "mtime": "1667239054",
+      "size": "10396",
+      "md5": "2ee45e967b6cf0b182a0eb0a0af71e66",
+      "crc32": "1d9fe56a",
+      "sha1": "05a3386b5abc84138c35e2917ebab57a566776f7"
+    },
+    {
       "name": "csgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "75f9162cd7abba34e4b6bb1fa2fd60e245b286d3",
-      "mtime": "1666717962",
-      "size": "180963",
-      "md5": "7aa33bd37acb984c42b6a3518f33e842",
-      "crc32": "337c27e7",
-      "sha1": "df9203fab5d4a8bf9826d501dd480e8c89b67a2b",
+      "btih": "9706a955b2c824879e23e880f556fcc49e390786",
+      "mtime": "1667239065",
+      "size": "196546",
+      "md5": "53a086650e7875fbaf0825eb394b79de",
+      "crc32": "d3f2c036",
+      "sha1": "01693baa7936112647c4e45e68de4f70aaf1d5db",
       "format": "Archive BitTorrent"
     },
     {
       "name": "csgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e923394626f98ed0147e72d077e05149",
+      "md5": "5b09a54bb224d8760b57470a0773cc59",
       "summation": "md5"
     },
     {
       "name": "csgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666717916",
-      "size": "1077248",
-      "md5": "bafe9598171cdffc781c76593cd06907",
-      "crc32": "a078518c",
-      "sha1": "6100ff5905fb3aa9e55bb3bfd82993d49b4cafed",
+      "mtime": "1667238253",
+      "size": "1167360",
+      "md5": "067b954b976e7e82f066e1e7a4df7aa6",
+      "crc32": "4730fe10",
+      "sha1": "acb4c0c34d8c80d094742a2324674b443f1bbaa1",
       "format": "Metadata"
     },
     {
@@ -8745,9 +9500,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 845,
-  "item_last_updated": 1666717962,
-  "item_size": 100206421,
+  "files_count": 918,
+  "item_last_updated": 1667239065,
+  "item_size": 108286417,
   "metadata": {
     "identifier": "csgazette-2022",
     "collection": [
@@ -8764,21 +9519,10 @@
     "publicdate": "2022-08-14 06:41:11",
     "addeddate": "2022-08-14 06:41:11"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451844118,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1034762901,
+  "uniq": 75081748,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

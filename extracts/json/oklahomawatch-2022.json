@@ -1,5 +1,5 @@
 {
-  "created": 1666706293,
+  "created": 1667226946,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/12/items/oklahomawatch-2022",
@@ -12661,31 +12661,786 @@
       "format": "JSON"
     },
     {
+      "name": "oklahomawatch-2022-10-25T08:56:45.618772-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-25T08:56:45.618772-05:00.jpg",
+      "mtime": "1666708650",
+      "size": "10511",
+      "md5": "396420ee54ef2939b8678ee9641114ce",
+      "crc32": "87d3e770",
+      "sha1": "e01509d9912e8a92adac698bb98bef2e30afc5dc"
+    },
+    {
+      "name": "oklahomawatch-2022-10-25T21:32:54.378666-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666751578",
+      "size": "11607",
+      "md5": "75f24a7c53478ceace275a4737f99fb7",
+      "crc32": "705c0344",
+      "sha1": "2557694731745aedc1fbf3237a7bf6b50f020f70",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-25T21:32:54.378666-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666751580",
+      "size": "23804",
+      "md5": "a295ab0bf0db26f2d91e9a85121966b9",
+      "crc32": "23940186",
+      "sha1": "8019e7e111c1bb015f99ef13c23e5832c94d78bb",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-25T21:32:54.378666-05:00.jpg",
+      "source": "original",
+      "mtime": "1666751576",
+      "size": "263643",
+      "md5": "7462fabff35c7d49ae2898af7fa2f16c",
+      "crc32": "df440704",
+      "sha1": "cab501f4966c3272cb4692b6ab9fccea6dd7fd2f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-25T21:32:54.378666-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666751582",
+      "size": "1476",
+      "md5": "7cd6c927fbf0ae0cb80f974c3cb14c67",
+      "crc32": "3ea43530",
+      "sha1": "617371a359c367d5b411380de4fad7cf1424d756",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-25T21:32:54.378666-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666751584",
+      "size": "14611",
+      "md5": "59e81613429a543fab01dc504e42d684",
+      "crc32": "17d3d2f7",
+      "sha1": "7bfe3e29970251d7b4fe8140c1f7f49430b3b381",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-25T21:32:54.378666-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-25T21:32:54.378666-05:00.jpg",
+      "mtime": "1666751870",
+      "size": "10569",
+      "md5": "aa630040c67da3f7925f20b037486f35",
+      "crc32": "eb3cfba6",
+      "sha1": "187ce248127b32f59086d720ceb7bfc0b1123dbd"
+    },
+    {
+      "name": "oklahomawatch-2022-10-26T09:56:09.027462-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796198",
+      "size": "11636",
+      "md5": "cd5917d355ac03fdd529825bd22abf91",
+      "crc32": "5ec18f09",
+      "sha1": "774b06fb00ea567df7760f4afc7be9fd8fcf6e6d",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-26T09:56:09.027462-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796200",
+      "size": "23850",
+      "md5": "faabe98a333daa122b315680a7610b72",
+      "crc32": "4d108137",
+      "sha1": "2186ef0ff6a8fd480f2ff474ffa51f902ca1472c",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-26T09:56:09.027462-05:00.jpg",
+      "source": "original",
+      "mtime": "1666796196",
+      "size": "266780",
+      "md5": "a254c5c2463fa1258eb687e965cae9cb",
+      "crc32": "49c6a47b",
+      "sha1": "856e5352cd2b68b9ca8434e65a427adf606dbb2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-26T09:56:09.027462-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796201",
+      "size": "1477",
+      "md5": "4dbea726d722376322d5b0b9e648931f",
+      "crc32": "459933f5",
+      "sha1": "4c167398a624004c9ae8c50142f132f99a111fdd",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-26T09:56:09.027462-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796203",
+      "size": "14135",
+      "md5": "c0f18aa1a6b3902e629cb4c6947da009",
+      "crc32": "e55e5466",
+      "sha1": "ba1bc75dd15b774404f5dd2263d4e6dd8aa967a5",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-26T09:56:09.027462-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-26T09:56:09.027462-05:00.jpg",
+      "mtime": "1666797046",
+      "size": "10640",
+      "md5": "b61af38278218adeb38f6df03b3f77b2",
+      "crc32": "9462a745",
+      "sha1": "4bc3a20d67c93cb0b07008bacac8ee14e40f25ac"
+    },
+    {
+      "name": "oklahomawatch-2022-10-26T21:29:21.097348-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666837765",
+      "size": "11565",
+      "md5": "98e65db6b6620f649baf0ca41f0947e4",
+      "crc32": "b62e0409",
+      "sha1": "4b3b55dc76ce4844cc601ed4de9d5e4114f921dc",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-26T21:29:21.097348-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837767",
+      "size": "23844",
+      "md5": "5dbb07d25e93299e8bbc27630fcc4c51",
+      "crc32": "6091953c",
+      "sha1": "39b4c70522a62c2705139690d341052294f473e1",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-26T21:29:21.097348-05:00.jpg",
+      "source": "original",
+      "mtime": "1666837762",
+      "size": "263672",
+      "md5": "63a9e5e8e8261db11195561e75ed10ae",
+      "crc32": "6d53039d",
+      "sha1": "555aa34c0e9d68951609b75ef7ea4bb3c7e9f11e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-26T21:29:21.097348-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837770",
+      "size": "1476",
+      "md5": "456af02de1bf68813fc4c9e8706d8bbb",
+      "crc32": "dc08c5a2",
+      "sha1": "fea77b1627aaf93522255303af335edb831abe83",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-26T21:29:21.097348-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666837772",
+      "size": "268",
+      "md5": "01d4fb2742a0d025454b950d9222c1cf",
+      "crc32": "a5bcec8e",
+      "sha1": "a17df9f5c7010107ef6f07e5b5f82be426010a63",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-26T21:29:21.097348-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-26T21:29:21.097348-05:00.jpg",
+      "mtime": "1666862755",
+      "size": "10863",
+      "md5": "91df1ac00cd9234711895a6eb56a1647",
+      "crc32": "c1b954d9",
+      "sha1": "75952daebc1d8ffaa780c25d53a98d97893c3bcb"
+    },
+    {
+      "name": "oklahomawatch-2022-10-27T09:16:00.514946-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666880172",
+      "size": "11617",
+      "md5": "c83aa5b9aa3b52dc6e97bef07dbf68d2",
+      "crc32": "b41d57d6",
+      "sha1": "6a4f8d1d278a24a2fc65846819761177c86722fd",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-27T09:16:00.514946-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666880174",
+      "size": "23893",
+      "md5": "aaab332a12b28274d0e77635d1b660a7",
+      "crc32": "33aefa9f",
+      "sha1": "71dcbc744da1b5eec618a346ecfea7fca263224b",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-27T09:16:00.514946-05:00.jpg",
+      "source": "original",
+      "mtime": "1666880170",
+      "size": "262929",
+      "md5": "e6385e11d3a597f8985c680a26f3a50a",
+      "crc32": "beff3dde",
+      "sha1": "aa33f89d0cc3973898d3352396979fdae69f8dfb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-27T09:16:00.514946-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666880176",
+      "size": "1477",
+      "md5": "f105ca2880987cd59e9d1458d845a44d",
+      "crc32": "cd33a427",
+      "sha1": "e293b313619f772f9ee1f5ce56eac80945fb0adf",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-27T09:16:00.514946-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666880177",
+      "size": "14085",
+      "md5": "77820df0db98ba5a19543a9562a30f04",
+      "crc32": "35e9d8fc",
+      "sha1": "b42f799e7afd67b1ff271c19b562c91a77892c58",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-27T09:16:00.514946-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-27T09:16:00.514946-05:00.jpg",
+      "mtime": "1666893560",
+      "size": "10785",
+      "md5": "0ed12a82d5dcdbcf61940b1cf9d2db71",
+      "crc32": "a9defbb9",
+      "sha1": "49843de33323bbdb91ee262a78894d3545210b07"
+    },
+    {
+      "name": "oklahomawatch-2022-10-27T21:30:32.563034-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666924235",
+      "size": "11617",
+      "md5": "c83aa5b9aa3b52dc6e97bef07dbf68d2",
+      "crc32": "b41d57d6",
+      "sha1": "6a4f8d1d278a24a2fc65846819761177c86722fd",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-27T21:30:32.563034-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666924236",
+      "size": "23893",
+      "md5": "aaab332a12b28274d0e77635d1b660a7",
+      "crc32": "33aefa9f",
+      "sha1": "71dcbc744da1b5eec618a346ecfea7fca263224b",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-27T21:30:32.563034-05:00.jpg",
+      "source": "original",
+      "mtime": "1666924233",
+      "size": "262929",
+      "md5": "e6385e11d3a597f8985c680a26f3a50a",
+      "crc32": "beff3dde",
+      "sha1": "aa33f89d0cc3973898d3352396979fdae69f8dfb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-27T21:30:32.563034-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666924238",
+      "size": "1477",
+      "md5": "19f71106d8fa23b6c02e1e8d4c4fc0eb",
+      "crc32": "19725c84",
+      "sha1": "50589afbd09b7404a53c222adc4af327a645f2be",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-27T21:30:32.563034-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666924240",
+      "size": "14179",
+      "md5": "a5b03d526c7241105224e31eaed0d98d",
+      "crc32": "a9ca85a3",
+      "sha1": "30251e9d7c394fd1e7ab24d3dd78f4138e13dca5",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-27T21:30:32.563034-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-27T21:30:32.563034-05:00.jpg",
+      "mtime": "1666925501",
+      "size": "10785",
+      "md5": "0ed12a82d5dcdbcf61940b1cf9d2db71",
+      "crc32": "a9defbb9",
+      "sha1": "49843de33323bbdb91ee262a78894d3545210b07"
+    },
+    {
+      "name": "oklahomawatch-2022-10-28T09:04:49.568623-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666965894",
+      "size": "11617",
+      "md5": "c83aa5b9aa3b52dc6e97bef07dbf68d2",
+      "crc32": "b41d57d6",
+      "sha1": "6a4f8d1d278a24a2fc65846819761177c86722fd",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-28T09:04:49.568623-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666965896",
+      "size": "23893",
+      "md5": "aaab332a12b28274d0e77635d1b660a7",
+      "crc32": "33aefa9f",
+      "sha1": "71dcbc744da1b5eec618a346ecfea7fca263224b",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-28T09:04:49.568623-05:00.jpg",
+      "source": "original",
+      "mtime": "1666965891",
+      "size": "262929",
+      "md5": "e6385e11d3a597f8985c680a26f3a50a",
+      "crc32": "beff3dde",
+      "sha1": "aa33f89d0cc3973898d3352396979fdae69f8dfb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-28T09:04:49.568623-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666965898",
+      "size": "1477",
+      "md5": "97a3ddbf3465b0324bdcd9d40b48f575",
+      "crc32": "3da60f99",
+      "sha1": "f4939f49acf0ff4abf357101666ad9aeb8e183f0",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-28T09:04:49.568623-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666965899",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-28T09:04:49.568623-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-28T09:04:49.568623-05:00.jpg",
+      "mtime": "1666970881",
+      "size": "10785",
+      "md5": "0ed12a82d5dcdbcf61940b1cf9d2db71",
+      "crc32": "a9defbb9",
+      "sha1": "49843de33323bbdb91ee262a78894d3545210b07"
+    },
+    {
+      "name": "oklahomawatch-2022-10-28T21:16:49.448151-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667009816",
+      "size": "10048",
+      "md5": "f3680ebbd545b91cf27afdb7a241aeeb",
+      "crc32": "8eb3a305",
+      "sha1": "999e95dac8241652b11896fc015c506e45cd7221",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-28T21:16:49.448151-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667009818",
+      "size": "23887",
+      "md5": "077d55e459292c01cf8c20ca9b905cc3",
+      "crc32": "dbd5180c",
+      "sha1": "440cbd97c27b1a31ed1386e7a5176b054a08e176",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-28T21:16:49.448151-05:00.jpg",
+      "source": "original",
+      "mtime": "1667009814",
+      "size": "262929",
+      "md5": "e6385e11d3a597f8985c680a26f3a50a",
+      "crc32": "beff3dde",
+      "sha1": "aa33f89d0cc3973898d3352396979fdae69f8dfb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-28T21:16:49.448151-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667009820",
+      "size": "1477",
+      "md5": "f04bedb59b83a09f4f8e4a1d5ddf0f57",
+      "crc32": "a66cd73a",
+      "sha1": "e5fa46acfc56c2a763ebb343db6d2a3522af3b88",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-28T21:16:49.448151-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667009821",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-28T21:16:49.448151-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-28T21:16:49.448151-05:00.jpg",
+      "mtime": "1667017318",
+      "size": "10785",
+      "md5": "0ed12a82d5dcdbcf61940b1cf9d2db71",
+      "crc32": "a9defbb9",
+      "sha1": "49843de33323bbdb91ee262a78894d3545210b07"
+    },
+    {
+      "name": "oklahomawatch-2022-10-29T09:06:11.846223-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667052383",
+      "size": "11615",
+      "md5": "cc7a85912617cf3b2c955e5461069c51",
+      "crc32": "092e76cc",
+      "sha1": "8f3f474f05e337382aab0bd621575711cbfbf8bb",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-29T09:06:11.846223-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667052384",
+      "size": "23887",
+      "md5": "077d55e459292c01cf8c20ca9b905cc3",
+      "crc32": "dbd5180c",
+      "sha1": "440cbd97c27b1a31ed1386e7a5176b054a08e176",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-29T09:06:11.846223-05:00.jpg",
+      "source": "original",
+      "mtime": "1667052381",
+      "size": "262929",
+      "md5": "e6385e11d3a597f8985c680a26f3a50a",
+      "crc32": "beff3dde",
+      "sha1": "aa33f89d0cc3973898d3352396979fdae69f8dfb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-29T09:06:11.846223-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667052386",
+      "size": "1477",
+      "md5": "d8825fb1f45ea0dc2a84e020c46f69c7",
+      "crc32": "12564ea3",
+      "sha1": "1705562256bf0be303f29568b93ace1982be3b15",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-29T09:06:11.846223-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667052388",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-29T09:06:11.846223-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-29T09:06:11.846223-05:00.jpg",
+      "mtime": "1667053711",
+      "size": "10785",
+      "md5": "0ed12a82d5dcdbcf61940b1cf9d2db71",
+      "crc32": "a9defbb9",
+      "sha1": "49843de33323bbdb91ee262a78894d3545210b07"
+    },
+    {
+      "name": "oklahomawatch-2022-10-29T21:08:49.995504-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667095737",
+      "size": "10048",
+      "md5": "f3680ebbd545b91cf27afdb7a241aeeb",
+      "crc32": "8eb3a305",
+      "sha1": "999e95dac8241652b11896fc015c506e45cd7221",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-29T21:08:49.995504-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095738",
+      "size": "23887",
+      "md5": "077d55e459292c01cf8c20ca9b905cc3",
+      "crc32": "dbd5180c",
+      "sha1": "440cbd97c27b1a31ed1386e7a5176b054a08e176",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-29T21:08:49.995504-05:00.jpg",
+      "source": "original",
+      "mtime": "1667095735",
+      "size": "262929",
+      "md5": "e6385e11d3a597f8985c680a26f3a50a",
+      "crc32": "beff3dde",
+      "sha1": "aa33f89d0cc3973898d3352396979fdae69f8dfb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-29T21:08:49.995504-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095740",
+      "size": "1477",
+      "md5": "f850c6a64d15c8a61d2f4f9c6752b74b",
+      "crc32": "9bcb61ab",
+      "sha1": "72a44cf928ba3f898bac727896cbfe247c2ba1af",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-29T21:08:49.995504-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667095742",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-29T21:08:49.995504-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-29T21:08:49.995504-05:00.jpg",
+      "mtime": "1667097684",
+      "size": "10785",
+      "md5": "0ed12a82d5dcdbcf61940b1cf9d2db71",
+      "crc32": "a9defbb9",
+      "sha1": "49843de33323bbdb91ee262a78894d3545210b07"
+    },
+    {
+      "name": "oklahomawatch-2022-10-30T08:49:25.936873-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667137796",
+      "size": "11615",
+      "md5": "cc7a85912617cf3b2c955e5461069c51",
+      "crc32": "092e76cc",
+      "sha1": "8f3f474f05e337382aab0bd621575711cbfbf8bb",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-30T08:49:25.936873-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667137798",
+      "size": "23887",
+      "md5": "077d55e459292c01cf8c20ca9b905cc3",
+      "crc32": "dbd5180c",
+      "sha1": "440cbd97c27b1a31ed1386e7a5176b054a08e176",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-30T08:49:25.936873-05:00.jpg",
+      "source": "original",
+      "mtime": "1667137794",
+      "size": "262929",
+      "md5": "e6385e11d3a597f8985c680a26f3a50a",
+      "crc32": "beff3dde",
+      "sha1": "aa33f89d0cc3973898d3352396979fdae69f8dfb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-30T08:49:25.936873-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667137800",
+      "size": "1476",
+      "md5": "90e15cb6508dcfa69eade06cbaba8e2d",
+      "crc32": "b80584fb",
+      "sha1": "96fe8beed7b9e7cf5be5dc2923d0f43bb903d537",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-30T08:49:25.936873-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667137801",
+      "size": "14206",
+      "md5": "eabcde151783e98d06be1231cfc27912",
+      "crc32": "5fb984a0",
+      "sha1": "e7fb275eca3b6cce2ee9233776162e62eb076ca0",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-30T08:49:25.936873-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-30T08:49:25.936873-05:00.jpg",
+      "mtime": "1667139311",
+      "size": "10785",
+      "md5": "0ed12a82d5dcdbcf61940b1cf9d2db71",
+      "crc32": "a9defbb9",
+      "sha1": "49843de33323bbdb91ee262a78894d3545210b07"
+    },
+    {
+      "name": "oklahomawatch-2022-10-30T21:15:17.064744-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667182524",
+      "size": "11615",
+      "md5": "cc7a85912617cf3b2c955e5461069c51",
+      "crc32": "092e76cc",
+      "sha1": "8f3f474f05e337382aab0bd621575711cbfbf8bb",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-30T21:15:17.064744-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667182526",
+      "size": "23887",
+      "md5": "077d55e459292c01cf8c20ca9b905cc3",
+      "crc32": "dbd5180c",
+      "sha1": "440cbd97c27b1a31ed1386e7a5176b054a08e176",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-30T21:15:17.064744-05:00.jpg",
+      "source": "original",
+      "mtime": "1667182522",
+      "size": "262929",
+      "md5": "e6385e11d3a597f8985c680a26f3a50a",
+      "crc32": "beff3dde",
+      "sha1": "aa33f89d0cc3973898d3352396979fdae69f8dfb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-30T21:15:17.064744-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667182527",
+      "size": "1477",
+      "md5": "2410c00de5f04ddb874630be5949d4cf",
+      "crc32": "34d7b144",
+      "sha1": "5a01e1c0c46aa4b344698b9e942a489066da6d95",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-30T21:15:17.064744-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667182529",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-30T21:15:17.064744-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-30T21:15:17.064744-05:00.jpg",
+      "mtime": "1667183300",
+      "size": "10785",
+      "md5": "0ed12a82d5dcdbcf61940b1cf9d2db71",
+      "crc32": "a9defbb9",
+      "sha1": "49843de33323bbdb91ee262a78894d3545210b07"
+    },
+    {
+      "name": "oklahomawatch-2022-10-31T09:15:01.426871-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667225711",
+      "size": "9983",
+      "md5": "d5a18816e0f6dcad9efab86f6c2093f2",
+      "crc32": "fd52c2a3",
+      "sha1": "fb738a59f5eaad7a326d22d121cbe2d74040b61f",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-31T09:15:01.426871-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667225712",
+      "size": "23786",
+      "md5": "5c4be80a9af862eef5055c5ae2f2eb97",
+      "crc32": "d77922da",
+      "sha1": "3e5730b91a8211bdf5573b958dfceecb5aed55f3",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-31T09:15:01.426871-05:00.jpg",
+      "source": "original",
+      "mtime": "1667225708",
+      "size": "243034",
+      "md5": "d1f69300594812067ed81215d1cad261",
+      "crc32": "7a3cd846",
+      "sha1": "48c31f5737aa03202751de0aa21a2a3b04cfa577",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-10-31T09:15:01.426871-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667225714",
+      "size": "1477",
+      "md5": "7ffc8d59086f0ddaab8433da6556a67c",
+      "crc32": "e51294c2",
+      "sha1": "f42b3e14a93e5040fce70b45711eda4aa8b99003",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-31T09:15:01.426871-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667225716",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-10-31T09:15:01.426871-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-10-31T09:15:01.426871-05:00.jpg",
+      "mtime": "1667226851",
+      "size": "10482",
+      "md5": "92e7b00ee1c0df11fadf3e92b91a21a3",
+      "crc32": "30511413",
+      "sha1": "2fd671e1182bc0aa314d3935dae3cf345d1e484b"
+    },
+    {
       "name": "oklahomawatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6e7cab2f9a8bd2f3fe39fc4ba2a3f8e3a1a5e84b",
-      "mtime": "1666706280",
-      "size": "264454",
-      "md5": "5343d23e72b6bbe1837c057289ae6882",
-      "crc32": "49240e9d",
-      "sha1": "a8bda6ff74f46464493f1d0bfff00c3434ac38f6",
+      "btih": "b51b22f68abec86014ce069fa8dc086c70445975",
+      "mtime": "1667226900",
+      "size": "280145",
+      "md5": "4e362a1c9449c259e4261257eb71b1e0",
+      "crc32": "994040f3",
+      "sha1": "7994564a81ec6481f5e7720672e2700ec026f486",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oklahomawatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ddd4b5d5973b258a5e451555a2cbe233",
+      "md5": "be8680f2aa9892a70a7d983ec384be5a",
       "summation": "md5"
     },
     {
       "name": "oklahomawatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666706229",
-      "size": "1556480",
-      "md5": "5c97121689a9ac02d862dff2aae7536e",
-      "crc32": "58045ed4",
-      "sha1": "dfbc70d75a04f1e89918e3fdc7be389006500a0c",
+      "mtime": "1667225725",
+      "size": "1646592",
+      "md5": "3bef8fb10f7c0797f212095b9d91a2b8",
+      "crc32": "5f329b4b",
+      "sha1": "cd300c414ac54fcac824b0e33e4fc615e5ac7d7f",
       "format": "Metadata"
     },
     {
@@ -12699,9 +13454,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1226,
-  "item_last_updated": 1666706280,
-  "item_size": 76137948,
+  "files_count": 1299,
+  "item_last_updated": 1667226900,
+  "item_size": 80035055,
   "metadata": {
     "identifier": "oklahomawatch-2022",
     "collection": [
@@ -12718,21 +13473,10 @@
     "publicdate": "2022-07-09 04:01:49",
     "addeddate": "2022-07-09 04:01:49"
   },
-  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451703391,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 937595983,
+  "uniq": 1305355991,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

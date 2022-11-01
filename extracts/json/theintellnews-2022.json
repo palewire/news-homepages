@@ -1,5 +1,5 @@
 {
-  "created": 1666709567,
+  "created": 1667228481,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/6/items/theintellnews-2022",
@@ -4323,31 +4323,775 @@
       "format": "JSON"
     },
     {
+      "name": "theintellnews-2022-10-25T10:51:49.627410-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-25T10:51:49.627410-04:00.jpg",
+      "mtime": "1666712392",
+      "size": "9524",
+      "md5": "1ee64d66e85b8bb9b822c7d001348e85",
+      "crc32": "61f2c627",
+      "sha1": "6f1df6054fafd9e2d4c44bceebee4581b29f33d6"
+    },
+    {
+      "name": "theintellnews-2022-10-25T23:46:03.427550-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666755969",
+      "size": "24179",
+      "md5": "d85aeb9ba116d4f3041260ec395e280f",
+      "crc32": "a12f28ea",
+      "sha1": "3a7a999b3ffb03b9a6fbd5769f229314b41dcada",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-25T23:46:03.427550-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666755971",
+      "size": "36316",
+      "md5": "d12bcafad7942340e29880ff40390ed5",
+      "crc32": "c6ec22c0",
+      "sha1": "022253fda4d26a781199a6193365d56e6268652b",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-25T23:46:03.427550-04:00.jpg",
+      "source": "original",
+      "mtime": "1666755967",
+      "size": "246013",
+      "md5": "26051e397c7e6ddbc487bed35246723a",
+      "crc32": "b2105163",
+      "sha1": "642a3d33ecca3204e4a7783e651da242472bbdf1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-25T23:46:03.427550-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666755972",
+      "size": "1486",
+      "md5": "fc9d7608b380a230bbe1906d9061af72",
+      "crc32": "61ced583",
+      "sha1": "54d49bb90dafa49c59040d5df28e42b31117c3f4",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-25T23:46:03.427550-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666755974",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-25T23:46:03.427550-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-25T23:46:03.427550-04:00.jpg",
+      "mtime": "1666756242",
+      "size": "9367",
+      "md5": "ac170d78fc2d67f1957f7f4808c5921a",
+      "crc32": "59d8a529",
+      "sha1": "460ce1b6388edb1b4cef0aed2271201930632f80"
+    },
+    {
+      "name": "theintellnews-2022-10-26T11:04:52.688611-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796698",
+      "size": "23904",
+      "md5": "06d5db61b81c28aced0c713275f81689",
+      "crc32": "d36e9c98",
+      "sha1": "ce4e8b2d6556f8cadfa3662b084de5bd8dba2f72",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-26T11:04:52.688611-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796699",
+      "size": "33041",
+      "md5": "d2878cc6e5b8ca9a1a0a9774b43be7a9",
+      "crc32": "1e7846b0",
+      "sha1": "c24f6057a1f4b08245466e73e228f8939fbcb90f",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-26T11:04:52.688611-04:00.jpg",
+      "source": "original",
+      "mtime": "1666796695",
+      "size": "247874",
+      "md5": "2d42dd9f0862c53a66e98a834b43bde9",
+      "crc32": "51430946",
+      "sha1": "fb83db83c98d915c6ee86df3538495141addb8a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-26T11:04:52.688611-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796701",
+      "size": "1486",
+      "md5": "f846193c5c61b458481cc18d9681caa8",
+      "crc32": "d356f972",
+      "sha1": "f40bf193f5c8afa68cf48788a9ab03e616d5b7e3",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-26T11:04:52.688611-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796703",
+      "size": "117381",
+      "md5": "50e2afb86a8913364a1fa1ebd8d2f9eb",
+      "crc32": "f721338f",
+      "sha1": "dd35770bf70c5bd998c89c0c174878c01cdfb43d",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-26T11:04:52.688611-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-26T11:04:52.688611-04:00.jpg",
+      "mtime": "1666798017",
+      "size": "9416",
+      "md5": "de4203739269f121aef3bb96615ccb4f",
+      "crc32": "f65e85f7",
+      "sha1": "e7c9cbae19655ebe658902776e9a3f821a17d0ed"
+    },
+    {
+      "name": "theintellnews-2022-10-26T23:40:08.805944-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666842016",
+      "size": "11102",
+      "md5": "a3806fdef94f688b256b4992688bb1b5",
+      "crc32": "7ccff209",
+      "sha1": "be5ee627eb63620efc9c02230b8092fafb5d0cbf",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-26T23:40:08.805944-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666842018",
+      "size": "34213",
+      "md5": "5c7aef68f3cc20cb1de1ee394a9e5922",
+      "crc32": "c061e5e4",
+      "sha1": "52c46f27bd5f3da3c01b70d127a60bd7befe7cdb",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-26T23:40:08.805944-04:00.jpg",
+      "source": "original",
+      "mtime": "1666842014",
+      "size": "261055",
+      "md5": "f3f40fbc5b66cae2de0707b3f9052f43",
+      "crc32": "6bf6228a",
+      "sha1": "6387819d30337c35b9437448b5cb0b2a27dda10e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-26T23:40:08.805944-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666842020",
+      "size": "1486",
+      "md5": "7b3e1fce2935a7d1e6b35718cb7bfb88",
+      "crc32": "76d0692c",
+      "sha1": "7c03189e3d0ddfe5d47793da3b3c0892ce02905f",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-26T23:40:08.805944-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666842022",
+      "size": "108938",
+      "md5": "a2801b85d7e3cb1ee0da5c44109f13ca",
+      "crc32": "d4967235",
+      "sha1": "727c5e0298baa698d2c805d1319a200d6f8c9e20",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-26T23:40:08.805944-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-26T23:40:08.805944-04:00.jpg",
+      "mtime": "1666867448",
+      "size": "9491",
+      "md5": "cfbce6fe35d26e9d0aea8215246d1135",
+      "crc32": "69107374",
+      "sha1": "9329fefc6ec31894e548815799d4a15e0afcf82d"
+    },
+    {
+      "name": "theintellnews-2022-10-27T11:10:54.634324-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883471",
+      "size": "23642",
+      "md5": "1f774da2053484de4a0d4d8b0b1785d0",
+      "crc32": "a5b295da",
+      "sha1": "13be6323779b906c178e3b75889462969ba2ffa9",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-27T11:10:54.634324-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883474",
+      "size": "35152",
+      "md5": "8ec8584fb170d1c25ac94854d4a5b940",
+      "crc32": "65194c4e",
+      "sha1": "f21d580f13416f2941b29a541800e908acef2636",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-27T11:10:54.634324-04:00.jpg",
+      "source": "original",
+      "mtime": "1666883468",
+      "size": "252587",
+      "md5": "72f1287418fe2a732480fd5ded25e30d",
+      "crc32": "c67a1597",
+      "sha1": "34f42181377c4843fa484056857c3c89d80da395",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-27T11:10:54.634324-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883476",
+      "size": "1486",
+      "md5": "758143df916c3bf0fd45a7182e5fcb13",
+      "crc32": "a7b23f67",
+      "sha1": "4c23aff52716a0326bdbb6e0c2da5260f77c3ddf",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-27T11:10:54.634324-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883478",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-27T11:10:54.634324-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-27T11:10:54.634324-04:00.jpg",
+      "mtime": "1666895589",
+      "size": "9137",
+      "md5": "bd2fb455db98d5fd4cf8ea35465121ed",
+      "crc32": "c223376d",
+      "sha1": "d920c418e654530d7a4993ddb0b5520f981f959b"
+    },
+    {
+      "name": "theintellnews-2022-10-28T00:39:13.844281-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666931957",
+      "size": "24437",
+      "md5": "b889e3024ea8acb809d68e9433ecc12d",
+      "crc32": "70ade0a4",
+      "sha1": "2efa94855e2821032b17a64844b1b461d168406d",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T00:39:13.844281-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666931960",
+      "size": "44760",
+      "md5": "8c8b5c1bfc0dee9614c5318e6e9d173f",
+      "crc32": "39866436",
+      "sha1": "c7a64acd9cfd9fc93811be5fedcafdb54f9ac2ce",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T00:39:13.844281-04:00.jpg",
+      "source": "original",
+      "mtime": "1666931955",
+      "size": "267419",
+      "md5": "b552b26c682ee7160e8d3fffc0ad6a90",
+      "crc32": "72646000",
+      "sha1": "d4736a611d2b278fa55a03c4c61bfc904e508257",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-28T00:39:13.844281-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666931961",
+      "size": "1486",
+      "md5": "600645110b981140e2208803d4de3831",
+      "crc32": "8437415e",
+      "sha1": "3f6eddb5dd34770261db4524c25a00bb62cb4bce",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T00:39:13.844281-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666931963",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T00:39:13.844281-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-28T00:39:13.844281-04:00.jpg",
+      "mtime": "1666933530",
+      "size": "9158",
+      "md5": "f3294e57960d27aa79679ef67d527706",
+      "crc32": "1d406971",
+      "sha1": "e49d1db583d86e995e847341155897c5881c61ff"
+    },
+    {
+      "name": "theintellnews-2022-10-28T10:45:12.537313-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968317",
+      "size": "24069",
+      "md5": "c14e87ac6a2d92b63af2404ac76b1478",
+      "crc32": "0ab9d4e1",
+      "sha1": "cdb2236a006d0241a8ab9215c8fdff8ab0d58bc0",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T10:45:12.537313-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968318",
+      "size": "42157",
+      "md5": "fe610440d8e707da52543199a4d9d9ee",
+      "crc32": "8e09ea3f",
+      "sha1": "0c1ba12dfad9e3409b570f0cea2506fa4b8fc98d",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T10:45:12.537313-04:00.jpg",
+      "source": "original",
+      "mtime": "1666968315",
+      "size": "295061",
+      "md5": "50869182c3a5aef60f3379c5651cd1d7",
+      "crc32": "9226cbd2",
+      "sha1": "573c5338a35618752d44be8708652ce79e1c6561",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-28T10:45:12.537313-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968320",
+      "size": "1486",
+      "md5": "3ece08e32c2b1667fdd4db3924a4e799",
+      "crc32": "ae1aa136",
+      "sha1": "cdbd14f95bea8e20fbad278889f3e62c292db7a9",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T10:45:12.537313-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968322",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T10:45:12.537313-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-28T10:45:12.537313-04:00.jpg",
+      "mtime": "1666973310",
+      "size": "9243",
+      "md5": "554f62c78692d1892cb2c8faf315e8a7",
+      "crc32": "23d8a90c",
+      "sha1": "10fd0847d59bc9bee60a502025e48b540e42603e"
+    },
+    {
+      "name": "theintellnews-2022-10-28T23:31:38.674575-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014302",
+      "size": "24584",
+      "md5": "be100d55e051d9bd79b2692ddb141ce5",
+      "crc32": "2fbd8f82",
+      "sha1": "338fb579ef2d3abb5e9b2b821a120a3eefbf7b7f",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T23:31:38.674575-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014304",
+      "size": "32297",
+      "md5": "0e9c7e7e6d65d6d985785e5267d122e5",
+      "crc32": "563b27e4",
+      "sha1": "cf549f229706d9e86cffdb49c8030a41df02db39",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T23:31:38.674575-04:00.jpg",
+      "source": "original",
+      "mtime": "1667014300",
+      "size": "299098",
+      "md5": "77541acb424baf5e0a6edcbf9dd5f6d1",
+      "crc32": "4c339660",
+      "sha1": "b4159558e4637d5aec06771943372e8a43d1e293",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-28T23:31:38.674575-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014307",
+      "size": "1486",
+      "md5": "1506620fff8f1c3bb7d8f4a19a7a445e",
+      "crc32": "f4a83722",
+      "sha1": "a83aea1d3bea8d6cf2cb0f9d8f29c89cd4ba7d71",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T23:31:38.674575-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014308",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-28T23:31:38.674575-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-28T23:31:38.674575-04:00.jpg",
+      "mtime": "1667015810",
+      "size": "9387",
+      "md5": "125fab572bf65d056006d5340396d7a5",
+      "crc32": "d1790585",
+      "sha1": "e6f5e06f0a43182b7796f660489e614f94aedfc7"
+    },
+    {
+      "name": "theintellnews-2022-10-29T11:07:13.632468-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667056041",
+      "size": "24886",
+      "md5": "b8feb3e33249fba01e9715b03d9b752e",
+      "crc32": "229644fd",
+      "sha1": "f011ceac119a354e82e3e09b1582af6847fe2807",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-29T11:07:13.632468-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667056043",
+      "size": "44800",
+      "md5": "a50c1b0423fd3963b7157b8d2afdad9b",
+      "crc32": "7c3aaa3c",
+      "sha1": "a9fc69449917f33303d55f6891ba0bc5ce66b8fa",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-29T11:07:13.632468-04:00.jpg",
+      "source": "original",
+      "mtime": "1667056039",
+      "size": "269681",
+      "md5": "69406d09178fa5063fb332a25f76571b",
+      "crc32": "09465aa6",
+      "sha1": "0009cee7cccf578bf3c6e477436c3da4e7a1d4ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-29T11:07:13.632468-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667056044",
+      "size": "1486",
+      "md5": "7a122a9e1c4f0844401fbca9101c9436",
+      "crc32": "f83d441c",
+      "sha1": "5e2dff0426c8e0fbc7661e2158d1133ab1b62479",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-29T11:07:13.632468-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667056046",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-29T11:07:13.632468-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-29T11:07:13.632468-04:00.jpg",
+      "mtime": "1667056883",
+      "size": "9330",
+      "md5": "3d3a5390cdd923cc8d05cb28bdf8aec9",
+      "crc32": "13051adb",
+      "sha1": "d4b303f4983e1ab01ffc928f926555ff8054699f"
+    },
+    {
+      "name": "theintellnews-2022-10-29T23:29:19.079111-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100563",
+      "size": "24558",
+      "md5": "d6bc5f51bc55004da3bc05916fcf1f74",
+      "crc32": "0d433a15",
+      "sha1": "d2ec0d8aeb2ec70d3635cd1bde67afc695abda13",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-29T23:29:19.079111-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100564",
+      "size": "36557",
+      "md5": "b1d1d3fb2cdf16380bdffedaad827544",
+      "crc32": "f292d6bf",
+      "sha1": "75dd236a99a7d15da4e7bbb5232a6be20ee2ade5",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-29T23:29:19.079111-04:00.jpg",
+      "source": "original",
+      "mtime": "1667100561",
+      "size": "269641",
+      "md5": "22d9e4d40a389565808672551f408133",
+      "crc32": "8550147e",
+      "sha1": "6a7d2699534dc863f4fead3942a2a7cde858916d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-29T23:29:19.079111-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100566",
+      "size": "1486",
+      "md5": "bffa7183f7d20a0835b31f5590e2dc25",
+      "crc32": "3e60b6e3",
+      "sha1": "1784c8179ee9548bdb78c9003a075fe0ad38dad4",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-29T23:29:19.079111-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100568",
+      "size": "136756",
+      "md5": "b28bb668955f6014f4b3404e88e3f540",
+      "crc32": "4631acfb",
+      "sha1": "948f01e4c382625608b44abd8f3db8cc5e047ac3",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-29T23:29:19.079111-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-29T23:29:19.079111-04:00.jpg",
+      "mtime": "1667101732",
+      "size": "9349",
+      "md5": "06a4a0a1cd8f7c261b86f59dc59ba38d",
+      "crc32": "8bad9350",
+      "sha1": "b50acde1a4fd1a931066c8fa7707e4a2f38ca790"
+    },
+    {
+      "name": "theintellnews-2022-10-30T10:40:51.338564-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667140856",
+      "size": "25175",
+      "md5": "a59ab8b22f2e944d64503df72fde55e2",
+      "crc32": "98de62a9",
+      "sha1": "06f398b8ce3981fff855df17f9917fe56543e71e",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-30T10:40:51.338564-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667140859",
+      "size": "34268",
+      "md5": "ca49e75225b1b012e2331cf0459d99db",
+      "crc32": "0cc8aee4",
+      "sha1": "111eebe74f5dbd11f37dcbc40c4c2d60f8534e99",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-30T10:40:51.338564-04:00.jpg",
+      "source": "original",
+      "mtime": "1667140854",
+      "size": "280064",
+      "md5": "d8fb7877466be1aa9834e5ca9ed23eaf",
+      "crc32": "94302e79",
+      "sha1": "125579b7bfa9c90a9ffa1391047b83fea97a7c65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-30T10:40:51.338564-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667140860",
+      "size": "1486",
+      "md5": "95f462f7360f3c9c99d26c1cc374ddca",
+      "crc32": "647fcd98",
+      "sha1": "f71d902dd80d7616e2dc0d46742925e9370151e9",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-30T10:40:51.338564-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667140862",
+      "size": "101329",
+      "md5": "ed116e65c5f3f39e8025bf2af249d1cb",
+      "crc32": "e4fd3eeb",
+      "sha1": "50d6b5e2372c86ccd1f1c500ea80757e7aa54e23",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-30T10:40:51.338564-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-30T10:40:51.338564-04:00.jpg",
+      "mtime": "1667141216",
+      "size": "9620",
+      "md5": "38ea1df34e2af0945838e7fd90a9d93b",
+      "crc32": "74ec058d",
+      "sha1": "ced82eaaf2e7f0e93bb62adcd005b2c271db835a"
+    },
+    {
+      "name": "theintellnews-2022-10-30T23:27:13.617497-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667186836",
+      "size": "25010",
+      "md5": "9885bd88b0470a9ffaaed228d07bcf6a",
+      "crc32": "1de70cc9",
+      "sha1": "458c68ada18c95773f3c422c91247c022038ff5b",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-30T23:27:13.617497-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667186838",
+      "size": "43142",
+      "md5": "3cff0e78109e5e0aad1b0c16b1d5f4a3",
+      "crc32": "bf5129ec",
+      "sha1": "3fa0884d303031828f6b4b0469c48beb21151553",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-30T23:27:13.617497-04:00.jpg",
+      "source": "original",
+      "mtime": "1667186835",
+      "size": "282854",
+      "md5": "5c85ebef117e2312d9708d64777d8cc7",
+      "crc32": "5ce48d56",
+      "sha1": "6f224c4d36cd880ad60c62df1de024fcec72d3af",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-30T23:27:13.617497-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667186840",
+      "size": "1486",
+      "md5": "62e4909c70ee367b5b3280be72de6ace",
+      "crc32": "e711a86e",
+      "sha1": "9cd618c24c2dcdcf4b50e56bd715b5e428166246",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-30T23:27:13.617497-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667186841",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-30T23:27:13.617497-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintellnews-2022-10-30T23:27:13.617497-04:00.jpg",
+      "mtime": "1667187515",
+      "size": "9419",
+      "md5": "54a682322315e9841240dec8e2ec86d7",
+      "crc32": "7aca129b",
+      "sha1": "d62bb994780fc172888c5be4b826b6b607edb2d6"
+    },
+    {
+      "name": "theintellnews-2022-10-31T11:00:24.647295-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667228427",
+      "size": "24938",
+      "md5": "18870d7e262ebc5de6f13242a74a608d",
+      "crc32": "d96e6214",
+      "sha1": "67f443a05681d7a54e97e185938d115635bfc7ca",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-31T11:00:24.647295-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667228428",
+      "size": "40914",
+      "md5": "5adc8d5dab46b975bceb05f919cfdcd7",
+      "crc32": "03b9b7ad",
+      "sha1": "7e062046ffa94fc429ff5594561d2c403322974d",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-31T11:00:24.647295-04:00.jpg",
+      "source": "original",
+      "mtime": "1667228425",
+      "size": "273569",
+      "md5": "8f5f987fcdde82fc1fbfebaf749bf76d",
+      "crc32": "5cf036b2",
+      "sha1": "987d24f68dd8f9ec0276c13a4f349737921fe15b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintellnews-2022-10-31T11:00:24.647295-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667228430",
+      "size": "1486",
+      "md5": "a789fdf5ff6311c932530956f10d4879",
+      "crc32": "e8595712",
+      "sha1": "6169d713761700094300574cca993681ce6c36eb",
+      "format": "JSON"
+    },
+    {
+      "name": "theintellnews-2022-10-31T11:00:24.647295-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667228431",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theintellnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a2827534bc768d50073d413224171043b9867256",
-      "mtime": "1666709564",
-      "size": "91451",
-      "md5": "dbd6e22705aad3a6da41125902b8677b",
-      "crc32": "338f3d6a",
-      "sha1": "1c0e16b9f9acbdceb03d09314ed3bba98ff081f3",
+      "btih": "1bf90bb89c4120a948407ff43b0f813255eced9a",
+      "mtime": "1667228475",
+      "size": "106943",
+      "md5": "a4fa2498631de43558a7d2bc34efec7c",
+      "crc32": "acb4d7c2",
+      "sha1": "03abffece01dee4892be3659bf82f7b9527f5673",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theintellnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "319ce95f83a44130c4a78f535bf1ade2",
+      "md5": "4c428c1aa786f5847e2524ceecb93b6f",
       "summation": "md5"
     },
     {
       "name": "theintellnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666709525",
-      "size": "561152",
-      "md5": "6359d5c0a696ad97d1c2a5c538c11107",
-      "crc32": "91cbf62d",
-      "sha1": "abb8e90b4833fc690fa1573877e2311b19f8e1b8",
+      "mtime": "1667228437",
+      "size": "651264",
+      "md5": "4a2b02c952a3914ea489359d6efb81f1",
+      "crc32": "fa6439d8",
+      "sha1": "eef49dcc03307f1774ce23dddeba0c2fa3ef540a",
       "format": "Metadata"
     },
     {
@@ -4361,9 +5105,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 422,
-  "item_last_updated": 1666709564,
-  "item_size": 28065185,
+  "files_count": 494,
+  "item_last_updated": 1667228475,
+  "item_size": 32750099,
   "metadata": {
     "identifier": "theintellnews-2022",
     "collection": [
@@ -4385,7 +5129,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451738838,
+      "task_id": 3457850299,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4393,7 +5137,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 65245936,
+  "uniq": 1513381185,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666723405,
+  "created": 1667244781,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/28/items/populardiario-2022",
@@ -9482,31 +9482,775 @@
       "sha1": "cc14f8a2fb8ee6b2191c425e3c9d29a43e4056ce"
     },
     {
+      "name": "populardiario-2022-10-26T05:19:46.270847-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772394",
+      "size": "56588",
+      "md5": "d7b9113318e9ce3bb70bdfee378e251f",
+      "crc32": "3e0c97b1",
+      "sha1": "4816f7ba5f7fb86c9ee4821bbc8c7533ed14a6b3",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-26T05:19:46.270847-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772396",
+      "size": "95694",
+      "md5": "aafc711442935a20088dba9c76d0c8d2",
+      "crc32": "a1a36573",
+      "sha1": "6355c654646ccc633f02b7ed4bd43a830d99660e",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-26T05:19:46.270847-03:00.jpg",
+      "source": "original",
+      "mtime": "1666772393",
+      "size": "312305",
+      "md5": "4dc6a4c0ae9b1e612650d27cd257df9d",
+      "crc32": "0bce3b71",
+      "sha1": "b1b4f173d2905efc12183c19443a6ce1d02c9a1f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-26T05:19:46.270847-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772399",
+      "size": "1548",
+      "md5": "0e908af28684a85931011cdaee220043",
+      "crc32": "b1c9250b",
+      "sha1": "2cf276578ba3f8b66c6ee93d5868c8193841bb50",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-26T05:19:46.270847-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772401",
+      "size": "213",
+      "md5": "e92976120e7c0b4da985a3f721449b71",
+      "crc32": "9bb9b552",
+      "sha1": "7f7f18c97669b5beef9d1dc6554c34b4a8db09e7",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-26T05:19:46.270847-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-26T05:19:46.270847-03:00.jpg",
+      "mtime": "1666773594",
+      "size": "10753",
+      "md5": "a2b44e39a51b38fb7bb596fb12118c14",
+      "crc32": "f02788fe",
+      "sha1": "b43cbe68740380891021a9c863869f1a10f69ac5"
+    },
+    {
+      "name": "populardiario-2022-10-26T17:46:34.395166-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666817208",
+      "size": "56879",
+      "md5": "9f7df8f14bd9b5ac9d1ca8ebbf72617e",
+      "crc32": "67f7d977",
+      "sha1": "9cddea2047e69d98a32d8cf926ae5413d916d5c8",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-26T17:46:34.395166-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666817211",
+      "size": "98005",
+      "md5": "6a2eeeac2f209bd3ab3c54509f82af72",
+      "crc32": "224a8d12",
+      "sha1": "23011e4b389bcfff3f3676b4f8e7dc816d9dcbc2",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-26T17:46:34.395166-03:00.jpg",
+      "source": "original",
+      "mtime": "1666817206",
+      "size": "338816",
+      "md5": "cff06f7937f566eb7bebc41dfbdfb83c",
+      "crc32": "154765a7",
+      "sha1": "014378bb7e40990fdc9c09c249ce2f0c94666496",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-26T17:46:34.395166-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666817213",
+      "size": "1549",
+      "md5": "5bb8df887c20160bb9a546b1d31f8da5",
+      "crc32": "22aba564",
+      "sha1": "26c780a5f2e06977f7a4bcb04b6d12de97e51035",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-26T17:46:34.395166-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666817215",
+      "size": "53483",
+      "md5": "bb513f83b6de69bf9cc1743db31d86da",
+      "crc32": "4cbda7cf",
+      "sha1": "0a93fcc79b6e6f6976582de9c5a4137ff5c319ff",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-26T17:46:34.395166-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-26T17:46:34.395166-03:00.jpg",
+      "mtime": "1666842973",
+      "size": "11152",
+      "md5": "537302d09515262c9881b930c152e4dc",
+      "crc32": "ccec1606",
+      "sha1": "79daa69021f0653cd5fb72ac21b0d3e712f466d2"
+    },
+    {
+      "name": "populardiario-2022-10-27T04:25:43.881729-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855546",
+      "size": "56018",
+      "md5": "4a508146be1d766a268ca6db03475e9f",
+      "crc32": "4f43176f",
+      "sha1": "8ac45a342fc283b082bf51d0dead37024a529953",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-27T04:25:43.881729-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855547",
+      "size": "96742",
+      "md5": "4dfb772d16f3ca0fffa780f5cc24b1f0",
+      "crc32": "b2aa6f51",
+      "sha1": "2b9088cd5652c11e4f98f2a3556806736675e5a4",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-27T04:25:43.881729-03:00.jpg",
+      "source": "original",
+      "mtime": "1666855544",
+      "size": "328128",
+      "md5": "d2c89ed9ac0e28030d728666d8c965df",
+      "crc32": "9cff185f",
+      "sha1": "2bb5bf50ed8b6a7f52830b87392d9d56f90c4220",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-27T04:25:43.881729-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855549",
+      "size": "1549",
+      "md5": "73c92b0fc17c321c617f43bf83a20145",
+      "crc32": "e4385a30",
+      "sha1": "6ed24ca5264cd329295af5009b4f163a97cc3dfe",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-27T04:25:43.881729-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855551",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-27T04:25:43.881729-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-27T04:25:43.881729-03:00.jpg",
+      "mtime": "1666878200",
+      "size": "10925",
+      "md5": "440428a58a408fd8ef3a1b8176ab9295",
+      "crc32": "0ebab0b4",
+      "sha1": "976ded1c308521d58e27f0691905307a43bea9d4"
+    },
+    {
+      "name": "populardiario-2022-10-27T16:22:05.006680-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898539",
+      "size": "57266",
+      "md5": "db02bfac2d901338edaa94e1e02d2dfa",
+      "crc32": "6e1d5072",
+      "sha1": "bdb487c46cea15f919544b891cfb54975b4d28b1",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-27T16:22:05.006680-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898541",
+      "size": "97867",
+      "md5": "9a5c6a2b422341de676362bcff1646bc",
+      "crc32": "7b42b512",
+      "sha1": "5f962fe4e2b3d62e424a79f76bb89fd593c81f50",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-27T16:22:05.006680-03:00.jpg",
+      "source": "original",
+      "mtime": "1666898537",
+      "size": "321289",
+      "md5": "b1435afe5c9e7c19c05f7d57f9d820a1",
+      "crc32": "e0b35766",
+      "sha1": "c004dd22cf6b6ee2dd957e868b7cbc54285500f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-27T16:22:05.006680-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898543",
+      "size": "1546",
+      "md5": "ba97f2b180c542798d0f480629b4e8e7",
+      "crc32": "d0f4bf1a",
+      "sha1": "cd7eb54e1d2e78bb76e882cc2d8a78137d55e777",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-27T16:22:05.006680-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898550",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-27T16:22:05.006680-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-27T16:22:05.006680-03:00.jpg",
+      "mtime": "1666906596",
+      "size": "11118",
+      "md5": "691dcab1fa214d0b0eb85291774029e0",
+      "crc32": "84493fe1",
+      "sha1": "0adcc186211c23e3e682d7692c5e895257021767"
+    },
+    {
+      "name": "populardiario-2022-10-28T05:46:27.518191-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946795",
+      "size": "58035",
+      "md5": "d65584e1b34ac92df8198d4c79d40fae",
+      "crc32": "f8a53755",
+      "sha1": "7f4da268df523d275f952655cd83661fe5d01c7f",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-28T05:46:27.518191-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946797",
+      "size": "98360",
+      "md5": "0fac6c21fe413d4de4aa6929b0959068",
+      "crc32": "e7384d62",
+      "sha1": "26331ff9724ccfb77faaf4f70197d832144c034d",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-28T05:46:27.518191-03:00.jpg",
+      "source": "original",
+      "mtime": "1666946793",
+      "size": "346266",
+      "md5": "827b22ec31085abc89780f727ee076b9",
+      "crc32": "85fceea3",
+      "sha1": "a2652fb6725e5eb2edca42d59afa9151e6810117",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-28T05:46:27.518191-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946799",
+      "size": "1548",
+      "md5": "cb02800e4977b98760656527e8f65ac1",
+      "crc32": "5031b1df",
+      "sha1": "33fe0f4d02d22f9aba1b67920d84077b240dca67",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-28T05:46:27.518191-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946801",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-28T05:46:27.518191-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-28T05:46:27.518191-03:00.jpg",
+      "mtime": "1666951500",
+      "size": "11027",
+      "md5": "a955c5646e80c7406b647d87bce3efea",
+      "crc32": "eb0c0a66",
+      "sha1": "009db05b84ebdba1480e4d6155092e78dec28b21"
+    },
+    {
+      "name": "populardiario-2022-10-28T15:30:12.634263-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666981832",
+      "size": "57883",
+      "md5": "c95b98f6a56e4372c44656ae8dc24cc8",
+      "crc32": "a73eb339",
+      "sha1": "f9d52ca4de86f0f90b2d2e14ffc5c602101cd841",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-28T15:30:12.634263-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666981834",
+      "size": "98458",
+      "md5": "1952a32eda4349a3dc15dd65ac891d1f",
+      "crc32": "4ac2c2c6",
+      "sha1": "b914b07d95c1adb5be2c7545e16b030f1d69795e",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-28T15:30:12.634263-03:00.jpg",
+      "source": "original",
+      "mtime": "1666981831",
+      "size": "319665",
+      "md5": "e9eba0c4db6c1a2d629bfe46d25847ab",
+      "crc32": "98cdac95",
+      "sha1": "c4145d36a3b95b6434b475e27ed9b33a4ae0b4fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-28T15:30:12.634263-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666981837",
+      "size": "1548",
+      "md5": "dabc140134e13e509dbf0ff2b510387a",
+      "crc32": "cccd7ef8",
+      "sha1": "5387886618078291af0b06c552fa485e97f17440",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-28T15:30:12.634263-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666981839",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-28T15:30:12.634263-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-28T15:30:12.634263-03:00.jpg",
+      "mtime": "1666984403",
+      "size": "11024",
+      "md5": "f93a9b172e98ee6dfcc51816e6024040",
+      "crc32": "b81ca86c",
+      "sha1": "de72bd6f47eaa72ff04e40b7be475046203d1625"
+    },
+    {
+      "name": "populardiario-2022-10-29T03:44:28.261556-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025878",
+      "size": "58106",
+      "md5": "d5395f005de20dcb50dff94640f7badc",
+      "crc32": "d8b793c1",
+      "sha1": "b6bf057b92b3d338d6930b2562d6095ad90008cd",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-29T03:44:28.261556-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025879",
+      "size": "98192",
+      "md5": "bbc3c2a584ffd8498b9f901dd2ff083e",
+      "crc32": "2deefee7",
+      "sha1": "61da687e27eabc7fe845788ea7ea92e196ead7dd",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-29T03:44:28.261556-03:00.jpg",
+      "source": "original",
+      "mtime": "1667025876",
+      "size": "322509",
+      "md5": "4c1de21197770a70cd51bdd43d708540",
+      "crc32": "02fadc0d",
+      "sha1": "8b7f610e36ad240e48170a15a3fb581b55ea2405",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-29T03:44:28.261556-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025881",
+      "size": "1549",
+      "md5": "32201a560fa3d199f9a36dd2916a705a",
+      "crc32": "012e08a8",
+      "sha1": "743233775b8ecaeab06d071ce29a77fa1d08afb3",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-29T03:44:28.261556-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025883",
+      "size": "274",
+      "md5": "5e9b81797e3157d82b6e262e6647038f",
+      "crc32": "ad7431a1",
+      "sha1": "f2ceb3e3e2b372063825e88b6485c225a1b50c8d",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-29T03:44:28.261556-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-29T03:44:28.261556-03:00.jpg",
+      "mtime": "1667027667",
+      "size": "10994",
+      "md5": "53560fba9930f4e94f4311db3116553b",
+      "crc32": "3dac5e0e",
+      "sha1": "c3438fc787dfbf1f3c54aafe700ff361d2cf4a5d"
+    },
+    {
+      "name": "populardiario-2022-10-29T16:35:06.895718-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667072118",
+      "size": "58201",
+      "md5": "0f96a3cef38f24bf97de5de0a9689b8b",
+      "crc32": "0ee9a924",
+      "sha1": "8908907386ae14a8195de2c3f9be385fb9f80c9b",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-29T16:35:06.895718-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667072119",
+      "size": "98992",
+      "md5": "ba4d202544b841205ba4247221653d3a",
+      "crc32": "a0c94409",
+      "sha1": "caac32031574b9e557a14111da07fa0520549a98",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-29T16:35:06.895718-03:00.jpg",
+      "source": "original",
+      "mtime": "1667072116",
+      "size": "319704",
+      "md5": "16ae103ead1d8c09055bb4842347519b",
+      "crc32": "65cafba4",
+      "sha1": "dedaff88b4866694666164f9e580e78104406430",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-29T16:35:06.895718-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667072121",
+      "size": "1546",
+      "md5": "c8c73275ad8ce63074d305614540ec52",
+      "crc32": "667e49ea",
+      "sha1": "23d01f4122a15573a48bf7441e3f610ecf243e50",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-29T16:35:06.895718-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667072122",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-29T16:35:06.895718-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-29T16:35:06.895718-03:00.jpg",
+      "mtime": "1667073156",
+      "size": "11143",
+      "md5": "153229872937d4c7a27b8225900141eb",
+      "crc32": "c2ce03ef",
+      "sha1": "70c002cb1a6bd0eb9ad4f5a77947a5246485ba39"
+    },
+    {
+      "name": "populardiario-2022-10-30T04:00:30.581081-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667113238",
+      "size": "57488",
+      "md5": "b8b41aaf02d8695eda0d1ad9070998c5",
+      "crc32": "b25eadeb",
+      "sha1": "98f8938f21dd6c3bba026e7ec6c51698a50996e0",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-30T04:00:30.581081-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667113240",
+      "size": "97617",
+      "md5": "22b13b91d5dd010f9da4502d68af00ad",
+      "crc32": "a6a67795",
+      "sha1": "ec6927523957110df991017b258170ef882ac66d",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-30T04:00:30.581081-03:00.jpg",
+      "source": "original",
+      "mtime": "1667113237",
+      "size": "315520",
+      "md5": "160885bc6ef5304f34960148ece37502",
+      "crc32": "d8aeb701",
+      "sha1": "17453d32ebc5dbbd303b64138cb020dabb657b80",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-30T04:00:30.581081-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667113242",
+      "size": "1546",
+      "md5": "3e62c81e8d7e93e775709e6cb3ab489e",
+      "crc32": "ab70648d",
+      "sha1": "bc604edf6d0c3ececb92f0f4cd4b0978daaab3c8",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-30T04:00:30.581081-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667113243",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-30T04:00:30.581081-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-30T04:00:30.581081-03:00.jpg",
+      "mtime": "1667114393",
+      "size": "10904",
+      "md5": "6f82dce189b2b05610d795c53f37f1ab",
+      "crc32": "4cbdcb88",
+      "sha1": "9c155915e4c9a50a07d4978daeb88adef2cf7909"
+    },
+    {
+      "name": "populardiario-2022-10-30T15:27:21.079811-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667154451",
+      "size": "56476",
+      "md5": "ff1e3659bc7e70431e6e38b943c8a5fd",
+      "crc32": "a2b3e274",
+      "sha1": "08da312d30218cefd88e8690860e7705bbd07bf4",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-30T15:27:21.079811-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667154453",
+      "size": "95345",
+      "md5": "e8ed5b39689aaa17adea23a98d65df0a",
+      "crc32": "f2202290",
+      "sha1": "90bb8085f92caac71005cbfc85c7d872347617bc",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-30T15:27:21.079811-03:00.jpg",
+      "source": "original",
+      "mtime": "1667154449",
+      "size": "320270",
+      "md5": "afa02386c504b766ae47a1a42baceee0",
+      "crc32": "76a50083",
+      "sha1": "d6bc2478b913356ec91d049de8b4ebbb43125b22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-30T15:27:21.079811-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667154455",
+      "size": "1545",
+      "md5": "93c2fa544860944ab13ad2c415f622e0",
+      "crc32": "15d80c3f",
+      "sha1": "753e0a849ebd473838745e3b58dbc6ba84fb3027",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-30T15:27:21.079811-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667154457",
+      "size": "43077",
+      "md5": "c79de43847d9523aad86fc3fba863a82",
+      "crc32": "6139570b",
+      "sha1": "4381b1d30482d0a0f856bd2fd0d5bde74b54efeb",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-30T15:27:21.079811-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-30T15:27:21.079811-03:00.jpg",
+      "mtime": "1667154599",
+      "size": "11146",
+      "md5": "41ec761734a5ee5a42b7a5b3bb98afbb",
+      "crc32": "b8621c4c",
+      "sha1": "368e259a20d02e2e472f9c683dbe771513231bcf"
+    },
+    {
+      "name": "populardiario-2022-10-31T03:41:46.805852-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198514",
+      "size": "54900",
+      "md5": "180184c76ff1381cec05c48149a3a73f",
+      "crc32": "12f403ce",
+      "sha1": "11a64055a25c38972b111240ab5d2c37b5919b63",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-31T03:41:46.805852-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198515",
+      "size": "90803",
+      "md5": "0132cfa423fd468d41054ce3c3d8dd5d",
+      "crc32": "95f96127",
+      "sha1": "64c1184e19da20133f2d4a16ec6f2f6d8120b169",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-31T03:41:46.805852-03:00.jpg",
+      "source": "original",
+      "mtime": "1667198512",
+      "size": "343943",
+      "md5": "c7b55f6eb94e32b6a316e1027fc55236",
+      "crc32": "cf83c41d",
+      "sha1": "8a0a2c57cdd69be46a6d13fd5550db61967e927c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-31T03:41:46.805852-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198517",
+      "size": "1549",
+      "md5": "b58e6c4b15e17fe627c31bf73f622f7b",
+      "crc32": "bc088498",
+      "sha1": "799444596e4ade2df00db12e562fbd92c9d9b049",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-31T03:41:46.805852-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198520",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-31T03:41:46.805852-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-31T03:41:46.805852-03:00.jpg",
+      "mtime": "1667200598",
+      "size": "11128",
+      "md5": "e5ab30b00cdd7c25140212a330f60d55",
+      "crc32": "b789f6ea",
+      "sha1": "90b8f015e0ac8bf05c66aa3c5f38ae7bb05ccebe"
+    },
+    {
+      "name": "populardiario-2022-10-31T16:21:59.434883-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667244139",
+      "size": "56125",
+      "md5": "31b488c98df5e8b85465f599682136fb",
+      "crc32": "c4b1f06d",
+      "sha1": "deade687bb54cbc87025fa21332d0bc46feef2fa",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-31T16:21:59.434883-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667244141",
+      "size": "92063",
+      "md5": "741a54d41f1b8e1d17f2849331de1d58",
+      "crc32": "16fde748",
+      "sha1": "be62f2546c72d6164d086c1be4a853aa35d370ee",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-31T16:21:59.434883-03:00.jpg",
+      "source": "original",
+      "mtime": "1667244137",
+      "size": "322107",
+      "md5": "fec4b410518636fc7362a8a5d67d0904",
+      "crc32": "940ef6df",
+      "sha1": "6fa299c6840ba0ee4c541c4be5a8c94a08edd976",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-10-31T16:21:59.434883-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667244144",
+      "size": "1548",
+      "md5": "3c2278ceec33486e86863f9a9459fecf",
+      "crc32": "4b700dce",
+      "sha1": "d71424da01b31b837e0a222b9d4a6f9e6c9390ae",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-31T16:21:59.434883-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667244150",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-10-31T16:21:59.434883-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-10-31T16:21:59.434883-03:00.jpg",
+      "mtime": "1667244736",
+      "size": "10908",
+      "md5": "1b8fd0cb5d2663ec735178d644cf1d52",
+      "crc32": "0ab2ee76",
+      "sha1": "325c4021ab4e91ccbf1f8df4c98f6c686d998804"
+    },
+    {
       "name": "populardiario-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c86bf80a77093f19518a2e9d4f6f56f17272fcf1",
-      "mtime": "1666723313",
-      "size": "199801",
-      "md5": "45b8936c4e35c39750162554fc457647",
-      "crc32": "06e77da2",
-      "sha1": "2bcf9a8387124b99586d7795c8516eaf54d2bb48",
+      "btih": "42fa34811b25ac8db34b2dcbeb1f8bb7886face9",
+      "mtime": "1667244747",
+      "size": "215357",
+      "md5": "2812c757cc13db609f3d2ae633ed6891",
+      "crc32": "280e7cf5",
+      "sha1": "cf4bc0dc3b204fc95dbcca1f82fd53f8349efffd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "populardiario-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a7da95f6dcd23dabfa2a1384d59a30c",
+      "md5": "dcd0b026170d40fe1b80de832e418d4c",
       "summation": "md5"
     },
     {
       "name": "populardiario-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722360",
-      "size": "1187840",
-      "md5": "b25af76248b65629d92787ca5740e9c3",
-      "crc32": "33caf8e6",
-      "sha1": "46dedb426e771c75b0c6447713160b47c4e61608",
+      "mtime": "1667244209",
+      "size": "1277952",
+      "md5": "d04ece15fd60daaf77548b22482863ff",
+      "crc32": "a152916c",
+      "sha1": "8fe0d80d1d715794c1073575b2e07f18db46925c",
       "format": "Metadata"
     },
     {
@@ -9520,9 +10264,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 921,
-  "item_last_updated": 1666723313,
-  "item_size": 81894926,
+  "files_count": 993,
+  "item_last_updated": 1667244747,
+  "item_size": 88002675,
   "metadata": {
     "identifier": "populardiario-2022",
     "collection": [
@@ -9540,7 +10284,7 @@
     "addeddate": "2022-08-09 17:48:48"
   },
   "server": "ia601403.us.archive.org",
-  "uniq": 1015154561,
+  "uniq": 1547458671,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

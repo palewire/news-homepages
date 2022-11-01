@@ -1,5 +1,5 @@
 {
-  "created": 1666699730,
+  "created": 1667260156,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/28/items/gainesvillesun-2022",
@@ -11653,31 +11653,837 @@
       "format": "JSON"
     },
     {
+      "name": "gainesvillesun-2022-10-25T08:07:00.313209-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-25T08:07:00.313209-04:00.jpg",
+      "mtime": "1666703816",
+      "size": "9491",
+      "md5": "32b340b3aa859c20cc99fb1245e1782b",
+      "crc32": "da065498",
+      "sha1": "c4c7edf81bd3c7fcc7c8d5f581c08a0df13bf6d4"
+    },
+    {
+      "name": "gainesvillesun-2022-10-25T20:05:46.495696-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666742754",
+      "size": "21862",
+      "md5": "ca32b933270517adfd5511e662ec0abf",
+      "crc32": "60d72bb5",
+      "sha1": "f76a2bcfd17f75478e2ffe49f2656388e48819ec",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-25T20:05:46.495696-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666742756",
+      "size": "29268",
+      "md5": "18738a908cba3057c941bbe77d7eb1f5",
+      "crc32": "383eb3eb",
+      "sha1": "f72246b294358b7bec96e7da6b1dab97219e67d9",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-25T20:05:46.495696-04:00.jpg",
+      "source": "original",
+      "mtime": "1666742752",
+      "size": "266906",
+      "md5": "4db48b84fe04a3161ae6ec95785dd494",
+      "crc32": "0a9d3c06",
+      "sha1": "49cec2307b87ec63f8e7efbcb5c24aa4c0495bb1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-25T20:05:46.495696-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666742757",
+      "size": "1504",
+      "md5": "7e90deefba08a6645018ed0ce0e41dea",
+      "crc32": "6c84c44b",
+      "sha1": "d19e955201cc70f4a4ef2933cd8ea47efdde685a",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-25T20:05:46.495696-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666742759",
+      "size": "74047",
+      "md5": "c54b5acea6cb1570f5e8f19bce419e1a",
+      "crc32": "296499f4",
+      "sha1": "d5b1bb64b5a90d9f9d9b15072a0a2af049938a0f",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-25T20:05:46.495696-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-25T20:05:46.495696-04:00.jpg",
+      "mtime": "1666745884",
+      "size": "9392",
+      "md5": "515296993726d25544bee62f8d64922b",
+      "crc32": "ae490bc3",
+      "sha1": "6caf83bcc95658030d5dfee22b22720ba828e96b"
+    },
+    {
+      "name": "gainesvillesun-2022-10-26T08:05:20.231607-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666785930",
+      "size": "22179",
+      "md5": "bc15fb59e2ab2bc9fcde5b755a96bcdc",
+      "crc32": "9ca8b001",
+      "sha1": "867717577e236a2670f40b57458aca58369c9c15",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-26T08:05:20.231607-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666785931",
+      "size": "32199",
+      "md5": "4b73d95bbde5dd7d463190051b79bddb",
+      "crc32": "59de1fc3",
+      "sha1": "af2a0716093221550720a141b0ee9aa420a759f2",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-26T08:05:20.231607-04:00.jpg",
+      "source": "original",
+      "mtime": "1666785928",
+      "size": "309718",
+      "md5": "b77d6c24f6be03030f812f687db10f95",
+      "crc32": "41d151ec",
+      "sha1": "e1560012e065c7d9f8af0781598ea329002b2c6f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-26T08:05:20.231607-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666785933",
+      "size": "1504",
+      "md5": "77a789c035b08531827b034dd9c91839",
+      "crc32": "5a30ea1b",
+      "sha1": "0384d01529d621e70ebb8d798afae7984abb8e22",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-26T08:05:20.231607-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666785934",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-26T08:05:20.231607-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-26T08:05:20.231607-04:00.jpg",
+      "mtime": "1666787584",
+      "size": "9626",
+      "md5": "ad877d8a1b26bfbdb5871093db2ab915",
+      "crc32": "450b54a9",
+      "sha1": "3c96e8abff13f89b16a7ead16891b5c713ec76de"
+    },
+    {
+      "name": "gainesvillesun-2022-10-26T19:53:46.265358-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828438",
+      "size": "21769",
+      "md5": "7d9a2ffc34d921d465c251d5eff245f7",
+      "crc32": "8cb26ca8",
+      "sha1": "2e1f816796d2ba4a66afcf50dd6fe04df45da19c",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-26T19:53:46.265358-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828441",
+      "size": "34765",
+      "md5": "3eeb0e11858efe4349b2d7a222b1c9fb",
+      "crc32": "504e1bf7",
+      "sha1": "1a85c0b22a9a384c0295e12be3f6d4cf9135bfad",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-26T19:53:46.265358-04:00.jpg",
+      "source": "original",
+      "mtime": "1666828436",
+      "size": "254553",
+      "md5": "9993a022e9bb2cb23b1b143fc26061e1",
+      "crc32": "f5e059cc",
+      "sha1": "ad0601ebdc637dbe04f48361befbd08e0342c4db",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-26T19:53:46.265358-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828443",
+      "size": "1504",
+      "md5": "f4a5358192a51d4c1ed61cf44268eef8",
+      "crc32": "1f664983",
+      "sha1": "3bd78b4d2146d4ccec51685a8a9308cb1761a9e9",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-26T19:53:46.265358-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828445",
+      "size": "100556",
+      "md5": "12b39de6f6dff1a6ca12e88476055826",
+      "crc32": "28a010db",
+      "sha1": "c5c6241dfa3de45c82ba47f0c61860d5c790d31d",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-26T19:53:46.265358-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-26T19:53:46.265358-04:00.jpg",
+      "mtime": "1666852771",
+      "size": "9299",
+      "md5": "1900241665fa28393862974c2621c469",
+      "crc32": "f101a6cd",
+      "sha1": "80bbfad63e7a923d5e412c945df4fd9cda865f6e"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T08:16:17.161366-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872989",
+      "size": "21161",
+      "md5": "8e8a6f77bf2d8b60636de5af0c5697aa",
+      "crc32": "484c6d7a",
+      "sha1": "08ddf13f4ec31894bed7d06d885fdc3c666ef76e",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T08:16:17.161366-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872992",
+      "size": "30599",
+      "md5": "03d74686f9959de466071eb6b9c24bcc",
+      "crc32": "fd558b15",
+      "sha1": "683a2902b35b7d3db87b077410aae9a0e8f91b22",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T08:16:17.161366-04:00.jpg",
+      "source": "original",
+      "mtime": "1666872985",
+      "size": "246584",
+      "md5": "65edcffef4a1287e50eceeceef010fb3",
+      "crc32": "8e3c8272",
+      "sha1": "2f22411902e3196fe7100fbfc0825806e0d4618e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T08:16:17.161366-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872995",
+      "size": "1504",
+      "md5": "30c4c72d6e67879fdb55acf84cb7cb78",
+      "crc32": "7cff20cd",
+      "sha1": "b3c486d812f6633188bb0ce9734107df94a56b3c",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T08:16:17.161366-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666872997",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T08:16:17.161366-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-27T08:16:17.161366-04:00.jpg",
+      "mtime": "1666889442",
+      "size": "9150",
+      "md5": "269f617ad0576c6fbd864c92e26b3fb4",
+      "crc32": "640f2c57",
+      "sha1": "cc21e84ed924e827e0ccd9d34905d4ef86f73c09"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T19:39:28.700110-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666913983",
+      "size": "23724",
+      "md5": "d29e064fb74e338572ea7a95d7f0104f",
+      "crc32": "8526c6e7",
+      "sha1": "d50f007bf37fd9b64300994758614d9286c2b545",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T19:39:28.700110-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666913984",
+      "size": "33642",
+      "md5": "eb2dcaf0317117c638aaeee8105bcb60",
+      "crc32": "539592bf",
+      "sha1": "05b6c0aa2374f61239c7e80d8c1c9abea3605ef5",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T19:39:28.700110-04:00.jpg",
+      "source": "original",
+      "mtime": "1666913981",
+      "size": "229032",
+      "md5": "2649e03d8369ca275fdb4bac0e0a486e",
+      "crc32": "6bdfc36c",
+      "sha1": "01393bb45ee331c4453cfd41d0f575a89b63a29c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T19:39:28.700110-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666913986",
+      "size": "1504",
+      "md5": "379b9c499179d640bc534440adb1b728",
+      "crc32": "d7d87317",
+      "sha1": "eee0c627664b3e64c5e22d33132c95fcc5cb09f9",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T19:39:28.700110-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666913992",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-27T19:39:28.700110-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-27T19:39:28.700110-04:00.jpg",
+      "mtime": "1666915187",
+      "size": "9186",
+      "md5": "d5d3b95dd85e52f364e17ebdd86ada5b",
+      "crc32": "ab861675",
+      "sha1": "dce2af9fbc585062df17cf6d43f12300c0ceb2f7"
+    },
+    {
+      "name": "gainesvillesun-2022-10-28T07:50:39.262280-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666957852",
+      "size": "23142",
+      "md5": "fc04183862c548d3f3b61a4b8c560c72",
+      "crc32": "5292738b",
+      "sha1": "7a1da298f5df962cd618f15adc2fc28317e76e9c",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-28T07:50:39.262280-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666957854",
+      "size": "34466",
+      "md5": "ecffa6dc619bc89b1e686ad3042736db",
+      "crc32": "91cfbd52",
+      "sha1": "21f84a201fa650f2c1925209b2061df257a0c77c",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-28T07:50:39.262280-04:00.jpg",
+      "source": "original",
+      "mtime": "1666957848",
+      "size": "256261",
+      "md5": "209063aa7b4f8d8df682dc3358822bde",
+      "crc32": "b56e8cc2",
+      "sha1": "4d2c4858db6268c03d613c20ebe658a568e04d8e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-28T07:50:39.262280-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666957855",
+      "size": "1504",
+      "md5": "6538b716d0790b141d8a6f2b6467dd5b",
+      "crc32": "93bfe3ea",
+      "sha1": "2573ec6c33b97ed60a11f2dabe1492be4c49d1e8",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-28T07:50:39.262280-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666957857",
+      "size": "114277",
+      "md5": "a62d834252b0a0dde66dfb17f7fde2a4",
+      "crc32": "3d635642",
+      "sha1": "530e7e49901a5a3c6208b2268f424339a5612d36",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-28T07:50:39.262280-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-28T07:50:39.262280-04:00.jpg",
+      "mtime": "1666965057",
+      "size": "9037",
+      "md5": "4651de7c836b14e17e8e859775448302",
+      "crc32": "864414a0",
+      "sha1": "dc096328190bbbd8699a10c35771f6850b654aac"
+    },
+    {
+      "name": "gainesvillesun-2022-10-28T20:09:51.050165-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667002200",
+      "size": "22198",
+      "md5": "4e0f119607d5eed79b19021ad299275b",
+      "crc32": "cd836e1d",
+      "sha1": "b992c8d10a60a60bb5396f850a2ab7d2bc4b246f",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-28T20:09:51.050165-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667002203",
+      "size": "29981",
+      "md5": "2ad2add49c300e253747c34004000fc5",
+      "crc32": "376cb232",
+      "sha1": "0751a9b245dcb00d6b978dd742d54c575ee04c5e",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-28T20:09:51.050165-04:00.jpg",
+      "source": "original",
+      "mtime": "1667002199",
+      "size": "257831",
+      "md5": "7f37b9e578f89417c1d8fca9c658b552",
+      "crc32": "0e0bce38",
+      "sha1": "9631b7567c1415ce9f3a18f437a51969c52532a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-28T20:09:51.050165-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667002205",
+      "size": "1504",
+      "md5": "436cd1671a2743eef91f4291ffad48dd",
+      "crc32": "13626ea5",
+      "sha1": "f7b54935545dfee13d6fb8fe524f46ad688f455e",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-28T20:09:51.050165-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667002207",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-28T20:09:51.050165-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-28T20:09:51.050165-04:00.jpg",
+      "mtime": "1667003973",
+      "size": "9413",
+      "md5": "600eb052b67511dc38c2cb6824b056ad",
+      "crc32": "4ab38970",
+      "sha1": "95b845d42a8f1dd859e8c6d462cd6f58f18b3ebf"
+    },
+    {
+      "name": "gainesvillesun-2022-10-29T08:05:28.833175-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667045137",
+      "size": "23140",
+      "md5": "37a7ca581c73dce45bbbc1d50e509775",
+      "crc32": "884cf38b",
+      "sha1": "2d0eadabc3f608a0972cf1a774a8d4c074bd719e",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-29T08:05:28.833175-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667045138",
+      "size": "41436",
+      "md5": "f7b1983bc7569ba35892af91a28e83cd",
+      "crc32": "d3fe11a4",
+      "sha1": "45105b069e1122b0d2d2e6619f29467243aee558",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-29T08:05:28.833175-04:00.jpg",
+      "source": "original",
+      "mtime": "1667045135",
+      "size": "257928",
+      "md5": "07084d946e1bc3fc8c0a9833957a54e0",
+      "crc32": "2922e519",
+      "sha1": "4f38ec5a73da361301d9411fc444883b54d87dab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-29T08:05:28.833175-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667045140",
+      "size": "1504",
+      "md5": "0939b8f864e379496efaa1c71519a317",
+      "crc32": "dc57854f",
+      "sha1": "b4a5873dd8ef24783e57017c142ba6e868bc33c8",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-29T08:05:28.833175-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667045141",
+      "size": "94285",
+      "md5": "96d8d0d054e5627c949867bab8d6c97c",
+      "crc32": "6c503fea",
+      "sha1": "23e6e46f9966c3c91306073ac6a67de0762e409b",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-29T08:05:28.833175-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-29T08:05:28.833175-04:00.jpg",
+      "mtime": "1667048372",
+      "size": "9414",
+      "md5": "2e16853ccd709d261e930ebc04aab610",
+      "crc32": "14f8d996",
+      "sha1": "b3695d365756b9908d07dd801c3a78c1c0ef0704"
+    },
+    {
+      "name": "gainesvillesun-2022-10-29T19:48:52.609188-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667087347",
+      "size": "22474",
+      "md5": "e9dbeb1cabc364837e6f812ded202f35",
+      "crc32": "a443c910",
+      "sha1": "e937d9d18e8dc16a74e71775d1c9331bbddadeb8",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-29T19:48:52.609188-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667087348",
+      "size": "34604",
+      "md5": "584f2a9e11cd021a6c10f2703d535704",
+      "crc32": "e7eda217",
+      "sha1": "90ef575425aa046c2925c3b540e3876df5093b80",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-29T19:48:52.609188-04:00.jpg",
+      "source": "original",
+      "mtime": "1667087345",
+      "size": "268580",
+      "md5": "175c18b6aec3c11312fc3cc95eca35d1",
+      "crc32": "17c59a15",
+      "sha1": "ae94766736125c7eff7684dbb7a36804c6a52108",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-29T19:48:52.609188-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667087349",
+      "size": "1504",
+      "md5": "95d803b970bfed8a3440fc26800f6256",
+      "crc32": "d6d7f2ae",
+      "sha1": "8cf0ea372e043185e09129f3acebeffcd840f2d5",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-29T19:48:52.609188-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667087351",
+      "size": "72910",
+      "md5": "8ea3db7ae777e449d45f2b0afc638e7b",
+      "crc32": "dcfa905a",
+      "sha1": "0ebdf73d76de01475a231b189f1d71bcea924990",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-29T19:48:52.609188-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-29T19:48:52.609188-04:00.jpg",
+      "mtime": "1667088553",
+      "size": "9645",
+      "md5": "6e07d4d56de222672b73f501f2a6c608",
+      "crc32": "4d2e4d0f",
+      "sha1": "3b54f94616d8307547662d4f8a69bf6f3aaabc46"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T07:46:52.988532-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130442",
+      "size": "23303",
+      "md5": "b5956f4bbe6727d3e53c7470d496bf57",
+      "crc32": "30d105cc",
+      "sha1": "bf8d8056c98d7ed07841e765e3564cdaafd58f8b",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T07:46:52.988532-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130443",
+      "size": "29058",
+      "md5": "e5362a19380cc68c5118ba1b215991fc",
+      "crc32": "49ed6e3a",
+      "sha1": "b9100d379526d691edec3ddd840ea8ea67e6f6ca",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T07:46:52.988532-04:00.jpg",
+      "source": "original",
+      "mtime": "1667130440",
+      "size": "263675",
+      "md5": "63dd5adb18ffc74144ae4984da604803",
+      "crc32": "f8f573e3",
+      "sha1": "6eb27236fdd200e2756e7b4192cec0bf263679a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T07:46:52.988532-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130445",
+      "size": "1504",
+      "md5": "f881f9d31880bf4da5ec6d89454ef91a",
+      "crc32": "890bd745",
+      "sha1": "88ac6e809d8ad215bcf5d132898544aaa4a21ef0",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T07:46:52.988532-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130447",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T07:46:52.988532-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-30T07:46:52.988532-04:00.jpg",
+      "mtime": "1667137359",
+      "size": "9559",
+      "md5": "8d53bca54d979704b9e5a71f7969f21b",
+      "crc32": "8ead19a3",
+      "sha1": "a09cf52966b9d613d3499bed06e34d67221814e8"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T19:39:27.818382-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667173170",
+      "size": "21583",
+      "md5": "41e871f3517d1213491db16cbaa883a1",
+      "crc32": "ac6fb302",
+      "sha1": "2b51745e6f43eede08b6dc22542d6649d90948c8",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T19:39:27.818382-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667173172",
+      "size": "34309",
+      "md5": "ef6506dc250afbbc3a5be5ef6844b18f",
+      "crc32": "1f9c84a7",
+      "sha1": "b73f9a87e2c4990ac73e02d49e246347049b87fb",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T19:39:27.818382-04:00.jpg",
+      "source": "original",
+      "mtime": "1667173169",
+      "size": "259006",
+      "md5": "70abf162e9787dc0c371db6f9e68a591",
+      "crc32": "2e3cf0d5",
+      "sha1": "db9496132d391c4cd61173653ca04b04ab2bd046",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T19:39:27.818382-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667173174",
+      "size": "1504",
+      "md5": "a2e59140f30e50265651e5a576389f22",
+      "crc32": "3712fbb4",
+      "sha1": "331e8574090230988c6c134a58aaf7cb5ef46783",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T19:39:27.818382-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667173175",
+      "size": "104",
+      "md5": "ec8a67de525f8e2394cd0bd0d78923da",
+      "crc32": "5188ddbb",
+      "sha1": "7db338d5b9cda6389c9bb7a1d54693913f8bf61d",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-30T19:39:27.818382-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-30T19:39:27.818382-04:00.jpg",
+      "mtime": "1667173376",
+      "size": "9297",
+      "md5": "0891ba706230e8c7aa374f5ed56878ad",
+      "crc32": "e7ba4cc6",
+      "sha1": "fec1ace38fbaa557fa8a3c2e227d8f26e0490490"
+    },
+    {
+      "name": "gainesvillesun-2022-10-31T07:57:13.250486-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667217442",
+      "size": "22235",
+      "md5": "1723d5e6f02d53da77720f536155fa10",
+      "crc32": "a8ff936c",
+      "sha1": "193ed3d77b6c162b215425213d6038b52591eb68",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-31T07:57:13.250486-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667217444",
+      "size": "43687",
+      "md5": "dc8468c64b0b48e894fb0efb9eca3826",
+      "crc32": "5ab98418",
+      "sha1": "6869a87cb1ff319c47aca3183271f54ee6c4962e",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-31T07:57:13.250486-04:00.jpg",
+      "source": "original",
+      "mtime": "1667217440",
+      "size": "254137",
+      "md5": "63281594150b4a0f24a3c8cae9159e1e",
+      "crc32": "45ead913",
+      "sha1": "2b473096d9939d8062778845976525acb6d6b966",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-31T07:57:13.250486-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667217446",
+      "size": "1504",
+      "md5": "888e5abe200d5b529da7e3c386b68ad3",
+      "crc32": "8e5ae865",
+      "sha1": "0821afbcf7fcdf5240046f5cdaabfaa0bf61c685",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-31T07:57:13.250486-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667217448",
+      "size": "252",
+      "md5": "c2886c3aba4f03347916d0c68204102e",
+      "crc32": "ec3fc42f",
+      "sha1": "b18873cfa2b7538b0c6cc62bda4c44b418a84b4e",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-31T07:57:13.250486-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gainesvillesun-2022-10-31T07:57:13.250486-04:00.jpg",
+      "mtime": "1667217959",
+      "size": "9427",
+      "md5": "1a6421f2e4a039ec493f97ee48e37bdb",
+      "crc32": "651a87f6",
+      "sha1": "b52bb4c2b952fae7fab452a2332c534227b6d8dd"
+    },
+    {
+      "name": "gainesvillesun-2022-10-31T19:48:10.338435-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667260098",
+      "size": "23599",
+      "md5": "64996b8bb8681000b03c43500f6eb043",
+      "crc32": "906133aa",
+      "sha1": "636518838f53cd2619a3b860e759273402263d10",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-31T19:48:10.338435-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667260100",
+      "size": "45587",
+      "md5": "89489ab83fab2e4f23d942c3162ed6a4",
+      "crc32": "f9fd9bec",
+      "sha1": "96797f4eca93f7310595570f19bd17fe4a9423d1",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-31T19:48:10.338435-04:00.jpg",
+      "source": "original",
+      "mtime": "1667260097",
+      "size": "252827",
+      "md5": "adf344d2c529392206f04d954637c3d5",
+      "crc32": "181b8ccc",
+      "sha1": "ceef62ef3916452fb981dbaa713b9ba9f22030a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-10-31T19:48:10.338435-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667260102",
+      "size": "1504",
+      "md5": "5d81e21e78b66793b7f5129f9d0cfd80",
+      "crc32": "0dc74aa4",
+      "sha1": "0a8ec76cfa4ab228fdcb23e1ec8d49c40c9b6e98",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-10-31T19:48:10.338435-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667260104",
+      "size": "116501",
+      "md5": "6eb58d22512cf4bb6e71b8a2a7dee8aa",
+      "crc32": "6f15d944",
+      "sha1": "0936b42b919e69f4275e768f1cab5a822a1750b9",
+      "format": "JSON"
+    },
+    {
       "name": "gainesvillesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ff1246384208deff5f4b071a652b95accd66a0f8",
-      "mtime": "1666699725",
-      "size": "245091",
-      "md5": "dc1907410c348fd5ce9e7ea89a38586f",
-      "crc32": "8c45e946",
-      "sha1": "62343067b18ae6dee678d74c1def64ba6b15822c",
+      "btih": "c9238f655b28e84909b6e082f263eb375d321f46",
+      "mtime": "1667260151",
+      "size": "261959",
+      "md5": "3b39c250a15412de9ecd3e825c5e9a57",
+      "crc32": "a40ab794",
+      "sha1": "d42b67a06ce714238c5a7bb63ac905605e6d717b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gainesvillesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "553f35e8f4fca312bc447cec3ae84240",
+      "md5": "8940266fd748798a9f771fb4468a5ee3",
       "summation": "md5"
     },
     {
       "name": "gainesvillesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666699675",
-      "size": "1449984",
-      "md5": "1a443c31c013cbf57d226fa0c8ddf8a0",
-      "crc32": "aaf21d83",
-      "sha1": "e290f43fd1d1799c0d2ab198b7148957e4e29ca4",
+      "mtime": "1667260106",
+      "size": "1548288",
+      "md5": "075f081b25d87dd67c7913df3d3d64ce",
+      "crc32": "144719bc",
+      "sha1": "b23e41082c0be3146a41bd417e81326a642db0cd",
       "format": "Metadata"
     },
     {
@@ -11691,9 +12497,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1130,
-  "item_last_updated": 1666699725,
-  "item_size": 77159677,
+  "files_count": 1208,
+  "item_last_updated": 1667260151,
+  "item_size": 82113287,
   "metadata": {
     "identifier": "gainesvillesun-2022",
     "collection": [
@@ -11715,15 +12521,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451622210,
+      "task_id": 3458250588,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1021389774,
+  "uniq": 1157181593,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

@@ -1,6 +1,5 @@
 {
-  "conflict": 1666718325,
-  "created": 1666718325,
+  "created": 1667150685,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/13/items/lohud-2022",
@@ -4419,31 +4418,641 @@
       "sha1": "63f33959290c970684d8c619703d57e98ee765a3"
     },
     {
+      "name": "lohud-2022-10-26T02:40:14.506403-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666766421",
+      "size": "21589",
+      "md5": "52ae9380fe96bbb53332cb46aa3aa90d",
+      "crc32": "794afedf",
+      "sha1": "a670757a26a1de164a96a14427da600a4addc2c0",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-26T02:40:14.506403-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666766422",
+      "size": "30242",
+      "md5": "73cd9fc10f5b3e52dec3ba956fbdc7af",
+      "crc32": "949c2b44",
+      "sha1": "52a16bf8b731153a6e6ecb1aa74b950bf9a320e9",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-26T02:40:14.506403-04:00.jpg",
+      "source": "original",
+      "mtime": "1666766419",
+      "size": "324431",
+      "md5": "1fa6c9ef402dca9cb5f37626e27919f4",
+      "crc32": "cae9f4bd",
+      "sha1": "d26ddd4ebd37dda421aa1e271513eb1f156d5b04",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-26T02:40:14.506403-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666766424",
+      "size": "1450",
+      "md5": "5a8a67e1dd6b79d269c37df30b91d562",
+      "crc32": "a336f8a9",
+      "sha1": "b58e66afe7570f34a4422df03ceebadb24afbfde",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-26T02:40:14.506403-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666766425",
+      "size": "126309",
+      "md5": "242112407a17ea28aebcfd35bc033ca9",
+      "crc32": "b48b0425",
+      "sha1": "0296a168b5a0cb22700550da059db98d7aa89a23",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-26T02:40:14.506403-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lohud-2022-10-26T02:40:14.506403-04:00.jpg",
+      "mtime": "1666767093",
+      "size": "9721",
+      "md5": "a51d55e1b20930409ead268608d24868",
+      "crc32": "9d044ba0",
+      "sha1": "e761e54c5bcb5753520e46893d53f25909e2c3c9"
+    },
+    {
+      "name": "lohud-2022-10-26T14:14:43.954129-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666808101",
+      "size": "20801",
+      "md5": "f8bcbcc021af2e6078698c20caf0c124",
+      "crc32": "1b7d1a3b",
+      "sha1": "2919a015236d36d73e64fd6ccbe19c2526b23e75",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-26T14:14:43.954129-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666808111",
+      "size": "35404",
+      "md5": "af59220ed00ea1842cca87924590b284",
+      "crc32": "f23754a5",
+      "sha1": "d021c3d6b778c3a50a9ccaaff4b27e59fa1531e8",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-26T14:14:43.954129-04:00.jpg",
+      "source": "original",
+      "mtime": "1666808093",
+      "size": "250596",
+      "md5": "de74071d9bbbcfc5c6c16be692d7031e",
+      "crc32": "02e1ac5e",
+      "sha1": "7a66f3d7eacf4e31a474707f51898cb0e2f44a02",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-26T14:14:43.954129-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666808121",
+      "size": "1450",
+      "md5": "c875bf217e97561b3af5f45cb9298a29",
+      "crc32": "f86c5b3c",
+      "sha1": "57cab3174a0224e35284080d05ef853377db5531",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-26T14:14:43.954129-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lohud-2022-10-26T14:14:43.954129-04:00.jpg",
+      "mtime": "1666817128",
+      "size": "9262",
+      "md5": "115f8e5804a5d8619a15739c49fefba9",
+      "crc32": "d5430e95",
+      "sha1": "3e8bdd3c6ff4ae17896bf2ccfd817a7b55b3b7c7"
+    },
+    {
+      "name": "lohud-2022-10-27T01:52:08.192963-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666849933",
+      "size": "21827",
+      "md5": "e91915a7ddf7b3e49759cdd9b1eea7af",
+      "crc32": "8458c9e0",
+      "sha1": "6c804dbd1a6b4d8144461bd678b0b74b68d3471c",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-27T01:52:08.192963-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666849935",
+      "size": "29670",
+      "md5": "73a95f0cd59d4f71084af23c9bbd07b6",
+      "crc32": "73fe42c2",
+      "sha1": "8b73ba5a3a39f768fc9d2b08e900098dae8815b2",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-27T01:52:08.192963-04:00.jpg",
+      "source": "original",
+      "mtime": "1666849932",
+      "size": "251414",
+      "md5": "833992c684d718e37107903f3c4ac8e8",
+      "crc32": "fd2df468",
+      "sha1": "fefa78c152500b3e94bc07e02d4992dd1cf017c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-27T01:52:08.192963-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666849936",
+      "size": "1449",
+      "md5": "b79892d57c0a193b0d310d5758568fbc",
+      "crc32": "b076f1ed",
+      "sha1": "3f7852546446586ecb19aaf768335eddc3f6ea4f",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-27T01:52:08.192963-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666849939",
+      "size": "202",
+      "md5": "8a04e9b178ab1625fea4519a413d7b9c",
+      "crc32": "5501f4fb",
+      "sha1": "4193beba4deca8148d31f3bb4eda0de0064b8d79",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-27T01:52:08.192963-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lohud-2022-10-27T01:52:08.192963-04:00.jpg",
+      "mtime": "1666873877",
+      "size": "9266",
+      "md5": "0a2d36dce611c34cd9972431306ebff5",
+      "crc32": "22cc59ff",
+      "sha1": "bb726df30b87a1376bc288414a29602108605a04"
+    },
+    {
+      "name": "lohud-2022-10-27T13:44:59.760822-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666892709",
+      "size": "21039",
+      "md5": "72e72a7aecc6cd9afdb68cad57d76e9c",
+      "crc32": "802bcdd7",
+      "sha1": "7f37a149107253564d37feb8133b4aa71c1ef3f8",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-27T13:44:59.760822-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666892711",
+      "size": "36393",
+      "md5": "9db8026ffa1daa4df10891b95fed8815",
+      "crc32": "116141c7",
+      "sha1": "b5bd18437d54004b3bad3cbf86205363a4681145",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-27T13:44:59.760822-04:00.jpg",
+      "source": "original",
+      "mtime": "1666892705",
+      "size": "251941",
+      "md5": "824aa956715ae151f4c0f5a4c3dd94d7",
+      "crc32": "ab290423",
+      "sha1": "1fba6927b1d548ebf9f2265afc51ba88926ead10",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-27T13:44:59.760822-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666892714",
+      "size": "1450",
+      "md5": "07d11a69fa8fb77ad2361715df2a432f",
+      "crc32": "6ea3dcec",
+      "sha1": "33bcef543ac5acc41741ef1d061cbf41b5f90078",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-27T13:44:59.760822-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666892716",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-27T13:44:59.760822-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lohud-2022-10-27T13:44:59.760822-04:00.jpg",
+      "mtime": "1666901883",
+      "size": "9257",
+      "md5": "c06b0996462e40b147df406b0fc256d8",
+      "crc32": "8e95060c",
+      "sha1": "c58268a31c527fb4d204903acf03fd3b20082fd5"
+    },
+    {
+      "name": "lohud-2022-10-28T02:36:30.313708-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666939001",
+      "size": "21619",
+      "md5": "4d70333dccfb0adaaf72ecec9cf702a5",
+      "crc32": "2afdd6a6",
+      "sha1": "51f964f5d1f3c287bcb5c42f1da2cf4adba6fde2",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T02:36:30.313708-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666939003",
+      "size": "29454",
+      "md5": "ad4b45a0af16b4bb8ac0b84b4a5b2154",
+      "crc32": "0ead047f",
+      "sha1": "eea14010ac6032ea644f7671b582ed1496098d43",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T02:36:30.313708-04:00.jpg",
+      "source": "original",
+      "mtime": "1666938999",
+      "size": "250257",
+      "md5": "ff13e0f52689770edf8f9064e60a6f8a",
+      "crc32": "978117e2",
+      "sha1": "f11f31f522ec6b2f28ea6e6129dff299492e408e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-28T02:36:30.313708-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666939005",
+      "size": "1450",
+      "md5": "68ff1da605090e82b40459b3caa351ff",
+      "crc32": "387a99f9",
+      "sha1": "1107d0ae5caed03e41e277fc2500e3f525b2f301",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T02:36:30.313708-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666939007",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T02:36:30.313708-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lohud-2022-10-28T02:36:30.313708-04:00.jpg",
+      "mtime": "1666939583",
+      "size": "9202",
+      "md5": "193dc4f58338ca54ed45a462a1cbadc3",
+      "crc32": "2b820c74",
+      "sha1": "950ce2a0a7f71e5c7319fa6409fd20d50e2d64f5"
+    },
+    {
+      "name": "lohud-2022-10-28T12:39:49.845534-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975195",
+      "size": "20778",
+      "md5": "7dc18dc4f5cf3041053e00ac081e2f50",
+      "crc32": "1c8c8be1",
+      "sha1": "207260d056966d1d6281619b2d19e2d774154e24",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T12:39:49.845534-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975197",
+      "size": "33845",
+      "md5": "28812a903fdb6a3db47c0907d7f5aab2",
+      "crc32": "fbb2f009",
+      "sha1": "735983121e66a3a61cd3eace7ba3d59ee6b168e4",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T12:39:49.845534-04:00.jpg",
+      "source": "original",
+      "mtime": "1666975193",
+      "size": "307303",
+      "md5": "9867c44ae5590289893632a6069f4130",
+      "crc32": "b8aa3e0c",
+      "sha1": "0591132892b563358370f1114f6875e9a4b9c972",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-28T12:39:49.845534-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975202",
+      "size": "1450",
+      "md5": "2cb427b47020b8a0ba0b69a6f47153d9",
+      "crc32": "8e474fa9",
+      "sha1": "b23efc85c644b1192ee607ccb3f1796183e53c40",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T12:39:49.845534-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975208",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-28T12:39:49.845534-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lohud-2022-10-28T12:39:49.845534-04:00.jpg",
+      "mtime": "1666980622",
+      "size": "9386",
+      "md5": "4df7760ac3d55dd0f3e57b720c52237c",
+      "crc32": "cb862306",
+      "sha1": "474110a4b8f5327a67a6f43d919f896b9b9ef650"
+    },
+    {
+      "name": "lohud-2022-10-29T01:24:22.931914-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667021077",
+      "size": "20379",
+      "md5": "dec748e4a928ea7fad0124578bf805f7",
+      "crc32": "82c5addd",
+      "sha1": "fa7b0cdb1261d61addf2ef81fa78bb7c2a6603ad",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-29T01:24:22.931914-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667021079",
+      "size": "30759",
+      "md5": "1e085508da3ff0adcb61c40455982708",
+      "crc32": "f81a1fb0",
+      "sha1": "454b1890c19901d59902aed1d0064286631a6ff6",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-29T01:24:22.931914-04:00.jpg",
+      "source": "original",
+      "mtime": "1667021076",
+      "size": "262719",
+      "md5": "30aeb3bdfcee8220b633d97085163437",
+      "crc32": "aa2f143c",
+      "sha1": "4e06f2a35780bb07a225eceee16f13adf1ade591",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-29T01:24:22.931914-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667021083",
+      "size": "1450",
+      "md5": "a64838c3dc96ac64c5a8330ab25bca33",
+      "crc32": "13c32c9f",
+      "sha1": "03029624f4b3ceb579f4ef77a08f5d9342b4e96e",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-29T01:24:22.931914-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667021085",
+      "size": "202",
+      "md5": "038e9fe7ecdf74e83701c1defcbe30cf",
+      "crc32": "2a1e04c6",
+      "sha1": "6c285fe240e3c00433fb5d9d3a669ca19625002e",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-29T01:24:22.931914-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lohud-2022-10-29T01:24:22.931914-04:00.jpg",
+      "mtime": "1667023513",
+      "size": "9572",
+      "md5": "0d4efc7dae5ce5b45163ae00596d96dc",
+      "crc32": "10847c81",
+      "sha1": "59018889fb9200a8b0763ecb46c228d9445a971b"
+    },
+    {
+      "name": "lohud-2022-10-29T13:47:24.250396-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667065649",
+      "size": "22489",
+      "md5": "f174097bdf13f279dcfd71a60a654997",
+      "crc32": "128892a2",
+      "sha1": "961ad22d54f9da9125930dd2f7ea3dea84baa4ad",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-29T13:47:24.250396-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667065651",
+      "size": "29095",
+      "md5": "1b4dd3d53a09ae1f371c203db44d14fa",
+      "crc32": "0bd5b40d",
+      "sha1": "13e1c02c84a32f9fc593a0dbb2638d9fa8e6a393",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-29T13:47:24.250396-04:00.jpg",
+      "source": "original",
+      "mtime": "1667065647",
+      "size": "274006",
+      "md5": "7b8e60c9e84c295ad824e37ed6124bf2",
+      "crc32": "4fb78a36",
+      "sha1": "f7a66876a859edb984996f51cc0fb43955ac32b4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-29T13:47:24.250396-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667065653",
+      "size": "1450",
+      "md5": "484c83fdc029154f8fb8cace1c7b21ab",
+      "crc32": "030876cf",
+      "sha1": "88ace01b67b6916529bc4eadbc488397ef7fbbc6",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-29T13:47:24.250396-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667065655",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-29T13:47:24.250396-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lohud-2022-10-29T13:47:24.250396-04:00.jpg",
+      "mtime": "1667066878",
+      "size": "9483",
+      "md5": "3c92301f2920a3c060d476aad88ea605",
+      "crc32": "708479a3",
+      "sha1": "f3cc427709e93cb81ce02e42f83a8a3a59b02af7"
+    },
+    {
+      "name": "lohud-2022-10-30T01:32:18.008542-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667107943",
+      "size": "20941",
+      "md5": "3c5eabb60f6007a4665de26eda92a9f9",
+      "crc32": "0381acd5",
+      "sha1": "a7ef556a8419c1d190b475d4e3aac572368124fa",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-30T01:32:18.008542-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667107945",
+      "size": "29689",
+      "md5": "3185973becb54ea1cfbc9ddb3ab87995",
+      "crc32": "247cb790",
+      "sha1": "d5bfa4429faa75edf81afecd975a3f4bcc893764",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-30T01:32:18.008542-04:00.jpg",
+      "source": "original",
+      "mtime": "1667107942",
+      "size": "290906",
+      "md5": "b4cdbdc5f94ad909ac3989689a9b2015",
+      "crc32": "b9fb197b",
+      "sha1": "50a9f9d88616b7492370848b7f949e8e08650020",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-30T01:32:18.008542-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667107947",
+      "size": "1450",
+      "md5": "445b53caa8c526c29b1d170f35a17d94",
+      "crc32": "e40503f6",
+      "sha1": "46635874c293f41a905de625c16fed162d355c07",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-30T01:32:18.008542-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667107948",
+      "size": "96915",
+      "md5": "ec764ef1adee064faa23740b059d18bd",
+      "crc32": "9f03419b",
+      "sha1": "126ef51fe8e19943eeef5f7d8a9585f6c0b7f473",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-30T01:32:18.008542-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lohud-2022-10-30T01:32:18.008542-04:00.jpg",
+      "mtime": "1667109147",
+      "size": "9573",
+      "md5": "61463d759d236fdd112eb8d94546129c",
+      "crc32": "6e6c24d6",
+      "sha1": "aeddc87a85bbf74f55009180567a50aa0555261c"
+    },
+    {
+      "name": "lohud-2022-10-30T13:13:44.810766-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667150034",
+      "size": "21048",
+      "md5": "dfc6370cf9d5d83c77c07e6500266e65",
+      "crc32": "51bf34ec",
+      "sha1": "78fd700539be7f94cce5b98529843611d9e6c08a",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-30T13:13:44.810766-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667150037",
+      "size": "34178",
+      "md5": "adba057525fb54d3c7eaeae7b35c0af9",
+      "crc32": "2bb849c1",
+      "sha1": "492edf8ec00db09ab16ccea21fd7daad53295a44",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-30T13:13:44.810766-04:00.jpg",
+      "source": "original",
+      "mtime": "1667150032",
+      "size": "285867",
+      "md5": "9662d59dbc96ed0c9bd4d8b6b115e8f4",
+      "crc32": "4a633da0",
+      "sha1": "817c7df6afece31f9e11731b5130b5296220af1a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lohud-2022-10-30T13:13:44.810766-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667150039",
+      "size": "1450",
+      "md5": "4da54e6191bb30a44cc9d77301f0009e",
+      "crc32": "bc23034f",
+      "sha1": "5ca55299990c7740db8f8937b0e85cb3bdfd27c7",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-30T13:13:44.810766-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667150041",
+      "size": "56550",
+      "md5": "0f1cab479f91b7bcdbe8d92a7709fc98",
+      "crc32": "c311e0b2",
+      "sha1": "b1e165d56029db5689b00fb5fc4a589ab4da5572",
+      "format": "JSON"
+    },
+    {
+      "name": "lohud-2022-10-30T13:13:44.810766-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lohud-2022-10-30T13:13:44.810766-04:00.jpg",
+      "mtime": "1667150666",
+      "size": "9515",
+      "md5": "f63acca0dff80d8d40507209ffc4b865",
+      "crc32": "d65130ea",
+      "sha1": "f237a6d8748879cb5e05de34319eb5a622f4b79c"
+    },
+    {
       "name": "lohud-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bcd37b2392273763c49ea4ba79557e800d8e0831",
-      "mtime": "1666718323",
-      "size": "89962",
-      "md5": "e9f7265218b616622df00c7e7c83af00",
-      "crc32": "b02bf09b",
-      "sha1": "ee421ac8d0238e253f31c94f5b341de61dc182c0",
+      "btih": "c6ae0d75878fbe99e949a599fe778bde1580a81a",
+      "mtime": "1667150671",
+      "size": "102176",
+      "md5": "f30132007215ca9d71366708bb1255d7",
+      "crc32": "17cda416",
+      "sha1": "0ce8355747a88bfe39e9f4e341f6cdd024162714",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lohud-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ccbcbe916adc33d566c6cb4b86a202ce",
+      "md5": "53a2d2bb9801446a28fa0712525edb25",
       "summation": "md5"
     },
     {
       "name": "lohud-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666717668",
-      "size": "561152",
-      "md5": "0f26db0cf20bcc46faee961eeb5fb706",
-      "crc32": "d232ce1e",
-      "sha1": "414ae41779c66d3d9dc4d2238210cf0eb166a1a2",
+      "mtime": "1667150047",
+      "size": "634880",
+      "md5": "fe6dfdd78833b4ec7deaeab49221d0ce",
+      "crc32": "6ff1ccbc",
+      "sha1": "7fb91d35a19ead9d8688065c09e2645e76734830",
       "format": "Metadata"
     },
     {
@@ -4457,9 +5066,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 431,
-  "item_last_updated": 1666718323,
-  "item_size": 29463299,
+  "files_count": 490,
+  "item_last_updated": 1667150671,
+  "item_size": 33219642,
   "metadata": {
     "identifier": "lohud-2022",
     "collection": [
@@ -4476,29 +5085,10 @@
     "publicdate": "2022-09-20 17:34:21",
     "addeddate": "2022-09-20 17:34:21"
   },
-  "pending_tasks": true,
-  "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451839418,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3451850703,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1682575598,
+  "server": "ia801402.us.archive.org",
+  "uniq": 1657761834,
   "workable_servers": [
+    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

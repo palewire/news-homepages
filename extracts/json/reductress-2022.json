@@ -1,5 +1,5 @@
 {
-  "created": 1666706377,
+  "created": 1667226968,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/34/items/reductress-2022",
@@ -8851,31 +8851,754 @@
       "format": "JSON"
     },
     {
+      "name": "reductress-2022-10-25T09:58:27.069462-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-25T09:58:27.069462-04:00.jpg",
+      "mtime": "1666709836",
+      "size": "11048",
+      "md5": "299923a53f3364e9fd5dd34814675262",
+      "crc32": "524b0359",
+      "sha1": "b594e2a5246488f507ba436caaa5d2875ead76a0"
+    },
+    {
+      "name": "reductress-2022-10-25T22:36:45.475798-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666751808",
+      "size": "19438",
+      "md5": "535319eff5bb22ffb87dc87eb4073a28",
+      "crc32": "8c1108b7",
+      "sha1": "9dec6fa1a6a092d3712678fd711f3d6c642de310",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-25T22:36:45.475798-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666751810",
+      "size": "19328",
+      "md5": "ed269ef8b283d2e7d999fa2b1b65ed74",
+      "crc32": "e94a0aef",
+      "sha1": "0e175800d3a41f66113c688330128f88ce1652dc",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-25T22:36:45.475798-04:00.jpg",
+      "source": "original",
+      "mtime": "1666751807",
+      "size": "301586",
+      "md5": "2573a9a4766d6a9bf0f8d37ce416f286",
+      "crc32": "b15407d6",
+      "sha1": "a1e8980ec2320d524b5417e6e1a3b9dfa72f7404",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-25T22:36:45.475798-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666751811",
+      "size": "1459",
+      "md5": "e94e544a7b21826621a3b177e003485c",
+      "crc32": "b342e74d",
+      "sha1": "c424ea70de554ed3e82643e5ea38d576cafa5113",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-25T22:36:45.475798-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666751813",
+      "size": "99",
+      "md5": "874cce7f9450a5a5b206c06588736df5",
+      "crc32": "653dd429",
+      "sha1": "10c21a6453ef9e4c86334e00ca480fe8e459ade8",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-25T22:36:45.475798-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-25T22:36:45.475798-04:00.jpg",
+      "mtime": "1666752031",
+      "size": "10730",
+      "md5": "78392e5c390af8e097d08bb078c4d059",
+      "crc32": "a16b7519",
+      "sha1": "5a58199c9416749d427e82f26ded87a4a4ecba65"
+    },
+    {
+      "name": "reductress-2022-10-26T10:58:06.117274-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796301",
+      "size": "19383",
+      "md5": "b77a8e07e1e1d1fdfd2e798474b0b8d6",
+      "crc32": "33a9ade2",
+      "sha1": "4473fc16361ae6294a028a383ce7721177532fc6",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-26T10:58:06.117274-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796302",
+      "size": "19159",
+      "md5": "71f667d08dd8db3919d6fcf682b93dd5",
+      "crc32": "ffc5ad40",
+      "sha1": "0dde7ad6c2d5b372c4572db8759c547fbde812aa",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-26T10:58:06.117274-04:00.jpg",
+      "source": "original",
+      "mtime": "1666796299",
+      "size": "300472",
+      "md5": "3171e872a25b5577dae72cabedb522bc",
+      "crc32": "0ad79197",
+      "sha1": "9f4cba564ef1e8ad936426af16de4ec290c7313e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-26T10:58:06.117274-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796304",
+      "size": "1459",
+      "md5": "2a9d582f392696e2990b246405bf73ee",
+      "crc32": "2211ba31",
+      "sha1": "688ddf73f7c0464dbcb5833ac43b76ed0f0a3039",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-26T10:58:06.117274-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796306",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-26T10:58:06.117274-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-26T10:58:06.117274-04:00.jpg",
+      "mtime": "1666797320",
+      "size": "10786",
+      "md5": "efb5a3822d795b11c3a269b7219bc4e6",
+      "crc32": "163bb957",
+      "sha1": "3ca5119a7a333b14e5ad71595b6da4bf5a180104"
+    },
+    {
+      "name": "reductress-2022-10-26T22:32:31.650091-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837963",
+      "size": "19401",
+      "md5": "3febdb97b2394f096a01f7ae4a712abd",
+      "crc32": "ed9abcdd",
+      "sha1": "a0f6cc673675fd804e758c49d0dccc906a2aa213",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-26T22:32:31.650091-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837965",
+      "size": "1459",
+      "md5": "560ded07356da220bed03523b0d8926e",
+      "crc32": "d74c428c",
+      "sha1": "6df8fccbcbaf563744caea52717d880fc8d807cc",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-26T22:32:31.650091-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666837967",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-27T10:18:37.044348-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666880325",
+      "size": "19600",
+      "md5": "6a806caa6c1ef16c2a9116d1212482a6",
+      "crc32": "e58475d1",
+      "sha1": "83c7016821a326d21d221aed45b81f8e179466e6",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-27T10:18:37.044348-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666880326",
+      "size": "19157",
+      "md5": "e8948aaa33c24deab8a34546763cc6cc",
+      "crc32": "c8d6be0e",
+      "sha1": "897efd70a9176b2791c69eb3655cc2bd93965bda",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-27T10:18:37.044348-04:00.jpg",
+      "source": "original",
+      "mtime": "1666880323",
+      "size": "309863",
+      "md5": "75cb42bc57fc608515fed8e20f2864a3",
+      "crc32": "b6620e6b",
+      "sha1": "51842d0841230bba5eb53df4db974246e51b24fd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-27T10:18:37.044348-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666880328",
+      "size": "1459",
+      "md5": "ba245665235653560126c9f740e8580c",
+      "crc32": "8665a2cc",
+      "sha1": "f16567fffebbc29b25fb1d7b4b261ad0fdeaf832",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-27T10:18:37.044348-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666880330",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-27T10:18:37.044348-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-27T10:18:37.044348-04:00.jpg",
+      "mtime": "1666893853",
+      "size": "10712",
+      "md5": "f91c6ffeefd75f849af91a9b6fe8a10e",
+      "crc32": "fe8de071",
+      "sha1": "e827a2aebde7f5ca36bc27af2e638b245889b0dc"
+    },
+    {
+      "name": "reductress-2022-10-27T22:32:44.752629-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666924369",
+      "size": "19205",
+      "md5": "a4c7d875ecd1ad695b8acc9f7deceb0a",
+      "crc32": "e8e66103",
+      "sha1": "99126b02dc85196764d313e7b6e8cf87d475409a",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-27T22:32:44.752629-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666924370",
+      "size": "19104",
+      "md5": "9eadf8c954c86dbd4c3d0213251b1ee3",
+      "crc32": "bb8ef340",
+      "sha1": "1d47bf1fd35002d5ccf26382becb1a84d9f30d3e",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-27T22:32:44.752629-04:00.jpg",
+      "source": "original",
+      "mtime": "1666924367",
+      "size": "302716",
+      "md5": "68e56d46b424294de238c0e758226def",
+      "crc32": "d4eb4354",
+      "sha1": "03b2142267bfe1433209ae4ffeeb021ef4f13d83",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-27T22:32:44.752629-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666924372",
+      "size": "1458",
+      "md5": "097cdafd3155f32b3f16c8e2ef22f794",
+      "crc32": "16a9857f",
+      "sha1": "15cec50500143a6dc5a54e26c83c7011a23c6c5b",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-27T22:32:44.752629-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666924373",
+      "size": "60036",
+      "md5": "487d57e1d0cb8eea87108f9978c02475",
+      "crc32": "5d94d262",
+      "sha1": "d9ba14142144a757998aa286afe036e47674d6c6",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-27T22:32:44.752629-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-27T22:32:44.752629-04:00.jpg",
+      "mtime": "1666925624",
+      "size": "10599",
+      "md5": "db5a027b158885fbb6daf4f89c4fb228",
+      "crc32": "5f50bd13",
+      "sha1": "8da815291b760497d8e1149e5ed449deb40910c9"
+    },
+    {
+      "name": "reductress-2022-10-28T10:07:33.582612-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666966059",
+      "size": "19245",
+      "md5": "716d643583af34dd70f87c3f9bc263b3",
+      "crc32": "4ef4eb53",
+      "sha1": "21fb475038e1ee9ef55c5881a1aabc1eb05a49da",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-28T10:07:33.582612-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666966061",
+      "size": "19235",
+      "md5": "386f00219315ee8dc00a51f56778aca5",
+      "crc32": "8d7e3cda",
+      "sha1": "1d93c46d00f21429843d3bd49f7e7409ee99e5a6",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-28T10:07:33.582612-04:00.jpg",
+      "source": "original",
+      "mtime": "1666966058",
+      "size": "294043",
+      "md5": "4cb55d6cbb79d268d3a126adb99e279e",
+      "crc32": "6275879e",
+      "sha1": "960e57e7dcdcf071ccab63922232e7d9782f4747",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-28T10:07:33.582612-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666966062",
+      "size": "1459",
+      "md5": "8e7a8c8f58f704c750fedcdd8139c91a",
+      "crc32": "44fa803e",
+      "sha1": "e2cfb7b61082a0699560fe84e8b2876e2efc37d1",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-28T10:07:33.582612-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666966065",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-28T10:07:33.582612-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-28T10:07:33.582612-04:00.jpg",
+      "mtime": "1666971248",
+      "size": "10582",
+      "md5": "68402269c308cad7d046ca8418179af7",
+      "crc32": "c461f131",
+      "sha1": "716f6fa7f6f21aefca48613d65cd0816e8d61894"
+    },
+    {
+      "name": "reductress-2022-10-28T22:18:26.084420-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667009910",
+      "size": "19593",
+      "md5": "72882f38c6e5db9e6593ae51ec6b613e",
+      "crc32": "5ad1ea21",
+      "sha1": "b62b0d8c5f03bacd86624f203cfb003116f66677",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-28T22:18:26.084420-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667009912",
+      "size": "20079",
+      "md5": "dae207802aa9dcc790a2c49553b736e3",
+      "crc32": "d9c1dc87",
+      "sha1": "3052b429869a0e608f69f0bd071169822dcb4042",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-28T22:18:26.084420-04:00.jpg",
+      "source": "original",
+      "mtime": "1667009908",
+      "size": "296013",
+      "md5": "8f893b47d90d42a8b50820144ecae42d",
+      "crc32": "f626513a",
+      "sha1": "ebdf72ba23be7b54ef81763c6968a267d2f16d86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-28T22:18:26.084420-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667009914",
+      "size": "1459",
+      "md5": "50ab3888256bf00f8e9d7ab3311870be",
+      "crc32": "0c89b671",
+      "sha1": "3fb05cd10d60b5ad7e67a32d46c15ce4ed567ab0",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-28T22:18:26.084420-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667009917",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-28T22:18:26.084420-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-28T22:18:26.084420-04:00.jpg",
+      "mtime": "1667011866",
+      "size": "10519",
+      "md5": "fe68fa2e06e3f269a3176f92f28ea13a",
+      "crc32": "ddae1e10",
+      "sha1": "f9a8998b93c512f83baa8985034f56d5db10c321"
+    },
+    {
+      "name": "reductress-2022-10-29T10:09:13.064111-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667052561",
+      "size": "19625",
+      "md5": "1b191c9dfe800cbcd70d0360fce9cf86",
+      "crc32": "71ce8361",
+      "sha1": "2c88a4e8ddacffd9d1da1df03960c30c050ad43b",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-29T10:09:13.064111-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667052563",
+      "size": "20018",
+      "md5": "2e921c3c6977d501d2560d7f25ddba2b",
+      "crc32": "f0703073",
+      "sha1": "0121ff075ebde1a89c37969e4111ab21b28cdeba",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-29T10:09:13.064111-04:00.jpg",
+      "source": "original",
+      "mtime": "1667052559",
+      "size": "295093",
+      "md5": "3fc93bcf5d860b590fb9a01fa4ee0d6e",
+      "crc32": "5be2795a",
+      "sha1": "c978ff1cde82452732b4942378f9f89e4c4db51d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-29T10:09:13.064111-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667052565",
+      "size": "1458",
+      "md5": "ebd0d4cb7707e3840343b97f4a5d9fea",
+      "crc32": "9fec0b2d",
+      "sha1": "ddfbb5d1f9aaf44998132b091ec054e52d1b2ea3",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-29T10:09:13.064111-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667052567",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-29T10:09:13.064111-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-29T10:09:13.064111-04:00.jpg",
+      "mtime": "1667053825",
+      "size": "10526",
+      "md5": "0c963aaff81f8dc303af1ce7ced40f75",
+      "crc32": "67478778",
+      "sha1": "9e9da70b73c9ab46dc9c913244e4880a6f6476a8"
+    },
+    {
+      "name": "reductress-2022-10-29T22:10:20.245152-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667095825",
+      "size": "19592",
+      "md5": "69fd49a236f766424a10847a12d8e62a",
+      "crc32": "c14a3285",
+      "sha1": "2199b1ef76017a9a3e40fd95e4017d0edcb0f7f9",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-29T22:10:20.245152-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095826",
+      "size": "19968",
+      "md5": "a21d076636a37e79272b24c190d6fe4a",
+      "crc32": "e18657fc",
+      "sha1": "f35cb1d80c53e6b715d489c7f48d59600b0808a0",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-29T22:10:20.245152-04:00.jpg",
+      "source": "original",
+      "mtime": "1667095823",
+      "size": "295924",
+      "md5": "5cd9ad781d62a1fb1e96cd7e5797c543",
+      "crc32": "efd82bb7",
+      "sha1": "512578e4cc4494f8656f5f3b8742b3071ead63d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-29T22:10:20.245152-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095828",
+      "size": "1458",
+      "md5": "2ce1cb7912fa87eae4cefdc32935ef92",
+      "crc32": "90f9ed76",
+      "sha1": "809f7cfd0560beb1cf540dbf1b127c84a9171b58",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-29T22:10:20.245152-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667095829",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-29T22:10:20.245152-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-29T22:10:20.245152-04:00.jpg",
+      "mtime": "1667097288",
+      "size": "10527",
+      "md5": "c687e7f49a1ec14be55857962624e80e",
+      "crc32": "50bb3cda",
+      "sha1": "abcb336aa8cfbc6a1c3d1d73603d8b89e56ef993"
+    },
+    {
+      "name": "reductress-2022-10-30T09:51:00.010858-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667137890",
+      "size": "19562",
+      "md5": "b7be6bfea0bfc6af5f2cdb9b441919f9",
+      "crc32": "9e3f8ab6",
+      "sha1": "ddfc69b0279f0eea5501a8fc14ed74098827319c",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-30T09:51:00.010858-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667137891",
+      "size": "19980",
+      "md5": "3b6d3a82a16e2a44e8f404d0b40eeda8",
+      "crc32": "8c06372d",
+      "sha1": "e3b65928808a7a3fd4bc96562b86fdd7d3c7892e",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-30T09:51:00.010858-04:00.jpg",
+      "source": "original",
+      "mtime": "1667137888",
+      "size": "298280",
+      "md5": "d5e122e90bea2f9a60261cd825cd9569",
+      "crc32": "23c49b0f",
+      "sha1": "bda346ca0aeafe35058fb831eaba3ae733de0fe2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-30T09:51:00.010858-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667137893",
+      "size": "1459",
+      "md5": "f57b58628d52b88a80bd06268e57429e",
+      "crc32": "3b6c5e68",
+      "sha1": "f2ff25b54cc000997b91092ca834ca0321ca66e5",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-30T09:51:00.010858-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667137895",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-30T09:51:00.010858-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-30T09:51:00.010858-04:00.jpg",
+      "mtime": "1667138980",
+      "size": "10510",
+      "md5": "6f6e837c73d2132fa44ff730ccaf87a7",
+      "crc32": "3bc1fd19",
+      "sha1": "316ca07af2f95643ff7eff5005c4b386c48ebf23"
+    },
+    {
+      "name": "reductress-2022-10-30T22:17:14.550109-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667182653",
+      "size": "19506",
+      "md5": "d6526fe11827387368c50cabc6b92d40",
+      "crc32": "dd876aa7",
+      "sha1": "6fb2b3437345c66c1547b9484590f905824a405e",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-30T22:17:14.550109-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667182655",
+      "size": "19893",
+      "md5": "b4e5d8f1f044725c328359d43151b5be",
+      "crc32": "ee622b52",
+      "sha1": "70bb5aaf4ea2df44d24357609be106a7d4c469b4",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-30T22:17:14.550109-04:00.jpg",
+      "source": "original",
+      "mtime": "1667182651",
+      "size": "297593",
+      "md5": "d27816983f7eb7ea685e98a0cb3d16d2",
+      "crc32": "6d03b60a",
+      "sha1": "5ca1224f262d67ecaf2a3a3306602354dd6874d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-30T22:17:14.550109-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667182657",
+      "size": "1459",
+      "md5": "365b00360832c45f18c9c6dae9ff6970",
+      "crc32": "aa98c2ff",
+      "sha1": "b8d63c56ce5b852b71570f6a7a7adfff0eb698fd",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-30T22:17:14.550109-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667182659",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-30T22:17:14.550109-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-30T22:17:14.550109-04:00.jpg",
+      "mtime": "1667185285",
+      "size": "10516",
+      "md5": "6d54a80dbc618bb9ea2fd79cc8112864",
+      "crc32": "2bdd4288",
+      "sha1": "3e5be19d0eda2c938e23c5974a0ece7c4da52c9a"
+    },
+    {
+      "name": "reductress-2022-10-31T10:17:02.832044-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667225832",
+      "size": "19625",
+      "md5": "6af974c3321f73ee150f8cba0e94f09b",
+      "crc32": "152692c5",
+      "sha1": "65e7cd04007c1a44e0220478ce76157874c5d92f",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-31T10:17:02.832044-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667225834",
+      "size": "20141",
+      "md5": "b1e761f97d6328a9f25912adab7490a5",
+      "crc32": "ea61790d",
+      "sha1": "7ce079d4e3b32fef8489100aa60a506366ec9fa0",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-31T10:17:02.832044-04:00.jpg",
+      "source": "original",
+      "mtime": "1667225829",
+      "size": "307423",
+      "md5": "4d1d691219e15d2e0dbd1b105e637cd0",
+      "crc32": "e4ed5693",
+      "sha1": "1902fd5108e0abd069219279643455801156eb66",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reductress-2022-10-31T10:17:02.832044-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667225836",
+      "size": "1459",
+      "md5": "7b24181e0a0bcb666996c57eef8c2e77",
+      "crc32": "f4f5cbc2",
+      "sha1": "3b57b4316c23cc8b6ae11f67ff7dd923f85873ac",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-31T10:17:02.832044-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667225838",
+      "size": "61278",
+      "md5": "f6312079951494da273cb173e03c9cda",
+      "crc32": "8aaa3950",
+      "sha1": "0fc3c68a4e37b3f196861ffa0dde158db19cc6e6",
+      "format": "JSON"
+    },
+    {
+      "name": "reductress-2022-10-31T10:17:02.832044-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-10-31T10:17:02.832044-04:00.jpg",
+      "mtime": "1667226914",
+      "size": "10635",
+      "md5": "de00b40ff5770af1ecf847db8123f7f1",
+      "crc32": "851c4102",
+      "sha1": "f0858745cfd41849cf3fc7afce055d28ceaf8ee7"
+    },
+    {
       "name": "reductress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9676a320d8314b4b0d420a6e0e3015e2915ed950",
-      "mtime": "1666706371",
-      "size": "183220",
-      "md5": "9c5cfeb43d009d5fe23b6220dee26ed1",
-      "crc32": "4eb50ea8",
-      "sha1": "90414b1ace9e3b7fbcddc493ee425d5328e73051",
+      "btih": "191a1368acb3a965716e0316f9a5ca80ed490769",
+      "mtime": "1667226938",
+      "size": "198061",
+      "md5": "962d7585bdb93e2495e275a571c92a74",
+      "crc32": "9a5552d3",
+      "sha1": "20bdc6c92f4b16f9bb729bb07173ae343b491d4b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reductress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2cc5bcfd71bd9db5c7d9655905eacc59",
+      "md5": "493793354e6e03dba219740eb6a1a9e1",
       "summation": "md5"
     },
     {
       "name": "reductress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666706326",
-      "size": "1105920",
-      "md5": "3dfe62801d2ec1efb3761c5162ae6188",
-      "crc32": "27dc829e",
-      "sha1": "030e3599ae84f4e5876c1090eff841ce6fc9e268",
+      "mtime": "1667225841",
+      "size": "1196032",
+      "md5": "21235e227ce98ed39c15644fd0843b60",
+      "crc32": "b7d763b2",
+      "sha1": "ee00ee772d7fcc9c4024948746ff77d13578ad3d",
       "format": "Metadata"
     },
     {
@@ -8889,9 +9612,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 860,
-  "item_last_updated": 1666706371,
-  "item_size": 57726625,
+  "files_count": 930,
+  "item_last_updated": 1667226938,
+  "item_size": 61848847,
   "metadata": {
     "identifier": "reductress-2022",
     "collection": [
@@ -8908,21 +9631,10 @@
     "publicdate": "2022-08-15 01:29:39",
     "addeddate": "2022-08-15 01:29:39"
   },
-  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451704348,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 487118438,
+  "uniq": 1125740466,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666701839,
+  "created": 1667260193,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/30/items/galesburg-2022",
@@ -4396,31 +4396,826 @@
       "sha1": "1efdb07d0701cb8115960ea02d925f3f08efb4fe"
     },
     {
+      "name": "galesburg-2022-10-25T19:05:45.946404-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666742751",
+      "size": "24839",
+      "md5": "c52baf19350f57a7490163c89aa5b011",
+      "crc32": "58526c93",
+      "sha1": "718d143cf4a83d7aadd9bc1306aafa272bd7596e",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-25T19:05:45.946404-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666742753",
+      "size": "36211",
+      "md5": "b11f5e82a153d371d7c61a31b80ca728",
+      "crc32": "fbfa3471",
+      "sha1": "c605962fb2d797466ee7cf93657a6735289188b6",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-25T19:05:45.946404-05:00.jpg",
+      "source": "original",
+      "mtime": "1666742749",
+      "size": "253548",
+      "md5": "4c4b38f91b1428a2158d7d05b5f1ec06",
+      "crc32": "ac0dc03e",
+      "sha1": "770e4589710a41ccd78f9ff6033252695139197f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-25T19:05:45.946404-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666742754",
+      "size": "1486",
+      "md5": "5fc63bad61e7a9fb4ac10b148f1e503f",
+      "crc32": "719cfc58",
+      "sha1": "d25c25301debcd108ca77e5dd9c3d64ad4c12661",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-25T19:05:45.946404-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666742756",
+      "size": "89376",
+      "md5": "30576d094a4649bd9bb545b84f353195",
+      "crc32": "a9a7b442",
+      "sha1": "acbedfb337f34e82627c2744209fc3fe0584e159",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-25T19:05:45.946404-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-25T19:05:45.946404-05:00.jpg",
+      "mtime": "1666745948",
+      "size": "9095",
+      "md5": "2ee5b507005c8cb1b6a068e166e1d000",
+      "crc32": "00417e51",
+      "sha1": "24a4e34e26e715110a70a23350e3407425eef63c"
+    },
+    {
+      "name": "galesburg-2022-10-26T07:05:04.278049-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666785912",
+      "size": "24450",
+      "md5": "85f8f5afbebbe5dfcc8255f7df894528",
+      "crc32": "40c537a6",
+      "sha1": "49885e29c71e3b51504ea79a690ead8c9410da75",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-26T07:05:04.278049-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666785915",
+      "size": "38933",
+      "md5": "1a86ad4a4ead4d2e59830a1ed3204b83",
+      "crc32": "e14db6c2",
+      "sha1": "269095770c2942867531575d08e0c8756207e5ab",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-26T07:05:04.278049-05:00.jpg",
+      "source": "original",
+      "mtime": "1666785910",
+      "size": "250948",
+      "md5": "9177ec08c022497fec5c28d75b0f80c4",
+      "crc32": "07f12485",
+      "sha1": "8089edb51f2d1e527182080d29afcfd64378304c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-26T07:05:04.278049-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666785917",
+      "size": "1486",
+      "md5": "81a6457a7a1b400a68d94d8a47dfc145",
+      "crc32": "000402e2",
+      "sha1": "6f4d23f9bdd3fc1a7a4f1ffb28992a31f37a8489",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-26T07:05:04.278049-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666785918",
+      "size": "96075",
+      "md5": "040580c0cb31ed7962bc21537665586e",
+      "crc32": "312a431b",
+      "sha1": "1190042228adaa385fce8485d4c2fb0aca7d2131",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-26T07:05:04.278049-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-26T07:05:04.278049-05:00.jpg",
+      "mtime": "1666787588",
+      "size": "8938",
+      "md5": "98d35ca446823f1e1e13b2de2cf46ebd",
+      "crc32": "543dcb50",
+      "sha1": "bacda4b5bd34ccf5c3418557d4eb0d95dd17f359"
+    },
+    {
+      "name": "galesburg-2022-10-26T18:52:32.024969-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828360",
+      "size": "24059",
+      "md5": "7325087db3a781d866c5ef6da4c7d315",
+      "crc32": "30064726",
+      "sha1": "f05b1152086d74a8f02586076abf47d400f265fb",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-26T18:52:32.024969-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828361",
+      "size": "13778",
+      "md5": "bfcecc8639f2e2d7789d329afdc1a5a1",
+      "crc32": "9f3b6bd3",
+      "sha1": "e303ab5a6a84f07ca4790a5fde212e6fbcec0260",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-26T18:52:32.024969-05:00.jpg",
+      "source": "original",
+      "mtime": "1666828358",
+      "size": "288252",
+      "md5": "038219d08d8a651fa7194b1bbc5ba85a",
+      "crc32": "77b14513",
+      "sha1": "b0d4deb92cffa3e6005cbc39814a7a6e941ed4f5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-26T18:52:32.024969-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828363",
+      "size": "1486",
+      "md5": "e59b97b6d59bf6fa3a755faaa28312d0",
+      "crc32": "a28bff6e",
+      "sha1": "ed1e08d2900545b07d681bea196b93dfa2cc1aa4",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-26T18:52:32.024969-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828365",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-26T18:52:32.024969-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-26T18:52:32.024969-05:00.jpg",
+      "mtime": "1666852561",
+      "size": "9594",
+      "md5": "ee6737d6db651f1af88343489c3a234b",
+      "crc32": "3b3ab29c",
+      "sha1": "0fd9cd4f77b95d1771f23d5fba798f943404cd6b"
+    },
+    {
+      "name": "galesburg-2022-10-27T07:16:32.221141-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872995",
+      "size": "25274",
+      "md5": "8e36947d0b210a94a3143b4f5e5446b4",
+      "crc32": "4a60d878",
+      "sha1": "d9a52011e8d79eb1667110ba7703646f549e164a",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-27T07:16:32.221141-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872997",
+      "size": "43333",
+      "md5": "57fc8d37d102817cfd04bf7996f90324",
+      "crc32": "f84aeb6b",
+      "sha1": "70b3cd8b5e44f972618c46a8c2077a9b628dfc32",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-27T07:16:32.221141-05:00.jpg",
+      "source": "original",
+      "mtime": "1666872993",
+      "size": "279109",
+      "md5": "95bf446d477431f7275d3eab77831ead",
+      "crc32": "b6308415",
+      "sha1": "98d981e801e29d8593dc99eda520a303375d6a88",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-27T07:16:32.221141-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872999",
+      "size": "1486",
+      "md5": "e251969a3f81d3aa6cf656d77ffdf624",
+      "crc32": "3de5cd31",
+      "sha1": "7c68a2c5f268e069460df2d7002cd3de9a7418e9",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-27T07:16:32.221141-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666873002",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-27T07:16:32.221141-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-27T07:16:32.221141-05:00.jpg",
+      "mtime": "1666889726",
+      "size": "9563",
+      "md5": "5470afb71713a5c719d88224b97c6fb4",
+      "crc32": "6e3e5034",
+      "sha1": "760b1306acbce38e31912a708b843bbea34056c1"
+    },
+    {
+      "name": "galesburg-2022-10-27T18:39:25.030575-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666913968",
+      "size": "23194",
+      "md5": "818ab446202a01fc85650d9e743d77d3",
+      "crc32": "a207ee0f",
+      "sha1": "940ac8f8065e7ea2f203e0791883effffec91dfb",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-27T18:39:25.030575-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666913970",
+      "size": "42843",
+      "md5": "7fea8fa09a175441c4a33cc02ade1ff0",
+      "crc32": "67c6f6c9",
+      "sha1": "315af8a742cbf0db9b9755e47bb2f2295c4936f1",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-27T18:39:25.030575-05:00.jpg",
+      "source": "original",
+      "mtime": "1666913966",
+      "size": "304494",
+      "md5": "1d50a50d93a9a1e9dadf44f135254ecf",
+      "crc32": "3ee0d61c",
+      "sha1": "e86960b45475e8bc9a2b64df62c6cd00e28240d5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-27T18:39:25.030575-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666913971",
+      "size": "1486",
+      "md5": "6bc4263a9bce53d11e11019864b3a103",
+      "crc32": "cdc9c37a",
+      "sha1": "987a6c09bbbf73b54b9458b3e8d9975df1c026cb",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-27T18:39:25.030575-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666913973",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-27T18:39:25.030575-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-27T18:39:25.030575-05:00.jpg",
+      "mtime": "1666915167",
+      "size": "9587",
+      "md5": "d9b03f5988688328c2fbc84546e47583",
+      "crc32": "676a6295",
+      "sha1": "af163e5329f752a08ca4d29bb97f4e99e5081480"
+    },
+    {
+      "name": "galesburg-2022-10-28T06:50:36.546043-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666957839",
+      "size": "24200",
+      "md5": "5a951550842500d1f8496316785f2e70",
+      "crc32": "428e88ee",
+      "sha1": "9dcb271e3090973cf5c8068d0da6c3a5043fb027",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-28T06:50:36.546043-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666957841",
+      "size": "38114",
+      "md5": "b34ae3c989d5afd2e3ae0f17974b30f2",
+      "crc32": "a53a0ec6",
+      "sha1": "89d069da6ad62d680d017f6967ad28366ee1ca46",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-28T06:50:36.546043-05:00.jpg",
+      "source": "original",
+      "mtime": "1666957838",
+      "size": "308995",
+      "md5": "1e2e59d1bed0ebd29507515a6e0007fc",
+      "crc32": "a23a567d",
+      "sha1": "d628c19b21b279262a3c78d368f5ee148fc5e522",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-28T06:50:36.546043-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666957843",
+      "size": "1486",
+      "md5": "2ba822c58ad4def2eba98f6668e0acae",
+      "crc32": "777da8c7",
+      "sha1": "7e30bab539d7dec4ce594e652fb2d56d6bc32960",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-28T06:50:36.546043-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666957844",
+      "size": "83535",
+      "md5": "dd16fb8aa5ede3ea4c89fca448d4c38d",
+      "crc32": "2f4dc9b0",
+      "sha1": "73261e5a6a3399823a369ad4589b077f8b235b36",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-28T06:50:36.546043-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-28T06:50:36.546043-05:00.jpg",
+      "mtime": "1666965372",
+      "size": "9674",
+      "md5": "b5b536c26f7aa744426354a942251dbf",
+      "crc32": "2cc7f7ae",
+      "sha1": "ab70283eaa4be9082174ccbbffacbd229124a573"
+    },
+    {
+      "name": "galesburg-2022-10-28T19:10:01.108083-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667002205",
+      "size": "26001",
+      "md5": "c79fa7dfa460c4003c2ed31758f94835",
+      "crc32": "984c1fe8",
+      "sha1": "77e2df8f568ef5cdddb45f62253c817c727a069d",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-28T19:10:01.108083-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667002206",
+      "size": "39455",
+      "md5": "534e779ce05c1a90ad13d1e0f45198f7",
+      "crc32": "3984baba",
+      "sha1": "c2e9fbaf4b1412f567161289d2ad7a9859e3cbaf",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-28T19:10:01.108083-05:00.jpg",
+      "source": "original",
+      "mtime": "1667002203",
+      "size": "285276",
+      "md5": "7c9f5f26775013c493e8faf872877801",
+      "crc32": "c4ee18fb",
+      "sha1": "6c00bd4f0ba3bab1867291a89d82056b3c0e55be",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-28T19:10:01.108083-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667002208",
+      "size": "1486",
+      "md5": "5676c441e5a748565f97b53d6daf06db",
+      "crc32": "2657d389",
+      "sha1": "ac5303195ae26420f6fff928e83c3ac0c1ccd01c",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-28T19:10:01.108083-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667002210",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-28T19:10:01.108083-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-28T19:10:01.108083-05:00.jpg",
+      "mtime": "1667003839",
+      "size": "9188",
+      "md5": "159a5e67853babd565a2862e01ecf033",
+      "crc32": "f06d0541",
+      "sha1": "f5043e8ccce9c7bd55ca608912743bafc9cc1a93"
+    },
+    {
+      "name": "galesburg-2022-10-29T07:05:46.025768-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667045148",
+      "size": "24896",
+      "md5": "e6c264511da0e7c4b389ba55a73692ec",
+      "crc32": "ac51ccde",
+      "sha1": "a9cb0ffa20f7d3b0404b72764243aa14aa37d27f",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-29T07:05:46.025768-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667045150",
+      "size": "37676",
+      "md5": "964346e48f6585f8a57f055778947a6e",
+      "crc32": "ce5cae85",
+      "sha1": "2b24e9360d5cae4c229a0b4a815fe549287baa72",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-29T07:05:46.025768-05:00.jpg",
+      "source": "original",
+      "mtime": "1667045147",
+      "size": "285339",
+      "md5": "8194f5abed77693b4d7a7523ba71e67a",
+      "crc32": "b17dd247",
+      "sha1": "cb3b3c6539bd38f47eee42bffbe65bd7c8a11f67",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-29T07:05:46.025768-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667045151",
+      "size": "1486",
+      "md5": "ae50de5f171b034cc543ad9cb5abf7ab",
+      "crc32": "b0cc2a0f",
+      "sha1": "11d6e1d38fec497c3f25603514767eeee644cb82",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-29T07:05:46.025768-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667045153",
+      "size": "99532",
+      "md5": "4d46fe393c108338563d8f91e4379773",
+      "crc32": "a87f91e4",
+      "sha1": "ab0a19201e7e21925c72bd3894b1a99570106c17",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-29T07:05:46.025768-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-29T07:05:46.025768-05:00.jpg",
+      "mtime": "1667048450",
+      "size": "9262",
+      "md5": "817b0acd7349cf46e09645fefb88da1e",
+      "crc32": "6f65d5e6",
+      "sha1": "871c1db310d5cc4618c48989311ef047a795d53c"
+    },
+    {
+      "name": "galesburg-2022-10-29T18:48:18.155071-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667087303",
+      "size": "24986",
+      "md5": "42269ec5475de6551ce8f7eb80e81868",
+      "crc32": "18ca0eae",
+      "sha1": "3e502d5167549b39d54c99731284ff50e6c667f0",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-29T18:48:18.155071-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667087305",
+      "size": "42495",
+      "md5": "817f9b0c440090df88efef2e3b96a628",
+      "crc32": "5ad8653d",
+      "sha1": "0ad1a7d08f5d30bda5e31e6e5d4d634b92e11766",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-29T18:48:18.155071-05:00.jpg",
+      "source": "original",
+      "mtime": "1667087301",
+      "size": "284056",
+      "md5": "19c28a9a5c949b11985c62278b336cbc",
+      "crc32": "4e39632f",
+      "sha1": "4320837ac30d55ffbf1cd56b11dc15f33b9d8ffb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-29T18:48:18.155071-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667087307",
+      "size": "1486",
+      "md5": "5f635a7c8a04c01c0a3b8ac2abe2e55a",
+      "crc32": "bba61b81",
+      "sha1": "83a56faf4d14facd568112ca0c2623b412bb1c3f",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-29T18:48:18.155071-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667087309",
+      "size": "250",
+      "md5": "3c269b13398cb1f9b72156cf40fa14e9",
+      "crc32": "d9a04325",
+      "sha1": "1646e667eedd7381e7c26e569f000bf7126f2f8c",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-29T18:48:18.155071-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-29T18:48:18.155071-05:00.jpg",
+      "mtime": "1667087774",
+      "size": "9106",
+      "md5": "78cbe9b2f5ba410f4cb2ca1fa4cc772a",
+      "crc32": "925abe29",
+      "sha1": "2de823ede2d096c867f6d5f04413f62a2f779091"
+    },
+    {
+      "name": "galesburg-2022-10-30T06:46:38.702036-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130401",
+      "size": "25460",
+      "md5": "8877fb9cfa5dcda750026b5ece1ee50d",
+      "crc32": "e0bb40ef",
+      "sha1": "89dee942f0ddf24c35c0fc0fafeb6891a5cf43b2",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-30T06:46:38.702036-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130403",
+      "size": "39535",
+      "md5": "28d6d51574e9d14d5b6631e4bba7a230",
+      "crc32": "d69552d2",
+      "sha1": "429e451dcb44eaf124d1565c62ceb4206b3074c2",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-30T06:46:38.702036-05:00.jpg",
+      "source": "original",
+      "mtime": "1667130400",
+      "size": "239882",
+      "md5": "f1fb5f654e3405d0a4eef8f31c7bb134",
+      "crc32": "0b5f0192",
+      "sha1": "8aef5edcf27c6f47abafe621dd08e62d62fac320",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-30T06:46:38.702036-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130405",
+      "size": "1486",
+      "md5": "edc02bf0bedd875dadd1b980d5281f03",
+      "crc32": "5659878d",
+      "sha1": "3849d83937494fd4c57bb6edfc0d5a7751b84023",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-30T06:46:38.702036-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130406",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-30T06:46:38.702036-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-30T06:46:38.702036-05:00.jpg",
+      "mtime": "1667131366",
+      "size": "8887",
+      "md5": "8fe4c05001c7ddcc17346ff7f03abc0a",
+      "crc32": "7d41285b",
+      "sha1": "48604abce25221c4043a21edfefda9596d2a8139"
+    },
+    {
+      "name": "galesburg-2022-10-30T18:39:06.339109-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667173149",
+      "size": "23512",
+      "md5": "6e85402c88a3363e666a5cf8c214b90d",
+      "crc32": "ae0f06e9",
+      "sha1": "41ed89b5c373c50d4b905a1fa1241d2776898d72",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-30T18:39:06.339109-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667173151",
+      "size": "45721",
+      "md5": "e9c073fe7b44908d0fe436cca737efb6",
+      "crc32": "c1e87377",
+      "sha1": "f7b58f695e321bd514ea3640841b9891e4c3e36f",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-30T18:39:06.339109-05:00.jpg",
+      "source": "original",
+      "mtime": "1667173148",
+      "size": "232808",
+      "md5": "1a617d84c34653da3447acfa7011b2ab",
+      "crc32": "4bf75c33",
+      "sha1": "a5befa87628f95343a74622bc8cdc59e5c325841",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-30T18:39:06.339109-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667173153",
+      "size": "1486",
+      "md5": "bbb8e571929793ba3b5ba1434639d9d6",
+      "crc32": "4c94e335",
+      "sha1": "54f34d25e8ba002eec764b2b1064fabe317d72fb",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-30T18:39:06.339109-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667173155",
+      "size": "80592",
+      "md5": "a99d5910e9de7a3c00bab30d9be3463c",
+      "crc32": "e602769e",
+      "sha1": "1f9b2bc6aa73d1eb1c17e1687e0d178fe80e6efc",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-30T18:39:06.339109-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-30T18:39:06.339109-05:00.jpg",
+      "mtime": "1667174623",
+      "size": "8873",
+      "md5": "0351e5a32658d706362cb4da81ae228b",
+      "crc32": "de9818d2",
+      "sha1": "f14c299ea87fb811c0ce2967f1908b831e5f0680"
+    },
+    {
+      "name": "galesburg-2022-10-31T06:57:11.932574-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667217439",
+      "size": "24138",
+      "md5": "9dbea2686c9093ef5988e54c6caf4993",
+      "crc32": "6838ef98",
+      "sha1": "5de77796de1d82e50974ac0e9b5a437d1055af5b",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-31T06:57:11.932574-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667217440",
+      "size": "42329",
+      "md5": "f0de5d4967ec6a25d7048c2b108b2167",
+      "crc32": "903e4ec1",
+      "sha1": "72b5c7b3f247642e87f81ddcea5424bcaa46457b",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-31T06:57:11.932574-05:00.jpg",
+      "source": "original",
+      "mtime": "1667217437",
+      "size": "231235",
+      "md5": "f7e21ec3ea853309ca0864e2bce553ff",
+      "crc32": "82b70792",
+      "sha1": "4e55afa73a094e5af8917592a04605db6257dccf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-31T06:57:11.932574-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667217442",
+      "size": "1485",
+      "md5": "bce13e8c1299931cbb1e03ba19f5a4b8",
+      "crc32": "e0a22f19",
+      "sha1": "90a2aface6b099bf39bf6932a646f8a0a9c69bdd",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-31T06:57:11.932574-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667217443",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-31T06:57:11.932574-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-31T06:57:11.932574-05:00.jpg",
+      "mtime": "1667218221",
+      "size": "8945",
+      "md5": "ebea41342bcb6bf7d58fcb1a7ea8caa8",
+      "crc32": "5e264c1d",
+      "sha1": "1fe9deea9c2440696f161bb8ca4e35891dd0f8da"
+    },
+    {
+      "name": "galesburg-2022-10-31T18:48:44.472092-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667260142",
+      "size": "23867",
+      "md5": "39251f9a6f4725a57fc89ba5afed9855",
+      "crc32": "8616c2a0",
+      "sha1": "2ebff5bd1faad633fe969e79f6f4c4dbb3d77505",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-31T18:48:44.472092-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667260143",
+      "size": "49308",
+      "md5": "2a2d162ffd6a4c8ca17deb77087b9c41",
+      "crc32": "386ab2e3",
+      "sha1": "18b771b784d313f6b41526a46fe4864c813809cc",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-31T18:48:44.472092-05:00.jpg",
+      "source": "original",
+      "mtime": "1667260140",
+      "size": "223071",
+      "md5": "a38457fed3f63bd947b1514ae144e29b",
+      "crc32": "a596c1c2",
+      "sha1": "a20f9ea01c857d439aabf932a6fec21f0a8dbf2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-10-31T18:48:44.472092-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667260144",
+      "size": "1486",
+      "md5": "7fc6953f39642b83dad743e5ef75944a",
+      "crc32": "59089b60",
+      "sha1": "8695ab4398d03ddb0603969d8acb220c8241d309",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-10-31T18:48:44.472092-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667260146",
+      "size": "114606",
+      "md5": "5aed928d3d2d656c17ba8ec7025d876d",
+      "crc32": "6e05672d",
+      "sha1": "83babb2cf17887672196c548d2a0eb3a3bab8321",
+      "format": "JSON"
+    },
+    {
       "name": "galesburg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5a3ca4221415960759260a9dcf627359738aee15",
-      "mtime": "1666701821",
-      "size": "91231",
-      "md5": "9529cd3909bf66bf68dd6390dee3fef0",
-      "crc32": "02fdc512",
-      "sha1": "f5976ea88c911a1b6f8a8286d92eae5670f7c863",
+      "btih": "fa1443e6f2f3ad5a7849e6791b44c10cd785238e",
+      "mtime": "1667260189",
+      "size": "107502",
+      "md5": "b38c9c8c33d2e3b1417a2b35fe67586d",
+      "crc32": "f79b0c9a",
+      "sha1": "e8df5f33a35d02ab9b3d2bd3243a039e5b66afdf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "galesburg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46466b83e21b4b3a90b9de32bf9552bb",
+      "md5": "01a6f065d796db22630147b3e39a8023",
       "summation": "md5"
     },
     {
       "name": "galesburg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666699703",
-      "size": "557056",
-      "md5": "b9dd37421b9a2fc3ae66eda125cb44fd",
-      "crc32": "ab2c2186",
-      "sha1": "08c38493b681abdbcd4896de57d6202315587883",
+      "mtime": "1667260151",
+      "size": "659456",
+      "md5": "553bad73e5881d52c466fc97fd7c982f",
+      "crc32": "891a1891",
+      "sha1": "755abaa6a55c72acd3864e7f622c0ca73683797f",
       "format": "Metadata"
     },
     {
@@ -4434,9 +5229,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 429,
-  "item_last_updated": 1666701821,
-  "item_size": 28746926,
+  "files_count": 506,
+  "item_last_updated": 1667260189,
+  "item_size": 33856424,
   "metadata": {
     "identifier": "galesburg-2022",
     "collection": [
@@ -4453,10 +5248,21 @@
     "publicdate": "2022-09-20 22:17:28",
     "addeddate": "2022-09-20 22:17:28"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 976246761,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458250907,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1628385039,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

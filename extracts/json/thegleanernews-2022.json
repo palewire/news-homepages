@@ -1,5 +1,5 @@
 {
-  "created": 1666709600,
+  "created": 1667228463,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/thegleanernews-2022",
@@ -4345,31 +4345,775 @@
       "format": "JSON"
     },
     {
+      "name": "thegleanernews-2022-10-25T09:52:19.944274-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-25T09:52:19.944274-05:00.jpg",
+      "mtime": "1666712423",
+      "size": "9153",
+      "md5": "8bd6c6eb0113cdd06c5621075ee8d688",
+      "crc32": "27ae9555",
+      "sha1": "82d1cdd6c4ddc2ad15de214125d58c962b4d0460"
+    },
+    {
+      "name": "thegleanernews-2022-10-25T22:46:09.028537-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666755973",
+      "size": "20434",
+      "md5": "7dfa4cb67caa4e3ad93408ce63d686b8",
+      "crc32": "d8a7e393",
+      "sha1": "c957f8dc937eb5fb5b6916ef35eb31fce7075893",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-25T22:46:09.028537-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666755974",
+      "size": "28953",
+      "md5": "1e662f151c750dece502c165676d65c9",
+      "crc32": "c819d78d",
+      "sha1": "10c738c05b36c49a47aafb30e13235e6c8573964",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-25T22:46:09.028537-05:00.jpg",
+      "source": "original",
+      "mtime": "1666755971",
+      "size": "229036",
+      "md5": "ac8f5e37af95a3c3aa434bcc4cf23584",
+      "crc32": "ccf721dd",
+      "sha1": "e4ecd15766b4665bf3962796665c65e3b7a615f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-25T22:46:09.028537-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666755975",
+      "size": "1495",
+      "md5": "a9a74bdf3d7750a2cb348f426e236066",
+      "crc32": "6ee619c0",
+      "sha1": "79ead51a3ffb642eddf18e45d2dbd6bd7fc74255",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-25T22:46:09.028537-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666755977",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-25T22:46:09.028537-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-25T22:46:09.028537-05:00.jpg",
+      "mtime": "1666756140",
+      "size": "9073",
+      "md5": "e656ae9c110416ca50b413cdc3280eef",
+      "crc32": "bff31249",
+      "sha1": "73bca8e1a74c7ae226f48ec81d819d9178dd495c"
+    },
+    {
+      "name": "thegleanernews-2022-10-26T10:04:22.549371-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796665",
+      "size": "17176",
+      "md5": "8312242dae8db929752033c58b29c290",
+      "crc32": "084c85d0",
+      "sha1": "f75669b68c4361d320bebddc87eced648336db76",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-26T10:04:22.549371-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796667",
+      "size": "30186",
+      "md5": "0ad6b90e4658074a0dd9a36380a8ecc6",
+      "crc32": "f09203aa",
+      "sha1": "a95cc2825eea745857af47248311ad96bbf7324e",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-26T10:04:22.549371-05:00.jpg",
+      "source": "original",
+      "mtime": "1666796664",
+      "size": "262075",
+      "md5": "13e78bbba07207a519d9e32871bae7b9",
+      "crc32": "7da4f5c8",
+      "sha1": "317f649794145eeee4fa4724f5fb426852fdcf28",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-26T10:04:22.549371-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796669",
+      "size": "1494",
+      "md5": "4201926272bc8c5abffb88dabbcb93a7",
+      "crc32": "c76efa50",
+      "sha1": "7ab686754972c8e41d0353339e99cb0d54891d9b",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-26T10:04:22.549371-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796671",
+      "size": "226317",
+      "md5": "7d439125df639688a9d5e81fe30abd8d",
+      "crc32": "610227fd",
+      "sha1": "38953995337c81c76e2e14f330bc9fc5bb7ccc54",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-26T10:04:22.549371-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-26T10:04:22.549371-05:00.jpg",
+      "mtime": "1666797761",
+      "size": "9397",
+      "md5": "81cea6199d3ade79dc6cc4753461dcf6",
+      "crc32": "16661f60",
+      "sha1": "da99ba2d36ccc3d52a0929e09dc086ebb07fea06"
+    },
+    {
+      "name": "thegleanernews-2022-10-26T22:40:33.751630-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666842039",
+      "size": "21315",
+      "md5": "d17ff427a4d0ea01bd1167746f35b803",
+      "crc32": "421460a1",
+      "sha1": "7106ec871923d775a426e9a0a7de8d3d83e6cb47",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-26T22:40:33.751630-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666842041",
+      "size": "29258",
+      "md5": "fdf17c5da6f8bd1ac64a3e50ee903d8a",
+      "crc32": "93689b48",
+      "sha1": "3c3501ba0875c4b6d4e8f1cc7ad0c17e525c6f2f",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-26T22:40:33.751630-05:00.jpg",
+      "source": "original",
+      "mtime": "1666842037",
+      "size": "229444",
+      "md5": "78bf49b976d0351e03fc4ff660b547a9",
+      "crc32": "1c00aa45",
+      "sha1": "e8ec5fa4088f203ac39191476d4e3291b6cc2280",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-26T22:40:33.751630-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666842043",
+      "size": "1495",
+      "md5": "c2bb72b5cfccc595bcd27f72bbf6e3e1",
+      "crc32": "0e1eed6f",
+      "sha1": "c63fa635a279f93dda5077bfc4625b02bc45220f",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-26T22:40:33.751630-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666842044",
+      "size": "85263",
+      "md5": "c93779230a7697ca0dfa6dabaeb201a4",
+      "crc32": "a073d1c3",
+      "sha1": "cdf726c2fb7ff5aa9668f7612993968cf6ee77c8",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-26T22:40:33.751630-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-26T22:40:33.751630-05:00.jpg",
+      "mtime": "1666866512",
+      "size": "9355",
+      "md5": "589e85b51e41af7b490329e1d6538de8",
+      "crc32": "d9cecac1",
+      "sha1": "8151be166a7a6a03068331fdc917c81c1264250e"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T10:10:35.743124-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883439",
+      "size": "20747",
+      "md5": "5986b4b445155024376b2ebeafd736c2",
+      "crc32": "e0c2e31f",
+      "sha1": "29fcb55b19cb273ead4a9960893173a851df45bf",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T10:10:35.743124-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883441",
+      "size": "32189",
+      "md5": "4521fc4d90d86c7c0128075e21ca7d60",
+      "crc32": "aada55c9",
+      "sha1": "65a0d652f98bc77337bbeebed850883ce0fbe47f",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T10:10:35.743124-05:00.jpg",
+      "source": "original",
+      "mtime": "1666883437",
+      "size": "233921",
+      "md5": "35ec891e2fe034b990092bae59b6000b",
+      "crc32": "0848de3d",
+      "sha1": "3171e72e118ee661642af3519f2e913de97ffbb5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T10:10:35.743124-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883444",
+      "size": "1495",
+      "md5": "430a325def1ff48d4928de78a924b361",
+      "crc32": "205c4cab",
+      "sha1": "cc6f00c073eba3de0a712040b5500cfd05d50a71",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T10:10:35.743124-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883446",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T10:10:35.743124-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-27T10:10:35.743124-05:00.jpg",
+      "mtime": "1666895666",
+      "size": "9041",
+      "md5": "4fa22188067233f40879bf3aa01a932a",
+      "crc32": "4874e509",
+      "sha1": "d044209a0ae65041573283361d581e23929ce9d5"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T23:39:21.238203-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666931964",
+      "size": "21798",
+      "md5": "2de7e2d3d67045edbfec4287aec64214",
+      "crc32": "2240dda9",
+      "sha1": "70d05cb1da0a2ac1f216fa02419f60d304864727",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T23:39:21.238203-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666931966",
+      "size": "29109",
+      "md5": "e95dfe0f4e1d8a5cb56fc26c67489aa0",
+      "crc32": "001f2d9a",
+      "sha1": "ccb117a0995d66d40a73a4efec37bc5f30eebd5b",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T23:39:21.238203-05:00.jpg",
+      "source": "original",
+      "mtime": "1666931962",
+      "size": "250870",
+      "md5": "4f30b6db7dcd55e12fbabd9a0c714268",
+      "crc32": "68e940d6",
+      "sha1": "9480bd47924f7a996ba52a42afd59d3b055dc742",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T23:39:21.238203-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666931967",
+      "size": "1495",
+      "md5": "a95aaa6f2a166bb54a1317d6d403a8c0",
+      "crc32": "8d7344bd",
+      "sha1": "a484c0df8606cd7a7fe8e509fb767616d8b9e1dc",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T23:39:21.238203-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666931969",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-27T23:39:21.238203-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-27T23:39:21.238203-05:00.jpg",
+      "mtime": "1666933600",
+      "size": "8933",
+      "md5": "67961996a3e025d4b03c3566ea526740",
+      "crc32": "200185f4",
+      "sha1": "e68a53e7912f0ab044bf518f3a046d51b199391a"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T09:44:43.741991-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968290",
+      "size": "20399",
+      "md5": "580ea74bba13c95c6f7405581a79a7bd",
+      "crc32": "69721792",
+      "sha1": "a2b71ae03a3e0c8cd06ab519efcf8d48a1fcec74",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T09:44:43.741991-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968292",
+      "size": "30857",
+      "md5": "e53ed134cac6ce88f2e9df850de45151",
+      "crc32": "e0be148f",
+      "sha1": "99dca746e69dafb94634f8566f63fd438500bdd9",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T09:44:43.741991-05:00.jpg",
+      "source": "original",
+      "mtime": "1666968288",
+      "size": "258438",
+      "md5": "6730846d6c64c7589daabe1107ecad53",
+      "crc32": "b130b8f6",
+      "sha1": "4f65495addfdd10092ed40d8a5736a8a50c835c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T09:44:43.741991-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968294",
+      "size": "1495",
+      "md5": "7d83887f6dd2ffbb1e4376c22e939dcb",
+      "crc32": "e5be726a",
+      "sha1": "c28d213f4530f7fe38f70d4fa5f8b49ef2f29fa0",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T09:44:43.741991-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968295",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T09:44:43.741991-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-28T09:44:43.741991-05:00.jpg",
+      "mtime": "1666974112",
+      "size": "8791",
+      "md5": "e79fc9622df30e1e0b688e607fd3eff2",
+      "crc32": "9d5a53b2",
+      "sha1": "0abf1fdf5b054d81bc75ab0c31006e194e6cf127"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T22:31:37.236683-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014300",
+      "size": "21750",
+      "md5": "1f36ed83e59b5004c07530f8d0f505bf",
+      "crc32": "ed6f7e9e",
+      "sha1": "7666b7aa5affed298ea1d193d5c571d3b30bb234",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T22:31:37.236683-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014302",
+      "size": "42539",
+      "md5": "f10d412581be0f08dd15e707d020484a",
+      "crc32": "0afa2324",
+      "sha1": "0ad1de73b502ce35401c7ccc790223494eb64445",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T22:31:37.236683-05:00.jpg",
+      "source": "original",
+      "mtime": "1667014298",
+      "size": "257541",
+      "md5": "57bccc7bcf1ba39f67d2fe356537eb42",
+      "crc32": "eb9e9f4e",
+      "sha1": "82a5c78d73e0fcf9879337c41e0c523aa4177deb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T22:31:37.236683-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014304",
+      "size": "1495",
+      "md5": "c3398eac35be296e60cc47e456f18790",
+      "crc32": "59abce62",
+      "sha1": "b21d0a90fe9622726bcc7def0c7b05bb2dcb8c92",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T22:31:37.236683-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014305",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-28T22:31:37.236683-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-28T22:31:37.236683-05:00.jpg",
+      "mtime": "1667015413",
+      "size": "8785",
+      "md5": "e85e5f1afddc17531686d0d1525c761f",
+      "crc32": "7a916db4",
+      "sha1": "a9aaa3efe24a88d1711de87deb05483d8c48cb4b"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T10:07:06.237845-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667056034",
+      "size": "20514",
+      "md5": "46b6a6f72d72e5239d0126e4ab3f097e",
+      "crc32": "f60fac09",
+      "sha1": "f3df02db307e146eb926c6ea2f857b6e79ee4fd1",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T10:07:06.237845-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667056036",
+      "size": "33119",
+      "md5": "7ebcc1ee58b3dfbeca3cb1203339dfff",
+      "crc32": "f5a7a20b",
+      "sha1": "c0f74bef3476e8c68057aa7dd168a4b0962dbdb4",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T10:07:06.237845-05:00.jpg",
+      "source": "original",
+      "mtime": "1667056032",
+      "size": "258570",
+      "md5": "ccd406df958d03882af430e01bb829b0",
+      "crc32": "8bf03c28",
+      "sha1": "3a17eff9c66c50d99ccea0d5d546c7472ff5a069",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T10:07:06.237845-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667056038",
+      "size": "1495",
+      "md5": "d2d0d357b9a77e3721e1286a1bff1927",
+      "crc32": "31fb3da0",
+      "sha1": "58cf66f84d5fd7cc47a5dee4a87efa103a136114",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T10:07:06.237845-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667056040",
+      "size": "77680",
+      "md5": "8e0fa5770819127efcd09f9ca760ed80",
+      "crc32": "0e0d2f00",
+      "sha1": "41b300baa189cde7d06d27aed1aecb32784c9a7e",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T10:07:06.237845-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-29T10:07:06.237845-05:00.jpg",
+      "mtime": "1667057474",
+      "size": "8789",
+      "md5": "a7a79c806640945dccbdbed42fc311a7",
+      "crc32": "76b058ba",
+      "sha1": "c8e1c9a3a3a107863fee899572c2ed5bc11e8f45"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T22:29:16.071549-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100562",
+      "size": "21185",
+      "md5": "4c22ed64da8065b2c845b32f09fe45b4",
+      "crc32": "45a4213b",
+      "sha1": "afc4a95b691dae61b54fb94583bc997f7c88ffde",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T22:29:16.071549-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100563",
+      "size": "34644",
+      "md5": "6cfb8f74f27331bcd91aa8a3fd320d54",
+      "crc32": "283daeec",
+      "sha1": "4088540a218359e9fefe3b6d1ecd50f84f9cc323",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T22:29:16.071549-05:00.jpg",
+      "source": "original",
+      "mtime": "1667100560",
+      "size": "257517",
+      "md5": "f3a6fc4edabf238c3714d4092592bfb8",
+      "crc32": "57afc209",
+      "sha1": "3bf8f4c36046899d04cf6ca45255d8be95a6a222",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T22:29:16.071549-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100565",
+      "size": "1495",
+      "md5": "4f3e5f8ecacd28611967c0081ca47605",
+      "crc32": "33a590dd",
+      "sha1": "81d9aef7d59e7f426e21de12d6757053d54e08f1",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T22:29:16.071549-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100567",
+      "size": "84923",
+      "md5": "b161042868795f77ede58e0c18916b00",
+      "crc32": "5a26562e",
+      "sha1": "130c31785d036969991d3b06c30f28efd259d307",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-29T22:29:16.071549-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-29T22:29:16.071549-05:00.jpg",
+      "mtime": "1667101674",
+      "size": "8722",
+      "md5": "64dfd72ed572e359b0525a4060b8b19f",
+      "crc32": "b43d2cc1",
+      "sha1": "f255d130273a0f79ea9249aefc720d51b4248cc1"
+    },
+    {
+      "name": "thegleanernews-2022-10-30T09:41:16.731715-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667140882",
+      "size": "20525",
+      "md5": "192b5cce277ab1f5421ae23f79fc56d2",
+      "crc32": "66a39947",
+      "sha1": "c88503e8f28622ec239391ba5ac310cf70595084",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-30T09:41:16.731715-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667140883",
+      "size": "42301",
+      "md5": "58c27ae3bd50157ef08192489042ffa4",
+      "crc32": "067b2b23",
+      "sha1": "15113850d559da7027626a6798e62e83f83ad2d2",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-30T09:41:16.731715-05:00.jpg",
+      "source": "original",
+      "mtime": "1667140880",
+      "size": "237615",
+      "md5": "75353dd631ea44999d2f84b7f14687ae",
+      "crc32": "0e83d243",
+      "sha1": "f1b3eb4e251e61497c4efbb129f71911876471ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-30T09:41:16.731715-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667140885",
+      "size": "1495",
+      "md5": "d71b6dadc5a84ec3e5809bc2b40ff46e",
+      "crc32": "341096bc",
+      "sha1": "ee9826951362a809ae35c3dab678b9ddb7adf9ed",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-30T09:41:16.731715-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667140886",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-30T09:41:16.731715-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-30T09:41:16.731715-05:00.jpg",
+      "mtime": "1667141186",
+      "size": "8663",
+      "md5": "baa853f408e959df4993b36a768ca0fe",
+      "crc32": "d99e7836",
+      "sha1": "63584cda65836826deb3986e018448fb8073fb58"
+    },
+    {
+      "name": "thegleanernews-2022-10-30T22:27:34.801525-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667186861",
+      "size": "20023",
+      "md5": "2b99fdaf49d690839abb07a8d544a761",
+      "crc32": "f594d429",
+      "sha1": "753383b91ad14b27d4e1b9ffe2c5c9d26fc9a9bf",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-30T22:27:34.801525-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667186862",
+      "size": "34570",
+      "md5": "6fd9396209f7190e28301b7bad4f67ae",
+      "crc32": "e88dd643",
+      "sha1": "6c6bb7e1e369f2936ebb5a580bae513a28d1ba37",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-30T22:27:34.801525-05:00.jpg",
+      "source": "original",
+      "mtime": "1667186859",
+      "size": "220670",
+      "md5": "4d4a34d641dc1ba0bb7c8f154b9cfb6f",
+      "crc32": "c6852b8c",
+      "sha1": "5a9c666cadecc1e6bbc1d8687c420493730232b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-30T22:27:34.801525-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667186864",
+      "size": "1495",
+      "md5": "e0291bf38b46d3b7d221d56de3df0b94",
+      "crc32": "921a402c",
+      "sha1": "2f208014d0e4c68a96f3da87276fcd075340f006",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-30T22:27:34.801525-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667186865",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-30T22:27:34.801525-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-30T22:27:34.801525-05:00.jpg",
+      "mtime": "1667187492",
+      "size": "8549",
+      "md5": "c7313c678877b5eaf6169771a571ab3b",
+      "crc32": "5f3b37d1",
+      "sha1": "0306af4d2e35271313aafc5daa9991e39b29bda5"
+    },
+    {
+      "name": "thegleanernews-2022-10-31T09:59:55.195947-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667228400",
+      "size": "21822",
+      "md5": "3e95037e0d93c7c7d099b517779460d4",
+      "crc32": "4f3159e7",
+      "sha1": "18f71106eae822fc92ee8a85704d830b595df305",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-31T09:59:55.195947-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667228405",
+      "size": "31292",
+      "md5": "9c6a2323ddf03c410fb7313c9f664e96",
+      "crc32": "54f944e9",
+      "sha1": "641f1b6bc2f14d0f3a75796737101437c83958a7",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-31T09:59:55.195947-05:00.jpg",
+      "source": "original",
+      "mtime": "1667228399",
+      "size": "231529",
+      "md5": "7f7621fce83100bd54df04f719a12ff2",
+      "crc32": "38d9cb30",
+      "sha1": "4a4d8db6ec58190840c6121d4793a9f468605f26",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thegleanernews-2022-10-31T09:59:55.195947-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667228409",
+      "size": "1495",
+      "md5": "3b5718108ca10a82b56d055dc993cfd6",
+      "crc32": "36c4e50d",
+      "sha1": "a6633b021b64870e9332adf94e5ef017a8d2a3a8",
+      "format": "JSON"
+    },
+    {
+      "name": "thegleanernews-2022-10-31T09:59:55.195947-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667228411",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thegleanernews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "86831a9c34af32252b1c6174b10f6974b12d1eb3",
-      "mtime": "1666709597",
-      "size": "92203",
-      "md5": "f7165d6268ce5f903dcf8e633522c619",
-      "crc32": "07fb4054",
-      "sha1": "ef29223d767f63283d4c6045dfa2d889631667a2",
+      "btih": "cd49d98d96df9aa994782b0bfc6e060ba927084d",
+      "mtime": "1667228458",
+      "size": "107744",
+      "md5": "80583d1687587fb1501e17d7abd1ed3b",
+      "crc32": "9db78ddd",
+      "sha1": "70a1e5416db585b29411a978e65291c0b6c58711",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegleanernews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a4ef4736972aceecadc81a1f433bcca",
+      "md5": "dcefd9bdfa213b0b300260e8794d82d6",
       "summation": "md5"
     },
     {
       "name": "thegleanernews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666709559",
-      "size": "561152",
-      "md5": "8fda7ae71c226b7fafacfab4c73c0f09",
-      "crc32": "2f8f3cc6",
-      "sha1": "41644ca28420d47223b8f7b5db51fe859af1ca10",
+      "mtime": "1667228415",
+      "size": "651264",
+      "md5": "9a9f4c3180ed0a28ca035504c75dbd91",
+      "crc32": "a678f580",
+      "sha1": "427f1bf8cf62c816aa99e538e16586420244925e",
       "format": "Metadata"
     },
     {
@@ -4383,9 +5127,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 424,
-  "item_last_updated": 1666709597,
-  "item_size": 25918550,
+  "files_count": 496,
+  "item_last_updated": 1667228458,
+  "item_size": 30199123,
   "metadata": {
     "identifier": "thegleanernews-2022",
     "collection": [
@@ -4407,7 +5151,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451739271,
+      "task_id": 3457849985,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4415,7 +5159,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2014168539,
+  "uniq": 1616320101,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

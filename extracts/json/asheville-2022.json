@@ -1,5 +1,5 @@
 {
-  "created": 1666712790,
+  "created": 1667232862,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/5/items/asheville-2022",
@@ -4345,31 +4345,786 @@
       "format": "JSON"
     },
     {
+      "name": "asheville-2022-10-25T11:45:26.217269-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-25T11:45:26.217269-04:00.jpg",
+      "mtime": "1666714394",
+      "size": "9301",
+      "md5": "41f9dcc4b944f69c8eb8e68172e66cdf",
+      "crc32": "ac4e1b03",
+      "sha1": "53021ff6aa92c5a0cdf5238b126ad555a709227a"
+    },
+    {
+      "name": "asheville-2022-10-26T02:25:28.547568-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666765532",
+      "size": "20185",
+      "md5": "cb2bb936ef4c5b2bc10c387e92658847",
+      "crc32": "93018e0d",
+      "sha1": "a3134f1dfc3b908acf388c3e92af95fa2e92eace",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-26T02:25:28.547568-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666765533",
+      "size": "29187",
+      "md5": "d931700d8ef14f15fb942d0357ab723d",
+      "crc32": "ddd2a594",
+      "sha1": "47c7ef7a034dcf100dd52ed492f8bdfb6858764c",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-26T02:25:28.547568-04:00.jpg",
+      "source": "original",
+      "mtime": "1666765530",
+      "size": "232455",
+      "md5": "5c5e91659b35cf1fd9635bb2d6905561",
+      "crc32": "3284e74f",
+      "sha1": "170feb9488607b66afa5ac6542ec852d7052837e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-26T02:25:28.547568-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666765535",
+      "size": "1522",
+      "md5": "64f5d49547687036018d61a2335380d8",
+      "crc32": "4eab392b",
+      "sha1": "3911e5c22f3f82ab39e2dc68b746e09d39b1b16b",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-26T02:25:28.547568-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666765537",
+      "size": "94586",
+      "md5": "9356d8e34d0f121e1eca1121ec08f8b9",
+      "crc32": "007e04c3",
+      "sha1": "178b9c903be662a6dd707c3fac073d408dd0ee48",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-26T02:25:28.547568-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-26T02:25:28.547568-04:00.jpg",
+      "mtime": "1666766444",
+      "size": "8977",
+      "md5": "6f4e1d4f0cc80dfde27d73bf96c6d780",
+      "crc32": "ce55d998",
+      "sha1": "a0a9878df33c9c5e6e6b3480e14b808354e67bfa"
+    },
+    {
+      "name": "asheville-2022-10-26T12:24:21.899182-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666801467",
+      "size": "20543",
+      "md5": "269c17136843c07b4ccd53cf989ab299",
+      "crc32": "23098888",
+      "sha1": "1af3b2a485bfe4731257f9141e320d2cd27c82c2",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-26T12:24:21.899182-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666801469",
+      "size": "29272",
+      "md5": "1c645108e173604ed19fedb2020bd3de",
+      "crc32": "4ea766c0",
+      "sha1": "5821cbffa6f4ea70dfd9954003af841ad7c66e8b",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-26T12:24:21.899182-04:00.jpg",
+      "source": "original",
+      "mtime": "1666801465",
+      "size": "266777",
+      "md5": "ee55689735464d077e9165ba1109eeb6",
+      "crc32": "ac4205ee",
+      "sha1": "c8aa16f6c8bf9430e36f8c5a5ec1cb2311ff472b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-26T12:24:21.899182-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666801472",
+      "size": "1522",
+      "md5": "8cdb61c4cf56ae6521961679dc1935cb",
+      "crc32": "2c708cf3",
+      "sha1": "84fb13db04fa85ef61c6e0853ed5dad1b6cbba5e",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-26T12:24:21.899182-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666801473",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-26T12:24:21.899182-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-26T12:24:21.899182-04:00.jpg",
+      "mtime": "1666803456",
+      "size": "9295",
+      "md5": "249973c7ab40f66f52a918b29b3e1f16",
+      "crc32": "9f81c393",
+      "sha1": "646b0b1bb7d2150cac5f9ab149161eeb5dd77684"
+    },
+    {
+      "name": "asheville-2022-10-27T01:04:20.211770-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666847062",
+      "size": "21177",
+      "md5": "213951d21bea35bd076bbcd76a4bc9e4",
+      "crc32": "447236b2",
+      "sha1": "534bf2ab1e007126b7458744d24c171b863e7376",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-27T01:04:20.211770-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666847064",
+      "size": "27004",
+      "md5": "cab8e17938d8841204ec8ad551842d97",
+      "crc32": "b53f3f6f",
+      "sha1": "d944bfac133abd3dd24de1e084df2943eccd1284",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-27T01:04:20.211770-04:00.jpg",
+      "source": "original",
+      "mtime": "1666847061",
+      "size": "297489",
+      "md5": "76217508cbad0f88239829af2c1de140",
+      "crc32": "5896ee17",
+      "sha1": "c036068e0b8290607f0fee8a32fe5d5f8a570340",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-27T01:04:20.211770-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666847065",
+      "size": "1522",
+      "md5": "80ffe52aa60f1f7364c02a291bc87158",
+      "crc32": "573163bb",
+      "sha1": "8cf7a4ee45afb02912eeb553008ca1b5616448f7",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-27T01:04:20.211770-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666847067",
+      "size": "80819",
+      "md5": "1023fad770e3cc3b959f549312a0549a",
+      "crc32": "2c78e034",
+      "sha1": "8c72909274a8ee42c64b977d0a101d20c5aaffd3",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-27T01:04:20.211770-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-27T01:04:20.211770-04:00.jpg",
+      "mtime": "1666871543",
+      "size": "9275",
+      "md5": "24cd28cad85be9753bb5b0440c5454da",
+      "crc32": "1d6afbfb",
+      "sha1": "93d1d293f98e1bc9433555c1b6ad928fbf068bac"
+    },
+    {
+      "name": "asheville-2022-10-27T12:06:51.089376-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666886822",
+      "size": "19747",
+      "md5": "316d991890ed030c68bf1ea3cfb7faa7",
+      "crc32": "19b74672",
+      "sha1": "a46bd9a7ab068d5e0eebead29687a85ad5466d70",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-27T12:06:51.089376-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666886825",
+      "size": "33630",
+      "md5": "ad43eb22169bebdf1aac06af600771a7",
+      "crc32": "1e3eece9",
+      "sha1": "f3381fffb3f7f9e4284a64d11f32569da1f400e2",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-27T12:06:51.089376-04:00.jpg",
+      "source": "original",
+      "mtime": "1666886819",
+      "size": "298375",
+      "md5": "ee37792bd7cee8051fbb63ffead2d86d",
+      "crc32": "1bc11561",
+      "sha1": "80f905a1985d94cfa3a820203232d4a01cb70e75",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-27T12:06:51.089376-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666886827",
+      "size": "1522",
+      "md5": "db056376f417a8a64090afdd36f0dd56",
+      "crc32": "a43aded4",
+      "sha1": "ffef35f22f09b87d057e03e1500d67c91a5b2ce9",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-27T12:06:51.089376-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666886831",
+      "size": "92434",
+      "md5": "bb33a0a1149a335fedacf2a34350a046",
+      "crc32": "a35e8df2",
+      "sha1": "20eb923f57bfa9c3a30cfe737fe9122e02df657c",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-27T12:06:51.089376-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-27T12:06:51.089376-04:00.jpg",
+      "mtime": "1666897388",
+      "size": "9397",
+      "md5": "bc22a666e83c6a430c3d8c19093c7610",
+      "crc32": "f911f7b8",
+      "sha1": "6c1b43fd86d65fbb364c70406fe13240d6912a74"
+    },
+    {
+      "name": "asheville-2022-10-28T00:47:56.328539-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666932481",
+      "size": "21249",
+      "md5": "045b125538759be8f9eb273f2a1e60b5",
+      "crc32": "996ef0c5",
+      "sha1": "97fb4dfb93c4658b00a64e3ceaeb1879690f0f48",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-28T00:47:56.328539-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666932482",
+      "size": "29523",
+      "md5": "433d0961e181a2b05fe5d4565b9471b9",
+      "crc32": "28132907",
+      "sha1": "6e7973d09a734bc6a9c5ae149b0682785979425e",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-28T00:47:56.328539-04:00.jpg",
+      "source": "original",
+      "mtime": "1666932480",
+      "size": "286251",
+      "md5": "278c917355b461b591d2836fa9cfd725",
+      "crc32": "abc2f55d",
+      "sha1": "f4c4ce716fbc74bd5db203148b66330f2e0bbac6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-28T00:47:56.328539-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666932484",
+      "size": "1522",
+      "md5": "c94bbc2f4495f5e9bb5a455231ce1fa1",
+      "crc32": "5c55f592",
+      "sha1": "03cd7b0d1f959b5b254afc6750584139178a1827",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-28T00:47:56.328539-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666932486",
+      "size": "142889",
+      "md5": "7061dbb1a3ff630d4eb9ba5f71071fea",
+      "crc32": "69e0a339",
+      "sha1": "f49b0e727c3b1a116347df84071dea95f020aa89",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-28T00:47:56.328539-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-28T00:47:56.328539-04:00.jpg",
+      "mtime": "1666933972",
+      "size": "9425",
+      "md5": "60f8228e42377610862c8f75cc8fde3f",
+      "crc32": "50cf29e6",
+      "sha1": "0fe7e4f11dd9ccf95cd386ea1d07de402bd479bd"
+    },
+    {
+      "name": "asheville-2022-10-28T11:52:58.278526-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972381",
+      "size": "19920",
+      "md5": "5190b6bba0de1a598db1b0958bba4dae",
+      "crc32": "1602f438",
+      "sha1": "30ee0b061a86bac941b11d215e9f7749b095b35c",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-28T11:52:58.278526-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972384",
+      "size": "32038",
+      "md5": "8bdbe8ab294f410eccc1614b657a06c6",
+      "crc32": "e6470348",
+      "sha1": "0055047e3659110babd80de31ff3594efac2576b",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-28T11:52:58.278526-04:00.jpg",
+      "source": "original",
+      "mtime": "1666972379",
+      "size": "258137",
+      "md5": "64649af2e151d806585d1390583d3e19",
+      "crc32": "60b09f3e",
+      "sha1": "7be8f1af6920fb09a5f70ef99a618ad659aada4b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-28T11:52:58.278526-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972386",
+      "size": "1522",
+      "md5": "c8f58bc6469fa52cb5ccffbd6a6ada91",
+      "crc32": "029ce588",
+      "sha1": "15c9e6771d9e91a4c4c8836070cc42a827717685",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-28T11:52:58.278526-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972388",
+      "size": "100634",
+      "md5": "21fc10626f40def4586f0e5aac292e53",
+      "crc32": "dd856800",
+      "sha1": "b436c219b97910bece03e31cecb3b969259d230c",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-28T11:52:58.278526-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-28T11:52:58.278526-04:00.jpg",
+      "mtime": "1666977473",
+      "size": "9367",
+      "md5": "8881de6e9eb8851d4befa9182da8a2a8",
+      "crc32": "da672a68",
+      "sha1": "3394097f0bb0b3d23a38b24b895fa78ec04015a3"
+    },
+    {
+      "name": "asheville-2022-10-29T00:13:49.976660-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667016832",
+      "size": "19948",
+      "md5": "12fc4fadbba560c58e22fadf700d05cc",
+      "crc32": "1cabb113",
+      "sha1": "daad9a86c3c150ac66a7c341b210be9962c369de",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-29T00:13:49.976660-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667016833",
+      "size": "35068",
+      "md5": "3d27ef2257072bb54c2606242e9965de",
+      "crc32": "fb39d573",
+      "sha1": "dcd9d905b056b8306267cafc42c9938a19175b2d",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-29T00:13:49.976660-04:00.jpg",
+      "source": "original",
+      "mtime": "1667016831",
+      "size": "269692",
+      "md5": "3e754a38e641887598d448bc3e16c992",
+      "crc32": "0786e4b2",
+      "sha1": "eb527369f3f543cf5f46aac783b09c6f8ffdeaad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-29T00:13:49.976660-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667016835",
+      "size": "1522",
+      "md5": "391452385b0bf8106f89f2fb7c482786",
+      "crc32": "b17bedbb",
+      "sha1": "a317a2f64fc32ada5d6385385d00a0566dc6bd9c",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-29T00:13:49.976660-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667016838",
+      "size": "210",
+      "md5": "1cecf61e7b43b53d4d5d2c964c6f32ed",
+      "crc32": "b5f2cd8c",
+      "sha1": "b790ac4302ed84e1d82517018174a8d03727329d",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-29T00:13:49.976660-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-29T00:13:49.976660-04:00.jpg",
+      "mtime": "1667019458",
+      "size": "9384",
+      "md5": "5c5b3a24fea74a7e8452edfc5bf3733a",
+      "crc32": "1822b960",
+      "sha1": "cb694e69f695a36d8aa43606dee7f4b44399c497"
+    },
+    {
+      "name": "asheville-2022-10-29T12:07:37.445389-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667059664",
+      "size": "20101",
+      "md5": "7e0daed67df8dbb8e14210e8925830a2",
+      "crc32": "9a505f2a",
+      "sha1": "21815535802124866ed1b8442f6f781904c74397",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-29T12:07:37.445389-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667059667",
+      "size": "34762",
+      "md5": "ef50884f0d194b78b915812ca669d19e",
+      "crc32": "75c47ba3",
+      "sha1": "2c92bc298ff7f6ac0bbdf045f83247629ad2ac45",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-29T12:07:37.445389-04:00.jpg",
+      "source": "original",
+      "mtime": "1667059659",
+      "size": "234267",
+      "md5": "7680de3359f844a287866c2a0d7757e2",
+      "crc32": "31b1f7ad",
+      "sha1": "7920d2065f156247213a0ee475e9a264eedb17ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-29T12:07:37.445389-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667059668",
+      "size": "1521",
+      "md5": "c3ee28625559459df2e5749630d26f0b",
+      "crc32": "0a16a7ce",
+      "sha1": "1245d3801994be4deea2845cdc05f2a43f320640",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-29T12:07:37.445389-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667059670",
+      "size": "110215",
+      "md5": "a6495d5561f0fb6e7f5e8122263e0a08",
+      "crc32": "56bb9832",
+      "sha1": "1ffb2db7ae47324e3559ed9937fea277bfe61b61",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-29T12:07:37.445389-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-29T12:07:37.445389-04:00.jpg",
+      "mtime": "1667066312",
+      "size": "8837",
+      "md5": "a8f33a5d4fb18b62d8e9488e74dc186a",
+      "crc32": "894b5174",
+      "sha1": "cf28aa2bd1385d36eca5764c2f37fe824d55ecf9"
+    },
+    {
+      "name": "asheville-2022-10-30T00:18:10.305942-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667103494",
+      "size": "20740",
+      "md5": "0c782c3c2c5d9c3590e8b80eed1f4c82",
+      "crc32": "03362a4a",
+      "sha1": "247321614e5bd104d14bd50da871b56138dd847c",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-30T00:18:10.305942-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667103496",
+      "size": "31419",
+      "md5": "a55bf6afdbf42b68a1c586f0ff91cdaa",
+      "crc32": "56bde750",
+      "sha1": "e4b4ce4d75e540b0d45407c9ea9c7ff8d79c2f74",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-30T00:18:10.305942-04:00.jpg",
+      "source": "original",
+      "mtime": "1667103493",
+      "size": "263072",
+      "md5": "d2d601097e10b7a93ff179a4a56b1284",
+      "crc32": "ae7bfc81",
+      "sha1": "f44be72a1e5497112d271a93b156a24850fde934",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-30T00:18:10.305942-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667103498",
+      "size": "1521",
+      "md5": "ac99b0d64fa685182871214e74730262",
+      "crc32": "32cfea47",
+      "sha1": "4bab4fd06a4e3d2b74515567bacaa09e0b829955",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-30T00:18:10.305942-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667103499",
+      "size": "87108",
+      "md5": "1fe099edeb97ec518037cee45b78cb4b",
+      "crc32": "0188979c",
+      "sha1": "c3d95b1c25be1ed392be6915b772bea1418112d9",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-30T00:18:10.305942-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-30T00:18:10.305942-04:00.jpg",
+      "mtime": "1667104923",
+      "size": "9065",
+      "md5": "54289d2f733b43662cfd1b43cc4c4a9a",
+      "crc32": "523ae751",
+      "sha1": "8a9b1ba9b1b37e3da28b5d497f2484431b437ced"
+    },
+    {
+      "name": "asheville-2022-10-30T11:46:35.422754-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144800",
+      "size": "19571",
+      "md5": "19af5b802fac931917499ce07f998215",
+      "crc32": "665105f8",
+      "sha1": "862042ab7532a06ef39dc6f347acf792f9222fec",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-30T11:46:35.422754-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144801",
+      "size": "37436",
+      "md5": "9549aa31025a521c06bb6370a61aab1f",
+      "crc32": "cfd2fd93",
+      "sha1": "989055f192d54a514a6da1d9789f0c30382ee0ac",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-30T11:46:35.422754-04:00.jpg",
+      "source": "original",
+      "mtime": "1667144798",
+      "size": "265385",
+      "md5": "af331c31faf931ab03417547758d9917",
+      "crc32": "ee90a119",
+      "sha1": "4b1983f540ceba9b1899e454da168a66ef45cc1e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-30T11:46:35.422754-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144803",
+      "size": "1522",
+      "md5": "af5589d27d4cbb9c3eac571283d87b05",
+      "crc32": "2a32a3d2",
+      "sha1": "884e1087b6f8b0ab3ae5be399e972ec0dbd89129",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-30T11:46:35.422754-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667144804",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-30T11:46:35.422754-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-30T11:46:35.422754-04:00.jpg",
+      "mtime": "1667145270",
+      "size": "9306",
+      "md5": "ef8f6222442a238fb27c92f781bf6cd5",
+      "crc32": "0a135abf",
+      "sha1": "e6f507ef4ccacf2f152e65d572237682ef799a88"
+    },
+    {
+      "name": "asheville-2022-10-31T00:52:31.438243-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667191953",
+      "size": "20092",
+      "md5": "2f60baf86ec673723c4bec9fce0d4aaf",
+      "crc32": "5921ffbe",
+      "sha1": "cf4b6a18c8b9523718dce83e2f0c65c1e5fe2547",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-31T00:52:31.438243-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667191955",
+      "size": "31814",
+      "md5": "fe53e5f3986a3e77b55c81511fe63e90",
+      "crc32": "b9e95919",
+      "sha1": "ae4c68dcd86ea7dc423fdbfb948dd61353323fe1",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-31T00:52:31.438243-04:00.jpg",
+      "source": "original",
+      "mtime": "1667191952",
+      "size": "263546",
+      "md5": "41ec0d8957b898436586f942d4697e38",
+      "crc32": "18f20293",
+      "sha1": "7d74bb74e7a49d8556eaeb21c4b2320b315f390b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-31T00:52:31.438243-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667191956",
+      "size": "1522",
+      "md5": "56efcb16a22fd15a84cbbfcbacaa7811",
+      "crc32": "72bd7158",
+      "sha1": "eab1e6a4c3e974c697502ab92eb74c6a37b9c6ef",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-31T00:52:31.438243-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667191958",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-31T00:52:31.438243-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-31T00:52:31.438243-04:00.jpg",
+      "mtime": "1667192458",
+      "size": "9224",
+      "md5": "492ac16fae4c6ac7cdc599b99f1e77bf",
+      "crc32": "1edb1526",
+      "sha1": "49eb84ffda312d83c8de6966b70bd46102a7ca36"
+    },
+    {
+      "name": "asheville-2022-10-31T12:01:28.172514-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667232095",
+      "size": "20436",
+      "md5": "bed71fd37f6fe56c4b91734193ad0dbc",
+      "crc32": "753952e5",
+      "sha1": "e5d65af0bab9dc61f1c7c3e5a733d6e855286d1d",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-31T12:01:28.172514-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667232097",
+      "size": "45685",
+      "md5": "4f8d5c56b8ccd800705f04a67eb1550f",
+      "crc32": "59bf5943",
+      "sha1": "d3afde67646cfca80fc82c120f4d08a67a539bad",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-31T12:01:28.172514-04:00.jpg",
+      "source": "original",
+      "mtime": "1667232093",
+      "size": "221588",
+      "md5": "9948636f9104cac7fc3f4e526ff0e60e",
+      "crc32": "62578886",
+      "sha1": "00cb82d132d976aceb0a2e079f39c77ad04e49e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "asheville-2022-10-31T12:01:28.172514-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667232099",
+      "size": "1522",
+      "md5": "ed05d5a144852fdaa2d8e19d81011f3f",
+      "crc32": "5e2afb2e",
+      "sha1": "fd142c549936a03b6b98e817110de98158644c90",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-31T12:01:28.172514-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667232101",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "asheville-2022-10-31T12:01:28.172514-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asheville-2022-10-31T12:01:28.172514-04:00.jpg",
+      "mtime": "1667232793",
+      "size": "8953",
+      "md5": "bd7c1f5a4e7f3063aebed19a7478442e",
+      "crc32": "0db176e9",
+      "sha1": "8726937a3136d61d1b3f5036c5e48183d46edd3d"
+    },
+    {
       "name": "asheville-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b9e1ef0a41379e9a968c689fba1e6377ceb7c7f",
-      "mtime": "1666712784",
-      "size": "90189",
-      "md5": "aa80d0bd01ba6e23178ef26df87afcc7",
-      "crc32": "c5283418",
-      "sha1": "6c23254331eb7ee04bbbf17d59764db00413673f",
+      "btih": "3f1819f315dcf2d880cdf82200be2e7cfbcc77da",
+      "mtime": "1667232800",
+      "size": "105603",
+      "md5": "2cdb8bbecc99bc294b0a54e89cd40c8f",
+      "crc32": "9da244cb",
+      "sha1": "a83447b7fc88b1a22d678024c6f5c28809419b44",
       "format": "Archive BitTorrent"
     },
     {
       "name": "asheville-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "062371f40416a313735d00346be87829",
+      "md5": "33a369c72b4918cd4cd09318c6920178",
       "summation": "md5"
     },
     {
       "name": "asheville-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666712747",
-      "size": "552960",
-      "md5": "2f6183e8a0e663ae32ac218076d363dc",
-      "crc32": "fbea34ae",
-      "sha1": "d24a5ee934635226f22871fc027a2440d1ef6819",
+      "mtime": "1667232120",
+      "size": "643072",
+      "md5": "dabb01776741568c97f61aff8e55680d",
+      "crc32": "53f5e23f",
+      "sha1": "bbdc6328e5721efb5bd504da9e0a9be74b19dc57",
       "format": "Metadata"
     },
     {
@@ -4383,9 +5138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 424,
-  "item_last_updated": 1666712784,
-  "item_size": 28536586,
+  "files_count": 497,
+  "item_last_updated": 1667232800,
+  "item_size": 33287464,
   "metadata": {
     "identifier": "asheville-2022",
     "collection": [
@@ -4402,21 +5157,10 @@
     "publicdate": "2022-09-21 04:37:26",
     "addeddate": "2022-09-21 04:37:26"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451770779,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1492132054,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1005009357,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

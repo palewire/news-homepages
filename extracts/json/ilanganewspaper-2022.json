@@ -1,5 +1,5 @@
 {
-  "created": 1666702908,
+  "created": 1667220970,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/2/items/ilanganewspaper-2022",
@@ -8043,31 +8043,786 @@
       "format": "JSON"
     },
     {
+      "name": "ilanganewspaper-2022-10-25T15:00:42.930105+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-25T15:00:42.930105+02:00.jpg",
+      "mtime": "1666704792",
+      "size": "11161",
+      "md5": "b7b9c539835f21731ece38e2c99c38aa",
+      "crc32": "b74789ae",
+      "sha1": "373ac584eb174232f73eb2f1d905c97cb3d5c9f5"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-26T03:25:56.209692+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666747558",
+      "size": "18368",
+      "md5": "95a54b12b16ab0b6f3fb3be65178cec3",
+      "crc32": "b2d89b65",
+      "sha1": "4d3384c7ece80aa71e1aafde0819aa64b68b8104",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-26T03:25:56.209692+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666747563",
+      "size": "11290",
+      "md5": "88511abbbbc4165733a213b0a18ec533",
+      "crc32": "551276ce",
+      "sha1": "89a13c553d57456cc5ed582598959ef9bbf6f175",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-26T03:25:56.209692+02:00.jpg",
+      "source": "original",
+      "mtime": "1666747557",
+      "size": "300094",
+      "md5": "477c62900912daf77fd1d8b6e2c101fa",
+      "crc32": "3f02749a",
+      "sha1": "0cdc5a41ccb3a99ed02b840f2373db024528b67b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-26T03:25:56.209692+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666747565",
+      "size": "1476",
+      "md5": "2e5a6496a087ab04193d4e43863c9903",
+      "crc32": "0b11a95c",
+      "sha1": "0b4b437885804dc1f7477ce65c629ac9f9d7dc85",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-26T03:25:56.209692+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666747567",
+      "size": "7738",
+      "md5": "e09c6f04d476caf70e7e2350ad7a7193",
+      "crc32": "f86af68a",
+      "sha1": "5675b651909641ab2b57c784298bc9ef4802bba2",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-26T03:25:56.209692+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-26T03:25:56.209692+02:00.jpg",
+      "mtime": "1666749275",
+      "size": "11161",
+      "md5": "7b56a8ba45a0604163cea1e22dd84939",
+      "crc32": "d229a26a",
+      "sha1": "5d514194c04bd18addd703446fc78a79eb501852"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-26T15:01:43.192863+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666789316",
+      "size": "16849",
+      "md5": "9170b55f2dc0584c0b658be88875311e",
+      "crc32": "b49f0799",
+      "sha1": "dd90a827e7abe48105d1affd2d6186c5a58b4707",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-26T15:01:43.192863+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666789318",
+      "size": "11290",
+      "md5": "88511abbbbc4165733a213b0a18ec533",
+      "crc32": "551276ce",
+      "sha1": "89a13c553d57456cc5ed582598959ef9bbf6f175",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-26T15:01:43.192863+02:00.jpg",
+      "source": "original",
+      "mtime": "1666789313",
+      "size": "297435",
+      "md5": "9218e063727d2696f5764e7bcd21779f",
+      "crc32": "50bd4596",
+      "sha1": "110851cd0e09aa8b7ae7e1048752ca395dddb5c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-26T15:01:43.192863+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666789320",
+      "size": "1476",
+      "md5": "e6452d2e66172264b6cb3bd26fe0a0d8",
+      "crc32": "7d85a784",
+      "sha1": "2938c05d24c0461b4b0bfa7fc3fec332c790ac89",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-26T15:01:43.192863+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666789322",
+      "size": "7492",
+      "md5": "44d328d5768e5307dff154c03f5f21c0",
+      "crc32": "a87d5cd5",
+      "sha1": "34e72062228547ac022ede39f54d53b7eb21b7b4",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-26T15:01:43.192863+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-26T15:01:43.192863+02:00.jpg",
+      "mtime": "1666790972",
+      "size": "11128",
+      "md5": "60ebb08823cbc06f8a6f1878400994a9",
+      "crc32": "02aba19d",
+      "sha1": "ad57e6779e5b15cb9938cf033eb7d60934e4c90d"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-27T03:22:14.552686+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666833739",
+      "size": "16799",
+      "md5": "413ebf2639adfd7314647637fd77054e",
+      "crc32": "1ee03032",
+      "sha1": "a98285375a1af5b788c5156d6f20cc9f8f4027ab",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-27T03:22:14.552686+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666833753",
+      "size": "11238",
+      "md5": "e32452d4a492926d48336b1b433833b9",
+      "crc32": "96e27bb5",
+      "sha1": "09d57c2f7379c2ae9dcccde77880bfe3c98aa6f5",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-27T03:22:14.552686+02:00.jpg",
+      "source": "original",
+      "mtime": "1666833737",
+      "size": "296077",
+      "md5": "c14223ea8e7ed0111cc27f01462d67f7",
+      "crc32": "a35c4c61",
+      "sha1": "2942f4cc506960b3d637cfb61cdc4cd821d74bd6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-27T03:22:14.552686+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666833755",
+      "size": "1476",
+      "md5": "cf23ef13d2eb66203db073a086b6ae2c",
+      "crc32": "321769ae",
+      "sha1": "3f591ec2e7631a2568689b932a5593d83a85073c",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-27T03:22:14.552686+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666833757",
+      "size": "17527",
+      "md5": "04a6dab8e16d4610b13a2c091de59af9",
+      "crc32": "33eeaff5",
+      "sha1": "9ccbef422962299963b19540648b11c535a69f1c",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-27T03:22:14.552686+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-27T03:22:14.552686+02:00.jpg",
+      "mtime": "1666857909",
+      "size": "11086",
+      "md5": "1a64bce97f41ed1bd7db37fd5153ab60",
+      "crc32": "3aef44cf",
+      "sha1": "c27737aefc7ee359e16d19a606b69ad0eccc1936"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-27T15:14:09.061256+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666876461",
+      "size": "18299",
+      "md5": "c8a4719e9f09f37cb703807845874295",
+      "crc32": "df5f6f70",
+      "sha1": "953a0f379096d3f30b7bec7c8380173c178ed2a6",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-27T15:14:09.061256+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666876462",
+      "size": "11189",
+      "md5": "10fb356e630654297ed8968016a5bf8c",
+      "crc32": "931b8135",
+      "sha1": "81d89040855b0824853bad0a24eebd70e1319977",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-27T15:14:09.061256+02:00.jpg",
+      "source": "original",
+      "mtime": "1666876459",
+      "size": "303073",
+      "md5": "c79fd3b149f49b13d08a44f8927603f3",
+      "crc32": "911eaaa8",
+      "sha1": "dc5726903cc72e8ad7c2b381a1750ac51993bec0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-27T15:14:09.061256+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666876465",
+      "size": "1476",
+      "md5": "edd4c2c7c7ec6b23e64220154f97ad96",
+      "crc32": "f5cdeaca",
+      "sha1": "25962b9ba1258084c4e567b54b750d7a90165620",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-27T15:14:09.061256+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666876468",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-27T15:14:09.061256+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-27T15:14:09.061256+02:00.jpg",
+      "mtime": "1666891212",
+      "size": "11335",
+      "md5": "8e662e90c72b839d162f9b3c8fa652b0",
+      "crc32": "9d9dd2fa",
+      "sha1": "a8f59ceb116c050a39f7effd4b3ad4d22138e76e"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-28T03:19:53.434477+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666919996",
+      "size": "18300",
+      "md5": "2e55b052d49cd626d920f52d81e4ee38",
+      "crc32": "3e207c5f",
+      "sha1": "4b32824ae611941c715e8469ae53fd6be6f77aa0",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-28T03:19:53.434477+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666919998",
+      "size": "11189",
+      "md5": "10fb356e630654297ed8968016a5bf8c",
+      "crc32": "931b8135",
+      "sha1": "81d89040855b0824853bad0a24eebd70e1319977",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-28T03:19:53.434477+02:00.jpg",
+      "source": "original",
+      "mtime": "1666919994",
+      "size": "302662",
+      "md5": "fd97ce9a651d5337022a48f324f5bf65",
+      "crc32": "fc31dffa",
+      "sha1": "7cc9db84f996ef2720e9f998bff74e37d8caa8c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-28T03:19:53.434477+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666919999",
+      "size": "1477",
+      "md5": "7debf784127c48500805c58de7409cb8",
+      "crc32": "7b95f803",
+      "sha1": "4c4b159bb7fe6396d027dd4ca9fe3f2c302e8421",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-28T03:19:53.434477+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666920001",
+      "size": "12896",
+      "md5": "85b52d123d9a6f7abb5dc78c148af78a",
+      "crc32": "e6d32e54",
+      "sha1": "318e9e995eb8ad820fdc36e0d594ed3be5004e58",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-28T03:19:53.434477+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-28T03:19:53.434477+02:00.jpg",
+      "mtime": "1666921703",
+      "size": "11337",
+      "md5": "99ee1b5f06383536244a03df2c62e57e",
+      "crc32": "21c996e1",
+      "sha1": "0fa2a8cba1b9f4a0a024082b0bcf07b3d8b867e3"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-28T14:59:25.697393+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666961971",
+      "size": "18307",
+      "md5": "8e06d70161ab57acfd27687d8d2c838a",
+      "crc32": "e9040587",
+      "sha1": "1412eabcd33bd3e4a16b74aad9d03e30602018b0",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-28T14:59:25.697393+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666961973",
+      "size": "11189",
+      "md5": "10fb356e630654297ed8968016a5bf8c",
+      "crc32": "931b8135",
+      "sha1": "81d89040855b0824853bad0a24eebd70e1319977",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-28T14:59:25.697393+02:00.jpg",
+      "source": "original",
+      "mtime": "1666961969",
+      "size": "302981",
+      "md5": "ae365a22737cec5e50974ffc5bab4035",
+      "crc32": "d7dfd73d",
+      "sha1": "4059ed34204447de61812dfafb808dc99c59b13c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-28T14:59:25.697393+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666961974",
+      "size": "1476",
+      "md5": "bbf7dc7daa268014890fdd0e2740a511",
+      "crc32": "4341ed40",
+      "sha1": "98dd7f7baa6f951d876811d850957dcecd952ce0",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-28T14:59:25.697393+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666961976",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-28T14:59:25.697393+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-28T14:59:25.697393+02:00.jpg",
+      "mtime": "1666968999",
+      "size": "11337",
+      "md5": "c1859e331561943e1285ed2035518d2e",
+      "crc32": "1e7176be",
+      "sha1": "55626d170efa7b73456953ee5c45168c0a7f7c2f"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-29T03:18:31.884397+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667006315",
+      "size": "18516",
+      "md5": "daef91a9f9e8a3ec8c3c10fb8ee8ba00",
+      "crc32": "ab3a8e58",
+      "sha1": "8c277bc54a729ba62e3c82cdd49fddb5b1c59cc6",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-29T03:18:31.884397+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667006316",
+      "size": "11543",
+      "md5": "cf9b8f7d631cc13cded42bf7ca500e8b",
+      "crc32": "535368ea",
+      "sha1": "7883e0d8768debab8c3498dd0021dfcc4e573333",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-29T03:18:31.884397+02:00.jpg",
+      "source": "original",
+      "mtime": "1667006313",
+      "size": "308448",
+      "md5": "c0a08821cfcdac96897c12116b8c6eae",
+      "crc32": "a7bcb864",
+      "sha1": "00dc808bc0bb990d6fcbfe691df6fae9d6df285b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-29T03:18:31.884397+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667006318",
+      "size": "1477",
+      "md5": "e95536ef283afde572b8d2e42dd95c0b",
+      "crc32": "9cad0540",
+      "sha1": "1c3c1a322b345dd1e6739f9ebe98ebbf46951b8b",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-29T03:18:31.884397+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667006320",
+      "size": "205",
+      "md5": "8af2d689e4b3db624cd1c9ea1be9cf7f",
+      "crc32": "96ee9969",
+      "sha1": "223311d6b7f9f5667fad4acb75250a77ab5e15d1",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-29T03:18:31.884397+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-29T03:18:31.884397+02:00.jpg",
+      "mtime": "1667007519",
+      "size": "11489",
+      "md5": "0d0eea3614787aae40604127a73adc58",
+      "crc32": "818d1755",
+      "sha1": "58f0b188419b51eeb93fa0552c6248767967e43a"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-29T14:51:49.535405+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667047920",
+      "size": "18511",
+      "md5": "1fc419577f6f698dd2a18db36158000f",
+      "crc32": "df6c1448",
+      "sha1": "69afe8dcf652e3384b214ea7f006e46c23339f6f",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-29T14:51:49.535405+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667047922",
+      "size": "11543",
+      "md5": "cf9b8f7d631cc13cded42bf7ca500e8b",
+      "crc32": "535368ea",
+      "sha1": "7883e0d8768debab8c3498dd0021dfcc4e573333",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-29T14:51:49.535405+02:00.jpg",
+      "source": "original",
+      "mtime": "1667047918",
+      "size": "308679",
+      "md5": "a2a84c0f65750b5031ccd4546c9e0343",
+      "crc32": "3d2c6eff",
+      "sha1": "333079bf2581471a70c4a6916dbc81fbf59ab566",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-29T14:51:49.535405+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667047923",
+      "size": "1475",
+      "md5": "82864f6fcc186f30b6d477ed252be3bd",
+      "crc32": "1cf15867",
+      "sha1": "8036331400e158cde8d39323eae2e4b580d4cfd0",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-29T14:51:49.535405+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667047925",
+      "size": "9740",
+      "md5": "89ed020b66ac5107572e748dd423c96d",
+      "crc32": "2b53bfc8",
+      "sha1": "bee4036adc6123dd98ee6a592eaaf45885e136f9",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-29T14:51:49.535405+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-29T14:51:49.535405+02:00.jpg",
+      "mtime": "1667050398",
+      "size": "11484",
+      "md5": "47df790d4c439b472cf640c51e2450ee",
+      "crc32": "aaa939eb",
+      "sha1": "1dfbc631e02153fa182f4e0f783f90ee277a23bf"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-30T03:05:13.951675+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667091917",
+      "size": "18516",
+      "md5": "b7e5b2374c1446e4d2e2158764a3124f",
+      "crc32": "6266435d",
+      "sha1": "3d6b7ae5b497b43e91b5e1ddcbd7218e0999ac1f",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-30T03:05:13.951675+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667091919",
+      "size": "11543",
+      "md5": "f70d9597978e46410a0c9e798c9c1a06",
+      "crc32": "5d51ae4f",
+      "sha1": "a9b9f72f9f623b4f4334263976079ae351a89276",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-30T03:05:13.951675+02:00.jpg",
+      "source": "original",
+      "mtime": "1667091915",
+      "size": "307416",
+      "md5": "45ca634a4b1e3512740427d17acf53b7",
+      "crc32": "16e11e64",
+      "sha1": "ded0109005b6b77669e249e72d0e371ee0fc9ed2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-30T03:05:13.951675+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667091920",
+      "size": "1476",
+      "md5": "8793daeb898cb5ba5297acb25154094a",
+      "crc32": "6413c758",
+      "sha1": "a8d17f278583a079b9f77ae6a8b7534a123d3a12",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-30T03:05:13.951675+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667091921",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-30T03:05:13.951675+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-30T03:05:13.951675+02:00.jpg",
+      "mtime": "1667092800",
+      "size": "11469",
+      "md5": "2142709586a4313ee56ef94fb3790fc7",
+      "crc32": "fd2beb5e",
+      "sha1": "d46ee55413ab09a07b0029aa88224ad33c0ff7b5"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-30T14:48:47.146569+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667134135",
+      "size": "18514",
+      "md5": "83ac2d41c46d06816cc29b61810a0771",
+      "crc32": "a1227d1b",
+      "sha1": "6ca521f911a5ab32b34c2bc74758b9ff128d0e01",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-30T14:48:47.146569+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667134137",
+      "size": "11543",
+      "md5": "f70d9597978e46410a0c9e798c9c1a06",
+      "crc32": "5d51ae4f",
+      "sha1": "a9b9f72f9f623b4f4334263976079ae351a89276",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-30T14:48:47.146569+02:00.jpg",
+      "source": "original",
+      "mtime": "1667134134",
+      "size": "307471",
+      "md5": "a206a3a8fe98433119cb2b7457dc7b2a",
+      "crc32": "6be95325",
+      "sha1": "6d57c57a70dc84232955d024c414dbd3e004b2dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-30T14:48:47.146569+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667134138",
+      "size": "1477",
+      "md5": "702361fcf696d445b1f69f3d3e517bb7",
+      "crc32": "7651b4bd",
+      "sha1": "712ccb5cf0b185123cf0e45c3c81d288767bd4e6",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-30T14:48:47.146569+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667134140",
+      "size": "7694",
+      "md5": "593ae061383279d9afec5f64eb061301",
+      "crc32": "e79db29f",
+      "sha1": "690d4063df5edead73b0df8c72a1c3ff314d9fc9",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-30T14:48:47.146569+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-30T14:48:47.146569+02:00.jpg",
+      "mtime": "1667134935",
+      "size": "11447",
+      "md5": "ecae5c5fa4990c24999218f5dc71951c",
+      "crc32": "a4458d78",
+      "sha1": "a1b76260570b0b7e7af76206c89eed0b3910d892"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-31T03:09:18.787523+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667178563",
+      "size": "18483",
+      "md5": "8055f99130f0044e994d3913dc57e65f",
+      "crc32": "ca0b4203",
+      "sha1": "946b9eb4c5e6daab3a21d97d822a1fc1c71dc5a6",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-31T03:09:18.787523+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667178565",
+      "size": "11503",
+      "md5": "dc6f7f63729aa82faac37634da1569ca",
+      "crc32": "c4b03d6c",
+      "sha1": "8d7e6037e18e4c74e3973a06c1e5bbd6573ef2be",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-31T03:09:18.787523+02:00.jpg",
+      "source": "original",
+      "mtime": "1667178561",
+      "size": "307282",
+      "md5": "8772a59475152bf9f9f55e19775642e8",
+      "crc32": "4dfa1aeb",
+      "sha1": "8f9a9c5bfb44ca1a9bb387251f439f7c600c9b7b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-31T03:09:18.787523+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667178566",
+      "size": "1477",
+      "md5": "823cd6bdb9b22fc03bac1c1839d1a451",
+      "crc32": "479d3bf0",
+      "sha1": "964ccd30b7fb0753f411fdae6f8decf50be1f4ca",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-31T03:09:18.787523+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667178568",
+      "size": "7494",
+      "md5": "aa9351ec9a77864cfdd09b73439b685b",
+      "crc32": "94bf61ad",
+      "sha1": "c5bc1e3bd0acacce1469b76076ab494834b9b018",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-31T03:09:18.787523+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-31T03:09:18.787523+02:00.jpg",
+      "mtime": "1667180126",
+      "size": "11475",
+      "md5": "80e6b45b9b604be6396708a6b2e09174",
+      "crc32": "f7c7226e",
+      "sha1": "dac8aa5117f1f77259c67bcc727ee6e65ee5fa67"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-31T14:50:50.765548+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667220664",
+      "size": "18633",
+      "md5": "aa7db4d2992f16523d6ace832bb6d301",
+      "crc32": "104e1fb8",
+      "sha1": "e759c4a65c4a352332cf7080eeba0c0853db5a8b",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-31T14:50:50.765548+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667220666",
+      "size": "11656",
+      "md5": "352fc7308dacf88f90b6cfa8ef6599c3",
+      "crc32": "e749ecc1",
+      "sha1": "036c68748c8479d5369e0629b1d896e0aee931fd",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-31T14:50:50.765548+02:00.jpg",
+      "source": "original",
+      "mtime": "1667220659",
+      "size": "333158",
+      "md5": "f595773ce9b24b639898de32b11b56b4",
+      "crc32": "390adba9",
+      "sha1": "613dc289f5fa60be06e21630a0b041c88826fcbc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-31T14:50:50.765548+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667220667",
+      "size": "1477",
+      "md5": "174466b3cc5b82db3723e662be2691a7",
+      "crc32": "9bd331dc",
+      "sha1": "aa4fc8deaf46af85e7b6c8f6c43a6fd3f6dd070a",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-31T14:50:50.765548+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667220670",
+      "size": "7460",
+      "md5": "ee842643614859184f7290a844bc5a13",
+      "crc32": "1c030a53",
+      "sha1": "3334324a7317fd2883876624e3f9cd074e992918",
+      "format": "JSON"
+    },
+    {
+      "name": "ilanganewspaper-2022-10-31T14:50:50.765548+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ilanganewspaper-2022-10-31T14:50:50.765548+02:00.jpg",
+      "mtime": "1667220915",
+      "size": "11695",
+      "md5": "7695f1c4f7233d271cf7bfc4e64e16ad",
+      "crc32": "5ac8302c",
+      "sha1": "284d52d55a73e67fcec0b213c034ff71b47c28da"
+    },
+    {
       "name": "ilanganewspaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6edb762dc3ea5b86ca898efdda85f12d6e32f932",
-      "mtime": "1666702901",
-      "size": "170295",
-      "md5": "4e485f34f7c2dcade20ec3c0a2f4b7cf",
-      "crc32": "4f0c2611",
-      "sha1": "018b2b17b03403d83eb34d9ac13dddd17b4da1a5",
+      "btih": "ed862eeff336dc410c939a6c225aa8391a38bfc6",
+      "mtime": "1667220936",
+      "size": "186153",
+      "md5": "8bbbc47525b2bd18ca2fac5cf6da9401",
+      "crc32": "f556bbb3",
+      "sha1": "766ceb6cbf12bfa92606a8a8704acf46fd581651",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ilanganewspaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6258cd0375d5bc41430d9f4fed028f36",
+      "md5": "f0b1063fff1fd2ffe4c71a0e035b0d37",
       "summation": "md5"
     },
     {
       "name": "ilanganewspaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666702858",
-      "size": "1019904",
-      "md5": "a50206c5e36d01e5161049600e0f6af3",
-      "crc32": "ef34aeb8",
-      "sha1": "6d0a7e0cb5ad3a9ffab83f54d7ba7aedcddf0323",
+      "mtime": "1667220677",
+      "size": "1110016",
+      "md5": "9d1168debff5e2679860e2c26ce15510",
+      "crc32": "ac230359",
+      "sha1": "b35a2aee8ffa6f0f99ff0c47688e5ff3943e96f7",
       "format": "Metadata"
     },
     {
@@ -8081,9 +8836,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 782,
-  "item_last_updated": 1666702901,
-  "item_size": 45104693,
+  "files_count": 855,
+  "item_last_updated": 1667220936,
+  "item_size": 49484422,
   "metadata": {
     "identifier": "ilanganewspaper-2022",
     "collection": [
@@ -8100,21 +8855,10 @@
     "publicdate": "2022-08-22 22:03:17",
     "addeddate": "2022-08-22 22:03:17"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451666881,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1753057975,
+  "server": "ia801505.us.archive.org",
+  "uniq": 862483006,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

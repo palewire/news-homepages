@@ -1,5 +1,6 @@
 {
-  "created": 1666695711,
+  "conflict": 1667257370,
+  "created": 1667257370,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/15/items/bhamwatch-2022",
@@ -12755,31 +12756,843 @@
       "format": "JSON"
     },
     {
+      "name": "bhamwatch-2022-10-25T05:59:03.846954-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-25T05:59:03.846954-05:00.jpg",
+      "mtime": "1666698270",
+      "size": "10757",
+      "md5": "4b0d5ca8b93b6b07297e6925c7577fc8",
+      "crc32": "cd3587b4",
+      "sha1": "fc2338cd60f86f88c3413f4087e525fa6c143db8"
+    },
+    {
+      "name": "bhamwatch-2022-10-25T18:00:29.761996-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738832",
+      "size": "43147",
+      "md5": "1f92198630adb9b1defb147cbebd8731",
+      "crc32": "e5bfc6e6",
+      "sha1": "fa73715bf51ceb416424f0e8df7632187e7b03cc",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-25T18:00:29.761996-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738833",
+      "size": "23972",
+      "md5": "b56ec4a9cdbee6f1e5d84b0b15c9b715",
+      "crc32": "95603f36",
+      "sha1": "380d893a909e64cb23eb11b2d112274e347e3436",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-25T18:00:29.761996-05:00.jpg",
+      "source": "original",
+      "mtime": "1666738830",
+      "size": "320205",
+      "md5": "69e1d513a0c7c62d130de6f5e71b58e4",
+      "crc32": "e744bbc5",
+      "sha1": "d01813e2db62e3851cd612ec203d169659a4a32c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-25T18:00:29.761996-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666738835",
+      "size": "1501",
+      "md5": "b3f55666e563651cb499ff13a7da87bd",
+      "crc32": "5682dad6",
+      "sha1": "d255a09b8cc61b38f392214fb46c3ea44a70b3b9",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-25T18:00:29.761996-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738837",
+      "size": "103",
+      "md5": "dfd2175c4d6e6b4d4782bd6c24a0d0de",
+      "crc32": "f51ece5f",
+      "sha1": "eea3ae81489cdc8e92f468797f599370e2546421",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-25T18:00:29.761996-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-25T18:00:29.761996-05:00.jpg",
+      "mtime": "1666740661",
+      "size": "9962",
+      "md5": "edf989fe2c703b28079f824c65cd4488",
+      "crc32": "203ebde9",
+      "sha1": "536ebf6e72c53dbea1323225182ceb00bd6eaa86"
+    },
+    {
+      "name": "bhamwatch-2022-10-26T05:54:51.922117-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781698",
+      "size": "43219",
+      "md5": "5c4c46009d79f3bf0ce770a91776f7dd",
+      "crc32": "2ff813f8",
+      "sha1": "a8733e49639a2da2b8dd60b6da50855133ca8fc5",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-26T05:54:51.922117-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781700",
+      "size": "24336",
+      "md5": "3f81aa21fcf7da6fe18edd995484d991",
+      "crc32": "ca39829e",
+      "sha1": "ccd613b2b4a23f87e9424e9f27fb90789e470066",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-26T05:54:51.922117-05:00.jpg",
+      "source": "original",
+      "mtime": "1666781696",
+      "size": "320620",
+      "md5": "3c7a6127af08f96d41c5ebb4a4a680bd",
+      "crc32": "ef17f1be",
+      "sha1": "0b1164b91083e2a62ca1b0e48de544f8b65045b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-26T05:54:51.922117-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781702",
+      "size": "1500",
+      "md5": "0bb322ffb7445885cf6e785e515861c3",
+      "crc32": "b79dfdf1",
+      "sha1": "5b9fa41ed5752c1cc7fa7a924a75d5b208339d63",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-26T05:54:51.922117-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781705",
+      "size": "14220",
+      "md5": "b513fee19ffb40b5a910e0bea5a52bb7",
+      "crc32": "cd145ff4",
+      "sha1": "6d78449b7af387563cab29122002839e4984da92",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-26T05:54:51.922117-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-26T05:54:51.922117-05:00.jpg",
+      "mtime": "1666783191",
+      "size": "9965",
+      "md5": "73cb320455a851b8ee429b71e1819e0b",
+      "crc32": "aecca91f",
+      "sha1": "9c079f4978b7e2b58817fa3d3503be2885cb4030"
+    },
+    {
+      "name": "bhamwatch-2022-10-26T17:57:07.217980-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666825035",
+      "size": "43219",
+      "md5": "5c4c46009d79f3bf0ce770a91776f7dd",
+      "crc32": "2ff813f8",
+      "sha1": "a8733e49639a2da2b8dd60b6da50855133ca8fc5",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-26T17:57:07.217980-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666825037",
+      "size": "24336",
+      "md5": "3f81aa21fcf7da6fe18edd995484d991",
+      "crc32": "ca39829e",
+      "sha1": "ccd613b2b4a23f87e9424e9f27fb90789e470066",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-26T17:57:07.217980-05:00.jpg",
+      "source": "original",
+      "mtime": "1666825033",
+      "size": "320620",
+      "md5": "3c7a6127af08f96d41c5ebb4a4a680bd",
+      "crc32": "ef17f1be",
+      "sha1": "0b1164b91083e2a62ca1b0e48de544f8b65045b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-26T17:57:07.217980-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666825039",
+      "size": "1501",
+      "md5": "8d75863b0a45a8cfd319cc1979c44286",
+      "crc32": "80f574e3",
+      "sha1": "14132477ad82150c377501484dbaa02182acfeea",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-26T17:57:07.217980-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666825040",
+      "size": "14221",
+      "md5": "a3b6ed01c98d1cb81938f51df94a058f",
+      "crc32": "d6d61792",
+      "sha1": "0cb816c8fa73b898e3650a2de63c2f858505d61e",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-26T17:57:07.217980-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-26T17:57:07.217980-05:00.jpg",
+      "mtime": "1666849228",
+      "size": "9965",
+      "md5": "73cb320455a851b8ee429b71e1819e0b",
+      "crc32": "aecca91f",
+      "sha1": "9c079f4978b7e2b58817fa3d3503be2885cb4030"
+    },
+    {
+      "name": "bhamwatch-2022-10-27T06:03:09.980008-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666868593",
+      "size": "43150",
+      "md5": "3f855ef7206aad46847fde3582fa11e7",
+      "crc32": "543960d8",
+      "sha1": "e14fdcef7bde4f98f9ed5af3659a31e3adb3755c",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-27T06:03:09.980008-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666868595",
+      "size": "24040",
+      "md5": "59571d1ce47b47caad167a1ab0ad6d60",
+      "crc32": "cf429d9a",
+      "sha1": "64eb2933d59393d20cf03ddee25a38ee76c507b8",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-27T06:03:09.980008-05:00.jpg",
+      "source": "original",
+      "mtime": "1666868591",
+      "size": "318863",
+      "md5": "09e29af999cffb467d314abbd16785eb",
+      "crc32": "feccbb6e",
+      "sha1": "444d94f6d1d5576d66739ea75e45082fd03ce7f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-27T06:03:09.980008-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666868597",
+      "size": "1501",
+      "md5": "3e3a7ac2f3691b0d207cc29ed135656e",
+      "crc32": "9ef41e8e",
+      "sha1": "06e67eceb7dd4c9fc68d77d2f6ae8cf3676d04c0",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-27T06:03:09.980008-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666868600",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-27T06:03:09.980008-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-27T06:03:09.980008-05:00.jpg",
+      "mtime": "1666889170",
+      "size": "10043",
+      "md5": "4fdf16f49c51066eacb0968c8db9dd4e",
+      "crc32": "f1e25e8c",
+      "sha1": "8aa41b4b2cf36084002d8ae9c12b021a1f543e9b"
+    },
+    {
+      "name": "bhamwatch-2022-10-27T17:48:08.108767-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910892",
+      "size": "43150",
+      "md5": "3f855ef7206aad46847fde3582fa11e7",
+      "crc32": "543960d8",
+      "sha1": "e14fdcef7bde4f98f9ed5af3659a31e3adb3755c",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-27T17:48:08.108767-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910895",
+      "size": "24040",
+      "md5": "59571d1ce47b47caad167a1ab0ad6d60",
+      "crc32": "cf429d9a",
+      "sha1": "64eb2933d59393d20cf03ddee25a38ee76c507b8",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-27T17:48:08.108767-05:00.jpg",
+      "source": "original",
+      "mtime": "1666910890",
+      "size": "318863",
+      "md5": "09e29af999cffb467d314abbd16785eb",
+      "crc32": "feccbb6e",
+      "sha1": "444d94f6d1d5576d66739ea75e45082fd03ce7f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-27T17:48:08.108767-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910898",
+      "size": "1501",
+      "md5": "2be5ce44e5b495f5749950fe11654f31",
+      "crc32": "fa5a29fe",
+      "sha1": "b576727a1865b3f8b16e06ea911331e5fb12005e",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-27T17:48:08.108767-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910899",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-27T17:48:08.108767-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-27T17:48:08.108767-05:00.jpg",
+      "mtime": "1666913343",
+      "size": "10043",
+      "md5": "4fdf16f49c51066eacb0968c8db9dd4e",
+      "crc32": "f1e25e8c",
+      "sha1": "8aa41b4b2cf36084002d8ae9c12b021a1f543e9b"
+    },
+    {
+      "name": "bhamwatch-2022-10-28T05:54:04.605301-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666954451",
+      "size": "43962",
+      "md5": "5d2f73a8685cf3e16587df40419d404b",
+      "crc32": "ad5d18a8",
+      "sha1": "1dc6b2f80a8f0f75c0142fb7a4f47f13d62a70d9",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-28T05:54:04.605301-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666954454",
+      "size": "24596",
+      "md5": "714556c180a7dfbcd5001fd1a6a41c7b",
+      "crc32": "6830c281",
+      "sha1": "7eae34952fdd5046cb1ec78911e0a09ac3e3b63e",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-28T05:54:04.605301-05:00.jpg",
+      "source": "original",
+      "mtime": "1666954450",
+      "size": "315425",
+      "md5": "522f02ea777520f1e68e17cc663f051e",
+      "crc32": "1e1fafe9",
+      "sha1": "3e73c6c79e80e0f8462bfdf1ac279d061486ac9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-28T05:54:04.605301-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666954456",
+      "size": "1500",
+      "md5": "a6faa01771ba84cb13ce7019d7a25218",
+      "crc32": "9ecdac51",
+      "sha1": "091ee16813df5a9b82b92c85b470e42bd1c533cf",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-28T05:54:04.605301-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666954457",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-28T05:54:04.605301-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-28T05:54:04.605301-05:00.jpg",
+      "mtime": "1666960143",
+      "size": "10170",
+      "md5": "864b16430a255f1ccfe77edda06c268c",
+      "crc32": "e059e948",
+      "sha1": "6169ba2bdc8fb77e79c20e58e0ab7db9004769eb"
+    },
+    {
+      "name": "bhamwatch-2022-10-28T18:08:29.209081-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666998512",
+      "size": "43962",
+      "md5": "5d2f73a8685cf3e16587df40419d404b",
+      "crc32": "ad5d18a8",
+      "sha1": "1dc6b2f80a8f0f75c0142fb7a4f47f13d62a70d9",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-28T18:08:29.209081-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666998514",
+      "size": "24596",
+      "md5": "714556c180a7dfbcd5001fd1a6a41c7b",
+      "crc32": "6830c281",
+      "sha1": "7eae34952fdd5046cb1ec78911e0a09ac3e3b63e",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-28T18:08:29.209081-05:00.jpg",
+      "source": "original",
+      "mtime": "1666998510",
+      "size": "315425",
+      "md5": "522f02ea777520f1e68e17cc663f051e",
+      "crc32": "1e1fafe9",
+      "sha1": "3e73c6c79e80e0f8462bfdf1ac279d061486ac9f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-28T18:08:29.209081-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666998515",
+      "size": "1501",
+      "md5": "c3d11102023da3fc365b4d5ae263f2f6",
+      "crc32": "8ec6c16e",
+      "sha1": "44e091e6146f74f7acdb4ee602492ef726a2c3f1",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-28T18:08:29.209081-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666998517",
+      "size": "207",
+      "md5": "e5b3c2057a0d9c5659ca6649d1f7a693",
+      "crc32": "d59cd19f",
+      "sha1": "84bb4744b10b2cbb0b57b142a598fc7bbb3e4a03",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-28T18:08:29.209081-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-28T18:08:29.209081-05:00.jpg",
+      "mtime": "1667000140",
+      "size": "10170",
+      "md5": "864b16430a255f1ccfe77edda06c268c",
+      "crc32": "e059e948",
+      "sha1": "6169ba2bdc8fb77e79c20e58e0ab7db9004769eb"
+    },
+    {
+      "name": "bhamwatch-2022-10-29T05:51:24.153891-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040691",
+      "size": "45398",
+      "md5": "1e506775fd113e28cfb89fb97c6f0096",
+      "crc32": "7f24a5d9",
+      "sha1": "ead998c899cfa27bdd8bfcd1cc0f3f81089023c1",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-29T05:51:24.153891-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040693",
+      "size": "24799",
+      "md5": "4bad46bcbd6797994f54ce4a74319fd3",
+      "crc32": "d45a7a65",
+      "sha1": "2e2ad4e1adce692dfb32926b53d7f05a520c46b8",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-29T05:51:24.153891-05:00.jpg",
+      "source": "original",
+      "mtime": "1667040689",
+      "size": "341822",
+      "md5": "af4655b07a81d634c982eb7d92de3ff1",
+      "crc32": "0c4c61a9",
+      "sha1": "f2d7ea35751e5801cfa7bfd88f179aa596cb31b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-29T05:51:24.153891-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040695",
+      "size": "1501",
+      "md5": "1c67a0e4c2d888fd075ac46642ddc1e4",
+      "crc32": "12bfc3c5",
+      "sha1": "99a746f167821fc9a063b840cd0b0ef2b17cf0d9",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-29T05:51:24.153891-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040696",
+      "size": "14216",
+      "md5": "5302d5a67a855e8e344259c454a7d7ed",
+      "crc32": "f31d7556",
+      "sha1": "deb01b876c108f11e365549eeab0f9133fe68224",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-29T05:51:24.153891-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-29T05:51:24.153891-05:00.jpg",
+      "mtime": "1667041608",
+      "size": "10406",
+      "md5": "46288fd52be79a4d93717a9a6809cb09",
+      "crc32": "174364b5",
+      "sha1": "5861d46695883875fc9ece6e61b6d4b5f127b9f9"
+    },
+    {
+      "name": "bhamwatch-2022-10-29T17:53:04.279090-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667083989",
+      "size": "45398",
+      "md5": "1e506775fd113e28cfb89fb97c6f0096",
+      "crc32": "7f24a5d9",
+      "sha1": "ead998c899cfa27bdd8bfcd1cc0f3f81089023c1",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-29T17:53:04.279090-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667083991",
+      "size": "24799",
+      "md5": "4bad46bcbd6797994f54ce4a74319fd3",
+      "crc32": "d45a7a65",
+      "sha1": "2e2ad4e1adce692dfb32926b53d7f05a520c46b8",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-29T17:53:04.279090-05:00.jpg",
+      "source": "original",
+      "mtime": "1667083988",
+      "size": "341822",
+      "md5": "af4655b07a81d634c982eb7d92de3ff1",
+      "crc32": "0c4c61a9",
+      "sha1": "f2d7ea35751e5801cfa7bfd88f179aa596cb31b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-29T17:53:04.279090-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667083992",
+      "size": "1501",
+      "md5": "260fbe6fa19e5ab23bc1e9d705481a7d",
+      "crc32": "231b1728",
+      "sha1": "f028517288ecc9e6e69444aea0eb74d698ccf9dd",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-29T17:53:04.279090-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667083994",
+      "size": "14216",
+      "md5": "1f048aafdac931c06dfa9bf09550224e",
+      "crc32": "e1ffed5a",
+      "sha1": "7ac96c25daeb870ed60b64cc228d3fa95d64fdbe",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-29T17:53:04.279090-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-29T17:53:04.279090-05:00.jpg",
+      "mtime": "1667085026",
+      "size": "10406",
+      "md5": "46288fd52be79a4d93717a9a6809cb09",
+      "crc32": "174364b5",
+      "sha1": "5861d46695883875fc9ece6e61b6d4b5f127b9f9"
+    },
+    {
+      "name": "bhamwatch-2022-10-30T05:46:37.110650-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126805",
+      "size": "45274",
+      "md5": "78d6b5b8ef5d2d148399fe0aa615a4b0",
+      "crc32": "8fc9081c",
+      "sha1": "09cb4087c85b4338647fcce6113a74433447cce2",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-30T05:46:37.110650-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126806",
+      "size": "24566",
+      "md5": "0503c8a3e833332ac5150ab8b6f38567",
+      "crc32": "b47c7b41",
+      "sha1": "b50dfd7e0136c66d1f2aca5c933833cd4bd151be",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-30T05:46:37.110650-05:00.jpg",
+      "source": "original",
+      "mtime": "1667126803",
+      "size": "345949",
+      "md5": "0fadd01e76a6151f22458fb7a8bfba0d",
+      "crc32": "d1b61f4a",
+      "sha1": "82f53607ad9aa0d2096e333a805f18d04646b825",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-30T05:46:37.110650-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126808",
+      "size": "1501",
+      "md5": "95176f803756898c1b5a7e6049e2ef14",
+      "crc32": "0296b748",
+      "sha1": "3bfa29594b3baad84843b7bb9f64c0ad052c89de",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-30T05:46:37.110650-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126809",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-30T05:46:37.110650-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-30T05:46:37.110650-05:00.jpg",
+      "mtime": "1667126972",
+      "size": "10399",
+      "md5": "7c3c9fa04f3bc2d45fa816a400de6c9e",
+      "crc32": "934178e0",
+      "sha1": "2e7ece43c005bb51830886db6e064fc0fe8d6496"
+    },
+    {
+      "name": "bhamwatch-2022-10-30T17:41:00.861161-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667169664",
+      "size": "45274",
+      "md5": "78d6b5b8ef5d2d148399fe0aa615a4b0",
+      "crc32": "8fc9081c",
+      "sha1": "09cb4087c85b4338647fcce6113a74433447cce2",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-30T17:41:00.861161-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667169666",
+      "size": "24566",
+      "md5": "0503c8a3e833332ac5150ab8b6f38567",
+      "crc32": "b47c7b41",
+      "sha1": "b50dfd7e0136c66d1f2aca5c933833cd4bd151be",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-30T17:41:00.861161-05:00.jpg",
+      "source": "original",
+      "mtime": "1667169662",
+      "size": "345949",
+      "md5": "0fadd01e76a6151f22458fb7a8bfba0d",
+      "crc32": "d1b61f4a",
+      "sha1": "82f53607ad9aa0d2096e333a805f18d04646b825",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-30T17:41:00.861161-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667169667",
+      "size": "1500",
+      "md5": "131e1d29882f921ba4069ff0ef458d36",
+      "crc32": "f90fd54d",
+      "sha1": "7c9c90961643b142699f55c74a8c06d3b02f5b94",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-30T17:41:00.861161-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667169669",
+      "size": "14111",
+      "md5": "89f1148004e3fc2574546d0d4aa78f43",
+      "crc32": "44b0e3f3",
+      "sha1": "d8ead1e238b4527a225809071393e26ee130da5f",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-30T17:41:00.861161-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-30T17:41:00.861161-05:00.jpg",
+      "mtime": "1667170603",
+      "size": "10399",
+      "md5": "7c3c9fa04f3bc2d45fa816a400de6c9e",
+      "crc32": "934178e0",
+      "sha1": "2e7ece43c005bb51830886db6e064fc0fe8d6496"
+    },
+    {
+      "name": "bhamwatch-2022-10-31T05:48:58.284365-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667213350",
+      "size": "45317",
+      "md5": "b782310ad486986357a8c5da4b119608",
+      "crc32": "9939e359",
+      "sha1": "ca3ac0bca4dc3a2839b3e85fbafea89b5cde214e",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-31T05:48:58.284365-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667213352",
+      "size": "24596",
+      "md5": "20972cb074584e83ce78c577d647da69",
+      "crc32": "5b7443bc",
+      "sha1": "89ca3acbc4678ca48d2d6a60ef6938bfa0904e46",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-31T05:48:58.284365-05:00.jpg",
+      "source": "original",
+      "mtime": "1667213349",
+      "size": "343804",
+      "md5": "9df74d08c52ffc87bed0e687c7012129",
+      "crc32": "456f99e9",
+      "sha1": "0c414cca80ebf7d9f1c39829d24cb17fdcbf3900",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-31T05:48:58.284365-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667213353",
+      "size": "1500",
+      "md5": "a065bfb6333ce2d899edaa0566e6f65c",
+      "crc32": "946ce36c",
+      "sha1": "8754624867c2972b52d5f94b848b819fc169654c",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-31T05:48:58.284365-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667213355",
+      "size": "252",
+      "md5": "9f1c08fbde3ab576e745618b9c25284e",
+      "crc32": "adf8cd54",
+      "sha1": "7be7f85167f4373cfadd83c6f44142e150d22bee",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-31T05:48:58.284365-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-31T05:48:58.284365-05:00.jpg",
+      "mtime": "1667214759",
+      "size": "10339",
+      "md5": "785cde2fa6f9255357a3a5ad5059ed0e",
+      "crc32": "e20d464d",
+      "sha1": "09b4a070cbd3b2ffebcf80e9d7940ab119b6936e"
+    },
+    {
+      "name": "bhamwatch-2022-10-31T17:53:51.069422-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667256843",
+      "size": "45317",
+      "md5": "b782310ad486986357a8c5da4b119608",
+      "crc32": "9939e359",
+      "sha1": "ca3ac0bca4dc3a2839b3e85fbafea89b5cde214e",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-31T17:53:51.069422-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667256847",
+      "size": "24596",
+      "md5": "20972cb074584e83ce78c577d647da69",
+      "crc32": "5b7443bc",
+      "sha1": "89ca3acbc4678ca48d2d6a60ef6938bfa0904e46",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-31T17:53:51.069422-05:00.jpg",
+      "source": "original",
+      "mtime": "1667256841",
+      "size": "343804",
+      "md5": "9df74d08c52ffc87bed0e687c7012129",
+      "crc32": "456f99e9",
+      "sha1": "0c414cca80ebf7d9f1c39829d24cb17fdcbf3900",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bhamwatch-2022-10-31T17:53:51.069422-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667256849",
+      "size": "1501",
+      "md5": "c835f6739c5decbb4b5fe63cec2acdd9",
+      "crc32": "d2e7be05",
+      "sha1": "e586a286a5b9feec595de71d70ca3b28561760b1",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-31T17:53:51.069422-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667256850",
+      "size": "14099",
+      "md5": "715809e8a8adb5c1b1d84e237fb38ee4",
+      "crc32": "789f309a",
+      "sha1": "88ddb8857ac3694cdb147569ef36a04ed4ff89bf",
+      "format": "JSON"
+    },
+    {
+      "name": "bhamwatch-2022-10-31T17:53:51.069422-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-10-31T17:53:51.069422-05:00.jpg"
+    },
+    {
       "name": "bhamwatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4184b3361e9534d5bdc02f9acd1a26ec9fe32513",
-      "mtime": "1666695706",
-      "size": "262369",
-      "md5": "ad2a0c61e1a7cf97bc995949f18fbcfc",
-      "crc32": "63dfcde8",
-      "sha1": "fb148a1eeae0241a032f1c331437e462adb432b1",
+      "btih": "2c956024022b00350132c715e0a28fe4fca9ad27",
+      "mtime": "1667256911",
+      "size": "278854",
+      "md5": "eeb74468b27c144a98f8da1661e1cf64",
+      "crc32": "8979f6c8",
+      "sha1": "192981f1274267655e7600ed19f86ef9520ef8fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bhamwatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac5568455ff89a68223200355701b901",
+      "md5": "e621bd765f4fee572f465d896f1b4963",
       "summation": "md5"
     },
     {
       "name": "bhamwatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695656",
-      "size": "1556480",
-      "md5": "6adb7c734fa87953caeab2b8b144c5c3",
-      "crc32": "0b4cf807",
-      "sha1": "bd6d8181f5ac1f63da447fcc0cbce039f483d0ab",
+      "mtime": "1667256857",
+      "size": "1654784",
+      "md5": "ebe9fafba9730fd06e2b6c223f5a36c4",
+      "crc32": "e04a8544",
+      "sha1": "dc28170ad06c3399741e3935b9958fff694c4984",
       "format": "Metadata"
     },
     {
@@ -12793,9 +13606,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1235,
-  "item_last_updated": 1666695706,
-  "item_size": 100509766,
+  "files_count": 1314,
+  "item_last_updated": 1667256911,
+  "item_size": 106050337,
   "metadata": {
     "identifier": "bhamwatch-2022",
     "collection": [
@@ -12817,15 +13630,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451510746,
+      "task_id": 3458212815,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 2128096216,
+  "uniq": 88236858,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

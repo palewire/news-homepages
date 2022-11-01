@@ -1,5 +1,5 @@
 {
-  "created": 1666703237,
+  "created": 1667221556,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/15/items/mtvnews-2022",
@@ -11905,31 +11905,786 @@
       "format": "JSON"
     },
     {
+      "name": "mtvnews-2022-10-25T09:05:19.282428-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-25T09:05:19.282428-04:00.jpg",
+      "mtime": "1666706157",
+      "size": "11544",
+      "md5": "b01466d8bb4b6f20ea282322069e8ab1",
+      "crc32": "e2655385",
+      "sha1": "695eeb47905d707b73aa4a87ca715a07adb689be"
+    },
+    {
+      "name": "mtvnews-2022-10-25T21:32:29.638263-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666747953",
+      "size": "7236",
+      "md5": "e27c7e421d8a4315e5608e6a06bc9514",
+      "crc32": "a5f452f5",
+      "sha1": "5f239c332b0ef0ee4a76f276e50235cfd5e55e30",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-25T21:32:29.638263-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666747955",
+      "size": "9211",
+      "md5": "49ff362ae2fa36127527caea273bd428",
+      "crc32": "cf137a5b",
+      "sha1": "b8f5161a8fa6037d5dd2e3cdd455cd4a23734d43",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-25T21:32:29.638263-04:00.jpg",
+      "source": "original",
+      "mtime": "1666747951",
+      "size": "277394",
+      "md5": "a9ee0ca373889c03c2d01cf5d023d31a",
+      "crc32": "5fd53c50",
+      "sha1": "b8732c217070279d40b3a48f6b2b80a32f0b82c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-25T21:32:29.638263-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666747956",
+      "size": "1468",
+      "md5": "4d4e0f77a6fe795d4ebc4d77b10f641f",
+      "crc32": "2aff8e8c",
+      "sha1": "80e714be518d6aa6b15c67f063e52befc6eb4dd3",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-25T21:32:29.638263-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666747959",
+      "size": "8766",
+      "md5": "241f0b4e177861a72cc8d32e2dd16dcc",
+      "crc32": "3b8ac042",
+      "sha1": "671371e30194fb752a010e952bddd0dba55f2b00",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-25T21:32:29.638263-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-25T21:32:29.638263-04:00.jpg",
+      "mtime": "1666749473",
+      "size": "11479",
+      "md5": "3478866f3545d47b9f813cf6504fd580",
+      "crc32": "6e66b6b6",
+      "sha1": "2e359c8ab8fa5270a10efafa1b232931f6a5ba04"
+    },
+    {
+      "name": "mtvnews-2022-10-26T09:08:26.652311-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666789717",
+      "size": "7236",
+      "md5": "e27c7e421d8a4315e5608e6a06bc9514",
+      "crc32": "a5f452f5",
+      "sha1": "5f239c332b0ef0ee4a76f276e50235cfd5e55e30",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-26T09:08:26.652311-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666789719",
+      "size": "9211",
+      "md5": "49ff362ae2fa36127527caea273bd428",
+      "crc32": "cf137a5b",
+      "sha1": "b8f5161a8fa6037d5dd2e3cdd455cd4a23734d43",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-26T09:08:26.652311-04:00.jpg",
+      "source": "original",
+      "mtime": "1666789714",
+      "size": "268451",
+      "md5": "6f63784987587b78a7766c6aaf8102a7",
+      "crc32": "6e93769a",
+      "sha1": "3578438f34c3d85392b9dd513852e10c2a2821cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-26T09:08:26.652311-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666789721",
+      "size": "1468",
+      "md5": "870dc77b8cb119e73db561aa49fd9688",
+      "crc32": "012194e0",
+      "sha1": "3816182dbf9831fc74f82823ebd00d39fdb85e30",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-26T09:08:26.652311-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666789723",
+      "size": "8770",
+      "md5": "98ec93bdfd670fd6695d8ade9d874590",
+      "crc32": "34ec8364",
+      "sha1": "ecc7477d657282de1e987a30c0a875251bf7eaca",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-26T09:08:26.652311-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-26T09:08:26.652311-04:00.jpg",
+      "mtime": "1666792498",
+      "size": "11392",
+      "md5": "b575802f37e60758669ff2ff322bbfc3",
+      "crc32": "2e72a59c",
+      "sha1": "026efba026aae118c552fb815eb4193f8200941b"
+    },
+    {
+      "name": "mtvnews-2022-10-26T21:28:43.530409-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666834126",
+      "size": "7236",
+      "md5": "e27c7e421d8a4315e5608e6a06bc9514",
+      "crc32": "a5f452f5",
+      "sha1": "5f239c332b0ef0ee4a76f276e50235cfd5e55e30",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-26T21:28:43.530409-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666834129",
+      "size": "9211",
+      "md5": "49ff362ae2fa36127527caea273bd428",
+      "crc32": "cf137a5b",
+      "sha1": "b8f5161a8fa6037d5dd2e3cdd455cd4a23734d43",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-26T21:28:43.530409-04:00.jpg",
+      "source": "original",
+      "mtime": "1666834124",
+      "size": "268451",
+      "md5": "6f63784987587b78a7766c6aaf8102a7",
+      "crc32": "6e93769a",
+      "sha1": "3578438f34c3d85392b9dd513852e10c2a2821cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-26T21:28:43.530409-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666834132",
+      "size": "1468",
+      "md5": "7d38d8f8d8a22abe98de4be0ee1732a2",
+      "crc32": "7b40a37d",
+      "sha1": "57f3371d826653e1e387908bbfd4b6903384ee63",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-26T21:28:43.530409-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666834137",
+      "size": "8768",
+      "md5": "de0111d486fc85809109d4789bdef8da",
+      "crc32": "f48e82a6",
+      "sha1": "ea628e3937611ab84056fab65f2963f0f8085e76",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-26T21:28:43.530409-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-26T21:28:43.530409-04:00.jpg",
+      "mtime": "1666858674",
+      "size": "11392",
+      "md5": "b575802f37e60758669ff2ff322bbfc3",
+      "crc32": "2e72a59c",
+      "sha1": "026efba026aae118c552fb815eb4193f8200941b"
+    },
+    {
+      "name": "mtvnews-2022-10-27T09:20:23.867459-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666876835",
+      "size": "7236",
+      "md5": "e27c7e421d8a4315e5608e6a06bc9514",
+      "crc32": "a5f452f5",
+      "sha1": "5f239c332b0ef0ee4a76f276e50235cfd5e55e30",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-27T09:20:23.867459-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666876836",
+      "size": "9211",
+      "md5": "49ff362ae2fa36127527caea273bd428",
+      "crc32": "cf137a5b",
+      "sha1": "b8f5161a8fa6037d5dd2e3cdd455cd4a23734d43",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-27T09:20:23.867459-04:00.jpg",
+      "source": "original",
+      "mtime": "1666876832",
+      "size": "268451",
+      "md5": "6f63784987587b78a7766c6aaf8102a7",
+      "crc32": "6e93769a",
+      "sha1": "3578438f34c3d85392b9dd513852e10c2a2821cf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-27T09:20:23.867459-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666876838",
+      "size": "1468",
+      "md5": "9107eeca068b823d2c5950900d095dd8",
+      "crc32": "61578eab",
+      "sha1": "09ef785e2c8e505cd8ec0635d315aad23d1990a2",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-27T09:20:23.867459-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666876840",
+      "size": "8850",
+      "md5": "3408a92e41db0541a99c15ec4ff6a7d3",
+      "crc32": "4b942ef8",
+      "sha1": "28f343b478e503c370c8b4b1f5ad60ff1d122bbb",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-27T09:20:23.867459-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-27T09:20:23.867459-04:00.jpg",
+      "mtime": "1666891478",
+      "size": "11392",
+      "md5": "b575802f37e60758669ff2ff322bbfc3",
+      "crc32": "2e72a59c",
+      "sha1": "026efba026aae118c552fb815eb4193f8200941b"
+    },
+    {
+      "name": "mtvnews-2022-10-27T21:25:22.133161-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666920325",
+      "size": "7206",
+      "md5": "65828b2f734d068df8c0d6df23cecc36",
+      "crc32": "d6b3b862",
+      "sha1": "7cf6e14bef40c76e868ded792e64af411f6632af",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-27T21:25:22.133161-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666920327",
+      "size": "9192",
+      "md5": "1467e0896fb7c789778b18825187330e",
+      "crc32": "3a19880a",
+      "sha1": "1d86ead3fd684828e467d546aefb36ceeaecfe66",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-27T21:25:22.133161-04:00.jpg",
+      "source": "original",
+      "mtime": "1666920323",
+      "size": "260665",
+      "md5": "9cb62638e75f253eb358f91d802d9112",
+      "crc32": "322ca63b",
+      "sha1": "b9fcca75e5d69b9e4150ab3785939dc462d38851",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-27T21:25:22.133161-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666920328",
+      "size": "1468",
+      "md5": "093d9bf0892504d3b7f6412949a620f5",
+      "crc32": "b2c5b935",
+      "sha1": "5d7e8c18a8dcc06245c69da007f64fad85757e8e",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-27T21:25:22.133161-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666920330",
+      "size": "231",
+      "md5": "188ef381c236aca5868a7e12a5ec526f",
+      "crc32": "1ea2c90a",
+      "sha1": "9e5af81d8e98de66ec427036ca3fa5d075b89bec",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-27T21:25:22.133161-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-27T21:25:22.133161-04:00.jpg",
+      "mtime": "1666922380",
+      "size": "11295",
+      "md5": "b56ef8d131853e7bd657d819863e3712",
+      "crc32": "1f2a956b",
+      "sha1": "0c7e3679bb019d2d4bd19d9b5cb92cc0c500a98a"
+    },
+    {
+      "name": "mtvnews-2022-10-28T09:04:27.667298-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666962274",
+      "size": "7206",
+      "md5": "65828b2f734d068df8c0d6df23cecc36",
+      "crc32": "d6b3b862",
+      "sha1": "7cf6e14bef40c76e868ded792e64af411f6632af",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-28T09:04:27.667298-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666962277",
+      "size": "8858",
+      "md5": "7da5c5ad2ee31a4a4f79594e6d4762b0",
+      "crc32": "63562a81",
+      "sha1": "e08af1102f8bcf5b09ddf7d933665f31538af4f7",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-28T09:04:27.667298-04:00.jpg",
+      "source": "original",
+      "mtime": "1666962272",
+      "size": "258960",
+      "md5": "f0242d2074efab2d99a9f3f0dc7d0cc1",
+      "crc32": "eb278397",
+      "sha1": "c7857d9331c255fe0e3f8b7441769e167399c452",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-28T09:04:27.667298-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666962279",
+      "size": "1468",
+      "md5": "262576f3686e69869c546955f91be25f",
+      "crc32": "078d77fa",
+      "sha1": "21d1751b2c4bb2783249adfc79d08779805039a8",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-28T09:04:27.667298-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666962283",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-28T09:04:27.667298-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-28T09:04:27.667298-04:00.jpg",
+      "mtime": "1666968439",
+      "size": "11258",
+      "md5": "1e499d9348071ef3637ec40992778a6c",
+      "crc32": "0fd4c100",
+      "sha1": "4a28de687fb78e4186da7fa64ca79981dc1deea6"
+    },
+    {
+      "name": "mtvnews-2022-10-28T21:24:25.232496-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667006669",
+      "size": "7153",
+      "md5": "cd97a448cb72374609780cb5d5b65a5f",
+      "crc32": "250fc0c3",
+      "sha1": "a1b3164a4a625185192c45704caf31eeeed27b7f",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-28T21:24:25.232496-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667006671",
+      "size": "9151",
+      "md5": "025cd1586104a14282616232b579bbba",
+      "crc32": "d1cb82c2",
+      "sha1": "eb7268853926fc3de0d11dbd7907825603094e29",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-28T21:24:25.232496-04:00.jpg",
+      "source": "original",
+      "mtime": "1667006667",
+      "size": "254006",
+      "md5": "2da1d505b8a0b6df52172853d5b401ed",
+      "crc32": "b33d855b",
+      "sha1": "9909cba696637a52b38244ea4438f545e362e48a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-28T21:24:25.232496-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667006672",
+      "size": "1468",
+      "md5": "b3e78803289096a017360c59be9eaaa3",
+      "crc32": "d48c3970",
+      "sha1": "3dbbf5af0329dce7c3e4cf6fd291055c7c77e9c3",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-28T21:24:25.232496-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667006674",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-28T21:24:25.232496-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-28T21:24:25.232496-04:00.jpg",
+      "mtime": "1667007725",
+      "size": "11181",
+      "md5": "83fe87d37cd04dddf908cfd3296a0313",
+      "crc32": "55624fdc",
+      "sha1": "e7ce627d5544af827d10c35aeb2d7a37815119ce"
+    },
+    {
+      "name": "mtvnews-2022-10-29T08:55:43.241148-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667048149",
+      "size": "7153",
+      "md5": "cd97a448cb72374609780cb5d5b65a5f",
+      "crc32": "250fc0c3",
+      "sha1": "a1b3164a4a625185192c45704caf31eeeed27b7f",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-29T08:55:43.241148-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667048151",
+      "size": "9151",
+      "md5": "025cd1586104a14282616232b579bbba",
+      "crc32": "d1cb82c2",
+      "sha1": "eb7268853926fc3de0d11dbd7907825603094e29",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-29T08:55:43.241148-04:00.jpg",
+      "source": "original",
+      "mtime": "1667048148",
+      "size": "254006",
+      "md5": "2da1d505b8a0b6df52172853d5b401ed",
+      "crc32": "b33d855b",
+      "sha1": "9909cba696637a52b38244ea4438f545e362e48a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-29T08:55:43.241148-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667048153",
+      "size": "1468",
+      "md5": "df85745503df86b579fd348ebf580485",
+      "crc32": "a373bfb6",
+      "sha1": "c154ea1da717a0aef757166adee7a40bc126897f",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-29T08:55:43.241148-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667048155",
+      "size": "8971",
+      "md5": "7cf938919be6f28496d0db28a9bdb571",
+      "crc32": "b75a6d2b",
+      "sha1": "a5df049714ec459341d6f9c7b36eea431c3b98fc",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-29T08:55:43.241148-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-29T08:55:43.241148-04:00.jpg",
+      "mtime": "1667051447",
+      "size": "11181",
+      "md5": "83fe87d37cd04dddf908cfd3296a0313",
+      "crc32": "55624fdc",
+      "sha1": "e7ce627d5544af827d10c35aeb2d7a37815119ce"
+    },
+    {
+      "name": "mtvnews-2022-10-29T21:08:24.018785-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667092118",
+      "size": "6877",
+      "md5": "493dbf7a81c08d31f743a5c46b5093c8",
+      "crc32": "b09445ad",
+      "sha1": "e2166d33d35296f824ec660ea2b34d9877f1de11",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-29T21:08:24.018785-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667092120",
+      "size": "9151",
+      "md5": "025cd1586104a14282616232b579bbba",
+      "crc32": "d1cb82c2",
+      "sha1": "eb7268853926fc3de0d11dbd7907825603094e29",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-29T21:08:24.018785-04:00.jpg",
+      "source": "original",
+      "mtime": "1667092116",
+      "size": "254006",
+      "md5": "2da1d505b8a0b6df52172853d5b401ed",
+      "crc32": "b33d855b",
+      "sha1": "9909cba696637a52b38244ea4438f545e362e48a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-29T21:08:24.018785-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667092122",
+      "size": "1468",
+      "md5": "e6773e850f20e2323dafaa6887fb1542",
+      "crc32": "711c97ae",
+      "sha1": "c1225d0b336a3b981483f67a1b2e5fb5517c5224",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-29T21:08:24.018785-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667092123",
+      "size": "8076",
+      "md5": "1bf5d93dc56abe3d0f2a532476783511",
+      "crc32": "cf9cc1a5",
+      "sha1": "cc0f75239e119f71fc09c3acf4def5a5848ecc4c",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-29T21:08:24.018785-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-29T21:08:24.018785-04:00.jpg",
+      "mtime": "1667092991",
+      "size": "11181",
+      "md5": "83fe87d37cd04dddf908cfd3296a0313",
+      "crc32": "55624fdc",
+      "sha1": "e7ce627d5544af827d10c35aeb2d7a37815119ce"
+    },
+    {
+      "name": "mtvnews-2022-10-30T08:53:24.225650-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667134413",
+      "size": "7015",
+      "md5": "72d103114d49ba90dddd8e356a8ba77e",
+      "crc32": "3b8ac0fd",
+      "sha1": "4152d3fda5842f3e0c3095776d9adc6ba207fd48",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-30T08:53:24.225650-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667134415",
+      "size": "9151",
+      "md5": "025cd1586104a14282616232b579bbba",
+      "crc32": "d1cb82c2",
+      "sha1": "eb7268853926fc3de0d11dbd7907825603094e29",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-30T08:53:24.225650-04:00.jpg",
+      "source": "original",
+      "mtime": "1667134412",
+      "size": "254006",
+      "md5": "2da1d505b8a0b6df52172853d5b401ed",
+      "crc32": "b33d855b",
+      "sha1": "9909cba696637a52b38244ea4438f545e362e48a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-30T08:53:24.225650-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667134417",
+      "size": "1467",
+      "md5": "d550549eeffc5349542a53cbd5a4f853",
+      "crc32": "bc17c918",
+      "sha1": "020b395018ff2ef12faca098e79cb07ffb6d5611",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-30T08:53:24.225650-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667134418",
+      "size": "8734",
+      "md5": "32fa143380c063b0c4bc2a292b2d7ca8",
+      "crc32": "40f765db",
+      "sha1": "d2dfa2e22fed763e39288fd3ae3b1ca04371b085",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-30T08:53:24.225650-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-30T08:53:24.225650-04:00.jpg",
+      "mtime": "1667135608",
+      "size": "11181",
+      "md5": "83fe87d37cd04dddf908cfd3296a0313",
+      "crc32": "55624fdc",
+      "sha1": "e7ce627d5544af827d10c35aeb2d7a37815119ce"
+    },
+    {
+      "name": "mtvnews-2022-10-30T21:13:27.468779-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667178819",
+      "size": "7015",
+      "md5": "72d103114d49ba90dddd8e356a8ba77e",
+      "crc32": "3b8ac0fd",
+      "sha1": "4152d3fda5842f3e0c3095776d9adc6ba207fd48",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-30T21:13:27.468779-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667178821",
+      "size": "9151",
+      "md5": "025cd1586104a14282616232b579bbba",
+      "crc32": "d1cb82c2",
+      "sha1": "eb7268853926fc3de0d11dbd7907825603094e29",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-30T21:13:27.468779-04:00.jpg",
+      "source": "original",
+      "mtime": "1667178818",
+      "size": "254006",
+      "md5": "2da1d505b8a0b6df52172853d5b401ed",
+      "crc32": "b33d855b",
+      "sha1": "9909cba696637a52b38244ea4438f545e362e48a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-30T21:13:27.468779-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667178823",
+      "size": "1468",
+      "md5": "61dbf8c0aaf74e0f29a9770abf3b899f",
+      "crc32": "80fca827",
+      "sha1": "9f881110063b104a75d37a3928c90545bc9f0b6d",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-30T21:13:27.468779-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667178829",
+      "size": "8838",
+      "md5": "00691c0ad054a2db86a73125f596fbc7",
+      "crc32": "7b4e5aab",
+      "sha1": "5a0c3a8b3e6317c74e61fef4e4208d6b1c56f5ec",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-30T21:13:27.468779-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-30T21:13:27.468779-04:00.jpg",
+      "mtime": "1667179820",
+      "size": "11181",
+      "md5": "83fe87d37cd04dddf908cfd3296a0313",
+      "crc32": "55624fdc",
+      "sha1": "e7ce627d5544af827d10c35aeb2d7a37815119ce"
+    },
+    {
+      "name": "mtvnews-2022-10-31T08:57:22.821255-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667221048",
+      "size": "7153",
+      "md5": "cd97a448cb72374609780cb5d5b65a5f",
+      "crc32": "250fc0c3",
+      "sha1": "a1b3164a4a625185192c45704caf31eeeed27b7f",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-31T08:57:22.821255-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667221049",
+      "size": "9151",
+      "md5": "025cd1586104a14282616232b579bbba",
+      "crc32": "d1cb82c2",
+      "sha1": "eb7268853926fc3de0d11dbd7907825603094e29",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-31T08:57:22.821255-04:00.jpg",
+      "source": "original",
+      "mtime": "1667221046",
+      "size": "254006",
+      "md5": "2da1d505b8a0b6df52172853d5b401ed",
+      "crc32": "b33d855b",
+      "sha1": "9909cba696637a52b38244ea4438f545e362e48a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-10-31T08:57:22.821255-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667221051",
+      "size": "1468",
+      "md5": "f3a7e8041da1dca008a9e0a5cbcd3ad9",
+      "crc32": "9abb8814",
+      "sha1": "aeb8f9205d803fe95beec4cedd095f4e73ae20ce",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-31T08:57:22.821255-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667221053",
+      "size": "8809",
+      "md5": "f678909758a41511c9c7d404381137e6",
+      "crc32": "cb85050a",
+      "sha1": "2ad7319e1fce1f0ea0b24a518aca908cd9672a96",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-10-31T08:57:22.821255-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-10-31T08:57:22.821255-04:00.jpg",
+      "mtime": "1667221459",
+      "size": "11181",
+      "md5": "83fe87d37cd04dddf908cfd3296a0313",
+      "crc32": "55624fdc",
+      "sha1": "e7ce627d5544af827d10c35aeb2d7a37815119ce"
+    },
+    {
       "name": "mtvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a6f70a7401ad2e9ebfa9696fb5ae4728ca9a5c89",
-      "mtime": "1666703207",
-      "size": "241293",
-      "md5": "9e629d3c588e85484d1df1b4235d5780",
-      "crc32": "7317a79e",
-      "sha1": "26ab30afafe80dd6b01b56e065aa6fcbf5f002c7",
+      "btih": "0a1d529db700e902bed79b056147014eb63be525",
+      "mtime": "1667221487",
+      "size": "256502",
+      "md5": "361b3d4efee7a7c353241149c1446fdd",
+      "crc32": "9b8edf93",
+      "sha1": "87a9fd3f14cdb2daa0ab5ea7fece7b43efcd796c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "276a5d4171c193bf0b3fb7258be2e9d8",
+      "md5": "3c8f06f69060bac750549e94339c677a",
       "summation": "md5"
     },
     {
       "name": "mtvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666703149",
-      "size": "1458176",
-      "md5": "016864e4a25b4850cabe3456a437fa30",
-      "crc32": "af1c9020",
-      "sha1": "220055edd96c12aca4508ed4ba885d0d8c878c27",
+      "mtime": "1667221060",
+      "size": "1548288",
+      "md5": "30694822f79510ac7781cc597956edfe",
+      "crc32": "3658ad8f",
+      "sha1": "2b00789fee7c0f1181f52c10bc08f2b429d47a8a",
       "format": "Metadata"
     },
     {
@@ -11943,9 +12698,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1154,
-  "item_last_updated": 1666703207,
-  "item_size": 63327427,
+  "files_count": 1227,
+  "item_last_updated": 1667221487,
+  "item_size": 66998348,
   "metadata": {
     "identifier": "mtvnews-2022",
     "collection": [
@@ -11962,21 +12717,10 @@
     "publicdate": "2022-07-18 03:27:44",
     "addeddate": "2022-07-18 03:27:44"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451674568,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 423545777,
+  "server": "ia801408.us.archive.org",
+  "uniq": 651150014,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666702885,
+  "created": 1667220699,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/0/items/hornelltribune-2022",
@@ -4407,31 +4407,775 @@
       "format": "JSON"
     },
     {
+      "name": "hornelltribune-2022-10-25T09:00:33.567942-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-25T09:00:33.567942-04:00.jpg",
+      "mtime": "1666704599",
+      "size": "9039",
+      "md5": "d0540910a0c2332f26f2c1357d424067",
+      "crc32": "b2235ac3",
+      "sha1": "cfcae3cc5ae826ec24c0891d4f8ad02f7d6482bf"
+    },
+    {
+      "name": "hornelltribune-2022-10-25T21:25:17.439926-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666747524",
+      "size": "24201",
+      "md5": "4504c39fd039a61040347a0614c11e4c",
+      "crc32": "f6dd4bde",
+      "sha1": "40d3bffc4bf1779c8207677b0674511f5d6bf3d4",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-25T21:25:17.439926-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666747526",
+      "size": "33039",
+      "md5": "493fce3443b1c56c30b0d0512e373ae3",
+      "crc32": "7305bb79",
+      "sha1": "d8453a85e37f2e7b2285bff53be45483dea46b48",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-25T21:25:17.439926-04:00.jpg",
+      "source": "original",
+      "mtime": "1666747523",
+      "size": "236607",
+      "md5": "918ca1e3139804794cafeb89688eb0cb",
+      "crc32": "68f83e0e",
+      "sha1": "34ce2c7b8cada6616ac058f1ff4e144155227765",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-25T21:25:17.439926-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666747528",
+      "size": "1530",
+      "md5": "814808b0a3ee9561261edee95c1bb209",
+      "crc32": "47c48ede",
+      "sha1": "c7cae6fe927938c325de13bdac8e1cddb3bd6a1d",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-25T21:25:17.439926-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666747529",
+      "size": "96902",
+      "md5": "4e7efb0cc18b6f4cd2830be66466319b",
+      "crc32": "28b93481",
+      "sha1": "bc460e5d84ce59f4e0bfd3a2695b9cce81012f24",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-25T21:25:17.439926-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-25T21:25:17.439926-04:00.jpg",
+      "mtime": "1666749292",
+      "size": "9088",
+      "md5": "ad875ddfc15bf3c61107176b386e6e12",
+      "crc32": "c2fa62d7",
+      "sha1": "21ad96320d9851a9f2197ce683af2aa2b8c332de"
+    },
+    {
+      "name": "hornelltribune-2022-10-26T09:01:44.700800-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666789309",
+      "size": "25101",
+      "md5": "c675d45a4c32e845819ffa3d76963ae5",
+      "crc32": "5ba66a9a",
+      "sha1": "92ffd5e9fc0efd7ac2f50956826117906913fd5a",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-26T09:01:44.700800-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666789312",
+      "size": "37956",
+      "md5": "10f22b63966a90d3afdc628fa7234c09",
+      "crc32": "ca9e504e",
+      "sha1": "ec7a104c768d38e7bf03a057aba4a2370ad87e41",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-26T09:01:44.700800-04:00.jpg",
+      "source": "original",
+      "mtime": "1666789308",
+      "size": "252940",
+      "md5": "ea77726a5ed330448f7573f72dd32fb4",
+      "crc32": "0a5e416f",
+      "sha1": "99f1c37a39e46866c0834babdda4b2fb89e98c31",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-26T09:01:44.700800-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666789315",
+      "size": "1531",
+      "md5": "ecc58068e68f3cf5f748b385011f7be2",
+      "crc32": "34e7b943",
+      "sha1": "ab74f5b0940fba27e650da5a3e71ea49244f5cde",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-26T09:01:44.700800-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666789317",
+      "size": "72622",
+      "md5": "62dabf83673b78cc4d61e9c42c49eb65",
+      "crc32": "8a17cf44",
+      "sha1": "66e43977fd11f2e3f49747af980aeab823a9175d",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-26T09:01:44.700800-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-26T09:01:44.700800-04:00.jpg",
+      "mtime": "1666790525",
+      "size": "9387",
+      "md5": "b0f18ee814a268c4938d29d0793e1c65",
+      "crc32": "099f1337",
+      "sha1": "9a72911c939b39e811b0d248780b6ff2e8b461fa"
+    },
+    {
+      "name": "hornelltribune-2022-10-26T21:22:32.261312-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666833755",
+      "size": "24151",
+      "md5": "1ae6e0966ef8889c5c7e6ac2e10cb121",
+      "crc32": "11460d86",
+      "sha1": "b107b3ac9a62a9ee093f02f011e0c6df315c65ef",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-26T21:22:32.261312-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666833757",
+      "size": "35327",
+      "md5": "6ea7053933d4fbae140df9ccfb9446fc",
+      "crc32": "ed382328",
+      "sha1": "27e191762d571fb14e1da0354ccd84cc07561ac0",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-26T21:22:32.261312-04:00.jpg",
+      "source": "original",
+      "mtime": "1666833753",
+      "size": "243470",
+      "md5": "7e52bc3a00c42e0324191a43c67dd7be",
+      "crc32": "49b02c81",
+      "sha1": "2b7303138bf94183c55fce8b73819b98944107ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-26T21:22:32.261312-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666833758",
+      "size": "1531",
+      "md5": "cea4b9aa4c4485b9182fc8e3030014ea",
+      "crc32": "9a29d7c9",
+      "sha1": "48418efaedf96520afd3c8057b252cf6c716b868",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-26T21:22:32.261312-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666833765",
+      "size": "87444",
+      "md5": "46a5618130d58e11550a9cf731bb7976",
+      "crc32": "a7bc0420",
+      "sha1": "704e3016721304e46272631b0cc6ce14e708e1c7",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-26T21:22:32.261312-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-26T21:22:32.261312-04:00.jpg",
+      "mtime": "1666857806",
+      "size": "9247",
+      "md5": "d8a11e1812cf7b580db001c22d62b834",
+      "crc32": "3eb0334c",
+      "sha1": "76946915205e0117a642ad11ad026759b559f486"
+    },
+    {
+      "name": "hornelltribune-2022-10-27T09:14:04.751462-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666876450",
+      "size": "23747",
+      "md5": "248ad40462677f1737f04edda3fffc8b",
+      "crc32": "f9e4e3ee",
+      "sha1": "a3a5105212ae59df609bd714a930cebedb8a5829",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-27T09:14:04.751462-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666876452",
+      "size": "36444",
+      "md5": "32ec5a20e7b603c8d5d00e28476afe75",
+      "crc32": "860fadc3",
+      "sha1": "e531e8e3e42d9e7622a85d8ff55803f9c2a3237b",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-27T09:14:04.751462-04:00.jpg",
+      "source": "original",
+      "mtime": "1666876448",
+      "size": "245064",
+      "md5": "0474734b566380bd4b831efec2d62215",
+      "crc32": "e40428f3",
+      "sha1": "2570eb7f7f4bbb436fc2ecdf77836426bc48110e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-27T09:14:04.751462-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666876454",
+      "size": "1531",
+      "md5": "a1980dc95ce36c9be61c68d0863477ca",
+      "crc32": "f35c6cbc",
+      "sha1": "442bd206189bbe0e224f61759fa594a38874bb32",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-27T09:14:04.751462-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666876456",
+      "size": "84939",
+      "md5": "6fb17e845d0e93504ec05464ebfb9684",
+      "crc32": "e3eded4d",
+      "sha1": "b41d6071f4228906a0247612453631e8226e80aa",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-27T09:14:04.751462-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-27T09:14:04.751462-04:00.jpg",
+      "mtime": "1666891204",
+      "size": "9306",
+      "md5": "480d95bfe987a1538a029a0618a0683d",
+      "crc32": "e65d9d97",
+      "sha1": "0ab8023b17c859c0feeb9c26b7b25308875184e5"
+    },
+    {
+      "name": "hornelltribune-2022-10-27T21:19:41.391287-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666919984",
+      "size": "24007",
+      "md5": "f98b0342169a87bf8cf7e67eb63cf6eb",
+      "crc32": "c2eddf54",
+      "sha1": "49d12ae13bda2a5fab09c52748cc8298a582cf61",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-27T21:19:41.391287-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666919986",
+      "size": "34024",
+      "md5": "b6b7019c6d872b630c5d06aded0a28aa",
+      "crc32": "20ebccaa",
+      "sha1": "4d518554885a22fdaffc86728da0807d84c59186",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-27T21:19:41.391287-04:00.jpg",
+      "source": "original",
+      "mtime": "1666919983",
+      "size": "241196",
+      "md5": "c5056ce398d5d397d3b6998f340258bc",
+      "crc32": "d5e48c8f",
+      "sha1": "268aa631cdc417aa8c2771ac2195975e12365a2e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-27T21:19:41.391287-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666919988",
+      "size": "1531",
+      "md5": "7f10b67c0f2438f5243b553e236505fa",
+      "crc32": "83e5575e",
+      "sha1": "a8f35f6f3ae547b4cfa5c1247feb947b9a2a5255",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-27T21:19:41.391287-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666919989",
+      "size": "104683",
+      "md5": "943d1033eb422d8306044bd5a34e5ec6",
+      "crc32": "0f3148c9",
+      "sha1": "8b421767a649993723239a2558c189bc7ec1228d",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-27T21:19:41.391287-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-27T21:19:41.391287-04:00.jpg",
+      "mtime": "1666921676",
+      "size": "9074",
+      "md5": "3a2e40ac4bdb180bf99bf51c574b6f3b",
+      "crc32": "c645678c",
+      "sha1": "dfaddb06bd00f1ea3cd981501f66e3abdaa9500f"
+    },
+    {
+      "name": "hornelltribune-2022-10-28T08:58:42.029912-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666961929",
+      "size": "23992",
+      "md5": "a631b21d91e67a7837e696a4bdd5b450",
+      "crc32": "0c93212f",
+      "sha1": "a0bf1d5e6fb8c0984347970f5f66fbb88348502c",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-28T08:58:42.029912-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666961930",
+      "size": "36920",
+      "md5": "2e85895d3e13df5d47195e5bfa87f2d3",
+      "crc32": "04d9f3d7",
+      "sha1": "eee9261f213eae3124c41803131630d2563fff1a",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-28T08:58:42.029912-04:00.jpg",
+      "source": "original",
+      "mtime": "1666961927",
+      "size": "257580",
+      "md5": "7228d71b1617ce2c841e716ea052ea20",
+      "crc32": "945db837",
+      "sha1": "c3f6768837098113371fceb61c969803f8673aaa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-28T08:58:42.029912-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666961933",
+      "size": "1530",
+      "md5": "be1febbe79e61171c081230e1de0435b",
+      "crc32": "a28470a5",
+      "sha1": "4f803ad10db4e9919b51a566249953acd43a9304",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-28T08:58:42.029912-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666961934",
+      "size": "255",
+      "md5": "964869bca1aa1a74a1f2f9e2454b7f00",
+      "crc32": "5430cb81",
+      "sha1": "36a365a1141cea094f4720da22f430a189367c07",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-28T08:58:42.029912-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-28T08:58:42.029912-04:00.jpg",
+      "mtime": "1666968015",
+      "size": "9387",
+      "md5": "42c33b94ebf52c676fea878bd01fa613",
+      "crc32": "c07c51f2",
+      "sha1": "ae5f43e2199dab53a2b20b2f824fe2ec8034b3bf"
+    },
+    {
+      "name": "hornelltribune-2022-10-28T21:18:58.955642-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667006342",
+      "size": "24047",
+      "md5": "bbafe54a5ba1cebe74f3ec98e66f38f0",
+      "crc32": "3c27422a",
+      "sha1": "1e6b4cc7264544e8564a494afeae190edfcd7d58",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-28T21:18:58.955642-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667006343",
+      "size": "37629",
+      "md5": "a111b3907fa67c0be7ea4ca547817007",
+      "crc32": "0894e24b",
+      "sha1": "fc59b5ee08c78b818393981e9a6fdcba17945b50",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-28T21:18:58.955642-04:00.jpg",
+      "source": "original",
+      "mtime": "1667006340",
+      "size": "251391",
+      "md5": "c61c771edf6034fa05ac6975fbb14936",
+      "crc32": "a175fb76",
+      "sha1": "74615bb58afea5dc615bcdd30c4615d24142ff46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-28T21:18:58.955642-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667006345",
+      "size": "1531",
+      "md5": "686589d421e1809b486b1c44d66dae5f",
+      "crc32": "ed85dfcf",
+      "sha1": "18ff303ceec27683a94b86d96899a79a97e628a8",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-28T21:18:58.955642-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667006346",
+      "size": "211",
+      "md5": "1524b3f795a90bc825034e25315b104c",
+      "crc32": "5062cb3d",
+      "sha1": "9f9ec615f1072a9bab8f27da8feff530f848328b",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-28T21:18:58.955642-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-28T21:18:58.955642-04:00.jpg",
+      "mtime": "1667007265",
+      "size": "9359",
+      "md5": "952df931c299cf54ce6a4025d93280ff",
+      "crc32": "963fde3a",
+      "sha1": "b97ad99f2923f3ab241fd0181d0ebf5a1edb289e"
+    },
+    {
+      "name": "hornelltribune-2022-10-29T08:52:03.636984-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667047928",
+      "size": "24218",
+      "md5": "517f847258b15f4aabc7bfaf16cd6ee1",
+      "crc32": "1ce87680",
+      "sha1": "ebec38e68fa7249ca898844e757172e22e2ad2cf",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-29T08:52:03.636984-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667047930",
+      "size": "43628",
+      "md5": "2d26b920c3347244dbd2745b549fe2d7",
+      "crc32": "09b04a66",
+      "sha1": "55d054c6f620a2991b6268f53101192b6a08c81d",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-29T08:52:03.636984-04:00.jpg",
+      "source": "original",
+      "mtime": "1667047927",
+      "size": "292787",
+      "md5": "992e49105529c1907bc36c001cec6ec7",
+      "crc32": "219e87c9",
+      "sha1": "157a98aac865e310769388f5e46a8b0118e86f3c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-29T08:52:03.636984-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667047932",
+      "size": "1531",
+      "md5": "0cb0f3bcc1bda8a74f84f6335c1e5af7",
+      "crc32": "d5a8c661",
+      "sha1": "f2b7c3e43e0c44ed3668da4072e2d664e48cdfb8",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-29T08:52:03.636984-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667047934",
+      "size": "88499",
+      "md5": "a2cc93d526d900b50921757d50fa56af",
+      "crc32": "2ea8cbae",
+      "sha1": "561d729c47a0a01873f99cdbf7d0f3e3ea7b3a2e",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-29T08:52:03.636984-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-29T08:52:03.636984-04:00.jpg",
+      "mtime": "1667050700",
+      "size": "9174",
+      "md5": "1e144c42154b240e2612f30c70f3dc57",
+      "crc32": "dcffa408",
+      "sha1": "7eda755c8911dbe314b277ccb8f821d8e075262e"
+    },
+    {
+      "name": "hornelltribune-2022-10-29T21:04:35.656375-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667091880",
+      "size": "24561",
+      "md5": "c32b5508db39a81e69149b5672859da0",
+      "crc32": "17c6471b",
+      "sha1": "fa86938b25441c03e57f89f9ba58d5d9ef131ad4",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-29T21:04:35.656375-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667091884",
+      "size": "37457",
+      "md5": "8a552cb606a5b7a84d00fce75d3a7768",
+      "crc32": "4b13c8fc",
+      "sha1": "fa671d0740b1743bf044c1c3fae5e48e65309dc9",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-29T21:04:35.656375-04:00.jpg",
+      "source": "original",
+      "mtime": "1667091878",
+      "size": "304821",
+      "md5": "9e85a8b0479929ea7e2403c00648e9db",
+      "crc32": "279a441d",
+      "sha1": "57b7040b2ef5762107b2ae6abe823d0e4defa1ed",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-29T21:04:35.656375-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667091886",
+      "size": "1531",
+      "md5": "2a60312d2d96646ea86713e267215f97",
+      "crc32": "da4748c7",
+      "sha1": "5009c445221b22390641c4e480645389cd9b02e2",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-29T21:04:35.656375-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667091887",
+      "size": "107970",
+      "md5": "193456bb65df9439f0cfe0b83cdd95a7",
+      "crc32": "27a02eac",
+      "sha1": "dbc7761e4693c1af68172bf085b4f6eaa22c5770",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-29T21:04:35.656375-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-29T21:04:35.656375-04:00.jpg",
+      "mtime": "1667093457",
+      "size": "9217",
+      "md5": "43e396e5da4d245f994258589220052d",
+      "crc32": "7de776e3",
+      "sha1": "775f75e56cc09062c6cfe6b04e4878e359533552"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T08:48:47.176778-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667134134",
+      "size": "24050",
+      "md5": "2d25f96dd297dfe9cfc497184db2d6be",
+      "crc32": "a3db68fc",
+      "sha1": "5ab5affa38e0ac04a1ca6241428c6ce3224d454c",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T08:48:47.176778-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667134135",
+      "size": "38254",
+      "md5": "9aadb4fdaaf850518d4c70338caee90b",
+      "crc32": "a441b339",
+      "sha1": "75d36a9395f361c0d168e34ade3132bbc3c03a85",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T08:48:47.176778-04:00.jpg",
+      "source": "original",
+      "mtime": "1667134132",
+      "size": "272128",
+      "md5": "7d159e03cdac956a76e5e12633f5dcd3",
+      "crc32": "a934949c",
+      "sha1": "86733cfc78f1daa7df735dda84f4e7107e7626b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T08:48:47.176778-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667134137",
+      "size": "1531",
+      "md5": "774908d88e95483fee00d55017a3335a",
+      "crc32": "a0f06e92",
+      "sha1": "301a6d10f5f2cb0f7ea98bd739f2ad2b2fab6643",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T08:48:47.176778-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667134138",
+      "size": "99391",
+      "md5": "88af13fb462cbe6646f7f07d8cff6c22",
+      "crc32": "289eea35",
+      "sha1": "9e186ce48917a1fc087ed357d35490e12a2b9061",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T08:48:47.176778-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-30T08:48:47.176778-04:00.jpg",
+      "mtime": "1667136559",
+      "size": "9541",
+      "md5": "0cf3eb27b094a9ad3ede2ceea527de6e",
+      "crc32": "487d85f5",
+      "sha1": "981518f086ea769daeeaccc1ae7052e77735a50e"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T21:10:03.544186-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667178606",
+      "size": "24904",
+      "md5": "6c17dc09b740b763809dd72776dc3572",
+      "crc32": "0af7428f",
+      "sha1": "75e519949d4fcaf9e3585a9fb0f0c7caad448737",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T21:10:03.544186-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667178607",
+      "size": "13997",
+      "md5": "b062b688799e4b11169701266f2111de",
+      "crc32": "0e7b09ea",
+      "sha1": "6821626196a951f3014c23b848ea2fe854762841",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T21:10:03.544186-04:00.jpg",
+      "source": "original",
+      "mtime": "1667178604",
+      "size": "260092",
+      "md5": "1f35a7334def338fa88214c6e3c0c92d",
+      "crc32": "42477d29",
+      "sha1": "30495f542c4a4afa47e575641dbf80eff965c341",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T21:10:03.544186-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667178608",
+      "size": "1531",
+      "md5": "ed964282b0833212c2f48ed99c222926",
+      "crc32": "aa4b9b51",
+      "sha1": "51cf5e98dc81f390d163731e3ad1600ef5665be4",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T21:10:03.544186-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667178610",
+      "size": "71752",
+      "md5": "f47e475027e863a5084b777605357b14",
+      "crc32": "e07013e0",
+      "sha1": "df385eedf53a04f0c7493e8f0cf651ea997f3292",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-30T21:10:03.544186-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hornelltribune-2022-10-30T21:10:03.544186-04:00.jpg",
+      "mtime": "1667180645",
+      "size": "9297",
+      "md5": "9fc08c01b5bac0e58b3081fdbf434cce",
+      "crc32": "ecaa8848",
+      "sha1": "ae0603583e8a261f4d3507581d3c2b8f52b9de82"
+    },
+    {
+      "name": "hornelltribune-2022-10-31T08:50:48.080226-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667220652",
+      "size": "23458",
+      "md5": "02780313299904891d8b6dfdb64f959f",
+      "crc32": "d808fbf6",
+      "sha1": "b219ebaafc87c1eac0d6cd09a36f05efc479d52c",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-31T08:50:48.080226-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667220654",
+      "size": "47484",
+      "md5": "b9e621b8d7dc6cda8daf02f8738d17ea",
+      "crc32": "67ef0b36",
+      "sha1": "60dfbd7d5b9c8a4e8e1a68e7eed7439acfe2f530",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-31T08:50:48.080226-04:00.jpg",
+      "source": "original",
+      "mtime": "1667220651",
+      "size": "287002",
+      "md5": "d0a63190539f5b26e5aca384b1164e61",
+      "crc32": "f35528fe",
+      "sha1": "e74f4295111e532b1e22356b719ca9d9c64c722f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hornelltribune-2022-10-31T08:50:48.080226-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667220655",
+      "size": "1531",
+      "md5": "f0a095ec0a2e84b14bc3676422bd4b1c",
+      "crc32": "b4ceb023",
+      "sha1": "9a52b4fb94b0a1a402e3a8b0add5ec0d985ce13e",
+      "format": "JSON"
+    },
+    {
+      "name": "hornelltribune-2022-10-31T08:50:48.080226-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667220657",
+      "size": "77865",
+      "md5": "1de6f9b9d37879e62cf032eb95174e71",
+      "crc32": "922477d1",
+      "sha1": "d65e22fc486c8940eaba311d70d43ad2db9dbfd6",
+      "format": "JSON"
+    },
+    {
       "name": "hornelltribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cdae8ba1c5128ece9c2a06e4779ac9913fd100d3",
-      "mtime": "1666702883",
-      "size": "93760",
-      "md5": "240df5adda8b670f047ac4579bc55b80",
-      "crc32": "07e0e2a2",
-      "sha1": "e4a212100b1a9b0c9782b5418d9d284cbbc08a60",
+      "btih": "797ee246c3d3925a397e96da000f86f1372d4565",
+      "mtime": "1667220697",
+      "size": "109354",
+      "md5": "a9bc3153abb86a3f59a6b1bd8336eddb",
+      "crc32": "bd9883cb",
+      "sha1": "9b278602c946a1c00a9f8cd1dbd4b746e773def2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hornelltribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c1c5bd58e9a6e002fe7f178e22b7bd29",
+      "md5": "2897f0656fe089610ef4670136959dd2",
       "summation": "md5"
     },
     {
       "name": "hornelltribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666702847",
-      "size": "569344",
-      "md5": "cc03e7d6e806cc1d0c225c16751243a6",
-      "crc32": "c0a278f6",
-      "sha1": "f60f84f77080c269127087ae20107eaf14c1a67b",
+      "mtime": "1667220660",
+      "size": "659456",
+      "md5": "e0a7d2bcae50a8eada8da89cf413d324",
+      "crc32": "c0531f5c",
+      "sha1": "07fbbbc25d280843918f2aab5e298a96b7b14a2b",
       "format": "Metadata"
     },
     {
@@ -4445,9 +5189,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 430,
-  "item_last_updated": 1666702883,
-  "item_size": 31372147,
+  "files_count": 502,
+  "item_last_updated": 1667220697,
+  "item_size": 36367546,
   "metadata": {
     "identifier": "hornelltribune-2022",
     "collection": [
@@ -4469,15 +5213,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451666388,
+      "task_id": 3457780645,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 716669466,
+  "uniq": 745735196,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

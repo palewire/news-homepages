@@ -1,5 +1,6 @@
 {
-  "created": 1666703112,
+  "conflict": 1667221283,
+  "created": 1667221283,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/le_figaro-2022",
@@ -25427,31 +25428,1147 @@
       "format": "JSON"
     },
     {
+      "name": "le_figaro-2022-10-25T15:03:11.957398+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-25T15:03:11.957398+02:00.jpg",
+      "mtime": "1666705932",
+      "size": "9634",
+      "md5": "2fc52b1eab5070a48193ea2c11d9f98b",
+      "crc32": "303c3e60",
+      "sha1": "6bf5fe55e4461748d88ca32c8b4924d629772854"
+    },
+    {
+      "name": "le_figaro-2022-10-26T03:28:57.270013+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666747764",
+      "size": "99329",
+      "md5": "ce55883ba7e9f816a77452addd372679",
+      "crc32": "2afa7786",
+      "sha1": "aee902064325006c2dda00f061b21e22adc1694f",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-26T03:28:57.270013+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666747766",
+      "size": "116271",
+      "md5": "4d7f78ddd16adaead780af3cb2ccec9d",
+      "crc32": "06fb52e2",
+      "sha1": "284c548f2a22142cc8b23f98923b0729f78ac6d0",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-26T03:28:57.270013+02:00.jpg",
+      "source": "original",
+      "mtime": "1666747762",
+      "size": "316036",
+      "md5": "c35060abe2de59d861dcfd163ef7bcd4",
+      "crc32": "e297164b",
+      "sha1": "7046920921592e2991788fbb2541e878af07543e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-26T03:28:57.270013+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666747768",
+      "size": "1468",
+      "md5": "1b2b380f2cb5e1897bc3c0139d62f250",
+      "crc32": "a7a12021",
+      "sha1": "f1657475d8acb38756456bcd0df3442a596dacf4",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-26T03:28:57.270013+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666747770",
+      "size": "32355",
+      "md5": "1958e3c987a208f034a421df1c0a58a3",
+      "crc32": "eef342fa",
+      "sha1": "57a877988c5d257f84c01aef19f195eeb0fbe658",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-26T03:28:57.270013+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-26T03:28:57.270013+02:00.jpg",
+      "mtime": "1666751283",
+      "size": "10047",
+      "md5": "da0adbeead132d5b716b20ce761ba3ba",
+      "crc32": "e0e663c9",
+      "sha1": "cc2cd2334e8de56a801867515b73d5ab1c6356e2"
+    },
+    {
+      "name": "le_figaro-2022-10-26T10:44:32.789948+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666773896",
+      "size": "95527",
+      "md5": "2715a1f47b5329cc54878e1bafcc16d2",
+      "crc32": "3fa0fd36",
+      "sha1": "719930e79419f4c3819932db6cc1b8d8a91e6249",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-26T10:44:32.789948+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666773898",
+      "size": "113490",
+      "md5": "446d46aca01bb441ce509838979647d8",
+      "crc32": "21dff9e2",
+      "sha1": "180209e1942f81f9150e69440364e3c705b2da25",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-26T10:44:32.789948+02:00.jpg",
+      "source": "original",
+      "mtime": "1666773894",
+      "size": "280946",
+      "md5": "706600739ad39af3be341b3b334ff17c",
+      "crc32": "a235fa67",
+      "sha1": "6f7418c345e6ee5aecc37b6844c1464b46220beb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-26T10:44:32.789948+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666773899",
+      "size": "1468",
+      "md5": "42e1eaf4fe34cf3b76ead7aef0136968",
+      "crc32": "8c013f63",
+      "sha1": "3bba721acf82fe2607456867be5364d2cdd18dd3",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-26T10:44:32.789948+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666773901",
+      "size": "31619",
+      "md5": "43922a42069324038239c450688e1bf1",
+      "crc32": "b289624d",
+      "sha1": "25be0d6e71abf67a01b86e13243feac08f42e3b0",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-26T10:44:32.789948+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-26T10:44:32.789948+02:00.jpg",
+      "mtime": "1666775391",
+      "size": "9588",
+      "md5": "e8423e69ff34848566017ecfbfe0c651",
+      "crc32": "12185617",
+      "sha1": "e238e44bb72407dba45e281018130934cb8698f4"
+    },
+    {
+      "name": "le_figaro-2022-10-26T15:04:47.382476+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666789500",
+      "size": "96358",
+      "md5": "acccd2ba299cb5702d8c82e0e5c75f6f",
+      "crc32": "2ba7f94c",
+      "sha1": "68f7050af68ca6f40e19335f75b2f2c7ff34d1f5",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-26T15:04:47.382476+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666789502",
+      "size": "114308",
+      "md5": "e576abf7996092b5b2e803e796fef45c",
+      "crc32": "174c9bc0",
+      "sha1": "714699fc0ed3d1db3aeb2ad6a6a66139895f63b7",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-26T15:04:47.382476+02:00.jpg",
+      "source": "original",
+      "mtime": "1666789497",
+      "size": "340583",
+      "md5": "45eec8b42d6760f306f4913ac31ec365",
+      "crc32": "22d234f1",
+      "sha1": "2ba5441e66da94a0f0305d8597366ceb7b45764e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-26T15:04:47.382476+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666789504",
+      "size": "1468",
+      "md5": "73c05c74334a3f13f824a3dda90a181d",
+      "crc32": "c3530cd4",
+      "sha1": "aa2a95809d01f1b37bbb975bbe0057ca755e260b",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-26T15:04:47.382476+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666789506",
+      "size": "9280",
+      "md5": "2e2e7cb27224dff61e11313495537860",
+      "crc32": "d2fc5dfb",
+      "sha1": "682044a13bf84b58e4169bf0205a7ea7e9769924",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-26T15:04:47.382476+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-26T15:04:47.382476+02:00.jpg",
+      "mtime": "1666790637",
+      "size": "9967",
+      "md5": "344f96be6f0243d50806612089613afc",
+      "crc32": "4ad43003",
+      "sha1": "ac0848f326dd7bbadf0c0bf3130b6af26af78208"
+    },
+    {
+      "name": "le_figaro-2022-10-27T03:24:54.647980+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666833899",
+      "size": "96777",
+      "md5": "ebd56feb5602bebe1b914613be81cce3",
+      "crc32": "b3d049e8",
+      "sha1": "cf31587c6daa3979a162bfe90bc8b69ebca344c1",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-27T03:24:54.647980+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666833909",
+      "size": "115800",
+      "md5": "03a21b87988d16fc9c7b1154b9453a45",
+      "crc32": "a6da197e",
+      "sha1": "4592840b4f8805d4497d9173c58306b803aa12f6",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-27T03:24:54.647980+02:00.jpg",
+      "source": "original",
+      "mtime": "1666833896",
+      "size": "318388",
+      "md5": "f7a27865d9772b25598d3983ce32b46f",
+      "crc32": "eedb65e0",
+      "sha1": "38e4ae61e1faed2f353e4e1fa6ddf5723f223510",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-27T03:24:54.647980+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666833918",
+      "size": "1467",
+      "md5": "f929258083013ce9a0324f3f07df6f9a",
+      "crc32": "4f952dec",
+      "sha1": "7e6a6c1e2d081565af93386da05e517b3bfeade2",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-27T03:24:54.647980+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666833920",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-27T03:24:54.647980+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-27T03:24:54.647980+02:00.jpg",
+      "mtime": "1666858097",
+      "size": "10008",
+      "md5": "9c3203460a147604d7370ae61c1ef252",
+      "crc32": "19faf918",
+      "sha1": "48bd4ca4d55a7ffddc2db67a321304bf8cef8a15"
+    },
+    {
+      "name": "le_figaro-2022-10-27T10:21:20.729998+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666858883",
+      "size": "96152",
+      "md5": "ae5764b26a13ae97f3f6ab00789bc4e8",
+      "crc32": "61623145",
+      "sha1": "76a2dfd447ca23b61ddb0497e61522292a7797a4",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-27T10:21:20.729998+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666858885",
+      "size": "114733",
+      "md5": "cb75ec6baa5d0746d1c18babc0270286",
+      "crc32": "b62b89a7",
+      "sha1": "56fa88add0b64612a1a097cb0e5fe9690975f363",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-27T10:21:20.729998+02:00.jpg",
+      "source": "original",
+      "mtime": "1666858882",
+      "size": "303136",
+      "md5": "6345cd3221a6e07483b12fb6dd3ea783",
+      "crc32": "58facd04",
+      "sha1": "fe88d00667f7d9abe0b04647c45efd7ef3c895d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-27T10:21:20.729998+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666858888",
+      "size": "1468",
+      "md5": "d858ef6695d50ff78e7fd85a74ce8545",
+      "crc32": "0f39cc5b",
+      "sha1": "637a41c48090139bb07a5dcf4ac8a4f9be72a96e",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-27T10:21:20.729998+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666858890",
+      "size": "31670",
+      "md5": "f2c9d79bbb865534c2141d54a78aa2b6",
+      "crc32": "ade2212e",
+      "sha1": "f85b8d177af079374593de0ac7377c999d8b6dac",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-27T10:21:20.729998+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-27T10:21:20.729998+02:00.jpg",
+      "mtime": "1666876701",
+      "size": "9756",
+      "md5": "d5dfb552bf04238742153dde094898dc",
+      "crc32": "e56e781a",
+      "sha1": "fc882290a2a37caa67b73f8dda7ac3720937173f"
+    },
+    {
+      "name": "le_figaro-2022-10-27T15:16:55.731658+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666876630",
+      "size": "96910",
+      "md5": "bd92a8675752382deb93d64710670641",
+      "crc32": "391ea885",
+      "sha1": "65eb422269c40b2a761f4f90fae424881f85413d",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-27T15:16:55.731658+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666876632",
+      "size": "116633",
+      "md5": "cb20cd66aaf433401acfc8ab3609e030",
+      "crc32": "3be047cb",
+      "sha1": "486bc7757a7640872ca91f47303706bacb4336e2",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-27T15:16:55.731658+02:00.jpg",
+      "source": "original",
+      "mtime": "1666876628",
+      "size": "326263",
+      "md5": "8a56d71e1dc4e11a252a5ab20ad86d83",
+      "crc32": "0857fca0",
+      "sha1": "4e83e6f87bd6680ea28c37a706b984ab3abe3d09",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-27T15:16:55.731658+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666876634",
+      "size": "1468",
+      "md5": "6fb3169b0d1e280b6e6598ac9be3ba43",
+      "crc32": "b3ed4bf3",
+      "sha1": "e1905e6f5363df3e0b1e436c85c2eeaa8a400302",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-27T15:16:55.731658+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666876636",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-27T15:16:55.731658+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-27T15:16:55.731658+02:00.jpg",
+      "mtime": "1666891552",
+      "size": "9874",
+      "md5": "b2a968ea94c440e004b261b11aef9e5f",
+      "crc32": "0cee090e",
+      "sha1": "804b5160ee977a7cb9367173c15c333a93d3f5bc"
+    },
+    {
+      "name": "le_figaro-2022-10-28T03:23:32.915783+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666920216",
+      "size": "97616",
+      "md5": "6ba1a6aec09bf479d096fd0573a16c72",
+      "crc32": "acfb6d50",
+      "sha1": "42ada2e8edb658592a3f3d1060afdff345b471d6",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-28T03:23:32.915783+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666920217",
+      "size": "115829",
+      "md5": "9ac28f2c65415479d3ffcfd53a97d2cf",
+      "crc32": "6951a083",
+      "sha1": "9e42580ec94fb9f0e8f471f1be553112a1677972",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-28T03:23:32.915783+02:00.jpg",
+      "source": "original",
+      "mtime": "1666920214",
+      "size": "320693",
+      "md5": "af4225ef851bb625156904860756d11e",
+      "crc32": "f709058a",
+      "sha1": "dcfff2936d1ab08f6b2786304dbe4576637f9fe5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-28T03:23:32.915783+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666920219",
+      "size": "1468",
+      "md5": "4b3a24fa76ccb7356765fc16c6e30bec",
+      "crc32": "3c803daa",
+      "sha1": "e217774f14dbfbdeb66de6ddb6b44c1e4fa60004",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-28T03:23:32.915783+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666920221",
+      "size": "31925",
+      "md5": "9bf69dc16df36b2563c71d250e0dfa61",
+      "crc32": "190e0abf",
+      "sha1": "760ac9eff08157c2dff8a9016311bb1d1b2512ad",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-28T03:23:32.915783+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-28T03:23:32.915783+02:00.jpg",
+      "mtime": "1666922586",
+      "size": "10075",
+      "md5": "3c16016163815e29e4a1e57b8a4ff0e8",
+      "crc32": "2cb06e6c",
+      "sha1": "c52efcc01c354b2845088d1fce29b90cae85a8f4"
+    },
+    {
+      "name": "le_figaro-2022-10-28T11:16:33.297820+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666948597",
+      "size": "98282",
+      "md5": "d6d209b9f17da2db87d385c2aeef4780",
+      "crc32": "179b1c1f",
+      "sha1": "fbb21d9498c727a0a8f04b9c52a2bd5b1891e1ad",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-28T11:16:33.297820+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666948598",
+      "size": "115747",
+      "md5": "da6d519d69dd361efddae9ba13266c75",
+      "crc32": "4aa09cbc",
+      "sha1": "aef1f128d62ac1cdf162d516d3d616e6cd854eb4",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-28T11:16:33.297820+02:00.jpg",
+      "source": "original",
+      "mtime": "1666948595",
+      "size": "328197",
+      "md5": "0ee02c98d1c0f66ed48cae89c543a0fe",
+      "crc32": "f891729e",
+      "sha1": "81e260f688f425a1a161e21d188853ff955e7dc4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-28T11:16:33.297820+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666948600",
+      "size": "1468",
+      "md5": "dee177f5bcd7993ebbe0adf725d7dfb5",
+      "crc32": "6b23adec",
+      "sha1": "4ad5a5b05d45d35b2dd21196a4ea845bbcf59c27",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-28T11:16:33.297820+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666948602",
+      "size": "231",
+      "md5": "ec7401426c7a8b6b807b9c15ee20fb80",
+      "crc32": "2a2b363f",
+      "sha1": "b1c2af7952741af8a6e747948390ded049fa213b",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-28T11:16:33.297820+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-28T11:16:33.297820+02:00.jpg",
+      "mtime": "1666953082",
+      "size": "10044",
+      "md5": "d1320f1307abef7eb8d59282f86c48d8",
+      "crc32": "79bcaf43",
+      "sha1": "a142b63343c6b2213eff9059f7e2ac8ecbbcd2b7"
+    },
+    {
+      "name": "le_figaro-2022-10-28T15:02:50.649072+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666962175",
+      "size": "98670",
+      "md5": "9aada320cbe8237ec071cad4497cdb20",
+      "crc32": "c1aa222a",
+      "sha1": "b60be772ae5102a274f64627fb2500755eb8d356",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-28T15:02:50.649072+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666962177",
+      "size": "116687",
+      "md5": "225fb07ccc2f404ed4f3d56655767985",
+      "crc32": "b6f90deb",
+      "sha1": "e4e71dc0980cfae73a2008213d261151a0aa08d9",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-28T15:02:50.649072+02:00.jpg",
+      "source": "original",
+      "mtime": "1666962172",
+      "size": "337645",
+      "md5": "5c9eed7ff3b8682581a8ac12399c732d",
+      "crc32": "86107f05",
+      "sha1": "131827de5a69d5a83195f7fceea57b0bf8c71f36",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-28T15:02:50.649072+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666962179",
+      "size": "1468",
+      "md5": "d0869dc643c426231e934b37e9eccac1",
+      "crc32": "b442ac54",
+      "sha1": "09a140c49dee1aa14327ce94cd75aaba1780935d",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-28T15:02:50.649072+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666962181",
+      "size": "246",
+      "md5": "9b1c459305d22be4f348d9b51f103735",
+      "crc32": "eb1ec439",
+      "sha1": "9d7e3a787ae71345fc6d3ce63418403441d1644a",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-28T15:02:50.649072+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-28T15:02:50.649072+02:00.jpg",
+      "mtime": "1666968459",
+      "size": "9861",
+      "md5": "544242fee0d257722a2a96a462d623f2",
+      "crc32": "4bf3aa91",
+      "sha1": "a993a53e8f79a41195934d163530a2b0d4d520bd"
+    },
+    {
+      "name": "le_figaro-2022-10-29T03:22:22.282871+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667006544",
+      "size": "97604",
+      "md5": "a23c4119a91cb9152782461b3f0be7d3",
+      "crc32": "dca57aea",
+      "sha1": "85c618af1ad94d2d105866b0bf3eaf71f62df193",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-29T03:22:22.282871+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667006550",
+      "size": "113985",
+      "md5": "fe409f4c4ba46e7b5152b73e65da6b58",
+      "crc32": "c24a7b41",
+      "sha1": "8058d97b563dfa857fa57c58787080842f8c37d2",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-29T03:22:22.282871+02:00.jpg",
+      "source": "original",
+      "mtime": "1667006543",
+      "size": "304816",
+      "md5": "20db3558a9ea4f3829ba71af2f423f76",
+      "crc32": "1c859c8d",
+      "sha1": "e1985a20d97d3d67f8ed27bfb5c06127d6f46a0f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-29T03:22:22.282871+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667006551",
+      "size": "1458",
+      "md5": "bbd9cc3c74d0cb593906acb2c2c23eba",
+      "crc32": "7362fe54",
+      "sha1": "e5633e377a9c3847c344bb3838550c9ec1b74a56",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-29T03:22:22.282871+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667006553",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-29T03:22:22.282871+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-29T03:22:22.282871+02:00.jpg",
+      "mtime": "1667007684",
+      "size": "9669",
+      "md5": "38eb1fc6626da953227813ffc67a1276",
+      "crc32": "2c8c72b4",
+      "sha1": "e951d0984bac9dec286e00748d9ca6477686ebb9"
+    },
+    {
+      "name": "le_figaro-2022-10-29T10:17:09.636592+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667031442",
+      "size": "100398",
+      "md5": "b74ea4bad586f50ab07f2fafa5dd1407",
+      "crc32": "1a73d546",
+      "sha1": "e2cdc24b40b1897cdbdd8ec28f692096689c5a22",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-29T10:17:09.636592+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667031445",
+      "size": "115071",
+      "md5": "7100cf2e8d2f43241b928b0a4c4c85f2",
+      "crc32": "1935cfb1",
+      "sha1": "b3fb35b9b76a88a88f0e6f5130fdcc345c839727",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-29T10:17:09.636592+02:00.jpg",
+      "source": "original",
+      "mtime": "1667031440",
+      "size": "287516",
+      "md5": "be52c3ced5b202644fb88a9f0cb53ba4",
+      "crc32": "604eedf5",
+      "sha1": "2997da55245509d4f479cd12cc29844020dfa4a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-29T10:17:09.636592+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667031447",
+      "size": "1468",
+      "md5": "0d75d6b3edcbe38571a4a6ee5e6b4324",
+      "crc32": "a8c64ddf",
+      "sha1": "5248ea2e286cc05022e4a597deb0ef88efc523d2",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-29T10:17:09.636592+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667031449",
+      "size": "33900",
+      "md5": "ae8342aa690e0d69df946a88f011a194",
+      "crc32": "2b933b85",
+      "sha1": "612c79a134ccd73e585cd8747dd8576ec4d0e080",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-29T10:17:09.636592+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-29T10:17:09.636592+02:00.jpg",
+      "mtime": "1667032223",
+      "size": "10083",
+      "md5": "d43ffdf52ee79a28444266b8ea71a473",
+      "crc32": "5602a8b8",
+      "sha1": "cdba802226c3c13158f4670fea7dc934350b126e"
+    },
+    {
+      "name": "le_figaro-2022-10-29T14:54:27.152881+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667048070",
+      "size": "100637",
+      "md5": "66480c7ecd1d7759d0c1c6a35a12f9e9",
+      "crc32": "2dd1cf0f",
+      "sha1": "0b5eabef1ea1bb4f9e2fdd98c16fa50fe42b9546",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-29T14:54:27.152881+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667048072",
+      "size": "116914",
+      "md5": "e8e2f05854111ef416e6439d50efa79b",
+      "crc32": "43804c51",
+      "sha1": "516bc3922827a02cf4122d92054c3f5bac1176e7",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-29T14:54:27.152881+02:00.jpg",
+      "source": "original",
+      "mtime": "1667048068",
+      "size": "298673",
+      "md5": "aaa1aaf09f03329f3074d25c63569b5b",
+      "crc32": "879e7ea7",
+      "sha1": "988e624ddb3e7683d8cdad34c8429fccb7a2df44",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-29T14:54:27.152881+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667048077",
+      "size": "1468",
+      "md5": "713db07f83fb4fe66ee6e53631ba95ac",
+      "crc32": "2def1630",
+      "sha1": "c30ee0dc9b5b89cf9affe8480d885a610ddca5a1",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-29T14:54:27.152881+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667048079",
+      "size": "51398",
+      "md5": "60c10071b5f67cbd0101b57ece74745f",
+      "crc32": "811aeebe",
+      "sha1": "2da87bc7ce5c0528187f91818ddfa2ba87cb2fbc",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-29T14:54:27.152881+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-29T14:54:27.152881+02:00.jpg",
+      "mtime": "1667050843",
+      "size": "9481",
+      "md5": "692afaf97f408a7b9d682650c2ce1e87",
+      "crc32": "e6508660",
+      "sha1": "0ab5a1b19be27c4a4c5d44374e0ff3b6ddcda7f5"
+    },
+    {
+      "name": "le_figaro-2022-10-30T02:07:07.671745+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667092030",
+      "size": "99477",
+      "md5": "ef3a8167a3fa3f8e9febe97101770647",
+      "crc32": "de5819b6",
+      "sha1": "76d0f353fdcebb4c0f486b6e85972fbd41fdc0ec",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-30T02:07:07.671745+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667092032",
+      "size": "116317",
+      "md5": "b691cc99b9a278b4f04f847d781a82d3",
+      "crc32": "93754cd7",
+      "sha1": "ca4b624d474b1c7baa71af081d82cb9680c7a58c",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-30T02:07:07.671745+01:00.jpg",
+      "source": "original",
+      "mtime": "1667092029",
+      "size": "298076",
+      "md5": "fd4abb05f779399d77ed2433b06248e4",
+      "crc32": "31f61988",
+      "sha1": "2a413e82d746f686cbfa5894a520c85dbdb6a7a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-30T02:07:07.671745+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667092033",
+      "size": "1468",
+      "md5": "7c508d78a0960e38c1c41b5755c3d3ff",
+      "crc32": "cd91492d",
+      "sha1": "332cbf33bdffa21692dfd18c4d6a3ed07da66d2c",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-30T02:07:07.671745+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667092037",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-30T02:07:07.671745+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-30T02:07:07.671745+01:00.jpg",
+      "mtime": "1667095228",
+      "size": "9790",
+      "md5": "2cc754ce8c660954bce66f07f96ec43c",
+      "crc32": "6389aec1",
+      "sha1": "f3b173c38f5b5ef780e9be93fb678b0c69d3705a"
+    },
+    {
+      "name": "le_figaro-2022-10-30T09:25:01.942568+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667118313",
+      "size": "100453",
+      "md5": "6a7dc340795d54fb7b514fda6dc54302",
+      "crc32": "e312907a",
+      "sha1": "700696112f94a3cdda8e63fa19662e144758427d",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-30T09:25:01.942568+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667118315",
+      "size": "116982",
+      "md5": "70f018d757333f49014150417e8833be",
+      "crc32": "fcf1d9a8",
+      "sha1": "e758179750d1fcf7c48f15e55fed7b2a19573954",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-30T09:25:01.942568+01:00.jpg",
+      "source": "original",
+      "mtime": "1667118312",
+      "size": "292089",
+      "md5": "65ccebf659783f00d9f0f4e75a94116f",
+      "crc32": "ba0110c6",
+      "sha1": "f37712754dc10ba59c295205193452e4557a259f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-30T09:25:01.942568+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667118317",
+      "size": "1468",
+      "md5": "353aeb94906e69dd217bdc9ffd153f7a",
+      "crc32": "29cc4cdd",
+      "sha1": "8d1690992c22c2747b9ea8c10e21612dc6fc663a",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-30T09:25:01.942568+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667118319",
+      "size": "231",
+      "md5": "db8ac213b02c0bb9826c77ae0e82d2cc",
+      "crc32": "0118bd2f",
+      "sha1": "8166800b09711bacd412a804bd552ca3b54aa401",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-30T09:25:01.942568+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-30T09:25:01.942568+01:00.jpg",
+      "mtime": "1667119112",
+      "size": "9915",
+      "md5": "235abce7f22f2d7ea893bbca520bc806",
+      "crc32": "c2cdca86",
+      "sha1": "cdc5f7b32c413adb7f249fbbf26c1f838b151d2f"
+    },
+    {
+      "name": "le_figaro-2022-10-30T13:51:33.308105+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667134298",
+      "size": "99052",
+      "md5": "9c342cd95804e25269b04654a689b7e3",
+      "crc32": "d353d57f",
+      "sha1": "563f688eb95ee3b50f51250f06e5847224749422",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-30T13:51:33.308105+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667134300",
+      "size": "116979",
+      "md5": "a6ffb019ef73b186a596a94818825fc5",
+      "crc32": "9f85b2e6",
+      "sha1": "d157a56fc807017d79b6521f8e00d88e474b5759",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-30T13:51:33.308105+01:00.jpg",
+      "source": "original",
+      "mtime": "1667134295",
+      "size": "308587",
+      "md5": "debf323c41b9e13bec3df17958157b44",
+      "crc32": "078f179d",
+      "sha1": "3eb4dff0937543b048ef24cb9ffcab73758347e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-30T13:51:33.308105+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667134302",
+      "size": "1468",
+      "md5": "ca48239f0bf58d2c5d58a2e838703db0",
+      "crc32": "b069c497",
+      "sha1": "e6dbef62eb71392e0374139d3158cf3233552982",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-30T13:51:33.308105+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667134304",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-30T13:51:33.308105+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-30T13:51:33.308105+01:00.jpg",
+      "mtime": "1667135558",
+      "size": "10049",
+      "md5": "34fc88538623a52a5b6ffaab90ef36dd",
+      "crc32": "33be3e05",
+      "sha1": "84af3e4db4706d504c15425608e1fcd08241f13d"
+    },
+    {
+      "name": "le_figaro-2022-10-31T02:11:44.603433+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667178707",
+      "size": "96565",
+      "md5": "00bf52cb2ad52db1dadab6b2770b1a32",
+      "crc32": "17437b45",
+      "sha1": "acad9e99c67b73b456db0ee51ea8fd9dfcb36fe0",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-31T02:11:44.603433+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667178708",
+      "size": "111625",
+      "md5": "f891936e249f7c251b254df59c75a8e5",
+      "crc32": "539286f2",
+      "sha1": "c472fb684d04b47d8dd00e75b402eb809d03f9f8",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-31T02:11:44.603433+01:00.jpg",
+      "source": "original",
+      "mtime": "1667178705",
+      "size": "317166",
+      "md5": "19c9737b6a3b8ba5b2227283a98ef1d4",
+      "crc32": "fcb1f0ac",
+      "sha1": "cd3ef95aef822594556c6580050a96e5ee77de64",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-31T02:11:44.603433+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667178710",
+      "size": "1467",
+      "md5": "bef1a1b916bb91d8fe56b15ec0d13dbc",
+      "crc32": "03347a3f",
+      "sha1": "abb39326fa3353723061815f8596214cebd32b41",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-31T02:11:44.603433+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667178712",
+      "size": "231",
+      "md5": "9ea6a01765f7c8ac8fc92a18800f9a7f",
+      "crc32": "a1994c2d",
+      "sha1": "eca92dc99384240e9d41f4cc7cd5acef9d4190ec",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-31T02:11:44.603433+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-31T02:11:44.603433+01:00.jpg",
+      "mtime": "1667179452",
+      "size": "9927",
+      "md5": "3f8bd53119e02a40b8cc62997194bbdf",
+      "crc32": "f154fcd9",
+      "sha1": "84b367a8aa0abb266fd35f9d5dae7b2088bc4b1f"
+    },
+    {
+      "name": "le_figaro-2022-10-31T09:17:39.890162+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667204272",
+      "size": "96877",
+      "md5": "62ea52392f5ab0cd35d75d6a20fb673e",
+      "crc32": "c8fa2967",
+      "sha1": "506289611146c6f469c9555b872cfe9ca02699d8",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-31T09:17:39.890162+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667204274",
+      "size": "112064",
+      "md5": "9d31bdb2ed9f96582d58b1164cea9fd9",
+      "crc32": "489e4b8a",
+      "sha1": "1027fd14730ba12fa8bf50325614279d4d25e6c6",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-31T09:17:39.890162+01:00.jpg",
+      "source": "original",
+      "mtime": "1667204270",
+      "size": "286604",
+      "md5": "cb5071fa31d97a87afebaa82a65c90d2",
+      "crc32": "108d54ea",
+      "sha1": "87a7d834d1fcfe871791cb83acb64594e7460abd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-31T09:17:39.890162+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667204276",
+      "size": "1468",
+      "md5": "5242eb647a158d9dd7c356c380c51bde",
+      "crc32": "f136bd85",
+      "sha1": "6b977a8bb9628cc7673e1af59b9e8efe83e0f7e9",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-31T09:17:39.890162+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667204277",
+      "size": "29791",
+      "md5": "64e859f3275ae427082a4cda2c49b045",
+      "crc32": "119cfa96",
+      "sha1": "2155fe92157172ceea3aaf614b6843d150c6379e",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-31T09:17:39.890162+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-10-31T09:17:39.890162+01:00.jpg",
+      "mtime": "1667205231",
+      "size": "9555",
+      "md5": "16386df75c35c29e91766efe75075e56",
+      "crc32": "4b3c80c2",
+      "sha1": "341db4ec2eb3dde1d61aa140c2c7e0de71bda0b5"
+    },
+    {
+      "name": "le_figaro-2022-10-31T13:55:17.551674+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667220962",
+      "size": "97022",
+      "md5": "c0e636d423c09752fbb47d738c65661f",
+      "crc32": "0d85b8eb",
+      "sha1": "44d3d870f60f18b8dd6195657bbdd71b884d98a3",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-31T13:55:17.551674+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667220964",
+      "size": "112850",
+      "md5": "2f8b8119430be29e5c72d38200428a01",
+      "crc32": "e8b001f3",
+      "sha1": "3cf17d48e24fd09ebe21bcb71f1e171c3c871e19",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-31T13:55:17.551674+01:00.jpg",
+      "source": "original",
+      "mtime": "1667220961",
+      "size": "361979",
+      "md5": "054bbf4561e68995c349b7939d32fe76",
+      "crc32": "3485e3c9",
+      "sha1": "985529a88fffac983112cab3b0d3d189604505f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "le_figaro-2022-10-31T13:55:17.551674+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667220966",
+      "size": "1467",
+      "md5": "af4c4c43265aa51dd7631e3e3bd7bf35",
+      "crc32": "d788d183",
+      "sha1": "b94a4e7a2ab929349c0c83299f4e0f76446ebebb",
+      "format": "JSON"
+    },
+    {
+      "name": "le_figaro-2022-10-31T13:55:17.551674+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667220968",
+      "size": "230",
+      "md5": "802f077f362319455113f419e1127ad5",
+      "crc32": "862d06e7",
+      "sha1": "ba5c54b916720974e2512ef8298004737f488e63",
+      "format": "JSON"
+    },
+    {
       "name": "le_figaro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6ea1a1062dfeb1008fcd4d1f78f83683b7841627",
-      "mtime": "1666703102",
-      "size": "521671",
-      "md5": "e55e3c96e8cadcc41e14e138d71b5868",
-      "crc32": "12f3c0df",
-      "sha1": "7c9f0a11e1dd8c5584021dc4ac4db470c250ae1a",
+      "btih": "6e64cb9233ee8041beb56d77c2e26c79707711d4",
+      "mtime": "1667221066",
+      "size": "544612",
+      "md5": "ee21106684e212366e80ca07adbd65a6",
+      "crc32": "86695d56",
+      "sha1": "ab3007975525a4f9095438f01175a3394d2e874e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_figaro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e6deef7e937e500f6aff2f3a66157d67",
+      "md5": "4d7e57dea7caf5e539b2e8c5e1733c8e",
       "summation": "md5"
     },
     {
       "name": "le_figaro-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666703026",
-      "size": "3006464",
-      "md5": "fd15ec39aad448e36fd30fb6cc86426c",
-      "crc32": "3e27ea3a",
-      "sha1": "7d3e0acb498eee3202a56af7783d301fbcd6033d",
+      "mtime": "1667220978",
+      "size": "3145728",
+      "md5": "d7bf5bc3bcc97c4ed2786ba4fce425c6",
+      "crc32": "a02d1604",
+      "sha1": "d499b3286358a6d45f5dbb69301e8a5c2ac0f75b",
       "format": "Metadata"
     },
     {
@@ -25465,9 +26582,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2450,
-  "item_last_updated": 1666703102,
-  "item_size": 252411584,
+  "files_count": 2558,
+  "item_last_updated": 1667221066,
+  "item_size": 262495024,
   "metadata": {
     "identifier": "le_figaro-2022",
     "collection": [
@@ -25489,15 +26606,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451671841,
+      "task_id": 3457784316,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1313841064,
+  "uniq": 1899413141,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

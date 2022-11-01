@@ -1,5 +1,5 @@
 {
-  "created": 1666723649,
+  "created": 1667246259,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/15/items/theappeal-2022",
@@ -11339,31 +11339,776 @@
       "format": "JSON"
     },
     {
+      "name": "theappeal-2022-10-25T14:44:17.240662-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-25T14:44:17.240662-04:00.jpg",
+      "mtime": "1666724701",
+      "size": "9654",
+      "md5": "a9f2da8dc068a0591cfac0472cd89626",
+      "crc32": "666e6b8a",
+      "sha1": "5f03d21f202e00d6396ed4c8b56d4c769c0c53f0"
+    },
+    {
+      "name": "theappeal-2022-10-26T04:26:09.041973-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772776",
+      "size": "38308",
+      "md5": "c450f4c3b224396a5d4df03cb7aee327",
+      "crc32": "9fdb9132",
+      "sha1": "64b92a89216010ee37a9b787ba020487b5861bfb",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-26T04:26:09.041973-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772782",
+      "size": "42323",
+      "md5": "4ff12c90886312e025d02641bb5d77e5",
+      "crc32": "b188a131",
+      "sha1": "f58ec26c4a07a624511a0661d1849882075a31a9",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-26T04:26:09.041973-04:00.jpg",
+      "source": "original",
+      "mtime": "1666772774",
+      "size": "235446",
+      "md5": "f291eb754401d33a377bbfa9f375b00c",
+      "crc32": "54d5064c",
+      "sha1": "389c2df9790855afe6e99e9d14b5ddadf0486179",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-26T04:26:09.041973-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772783",
+      "size": "1448",
+      "md5": "ad0d7cc4be0bfa3aa1e8188167b99e7a",
+      "crc32": "a11ceb47",
+      "sha1": "b0dcdb1e9d5764b68edefbc7811486f4a8800706",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-26T04:26:09.041973-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772785",
+      "size": "16294",
+      "md5": "4db14625d45ccd35e05745c61898ed4b",
+      "crc32": "3f5af0e3",
+      "sha1": "fe8df9c4e8101eb7ac576c9d650e6f0434b76bcc",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-26T04:26:09.041973-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-26T04:26:09.041973-04:00.jpg",
+      "mtime": "1666774068",
+      "size": "9654",
+      "md5": "a9f2da8dc068a0591cfac0472cd89626",
+      "crc32": "666e6b8a",
+      "sha1": "5f03d21f202e00d6396ed4c8b56d4c769c0c53f0"
+    },
+    {
+      "name": "theappeal-2022-10-26T16:33:22.751049-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666816414",
+      "size": "38078",
+      "md5": "0fb7db308fb4731c8ded33a4ebdcddfb",
+      "crc32": "3e9e5490",
+      "sha1": "04fd4a2dabbabc53c621933de1fb4f0ec56a146a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-26T16:33:22.751049-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666816417",
+      "size": "42354",
+      "md5": "cf2fffe377bb8f4dde7b86760d8b2b4d",
+      "crc32": "1bb50fbc",
+      "sha1": "16ecec448c769baf65088778cce6915260882aee",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-26T16:33:22.751049-04:00.jpg",
+      "source": "original",
+      "mtime": "1666816412",
+      "size": "233202",
+      "md5": "c4e525263cf2cd7d76fa05492c0221c2",
+      "crc32": "6690fef4",
+      "sha1": "17fda64e962c23e50f4fedf7753924e5648a24b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-26T16:33:22.751049-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666816418",
+      "size": "1449",
+      "md5": "9eb7142f2b861cc2610ac1cda99df29e",
+      "crc32": "6603456b",
+      "sha1": "8068c62d96e0be8c1f29d1b24e951b546b18933a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-26T16:33:22.751049-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-26T16:33:22.751049-04:00.jpg",
+      "mtime": "1666836346",
+      "size": "9610",
+      "md5": "e6d2416c1601b966661661033774b248",
+      "crc32": "434ef610",
+      "sha1": "5e74a65d80d2ebbbead16ffc6bce5cb39a88b14f"
+    },
+    {
+      "name": "theappeal-2022-10-27T03:18:35.122802-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855119",
+      "size": "38078",
+      "md5": "0fb7db308fb4731c8ded33a4ebdcddfb",
+      "crc32": "3e9e5490",
+      "sha1": "04fd4a2dabbabc53c621933de1fb4f0ec56a146a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-27T03:18:35.122802-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855120",
+      "size": "42354",
+      "md5": "cf2fffe377bb8f4dde7b86760d8b2b4d",
+      "crc32": "1bb50fbc",
+      "sha1": "16ecec448c769baf65088778cce6915260882aee",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-27T03:18:35.122802-04:00.jpg",
+      "source": "original",
+      "mtime": "1666855117",
+      "size": "233202",
+      "md5": "c4e525263cf2cd7d76fa05492c0221c2",
+      "crc32": "6690fef4",
+      "sha1": "17fda64e962c23e50f4fedf7753924e5648a24b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-27T03:18:35.122802-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855122",
+      "size": "1448",
+      "md5": "590bb3e1cfb80a3c5dceb0d06a100db7",
+      "crc32": "99d718b0",
+      "sha1": "ef49b0560d34233fa1b2805befc44caea5871c7f",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-27T03:18:35.122802-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855123",
+      "size": "16244",
+      "md5": "77a935be87bd92738a36887c3c965c91",
+      "crc32": "ff48b85e",
+      "sha1": "08f995b667c5e0fc564f8ee3d8a325ab3b886994",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-27T03:18:35.122802-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-27T03:18:35.122802-04:00.jpg",
+      "mtime": "1666877913",
+      "size": "9610",
+      "md5": "e6d2416c1601b966661661033774b248",
+      "crc32": "434ef610",
+      "sha1": "5e74a65d80d2ebbbead16ffc6bce5cb39a88b14f"
+    },
+    {
+      "name": "theappeal-2022-10-27T15:51:57.376411-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666900325",
+      "size": "38078",
+      "md5": "0fb7db308fb4731c8ded33a4ebdcddfb",
+      "crc32": "3e9e5490",
+      "sha1": "04fd4a2dabbabc53c621933de1fb4f0ec56a146a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-27T15:51:57.376411-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666900328",
+      "size": "42354",
+      "md5": "cf2fffe377bb8f4dde7b86760d8b2b4d",
+      "crc32": "1bb50fbc",
+      "sha1": "16ecec448c769baf65088778cce6915260882aee",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-27T15:51:57.376411-04:00.jpg",
+      "source": "original",
+      "mtime": "1666900324",
+      "size": "233202",
+      "md5": "c4e525263cf2cd7d76fa05492c0221c2",
+      "crc32": "6690fef4",
+      "sha1": "17fda64e962c23e50f4fedf7753924e5648a24b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-27T15:51:57.376411-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666900330",
+      "size": "1448",
+      "md5": "b7d7b235a6cba05f95ea66a138c6067d",
+      "crc32": "54ce6de3",
+      "sha1": "7b93a4e2503ed07b0e97f33cba982c841c968441",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-27T15:51:57.376411-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666900335",
+      "size": "16144",
+      "md5": "8f6670e0ff3ab96732d651aac865f6c1",
+      "crc32": "c14204c5",
+      "sha1": "672d4780fd3aca2b124534a2c19e89a07c59630f",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-27T15:51:57.376411-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-27T15:51:57.376411-04:00.jpg",
+      "mtime": "1666907647",
+      "size": "9610",
+      "md5": "e6d2416c1601b966661661033774b248",
+      "crc32": "434ef610",
+      "sha1": "5e74a65d80d2ebbbead16ffc6bce5cb39a88b14f"
+    },
+    {
+      "name": "theappeal-2022-10-28T04:33:09.348311-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945997",
+      "size": "38078",
+      "md5": "0fb7db308fb4731c8ded33a4ebdcddfb",
+      "crc32": "3e9e5490",
+      "sha1": "04fd4a2dabbabc53c621933de1fb4f0ec56a146a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-28T04:33:09.348311-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945999",
+      "size": "42354",
+      "md5": "cf2fffe377bb8f4dde7b86760d8b2b4d",
+      "crc32": "1bb50fbc",
+      "sha1": "16ecec448c769baf65088778cce6915260882aee",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-28T04:33:09.348311-04:00.jpg",
+      "source": "original",
+      "mtime": "1666945996",
+      "size": "233202",
+      "md5": "c4e525263cf2cd7d76fa05492c0221c2",
+      "crc32": "6690fef4",
+      "sha1": "17fda64e962c23e50f4fedf7753924e5648a24b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-28T04:33:09.348311-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946001",
+      "size": "1449",
+      "md5": "cea2f29ba72348e48150291429d4e491",
+      "crc32": "7bb33f35",
+      "sha1": "992c527890193d4463cdb306086ccba769fa112b",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-28T04:33:09.348311-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946003",
+      "size": "16518",
+      "md5": "db2af97c0306574988e9edeb012bdc58",
+      "crc32": "ad2564dd",
+      "sha1": "7ce860827cd7a73780f0cab08efcc51d940f9ca1",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-28T04:33:09.348311-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-28T04:33:09.348311-04:00.jpg",
+      "mtime": "1666950243",
+      "size": "9610",
+      "md5": "e6d2416c1601b966661661033774b248",
+      "crc32": "434ef610",
+      "sha1": "5e74a65d80d2ebbbead16ffc6bce5cb39a88b14f"
+    },
+    {
+      "name": "theappeal-2022-10-28T14:34:29.932755-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982084",
+      "size": "38078",
+      "md5": "0fb7db308fb4731c8ded33a4ebdcddfb",
+      "crc32": "3e9e5490",
+      "sha1": "04fd4a2dabbabc53c621933de1fb4f0ec56a146a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-28T14:34:29.932755-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982085",
+      "size": "42354",
+      "md5": "cf2fffe377bb8f4dde7b86760d8b2b4d",
+      "crc32": "1bb50fbc",
+      "sha1": "16ecec448c769baf65088778cce6915260882aee",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-28T14:34:29.932755-04:00.jpg",
+      "source": "original",
+      "mtime": "1666982079",
+      "size": "233202",
+      "md5": "c4e525263cf2cd7d76fa05492c0221c2",
+      "crc32": "6690fef4",
+      "sha1": "17fda64e962c23e50f4fedf7753924e5648a24b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-28T14:34:29.932755-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982087",
+      "size": "1448",
+      "md5": "41a0ba019c7cc3026e1a139a4495b61b",
+      "crc32": "8cad003b",
+      "sha1": "3dc25c27bee5652a6315523a13fe6fe83dbc6365",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-28T14:34:29.932755-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982088",
+      "size": "16294",
+      "md5": "d0cde7ba376b40176b7a2c3f5b9780f1",
+      "crc32": "1147bc54",
+      "sha1": "49b956e096247132ff71c04be1d089455aee01dc",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-28T14:34:29.932755-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-28T14:34:29.932755-04:00.jpg",
+      "mtime": "1666984652",
+      "size": "9610",
+      "md5": "e6d2416c1601b966661661033774b248",
+      "crc32": "434ef610",
+      "sha1": "5e74a65d80d2ebbbead16ffc6bce5cb39a88b14f"
+    },
+    {
+      "name": "theappeal-2022-10-29T02:38:32.908070-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025515",
+      "size": "38078",
+      "md5": "0fb7db308fb4731c8ded33a4ebdcddfb",
+      "crc32": "3e9e5490",
+      "sha1": "04fd4a2dabbabc53c621933de1fb4f0ec56a146a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-29T02:38:32.908070-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025516",
+      "size": "42354",
+      "md5": "cf2fffe377bb8f4dde7b86760d8b2b4d",
+      "crc32": "1bb50fbc",
+      "sha1": "16ecec448c769baf65088778cce6915260882aee",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-29T02:38:32.908070-04:00.jpg",
+      "source": "original",
+      "mtime": "1667025513",
+      "size": "233202",
+      "md5": "c4e525263cf2cd7d76fa05492c0221c2",
+      "crc32": "6690fef4",
+      "sha1": "17fda64e962c23e50f4fedf7753924e5648a24b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-29T02:38:32.908070-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025518",
+      "size": "1449",
+      "md5": "e55c424f2d9a57ce505d15e3d1bfaa62",
+      "crc32": "369c5a47",
+      "sha1": "7904bbbc7409ba13d0c7e6c6e0597897c39b1193",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-29T02:38:32.908070-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025519",
+      "size": "202",
+      "md5": "bf335397ff89add96d78686d34eae937",
+      "crc32": "880ab08c",
+      "sha1": "dd0867b581c6171fa986494605cb19ca4ec5b27f",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-29T02:38:32.908070-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-29T02:38:32.908070-04:00.jpg",
+      "mtime": "1667027376",
+      "size": "9610",
+      "md5": "e6d2416c1601b966661661033774b248",
+      "crc32": "434ef610",
+      "sha1": "5e74a65d80d2ebbbead16ffc6bce5cb39a88b14f"
+    },
+    {
+      "name": "theappeal-2022-10-29T16:07:56.193777-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667074089",
+      "size": "38078",
+      "md5": "0fb7db308fb4731c8ded33a4ebdcddfb",
+      "crc32": "3e9e5490",
+      "sha1": "04fd4a2dabbabc53c621933de1fb4f0ec56a146a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-29T16:07:56.193777-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667074090",
+      "size": "42354",
+      "md5": "cf2fffe377bb8f4dde7b86760d8b2b4d",
+      "crc32": "1bb50fbc",
+      "sha1": "16ecec448c769baf65088778cce6915260882aee",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-29T16:07:56.193777-04:00.jpg",
+      "source": "original",
+      "mtime": "1667074087",
+      "size": "233202",
+      "md5": "c4e525263cf2cd7d76fa05492c0221c2",
+      "crc32": "6690fef4",
+      "sha1": "17fda64e962c23e50f4fedf7753924e5648a24b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-29T16:07:56.193777-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667074092",
+      "size": "1449",
+      "md5": "cc2fda4ad0ebee11b90163ccb9c3cca5",
+      "crc32": "c08ebf86",
+      "sha1": "d82b23df5c531ddfac89449d7f5fb5e9d79ad5f9",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-29T16:07:56.193777-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667074094",
+      "size": "16251",
+      "md5": "d7e6740d7a3776be4c98533ddcec0b58",
+      "crc32": "5e66010a",
+      "sha1": "0316759b71494d5d56d691a7e9edf0e66f85ed94",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-29T16:07:56.193777-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-29T16:07:56.193777-04:00.jpg",
+      "mtime": "1667078578",
+      "size": "9610",
+      "md5": "e6d2416c1601b966661661033774b248",
+      "crc32": "434ef610",
+      "sha1": "5e74a65d80d2ebbbead16ffc6bce5cb39a88b14f"
+    },
+    {
+      "name": "theappeal-2022-10-30T02:52:48.111325-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667112778",
+      "size": "38078",
+      "md5": "0fb7db308fb4731c8ded33a4ebdcddfb",
+      "crc32": "3e9e5490",
+      "sha1": "04fd4a2dabbabc53c621933de1fb4f0ec56a146a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-30T02:52:48.111325-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667112779",
+      "size": "42354",
+      "md5": "cf2fffe377bb8f4dde7b86760d8b2b4d",
+      "crc32": "1bb50fbc",
+      "sha1": "16ecec448c769baf65088778cce6915260882aee",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-30T02:52:48.111325-04:00.jpg",
+      "source": "original",
+      "mtime": "1667112776",
+      "size": "233202",
+      "md5": "c4e525263cf2cd7d76fa05492c0221c2",
+      "crc32": "6690fef4",
+      "sha1": "17fda64e962c23e50f4fedf7753924e5648a24b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-30T02:52:48.111325-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667112781",
+      "size": "1449",
+      "md5": "04be2680dcc2dd90b84c1b12dadc0d39",
+      "crc32": "50d23984",
+      "sha1": "61016a06ca6de68f65f567294f3ecb176464cfeb",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-30T02:52:48.111325-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667112783",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-30T02:52:48.111325-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-30T02:52:48.111325-04:00.jpg",
+      "mtime": "1667113754",
+      "size": "9610",
+      "md5": "e6d2416c1601b966661661033774b248",
+      "crc32": "434ef610",
+      "sha1": "5e74a65d80d2ebbbead16ffc6bce5cb39a88b14f"
+    },
+    {
+      "name": "theappeal-2022-10-30T14:32:04.041680-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667154738",
+      "size": "38078",
+      "md5": "0fb7db308fb4731c8ded33a4ebdcddfb",
+      "crc32": "3e9e5490",
+      "sha1": "04fd4a2dabbabc53c621933de1fb4f0ec56a146a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-30T14:32:04.041680-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667154740",
+      "size": "42354",
+      "md5": "cf2fffe377bb8f4dde7b86760d8b2b4d",
+      "crc32": "1bb50fbc",
+      "sha1": "16ecec448c769baf65088778cce6915260882aee",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-30T14:32:04.041680-04:00.jpg",
+      "source": "original",
+      "mtime": "1667154737",
+      "size": "233202",
+      "md5": "c4e525263cf2cd7d76fa05492c0221c2",
+      "crc32": "6690fef4",
+      "sha1": "17fda64e962c23e50f4fedf7753924e5648a24b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-30T14:32:04.041680-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667154742",
+      "size": "1448",
+      "md5": "240e3b94b1f5abcdd3002cfc2f8d8a0a",
+      "crc32": "1800bb13",
+      "sha1": "f4a911197a2f3d3e1578864d17fbd7314e032d53",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-30T14:32:04.041680-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667154744",
+      "size": "98",
+      "md5": "4a89364f02d9f80b49d46c30c9ec15a5",
+      "crc32": "45fda584",
+      "sha1": "68ce8296cd4379b99fd5b2942b88cc5f097639cf",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-30T14:32:04.041680-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-30T14:32:04.041680-04:00.jpg",
+      "mtime": "1667155273",
+      "size": "9610",
+      "md5": "e6d2416c1601b966661661033774b248",
+      "crc32": "434ef610",
+      "sha1": "5e74a65d80d2ebbbead16ffc6bce5cb39a88b14f"
+    },
+    {
+      "name": "theappeal-2022-10-31T02:46:43.553833-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198819",
+      "size": "38078",
+      "md5": "0fb7db308fb4731c8ded33a4ebdcddfb",
+      "crc32": "3e9e5490",
+      "sha1": "04fd4a2dabbabc53c621933de1fb4f0ec56a146a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-31T02:46:43.553833-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198820",
+      "size": "42354",
+      "md5": "cf2fffe377bb8f4dde7b86760d8b2b4d",
+      "crc32": "1bb50fbc",
+      "sha1": "16ecec448c769baf65088778cce6915260882aee",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-31T02:46:43.553833-04:00.jpg",
+      "source": "original",
+      "mtime": "1667198817",
+      "size": "233202",
+      "md5": "c4e525263cf2cd7d76fa05492c0221c2",
+      "crc32": "6690fef4",
+      "sha1": "17fda64e962c23e50f4fedf7753924e5648a24b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-31T02:46:43.553833-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198822",
+      "size": "1447",
+      "md5": "b2670dbd7c3c523c062c72fd6e451a87",
+      "crc32": "915544c8",
+      "sha1": "34be4c254cabde1c9352019a8aeab31e54f6a6e3",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-31T02:46:43.553833-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198824",
+      "size": "16256",
+      "md5": "d4341239fa42cb343fd048485fb253e0",
+      "crc32": "52c4cd45",
+      "sha1": "946b148c2378a11891f6f63a27e34bad1255e1f8",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-31T02:46:43.553833-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-31T02:46:43.553833-04:00.jpg",
+      "mtime": "1667200834",
+      "size": "9610",
+      "md5": "e6d2416c1601b966661661033774b248",
+      "crc32": "434ef610",
+      "sha1": "5e74a65d80d2ebbbead16ffc6bce5cb39a88b14f"
+    },
+    {
+      "name": "theappeal-2022-10-31T15:51:25.699989-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667245896",
+      "size": "38078",
+      "md5": "0fb7db308fb4731c8ded33a4ebdcddfb",
+      "crc32": "3e9e5490",
+      "sha1": "04fd4a2dabbabc53c621933de1fb4f0ec56a146a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-31T15:51:25.699989-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667245897",
+      "size": "42354",
+      "md5": "cf2fffe377bb8f4dde7b86760d8b2b4d",
+      "crc32": "1bb50fbc",
+      "sha1": "16ecec448c769baf65088778cce6915260882aee",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-31T15:51:25.699989-04:00.jpg",
+      "source": "original",
+      "mtime": "1667245894",
+      "size": "233202",
+      "md5": "c4e525263cf2cd7d76fa05492c0221c2",
+      "crc32": "6690fef4",
+      "sha1": "17fda64e962c23e50f4fedf7753924e5648a24b2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theappeal-2022-10-31T15:51:25.699989-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667245899",
+      "size": "1449",
+      "md5": "70684741b32ffdb0656a22806d2bb85d",
+      "crc32": "c72fc124",
+      "sha1": "c28ea52bbc0cf1297ffbf7bcd37e215da96caa8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-31T15:51:25.699989-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667245901",
+      "size": "16278",
+      "md5": "a3177781eb69565cfce6f674a088d398",
+      "crc32": "7f80ad76",
+      "sha1": "190b2e93bcc8be828f918d90a3257b875f1dc645",
+      "format": "JSON"
+    },
+    {
+      "name": "theappeal-2022-10-31T15:51:25.699989-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theappeal-2022-10-31T15:51:25.699989-04:00.jpg",
+      "mtime": "1667246152",
+      "size": "9610",
+      "md5": "e6d2416c1601b966661661033774b248",
+      "crc32": "434ef610",
+      "sha1": "5e74a65d80d2ebbbead16ffc6bce5cb39a88b14f"
+    },
+    {
       "name": "theappeal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "732fbce22063e1ced6f83e1e530691d05b098840",
-      "mtime": "1666723645",
-      "size": "232728",
-      "md5": "418bfd10bfeb546853ca66420d053176",
-      "crc32": "6fa22805",
-      "sha1": "1a1cac247ff7f46e2576504304b3a797dc0e5bda",
+      "btih": "0f54d8be6f2fb866ab250913d38528166ae32bfb",
+      "mtime": "1667246165",
+      "size": "247913",
+      "md5": "11886792bdd282b91cb969a84afc5a40",
+      "crc32": "0a10d84c",
+      "sha1": "16be849121ee1d08b555ba7986cd97ae3252e8e9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theappeal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a82d62073020e0b5f287bef0eeb7c3c",
+      "md5": "4372011605de1791de021bd78630830e",
       "summation": "md5"
     },
     {
       "name": "theappeal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666723598",
-      "size": "1400832",
-      "md5": "0252906b5700b55ff5303a8d498f420b",
-      "crc32": "180d9aa0",
-      "sha1": "68e02a7c3c94ce840aa81ce4c2b43a33ae80221f",
+      "mtime": "1667245905",
+      "size": "1490944",
+      "md5": "c8458bff8898bc5ff1b77c9d6675fe54",
+      "crc32": "a46def79",
+      "sha1": "31de16f146ad9398cd4d3ac6d4734bd4f8edb220",
       "format": "Metadata"
     },
     {
@@ -11377,9 +12122,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1100,
-  "item_last_updated": 1666723645,
-  "item_size": 64641635,
+  "files_count": 1172,
+  "item_last_updated": 1667246165,
+  "item_size": 68786163,
   "metadata": {
     "identifier": "theappeal-2022",
     "collection": [
@@ -11396,21 +12141,10 @@
     "publicdate": "2022-07-24 03:40:26",
     "addeddate": "2022-07-24 03:40:26"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451973758,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1281584855,
+  "uniq": 392181260,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

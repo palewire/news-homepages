@@ -1,6 +1,5 @@
 {
-  "conflict": 1666718173,
-  "created": 1666718173,
+  "created": 1667150789,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/30/items/ithacajournal-2022",
@@ -4409,31 +4408,651 @@
       "sha1": "631a907b7bd53688e7f11cdaa4f6f05234a6fc9d"
     },
     {
+      "name": "ithacajournal-2022-10-26T02:36:11.070053-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666766177",
+      "size": "20849",
+      "md5": "f80d36cf51b0385e34e9543c00fe5f2b",
+      "crc32": "0df44102",
+      "sha1": "bec4d5b7abf7b440b179edf58a05078e5a3488da",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-26T02:36:11.070053-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666766179",
+      "size": "30828",
+      "md5": "0f92a4bff9573ac72ab695c4d1029c56",
+      "crc32": "d27dfd14",
+      "sha1": "00f4734d2ce4d3e9b9e73705af24d45893e9085c",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-26T02:36:11.070053-04:00.jpg",
+      "source": "original",
+      "mtime": "1666766175",
+      "size": "289661",
+      "md5": "5d9a9b5fad2c6e19186465843bb3a695",
+      "crc32": "d6038b17",
+      "sha1": "802b991b15b157316e043232da73ffd563242aee",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ithacajournal-2022-10-26T02:36:11.070053-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666766181",
+      "size": "1521",
+      "md5": "f9695292099e3f664798884b59521c86",
+      "crc32": "6b953e2a",
+      "sha1": "4c5105a232c7732846df7937069f7081ad3956f3",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-26T02:36:11.070053-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666766182",
+      "size": "116954",
+      "md5": "cc878503116632a7924d060fac4fae56",
+      "crc32": "ea9adb57",
+      "sha1": "cfe4551d65abe73b3677bdb3e59c35711616b40f",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-26T02:36:11.070053-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ithacajournal-2022-10-26T02:36:11.070053-04:00.jpg",
+      "mtime": "1666766841",
+      "size": "9377",
+      "md5": "11fa3a5a42433fd61b0c38fcceafc7f7",
+      "crc32": "d0b541d5",
+      "sha1": "3c358dd572090727c0ca3879bcdea6813905b955"
+    },
+    {
+      "name": "ithacajournal-2022-10-26T14:07:26.907254-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666807655",
+      "size": "20861",
+      "md5": "267920f95a998a14ae9d5250b7838f54",
+      "crc32": "797d0ef7",
+      "sha1": "102471ec6790e680b0288754495278b1057fc394",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-26T14:07:26.907254-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666807658",
+      "size": "33627",
+      "md5": "51a6307b0474a50dbd8fb589095a17bc",
+      "crc32": "104f8497",
+      "sha1": "427ea4ae39c4b4bb664ab50a135b131545c4de18",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-26T14:07:26.907254-04:00.jpg",
+      "source": "original",
+      "mtime": "1666807653",
+      "size": "240157",
+      "md5": "e749d3b33f026d0f7ed7ee431c4478aa",
+      "crc32": "38207c97",
+      "sha1": "798968c013aa51bbe1f018df2ac40e1913ae642c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ithacajournal-2022-10-26T14:07:26.907254-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666807662",
+      "size": "1522",
+      "md5": "2f5b4fb14e00f9557d892e15c5003247",
+      "crc32": "7fc9622e",
+      "sha1": "60a515fe500c51e1a60c9b88096c4d2af90de375",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-26T14:07:26.907254-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666807665",
+      "size": "102828",
+      "md5": "b2f71412b64b8a5cdcd9e209abf51640",
+      "crc32": "0ce9b039",
+      "sha1": "6bdfd4183348cd569bae1c60ce13dd9699f4e90a",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-26T14:07:26.907254-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ithacajournal-2022-10-26T14:07:26.907254-04:00.jpg",
+      "mtime": "1666815793",
+      "size": "9038",
+      "md5": "9b091642b987c72bc30bc51432d44b9b",
+      "crc32": "c65b7301",
+      "sha1": "52bdf13ad3bb973530c97ab70c199df049250757"
+    },
+    {
+      "name": "ithacajournal-2022-10-27T01:47:29.937912-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666849656",
+      "size": "20833",
+      "md5": "8014c17c7a890a621ac502bae26a6088",
+      "crc32": "aec11425",
+      "sha1": "428be1366033b5e1ee798d48fd65a3bd5297e07c",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-27T01:47:29.937912-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666849658",
+      "size": "33640",
+      "md5": "651c96a566951bea0e7232074c96a349",
+      "crc32": "9b42bca4",
+      "sha1": "99b1f6158e39abbba546ad30253510ff24733705",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-27T01:47:29.937912-04:00.jpg",
+      "source": "original",
+      "mtime": "1666849654",
+      "size": "237623",
+      "md5": "d6f4313d0dfd1599645c76bfac6af400",
+      "crc32": "ce9fb27a",
+      "sha1": "afa81d52ba80a6953e1dc6ff00cf98dc82cb05a7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ithacajournal-2022-10-27T01:47:29.937912-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666849660",
+      "size": "1522",
+      "md5": "75e4d13d580cd43070c73a628ad0374a",
+      "crc32": "d748d5c6",
+      "sha1": "ecbefeca975a3d0511b3207ca8d477bee47f529a",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-27T01:47:29.937912-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666849661",
+      "size": "106",
+      "md5": "a0eaef29ac2466a37f87b870159849c1",
+      "crc32": "dbf850bc",
+      "sha1": "6ffff212754ed9c3622ad823fc7e48fcdea0de6f",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-27T01:47:29.937912-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ithacajournal-2022-10-27T01:47:29.937912-04:00.jpg",
+      "mtime": "1666873522",
+      "size": "9001",
+      "md5": "5d3dcd67c6fa15ba843b77c271565e4c",
+      "crc32": "f602ff56",
+      "sha1": "01d373f8c585b3318c08839cb155cb2c27fd907b"
+    },
+    {
+      "name": "ithacajournal-2022-10-27T13:42:29.617884-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666892555",
+      "size": "22354",
+      "md5": "2b3029ba19c3a7e409658221e2882151",
+      "crc32": "5db91529",
+      "sha1": "2449792f8a61a6543a6e7f59727e6aec1cea8da8",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-27T13:42:29.617884-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666892557",
+      "size": "35252",
+      "md5": "74d931e7901a4229e9ddab92f22da14c",
+      "crc32": "60d591dc",
+      "sha1": "dc7a33cb9d0a2505667f4b0f2840ce3e4de4d8a3",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-27T13:42:29.617884-04:00.jpg",
+      "source": "original",
+      "mtime": "1666892553",
+      "size": "214342",
+      "md5": "d506e408e4c9f447425163161d1483ca",
+      "crc32": "a35d48fb",
+      "sha1": "dcbd9e1284faa78d436fbebd236bf2d5ec0fc396",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ithacajournal-2022-10-27T13:42:29.617884-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666892559",
+      "size": "1522",
+      "md5": "261a6af97b89f5a1e16969720f7e5eaf",
+      "crc32": "67b1e786",
+      "sha1": "9e67e8ac2397ad87b1a5182a1778379fcdb6bb77",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-27T13:42:29.617884-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666892561",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-27T13:42:29.617884-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ithacajournal-2022-10-27T13:42:29.617884-04:00.jpg",
+      "mtime": "1666901556",
+      "size": "8800",
+      "md5": "46c466780f66e220418dd2eff21ae5a4",
+      "crc32": "0c026bb2",
+      "sha1": "a95e10bc7721936af66a3e6056a9d1855b691beb"
+    },
+    {
+      "name": "ithacajournal-2022-10-28T02:33:40.352284-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666938830",
+      "size": "21412",
+      "md5": "3e6f03b898fc583a7cefe25226b167cc",
+      "crc32": "8654c960",
+      "sha1": "3c1ae3d60c485f9d899b8ce008a46d18c8e26a57",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-28T02:33:40.352284-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666938832",
+      "size": "34030",
+      "md5": "186d7001476b69a18cd35f84a3c7b50e",
+      "crc32": "37a76a19",
+      "sha1": "c18822f08fead15d5a7f634e3663523c7abc81d6",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-28T02:33:40.352284-04:00.jpg",
+      "source": "original",
+      "mtime": "1666938829",
+      "size": "226489",
+      "md5": "4427364742a1c7251b1a0433f91d0141",
+      "crc32": "4224bb52",
+      "sha1": "de141ed58af8846179c221bd34e4b9208e811dbe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ithacajournal-2022-10-28T02:33:40.352284-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666938833",
+      "size": "1522",
+      "md5": "61fe4a2eb9fd2f0d085bdac5b7069d8a",
+      "crc32": "51825bc7",
+      "sha1": "1d8c6b01bec30fe3299c77b496fed30a9ca30ccd",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-28T02:33:40.352284-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666938834",
+      "size": "96914",
+      "md5": "8308f8fe1d6e3aefedd03a7743558381",
+      "crc32": "a33d90d1",
+      "sha1": "06d380fe30089aebc45cc00090974f3c02c4f221",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-28T02:33:40.352284-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ithacajournal-2022-10-28T02:33:40.352284-04:00.jpg",
+      "mtime": "1666939441",
+      "size": "8833",
+      "md5": "1d3f82a3559b63b5e3af433bff2841b7",
+      "crc32": "67a03c51",
+      "sha1": "fc3af2f533c24952374ec2aaf4c5ce664183cdd6"
+    },
+    {
+      "name": "ithacajournal-2022-10-28T12:37:54.027061-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666975077",
+      "size": "20835",
+      "md5": "69ed7f244d16837f60a175bfea5811fb",
+      "crc32": "178abf39",
+      "sha1": "ad4898d7a1f9dfbfeabe2f1d89ac4f7845ff623d",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-28T12:37:54.027061-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666975079",
+      "size": "31888",
+      "md5": "af247d0f019d7893a47b14484662b55d",
+      "crc32": "cac2839a",
+      "sha1": "467cb324f85076682e1988307f5f5402f543d0e3",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-28T12:37:54.027061-04:00.jpg",
+      "source": "original",
+      "mtime": "1666975075",
+      "size": "257449",
+      "md5": "b9fa9a3a7bae316c0fb0b5cc79d2312b",
+      "crc32": "58e8df49",
+      "sha1": "f23f0f9362989cb20059c35e9482e766be615cdb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ithacajournal-2022-10-28T12:37:54.027061-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666975081",
+      "size": "1522",
+      "md5": "d999f2762f07076869bac42604f560e6",
+      "crc32": "8a776d45",
+      "sha1": "83dddd50bf55ea9dc383c128f206011b79a16120",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-28T12:37:54.027061-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666975083",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-28T12:37:54.027061-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ithacajournal-2022-10-28T12:37:54.027061-04:00.jpg",
+      "mtime": "1666979023",
+      "size": "9178",
+      "md5": "5b1baa51d7fa6a101fa610fb8682bdb6",
+      "crc32": "f49ad5db",
+      "sha1": "92ee8bf115787f7609bfd5e19107e682229e4270"
+    },
+    {
+      "name": "ithacajournal-2022-10-29T01:21:40.467972-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667020905",
+      "size": "20967",
+      "md5": "3204f5c146e719e61cfd08e92cc8393c",
+      "crc32": "bdb46192",
+      "sha1": "84430be8e05f69dadabe190573776c739250c24b",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-29T01:21:40.467972-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667020907",
+      "size": "30301",
+      "md5": "8685d81eff3ad33ac6a5c5118cad2bfc",
+      "crc32": "7c959407",
+      "sha1": "adacad04e8baa9f671c40e602a7f48e9df2727a2",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-29T01:21:40.467972-04:00.jpg",
+      "source": "original",
+      "mtime": "1667020903",
+      "size": "247913",
+      "md5": "73b5d60a2c0532ea1bc33fc0dab51676",
+      "crc32": "7123d5a1",
+      "sha1": "a2ca81088765627250a4d51043a876de196353aa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ithacajournal-2022-10-29T01:21:40.467972-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667020909",
+      "size": "1522",
+      "md5": "04be6afc439f6ffc87b4dc9a055ef7ee",
+      "crc32": "01fb4a26",
+      "sha1": "6a42152667fe011b7283aad1b0fce8e63eb8d2c3",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-29T01:21:40.467972-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667020911",
+      "size": "210",
+      "md5": "e8935abe6ab7310d7413842fc5d1326b",
+      "crc32": "262d1208",
+      "sha1": "2df84b859dd01bd756e109b741c30075ea72ae4c",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-29T01:21:40.467972-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ithacajournal-2022-10-29T01:21:40.467972-04:00.jpg",
+      "mtime": "1667023276",
+      "size": "9026",
+      "md5": "1385305ebf66f219285de28527742b56",
+      "crc32": "ab9765ef",
+      "sha1": "0fac8d55f25cd78b3fe59893aed373ba29eb894b"
+    },
+    {
+      "name": "ithacajournal-2022-10-29T13:42:18.794218-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667065346",
+      "size": "20642",
+      "md5": "9fee234ed8cfc18e8b97100dd8d84858",
+      "crc32": "4d789c03",
+      "sha1": "9ff031e8ebef9ee7001bc7092d75f17b12803a37",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-29T13:42:18.794218-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667065347",
+      "size": "36825",
+      "md5": "e1a5bfb89b160a9a335f231fefe54a06",
+      "crc32": "9ad432e2",
+      "sha1": "08cd5aedc481fcd56a2b285f2ca57a89dd68f058",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-29T13:42:18.794218-04:00.jpg",
+      "source": "original",
+      "mtime": "1667065344",
+      "size": "302648",
+      "md5": "c209c645e9572fc4d40182298a8d526f",
+      "crc32": "5598f7fb",
+      "sha1": "43652a717a1c33ef0b36ff6791953baa78e3f4a3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ithacajournal-2022-10-29T13:42:18.794218-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667065351",
+      "size": "1522",
+      "md5": "20700061c8a5e9a5932fc4616daebb4f",
+      "crc32": "3385342e",
+      "sha1": "37907aa60200913f4db5078ceacca16770c69d70",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-29T13:42:18.794218-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667065353",
+      "size": "89455",
+      "md5": "1b864104d5a59ba6a1421b0a7bbfb0f5",
+      "crc32": "85740c38",
+      "sha1": "1d82053ccfefa27215b41c5d9831e3980728b8e5",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-29T13:42:18.794218-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ithacajournal-2022-10-29T13:42:18.794218-04:00.jpg",
+      "mtime": "1667066020",
+      "size": "9516",
+      "md5": "95a3a2479549a482a584d1a724079f6c",
+      "crc32": "3fa3569b",
+      "sha1": "f3cee4a9351d4c46c3fd17aed70bbef9d8b82a5e"
+    },
+    {
+      "name": "ithacajournal-2022-10-30T01:28:51.018642-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667107736",
+      "size": "20499",
+      "md5": "3614a3a093867da75900e439b7bbad62",
+      "crc32": "e2cf1567",
+      "sha1": "e7237e1e69bbeb9472227304d715868ae78ab8cf",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-30T01:28:51.018642-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667107738",
+      "size": "33812",
+      "md5": "3d3a61a0e2c2938d0a1f799b5b0c94f2",
+      "crc32": "1ee47d39",
+      "sha1": "24e6cb40ceb27af57b49490ff407232e27faa070",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-30T01:28:51.018642-04:00.jpg",
+      "source": "original",
+      "mtime": "1667107734",
+      "size": "274983",
+      "md5": "cb0566c2bde64b27190e13f6bef02d4a",
+      "crc32": "2ea87375",
+      "sha1": "1f8f78cc65ebc362eecee0c3318f804d96fabf61",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ithacajournal-2022-10-30T01:28:51.018642-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667107740",
+      "size": "1522",
+      "md5": "0fe509e7416db212bb7a636814ae9929",
+      "crc32": "746508a9",
+      "sha1": "9a05aa9fcb1c6dc9419a9e3855a14ecbd587466f",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-30T01:28:51.018642-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667107741",
+      "size": "81970",
+      "md5": "c09d3dc9b8faf581dce788ab8676f9b8",
+      "crc32": "c6019aeb",
+      "sha1": "fd2e3a64e4bd5d21318d234af9e90b8aebc28aae",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-30T01:28:51.018642-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ithacajournal-2022-10-30T01:28:51.018642-04:00.jpg",
+      "mtime": "1667108865",
+      "size": "9124",
+      "md5": "0ef7cb4421e17b8b9ef824401c414fb8",
+      "crc32": "ceaf9838",
+      "sha1": "30f8af9d25ec444d01344a70f0d50dbd691f15a2"
+    },
+    {
+      "name": "ithacajournal-2022-10-30T13:11:47.709818-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667149924",
+      "size": "21037",
+      "md5": "932dcad2569cedd6ef30bb2e6211a8d5",
+      "crc32": "86c11612",
+      "sha1": "119747662c34d2956b35ad0cde994c0fb440741f",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-30T13:11:47.709818-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667149925",
+      "size": "42467",
+      "md5": "ea96982c5d0e10823c462fbfd102d0d9",
+      "crc32": "b6a8de2c",
+      "sha1": "9171ced70da35429891dc175a5a5b4a4be904b2a",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-30T13:11:47.709818-04:00.jpg",
+      "source": "original",
+      "mtime": "1667149922",
+      "size": "271472",
+      "md5": "d501b56823a63e65d02f1f5897988bd1",
+      "crc32": "92696380",
+      "sha1": "c4ed1e7026136bfd3fcd5d7da5ffbc1b57dc83e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ithacajournal-2022-10-30T13:11:47.709818-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667149927",
+      "size": "1521",
+      "md5": "9c81358c00d00bf366326b3a36896413",
+      "crc32": "7867822c",
+      "sha1": "b73992c5364bb8a6072ae2aa3d84fc543ebd3862",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-30T13:11:47.709818-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667149928",
+      "size": "77566",
+      "md5": "9b62c28f98ff7fff71f9432d25130854",
+      "crc32": "04ea36b6",
+      "sha1": "3485b0fddb71da5896c16dcc69454fede5ffc020",
+      "format": "JSON"
+    },
+    {
+      "name": "ithacajournal-2022-10-30T13:11:47.709818-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ithacajournal-2022-10-30T13:11:47.709818-04:00.jpg",
+      "mtime": "1667150701",
+      "size": "9094",
+      "md5": "b299d6526fbd320a97706a79aeb2b08b",
+      "crc32": "7a7d526a",
+      "sha1": "439f1e48216ed755cb8e3e5e2353d59a4a43f88d"
+    },
+    {
       "name": "ithacajournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "457f0f3966f27cf94e811c5c42bff3b2be6f950d",
-      "mtime": "1666718171",
-      "size": "93206",
-      "md5": "7f589623e1d75c40739760efed241d2d",
-      "crc32": "362658c1",
-      "sha1": "7099fbc7aa37a5f4a83f4d12dc08921e50542d69",
+      "btih": "3d4a5a6fd9c7f07853e975ec6be32fa7336feed5",
+      "mtime": "1667150706",
+      "size": "106110",
+      "md5": "26d20082b472153349a84cac62c826d9",
+      "crc32": "fcdc1b9d",
+      "sha1": "37bf0fd8c8246751eb7b58f0ffd4a2cb73284b30",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ithacajournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d9eaf2791f4c69b74aca4e40d62d3359",
+      "md5": "947b5cc89cd0accedbcbd3f8a92fbf0a",
       "summation": "md5"
     },
     {
       "name": "ithacajournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666717576",
-      "size": "565248",
-      "md5": "2bc7f33cf331c22263277467e57c33ec",
-      "crc32": "aaf270d3",
-      "sha1": "e9c0615dfd8aa906a0da139717fa8812029600f6",
+      "mtime": "1667149936",
+      "size": "643072",
+      "md5": "60bf8d1b4196110ea49b9978dfd8d135",
+      "crc32": "2e091d99",
+      "sha1": "b7a0b844735da8c6fc73798ed4f82dc266a6b30d",
       "format": "Metadata"
     },
     {
@@ -4447,9 +5066,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 430,
-  "item_last_updated": 1666718171,
-  "item_size": 29093229,
+  "files_count": 490,
+  "item_last_updated": 1667150706,
+  "item_size": 32972265,
   "metadata": {
     "identifier": "ithacajournal-2022",
     "collection": [
@@ -4466,21 +5085,10 @@
     "publicdate": "2022-09-20 17:31:27",
     "addeddate": "2022-09-20 17:31:27"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451847901,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 140363636,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1451458415,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

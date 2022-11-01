@@ -1,5 +1,5 @@
 {
-  "created": 1666723657,
+  "created": 1667246106,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/stltoday-2022",
@@ -13887,31 +13887,786 @@
       "format": "JSON"
     },
     {
+      "name": "stltoday-2022-10-25T13:44:51.332504-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-25T13:44:51.332504-05:00.jpg",
+      "mtime": "1666725121",
+      "size": "12213",
+      "md5": "da263c5ba2ea6b084cbdf5d3771b8715",
+      "crc32": "c08e4f2e",
+      "sha1": "f1690eb423b2dda3c16312097926ac68f3476d7b"
+    },
+    {
+      "name": "stltoday-2022-10-26T03:25:24.376096-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772736",
+      "size": "34086",
+      "md5": "af3f9c38bac89b0f4a3edea1923851e9",
+      "crc32": "d594652a",
+      "sha1": "51139c2cddcd130573b17e9a376fcd23b1ec1735",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-26T03:25:24.376096-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772738",
+      "size": "78101",
+      "md5": "94438c4cb53311e7de71d9e2353d6fb8",
+      "crc32": "9a4bc341",
+      "sha1": "a40538b687c653c9e30d6b11c99881c1fe9dafb9",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-26T03:25:24.376096-05:00.jpg",
+      "source": "original",
+      "mtime": "1666772734",
+      "size": "305606",
+      "md5": "781134ec03066c7e4b244ac02327e8bc",
+      "crc32": "189bcd55",
+      "sha1": "8b0306c844781ce1aa1c4f166308b22f35cf8a89",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-26T03:25:24.376096-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772740",
+      "size": "1477",
+      "md5": "439afcb0fbf4138a31df50b642ca43d4",
+      "crc32": "794a290b",
+      "sha1": "137fc3f006cebfe8e32c4d754181a4e5dd8a13b4",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-26T03:25:24.376096-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772742",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-26T03:25:24.376096-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-26T03:25:24.376096-05:00.jpg",
+      "mtime": "1666773989",
+      "size": "12209",
+      "md5": "377fedaac9823bfba3be1a878f60d3aa",
+      "crc32": "ecd8258f",
+      "sha1": "2cd1b1b71fc8c04fa2219081928d7c1eb7111725"
+    },
+    {
+      "name": "stltoday-2022-10-26T15:33:27.514830-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666816419",
+      "size": "36967",
+      "md5": "89caca39907c77b0974bd59ef03b4b30",
+      "crc32": "4be9645e",
+      "sha1": "708937a73ee8cb5cbb7728f21acd0d66ed50c650",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-26T15:33:27.514830-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666816421",
+      "size": "81367",
+      "md5": "4a17d6352ec522ca15b4d75dba54287e",
+      "crc32": "a236336d",
+      "sha1": "59ec6d95bb48f1a331d831356c4909d6041f7642",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-26T15:33:27.514830-05:00.jpg",
+      "source": "original",
+      "mtime": "1666816417",
+      "size": "333165",
+      "md5": "d647edd6896ba452f5716e7d25a2da9b",
+      "crc32": "7919cc27",
+      "sha1": "fbdf79aeab6148386b7c905f1b10a71a7dd5cf15",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-26T15:33:27.514830-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666816425",
+      "size": "1477",
+      "md5": "0fb09340b567e07744cd43cd30e5110c",
+      "crc32": "3fb885ab",
+      "sha1": "b0b3835e3361c059eec7cb7d23f28119ac6fc0e1",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-26T15:33:27.514830-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666816428",
+      "size": "47680",
+      "md5": "c40e106d5c58cc2eddace1e7a1093c31",
+      "crc32": "ac6611d8",
+      "sha1": "f4d2926da4c26dfb5a19eb83bc5f7eb72329d4c4",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-26T15:33:27.514830-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-26T15:33:27.514830-05:00.jpg",
+      "mtime": "1666835629",
+      "size": "12217",
+      "md5": "d898e972bc5f47e5df72b263c7fa06f1",
+      "crc32": "a3590878",
+      "sha1": "c0b2f94d267aa362c6eb0b1fff4518bc26490e65"
+    },
+    {
+      "name": "stltoday-2022-10-27T02:16:53.800688-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855016",
+      "size": "34996",
+      "md5": "5b9382a6809598c7eb1f4ae8d0e40fa6",
+      "crc32": "310c3ae4",
+      "sha1": "82248891fae7dc8dddaee71f818960cbaeeb479a",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-27T02:16:53.800688-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855019",
+      "size": "79682",
+      "md5": "4700a70de73e677045608687069846de",
+      "crc32": "c2d1c9c4",
+      "sha1": "abece68651f554f158585361659763db7af5257d",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-27T02:16:53.800688-05:00.jpg",
+      "source": "original",
+      "mtime": "1666855015",
+      "size": "349621",
+      "md5": "20cbd8a7ace8f3acca0a1914bead0ce7",
+      "crc32": "7cf85257",
+      "sha1": "d63efac776b0716ba4a0760c950916c39f917905",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-27T02:16:53.800688-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855020",
+      "size": "1477",
+      "md5": "6414f8c05c4d0b0e08eae0c1761549b9",
+      "crc32": "e3725e6e",
+      "sha1": "5d6bb7bf7bcab7dc19b71d4f6529f77585703a41",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-27T02:16:53.800688-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855022",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-27T02:16:53.800688-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-27T02:16:53.800688-05:00.jpg",
+      "mtime": "1666877083",
+      "size": "12528",
+      "md5": "6c0a25383757f7a82f68f1e1ead99efd",
+      "crc32": "f82bfadf",
+      "sha1": "dbd2ab7ff36478fea6ccbb2296b869e4e466d3dc"
+    },
+    {
+      "name": "stltoday-2022-10-27T14:52:00.792461-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666900325",
+      "size": "36397",
+      "md5": "fce3a6aec259e9648b394d697b8545ae",
+      "crc32": "1e40c49c",
+      "sha1": "335b1d964d02a3af172b5fa720381ae5a9ec9165",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-27T14:52:00.792461-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666900327",
+      "size": "83206",
+      "md5": "23c184b86dbba3462df08c8088957905",
+      "crc32": "a2e844b0",
+      "sha1": "e8f2b1a0165772c66eb6d7f0f72c959da8206af5",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-27T14:52:00.792461-05:00.jpg",
+      "source": "original",
+      "mtime": "1666900323",
+      "size": "327558",
+      "md5": "74bcc9d79e88f6f79d5e78596ca8eb3c",
+      "crc32": "bdf3d48a",
+      "sha1": "5057a6971dcb542dc716abe65f65ff4ab0cf8e54",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-27T14:52:00.792461-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666900330",
+      "size": "1477",
+      "md5": "1608c0f160434b2d9f9e4075004d7557",
+      "crc32": "5f942362",
+      "sha1": "b7168c9a31095ffc8df26fbbd8d09e23266febdb",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-27T14:52:00.792461-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666900333",
+      "size": "50766",
+      "md5": "ee48c8ba4e256b31f2d4612e9243a604",
+      "crc32": "a1e23f51",
+      "sha1": "344ba6d7f2e2367d522391cf28b2c359a2d0caf8",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-27T14:52:00.792461-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-27T14:52:00.792461-05:00.jpg",
+      "mtime": "1666907815",
+      "size": "12325",
+      "md5": "0dd6718a8c31ba732c994592248474a5",
+      "crc32": "2175151d",
+      "sha1": "38dfc46976f6843018516ef9157d6f3ecd95d2fa"
+    },
+    {
+      "name": "stltoday-2022-10-28T03:33:28.866608-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946037",
+      "size": "33450",
+      "md5": "59a3804faaf387b84f1bb60245b5ffee",
+      "crc32": "e01f8959",
+      "sha1": "c72506f0beec32f6c0870ddfbf3b2cf85ca522bb",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-28T03:33:28.866608-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946039",
+      "size": "79690",
+      "md5": "95ea8dc3846e7b0793d1d9267949dcbe",
+      "crc32": "e9aaf43c",
+      "sha1": "9e91f7db3bfee1495059a92b2c0f15703d33f0ec",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-28T03:33:28.866608-05:00.jpg",
+      "source": "original",
+      "mtime": "1666946036",
+      "size": "333968",
+      "md5": "161748a07166759919a41b787528bc67",
+      "crc32": "c3af35a1",
+      "sha1": "bc27bca3657faa87275b4799ad67b60b703848e4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-28T03:33:28.866608-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946041",
+      "size": "1477",
+      "md5": "ab83bd16c0422cd156a2743e2895a3a1",
+      "crc32": "627f2c64",
+      "sha1": "4480a75b3f0ba0a6e49e2a46d48c314c315f1acb",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-28T03:33:28.866608-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946042",
+      "size": "44976",
+      "md5": "14b9ffb0641e013f1d2abcc3f040ef2d",
+      "crc32": "83190dd6",
+      "sha1": "849e25f157dc619ada6e81a43cd7f4e08f28ee78",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-28T03:33:28.866608-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-28T03:33:28.866608-05:00.jpg",
+      "mtime": "1666950363",
+      "size": "12475",
+      "md5": "82ffa76479c0f5a299dac311b504ed07",
+      "crc32": "ad5a51be",
+      "sha1": "29f235fb290877ddcfde91b4a104b0138274913a"
+    },
+    {
+      "name": "stltoday-2022-10-28T13:33:23.778928-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666982034",
+      "size": "36205",
+      "md5": "9798e59c7b3662f4fe7437d479adb43f",
+      "crc32": "2be3ca91",
+      "sha1": "2f23571a847f0421890ae4d581d79a64ce498ee5",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-28T13:33:23.778928-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666982036",
+      "size": "81496",
+      "md5": "3d4d67a1fbbf1ad792a25a3d9b205234",
+      "crc32": "c57dc710",
+      "sha1": "079a447e38cfa11a269cc072fbcfc6220b063e74",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-28T13:33:23.778928-05:00.jpg",
+      "source": "original",
+      "mtime": "1666982032",
+      "size": "309547",
+      "md5": "1cf84ffb0ce3f05c18714af930c049b4",
+      "crc32": "273a9247",
+      "sha1": "e6e212ffc63f1000e9ec224b14b7b0df36324a87",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-28T13:33:23.778928-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666982039",
+      "size": "1477",
+      "md5": "37a572ce364b63e9f759f92975df54f9",
+      "crc32": "42b049fb",
+      "sha1": "ed20e07fb2cca6a347717cda5c56acc4ec6e8514",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-28T13:33:23.778928-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666982043",
+      "size": "49678",
+      "md5": "842b88a3d3ed8621d65176792dfdfce7",
+      "crc32": "53f15c4c",
+      "sha1": "bf140ac8455370c651b7534eec641c9f59537de0",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-28T13:33:23.778928-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-28T13:33:23.778928-05:00.jpg",
+      "mtime": "1666984777",
+      "size": "12325",
+      "md5": "08c275c47f16d13bf0c0ca4d5f08d926",
+      "crc32": "3e8f1a06",
+      "sha1": "c48629ee7e6cafb637122a090ba460e2b020bf6b"
+    },
+    {
+      "name": "stltoday-2022-10-29T01:37:46.647221-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025470",
+      "size": "34313",
+      "md5": "c0850744b446e6c5523bb3e43dfcab0a",
+      "crc32": "1dad8710",
+      "sha1": "c8f6dac59891aa2cb42636ca6c725b838571d1b6",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-29T01:37:46.647221-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025471",
+      "size": "79065",
+      "md5": "98aba12c4bb2bad64b0676b5b163dedb",
+      "crc32": "67b7f506",
+      "sha1": "c6e8ec6b6984d01e99445683fcc25859d2ceccdc",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-29T01:37:46.647221-05:00.jpg",
+      "source": "original",
+      "mtime": "1667025468",
+      "size": "342537",
+      "md5": "6f1af1d8076f6b985a8177f8fa92c1f4",
+      "crc32": "127f0ead",
+      "sha1": "fd445b260c9e936e10b32302d9f751497b0f7ba9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-29T01:37:46.647221-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025474",
+      "size": "1477",
+      "md5": "ae8413c2b0ea03ac038f5d8ba703512c",
+      "crc32": "edc7380e",
+      "sha1": "41f5e8501e9f94428ef6a8bc06dd961b5be377b2",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-29T01:37:46.647221-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025476",
+      "size": "205",
+      "md5": "3353486527f163c2a10b2896ee9cba30",
+      "crc32": "4910c136",
+      "sha1": "5acb0083426695ee1832fd8caa6ad21b83f20c2b",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-29T01:37:46.647221-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-29T01:37:46.647221-05:00.jpg",
+      "mtime": "1667027939",
+      "size": "12423",
+      "md5": "90eed73e2f356b4d333388af17b39008",
+      "crc32": "afbf4d52",
+      "sha1": "c2cbd5d7afd7070bab8ac92124e1104e43e2c45b"
+    },
+    {
+      "name": "stltoday-2022-10-29T15:06:06.537532-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667073977",
+      "size": "35301",
+      "md5": "5cf976fd9883db5c6ddbc2d7a815859a",
+      "crc32": "c45524a6",
+      "sha1": "b0e5d7e956eec2dd4b17f90dce391a1d2a3a803d",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-29T15:06:06.537532-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667073979",
+      "size": "85224",
+      "md5": "1708492dedc0561620c87856e43214f7",
+      "crc32": "e568ee0b",
+      "sha1": "b1b3477011a4df2b6e47d29b0b0174cd25ad2c1a",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-29T15:06:06.537532-05:00.jpg",
+      "source": "original",
+      "mtime": "1667073975",
+      "size": "331389",
+      "md5": "e2f195313d3dc33be490fcf479f00daf",
+      "crc32": "5a1e4edf",
+      "sha1": "4c16b6f8a210e0c2ada2d3afef977b51302236df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-29T15:06:06.537532-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667073981",
+      "size": "1477",
+      "md5": "416429cf85dadc0837fd3120baeb8760",
+      "crc32": "ae6fe04f",
+      "sha1": "c091046cae3218b7241fdc461d863b375f900fc2",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-29T15:06:06.537532-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667073982",
+      "size": "51680",
+      "md5": "629cb0d50ce397610d692b0e4fb75309",
+      "crc32": "c3fc388e",
+      "sha1": "751696bd94139def96e1f63675520ab5a72023dd",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-29T15:06:06.537532-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-29T15:06:06.537532-05:00.jpg",
+      "mtime": "1667075187",
+      "size": "12559",
+      "md5": "f480145d2630dcd9166c2135f3713ed5",
+      "crc32": "188ca352",
+      "sha1": "a703c60746e6e4610fae7317668a44d2d4dbcd9d"
+    },
+    {
+      "name": "stltoday-2022-10-30T01:51:51.729637-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667112721",
+      "size": "34157",
+      "md5": "780635e307b24c7dfcb0b983caa30517",
+      "crc32": "4feff481",
+      "sha1": "5a62c4c0cc2d9e7a8485481594949f61cf3c8349",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-30T01:51:51.729637-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667112722",
+      "size": "79208",
+      "md5": "ea9ab55debb484eee64533bd2eef2123",
+      "crc32": "2d900ba7",
+      "sha1": "bdf55b7d8c6b8770682fd499b2774fa4135cc5ba",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-30T01:51:51.729637-05:00.jpg",
+      "source": "original",
+      "mtime": "1667112719",
+      "size": "339828",
+      "md5": "a9061cecc21f6aac7d999fc86f2b780a",
+      "crc32": "e7717a6d",
+      "sha1": "859850813a2d9af4ba4664d662ff8bbc75b3eec4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-30T01:51:51.729637-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667112724",
+      "size": "1477",
+      "md5": "b9a1043ab00acacdcfabf4e7caa65883",
+      "crc32": "aed180aa",
+      "sha1": "6f70dba069706250af1becdc7381cb757f30b19d",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-30T01:51:51.729637-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667112726",
+      "size": "45135",
+      "md5": "d06e2aab5e6a3ccf85d547f2ac174f7c",
+      "crc32": "d3147ec9",
+      "sha1": "b6e66f78645a858daf233d67e3d4203923e57081",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-30T01:51:51.729637-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-30T01:51:51.729637-05:00.jpg",
+      "mtime": "1667113612",
+      "size": "12779",
+      "md5": "47a597f463bd3e014338480d4ed819e7",
+      "crc32": "85c756c3",
+      "sha1": "6a240449a406e3df693b3afbbe2500c5f44a7579"
+    },
+    {
+      "name": "stltoday-2022-10-30T13:31:27.657735-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667154703",
+      "size": "35599",
+      "md5": "c5413f081e31aed8bd1ef90a777969b7",
+      "crc32": "763359f5",
+      "sha1": "6a3a072c1f96660fab228b6bd53170262682d85e",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-30T13:31:27.657735-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667154705",
+      "size": "81231",
+      "md5": "0f17566ca465798676bd6815cc53c58b",
+      "crc32": "52c00eaf",
+      "sha1": "f28e2eabadb881b67bd62915d346c35e01c4d5f1",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-30T13:31:27.657735-05:00.jpg",
+      "source": "original",
+      "mtime": "1667154698",
+      "size": "327888",
+      "md5": "a4eb464736425be65eb58cec6444b3e0",
+      "crc32": "a04224f6",
+      "sha1": "6e5fa2574fcf0f17754b12e0e5891325c0e201e3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-30T13:31:27.657735-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667154706",
+      "size": "1477",
+      "md5": "53669984996359ed0306b61e184aa399",
+      "crc32": "cde3c5a4",
+      "sha1": "6d5c59e4f76024a2d1f2ddc64eea03b78f77ac59",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-30T13:31:27.657735-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667154708",
+      "size": "101",
+      "md5": "2e7df1435c4e75a2d7fd98962286cf8f",
+      "crc32": "69dc228d",
+      "sha1": "f7682c09a20deaf6bd06b8dcb386b6a5e25a0985",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-30T13:31:27.657735-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-30T13:31:27.657735-05:00.jpg",
+      "mtime": "1667155539",
+      "size": "12328",
+      "md5": "c9c8ed352f663fae3d017ed69e2fb999",
+      "crc32": "149edfdb",
+      "sha1": "dddc10c97a492344d9291fd04b25bcb696502efc"
+    },
+    {
+      "name": "stltoday-2022-10-31T01:45:37.123594-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198751",
+      "size": "33232",
+      "md5": "b4603ea5ac32de0fa9bcf4f9a5b47324",
+      "crc32": "40aeb0bc",
+      "sha1": "e1c6318ae884ebdbfadac3351158703d71a98421",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-31T01:45:37.123594-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198753",
+      "size": "78028",
+      "md5": "7a612925baf82bac0337b6389d4609a7",
+      "crc32": "bbb97ba6",
+      "sha1": "a0990a041596c93fd632e4de116b6d256893161d",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-31T01:45:37.123594-05:00.jpg",
+      "source": "original",
+      "mtime": "1667198747",
+      "size": "370654",
+      "md5": "c2c4c63d52f53f6bdef68df39b8c09de",
+      "crc32": "e32def81",
+      "sha1": "4cb63e005a213d069718b6231dd9ec57328e224a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-31T01:45:37.123594-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198755",
+      "size": "1477",
+      "md5": "675127f283f9d6403642b7be43978a7c",
+      "crc32": "b5d6a413",
+      "sha1": "e45375f0a6472c92a82d6ada3146ca3a20214719",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-31T01:45:37.123594-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198757",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-31T01:45:37.123594-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-31T01:45:37.123594-05:00.jpg",
+      "mtime": "1667200801",
+      "size": "12099",
+      "md5": "964819818080682730b9d204d869c70c",
+      "crc32": "beab0819",
+      "sha1": "0b9405922932389cdb91f2d9ace60fdcad76ba53"
+    },
+    {
+      "name": "stltoday-2022-10-31T14:48:46.420463-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667245736",
+      "size": "34871",
+      "md5": "c1bc49f4b5bf7231e1f49fd50b2cb5c7",
+      "crc32": "daf7464a",
+      "sha1": "fcce568aac9f5d01e70a8a8d1d1248f7bb4c9019",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-31T14:48:46.420463-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667245738",
+      "size": "80194",
+      "md5": "8d526bc7be5d3721dd26f88662421619",
+      "crc32": "1e03facc",
+      "sha1": "4969f6fe2dd6e4a398521c61f6615ed21207bf37",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-31T14:48:46.420463-05:00.jpg",
+      "source": "original",
+      "mtime": "1667245734",
+      "size": "317241",
+      "md5": "999235b3121602103bc82b04b331a49e",
+      "crc32": "0476cd61",
+      "sha1": "72f17d89fa7097249b6725830628607e740c6306",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stltoday-2022-10-31T14:48:46.420463-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667245740",
+      "size": "1477",
+      "md5": "d37b3fe5007d83e2aa653cd20e95f8a3",
+      "crc32": "be81a53d",
+      "sha1": "516d8d1970ab39e5984e66ea7f9726b505d9fdef",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-31T14:48:46.420463-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667245742",
+      "size": "50357",
+      "md5": "fa790976e95c30267541b0d61a41a556",
+      "crc32": "15de5661",
+      "sha1": "7c4d24b8c5a6679c88258f82f0bc8614d58ec350",
+      "format": "JSON"
+    },
+    {
+      "name": "stltoday-2022-10-31T14:48:46.420463-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-10-31T14:48:46.420463-05:00.jpg",
+      "mtime": "1667246040",
+      "size": "12072",
+      "md5": "64e09fdd4df2ee542d6386001703497c",
+      "crc32": "c3aa8897",
+      "sha1": "33a329534f0a66780932cc69ce48ea511db58e67"
+    },
+    {
       "name": "stltoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b39f6b2a2f7ed8ed3adc601efbbac6f8a851cdc",
-      "mtime": "1666723654",
-      "size": "283885",
-      "md5": "cfd7292f82d61b9fc4f2023ef3593d40",
-      "crc32": "35112b85",
-      "sha1": "802f847c0e4b86885d349a74417bfe49808d09b8",
+      "btih": "4cfc5917075cdb0e16231efef1514ea0e4f74e63",
+      "mtime": "1667246066",
+      "size": "299276",
+      "md5": "779e8cf58eabe9654a5e363e2961a34d",
+      "crc32": "cbcbd853",
+      "sha1": "4639487b30fe14cc95b8ead7b268d29139f0bef4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stltoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c38faf00f2a25e2771d2e65b645fe16a",
+      "md5": "966052e8b1972bd8952c56d7ff905fcf",
       "summation": "md5"
     },
     {
       "name": "stltoday-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666723604",
-      "size": "1658880",
-      "md5": "d5ebbb19d00c6451307ac5e0287a8440",
-      "crc32": "d693a528",
-      "sha1": "b2a85829082e7cf40b70694daca90ab111be8906",
+      "mtime": "1667245746",
+      "size": "1753088",
+      "md5": "236c44bb116f950d1832d91f2e400870",
+      "crc32": "cfb9572f",
+      "sha1": "943f4115a0005b0b8b2ae71cdfc437e2cb95d112",
       "format": "Metadata"
     },
     {
@@ -13925,9 +14680,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1341,
-  "item_last_updated": 1666723654,
-  "item_size": 124124596,
+  "files_count": 1414,
+  "item_last_updated": 1667246066,
+  "item_size": 130128723,
   "metadata": {
     "identifier": "stltoday-2022",
     "collection": [
@@ -13944,21 +14699,10 @@
     "publicdate": "2022-06-24 23:01:32",
     "addeddate": "2022-06-24 23:01:32"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451973967,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 306141966,
+  "server": "ia802502.us.archive.org",
+  "uniq": 525865168,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

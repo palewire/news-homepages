@@ -1,5 +1,5 @@
 {
-  "created": 1666723593,
+  "created": 1667244811,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/31/items/salnews-2022",
@@ -4398,31 +4398,775 @@
       "sha1": "8725ac2d0b34b96e4751ec9fa838c5c4a09ef283"
     },
     {
+      "name": "salnews-2022-10-26T01:22:42.826294-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772565",
+      "size": "21420",
+      "md5": "cb28e7ffa031f29ff1e10db6a91c1c81",
+      "crc32": "190c084e",
+      "sha1": "6065ba6150ceebc24b9ab83e25518d79054457ec",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-26T01:22:42.826294-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772566",
+      "size": "32784",
+      "md5": "2750608eadb97469e42e89e0a79d3d08",
+      "crc32": "2d966b13",
+      "sha1": "d9a2d82eacb2cb16ae6fe35cbda4cdfe77a61d37",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-26T01:22:42.826294-07:00.jpg",
+      "source": "original",
+      "mtime": "1666772563",
+      "size": "253564",
+      "md5": "f854c51472336baa504f0987e4d3ca42",
+      "crc32": "1e2da32e",
+      "sha1": "423b68117ce6b5c3ff212cd33d9289dadc95276d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-26T01:22:42.826294-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772568",
+      "size": "1531",
+      "md5": "d9cb826e2680048a6743ef0238643ab2",
+      "crc32": "b0c48ae3",
+      "sha1": "a28706fc3f7ba6ec777d3734df43799c136cdcab",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-26T01:22:42.826294-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772569",
+      "size": "51816",
+      "md5": "d66c919c92b0ec6643dcfd05b4afd9de",
+      "crc32": "086296d8",
+      "sha1": "ca6767fb68675c2a31b9e6f856d16607450a835c",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-26T01:22:42.826294-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-26T01:22:42.826294-07:00.jpg",
+      "mtime": "1666773748",
+      "size": "9440",
+      "md5": "f114f8ef83475cbc8e14c6756a69b66d",
+      "crc32": "94482f35",
+      "sha1": "78a46f8f050c7f2af34fe81c53eb3b8ffe8ec4ba"
+    },
+    {
+      "name": "salnews-2022-10-26T13:51:24.959695-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666817490",
+      "size": "14705",
+      "md5": "595f70a5c8dff93de93251a0cad34b2d",
+      "crc32": "44f73c32",
+      "sha1": "44945c2f3edb418e725594f3044c40da84adbb8b",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-26T13:51:24.959695-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666817493",
+      "size": "32903",
+      "md5": "90777f5389a3be8d9156bf7a72d24df5",
+      "crc32": "3df53662",
+      "sha1": "7cbae8d87d68742c5cc954caaca7afb5d8dcdff0",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-26T13:51:24.959695-07:00.jpg",
+      "source": "original",
+      "mtime": "1666817488",
+      "size": "209545",
+      "md5": "8ead6ef86870a9facf8846d68916d55b",
+      "crc32": "fadc7a75",
+      "sha1": "fb985554dcd8505ce738340c402f14313bc7ba5e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-26T13:51:24.959695-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666817495",
+      "size": "1531",
+      "md5": "c595d69e4efb218665c36e377307a3e2",
+      "crc32": "397d291b",
+      "sha1": "7fa2fd2849219597240cd324a782b0297b87359c",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-26T13:51:24.959695-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666817498",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-26T13:51:24.959695-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-26T13:51:24.959695-07:00.jpg",
+      "mtime": "1666837761",
+      "size": "8803",
+      "md5": "8e5862f8b7b66ea4b11ba5c46aaee1c7",
+      "crc32": "2ccf6fdd",
+      "sha1": "7422cfde6da76751cc357b1721c818ea72fe79f5"
+    },
+    {
+      "name": "salnews-2022-10-27T00:26:48.350079-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855612",
+      "size": "21111",
+      "md5": "839c95ab015b05c9abff9e58dd2e806f",
+      "crc32": "6fa44344",
+      "sha1": "41add7b71c44bf0ab4a5a32938cd0ecb70126ab9",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-27T00:26:48.350079-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855615",
+      "size": "31205",
+      "md5": "37af102002f07235bca1a597e76f5819",
+      "crc32": "040c399a",
+      "sha1": "244016312e3b219641e74ef4188c567aa963d7ac",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-27T00:26:48.350079-07:00.jpg",
+      "source": "original",
+      "mtime": "1666855610",
+      "size": "209619",
+      "md5": "6932c2e8beba156481aa976bd064f379",
+      "crc32": "3344b2bc",
+      "sha1": "f9bbb6fbec0a40c6af7a247e5bcfb8e2370d9bc0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-27T00:26:48.350079-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855617",
+      "size": "1531",
+      "md5": "8c4eed318dfed09ca763ba1fd4f991f6",
+      "crc32": "1f1a554a",
+      "sha1": "91574f2d1eb922f4674fc0783b80bcc96d035841",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-27T00:26:48.350079-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855618",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-27T00:26:48.350079-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-27T00:26:48.350079-07:00.jpg",
+      "mtime": "1666878281",
+      "size": "8807",
+      "md5": "848de11c9f5101f0d277060b9423c62f",
+      "crc32": "ff0a6c95",
+      "sha1": "1384930d86d86eec335fb29ef6640afbd3847773"
+    },
+    {
+      "name": "salnews-2022-10-27T12:26:05.107269-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898775",
+      "size": "22074",
+      "md5": "10348e1453d88f346814370ae9e7ab76",
+      "crc32": "3c4de410",
+      "sha1": "d7e848d855bcc8326a0afc609c5f41b4b93c77f2",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-27T12:26:05.107269-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898777",
+      "size": "35266",
+      "md5": "19ba7e2b331acdc14ad6869972d8eb9d",
+      "crc32": "60fab8c4",
+      "sha1": "c0a8d97f9179ed4d00cda51f181882b84489975c",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-27T12:26:05.107269-07:00.jpg",
+      "source": "original",
+      "mtime": "1666898773",
+      "size": "220186",
+      "md5": "c6e8b4ae728e79265747aac3f8cbe852",
+      "crc32": "ebc7b75d",
+      "sha1": "9c54ad5015a3ce3a6b1e9896a49cc04b03ae04e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-27T12:26:05.107269-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898779",
+      "size": "1531",
+      "md5": "92bea39bd5049be18674f894a28cd4b9",
+      "crc32": "c8bf1cd5",
+      "sha1": "a8625ccea2ae89295962cd57868f4f35363835f7",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-27T12:26:05.107269-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898781",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-27T12:26:05.107269-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-27T12:26:05.107269-07:00.jpg",
+      "mtime": "1666906683",
+      "size": "9075",
+      "md5": "485ecd3cc2df101856dafd98ba533055",
+      "crc32": "b9a521c8",
+      "sha1": "dfb0c5de6372070659e1f10a95a6e95f28b929db"
+    },
+    {
+      "name": "salnews-2022-10-28T01:51:46.694470-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666947109",
+      "size": "20778",
+      "md5": "44ebc3b38992b2ad6606fb5018e44131",
+      "crc32": "a38cec14",
+      "sha1": "ec5215476e1d423a6ca2d028d1385d60f8603335",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-28T01:51:46.694470-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666947111",
+      "size": "33336",
+      "md5": "43079d9b92442026c082c44f4925a653",
+      "crc32": "ff80dd73",
+      "sha1": "a72bfa8cfd19a3ed8bf151cdba8469dd0f66062d",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-28T01:51:46.694470-07:00.jpg",
+      "source": "original",
+      "mtime": "1666947108",
+      "size": "251843",
+      "md5": "a337e31cf67262d9e17937a893c2c70a",
+      "crc32": "95efa4c8",
+      "sha1": "09d0a583431a81d5055851bbfc034f298498364c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-28T01:51:46.694470-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666947112",
+      "size": "1531",
+      "md5": "12c2d863a758d9c319a3dab902810fff",
+      "crc32": "e15b5e32",
+      "sha1": "9dc97e632b3341d9156e798fbbdf4b3f258259cf",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-28T01:51:46.694470-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666947113",
+      "size": "94305",
+      "md5": "8b57dbf71820be955879e04568f8a06d",
+      "crc32": "f113549c",
+      "sha1": "6aa87a74d8850ce369f04fe8ad1b95c329c23721",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-28T01:51:46.694470-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-28T01:51:46.694470-07:00.jpg",
+      "mtime": "1666951701",
+      "size": "9411",
+      "md5": "aef684193d83b7106ce07b351b332d23",
+      "crc32": "2fc99e05",
+      "sha1": "4f2a2832cb20344d47dea60e19db14f24fcfff05"
+    },
+    {
+      "name": "salnews-2022-10-28T11:31:08.376491-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666981871",
+      "size": "20619",
+      "md5": "170d9e7227666023c7326d89518f5794",
+      "crc32": "ff0f9d01",
+      "sha1": "4395d4e796ce3efca3c4c44285c6de8e77eb08ae",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-28T11:31:08.376491-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666981873",
+      "size": "32389",
+      "md5": "943167fecc1dfde69a39ad469f2c82ba",
+      "crc32": "a9b70993",
+      "sha1": "40062f7af520ea6da77ce50866d9fdb56e40721c",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-28T11:31:08.376491-07:00.jpg",
+      "source": "original",
+      "mtime": "1666981869",
+      "size": "258467",
+      "md5": "b684a3bb76c74fc36c61cde9282b2575",
+      "crc32": "684fbcfd",
+      "sha1": "e3db59a8436397dc15f1bf908d5ddf0a86789595",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-28T11:31:08.376491-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666981875",
+      "size": "1531",
+      "md5": "e88fa7a28e7006a093afeb514e589ff7",
+      "crc32": "b2e5337a",
+      "sha1": "d045198960cbccc490b2e36c695a70fefe3908b3",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-28T11:31:08.376491-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666981877",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-28T11:31:08.376491-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-28T11:31:08.376491-07:00.jpg",
+      "mtime": "1666985024",
+      "size": "9372",
+      "md5": "bb3fe4c8dac155306f367c32494393bd",
+      "crc32": "c15e7866",
+      "sha1": "1f7228bea15e7dd5c5948d334ba0123b49a4870f"
+    },
+    {
+      "name": "salnews-2022-10-28T23:47:03.200978-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667026029",
+      "size": "22341",
+      "md5": "56271f99ef5b8f4554467e5c80430318",
+      "crc32": "5a77f7a8",
+      "sha1": "c3c3f391f59eadd499be2e145869b78d094fe3d3",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-28T23:47:03.200978-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667026030",
+      "size": "30469",
+      "md5": "31db6008dd95610a9aa96ad9cc1d65bb",
+      "crc32": "60a7e2cc",
+      "sha1": "7dc378f5370e4f16464dcbbc07a8effe7e1b0f2f",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-28T23:47:03.200978-07:00.jpg",
+      "source": "original",
+      "mtime": "1667026027",
+      "size": "259181",
+      "md5": "5ee9ab00e1e5cbdfad9f3fed6d8faf2a",
+      "crc32": "0d3063f9",
+      "sha1": "0aa4620b429a2ddad8a54d23097e041257692b0a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-28T23:47:03.200978-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667026032",
+      "size": "1531",
+      "md5": "606ac10cb0f73dd37aa86cd82d7f5455",
+      "crc32": "727cc426",
+      "sha1": "e32d51be0bc7bb3f20bac346aa45bee1ff5e66ad",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-28T23:47:03.200978-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667026033",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-28T23:47:03.200978-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-28T23:47:03.200978-07:00.jpg",
+      "mtime": "1667027759",
+      "size": "9297",
+      "md5": "03f862e252735e6df6f7e47652e77af9",
+      "crc32": "f3a354bd",
+      "sha1": "6539af0c1415db690427f73a2150a82b580095fe"
+    },
+    {
+      "name": "salnews-2022-10-29T12:37:04.506461-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667072231",
+      "size": "20845",
+      "md5": "0d9fb63ae716d04d416365e56ee979af",
+      "crc32": "2d37c3dc",
+      "sha1": "d76d8f54147244d3698d8252adae64574b032b2d",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-29T12:37:04.506461-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667072232",
+      "size": "44815",
+      "md5": "ff7ae0e210fea73ed4499499f89bb1ba",
+      "crc32": "50f2b4c6",
+      "sha1": "46c435d022f851c46903b22bb0052af80e710000",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-29T12:37:04.506461-07:00.jpg",
+      "source": "original",
+      "mtime": "1667072228",
+      "size": "237614",
+      "md5": "df23ed2bf97da1c658b6715d8b99f925",
+      "crc32": "d235d466",
+      "sha1": "e5b9ed6f2055f06eea2392c05b234f7c28470837",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-29T12:37:04.506461-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667072234",
+      "size": "1531",
+      "md5": "651967f6225005624bff18605d7415cb",
+      "crc32": "88ead815",
+      "sha1": "cdc350f24fe1c175eaa331a8ca4fde607c5bc89c",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-29T12:37:04.506461-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667072236",
+      "size": "75762",
+      "md5": "e3cc4c5537f7bfe7e2df0cbb1bb17ab6",
+      "crc32": "6077f0cc",
+      "sha1": "2782476be9ad2367fe41f51b486dfb71be498ef9",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-29T12:37:04.506461-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-29T12:37:04.506461-07:00.jpg",
+      "mtime": "1667073224",
+      "size": "9140",
+      "md5": "c97d712108bd0a344abd2abaf6064c08",
+      "crc32": "380314df",
+      "sha1": "1ec088fc081dc6c214de53a4ad65f81c955ebadc"
+    },
+    {
+      "name": "salnews-2022-10-30T00:03:21.037102-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667113406",
+      "size": "21783",
+      "md5": "1b7a3de4b7f70b289fc11816403d10a4",
+      "crc32": "d8b7850e",
+      "sha1": "4545d60d1c1686f89c43816f275d9bfe356b3eca",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-30T00:03:21.037102-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667113407",
+      "size": "36160",
+      "md5": "ebcfe6b8361ba331355a8e0ef5c00940",
+      "crc32": "b350999f",
+      "sha1": "2022564673742f2124026e7d9df40c641a4d3ff5",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-30T00:03:21.037102-07:00.jpg",
+      "source": "original",
+      "mtime": "1667113404",
+      "size": "222166",
+      "md5": "22955d9380f2a47c2e03d0e33ee5bf6a",
+      "crc32": "d7dc2ce6",
+      "sha1": "69288c769e3bb4451c647ca405187e6112e2159d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-30T00:03:21.037102-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667113409",
+      "size": "1531",
+      "md5": "2903426a6bcdbd62843c34edc70605ad",
+      "crc32": "4c6390c2",
+      "sha1": "c25b1cdf8bf13307d278b006d468b5457fff515b",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-30T00:03:21.037102-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667113410",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-30T00:03:21.037102-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-30T00:03:21.037102-07:00.jpg",
+      "mtime": "1667114739",
+      "size": "9155",
+      "md5": "1f70af27d0358bc9eb4989e397e6eba1",
+      "crc32": "ff5fb5ed",
+      "sha1": "1ae49d042eaeb941468b0f7408d2d0da329647dd"
+    },
+    {
+      "name": "salnews-2022-10-30T11:29:16.087492-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667154562",
+      "size": "20057",
+      "md5": "c419b90dffbca08272465bf8a705b66f",
+      "crc32": "ad3a7289",
+      "sha1": "4d4c7c1d495aa672e12dafbdca13878daf4f8e59",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-30T11:29:16.087492-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667154563",
+      "size": "40365",
+      "md5": "e7be1ba3430f9d56e50867bafa46b906",
+      "crc32": "cddc5920",
+      "sha1": "847dc705fdcfdb1c916448f8c4b8a1844acf6125",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-30T11:29:16.087492-07:00.jpg",
+      "source": "original",
+      "mtime": "1667154560",
+      "size": "227339",
+      "md5": "7c7c9acec5f4d8419fb8abcf3b3007ba",
+      "crc32": "6b5ffbac",
+      "sha1": "e7bc60e74866b544b30f1be59bfb193c66cbe793",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-30T11:29:16.087492-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667154564",
+      "size": "1531",
+      "md5": "125c6d309412bb5d164d4ae4d9d40a39",
+      "crc32": "a4f7b8be",
+      "sha1": "57f7bfc9ad2893b401f609ab13e48aeee5e979ba",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-30T11:29:16.087492-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667154567",
+      "size": "70117",
+      "md5": "7334ef2e52d0c0654e5c372828793d24",
+      "crc32": "72f6ad6c",
+      "sha1": "95ac1b95bce4199beacf049fb88160834fa517db",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-30T11:29:16.087492-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-30T11:29:16.087492-07:00.jpg",
+      "mtime": "1667154796",
+      "size": "9131",
+      "md5": "3ffe5f7ffc2097429cdc2549e914cea5",
+      "crc32": "a7041ca5",
+      "sha1": "c05c9e527f0dc2c2d34ca30d5a3a36aadf827da0"
+    },
+    {
+      "name": "salnews-2022-10-30T23:45:10.137568-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198714",
+      "size": "22265",
+      "md5": "59309035778a76862041cde71153d7e9",
+      "crc32": "efdb6b28",
+      "sha1": "649622a3f36a6bdabab79332e2ad61cd6a9d0c27",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-30T23:45:10.137568-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198716",
+      "size": "29424",
+      "md5": "8bec81e64579634d032d2456ad098151",
+      "crc32": "f2c65b67",
+      "sha1": "7bdf03399a7bb7ce086caa4505b8c8fd78b13844",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-30T23:45:10.137568-07:00.jpg",
+      "source": "original",
+      "mtime": "1667198713",
+      "size": "232870",
+      "md5": "fcb686b4f830c8006cb626cc0a8c2661",
+      "crc32": "49dedf9c",
+      "sha1": "d5179bc4e63258e51a4acd92adb993b19fc43da4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-30T23:45:10.137568-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198718",
+      "size": "1531",
+      "md5": "7d3d1baf168cc5f55fda126fdc040a1d",
+      "crc32": "a3684c98",
+      "sha1": "5bb78fd364837192460ae760a0718cb497621ee3",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-30T23:45:10.137568-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198719",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-30T23:45:10.137568-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-30T23:45:10.137568-07:00.jpg",
+      "mtime": "1667200737",
+      "size": "9178",
+      "md5": "f3c89a5bfa587181f1f2a1e6d1bdbc8d",
+      "crc32": "1927a380",
+      "sha1": "a276d9d56cf13effa58646b55adcfc9c2efc26dd"
+    },
+    {
+      "name": "salnews-2022-10-31T12:24:21.825401-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667244268",
+      "size": "21263",
+      "md5": "97317ff418eb038a2750101a6f2f3016",
+      "crc32": "5be9f622",
+      "sha1": "dc5835aaf6ce558aa9337b52445d6c56e70addb1",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-31T12:24:21.825401-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667244270",
+      "size": "41293",
+      "md5": "ce58c5fff686b267192f079f274cde92",
+      "crc32": "b0f0f87a",
+      "sha1": "d4161f2336bf34757bbcd4721b1778657f8cd309",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-31T12:24:21.825401-07:00.jpg",
+      "source": "original",
+      "mtime": "1667244266",
+      "size": "280858",
+      "md5": "39711096e090aa54cee41394e1e2f9d2",
+      "crc32": "8060d38e",
+      "sha1": "4796c21fb24f59c9c24b9eebf7878cc701299438",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-10-31T12:24:21.825401-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667244273",
+      "size": "1531",
+      "md5": "2556e45ecc77f21a9131a14631a52751",
+      "crc32": "4d73b08a",
+      "sha1": "bb8757197202f482262cc4dc6901ad525da21805",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-31T12:24:21.825401-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667244277",
+      "size": "67811",
+      "md5": "e4272c100ddc01e82992d217b4e1f2d3",
+      "crc32": "b3542163",
+      "sha1": "ba40a2e1f9998ff30146e45117cd0233ecd95c15",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-10-31T12:24:21.825401-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-10-31T12:24:21.825401-07:00.jpg",
+      "mtime": "1667244785",
+      "size": "9420",
+      "md5": "78e3015ba767aea21788ce132a30a5c7",
+      "crc32": "430b9899",
+      "sha1": "0f37837d3232f711313076fe149e90bbe5d8dc15"
+    },
+    {
       "name": "salnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2aa036bf0c36233cf6ba7d885d5d484f5588c0ac",
-      "mtime": "1666723455",
-      "size": "90242",
-      "md5": "855226b5de8744a8999f6a9d0124677f",
-      "crc32": "634ca9d7",
-      "sha1": "14b4961c8994b94c6d6bf0f7a8c5df93ab01643a",
+      "btih": "1366b7fd41cac04ae627902a873487b29c255de8",
+      "mtime": "1667244798",
+      "size": "105280",
+      "md5": "fadf91a3edb5d0e9d5f3e261abcd87cd",
+      "crc32": "bd03c0b5",
+      "sha1": "fbcd18e533647dedc7534660a184f3fa931b2434",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa5af3fb961902b50d91401e9bff1efe",
+      "md5": "78c2cd9900c66bb2b0e61d5124436d67",
       "summation": "md5"
     },
     {
       "name": "salnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722351",
-      "size": "557056",
-      "md5": "b4be3ff8502540e5c9451599396fc306",
-      "crc32": "8e57542e",
-      "sha1": "4e0ecc222cc25548e5b8a2b352282a6f503d47cc",
+      "mtime": "1667244290",
+      "size": "647168",
+      "md5": "aec90508c8e0ae2fcb08ed7224d74d47",
+      "crc32": "b6b5e79a",
+      "sha1": "42688e4e9143eb814b0aac28ba40e60debacbc43",
       "format": "Metadata"
     },
     {
@@ -4436,9 +5180,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 429,
-  "item_last_updated": 1666723455,
-  "item_size": 26740463,
+  "files_count": 501,
+  "item_last_updated": 1667244798,
+  "item_size": 30868361,
   "metadata": {
     "identifier": "salnews-2022",
     "collection": [
@@ -4455,10 +5199,10 @@
     "publicdate": "2022-09-20 19:23:48",
     "addeddate": "2022-09-20 19:23:48"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1044316145,
+  "server": "ia601409.us.archive.org",
+  "uniq": 2002718567,
   "workable_servers": [
-    "ia801409.us.archive.org",
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

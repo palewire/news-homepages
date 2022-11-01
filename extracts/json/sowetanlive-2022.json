@@ -1,5 +1,5 @@
 {
-  "created": 1666709497,
+  "created": 1667228317,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/2/items/sowetanlive-2022",
@@ -7767,31 +7767,775 @@
       "format": "JSON"
     },
     {
+      "name": "sowetanlive-2022-10-25T16:50:30.969783+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-25T16:50:30.969783+02:00.jpg",
+      "mtime": "1666712263",
+      "size": "9729",
+      "md5": "5833d5a0e2622d6637e3c78fdcf491ca",
+      "crc32": "766102f3",
+      "sha1": "5fccaa839691d839896ef1c798fc655606b08a64"
+    },
+    {
+      "name": "sowetanlive-2022-10-26T05:42:25.740436+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666755749",
+      "size": "28208",
+      "md5": "82ec91e6ea4ef9976b892dc24ad122a8",
+      "crc32": "acf3c5c8",
+      "sha1": "328f332717100d3739cc2700f1dc87437fe0d165",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-26T05:42:25.740436+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666755751",
+      "size": "28470",
+      "md5": "2ea4d0a24bbfbc44eb64010535c63a02",
+      "crc32": "4d26b15c",
+      "sha1": "2061f7275734bb56ba7ecdd53e515033079db913",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-26T05:42:25.740436+02:00.jpg",
+      "source": "original",
+      "mtime": "1666755747",
+      "size": "236201",
+      "md5": "a6c0a55ff1fb4a7365856c4b8e8bca74",
+      "crc32": "0c33152d",
+      "sha1": "bacaac764be1f0d747b42bbf8b91f8a781e589dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-26T05:42:25.740436+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666755753",
+      "size": "1518",
+      "md5": "f09b15b2dfe74b55611c11260749a25d",
+      "crc32": "1f659765",
+      "sha1": "92e00b81931bca7ec36b6714de4263b46ed8285d",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-26T05:42:25.740436+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666755754",
+      "size": "52600",
+      "md5": "48e2e38e7cc857b743fb88a9a8d08017",
+      "crc32": "69f1d1fe",
+      "sha1": "b85c7a2e5a7bb611125eb9857fdbea09a38d137d",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-26T05:42:25.740436+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-26T05:42:25.740436+02:00.jpg",
+      "mtime": "1666756037",
+      "size": "9788",
+      "md5": "19200f7df523580c8573a2a6f3621eb0",
+      "crc32": "9fe407af",
+      "sha1": "0a6c0062fc10c52a4f7cf44a75f5cd6ad59d5d99"
+    },
+    {
+      "name": "sowetanlive-2022-10-26T17:02:00.704532+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796532",
+      "size": "27817",
+      "md5": "3fb6ffcbc3343b67162368cc838c7d88",
+      "crc32": "282c9c96",
+      "sha1": "c042d682b8fe00c7b2e9d672dfc9eace2060ba1a",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-26T17:02:00.704532+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796533",
+      "size": "28109",
+      "md5": "f9919209d0d053d7dfdc8fd2e8766335",
+      "crc32": "0db0473a",
+      "sha1": "87df90c09330bbf2ab4ad60d0cd27bd3f09eebcf",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-26T17:02:00.704532+02:00.jpg",
+      "source": "original",
+      "mtime": "1666796530",
+      "size": "241540",
+      "md5": "b168d7faca22c3ac1e20d7e287ba72a6",
+      "crc32": "0da33d61",
+      "sha1": "19a4ed8f4fb200166915ad4a487cb387ba36604a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-26T17:02:00.704532+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796535",
+      "size": "1519",
+      "md5": "cd00c2196808b497de15f32fb0e7d4b8",
+      "crc32": "fd9c5c25",
+      "sha1": "f53b860d77f7a86697df9c7a5aa1616f95cb2d55",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-26T17:02:00.704532+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796537",
+      "size": "51122",
+      "md5": "6a71910869afde5bb713832f50dc9686",
+      "crc32": "d64d564d",
+      "sha1": "57ec52b362630367231aaeed1947dee7c6869323",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-26T17:02:00.704532+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-26T17:02:00.704532+02:00.jpg",
+      "mtime": "1666797542",
+      "size": "9621",
+      "md5": "a8644469ebbc8ba2ab42e1063bf24543",
+      "crc32": "3d7ca3b1",
+      "sha1": "b9357ea75ece0e65d5fb323660585a39de173b00"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T05:37:51.785088+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666841883",
+      "size": "28634",
+      "md5": "4d0cd448a5a160e0576206012ef24459",
+      "crc32": "68f1aa7d",
+      "sha1": "dae5f6cc5d1b760e376869a782f97d5e34d562d6",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T05:37:51.785088+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666841885",
+      "size": "27889",
+      "md5": "01453b3be7399733d3d17c92d49e05c8",
+      "crc32": "66c9a673",
+      "sha1": "042281fc0f41ad20f62dc6cc658af4d2d3078e21",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T05:37:51.785088+02:00.jpg",
+      "source": "original",
+      "mtime": "1666841881",
+      "size": "239187",
+      "md5": "219f71e9944362d627601665c197c815",
+      "crc32": "26835332",
+      "sha1": "5b7cb22c80bad3f00f9746497304e7960e0b0449",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T05:37:51.785088+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666841887",
+      "size": "1519",
+      "md5": "bab5732fd0d35624d35b064aaedbe51a",
+      "crc32": "66c7fafd",
+      "sha1": "cce448fbec525310bb450619d9cba4e3099aa50c",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T05:37:51.785088+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666841888",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T05:37:51.785088+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-27T05:37:51.785088+02:00.jpg",
+      "mtime": "1666866408",
+      "size": "9708",
+      "md5": "effd1718faa0697baf5590782490210d",
+      "crc32": "fa9183d4",
+      "sha1": "e71b4880d9c3e752d3665693e054bb41c5c4aee7"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T17:07:46.462035+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883276",
+      "size": "28710",
+      "md5": "1b7a82c70e8cdd398aaf329fbc2c19bf",
+      "crc32": "6854414c",
+      "sha1": "0c9cb0980c23e7b2cf8404a609ab3c0cabac6157",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T17:07:46.462035+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883279",
+      "size": "27796",
+      "md5": "2ebbc11effd81a874350ac1c24283f46",
+      "crc32": "6e722cff",
+      "sha1": "b886f77a364d96ffe4c0645c5822a44f9b4c3501",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T17:07:46.462035+02:00.jpg",
+      "source": "original",
+      "mtime": "1666883273",
+      "size": "227978",
+      "md5": "70349ba1f28a8120fe378cf13d606236",
+      "crc32": "d4557722",
+      "sha1": "75a1a1684b954d21b946677fe18152727e9e8970",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T17:07:46.462035+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883283",
+      "size": "1520",
+      "md5": "94c0b2c85f3f311dcef374a356d7cec0",
+      "crc32": "5cba57d1",
+      "sha1": "4a9569572b8d3f6654659ab2f40ece8212ce8bb5",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T17:07:46.462035+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883288",
+      "size": "56290",
+      "md5": "65fce32e7a5d102994b2d9ea5a1f364c",
+      "crc32": "791d211a",
+      "sha1": "1dd1cb0a3d5d0a2aec0c95721b00ae3853baa7f1",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-27T17:07:46.462035+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-27T17:07:46.462035+02:00.jpg",
+      "mtime": "1666895338",
+      "size": "9619",
+      "md5": "a63454ed7fee809c89d68fe88e94152b",
+      "crc32": "f2f1ac94",
+      "sha1": "f5c59bfb9b1fd8dad029aae7038cdb90276088db"
+    },
+    {
+      "name": "sowetanlive-2022-10-28T06:36:11.271535+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666931780",
+      "size": "28760",
+      "md5": "d8f62dbe2713f5314d59561478115ff0",
+      "crc32": "f7e8faa9",
+      "sha1": "038b95b1350dcc6821398ad87559d46ef904ee8f",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-28T06:36:11.271535+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666931782",
+      "size": "28449",
+      "md5": "8bf5aa83d14f00ff26d3ce42cfb52d78",
+      "crc32": "89d57462",
+      "sha1": "4b5ee5e40644a223bf34dcc0d70826e8a46f248e",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-28T06:36:11.271535+02:00.jpg",
+      "source": "original",
+      "mtime": "1666931779",
+      "size": "245140",
+      "md5": "28248fbcfe9e344683489fcb16190608",
+      "crc32": "9c14c09e",
+      "sha1": "55ea34fb0a276c9cda62953103062dfd44fce1fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-28T06:36:11.271535+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666931783",
+      "size": "1520",
+      "md5": "9a346cd641b766d748a74032ba389e03",
+      "crc32": "f9a8cc4f",
+      "sha1": "a35c1c6b598d50ca01b913b9c40dd4075182891d",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-28T06:36:11.271535+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666931785",
+      "size": "59902",
+      "md5": "98739f91f7ee06a9a4d15c5895b61c77",
+      "crc32": "c0a07312",
+      "sha1": "00bde4c41a185139fd1d81ee29550473085ca44e",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-28T06:36:11.271535+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-28T06:36:11.271535+02:00.jpg",
+      "mtime": "1666933382",
+      "size": "9707",
+      "md5": "1223c0af43a89deb3d672ca0b9e2269c",
+      "crc32": "cbee45a2",
+      "sha1": "0e3b1b056b6ec1be8027fa52a3c83a4f56158809"
+    },
+    {
+      "name": "sowetanlive-2022-10-28T16:43:11.287707+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968199",
+      "size": "28475",
+      "md5": "6fa946ef40f19e542f61ea39f1980fa1",
+      "crc32": "58063d7d",
+      "sha1": "619e51e54244bce91318ebc0a47baf09d72c86c7",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-28T16:43:11.287707+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968201",
+      "size": "27863",
+      "md5": "da62d2194df22383d228b6a1e76212af",
+      "crc32": "13f20c99",
+      "sha1": "843d3ebe260e9e600ae564ec3d513527eab1d9a7",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-28T16:43:11.287707+02:00.jpg",
+      "source": "original",
+      "mtime": "1666968195",
+      "size": "233630",
+      "md5": "e253a7ac4011abf5f06ea7dd9bd2225c",
+      "crc32": "db9d70ce",
+      "sha1": "df63576062da5de1d4f019757dd672a099a2fc5b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-28T16:43:11.287707+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968203",
+      "size": "1521",
+      "md5": "c61c9803ad845d20eefc967a52312ff2",
+      "crc32": "eafa4726",
+      "sha1": "fc89cfe5d3fdcd01ef8955e0d1684ef992a25bba",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-28T16:43:11.287707+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968206",
+      "size": "49289",
+      "md5": "3d82e718eb8cb89a55487a8eebfea992",
+      "crc32": "e7a7fc3f",
+      "sha1": "eee80d42c55cf813e6e5e05500c148c840e29e9a",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-28T16:43:11.287707+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-28T16:43:11.287707+02:00.jpg",
+      "mtime": "1666973418",
+      "size": "9485",
+      "md5": "2583b0f8c71651e4fdd509bf29e75c65",
+      "crc32": "5418b150",
+      "sha1": "204a7c5e2e8638b841cbdd2aa7745cc03567d100"
+    },
+    {
+      "name": "sowetanlive-2022-10-29T05:29:15.903859+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014167",
+      "size": "29011",
+      "md5": "7053e26d30daf8b32b3b7e647f68aac5",
+      "crc32": "3a7c9f99",
+      "sha1": "64769530507157462de783e4b02443c9d66d2eb6",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-29T05:29:15.903859+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014169",
+      "size": "27969",
+      "md5": "e1140ae58dc7ba6a8e354266467a37aa",
+      "crc32": "b5bdc327",
+      "sha1": "aa222569a0fd9844cb91d08091a129b5e02a3ec1",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-29T05:29:15.903859+02:00.jpg",
+      "source": "original",
+      "mtime": "1667014165",
+      "size": "235759",
+      "md5": "1574e313b9a7155bc301e1ab86103b8a",
+      "crc32": "b3dffec3",
+      "sha1": "8482010d3a8c2067d62000e72dcd92ef8dcd4608",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-29T05:29:15.903859+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014171",
+      "size": "1520",
+      "md5": "a263a6174f90f2a2089de513cbb24e47",
+      "crc32": "425d2416",
+      "sha1": "2729d9ccda291960cd58cff1b21a7447c30fed62",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-29T05:29:15.903859+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014173",
+      "size": "255",
+      "md5": "001c23d83d705bbb66e717cee8ea5df7",
+      "crc32": "adce9222",
+      "sha1": "e0127dd888d3165063d97712b5dac2909723e9bf",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-29T05:29:15.903859+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-29T05:29:15.903859+02:00.jpg",
+      "mtime": "1667015363",
+      "size": "9509",
+      "md5": "328817f42ce5ebb46428ccfdfa2857ed",
+      "crc32": "cac5a241",
+      "sha1": "66990dcda4207ad59d5ae6b84ec7b0fa2c737e45"
+    },
+    {
+      "name": "sowetanlive-2022-10-29T17:04:27.155943+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667055875",
+      "size": "28929",
+      "md5": "478fa741861067a746a46e73bb65d7d3",
+      "crc32": "7e0068fc",
+      "sha1": "0eff253aa0ad8e4f19812ce985d792d7c9580dce",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-29T17:04:27.155943+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667055877",
+      "size": "28127",
+      "md5": "fb2209260bb57a0ab5d055ad338c57aa",
+      "crc32": "56192269",
+      "sha1": "d1bd35702b5beb806a34501005da1d9d29e44ef9",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-29T17:04:27.155943+02:00.jpg",
+      "source": "original",
+      "mtime": "1667055873",
+      "size": "238271",
+      "md5": "37d1d0d25e95fab345e2fb7289a69621",
+      "crc32": "1b3c9aef",
+      "sha1": "d67d4112123c9f5bc0f3296596926cd9ca5bfd22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-29T17:04:27.155943+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667055878",
+      "size": "1522",
+      "md5": "fc954ec0a372b2b6172a4fce6f50f304",
+      "crc32": "1b0ca535",
+      "sha1": "11b2216939dd0230236b3519ecf02beefa3a7ceb",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-29T17:04:27.155943+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667055879",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-29T17:04:27.155943+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-29T17:04:27.155943+02:00.jpg",
+      "mtime": "1667056829",
+      "size": "9525",
+      "md5": "9374d3ccf566507ea2112256c81c9309",
+      "crc32": "6e8a0ccf",
+      "sha1": "306d41d2ce3ad3182b72e3c71b7df14583b03766"
+    },
+    {
+      "name": "sowetanlive-2022-10-30T05:27:55.112958+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100481",
+      "size": "28929",
+      "md5": "478fa741861067a746a46e73bb65d7d3",
+      "crc32": "7e0068fc",
+      "sha1": "0eff253aa0ad8e4f19812ce985d792d7c9580dce",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-30T05:27:55.112958+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100483",
+      "size": "28243",
+      "md5": "0bd27c5f32fc236440c63537e7f2922c",
+      "crc32": "c43cfd54",
+      "sha1": "3638048f3a2c7ff85a93459ad485c75790d2eee7",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-30T05:27:55.112958+02:00.jpg",
+      "source": "original",
+      "mtime": "1667100480",
+      "size": "238271",
+      "md5": "37d1d0d25e95fab345e2fb7289a69621",
+      "crc32": "1b3c9aef",
+      "sha1": "d67d4112123c9f5bc0f3296596926cd9ca5bfd22",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-30T05:27:55.112958+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100485",
+      "size": "1521",
+      "md5": "a5e7934097bf4adaa93d52a4a6d67e27",
+      "crc32": "527c4dac",
+      "sha1": "f9acb31e05159c00854f2d9601ae04984563e26c",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-30T05:27:55.112958+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100486",
+      "size": "59355",
+      "md5": "ff87630a1a0161499c2a0e18e5c49df4",
+      "crc32": "9134b68e",
+      "sha1": "1ec669100eecc4459c9a4431eecaec8a0966924d",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-30T05:27:55.112958+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-30T05:27:55.112958+02:00.jpg",
+      "mtime": "1667101213",
+      "size": "9525",
+      "md5": "9374d3ccf566507ea2112256c81c9309",
+      "crc32": "6e8a0ccf",
+      "sha1": "306d41d2ce3ad3182b72e3c71b7df14583b03766"
+    },
+    {
+      "name": "sowetanlive-2022-10-30T16:38:40.392366+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667140732",
+      "size": "28605",
+      "md5": "56c1a6af62b17247f2d8325c4fd1e818",
+      "crc32": "53bfdbe4",
+      "sha1": "8f9709e8fce8f8214cd9e6fd8cc7a8e956f47c01",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-30T16:38:40.392366+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667140734",
+      "size": "28028",
+      "md5": "6be30debce21c0e5a9f6d3148e390a52",
+      "crc32": "2dd4b771",
+      "sha1": "eef28eb55a0e18ebe4fda6549c3740ae9dd93649",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-30T16:38:40.392366+02:00.jpg",
+      "source": "original",
+      "mtime": "1667140729",
+      "size": "253882",
+      "md5": "8380363609753664337b32d44a075db7",
+      "crc32": "cdbc8250",
+      "sha1": "d53c8e1709955504630b2f1db31a9f10e8e373a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-30T16:38:40.392366+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667140736",
+      "size": "1519",
+      "md5": "99ac67376d8abcff845cab568cdcdf7b",
+      "crc32": "b7e97db3",
+      "sha1": "83701615ba854fab5d14479236c049d7a294642f",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-30T16:38:40.392366+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667140737",
+      "size": "51797",
+      "md5": "f323e92e739246f5e37e46fbc1e5b0e1",
+      "crc32": "10fabe01",
+      "sha1": "820e18fb63f084e1885bc1a55380e5b481495679",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-30T16:38:40.392366+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-30T16:38:40.392366+02:00.jpg",
+      "mtime": "1667140861",
+      "size": "9575",
+      "md5": "ecacd04203dce76a829b99a90a1d23e5",
+      "crc32": "529430c5",
+      "sha1": "fbfabc92a4221d55f0b93f731884b76d1c93d51f"
+    },
+    {
+      "name": "sowetanlive-2022-10-31T05:25:12.742639+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667186721",
+      "size": "28608",
+      "md5": "442e15bcc8d434d9e4aa4dba8b55b531",
+      "crc32": "81bc8840",
+      "sha1": "10ae2bb9141ae17d4f8673590b1b65bc31c430b7",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-31T05:25:12.742639+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667186722",
+      "size": "28038",
+      "md5": "adac1b516372be3c48b363ed024a3431",
+      "crc32": "aa11c5ec",
+      "sha1": "1f0fa506acd2dfce8ab41f08bf60f74cfb163b66",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-31T05:25:12.742639+02:00.jpg",
+      "source": "original",
+      "mtime": "1667186719",
+      "size": "238603",
+      "md5": "242cd7a820911169284ad960d54f31e3",
+      "crc32": "2f98ecd7",
+      "sha1": "83341dc884743415088359b9c32cbada4e80bd7a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-31T05:25:12.742639+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667186724",
+      "size": "1521",
+      "md5": "8c31c1640ad13755f39542d18796b1cc",
+      "crc32": "fed3d746",
+      "sha1": "0e9c92dba41bc40bf7bfafeb5780fd381e332d22",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-31T05:25:12.742639+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667186726",
+      "size": "56834",
+      "md5": "b0af27ffd4b1167b538f0d0a09e35b23",
+      "crc32": "273371bf",
+      "sha1": "ed2b908a0b5211a034624f31d02f33c7caaffd16",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-31T05:25:12.742639+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sowetanlive-2022-10-31T05:25:12.742639+02:00.jpg",
+      "mtime": "1667187411",
+      "size": "9521",
+      "md5": "a2e4c7d96a3436197c6e4178684bc906",
+      "crc32": "9e80316a",
+      "sha1": "da0ca3ca1fbfa317b9bb0a96e7c059abc6b7971f"
+    },
+    {
+      "name": "sowetanlive-2022-10-31T16:57:27.588731+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667228256",
+      "size": "28369",
+      "md5": "6485c354278ac6dacc144f58b92a6265",
+      "crc32": "dac928ae",
+      "sha1": "df239183dc5cff6620fa34eddd758c57556f3004",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-31T16:57:27.588731+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667228258",
+      "size": "27711",
+      "md5": "b9456e0f4a32c24624d0211f6fe3aabb",
+      "crc32": "3e9e6f33",
+      "sha1": "10226c0179258870b9e9ef79290b5b0a2c99ab8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-31T16:57:27.588731+02:00.jpg",
+      "source": "original",
+      "mtime": "1667228254",
+      "size": "238219",
+      "md5": "4185820310ec5eae41ea444cb4b66a63",
+      "crc32": "b859e084",
+      "sha1": "4abe9c94b888facfde0f09d1555c36a94c1fb552",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sowetanlive-2022-10-31T16:57:27.588731+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667228260",
+      "size": "1519",
+      "md5": "c6fdb81da400bda909f8ba4051d446f8",
+      "crc32": "cb74f7fa",
+      "sha1": "b58e95f09ec3a725422ffaa4d5086ecbfe7c390f",
+      "format": "JSON"
+    },
+    {
+      "name": "sowetanlive-2022-10-31T16:57:27.588731+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667228262",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "sowetanlive-2022_archive.torrent",
       "source": "metadata",
-      "btih": "24ed7201edb0036942eac821776320eefd244aa8",
-      "mtime": "1666709492",
-      "size": "161335",
-      "md5": "e50e6bf5d925c15c714cf34c50bfefc5",
-      "crc32": "ddc90187",
-      "sha1": "4ddadbb6e2c201e6000b4b385a65c2fa3db6f192",
+      "btih": "0a480b384acad699a09adbcfd34e5f5f3625e74d",
+      "mtime": "1667228311",
+      "size": "176668",
+      "md5": "513c050d5a05865d058089bde898968e",
+      "crc32": "884b8254",
+      "sha1": "cb8cb2587497bf502ea1b3f370487f7a1eececdf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sowetanlive-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f8796237ea78112c2b7999885730db7a",
+      "md5": "9dca91132fa8ad5eafa7566583096d45",
       "summation": "md5"
     },
     {
       "name": "sowetanlive-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666709449",
-      "size": "974848",
-      "md5": "40b85181a974f8da7d590925a32191c7",
-      "crc32": "780c2e82",
-      "sha1": "6d57cf875e5e4ce1fada16c70f669c9a18952a65",
+      "mtime": "1667228266",
+      "size": "1069056",
+      "md5": "efe1cc97b875c710e0c8dc2b00669ff3",
+      "crc32": "07fb31e9",
+      "sha1": "fd7c364d9fae5fca88bb258815032aef1d2eeef3",
       "format": "Metadata"
     },
     {
@@ -7805,9 +8549,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 755,
-  "item_last_updated": 1666709492,
-  "item_size": 43278634,
+  "files_count": 827,
+  "item_last_updated": 1667228311,
+  "item_size": 47506204,
   "metadata": {
     "identifier": "sowetanlive-2022",
     "collection": [
@@ -7829,7 +8573,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451737934,
+      "task_id": 3457848188,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -7837,7 +8581,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1564545109,
+  "uniq": 1166798782,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]

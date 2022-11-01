@@ -1,5 +1,5 @@
 {
-  "created": 1666695700,
+  "created": 1667257222,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/14/items/aspendailynews-2022",
@@ -8047,31 +8047,837 @@
       "format": "JSON"
     },
     {
+      "name": "aspendailynews-2022-10-25T04:58:49.462671-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-25T04:58:49.462671-06:00.jpg",
+      "mtime": "1666697696",
+      "size": "8207",
+      "md5": "ac347a7bd5308bd25e3e87500b1e3316",
+      "crc32": "b90e5632",
+      "sha1": "1c60c42ac2b79fa49346bb1c24b67f4f540582ca"
+    },
+    {
+      "name": "aspendailynews-2022-10-25T16:59:34.174946-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738782",
+      "size": "49896",
+      "md5": "146d3d5dc63a64b3908b741a227accb7",
+      "crc32": "745f3322",
+      "sha1": "6fcc3fdb97e924f362f92e33933fb8a32cb25e38",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-25T16:59:34.174946-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738784",
+      "size": "56031",
+      "md5": "ab1e77fb5c86f4245ecdf3c33206850f",
+      "crc32": "dd8731ba",
+      "sha1": "c0ed3858ebf94313c42ee59b72eceee03a25af58",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-25T16:59:34.174946-06:00.jpg",
+      "source": "original",
+      "mtime": "1666738780",
+      "size": "258871",
+      "md5": "b4a2b5e311ba762818c7c2541eeb5112",
+      "crc32": "fd5d9df0",
+      "sha1": "6b70f18f0aa4346755a913c303a8f477721b474c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-25T16:59:34.174946-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666738785",
+      "size": "1531",
+      "md5": "188c614433cb30de3b50f9420a6d6ac4",
+      "crc32": "86ba82ef",
+      "sha1": "25a39884a66deecbb9164255f086061169c3f5ff",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-25T16:59:34.174946-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738787",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-25T16:59:34.174946-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-25T16:59:34.174946-06:00.jpg",
+      "mtime": "1666740588",
+      "size": "8212",
+      "md5": "2d64e8378997a873f66f9a65898023fc",
+      "crc32": "e540b682",
+      "sha1": "a3b383a59e3cf581c539b5b2840b60308e3ca983"
+    },
+    {
+      "name": "aspendailynews-2022-10-26T04:54:42.437358-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781691",
+      "size": "48221",
+      "md5": "a6736e6b2e3f0f1cddc1fcaec6b775f3",
+      "crc32": "256e23ad",
+      "sha1": "1f4cf1f8cff550d54ce14fe778cdcad99ccf93fd",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-26T04:54:42.437358-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781693",
+      "size": "55914",
+      "md5": "c2488cc24566f766bc1d05b63de9b96b",
+      "crc32": "5a8f1d88",
+      "sha1": "419fccaae1b0de5fae0220f70f22db99807016ad",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-26T04:54:42.437358-06:00.jpg",
+      "source": "original",
+      "mtime": "1666781689",
+      "size": "249981",
+      "md5": "9813668228c848d4ff32af810417c46a",
+      "crc32": "01223aae",
+      "sha1": "204a426f90020d8b89cc1c4545a57de55111c4e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-26T04:54:42.437358-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781694",
+      "size": "1531",
+      "md5": "5c3b8f1a376888d4dbbfccc13a2ee35d",
+      "crc32": "5d6517cb",
+      "sha1": "146cb7eb742ff5c0f42f8c8f4e912093c246fc25",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-26T04:54:42.437358-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781696",
+      "size": "211",
+      "md5": "0b9fafc80e1ce2161bda841d182c0a21",
+      "crc32": "f7f8c03d",
+      "sha1": "9d939ef3291b25106b94b2496eda8b57f6e962c4",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-26T04:54:42.437358-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-26T04:54:42.437358-06:00.jpg",
+      "mtime": "1666783094",
+      "size": "8212",
+      "md5": "b500abc74287d4051c6bc9eab08d35e6",
+      "crc32": "7256744d",
+      "sha1": "bf7f6c3a0956a7468a837dc7cf9e24e86128dcdd"
+    },
+    {
+      "name": "aspendailynews-2022-10-26T16:56:32.332998-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666824999",
+      "size": "48266",
+      "md5": "2e6d6b7162e2569b1f4def13ece35d3f",
+      "crc32": "b4e66ada",
+      "sha1": "1d7fd66e935b93d77f37f48d51183e3bcea86324",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-26T16:56:32.332998-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666825001",
+      "size": "55825",
+      "md5": "c1dc41ffbad4512fcd7167fb19828ce7",
+      "crc32": "29aff30e",
+      "sha1": "9103b95e84365e11f4bc100b19d731db4f806392",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-26T16:56:32.332998-06:00.jpg",
+      "source": "original",
+      "mtime": "1666824997",
+      "size": "250059",
+      "md5": "ebd0aea0b1226d2aa0f03c8dcdfa090a",
+      "crc32": "3f0f3fd1",
+      "sha1": "dff9303fed3822aa610cb653b762fb910847c4bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-26T16:56:32.332998-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666825002",
+      "size": "1531",
+      "md5": "499416a7961fe41bedc81703db1407f2",
+      "crc32": "6de110ef",
+      "sha1": "963ca72058c587cdb5ca181ed1e02528a5f0a9f2",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-26T16:56:32.332998-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666825004",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-26T16:56:32.332998-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-26T16:56:32.332998-06:00.jpg",
+      "mtime": "1666849225",
+      "size": "8221",
+      "md5": "72933bbfce5fa9f6b4c671cefacc8448",
+      "crc32": "2d688c8a",
+      "sha1": "da59254c628a8f64d3b1eacff2c00fff4e94c5a4"
+    },
+    {
+      "name": "aspendailynews-2022-10-27T05:03:22.290139-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666868627",
+      "size": "49830",
+      "md5": "be3560cddfdfc5192c0d5fe0f208b783",
+      "crc32": "8d9bdcd1",
+      "sha1": "572728462a8c2e83337e4358510f936e045404ba",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-27T05:03:22.290139-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666868629",
+      "size": "57422",
+      "md5": "b3da4b946a83c2ae3dd76bf55905111b",
+      "crc32": "0f72d498",
+      "sha1": "b50f26634f2846a36b72e59f370d6072e50e8be7",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-27T05:03:22.290139-06:00.jpg",
+      "source": "original",
+      "mtime": "1666868625",
+      "size": "254394",
+      "md5": "57990569858941fc1183105617ead471",
+      "crc32": "cbad797b",
+      "sha1": "95d9ade797039f5d919e242400bf62a79efaa4e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-27T05:03:22.290139-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666868630",
+      "size": "1531",
+      "md5": "0c81d8a15c0c346ddf47dd7f17ae84be",
+      "crc32": "eb355170",
+      "sha1": "8564f8a2b67cd5da125982d870a4d0fb45ea1eda",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-27T05:03:22.290139-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666868631",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-27T05:03:22.290139-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-27T05:03:22.290139-06:00.jpg",
+      "mtime": "1666887056",
+      "size": "8205",
+      "md5": "f3b885cd9c97dcb5279fbf77f07fefb3",
+      "crc32": "3739d189",
+      "sha1": "8d8b8b6fa6bbb5b72cd81631fc10adab6ab3fa7f"
+    },
+    {
+      "name": "aspendailynews-2022-10-27T16:47:55.691170-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910887",
+      "size": "49579",
+      "md5": "a995bebaa54f3eb13dba99bbbc48c06a",
+      "crc32": "85690a40",
+      "sha1": "7e106e7d7ae2cdc60b0a9a2bf852f7e67d45367d",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-27T16:47:55.691170-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910889",
+      "size": "55666",
+      "md5": "6255baed672365410916e0591cbda1d7",
+      "crc32": "973c3062",
+      "sha1": "f5d72ac20e9d847b1bb2432d3defd90b83bb035c",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-27T16:47:55.691170-06:00.jpg",
+      "source": "original",
+      "mtime": "1666910884",
+      "size": "254533",
+      "md5": "006484650bf8f8a5dda1ab1231daae29",
+      "crc32": "cfdbc00a",
+      "sha1": "9a73c3eee29c169b535716b9ad03875bafe0a316",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-27T16:47:55.691170-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910890",
+      "size": "1531",
+      "md5": "a57b6f677febda8f909e83b189f3bdf2",
+      "crc32": "3774815e",
+      "sha1": "28e52396fcd89191ab11af6990856a8cb269df8d",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-27T16:47:55.691170-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910892",
+      "size": "53930",
+      "md5": "b1937537eae9d6ecc9de0376c2e00f14",
+      "crc32": "bc202c06",
+      "sha1": "11d4079308ff8ee26124ea418160c4dcb2f8b1a8",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-27T16:47:55.691170-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-27T16:47:55.691170-06:00.jpg",
+      "mtime": "1666913379",
+      "size": "8212",
+      "md5": "ab2e454fa63dc012a1e7e0fe4844de73",
+      "crc32": "4b33ccbc",
+      "sha1": "c494eb199e2a48b4b8521775f0fba7d60f0f90c3"
+    },
+    {
+      "name": "aspendailynews-2022-10-28T04:54:06.428543-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666954454",
+      "size": "50083",
+      "md5": "612e5a8862e5dfab0e0dc65d8b0ef771",
+      "crc32": "d2265b2b",
+      "sha1": "a15362eede36e95c7110b7dd365e4f5e57db8449",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-28T04:54:06.428543-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666954456",
+      "size": "57363",
+      "md5": "59d5618124f2e1c934a364b273f5bea5",
+      "crc32": "526637b0",
+      "sha1": "527dced411772cc8b10b2889167f55c17b9ecb15",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-28T04:54:06.428543-06:00.jpg",
+      "source": "original",
+      "mtime": "1666954452",
+      "size": "256372",
+      "md5": "921a559f795f7004145fb69103f6e84d",
+      "crc32": "d5308917",
+      "sha1": "e33664488dbf8a971f2b1859900c5cdcf38e4cb4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-28T04:54:06.428543-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666954457",
+      "size": "1531",
+      "md5": "6f4c9ce6ffe62a5dd43c543189610508",
+      "crc32": "095dab30",
+      "sha1": "971690e92dbff9ca36e27e695df562f6a9264402",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-28T04:54:06.428543-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666954459",
+      "size": "211",
+      "md5": "d70716c7b246dda6158822bf949d2096",
+      "crc32": "24daeab9",
+      "sha1": "c2c984b4fab0162e32627e522d1818256a7d6c07",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-28T04:54:06.428543-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-28T04:54:06.428543-06:00.jpg",
+      "mtime": "1666960214",
+      "size": "8270",
+      "md5": "78f04f5cd2117537e97348dff4246f52",
+      "crc32": "368ecf13",
+      "sha1": "d59543b5debb7744eab8856eb59e2ad77d6d7132"
+    },
+    {
+      "name": "aspendailynews-2022-10-28T17:05:52.879510-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666998358",
+      "size": "49905",
+      "md5": "6ef17cfd2cb31a2fe582453aedc91265",
+      "crc32": "60babd48",
+      "sha1": "115abb617ee72b6361bf7b411a68faca6d9129ed",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-28T17:05:52.879510-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666998360",
+      "size": "56007",
+      "md5": "d7041fa40327ddf91c6a1d2bbf2d1d8e",
+      "crc32": "063a31bc",
+      "sha1": "f6ebf47d6a252b11c0988c6eb01b57424873a44b",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-28T17:05:52.879510-06:00.jpg",
+      "source": "original",
+      "mtime": "1666998356",
+      "size": "261552",
+      "md5": "626e810d9cc8cf0d33a4641b6a96e25e",
+      "crc32": "1abb0469",
+      "sha1": "f1771e9a344f8fd26b865044c8c6c53b326fddd8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-28T17:05:52.879510-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666998361",
+      "size": "1531",
+      "md5": "c152899b85a01f13231d4a5ac69c7ec4",
+      "crc32": "19cb2987",
+      "sha1": "27ae78060099e7ef82e7b52421fc7cf01d739d51",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-28T17:05:52.879510-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666998363",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-28T17:05:52.879510-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-28T17:05:52.879510-06:00.jpg",
+      "mtime": "1666999596",
+      "size": "8297",
+      "md5": "0bb53f36758e9b0ade23d89dd245e9ce",
+      "crc32": "31979e06",
+      "sha1": "4c6bbccafa18dba3f2412e978fcb3102bb9bfe28"
+    },
+    {
+      "name": "aspendailynews-2022-10-29T04:51:23.213227-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040691",
+      "size": "49657",
+      "md5": "4b3ae43847d68540327ffa943be9a31a",
+      "crc32": "70e5b278",
+      "sha1": "a8ac913f8755035bdb6f685a7b078b8b6dc5380a",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-29T04:51:23.213227-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040692",
+      "size": "55961",
+      "md5": "d996883d098bf725d0e5525b870472f3",
+      "crc32": "8633aa3f",
+      "sha1": "f5711f14c07cc0222760281203755940b5a53f80",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-29T04:51:23.213227-06:00.jpg",
+      "source": "original",
+      "mtime": "1667040689",
+      "size": "253459",
+      "md5": "2c689be42f82131e9bc36b0f981b8817",
+      "crc32": "83fa2212",
+      "sha1": "aba5e67618a51cb60b30a00084985fda740dd5eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-29T04:51:23.213227-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040694",
+      "size": "1530",
+      "md5": "d4dcf83a5341ed613c3a947ea424eb87",
+      "crc32": "9f703430",
+      "sha1": "5d9711bcfdfdb1db3cd4c0be853fdd575f26fc84",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-29T04:51:23.213227-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040696",
+      "size": "55094",
+      "md5": "4141dfad872e2968e9b9031a4bc093c7",
+      "crc32": "8c2b0981",
+      "sha1": "78afbbcaf9164393aad5644133a99a7651afdd3c",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-29T04:51:23.213227-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-29T04:51:23.213227-06:00.jpg",
+      "mtime": "1667041510",
+      "size": "8164",
+      "md5": "e824176dee2621311b3ffd258ec14e10",
+      "crc32": "12c267e1",
+      "sha1": "df03d4884104c25478872ddfcff2654fff979e45"
+    },
+    {
+      "name": "aspendailynews-2022-10-29T16:53:12.503564-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667084005",
+      "size": "48603",
+      "md5": "e06092e99741f8cb8b3e7f307094eb7e",
+      "crc32": "0432650a",
+      "sha1": "d2932b9ad6cff96ee3f1836159c4c1a3ba24ecd4",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-29T16:53:12.503564-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667084007",
+      "size": "54669",
+      "md5": "255b1c360d238e497fe8e6745b875774",
+      "crc32": "a8a028d8",
+      "sha1": "6a16cf929895be586c61182b2c751b2e637b1add",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-29T16:53:12.503564-06:00.jpg",
+      "source": "original",
+      "mtime": "1667084004",
+      "size": "252210",
+      "md5": "13eb003bf3b8f02a6ab34dc42792db56",
+      "crc32": "467f15dd",
+      "sha1": "5591084a39d7643f307a009bd89d29b43df24011",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-29T16:53:12.503564-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667084008",
+      "size": "1530",
+      "md5": "94e8916505334bfa461dd9f33459a4a7",
+      "crc32": "fff8d606",
+      "sha1": "df3456fff68ad1a54b042362a70e2b1b952df2e8",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-29T16:53:12.503564-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667084010",
+      "size": "54366",
+      "md5": "4fcb787f357cc20c9db4335a92867fdb",
+      "crc32": "c85e49ac",
+      "sha1": "bf99c7acf0f514c52bfe59dcbbae8daf29eee6de",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-29T16:53:12.503564-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-29T16:53:12.503564-06:00.jpg",
+      "mtime": "1667086031",
+      "size": "8148",
+      "md5": "06ae286a5daee288d1c80acecebf5bb8",
+      "crc32": "c618add8",
+      "sha1": "6f41f2778e80463984fd3c1e6e4e860e91e139b9"
+    },
+    {
+      "name": "aspendailynews-2022-10-30T04:46:51.433748-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126818",
+      "size": "49061",
+      "md5": "c731659db601bff5cb39c631f135cc33",
+      "crc32": "ec40f126",
+      "sha1": "39843ef0b422fc6d2497597ef44b96ba5b00b288",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-30T04:46:51.433748-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126819",
+      "size": "54771",
+      "md5": "6739f69a6345543943786d82c7df9804",
+      "crc32": "76b589db",
+      "sha1": "8edd99a691e8d00047343a94f0483946d08ca000",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-30T04:46:51.433748-06:00.jpg",
+      "source": "original",
+      "mtime": "1667126816",
+      "size": "252891",
+      "md5": "89d2deb217e400ad8f028dc6b812d1b4",
+      "crc32": "066724a2",
+      "sha1": "ea0385f21156707b82599e5f6f9bc24b5f1268d6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-30T04:46:51.433748-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126821",
+      "size": "1531",
+      "md5": "7bf5b1eb4fe9acd21a895e911a2fe483",
+      "crc32": "ce3a5df0",
+      "sha1": "e7c977b6a2ec4efeb577b807a3c9432da2b0f186",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-30T04:46:51.433748-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126823",
+      "size": "54317",
+      "md5": "b70b5d6a234f2d7c00739cfe69247cd7",
+      "crc32": "dd1e745f",
+      "sha1": "a074291dc6814c4f140b6284b8fc8c12f3ebb474",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-30T04:46:51.433748-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-30T04:46:51.433748-06:00.jpg",
+      "mtime": "1667126921",
+      "size": "8192",
+      "md5": "8c06fd47dc8000e74d870096b280863e",
+      "crc32": "e5de5080",
+      "sha1": "015812b966db58ff2415f518d17cb81818ec8041"
+    },
+    {
+      "name": "aspendailynews-2022-10-30T16:41:11.945545-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667169679",
+      "size": "49264",
+      "md5": "a529508328c685655214064f5d1da349",
+      "crc32": "504b75fb",
+      "sha1": "9f2d7b57e7b896f9404f8fa081f1b04bdfc90969",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-30T16:41:11.945545-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667169681",
+      "size": "54045",
+      "md5": "953eb9bafc6be62fb480c67da7495624",
+      "crc32": "b836a9bc",
+      "sha1": "7f9defb5a3280df748d85d8c6d4cca77ec045ecf",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-30T16:41:11.945545-06:00.jpg",
+      "source": "original",
+      "mtime": "1667169678",
+      "size": "253483",
+      "md5": "85cc482e019ee42a8ee28f5a31e7c077",
+      "crc32": "026c3b91",
+      "sha1": "fd9a9adf75a0172eeb1c4772c65c264abc3d621b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-30T16:41:11.945545-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667169682",
+      "size": "1531",
+      "md5": "8a60dac740c73e6c680a3495cb8fd242",
+      "crc32": "5f9db51c",
+      "sha1": "fe9710450914271d2440a6dab2bc048b73bb4934",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-30T16:41:11.945545-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667169684",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-30T16:41:11.945545-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-30T16:41:11.945545-06:00.jpg",
+      "mtime": "1667170234",
+      "size": "8184",
+      "md5": "6be0f228b1d83532b3172e6f3719a32d",
+      "crc32": "5f7345cd",
+      "sha1": "7cb6c828990263153bfbfc90e649f7dd29523acc"
+    },
+    {
+      "name": "aspendailynews-2022-10-31T04:48:54.838151-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667213343",
+      "size": "49492",
+      "md5": "b9d1d8e3a1fac6fdc50c970a2bdd5165",
+      "crc32": "928be546",
+      "sha1": "348dc747f86ff7c6e1a241c92140c66df5db30e3",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-31T04:48:54.838151-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667213344",
+      "size": "55971",
+      "md5": "fe427c0be254c543b020804ee0ca7b24",
+      "crc32": "e969e01c",
+      "sha1": "4096fed7305c3930774c9aa989afb79e9c8f9628",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-31T04:48:54.838151-06:00.jpg",
+      "source": "original",
+      "mtime": "1667213342",
+      "size": "258723",
+      "md5": "e22ba28002d0a2009c71e6dbf8389999",
+      "crc32": "f55ad572",
+      "sha1": "288400c063c8dc5fa948561de0eca6485f449164",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-31T04:48:54.838151-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667213346",
+      "size": "1531",
+      "md5": "a43d124b0c37294d0ad52b08b2c72784",
+      "crc32": "6443dfe6",
+      "sha1": "c4976cdd05817e3eb3bb9b93d1d44f6e0fa0aa03",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-31T04:48:54.838151-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667213347",
+      "size": "54071",
+      "md5": "0c2d79e3c29237e277fe75bfee8bbcfe",
+      "crc32": "490c331e",
+      "sha1": "943d528441c19ee698ceb61595dfebada983695e",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-31T04:48:54.838151-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-10-31T04:48:54.838151-06:00.jpg",
+      "mtime": "1667213879",
+      "size": "8139",
+      "md5": "4d0eae4e09e56ebf2e1c9fb62d117f5a",
+      "crc32": "4ae07dbf",
+      "sha1": "38a98b67d2cbb13b50145e7a7b9625d474951965"
+    },
+    {
+      "name": "aspendailynews-2022-10-31T16:53:30.566975-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667256838",
+      "size": "49500",
+      "md5": "143d6f0b1257db11dba478fd283431d4",
+      "crc32": "c45a8960",
+      "sha1": "dc010d81cdfd0a3ef403603036e814272276f65f",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-31T16:53:30.566975-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667256840",
+      "size": "55178",
+      "md5": "b272ddd08ae98fd05ec483c0bba4104a",
+      "crc32": "d0f4150d",
+      "sha1": "8556d5d6bbd18b39b5441d8c231e22c1e3419817",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-31T16:53:30.566975-06:00.jpg",
+      "source": "original",
+      "mtime": "1667256836",
+      "size": "260334",
+      "md5": "33368a1517a32f6166e5dc48889b2bbd",
+      "crc32": "4860077c",
+      "sha1": "1dfddc6582d1b3d276fbd67f8d20aeffca3328a1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-10-31T16:53:30.566975-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667256841",
+      "size": "1531",
+      "md5": "49672cbcfe2c32a534de6c9a665137d3",
+      "crc32": "e50be26b",
+      "sha1": "461500b1158786880512d9bcb74204bea5d12b3c",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-10-31T16:53:30.566975-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667256844",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "aspendailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "537fca7e4099750c5d788bb78b80334834c3092f",
-      "mtime": "1666695694",
-      "size": "169745",
-      "md5": "bceae85daea2331014da9074972b3904",
-      "crc32": "ce8399ad",
-      "sha1": "e0874c696095890ab3e35bc2c987ba1dc1a4a964",
+      "btih": "b8a6e160cb1215a2c2c8cc71b1119a38761a334c",
+      "mtime": "1667257216",
+      "size": "186608",
+      "md5": "3113d98bda33f1cf2c148cf0735a40ce",
+      "crc32": "8a4f0d53",
+      "sha1": "2ce704ae4599cccdb1e5252d83f6dd2cd397e7dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspendailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "994973ebdf4ebe090a8695d5e9b81653",
+      "md5": "9c6a102cec67aa7c4d87f6f634916307",
       "summation": "md5"
     },
     {
       "name": "aspendailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695650",
-      "size": "1011712",
-      "md5": "9918ca1d4010510401786791428f1ce8",
-      "crc32": "7f753309",
-      "sha1": "c580d604a7ab75d347c6001cfa57c9f13a615766",
+      "mtime": "1667257170",
+      "size": "1114112",
+      "md5": "76f412d45723a7a910dfb1a88b81a751",
+      "crc32": "2c626d4b",
+      "sha1": "eebd01d2d51adc73f5badcdd2167993f1253332d",
       "format": "Metadata"
     },
     {
@@ -8085,9 +8891,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 782,
-  "item_last_updated": 1666695694,
-  "item_size": 52687458,
+  "files_count": 860,
+  "item_last_updated": 1667257216,
+  "item_size": 57889739,
   "metadata": {
     "identifier": "aspendailynews-2022",
     "collection": [
@@ -8109,7 +8915,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451510226,
+      "task_id": 3458216550,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8117,7 +8923,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 13115951,
+  "uniq": 1536749616,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

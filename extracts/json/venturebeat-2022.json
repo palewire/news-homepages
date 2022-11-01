@@ -1,5 +1,5 @@
 {
-  "created": 1666712982,
+  "created": 1667232424,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/6/items/venturebeat-2022",
@@ -13689,31 +13689,765 @@
       "format": "JSON"
     },
     {
+      "name": "venturebeat-2022-10-25T08:48:10.615604-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-25T08:48:10.615604-07:00.jpg",
+      "mtime": "1666714631",
+      "size": "9231",
+      "md5": "301c38fb7aad8fe1aae6b493465f7e56",
+      "crc32": "5beb0056",
+      "sha1": "f91b48081bf63bdbaf3dfe68b42d6e5fbe3e88b0"
+    },
+    {
+      "name": "venturebeat-2022-10-25T23:28:46.489580-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666765736",
+      "size": "34627",
+      "md5": "297a2929bbbdf17ba6977e98b034b992",
+      "crc32": "ad2b4ce8",
+      "sha1": "1e12957c1fb4e5de5dc3d30b4bc7489b527f5693",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-25T23:28:46.489580-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666765737",
+      "size": "44714",
+      "md5": "dd09cebb71804eeccab55534a8a6b58e",
+      "crc32": "59cd5dae",
+      "sha1": "896dc432d2f1ad839139bda7d6a2c515dc99eacb",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-25T23:28:46.489580-07:00.jpg",
+      "source": "original",
+      "mtime": "1666765734",
+      "size": "169882",
+      "md5": "dfe95638ba23da42dc5575fb4b626c94",
+      "crc32": "21945e79",
+      "sha1": "59b5931fa34287b2a07abf1d5939877987eed5fb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-25T23:28:46.489580-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666765739",
+      "size": "1468",
+      "md5": "2b0e3209da305ef162e856fd11b83bee",
+      "crc32": "4a0d2c65",
+      "sha1": "fadf882184cc9c6b94fbdd539329d3f34afd4c81",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-25T23:28:46.489580-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666765741",
+      "size": "18813",
+      "md5": "bd12572760a5c3709ecded8352eff713",
+      "crc32": "60122143",
+      "sha1": "5711a130c8c9f7c107c18a6e6c8d6b7aa41688c5",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-25T23:28:46.489580-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-25T23:28:46.489580-07:00.jpg",
+      "mtime": "1666766362",
+      "size": "8724",
+      "md5": "18cf9cef087b220b98f253fd59edd887",
+      "crc32": "98298fa5",
+      "sha1": "bf39f06b576fd1d98d0a5f3561b3c56bf01ef9da"
+    },
+    {
+      "name": "venturebeat-2022-10-26T09:30:39.695661-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666801848",
+      "size": "34095",
+      "md5": "ef80de225985d98470f8c00a1910ac7a",
+      "crc32": "bf89c5f7",
+      "sha1": "a4aeaf3a810975783f09c97e1c085b851fa73a29",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-26T09:30:39.695661-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666801850",
+      "size": "44470",
+      "md5": "168acd792b618613d5957c67f1322a9c",
+      "crc32": "a5cfd8f9",
+      "sha1": "6ba29c9eb9fbb7e020ab14b18297e3dab6d19072",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-26T09:30:39.695661-07:00.jpg",
+      "source": "original",
+      "mtime": "1666801846",
+      "size": "144667",
+      "md5": "9181fe6ef1e6afa2163265d108c2281e",
+      "crc32": "766e8e2a",
+      "sha1": "e1196317cb6f1fc2a4de252516ea5730b61cb976",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-26T09:30:39.695661-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666801852",
+      "size": "1467",
+      "md5": "d861e88cb2dc511f86146dd6b90b7bbe",
+      "crc32": "0b2cc205",
+      "sha1": "cf48957727ad357ba1dd12026e9c428592488806",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-26T09:30:39.695661-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666801854",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-26T09:30:39.695661-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-26T09:30:39.695661-07:00.jpg",
+      "mtime": "1666804895",
+      "size": "8157",
+      "md5": "fd6f3efa785a519c280df12b566704e6",
+      "crc32": "b443c7ea",
+      "sha1": "915d233b68844a1c4b2ed5043b7f378be7ca0ee2"
+    },
+    {
+      "name": "venturebeat-2022-10-26T22:09:36.435382-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666847385",
+      "size": "33952",
+      "md5": "c55ce84bdb48633517450160a34daa1e",
+      "crc32": "8b373af0",
+      "sha1": "501d183d0697e8f7edf9b368e91c1b7eacb2859a",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-26T22:09:36.435382-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666847387",
+      "size": "44444",
+      "md5": "84ef59f35b2b7c3c5ecac6055bfef40d",
+      "crc32": "0a47e5c2",
+      "sha1": "de97700f2e8d5c2bc2eb144d5774b94fbf9a3f18",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-26T22:09:36.435382-07:00.jpg",
+      "source": "original",
+      "mtime": "1666847384",
+      "size": "210576",
+      "md5": "e832a72c8de39285158de140eedfcf00",
+      "crc32": "0113a1a8",
+      "sha1": "02c7d573546731ace9d3dacd8ca7ef4d8adeb819",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-26T22:09:36.435382-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666847389",
+      "size": "1459",
+      "md5": "c6b4d7795200d76a8c3a89c2b6608779",
+      "crc32": "45f5c75e",
+      "sha1": "65de35c892e0890556337bf7f55e9807c70b16e1",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-26T22:09:36.435382-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666847390",
+      "size": "18622",
+      "md5": "52976cd16259488e4ee79951a1a4179f",
+      "crc32": "a06bc2eb",
+      "sha1": "7529c3fa9287c27f8174ef2344740081a72bff90",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-26T22:09:36.435382-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-26T22:09:36.435382-07:00.jpg",
+      "mtime": "1666871974",
+      "size": "9413",
+      "md5": "f0bbdb09298dee1e06b23875421fd4e3",
+      "crc32": "3095a8ea",
+      "sha1": "281aa74f5841ac6df992a101a06f90262a034ff3"
+    },
+    {
+      "name": "venturebeat-2022-10-27T09:11:12.095158-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666887084",
+      "size": "34036",
+      "md5": "7d38b7414fa04cb782315093a60c0496",
+      "crc32": "2dc5f151",
+      "sha1": "d63ba607fdaa038245f5ce93ee1b2a617f6375fa",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-27T09:11:12.095158-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666887087",
+      "size": "44588",
+      "md5": "ce1347c671518d33e22e95d73156d3ab",
+      "crc32": "f1917e80",
+      "sha1": "bd46705bcae182ef4926353fd13a3efe9f84b276",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-27T09:11:12.095158-07:00.jpg",
+      "source": "original",
+      "mtime": "1666887081",
+      "size": "216167",
+      "md5": "69a030458e635df7357b152571d144fd",
+      "crc32": "5212c540",
+      "sha1": "66476059a36d354481067df9d373b48c223a2995",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-27T09:11:12.095158-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666887089",
+      "size": "1459",
+      "md5": "9bb1a97f381e70f4dc451e7ada179a90",
+      "crc32": "3e29bc79",
+      "sha1": "192436bdbcd8469dce9a45430eea57b1c0008f7b",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-27T09:11:12.095158-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-27T09:11:12.095158-07:00.jpg",
+      "mtime": "1666897630",
+      "size": "9405",
+      "md5": "6a63dfbbe29a97a3e732a557a0d1013d",
+      "crc32": "29c1b7b2",
+      "sha1": "634d81034fe8ec2d568bc01cebd1205d4f184d96"
+    },
+    {
+      "name": "venturebeat-2022-10-27T21:50:26.745808-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666932635",
+      "size": "33567",
+      "md5": "a25c0b7d1a93b5a7df7fc767bbba9f71",
+      "crc32": "993076e3",
+      "sha1": "cbe024ed6a335c27f6334745c104d462f884cf24",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-27T21:50:26.745808-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666932637",
+      "size": "44412",
+      "md5": "0763cb16d24d1dcee42dfd9eead8b781",
+      "crc32": "f2180f40",
+      "sha1": "c813351d6b242dabbcd1b771d9708adcdce4f9e2",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-27T21:50:26.745808-07:00.jpg",
+      "source": "original",
+      "mtime": "1666932633",
+      "size": "225438",
+      "md5": "8097c15e95f25c2a2e0cc1eed2fbdc41",
+      "crc32": "c0a6b74f",
+      "sha1": "1905d0cbfd5025a6f263b6e0ff9c9408acda3b38",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-27T21:50:26.745808-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666932639",
+      "size": "1459",
+      "md5": "3d84c8b118497c2eeba2ebcf4d0ddf2f",
+      "crc32": "50018c93",
+      "sha1": "091eb51275d752ce19038074af59aabf5f88b3db",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-27T21:50:26.745808-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666932641",
+      "size": "19391",
+      "md5": "4d04b443b262d4808ad1279d3147dedf",
+      "crc32": "dc22cabe",
+      "sha1": "f60898c61684ef9ff05848625a2ca2b29c5c6ac9",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-27T21:50:26.745808-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-27T21:50:26.745808-07:00.jpg",
+      "mtime": "1666934246",
+      "size": "9403",
+      "md5": "27105f63b4d10299614ce3563b731b05",
+      "crc32": "383e4fe7",
+      "sha1": "6e7b13446af673648a747ef0185f8d9328bdc778"
+    },
+    {
+      "name": "venturebeat-2022-10-28T08:57:30.560050-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972659",
+      "size": "33567",
+      "md5": "ae3186188d99d36f07e3e2df4ff8ca2c",
+      "crc32": "7b0bd4a3",
+      "sha1": "a038e87e1b208a08f23b47799b6ab16a71754215",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-28T08:57:30.560050-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972660",
+      "size": "44438",
+      "md5": "b461fe6c45adc1d4b0c8619e807fce15",
+      "crc32": "8ab86653",
+      "sha1": "e1deb815173c51ded0e96692d367c962949f0bc0",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-28T08:57:30.560050-07:00.jpg",
+      "source": "original",
+      "mtime": "1666972657",
+      "size": "274941",
+      "md5": "b87831219a2a1586739f937058bd7828",
+      "crc32": "bbd33272",
+      "sha1": "7f0bfa6e8cb6ae8f2e595dfe8916769fb6913070",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-28T08:57:30.560050-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972662",
+      "size": "1459",
+      "md5": "a290aa6d61755ec487ab3034d5a794b8",
+      "crc32": "a3c184a7",
+      "sha1": "4feb28ab424c8eb21c4b03cb5df6f2478a8ba125",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-28T08:57:30.560050-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972664",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-28T08:57:30.560050-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-28T08:57:30.560050-07:00.jpg",
+      "mtime": "1666977856",
+      "size": "10109",
+      "md5": "5734fce1f2410f16022f1bb41200d476",
+      "crc32": "395a4850",
+      "sha1": "2025b8ed744c91896d6f3664a9ffa3740bc5cbed"
+    },
+    {
+      "name": "venturebeat-2022-10-28T21:16:05.171866-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667016974",
+      "size": "33459",
+      "md5": "0dc09bb72b2832c25b7519202de6b45f",
+      "crc32": "de1966a6",
+      "sha1": "4f8d0dac8e1bcf5642268758b42262ab73d8d693",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-28T21:16:05.171866-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667016976",
+      "size": "44374",
+      "md5": "15003d65d28ff455e1b0a331e0850f1d",
+      "crc32": "abaa6440",
+      "sha1": "8147578614e80311bf311c24c0ef5992cfc838c1",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-28T21:16:05.171866-07:00.jpg",
+      "source": "original",
+      "mtime": "1667016973",
+      "size": "212251",
+      "md5": "f15f911fded68300ede1dd32f806e29a",
+      "crc32": "5eafed1f",
+      "sha1": "420ac66e1735ac3bf8483ccfabd5b71e10f78117",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-28T21:16:05.171866-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667016977",
+      "size": "1459",
+      "md5": "b3090ac9d5c02dd21a387f61bbbc4a8e",
+      "crc32": "ee4b1c82",
+      "sha1": "463e6fe628e8ea513bf3cd39bb6d44e59b04186d",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-28T21:16:05.171866-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667016978",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-28T21:16:05.171866-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-28T21:16:05.171866-07:00.jpg",
+      "mtime": "1667019682",
+      "size": "9195",
+      "md5": "63bd160761d2f1457dbbdb946a47db7d",
+      "crc32": "ffd6727a",
+      "sha1": "30f3f31f7f4c2c92ae54d4e683303592b577f672"
+    },
+    {
+      "name": "venturebeat-2022-10-29T09:10:40.401098-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667059843",
+      "size": "33626",
+      "md5": "e2205a2848f424c3f2d72a396bb3212c",
+      "crc32": "4f208c9c",
+      "sha1": "cdacd87244eb6a3bb1403da694e53dad12306649",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-29T09:10:40.401098-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667059845",
+      "size": "44491",
+      "md5": "48dad58067225d455bb70a2801e3f062",
+      "crc32": "60d3dde9",
+      "sha1": "275afde5a976578a539ef05b01ce790a7ce4fc6f",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-29T09:10:40.401098-07:00.jpg",
+      "source": "original",
+      "mtime": "1667059841",
+      "size": "176469",
+      "md5": "cb629b8aacb3fc68967cf072edf84771",
+      "crc32": "3c296a64",
+      "sha1": "8a343104e333e155bbcc963954e422753b7202ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-29T09:10:40.401098-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667059846",
+      "size": "1459",
+      "md5": "8ddccac3276df2152635568c70e274dd",
+      "crc32": "665c5afb",
+      "sha1": "63f5d52acfe262f15334a7630f10e1f74a220591",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-29T09:10:40.401098-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667059848",
+      "size": "18756",
+      "md5": "dd627ce52cb3b00193b41905dc00dbd8",
+      "crc32": "89d72c3b",
+      "sha1": "b77a13113d6881413466c9801b17a26a050a8ec0",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-29T09:10:40.401098-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-29T09:10:40.401098-07:00.jpg",
+      "mtime": "1667062408",
+      "size": "9009",
+      "md5": "a1350ad8e77268f6436b4e4118c97fa4",
+      "crc32": "9d84575e",
+      "sha1": "d1a8c4e061cb8c012dfabdf4b258b55ccab9fa1f"
+    },
+    {
+      "name": "venturebeat-2022-10-29T21:20:14.760539-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667103622",
+      "size": "33552",
+      "md5": "706b8ba054eecce28eb0bf0c6219f333",
+      "crc32": "55a89ca0",
+      "sha1": "dacadd2bf533d47377b1d6da424858cf44a32e26",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-29T21:20:14.760539-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667103623",
+      "size": "44310",
+      "md5": "275f270853bf04da8c8280ef73491119",
+      "crc32": "f5ae856e",
+      "sha1": "8b67e405d19dc482be7356bf86deafc408d73e74",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-29T21:20:14.760539-07:00.jpg",
+      "source": "original",
+      "mtime": "1667103620",
+      "size": "201355",
+      "md5": "9e3b05e05b276653ce49c944a4f7d9f3",
+      "crc32": "3cbb7afa",
+      "sha1": "6f03277ab75b42aa2663a1f517b8cb5b1b084630",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-29T21:20:14.760539-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667103625",
+      "size": "1459",
+      "md5": "f9f7e8acaa6c873be27402ff9db3d4b5",
+      "crc32": "26a40cad",
+      "sha1": "9f484125f18f31887f1fa9c203c906cdb6016018",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-29T21:20:14.760539-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667103627",
+      "size": "18712",
+      "md5": "f4cc51aceacf8f095ceeda9600e78adf",
+      "crc32": "f1054509",
+      "sha1": "1d8cb61b51fc35859ad05f58d5ccc245242e33f8",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-29T21:20:14.760539-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-29T21:20:14.760539-07:00.jpg",
+      "mtime": "1667104521",
+      "size": "9399",
+      "md5": "aad7522b3e338f94706ed9509191af4b",
+      "crc32": "212ed0c6",
+      "sha1": "d28ede4a611cd8ebc4fa764c6014b9fe71b05db6"
+    },
+    {
+      "name": "venturebeat-2022-10-30T08:49:43.948111-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144994",
+      "size": "33462",
+      "md5": "35f6915bc8794f5f284d2464b45810d0",
+      "crc32": "d8f7dcc7",
+      "sha1": "dd6762107a8de9de7858c5906a42c5d384cd6f88",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-30T08:49:43.948111-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144995",
+      "size": "44295",
+      "md5": "c527b25630a547d384ae910be8bcbc42",
+      "crc32": "56b08424",
+      "sha1": "44172bf44bbbf495efe18f8fbb816f03cedd57bc",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-30T08:49:43.948111-07:00.jpg",
+      "source": "original",
+      "mtime": "1667144992",
+      "size": "192656",
+      "md5": "fbecb5b14c0e02d2be9370154a4838f7",
+      "crc32": "359f0ad5",
+      "sha1": "a91c17d957a3499df797d3ed39397edab6c6ca66",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-30T08:49:43.948111-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144997",
+      "size": "1459",
+      "md5": "857eaa2c5ec1261fa09f95a176185bfc",
+      "crc32": "a75eeed0",
+      "sha1": "40ba403de2a1978b9076ae6f797499b79f5fb602",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-30T08:49:43.948111-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667144999",
+      "size": "17392",
+      "md5": "d07294a20731b625965683fdfd23344e",
+      "crc32": "73d9e38e",
+      "sha1": "762000de2ca0d55a2217dffddf68fb9b5b122065",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-30T08:49:43.948111-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-30T08:49:43.948111-07:00.jpg",
+      "mtime": "1667145581",
+      "size": "9436",
+      "md5": "503dfeccb5e1636098c4d394382ee618",
+      "crc32": "cc0e0511",
+      "sha1": "5e0c3acfcbe7e680abacc70a1565e176aec976e2"
+    },
+    {
+      "name": "venturebeat-2022-10-30T21:53:59.002793-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667192058",
+      "size": "33920",
+      "md5": "3a2b3cba4e096341afbbe8f0e372937f",
+      "crc32": "0349fa63",
+      "sha1": "52c38690924b26db262d33d2456d095236e5eb2c",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-30T21:53:59.002793-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667192060",
+      "size": "44298",
+      "md5": "111db5971c9dd3368c8cd040fe3d1668",
+      "crc32": "06b3e320",
+      "sha1": "e42fb47f774f8ec88450908dbe85da6c4db24546",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-30T21:53:59.002793-07:00.jpg",
+      "source": "original",
+      "mtime": "1667192057",
+      "size": "224853",
+      "md5": "722eddbcb9a455c8a571f771e2b88515",
+      "crc32": "566e2c74",
+      "sha1": "acc5a1b409af9618b5770646169e1824cc01e8e6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-30T21:53:59.002793-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667192062",
+      "size": "1459",
+      "md5": "9ad4c9e2da33f9ba5c44d87fb39907ea",
+      "crc32": "a216e539",
+      "sha1": "90f8920b88fabf83a51bd2f8e21450179399ea63",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-30T21:53:59.002793-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667192064",
+      "size": "100",
+      "md5": "ede81fec5badf5345a08c89868190024",
+      "crc32": "3f0af8e2",
+      "sha1": "8551c2fdf05d4451ae990fa5299d4473d022f113",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-30T21:53:59.002793-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "venturebeat-2022-10-30T21:53:59.002793-07:00.jpg",
+      "mtime": "1667192263",
+      "size": "9669",
+      "md5": "02a766ff5b54efcd4231bd34585cafa7",
+      "crc32": "a15a0118",
+      "sha1": "d6221ab25719201783539541669f23aebb739159"
+    },
+    {
+      "name": "venturebeat-2022-10-31T09:05:31.428097-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667232351",
+      "size": "33805",
+      "md5": "1573835b855f4c51eb3cb513c6b2363e",
+      "crc32": "47137cb9",
+      "sha1": "e911b9d5267a555c43f761a4f6fe9deaf0a932af",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-31T09:05:31.428097-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667232353",
+      "size": "44443",
+      "md5": "f7e120d717efd3a7954c1d67f4c73c8b",
+      "crc32": "3e9d636d",
+      "sha1": "e5fc6e51f3a801db2cba86e5b2ec99ae5f8b5f55",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-31T09:05:31.428097-07:00.jpg",
+      "source": "original",
+      "mtime": "1667232349",
+      "size": "211252",
+      "md5": "2429f3f5f6bc75e0a447d8834d4f290f",
+      "crc32": "08a714c9",
+      "sha1": "dcb3fc27dde286a2220f495de064735688ee5ddb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "venturebeat-2022-10-31T09:05:31.428097-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667232355",
+      "size": "1458",
+      "md5": "05028b021d33749950aa408221856590",
+      "crc32": "53e69f22",
+      "sha1": "b532c3a9a59bb0e99a6ab98a2a7f40ecebe1d3bc",
+      "format": "JSON"
+    },
+    {
+      "name": "venturebeat-2022-10-31T09:05:31.428097-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667232358",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "venturebeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c792c60dc5db4389bda6875ea72849d3adb22f66",
-      "mtime": "1666712975",
-      "size": "282336",
-      "md5": "a574adafeb9ac35d0504c73271624024",
-      "crc32": "4b013d6a",
-      "sha1": "674a151de2ea9a0c773bcada9685dc3b03e2f7e5",
+      "btih": "57a170324baa793d2fbc88ace31ab9c31dce4448",
+      "mtime": "1667232418",
+      "size": "297436",
+      "md5": "ce8d1dd98a478635740e854b187ceab5",
+      "crc32": "79c5bb36",
+      "sha1": "baefed8aa36a957253fb1c89760212636ac045fe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "venturebeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "06fdca342bd9ac47d81fd0e76dec5478",
+      "md5": "323fe2687ddf033cd7ff4b2cca4d1aaf",
       "summation": "md5"
     },
     {
       "name": "venturebeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666712920",
-      "size": "1667072",
-      "md5": "d97ea00d28194b9f7b57a18fead1f2b5",
-      "crc32": "cdbfc383",
-      "sha1": "59c5cc7c6832a7da1a234155181672f84b33d49f",
+      "mtime": "1667232365",
+      "size": "1753088",
+      "md5": "bdd14a2e09780cfd9125966eb09d48eb",
+      "crc32": "e9bcef43",
+      "sha1": "aee3b246340de0649e224429c1e7bde9b0088c5e",
       "format": "Metadata"
     },
     {
@@ -13727,9 +14461,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1324,
-  "item_last_updated": 1666712975,
-  "item_size": 74553288,
+  "files_count": 1395,
+  "item_last_updated": 1667232418,
+  "item_size": 78295124,
   "metadata": {
     "identifier": "venturebeat-2022",
     "collection": [
@@ -13751,7 +14485,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451773936,
+      "task_id": 3457892478,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13759,7 +14493,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 710401847,
+  "uniq": 82296372,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

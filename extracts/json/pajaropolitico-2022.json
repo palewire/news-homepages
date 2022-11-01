@@ -1,5 +1,5 @@
 {
-  "created": 1666706340,
+  "created": 1667227448,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/pajaropolitico-2022",
@@ -30425,31 +30425,786 @@
       "format": "JSON"
     },
     {
+      "name": "pajaropolitico-2022-10-25T08:56:19.912617-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-25T08:56:19.912617-05:00.jpg",
+      "mtime": "1666708748",
+      "size": "9774",
+      "md5": "219281ae258eeaf36b7885745a7b2e46",
+      "crc32": "d3f615d2",
+      "sha1": "2ebd81d60fd7860f2efffde7cf823e1bdf684cad"
+    },
+    {
+      "name": "pajaropolitico-2022-10-25T21:33:29.031063-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666751612",
+      "size": "22623",
+      "md5": "7bb33b52f44e7fb2a7ba7e2c4dea40d3",
+      "crc32": "951490a8",
+      "sha1": "11cfeb4b747dd30bf786509b583ea03046b654cd",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-25T21:33:29.031063-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666751613",
+      "size": "21241",
+      "md5": "6db3b40267dfc7ca855b52e3a24d8778",
+      "crc32": "3d6599c9",
+      "sha1": "790987f40b578a6ebb947bcf81b2622ae2541d23",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-25T21:33:29.031063-05:00.jpg",
+      "source": "original",
+      "mtime": "1666751610",
+      "size": "251596",
+      "md5": "fa3a94b2febcbf59b045e9bffd88eaee",
+      "crc32": "9679cb76",
+      "sha1": "c49705d08fdfe54ef23c903c854f32892b4443e5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-25T21:33:29.031063-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666751616",
+      "size": "1530",
+      "md5": "4879213f4eb9070d79b42a88c4406d0e",
+      "crc32": "7e873fc7",
+      "sha1": "0d5415a4e51ef9fae8d674993790fcb70e5c54c7",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-25T21:33:29.031063-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666751619",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-25T21:33:29.031063-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-25T21:33:29.031063-05:00.jpg",
+      "mtime": "1666754747",
+      "size": "9477",
+      "md5": "fb98fbc0e8823d1182541ae9f0299afc",
+      "crc32": "2cd74d83",
+      "sha1": "8d08e0ae717e7863afc0326b0efe4a663c3363d0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-26T09:55:54.085907-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796186",
+      "size": "22333",
+      "md5": "7b8619ff4fd2ad7d62d2298ac852a74e",
+      "crc32": "a477185f",
+      "sha1": "354463b299c3c5ccae2765b2e585d5db07460b4e",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-26T09:55:54.085907-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796189",
+      "size": "21142",
+      "md5": "40e5a0dd80d06ed32b939dbe8c5086e0",
+      "crc32": "f6b84f03",
+      "sha1": "bbc032e4502565bb8a3f2e9212e14fa8c2ccb1af",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-26T09:55:54.085907-05:00.jpg",
+      "source": "original",
+      "mtime": "1666796183",
+      "size": "297799",
+      "md5": "686a705ee78c980ef825560f6581226e",
+      "crc32": "e738c41f",
+      "sha1": "5e90de16be2a9d38c33eb699596d18ba92cb80f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-26T09:55:54.085907-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796191",
+      "size": "1529",
+      "md5": "00629bfe068de3d2bff4a98c9b0155b5",
+      "crc32": "1178308b",
+      "sha1": "a3226b4cf79431d61f2091623ad801357e07086d",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-26T09:55:54.085907-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796193",
+      "size": "84285",
+      "md5": "939f98be9cc93444b00769d68b2897cd",
+      "crc32": "e8756da1",
+      "sha1": "61c43693c7f46836e3378e1778f61633147b2850",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-26T09:55:54.085907-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-26T09:55:54.085907-05:00.jpg",
+      "mtime": "1666797079",
+      "size": "10104",
+      "md5": "0b0560a0a86a276d3c473f0e64e835ce",
+      "crc32": "eedb0863",
+      "sha1": "3e6d68af74662b2c45d8f838168fce7fe7f1ea2d"
+    },
+    {
+      "name": "pajaropolitico-2022-10-26T21:29:24.868339-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666837793",
+      "size": "22726",
+      "md5": "b980e772d5007f1136f337b1a10ed313",
+      "crc32": "19d335d0",
+      "sha1": "480f7b86eb51a39c2fdc5363711668322e91f1b9",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-26T21:29:24.868339-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837796",
+      "size": "21529",
+      "md5": "3ce705bffc08731fbfc7e160d0858133",
+      "crc32": "ad24fc3c",
+      "sha1": "918991f8d18b5c1150f32d4700d015ccbfe5835c",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-26T21:29:24.868339-05:00.jpg",
+      "source": "original",
+      "mtime": "1666837792",
+      "size": "245536",
+      "md5": "0df0e82cb1cf4157518d848dc8bcaec4",
+      "crc32": "c634f453",
+      "sha1": "35e9d1e054ab049f2b8c2b31f653aebe222ea2cd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-26T21:29:24.868339-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837798",
+      "size": "1530",
+      "md5": "a0c388583184ac225ea1ab01eba1d1a3",
+      "crc32": "0c5eed42",
+      "sha1": "e2e453aa5ba6affe12207158171a5d948da8a6be",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-26T21:29:24.868339-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666837799",
+      "size": "273",
+      "md5": "d3f6fef8998538636cbf62b5fdd06da9",
+      "crc32": "d5a7c778",
+      "sha1": "bd352f8bec493c002a210a7bbd19d311348cf1d5",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-26T21:29:24.868339-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-26T21:29:24.868339-05:00.jpg",
+      "mtime": "1666862829",
+      "size": "9553",
+      "md5": "886d83495065f0d62168ac221d776171",
+      "crc32": "7f57ac7b",
+      "sha1": "3cba47d7d76d92fc6ee75b5355e31ef04b58de93"
+    },
+    {
+      "name": "pajaropolitico-2022-10-27T09:15:30.403634-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666880144",
+      "size": "22776",
+      "md5": "04a54fcb6f72141992c6500faea09895",
+      "crc32": "9834f994",
+      "sha1": "bd8b1a1d751cc44faaa210a03565b5604ae5af2b",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-27T09:15:30.403634-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666880147",
+      "size": "21437",
+      "md5": "18d199b92b8188fc920972b19064a59f",
+      "crc32": "f9c36e8a",
+      "sha1": "2bae669f76512fa5fc70f70e9fb7fff9a1dff9b9",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-27T09:15:30.403634-05:00.jpg",
+      "source": "original",
+      "mtime": "1666880142",
+      "size": "247911",
+      "md5": "108d52073b84f801eb2cf0abc7794728",
+      "crc32": "dab763f7",
+      "sha1": "cef3f14353e809df99766fc5681c90f33471f638",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-27T09:15:30.403634-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666880149",
+      "size": "1531",
+      "md5": "a15822d42a6d819027290ebda717451c",
+      "crc32": "94a34fe0",
+      "sha1": "41903f73898be2943502a19670640ab48c9e1a37",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-27T09:15:30.403634-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666880151",
+      "size": "61024",
+      "md5": "2b231e127d0e532219b1a8290372b3e2",
+      "crc32": "430dfb1d",
+      "sha1": "baf432dd983be5a79a0b574619f845de685946fd",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-27T09:15:30.403634-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-27T09:15:30.403634-05:00.jpg",
+      "mtime": "1666893487",
+      "size": "9677",
+      "md5": "666970d4d146e1109b6b8cf209472624",
+      "crc32": "b7dd3b31",
+      "sha1": "7e0a6e7658e6eb722fae5eb5784ccf965295be4c"
+    },
+    {
+      "name": "pajaropolitico-2022-10-27T21:29:30.903865-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666924195",
+      "size": "22030",
+      "md5": "0ae0e47ef8e9b7a645e4d6a633dd0d27",
+      "crc32": "7b9b41ef",
+      "sha1": "d65480800afa6664796bfde4513aff7b6fb5648a",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-27T21:29:30.903865-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666924196",
+      "size": "21092",
+      "md5": "5761a17264be71df8dac965dc4f2e264",
+      "crc32": "134c8cc2",
+      "sha1": "4c2582a8691e4ac5006e75dc66fd57c66c16dfc3",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-27T21:29:30.903865-05:00.jpg",
+      "source": "original",
+      "mtime": "1666924193",
+      "size": "261977",
+      "md5": "2c46efd153f7706297739c6673ec92ff",
+      "crc32": "7b61329e",
+      "sha1": "8f4ba8b56d41847b409c93026eea7c216f42e49e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-27T21:29:30.903865-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666924199",
+      "size": "1531",
+      "md5": "e0b0b079e40fdc3354a8cd96533de81c",
+      "crc32": "d29dbe09",
+      "sha1": "a910dee212d46d36972d5614df64237c549b9e6f",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-27T21:29:30.903865-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666924201",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-27T21:29:30.903865-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-27T21:29:30.903865-05:00.jpg",
+      "mtime": "1666925875",
+      "size": "9822",
+      "md5": "373931d5adc1dc6bbb0bfcd7f94537cc",
+      "crc32": "943d19f6",
+      "sha1": "bac5fad92d90ff83ec7f8c7b0f0e79ddad4a2385"
+    },
+    {
+      "name": "pajaropolitico-2022-10-28T09:05:18.521985-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666965942",
+      "size": "22585",
+      "md5": "ab131afe41c4d32da3f4db0d82146a86",
+      "crc32": "77346913",
+      "sha1": "44ec66d5e1921d4c317f21b5fa43cd01fa3494e5",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-28T09:05:18.521985-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666965943",
+      "size": "21367",
+      "md5": "7581683afd8229cd9b215e68bce9d71f",
+      "crc32": "2f4a6238",
+      "sha1": "eb6db235ac393a133e97fe2598e110e59b6bfae9",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-28T09:05:18.521985-05:00.jpg",
+      "source": "original",
+      "mtime": "1666965940",
+      "size": "287830",
+      "md5": "0ec784af43cf6c14589cf3e1e794b34c",
+      "crc32": "72f9e69c",
+      "sha1": "7c6bc08a7ec1a7b6da5a80a91b9b5344459c88b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-28T09:05:18.521985-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666965945",
+      "size": "1529",
+      "md5": "24bd71396c3dcbcaade183f547aa6710",
+      "crc32": "ccc2c861",
+      "sha1": "6c556adcffe21f602afb94355bdae46f6cd1b4c5",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-28T09:05:18.521985-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666965947",
+      "size": "69509",
+      "md5": "63d7045ddd2ec61fe418c370ed0db394",
+      "crc32": "9a30099d",
+      "sha1": "824fb95bc568bc3b17a9377d4633fabdba9b0d7a",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-28T09:05:18.521985-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-28T09:05:18.521985-05:00.jpg",
+      "mtime": "1666971181",
+      "size": "10002",
+      "md5": "e601415620dbe34c52b20b0d526fa4b4",
+      "crc32": "d424728d",
+      "sha1": "a8762385c78fba72f86b586968637e687a3ead68"
+    },
+    {
+      "name": "pajaropolitico-2022-10-28T21:16:23.670619-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667009787",
+      "size": "22574",
+      "md5": "3935dce9c608f43e0d332be0b84e8a3c",
+      "crc32": "ac8726c1",
+      "sha1": "75591d0856fdc7650ef7d706d62247a278baa505",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-28T21:16:23.670619-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667009789",
+      "size": "21637",
+      "md5": "23eaefc7bd90ab1831f778d58a1b7d3f",
+      "crc32": "b87fee3b",
+      "sha1": "08c02991422b9acf1de0835184b64ba7ffb083a6",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-28T21:16:23.670619-05:00.jpg",
+      "source": "original",
+      "mtime": "1667009786",
+      "size": "257859",
+      "md5": "fd923fc1c640f18ac5e0bd00c9690321",
+      "crc32": "73115327",
+      "sha1": "55deb9a1e32f5cbf09106991a542ed6cd2d97229",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-28T21:16:23.670619-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667009791",
+      "size": "1529",
+      "md5": "08e3b3fd075adb367c0964c0420fbdf5",
+      "crc32": "8ecbdbc5",
+      "sha1": "725e849900bc87df0784a7913587a56db44b9aa6",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-28T21:16:23.670619-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667009793",
+      "size": "211",
+      "md5": "2b15954284c368c0ef32efa78aa1c3a7",
+      "crc32": "9135a768",
+      "sha1": "0fabc03235d4f3b4e961f01ed3b833c51d11a726",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-28T21:16:23.670619-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-28T21:16:23.670619-05:00.jpg",
+      "mtime": "1667011497",
+      "size": "9839",
+      "md5": "48f460bd42f6821ea89214fd4e92b3e1",
+      "crc32": "814c952c",
+      "sha1": "e2bc19f8dd67d558ff208070031d5b2d9fd9bce2"
+    },
+    {
+      "name": "pajaropolitico-2022-10-29T09:06:49.413148-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667052438",
+      "size": "22390",
+      "md5": "a60651cd7e43671d7b58ddab17437647",
+      "crc32": "af62c94d",
+      "sha1": "5bfb9a187cb304bf49f6b66ca99fa997f9167dff",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-29T09:06:49.413148-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667052440",
+      "size": "21298",
+      "md5": "dfe757a7eafccbdb8a9d7338fc97762c",
+      "crc32": "87d91db1",
+      "sha1": "8406450f37d16fea8c0f83e824401cd80ed5be9b",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-29T09:06:49.413148-05:00.jpg",
+      "source": "original",
+      "mtime": "1667052436",
+      "size": "243155",
+      "md5": "84abb606a822b0041291afb981641c92",
+      "crc32": "6b52aa7e",
+      "sha1": "e39499c3d987041dbd2859685d2176e3b9e527ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-29T09:06:49.413148-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667052442",
+      "size": "1529",
+      "md5": "3a88771ead33cacad0eb469809fef78c",
+      "crc32": "f501fd1c",
+      "sha1": "4353b72c995923572244cf74431da1eaee76e2be",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-29T09:06:49.413148-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667052443",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-29T09:06:49.413148-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-29T09:06:49.413148-05:00.jpg",
+      "mtime": "1667054022",
+      "size": "9563",
+      "md5": "e9c933cfdf612e4ba314754e22c1a47d",
+      "crc32": "e5b207b0",
+      "sha1": "c8e8723807c8a4eead7e7f90213b17ce126e6bb1"
+    },
+    {
+      "name": "pajaropolitico-2022-10-29T21:08:07.265610-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667095700",
+      "size": "22679",
+      "md5": "c61c3f161f325b89bc7efdff82c78575",
+      "crc32": "53ca17d8",
+      "sha1": "77ef7fe03d84e0e28212b6c322f21428d0c0f110",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-29T21:08:07.265610-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095701",
+      "size": "21492",
+      "md5": "f650c34a6c68a650cd69465fe59253e1",
+      "crc32": "32ff23a7",
+      "sha1": "a8c46baf463a32e990965ea15f145fb338e93f66",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-29T21:08:07.265610-05:00.jpg",
+      "source": "original",
+      "mtime": "1667095698",
+      "size": "250302",
+      "md5": "9922058c05f6a5912f0a3b21e6e70ea8",
+      "crc32": "c033dcba",
+      "sha1": "8177443febed3135befd3460389023a0d7fd14ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-29T21:08:07.265610-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095703",
+      "size": "1531",
+      "md5": "eb3b3cb91cd84392792e8cde3b197a7f",
+      "crc32": "67aa5f09",
+      "sha1": "dc111f77a6a3e3761827e1278a19cde05ccee851",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-29T21:08:07.265610-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667095705",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-29T21:08:07.265610-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-29T21:08:07.265610-05:00.jpg",
+      "mtime": "1667097428",
+      "size": "9562",
+      "md5": "972aed167a620788b157e7d1a58e6dfa",
+      "crc32": "2445b664",
+      "sha1": "e53eeae6fcd694388aa2c93de611738dfe575d70"
+    },
+    {
+      "name": "pajaropolitico-2022-10-30T07:49:06.221932-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667137771",
+      "size": "22703",
+      "md5": "8e8a80fc803b9a557c21cdb242826cd0",
+      "crc32": "087b33c0",
+      "sha1": "a49c9ea1aea6bbc57987611250c9c13593163119",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-30T07:49:06.221932-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667137773",
+      "size": "21358",
+      "md5": "a5eb3dfbb7dede25b81a85edef1adfc9",
+      "crc32": "07f3b47f",
+      "sha1": "ff93ae5e6238f2df9bbd3706169b3541ebd77960",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-30T07:49:06.221932-06:00.jpg",
+      "source": "original",
+      "mtime": "1667137769",
+      "size": "248997",
+      "md5": "d7da0ba23862fafa0453cce66262d7d7",
+      "crc32": "ff6d295e",
+      "sha1": "a1c2ee60b6dbff2605760eeb74088ce3563517a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-30T07:49:06.221932-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667137775",
+      "size": "1527",
+      "md5": "5b6e2faea3f7d2936e5c179112b52f16",
+      "crc32": "515c5a4f",
+      "sha1": "bb2e291cc6106699705d6a87f2c2a6b167ab210c",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-30T07:49:06.221932-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667137777",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-30T07:49:06.221932-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-30T07:49:06.221932-06:00.jpg",
+      "mtime": "1667138339",
+      "size": "9624",
+      "md5": "fc495b91b80137407db1b0e350a62737",
+      "crc32": "cff3f5d4",
+      "sha1": "ed5e1e5894ef47fa5db31ea42c7c0ba7a160e40e"
+    },
+    {
+      "name": "pajaropolitico-2022-10-30T20:15:05.349068-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667182521",
+      "size": "22514",
+      "md5": "97993e4178ceb3dcef441fdcefb081e6",
+      "crc32": "ae94df50",
+      "sha1": "9bdb01b3e28be1da28b58f980a1592ef42dac823",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-30T20:15:05.349068-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667182522",
+      "size": "21441",
+      "md5": "e5d14857e1197c9ff94a871ed1f00cea",
+      "crc32": "847ebd8f",
+      "sha1": "838a4f38de06f4ab47940e61ee87c997a3855168",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-30T20:15:05.349068-06:00.jpg",
+      "source": "original",
+      "mtime": "1667182516",
+      "size": "264667",
+      "md5": "388645bfc63829b0823aa241defc4c1e",
+      "crc32": "eccbd56e",
+      "sha1": "2b5c113f2e65be345b5b8a881ff407857e41051b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-30T20:15:05.349068-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667182524",
+      "size": "1531",
+      "md5": "e19a02a877eb61d3ba8f9034c5e47eae",
+      "crc32": "63a0226e",
+      "sha1": "1b0afba712573723a9285c6dc7ef4d02f501f964",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-30T20:15:05.349068-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667182526",
+      "size": "93529",
+      "md5": "3294ec0a040cba1065a17e3c7cf09031",
+      "crc32": "8796d702",
+      "sha1": "468667a23f543a19ae57685eb48162ad15b1402c",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-30T20:15:05.349068-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-30T20:15:05.349068-06:00.jpg",
+      "mtime": "1667183890",
+      "size": "9805",
+      "md5": "f09237094f2620eb419f0ba4da888586",
+      "crc32": "5398d658",
+      "sha1": "05a030423415eecb87f1d764b84261bd16a2e740"
+    },
+    {
+      "name": "pajaropolitico-2022-10-31T08:15:08.624252-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667225753",
+      "size": "22555",
+      "md5": "97cfab40fdf1b7430a5693efc390a00d",
+      "crc32": "f765dd1a",
+      "sha1": "0727645a6a9f9103969e559983d9e0ddec79c6ce",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-31T08:15:08.624252-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667225755",
+      "size": "21414",
+      "md5": "5c2113e7e34a29287c537eece3e5a371",
+      "crc32": "c9e7fe8c",
+      "sha1": "50b56c590bf2154c27ca47db5f1b670cea22c38f",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-31T08:15:08.624252-06:00.jpg",
+      "source": "original",
+      "mtime": "1667225752",
+      "size": "264070",
+      "md5": "07ff2941b2e22d27742c36c10f67bc37",
+      "crc32": "7ad18234",
+      "sha1": "0dd26aaa830fe477bed19983b0fa03e730b2c731",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pajaropolitico-2022-10-31T08:15:08.624252-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667225757",
+      "size": "1530",
+      "md5": "6729d7dfc1de483022fd5db4d202ed1c",
+      "crc32": "4e3182bc",
+      "sha1": "48f170d04a468b2486805c9337900bd63a7bb5e3",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-31T08:15:08.624252-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667225759",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pajaropolitico-2022-10-31T08:15:08.624252-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pajaropolitico-2022-10-31T08:15:08.624252-06:00.jpg",
+      "mtime": "1667226948",
+      "size": "9810",
+      "md5": "6358b627f30d74127d6eeae4a33a8573",
+      "crc32": "41903ed0",
+      "sha1": "c3739bdff7e9c0d0f63035ce88867c0309e5bfea"
+    },
+    {
       "name": "pajaropolitico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eb15cd40aaf74566456464a0ac17268313afbde4",
-      "mtime": "1666706333",
-      "size": "631690",
-      "md5": "1f19b8caeb6ddca640a402fb6a52093f",
-      "crc32": "94f0835a",
-      "sha1": "4f4bb69fd3997ab38e28659b514235a57a317ef1",
+      "btih": "344d57f3b301ad9ecbf770483d5c8eca0bab00d3",
+      "mtime": "1667227326",
+      "size": "647442",
+      "md5": "4ee847300d05e58c0a920234f2d9394f",
+      "crc32": "83db300e",
+      "sha1": "4d637d0eeb498484fc18f448c959d02463a135b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pajaropolitico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d6d6d5ba9b158e7f90a68bae441ae016",
+      "md5": "a94772d9de17e81db1eee26ed4660437",
       "summation": "md5"
     },
     {
       "name": "pajaropolitico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666706240",
-      "size": "3502080",
-      "md5": "02281e4c6ec1197321bfe02c2c163714",
-      "crc32": "fcc5e947",
-      "sha1": "78c31e5d79df8ef35c9403ce51ab77f5e3ea5d66",
+      "mtime": "1667225767",
+      "size": "3592192",
+      "md5": "a397b5533e4daf16a35b233aea6c869a",
+      "crc32": "0451832c",
+      "sha1": "c5ac33d74cf8bb9d78c1a948ced8397b24aa8c9d",
       "format": "Metadata"
     },
     {
@@ -30463,9 +31218,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2918,
-  "item_last_updated": 1666706333,
-  "item_size": 215668118,
+  "files_count": 2991,
+  "item_last_updated": 1667227326,
+  "item_size": 219877629,
   "metadata": {
     "identifier": "pajaropolitico-2022",
     "collection": [
@@ -30482,21 +31237,10 @@
     "publicdate": "2022-04-15 20:41:09",
     "addeddate": "2022-04-15 20:41:09"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451703895,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2099320174,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1352169248,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

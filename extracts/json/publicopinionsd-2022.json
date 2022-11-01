@@ -1,5 +1,5 @@
 {
-  "created": 1666706290,
+  "created": 1667226966,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/28/items/publicopinionsd-2022",
@@ -4345,31 +4345,786 @@
       "format": "JSON"
     },
     {
+      "name": "publicopinionsd-2022-10-25T08:57:08.749062-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-25T08:57:08.749062-05:00.jpg",
+      "mtime": "1666708676",
+      "size": "9370",
+      "md5": "5e214d1a0ff47f02194c075062f97008",
+      "crc32": "dc0c92d2",
+      "sha1": "08fde7efff37ddcdaba60ad70c633ae76d77a462"
+    },
+    {
+      "name": "publicopinionsd-2022-10-25T21:33:34.694644-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666751617",
+      "size": "21918",
+      "md5": "3c2d5fca7a562ea0425bbec3cd8604aa",
+      "crc32": "4bff5d69",
+      "sha1": "ac58cff31df2cdddb54418fc34af57af22134901",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-25T21:33:34.694644-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666751618",
+      "size": "31710",
+      "md5": "b54f689da8cc2f793050b608639c6550",
+      "crc32": "f44c4800",
+      "sha1": "9952d198af20c01b3a8a6c614c14498c2466e08d",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-25T21:33:34.694644-05:00.jpg",
+      "source": "original",
+      "mtime": "1666751615",
+      "size": "263989",
+      "md5": "f8def1c9460f7fb61524bc234a6006a0",
+      "crc32": "8910df2f",
+      "sha1": "a87f73cb83f6cf1bf37d4e42a1b7f02229f5e33e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-25T21:33:34.694644-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666751619",
+      "size": "1549",
+      "md5": "705e335a6af2c2a70ef6b24327d983a1",
+      "crc32": "5139ae46",
+      "sha1": "fa30dc0d9f0ed92079804f66032fb4eabe428024",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-25T21:33:34.694644-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666751621",
+      "size": "109732",
+      "md5": "aff6f90fb1d7cccfc93018f681fffe84",
+      "crc32": "8128500f",
+      "sha1": "55855aa5227234f9e483002362f3e4fa198c6908",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-25T21:33:34.694644-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-25T21:33:34.694644-05:00.jpg",
+      "mtime": "1666752108",
+      "size": "9621",
+      "md5": "a99fe0813d32fc73e80289a430efa649",
+      "crc32": "85e420d4",
+      "sha1": "aa627ec1d176d3fff8524533f683804e965add30"
+    },
+    {
+      "name": "publicopinionsd-2022-10-26T09:58:16.104230-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796298",
+      "size": "20986",
+      "md5": "3891fc8afef9bd3dc5d4dd2061f994d0",
+      "crc32": "90dabadc",
+      "sha1": "c81bacb41d3591c89c69ed9d6cd3317044769e6a",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-26T09:58:16.104230-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796300",
+      "size": "35193",
+      "md5": "eb14e34743462ed8a32ed7bc71d2380f",
+      "crc32": "0ac4d42b",
+      "sha1": "5b9867eb76541cef48d7b8668ce930e7eab7a44d",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-26T09:58:16.104230-05:00.jpg",
+      "source": "original",
+      "mtime": "1666796297",
+      "size": "277127",
+      "md5": "b99f55234bcfa290c5e2ba14f8521025",
+      "crc32": "8556af38",
+      "sha1": "b98897090b359a063c437b9b863389b9a0a377ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-26T09:58:16.104230-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796301",
+      "size": "1549",
+      "md5": "32569db37a33c4a5021dd405d1d5ec75",
+      "crc32": "6c2bda50",
+      "sha1": "ea6a5c642a8f6f73d8e4e4bc4e2c4868f3d23ca1",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-26T09:58:16.104230-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796302",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-26T09:58:16.104230-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-26T09:58:16.104230-05:00.jpg",
+      "mtime": "1666797083",
+      "size": "9052",
+      "md5": "10b9f267af04372103f027facf89810b",
+      "crc32": "652446a2",
+      "sha1": "d5240865f9666ea1c293cda3f280c06894fd8e5e"
+    },
+    {
+      "name": "publicopinionsd-2022-10-26T21:29:02.864082-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666837747",
+      "size": "22168",
+      "md5": "61dc7903d0db1c036f9131463e8dce1d",
+      "crc32": "33db36ea",
+      "sha1": "530afe25f9b6d4e8262225e2ab2d7a5cdc2f146b",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-26T21:29:02.864082-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837749",
+      "size": "31868",
+      "md5": "39074ecd47bb61a82c44a6032f721e69",
+      "crc32": "7bc70636",
+      "sha1": "593196b113a2673070f4cb0162ed0c017d2414f3",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-26T21:29:02.864082-05:00.jpg",
+      "source": "original",
+      "mtime": "1666837745",
+      "size": "256108",
+      "md5": "e805d8b0c1586a61c52300f40bf4e660",
+      "crc32": "def0ab51",
+      "sha1": "0722b336bf91f7d2a06c7b7e98dbb7ff8dad570e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-26T21:29:02.864082-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837751",
+      "size": "1549",
+      "md5": "d6b51fdd7e7ad193d5bcbb43956e16bd",
+      "crc32": "cb7f5a36",
+      "sha1": "92119ddb7e79a689af04ec67fdcf091344983ba7",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-26T21:29:02.864082-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666837753",
+      "size": "275",
+      "md5": "70af55c4254ac74bfe712d98c070fbfc",
+      "crc32": "eeaad945",
+      "sha1": "2ebb912d61ab9676c95518ac17af1a919c1b8da8",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-26T21:29:02.864082-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-26T21:29:02.864082-05:00.jpg",
+      "mtime": "1666862513",
+      "size": "9507",
+      "md5": "9d8552b6017a1df5dfe19145adbee585",
+      "crc32": "d8cfef46",
+      "sha1": "ccacf57447b370a99dcdf62b0b1ffa361364b530"
+    },
+    {
+      "name": "publicopinionsd-2022-10-27T09:15:09.056952-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666880115",
+      "size": "22055",
+      "md5": "159c8ee5e56ff124348d444e4fa9bcd6",
+      "crc32": "df210535",
+      "sha1": "08dbb6395786e3eec200daa659d9ba1b092c4291",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-27T09:15:09.056952-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666880117",
+      "size": "35335",
+      "md5": "7893a5526728c7ba3cf9c9d3a2715ce7",
+      "crc32": "68ad3e3c",
+      "sha1": "7c8d33c1014fa9802aa25a72afe15ea87765dff7",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-27T09:15:09.056952-05:00.jpg",
+      "source": "original",
+      "mtime": "1666880113",
+      "size": "308880",
+      "md5": "fec216c98d6fa66c6ca0e341ba2bf41d",
+      "crc32": "6300bedb",
+      "sha1": "03995a52afe4f71ab57cec7eebc7ac821a37194b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-27T09:15:09.056952-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666880119",
+      "size": "1549",
+      "md5": "e00590026349306e73996106973b23de",
+      "crc32": "b04c311d",
+      "sha1": "818ed0a58bfc1a14d386abdf1ee27adb0887ea5b",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-27T09:15:09.056952-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666880122",
+      "size": "78556",
+      "md5": "075dd097db7f5e3e77f06f6b99d46e21",
+      "crc32": "0d480989",
+      "sha1": "82377a7cd11824f99937bdcf5b8e22ed54fc37d7",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-27T09:15:09.056952-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-27T09:15:09.056952-05:00.jpg",
+      "mtime": "1666893421",
+      "size": "9729",
+      "md5": "6d5798e799908996eddbbcd8e9e9315e",
+      "crc32": "0a490005",
+      "sha1": "dc95d8f823020079caedb572de0bafe607178671"
+    },
+    {
+      "name": "publicopinionsd-2022-10-27T21:32:24.193403-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666924348",
+      "size": "23339",
+      "md5": "978707ddf66606dbea3f96ab03339cd0",
+      "crc32": "ffbaaac5",
+      "sha1": "7497c721507b1d6e9234e4fb0bfc83296cfb521c",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-27T21:32:24.193403-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666924350",
+      "size": "31042",
+      "md5": "a1f073c250cdaa62a1922e54de8face4",
+      "crc32": "68b92e2d",
+      "sha1": "d6e4695ed518d200d2b91a2b47296b9b90c6ea9c",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-27T21:32:24.193403-05:00.jpg",
+      "source": "original",
+      "mtime": "1666924346",
+      "size": "249129",
+      "md5": "361d72ca0c3c24f3ba7f24291d38dc1a",
+      "crc32": "d2a5ec07",
+      "sha1": "c00d5479bfe6507b3da13aadec5e1af7b172b1f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-27T21:32:24.193403-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666924352",
+      "size": "1548",
+      "md5": "3660d376a827573884092725d432c430",
+      "crc32": "a47d286b",
+      "sha1": "8a33b106bd83be559f6bde25c0e896b1a580c2b9",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-27T21:32:24.193403-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666924354",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-27T21:32:24.193403-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-27T21:32:24.193403-05:00.jpg",
+      "mtime": "1666925623",
+      "size": "9088",
+      "md5": "57398d4c48a9f39cf002755187be66e5",
+      "crc32": "6e58d0fd",
+      "sha1": "f5dc7cd68fb3979f26b78130e10a9ebf3c387d66"
+    },
+    {
+      "name": "publicopinionsd-2022-10-28T09:05:06.060356-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666965908",
+      "size": "23092",
+      "md5": "d59589b49ed2830a2896bf5bf2d62b1a",
+      "crc32": "4438cf65",
+      "sha1": "8d5cd9640d0c23c377b3091269685976974bc3cb",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-28T09:05:06.060356-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666965910",
+      "size": "33570",
+      "md5": "57816a0610417fa01c31a1387f8b5ad9",
+      "crc32": "cc203137",
+      "sha1": "dc478954831c3eaa1433ce0976a1609a6ded0fb0",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-28T09:05:06.060356-05:00.jpg",
+      "source": "original",
+      "mtime": "1666965907",
+      "size": "320065",
+      "md5": "3ee4e8e794b487b9bd90b3016feef017",
+      "crc32": "770a23a7",
+      "sha1": "4d9dadcd0f7deb2476dbad2dd131894b554f31b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-28T09:05:06.060356-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666965912",
+      "size": "1549",
+      "md5": "dab81f24f33600937ceea47ee82b1bb3",
+      "crc32": "1ef4c351",
+      "sha1": "15bfcad87138451bfd970c6717b81eb9d37f816e",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-28T09:05:06.060356-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666965915",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-28T09:05:06.060356-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-28T09:05:06.060356-05:00.jpg",
+      "mtime": "1666970856",
+      "size": "9699",
+      "md5": "1bf5ad4a74dc4c211e21b8c6a1a9a155",
+      "crc32": "4e3cbf97",
+      "sha1": "a7c5189e96d15237c63075a1f55c99534def6d37"
+    },
+    {
+      "name": "publicopinionsd-2022-10-28T21:16:16.068466-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667009781",
+      "size": "22414",
+      "md5": "acdf06b43ed8f5b160749f31f1415657",
+      "crc32": "85e40c4b",
+      "sha1": "faee9a883b74b6af03e134846630280571b9b072",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-28T21:16:16.068466-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667009783",
+      "size": "31279",
+      "md5": "49f50f4328b01b555e2f65049d677a26",
+      "crc32": "7e19fcae",
+      "sha1": "36b6ad265423c3270127c5ca6fba6776ed6e206a",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-28T21:16:16.068466-05:00.jpg",
+      "source": "original",
+      "mtime": "1667009779",
+      "size": "268430",
+      "md5": "18b1131272ab8af577a8787b8cc99aa6",
+      "crc32": "b940cabd",
+      "sha1": "7c539e414a317d171d14e30815c9cbb2c52e1869",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-28T21:16:16.068466-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667009786",
+      "size": "1549",
+      "md5": "f10b5c1a62fa8970bbd954c60107f397",
+      "crc32": "9430efb8",
+      "sha1": "8d87678d8287eceb50cc396469c02969b7f04768",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-28T21:16:16.068466-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667009788",
+      "size": "213",
+      "md5": "dadc51c611e18a53b9d0bd0159f9ac70",
+      "crc32": "c38e8815",
+      "sha1": "aebe188a3fb63f4ee990709c6942193d0e31f06b",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-28T21:16:16.068466-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-28T21:16:16.068466-05:00.jpg",
+      "mtime": "1667011212",
+      "size": "9486",
+      "md5": "37083a7ecfc0873cddbb96e8c1a5102f",
+      "crc32": "a2eb2142",
+      "sha1": "461d53c9665fff7696b2d45c4d8b1fc7ffb4c55f"
+    },
+    {
+      "name": "publicopinionsd-2022-10-29T09:06:15.608349-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667052385",
+      "size": "21457",
+      "md5": "ab25b88a4384d188bfe7ebe91510ff25",
+      "crc32": "912f7180",
+      "sha1": "8b88a73e1495b6259a2f1b9534bc7a8e866042e3",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-29T09:06:15.608349-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667052386",
+      "size": "38905",
+      "md5": "e21275153a509e0ed7dfcf4b59d6cee6",
+      "crc32": "fba524bb",
+      "sha1": "f31f46161d404243207239c771d19f6abd7e026f",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-29T09:06:15.608349-05:00.jpg",
+      "source": "original",
+      "mtime": "1667052382",
+      "size": "258979",
+      "md5": "f845892aa00d48d6a530ee541b7d8db5",
+      "crc32": "e869a247",
+      "sha1": "1961a1f8be00437fdf04cb79f6a77c9768cbaad4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-29T09:06:15.608349-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667052389",
+      "size": "1549",
+      "md5": "7b62dbe30d31a57ae0557460122101d4",
+      "crc32": "46b3c08c",
+      "sha1": "78fe18118fc8820204c667af14247310b901ac2e",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-29T09:06:15.608349-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667052391",
+      "size": "83877",
+      "md5": "801ff9e64970f6734b62799ffcbd490e",
+      "crc32": "43208b86",
+      "sha1": "759069b0b93166fcfa450b041885b2af319148c8",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-29T09:06:15.608349-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-29T09:06:15.608349-05:00.jpg",
+      "mtime": "1667053660",
+      "size": "9070",
+      "md5": "a15723c1bdd7762b5ac13418626c09f8",
+      "crc32": "d6abae2d",
+      "sha1": "79873a7399ad525071ac11fc332e6a8fe273ed1b"
+    },
+    {
+      "name": "publicopinionsd-2022-10-29T21:08:49.894913-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667095743",
+      "size": "22036",
+      "md5": "fb7054a64759a808424d61b6f47b6a55",
+      "crc32": "502b2ccd",
+      "sha1": "6078e7ab843dcb2a169dd7d22d9465d8e570a904",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-29T21:08:49.894913-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095745",
+      "size": "30519",
+      "md5": "ac009ff38146a3aeb1cba32195dc872a",
+      "crc32": "8e61ca73",
+      "sha1": "3e622fdf9f95bb70d8f3c1c19a3729c6a3a2e6c9",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-29T21:08:49.894913-05:00.jpg",
+      "source": "original",
+      "mtime": "1667095741",
+      "size": "283443",
+      "md5": "79fbc517a8cd836d480904ea9ec4739b",
+      "crc32": "52b18745",
+      "sha1": "3f2fcf9376ae91c38ea4604c31644a06966de658",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-29T21:08:49.894913-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095746",
+      "size": "1549",
+      "md5": "1ba5d92da2c2700f60f7c200284add03",
+      "crc32": "59bffc5c",
+      "sha1": "bd6d4ee8a038ff62b2dc35a28590aad578feffb6",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-29T21:08:49.894913-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667095748",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-29T21:08:49.894913-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-29T21:08:49.894913-05:00.jpg",
+      "mtime": "1667098404",
+      "size": "9345",
+      "md5": "b94558d3feff6035ca05595bc59ae116",
+      "crc32": "9502678b",
+      "sha1": "d187261308e044b8a60e7880544e4013e8a180b3"
+    },
+    {
+      "name": "publicopinionsd-2022-10-30T08:49:38.736757-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667137781",
+      "size": "22799",
+      "md5": "9632a9901ae167167f435688dd41217d",
+      "crc32": "c6526f9c",
+      "sha1": "bbef7820e8c2eb556585b1d3f5e2983bf630b545",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-30T08:49:38.736757-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667137782",
+      "size": "32531",
+      "md5": "16580bef920de3176763fe3f6be349c9",
+      "crc32": "40ad5077",
+      "sha1": "90a577aa60a63050986325f5311acfd3f8017858",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-30T08:49:38.736757-05:00.jpg",
+      "source": "original",
+      "mtime": "1667137779",
+      "size": "283171",
+      "md5": "63f0ecbb79f826ba43405e8b997fa82f",
+      "crc32": "4e214512",
+      "sha1": "add260f675459516e1892d0241652ddfe0719bb6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-30T08:49:38.736757-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667137784",
+      "size": "1549",
+      "md5": "ad0c314ad73255fd6ebfff425a4cb304",
+      "crc32": "6d00981b",
+      "sha1": "104e8b2ffdabc4e410b2adffbb403a19f8b45a03",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-30T08:49:38.736757-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667137785",
+      "size": "73347",
+      "md5": "1f26dcffa5cb60b2789590fa70220ddd",
+      "crc32": "59d68a48",
+      "sha1": "2aa1d7ba4da5be8c1d1e703d7345fc1be839e47a",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-30T08:49:38.736757-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-30T08:49:38.736757-05:00.jpg",
+      "mtime": "1667138285",
+      "size": "9347",
+      "md5": "070870d2e6b8877513e4b6fb472ef50a",
+      "crc32": "405389da",
+      "sha1": "8aa11d045924f65ab081ddee4ebc2630791a2dea"
+    },
+    {
+      "name": "publicopinionsd-2022-10-30T21:15:21.031270-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667182523",
+      "size": "19498",
+      "md5": "dad63e15ab1af2850a788d513bfc695c",
+      "crc32": "8b22d46d",
+      "sha1": "b596abac01f9c6db1649b3d582b331c48a07b388",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-30T21:15:21.031270-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667182526",
+      "size": "34398",
+      "md5": "99bfd8917109bae831773e565cf3d493",
+      "crc32": "324b06d8",
+      "sha1": "39957486af8621f7724061683b8c9f193bd05530",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-30T21:15:21.031270-05:00.jpg",
+      "source": "original",
+      "mtime": "1667182522",
+      "size": "286399",
+      "md5": "1d9b6637784f7fde9d8b2c8c804c8a51",
+      "crc32": "d163bf71",
+      "sha1": "030dd2c01f1733e9db160a0c6282f3ef161dbdfb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-30T21:15:21.031270-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667182527",
+      "size": "1549",
+      "md5": "c4555190731a6a6ff09900a2131f9eaa",
+      "crc32": "28466d1e",
+      "sha1": "b4081c62d3103513fc2932be8bc50da319822046",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-30T21:15:21.031270-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667182529",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-30T21:15:21.031270-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-30T21:15:21.031270-05:00.jpg",
+      "mtime": "1667183895",
+      "size": "9282",
+      "md5": "cbc94644f16787ab70cc80c20fefb2a3",
+      "crc32": "f344716f",
+      "sha1": "8ee631c912b2b8f1866089c49f86f2900a2367ca"
+    },
+    {
+      "name": "publicopinionsd-2022-10-31T09:14:48.397926-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667225691",
+      "size": "21787",
+      "md5": "1bc0e864ee000826c52ddcceba4c702d",
+      "crc32": "6bfd6ef0",
+      "sha1": "f466555607865e5c6a782f7439e72b331903d107",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-31T09:14:48.397926-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667225693",
+      "size": "34169",
+      "md5": "cf826aa5dcd8aac7a0455c582cdd6454",
+      "crc32": "c73402c5",
+      "sha1": "c30ce65927e2def0c3bd670b25db4eeb0a4afdcc",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-31T09:14:48.397926-05:00.jpg",
+      "source": "original",
+      "mtime": "1667225690",
+      "size": "226611",
+      "md5": "c46df3396fd6f0567aff8e78f6b5b385",
+      "crc32": "32de5d25",
+      "sha1": "afb85ae7289df05be52b61dce2ea49ee61c9dec6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "publicopinionsd-2022-10-31T09:14:48.397926-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667225695",
+      "size": "1549",
+      "md5": "ddc01eded99850ee85a8eb631f5a4b1f",
+      "crc32": "659daaa4",
+      "sha1": "839ed2037e01935dd85ad8b742bc56f025b22b3f",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-31T09:14:48.397926-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667225696",
+      "size": "74674",
+      "md5": "0a62957b2d51ba2e1c3fd5ea75c2aae4",
+      "crc32": "5bb72f90",
+      "sha1": "b11a8f930944c317821dc54da1c4d3516c921490",
+      "format": "JSON"
+    },
+    {
+      "name": "publicopinionsd-2022-10-31T09:14:48.397926-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "publicopinionsd-2022-10-31T09:14:48.397926-05:00.jpg",
+      "mtime": "1667226892",
+      "size": "8891",
+      "md5": "cc24ee28a08c8813a5dbf8726faeb507",
+      "crc32": "5e9afe86",
+      "sha1": "6a4b1616c9e7facf71161c5b66caa26d0c247ff4"
+    },
+    {
       "name": "publicopinionsd-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88fe2ede96607dde296d368b1766093329d3fa69",
-      "mtime": "1666706285",
-      "size": "92642",
-      "md5": "257ed7dc0088cae8b8ca00756f4ca546",
-      "crc32": "7877ed2e",
-      "sha1": "65858da735f99aefe0e3c1274409ce930d9bbd59",
+      "btih": "71de6ea077d2c61431753d7ad721e5399337b93f",
+      "mtime": "1667226936",
+      "size": "108488",
+      "md5": "e853fde396e2b00a460e5bbcc1404dc6",
+      "crc32": "e1e3ab73",
+      "sha1": "848c5385f0982c45f8959059646782e785c8b678",
       "format": "Archive BitTorrent"
     },
     {
       "name": "publicopinionsd-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "de16238e423039684417808e0e056729",
+      "md5": "629db7ec8f6bd2f66d81d1ca9f92b271",
       "summation": "md5"
     },
     {
       "name": "publicopinionsd-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666706246",
-      "size": "561152",
-      "md5": "d3b772ce3b87ebde0b9c9fe72141d43f",
-      "crc32": "e2bf89e7",
-      "sha1": "e3fc96b12c89180fa977d64642753360331e1398",
+      "mtime": "1667225701",
+      "size": "651264",
+      "md5": "e518b765be3c1246e25ea211d794a945",
+      "crc32": "91445d68",
+      "sha1": "7e6208d4dd468b2f7ef25c3b6bc8ada2f48250ea",
       "format": "Metadata"
     },
     {
@@ -4383,9 +5138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 424,
-  "item_last_updated": 1666706285,
-  "item_size": 26491822,
+  "files_count": 497,
+  "item_last_updated": 1667226936,
+  "item_size": 31105937,
   "metadata": {
     "identifier": "publicopinionsd-2022",
     "collection": [
@@ -4402,21 +5157,10 @@
     "publicdate": "2022-09-21 02:22:50",
     "addeddate": "2022-09-21 02:22:50"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451703362,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2037247544,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1315114644,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

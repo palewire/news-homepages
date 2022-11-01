@@ -1,5 +1,5 @@
 {
-  "created": 1666717935,
+  "created": 1667238857,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/17/items/coloradoan-2022",
@@ -4397,31 +4397,838 @@
       "format": "JSON"
     },
     {
+      "name": "coloradoan-2022-10-25T11:11:21.153343-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-25T11:11:21.153343-06:00.jpg",
+      "mtime": "1666718560",
+      "size": "9383",
+      "md5": "a8102a1e347d60cbfefc5e1fa2c6a885",
+      "crc32": "2e257e82",
+      "sha1": "4d51355eaafe2e19cfb4b098c433dfce517aafa3"
+    },
+    {
+      "name": "coloradoan-2022-10-26T00:42:10.646685-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666766533",
+      "size": "21071",
+      "md5": "0393d7adad80120af732a66ec94fa541",
+      "crc32": "cc9ed3f2",
+      "sha1": "1e4b95d35f50ed43166aa5985d6f992b67f5e8cc",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T00:42:10.646685-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666766534",
+      "size": "41359",
+      "md5": "9795652f96a200c0b857223dd200ad5e",
+      "crc32": "ce6da6ae",
+      "sha1": "541d16de5ad337a16a3ec5c82ff4a11fc2af9ec0",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T00:42:10.646685-06:00.jpg",
+      "source": "original",
+      "mtime": "1666766531",
+      "size": "241064",
+      "md5": "80a9bb1217060dce50d12686e0479d0e",
+      "crc32": "d224bcf9",
+      "sha1": "380afa9a1e5174b1eb573077e99c0b373382baf5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-26T00:42:10.646685-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666766536",
+      "size": "1495",
+      "md5": "d9244f84e11bf02357cc249200868b95",
+      "crc32": "657c2bba",
+      "sha1": "d6ab2383bc609f872d8b4b5f990a8e6e789bf90a",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T00:42:10.646685-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666766537",
+      "size": "87637",
+      "md5": "f21c1cdc468b714e3270bc347061e1a8",
+      "crc32": "734bd3a1",
+      "sha1": "9a13cec7d35e57063f4dc0055d6423c73f340269",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T00:42:10.646685-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-26T00:42:10.646685-06:00.jpg",
+      "mtime": "1666767414",
+      "size": "9032",
+      "md5": "c6c68382d31c340f4c90af778db8886b",
+      "crc32": "ec8e87e6",
+      "sha1": "39be505e8bf445940864693af1c7debcea20d126"
+    },
+    {
+      "name": "coloradoan-2022-10-26T13:09:27.610622-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666811376",
+      "size": "20795",
+      "md5": "f428be696a67f285eb7548d0bfc9db17",
+      "crc32": "bba9beec",
+      "sha1": "5a4f83ad536db0c79be7a702b81f447d3fb3d868",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T13:09:27.610622-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666811378",
+      "size": "44571",
+      "md5": "448f74e3d89533f9391eb941e676308e",
+      "crc32": "32a9b72a",
+      "sha1": "641bd4dd1bac6d619bf75691be0883b9286591ba",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T13:09:27.610622-06:00.jpg",
+      "source": "original",
+      "mtime": "1666811373",
+      "size": "281821",
+      "md5": "740bbefb35246fa787280f89882fc66f",
+      "crc32": "34caecaf",
+      "sha1": "6ed56f8a37521dc4d993f1444a323b9163146427",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-26T13:09:27.610622-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666811381",
+      "size": "1495",
+      "md5": "8c36e9f06b556051282c7938fdde8b73",
+      "crc32": "92514aa8",
+      "sha1": "13f9e57066918067926138f67ba703309cf98207",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T13:09:27.610622-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-26T13:09:27.610622-06:00.jpg",
+      "mtime": "1666819975",
+      "size": "9339",
+      "md5": "73187963cd7f5b6b6bbb8c04be404b55",
+      "crc32": "05233f08",
+      "sha1": "b9b775c62b106d0522cf14df1da3401c25047259"
+    },
+    {
+      "name": "coloradoan-2022-10-26T13:09:50.682100-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666811395",
+      "size": "20795",
+      "md5": "f428be696a67f285eb7548d0bfc9db17",
+      "crc32": "bba9beec",
+      "sha1": "5a4f83ad536db0c79be7a702b81f447d3fb3d868",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T13:09:50.682100-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666811398",
+      "size": "44571",
+      "md5": "448f74e3d89533f9391eb941e676308e",
+      "crc32": "32a9b72a",
+      "sha1": "641bd4dd1bac6d619bf75691be0883b9286591ba",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T13:09:50.682100-06:00.jpg",
+      "source": "original",
+      "mtime": "1666811393",
+      "size": "281821",
+      "md5": "740bbefb35246fa787280f89882fc66f",
+      "crc32": "34caecaf",
+      "sha1": "6ed56f8a37521dc4d993f1444a323b9163146427",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-26T13:09:50.682100-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666811400",
+      "size": "1495",
+      "md5": "8c36e9f06b556051282c7938fdde8b73",
+      "crc32": "92514aa8",
+      "sha1": "13f9e57066918067926138f67ba703309cf98207",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T13:09:50.682100-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666811404",
+      "size": "92832",
+      "md5": "cb86ca5c93e6b46bf6bc36f71390a166",
+      "crc32": "c62af466",
+      "sha1": "3de508e3106431464050ba8bd6ab8091ccb21c4a",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T13:09:50.682100-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-26T13:09:50.682100-06:00.jpg",
+      "mtime": "1666819977",
+      "size": "9339",
+      "md5": "73187963cd7f5b6b6bbb8c04be404b55",
+      "crc32": "05233f08",
+      "sha1": "b9b775c62b106d0522cf14df1da3401c25047259"
+    },
+    {
+      "name": "coloradoan-2022-10-26T23:54:30.677012-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666850075",
+      "size": "20898",
+      "md5": "f41e5e3c46715e2e6b2db0b43c724d74",
+      "crc32": "2e13ef35",
+      "sha1": "2f0dc27c9c5cb1d2658218082b710af73d77074d",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T23:54:30.677012-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666850077",
+      "size": "43912",
+      "md5": "1f118cef55ee8fbf1d2a220b71af28b7",
+      "crc32": "1f1d81bf",
+      "sha1": "62d2248b9c58469b859772cd24c276ee1ee38b8b",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T23:54:30.677012-06:00.jpg",
+      "source": "original",
+      "mtime": "1666850072",
+      "size": "260353",
+      "md5": "b7eb0d248b05f0e8ef3b8742781cbcd8",
+      "crc32": "7b299c4e",
+      "sha1": "875e659550bd0caadacfdcd272f305ddf4651e8a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-26T23:54:30.677012-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666850078",
+      "size": "1495",
+      "md5": "728626bff4849ad5d444cb54e36c7fa3",
+      "crc32": "ae5e32c0",
+      "sha1": "08d4dbf09e1112c4c85fd5e774023397e4af8c76",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T23:54:30.677012-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666850081",
+      "size": "73411",
+      "md5": "8212cf793333f35bf80e4d0c0c260d73",
+      "crc32": "ed2116b9",
+      "sha1": "f5b1eb64698c597172352456a297f3119b406eb2",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-26T23:54:30.677012-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-26T23:54:30.677012-06:00.jpg",
+      "mtime": "1666874046",
+      "size": "9520",
+      "md5": "d25ce3f1dbede7b8e06ae1e3696c287e",
+      "crc32": "84e4a239",
+      "sha1": "f016103ccaf0db4a112bce96890e0ce84c0024b0"
+    },
+    {
+      "name": "coloradoan-2022-10-27T11:50:26.346679-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666893032",
+      "size": "20956",
+      "md5": "35e24dab987aa9a68102644ca35a3cbc",
+      "crc32": "d060ec7e",
+      "sha1": "09ea505644686d1ef25759b83275327f46b8e38d",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-27T11:50:26.346679-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666893034",
+      "size": "54739",
+      "md5": "2f5bae0a4f0cef3dc00ae1b657f4a85b",
+      "crc32": "d3f12a66",
+      "sha1": "e919e867f346e6ae5613e586660762c526c813f3",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-27T11:50:26.346679-06:00.jpg",
+      "source": "original",
+      "mtime": "1666893030",
+      "size": "276397",
+      "md5": "c110c689da7fa93f63ee2ceaa84f0488",
+      "crc32": "4484ed66",
+      "sha1": "b07108c81ec14d2e8779b23f45d9c22d6b98b750",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-27T11:50:26.346679-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666893037",
+      "size": "1495",
+      "md5": "5913f49f90d59efc5899e0c7581d06ac",
+      "crc32": "50719c5c",
+      "sha1": "28c194476165a3b5a16e8675b7967b04b2c23705",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-27T11:50:26.346679-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666893040",
+      "size": "85255",
+      "md5": "7744c446fd9d121c888872fb5491ac78",
+      "crc32": "1d30893b",
+      "sha1": "684d03739cf52a6de89fb2be478a7ab42611b168",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-27T11:50:26.346679-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-27T11:50:26.346679-06:00.jpg",
+      "mtime": "1666902299",
+      "size": "9529",
+      "md5": "9520b4ee269012697dcc91ae91d28de6",
+      "crc32": "0e3e48ef",
+      "sha1": "5dc4f8775690a790462f3c64efa4c8b19b9b12d9"
+    },
+    {
+      "name": "coloradoan-2022-10-28T02:23:08.664708-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666945392",
+      "size": "22468",
+      "md5": "557b15b82927944c091e3a564ac01406",
+      "crc32": "d34dd026",
+      "sha1": "404276cf5058ba8d672a4ca7a6ffe5630947ce10",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-28T02:23:08.664708-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666945394",
+      "size": "43607",
+      "md5": "9abc426626b7cd5d0e4f4f9a0471f77c",
+      "crc32": "9085b1bd",
+      "sha1": "579dfc053b3b4ca94301e1319d703c70a0f56e00",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-28T02:23:08.664708-06:00.jpg",
+      "source": "original",
+      "mtime": "1666945391",
+      "size": "298633",
+      "md5": "d0b2ef146fc02eb2900a119c98c1ede6",
+      "crc32": "12bb4740",
+      "sha1": "77bf0bce55dadd6ca65558a7f3357529d1e8fd81",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-28T02:23:08.664708-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666945395",
+      "size": "1492",
+      "md5": "1ee84c0bcfac19e7564d808caa3cf7a4",
+      "crc32": "c989c8f2",
+      "sha1": "5a3dee5d85cd50cfd2c0392c4ef569af9121e31f",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-28T02:23:08.664708-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666945396",
+      "size": "79761",
+      "md5": "8b6cfe38f081e517a8e4dc15f3388ccd",
+      "crc32": "d4e483ec",
+      "sha1": "9cd5be8a0b4b88a7a6c104240901649f101926c4",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-28T02:23:08.664708-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-28T02:23:08.664708-06:00.jpg",
+      "mtime": "1666949623",
+      "size": "9395",
+      "md5": "c3bea806e2995e94f5a510e1938ff759",
+      "crc32": "b1e8ed7f",
+      "sha1": "37297634c04677e40add22f99b705de26f3a28cc"
+    },
+    {
+      "name": "coloradoan-2022-10-28T11:15:17.321740-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666977324",
+      "size": "19685",
+      "md5": "dc6e19e3bab824807c9407a8c85d9fd6",
+      "crc32": "6bc8389a",
+      "sha1": "7b4c9dc074f0b7e71d980299b9b599ff6d8ad3c0",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-28T11:15:17.321740-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666977325",
+      "size": "32823",
+      "md5": "a52de6b46fa921a61d1a9635ea8a9444",
+      "crc32": "97c2ec7a",
+      "sha1": "ad27328019d7630993e30f97876419a95ba88e5f",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-28T11:15:17.321740-06:00.jpg",
+      "source": "original",
+      "mtime": "1666977321",
+      "size": "251432",
+      "md5": "f1c9db802a6e90eefdda54b5fb617a5d",
+      "crc32": "fcf01c0d",
+      "sha1": "f8bbebad947257fe3cd53d60ebd957683f0ef579",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-28T11:15:17.321740-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666977327",
+      "size": "1495",
+      "md5": "8b947827764fd711daa68af2fa8fafcc",
+      "crc32": "7e0044d0",
+      "sha1": "4e56133a529d08589001a74bf6d4fb4e1053bc96",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-28T11:15:17.321740-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666977329",
+      "size": "66971",
+      "md5": "8b9f742300161f07028587302caf71d8",
+      "crc32": "0e0bf84e",
+      "sha1": "9ff41289dd4d6d815ecef3a5ef209191c2ddb7f4",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-28T11:15:17.321740-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-28T11:15:17.321740-06:00.jpg",
+      "mtime": "1666981084",
+      "size": "9188",
+      "md5": "3e8cb93d3d172168fff84167459380a6",
+      "crc32": "86ececce",
+      "sha1": "fa06f02234df543e47bd7b9cfabf9eccbe8103e7"
+    },
+    {
+      "name": "coloradoan-2022-10-28T23:27:16.573579-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667021247",
+      "size": "21354",
+      "md5": "da7be4be7023ec586f883a7c9644f71a",
+      "crc32": "f1ea7166",
+      "sha1": "c2ed50075007198c16ba3efb96e15688d6afcc53",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-28T23:27:16.573579-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667021248",
+      "size": "42251",
+      "md5": "9a075747ced402860f87ec468603d0ed",
+      "crc32": "0b0c039a",
+      "sha1": "cfd1430b3dde93ccba20e34f63b07508a9a3275a",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-28T23:27:16.573579-06:00.jpg",
+      "source": "original",
+      "mtime": "1667021246",
+      "size": "254014",
+      "md5": "ec019ef297ed2651834403577043cf74",
+      "crc32": "5c6a3dd0",
+      "sha1": "5779983ea8490d592085fc14ff19cf445f485700",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-28T23:27:16.573579-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667021250",
+      "size": "1495",
+      "md5": "375d8876645efc57186cef612f56d911",
+      "crc32": "8597a7c1",
+      "sha1": "b86577fde7e046bcbe945db42e710206ac557e4a",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-28T23:27:16.573579-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667021251",
+      "size": "207",
+      "md5": "f40644214ba828484bc4897e39927918",
+      "crc32": "82ebe0d8",
+      "sha1": "d8090df6e3476d25bb598cf3544f4944a5f02fcb",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-28T23:27:16.573579-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-28T23:27:16.573579-06:00.jpg",
+      "mtime": "1667023709",
+      "size": "9233",
+      "md5": "81c8287a972aa1d45e605830541a1b02",
+      "crc32": "1c271bbe",
+      "sha1": "7cefee01e62e9f941484e86b03279b93cfc754a2"
+    },
+    {
+      "name": "coloradoan-2022-10-29T11:50:49.296975-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667065860",
+      "size": "21171",
+      "md5": "1b3084cf532ec455d49b97f3e62d6ab5",
+      "crc32": "505cd22c",
+      "sha1": "cc0bf8c4f699d4f847e39d62c61cb17c1d012249",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-29T11:50:49.296975-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667065862",
+      "size": "36538",
+      "md5": "30e4fd388e07914570e3b48315df6c77",
+      "crc32": "4172d980",
+      "sha1": "cb9cb258e33d9f495110624d8c35339782e6d2f5",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-29T11:50:49.296975-06:00.jpg",
+      "source": "original",
+      "mtime": "1667065859",
+      "size": "253929",
+      "md5": "15fbfb2708c4ead84771ede96a488afb",
+      "crc32": "fea0bc13",
+      "sha1": "bb86caf5911c6c2178bbe1264e7d08acc4110539",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-29T11:50:49.296975-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667065863",
+      "size": "1495",
+      "md5": "1ad63955ffb8bc6aea2a5b355d5d88a1",
+      "crc32": "b6c44684",
+      "sha1": "ef4931b0696b48e9a02060454eee484dd1b2c97a",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-29T11:50:49.296975-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667065865",
+      "size": "103",
+      "md5": "29d499616471efcc382b46177ff923e1",
+      "crc32": "a7b4b3aa",
+      "sha1": "b5493e79ef574fdebe20e2d9a00f10653ad9330b",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-29T11:50:49.296975-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-29T11:50:49.296975-06:00.jpg",
+      "mtime": "1667066263",
+      "size": "9440",
+      "md5": "59ef700008c6a86e8563bf4eeee9e06b",
+      "crc32": "08f2165f",
+      "sha1": "9b4115caba9c08e19a14921642e76cec927e9057"
+    },
+    {
+      "name": "coloradoan-2022-10-29T23:34:47.776501-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667108093",
+      "size": "20729",
+      "md5": "847b37461afb8e174aff5cb22ccc2970",
+      "crc32": "88bfccd9",
+      "sha1": "69737e8c8114e5be01c94d56ac0b26f4666417f8",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-29T23:34:47.776501-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667108095",
+      "size": "32227",
+      "md5": "f2dd0238b488041a9f6dc44338ae7e3e",
+      "crc32": "5e8949a5",
+      "sha1": "cbdcab3c1fb03cca2a13a3ccf8d1c0199273ead5",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-29T23:34:47.776501-06:00.jpg",
+      "source": "original",
+      "mtime": "1667108091",
+      "size": "270100",
+      "md5": "136571cfc0178cd2767b4633e74b480e",
+      "crc32": "491dfeca",
+      "sha1": "c4823c46bc16ceac5de30e56e2a76db04955755c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-29T23:34:47.776501-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667108096",
+      "size": "1494",
+      "md5": "18a041b8d07c3bddaf3a42fe7cbd770e",
+      "crc32": "f2de2bf7",
+      "sha1": "2a9d4dcf5f50f7e519f041c6fdfa11a51cdcf0eb",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-29T23:34:47.776501-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667108098",
+      "size": "93889",
+      "md5": "d3112a977da1e39e47f5c7727a688013",
+      "crc32": "55a74804",
+      "sha1": "878d72de26c8f0325c0d1a99952518496858bf45",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-29T23:34:47.776501-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-29T23:34:47.776501-06:00.jpg",
+      "mtime": "1667108712",
+      "size": "9441",
+      "md5": "d8eeaf616feef43dbbce057e52bb0afe",
+      "crc32": "161dbf34",
+      "sha1": "022e411ce778bdd90d8cc9903d9e107a5029d1ae"
+    },
+    {
+      "name": "coloradoan-2022-10-30T11:18:00.309754-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667150289",
+      "size": "20700",
+      "md5": "5fa23ccf68ed7ad92cca144ea181aafb",
+      "crc32": "3a10ce8d",
+      "sha1": "af3dcf5dfefdc4a17ef93fe3a9467d8978bb8887",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-30T11:18:00.309754-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667150291",
+      "size": "41730",
+      "md5": "9dc89021da4310f1f9b2ee9d7d3ae232",
+      "crc32": "82ecba72",
+      "sha1": "35c100359d5bf08c65d4f8674775956c16cfa7ed",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-30T11:18:00.309754-06:00.jpg",
+      "source": "original",
+      "mtime": "1667150287",
+      "size": "243956",
+      "md5": "dc4fcaaf7eed0137a739e747a64b4b8f",
+      "crc32": "dc380e56",
+      "sha1": "8e386905f1cf71fbcf5df278804bdb8dfce626b6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-30T11:18:00.309754-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667150292",
+      "size": "1494",
+      "md5": "e49ba437b0de744de4abbd6a6440a19e",
+      "crc32": "de56d061",
+      "sha1": "891c36b4336852885f0fcfd43dc36a710013684d",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-30T11:18:00.309754-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667150294",
+      "size": "82703",
+      "md5": "510f0c68479476756b4e66797fa8b9b1",
+      "crc32": "d7c34cb7",
+      "sha1": "f617af111b420e619d5e786e54d3718a0cceb914",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-30T11:18:00.309754-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-30T11:18:00.309754-06:00.jpg",
+      "mtime": "1667151116",
+      "size": "9239",
+      "md5": "dbba58dfb233eeb2d3231b2148f9c563",
+      "crc32": "0b6f77e3",
+      "sha1": "94f219057bc35ff925169a2d4a1426475d7d73fb"
+    },
+    {
+      "name": "coloradoan-2022-10-31T00:34:34.003226-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198083",
+      "size": "20686",
+      "md5": "73304807674111c1fe286cd00fe07a82",
+      "crc32": "e0245125",
+      "sha1": "4c839b55dd7cf4a6e8877fca30a77249d1b92db2",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-31T00:34:34.003226-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198085",
+      "size": "29811",
+      "md5": "f1bc2c4822c20e2e98c915efa1d39813",
+      "crc32": "9dc60253",
+      "sha1": "54d8d22d8eb6cbffb94fcf1a817321cca0b8b5d5",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-31T00:34:34.003226-06:00.jpg",
+      "source": "original",
+      "mtime": "1667198082",
+      "size": "248147",
+      "md5": "976c1dd761475c68cf252d40cf2c27ad",
+      "crc32": "0555cb22",
+      "sha1": "a8ecb2e38713545f3405af6c40fa9271f0a1cf1a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-31T00:34:34.003226-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198087",
+      "size": "1495",
+      "md5": "a2fce6209202a7ffa6804deea17d3fbe",
+      "crc32": "db868e1d",
+      "sha1": "20d6b2027ebb566ac2a707f9596c9dd400cc2261",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-31T00:34:34.003226-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198088",
+      "size": "207",
+      "md5": "f40644214ba828484bc4897e39927918",
+      "crc32": "82ebe0d8",
+      "sha1": "d8090df6e3476d25bb598cf3544f4944a5f02fcb",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-31T00:34:34.003226-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-31T00:34:34.003226-06:00.jpg",
+      "mtime": "1667200501",
+      "size": "9159",
+      "md5": "05521cd1f5ed89e7b42f3073c0e09e39",
+      "crc32": "9149c0c4",
+      "sha1": "1a0533a5dd686acfebc08a7c21563a1739c10b64"
+    },
+    {
+      "name": "coloradoan-2022-10-31T11:42:54.441487-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667238181",
+      "size": "21371",
+      "md5": "de1da814fe8f7ae58c98c8d577adce3f",
+      "crc32": "aebac07f",
+      "sha1": "ea78f4703b9db92a014a7db8e3d2738a7f22b394",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-31T11:42:54.441487-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667238184",
+      "size": "35238",
+      "md5": "906ddfa795fa0646b884ffa5621ad83b",
+      "crc32": "ab85d7bf",
+      "sha1": "85d36f903208a92a9abfead1ee78875412577391",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-31T11:42:54.441487-06:00.jpg",
+      "source": "original",
+      "mtime": "1667238179",
+      "size": "249736",
+      "md5": "8f7e14c780cffd298cf703b14624d7a2",
+      "crc32": "6cc10ab1",
+      "sha1": "133f4788497f3b7bdc27605921b5b35d62dc087f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-10-31T11:42:54.441487-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667238187",
+      "size": "1495",
+      "md5": "c61a11e30557bae7b71ca9d88213edc5",
+      "crc32": "6069e4b3",
+      "sha1": "392238dba8809619c364df9ce97b0bc0ac69c7f9",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-31T11:42:54.441487-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667238189",
+      "size": "68138",
+      "md5": "98b90d22e1f51f31dd01f9872ec91598",
+      "crc32": "4a1658b2",
+      "sha1": "aab660c8623ff1c555e3d4e40e430c4c55c876c8",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-10-31T11:42:54.441487-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coloradoan-2022-10-31T11:42:54.441487-06:00.jpg",
+      "mtime": "1667238785",
+      "size": "9196",
+      "md5": "392fde04e6812e2c7ee0804478d33213",
+      "crc32": "134083b9",
+      "sha1": "6b8b12e0fdc2ab9fb7247a84c3b81be54ed70a6a"
+    },
+    {
       "name": "coloradoan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2b59d0ab3eb6e493e4ea1a68e69906ca7147c357",
-      "mtime": "1666717931",
-      "size": "91758",
-      "md5": "6231b8b3c2911573dd9d9305d53df6ba",
-      "crc32": "8445ea45",
-      "sha1": "ae9c1863d1eec9e3c7d4f10e3790cbc985fe1644",
+      "btih": "247360d0ecde11997e18ac324eb8f00db00acf25",
+      "mtime": "1667238791",
+      "size": "108295",
+      "md5": "b8592bec2abeaf6ea29d87ba575c76c6",
+      "crc32": "4e3e19fd",
+      "sha1": "74d14435380fddb773057cffcea92f6cc0ae6607",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coloradoan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "16cbcea846ef02b0a22eeb71e460a687",
+      "md5": "a2120f31f573c26e54348ed89dc98edb",
       "summation": "md5"
     },
     {
       "name": "coloradoan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666717893",
-      "size": "557056",
-      "md5": "de9dc29d5b0cbb0e8cd9738a999871e9",
-      "crc32": "f697eecb",
-      "sha1": "46321751487d72e636826b8803910f71a7409620",
+      "mtime": "1667238193",
+      "size": "663552",
+      "md5": "b2b1afa4949423268bdd997128339f61",
+      "crc32": "f7c39328",
+      "sha1": "844273409c98c3fc2d7ab3f93a33a6fbb3bd79b2",
       "format": "Metadata"
     },
     {
@@ -4435,9 +5242,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 429,
-  "item_last_updated": 1666717931,
-  "item_size": 29999256,
+  "files_count": 507,
+  "item_last_updated": 1667238791,
+  "item_size": 35210725,
   "metadata": {
     "identifier": "coloradoan-2022",
     "collection": [
@@ -4454,21 +5261,10 @@
     "publicdate": "2022-09-20 17:40:50",
     "addeddate": "2022-09-20 17:40:50"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451843474,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 814403920,
+  "uniq": 1170292282,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

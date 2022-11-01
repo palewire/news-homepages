@@ -1,5 +1,5 @@
 {
-  "created": 1666709669,
+  "created": 1667228587,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/11/items/thestarpress-2022",
@@ -4345,31 +4345,775 @@
       "format": "JSON"
     },
     {
+      "name": "thestarpress-2022-10-25T10:53:29.324522-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-25T10:53:29.324522-04:00.jpg",
+      "mtime": "1666712487",
+      "size": "9159",
+      "md5": "7981eec3c5280060a1554194e7c3260e",
+      "crc32": "29b8f9f9",
+      "sha1": "e8e05aa7a7880a6c4dd24db3be0ece6ca3dd750a"
+    },
+    {
+      "name": "thestarpress-2022-10-25T23:45:48.254506-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666755951",
+      "size": "18687",
+      "md5": "ab4925a031ea3d5aa6eed467422c4388",
+      "crc32": "af82596b",
+      "sha1": "f697a7cc94f219a159e12f624683e5672a4386da",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-25T23:45:48.254506-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666755953",
+      "size": "31783",
+      "md5": "9cfc871d7c341328c0f21d91d25dff04",
+      "crc32": "4a349043",
+      "sha1": "1d8efc39200ccfcf20e0a8eae4cf501f8b08e1e2",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-25T23:45:48.254506-04:00.jpg",
+      "source": "original",
+      "mtime": "1666755949",
+      "size": "214207",
+      "md5": "5b9c154e53218bbec06a5f8b25957806",
+      "crc32": "436aa3e0",
+      "sha1": "47ea6be3716703434298dcad3c4c61664eaaf443",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-25T23:45:48.254506-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666755955",
+      "size": "1513",
+      "md5": "54b225b4c549435cc330205b7125c913",
+      "crc32": "e405dc30",
+      "sha1": "b28ab143a1a350586e1e42775afb4404ccdbf30e",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-25T23:45:48.254506-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666755957",
+      "size": "123157",
+      "md5": "c5af7ca23cfa3fdcaeabbf8eed8a8c79",
+      "crc32": "fff0d469",
+      "sha1": "2c33a1df2a979e87a758d68c7c37940cdec80f19",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-25T23:45:48.254506-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-25T23:45:48.254506-04:00.jpg",
+      "mtime": "1666756085",
+      "size": "9054",
+      "md5": "e951915f60493ba44c7efebc8d4abe48",
+      "crc32": "0112c4de",
+      "sha1": "75ecd39bad13e4b1779c4f63eb4ce13adccdaa2e"
+    },
+    {
+      "name": "thestarpress-2022-10-26T11:07:24.245405-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796847",
+      "size": "18271",
+      "md5": "efb46778c9bb233c432c3d40ac2b24e5",
+      "crc32": "8650adc1",
+      "sha1": "45d029fc040ede19e2f750b4071347c9bc3b7a6a",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-26T11:07:24.245405-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796852",
+      "size": "33113",
+      "md5": "ac582341b80c6304abce9cf586a2603b",
+      "crc32": "4fe5aec5",
+      "sha1": "1aae4085d14d1050abd9d549d550602d0eec62a8",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-26T11:07:24.245405-04:00.jpg",
+      "source": "original",
+      "mtime": "1666796845",
+      "size": "245379",
+      "md5": "3afaaa697194ca464cfec57abc1d74c7",
+      "crc32": "6c460b61",
+      "sha1": "e02f7692c7a39361177916cee4894dc4c41dbc00",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-26T11:07:24.245405-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796853",
+      "size": "1513",
+      "md5": "00d525ccf9bba98506a9e54b0b87fd24",
+      "crc32": "c412fa3e",
+      "sha1": "a27987510e33fdcb75780913b3c9956832a2bf9f",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-26T11:07:24.245405-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796856",
+      "size": "78257",
+      "md5": "b2cab36d2d5de5b4db8e6fb9e0088824",
+      "crc32": "33529f94",
+      "sha1": "4482b7e83a5b4403fc3329b574a77ca4493d9244",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-26T11:07:24.245405-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-26T11:07:24.245405-04:00.jpg",
+      "mtime": "1666798588",
+      "size": "9116",
+      "md5": "8f1f19a5dd809a23881fae77f7b61bb9",
+      "crc32": "b8e6c934",
+      "sha1": "455dcb00605bbcb07540aefe27dc648bacbc9d28"
+    },
+    {
+      "name": "thestarpress-2022-10-26T23:40:12.048036-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666842015",
+      "size": "19289",
+      "md5": "574a3ce00433e0ada3b8c622491f51a3",
+      "crc32": "3e777641",
+      "sha1": "f963d6b5abf9ef2b9f4df488afebe557c64fd4a6",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-26T23:40:12.048036-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666842017",
+      "size": "30220",
+      "md5": "874636441a7f3981a8a1e87bafcee7ae",
+      "crc32": "6bd54c0f",
+      "sha1": "e5c0c04d67278299e693f8a8f0b9c9769e9cdb39",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-26T23:40:12.048036-04:00.jpg",
+      "source": "original",
+      "mtime": "1666842013",
+      "size": "247373",
+      "md5": "4ab43b7299bcb4f39d1b26cefa0c028d",
+      "crc32": "5583f6ba",
+      "sha1": "71720b3ca28c9db44767d60b283baf728be78dbd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-26T23:40:12.048036-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666842018",
+      "size": "1513",
+      "md5": "534204c76f86d5f197865260daaf0db0",
+      "crc32": "4faad756",
+      "sha1": "c7f28038b8236d9bfccaf2a98a024c4d711b657d",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-26T23:40:12.048036-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666842020",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-26T23:40:12.048036-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-26T23:40:12.048036-04:00.jpg",
+      "mtime": "1666866473",
+      "size": "9246",
+      "md5": "e5eb506f8ab63d16594e77244fb5b30f",
+      "crc32": "cd881cd7",
+      "sha1": "b6e0ec8983c13db19bb69e18d55305268428c699"
+    },
+    {
+      "name": "thestarpress-2022-10-27T11:10:27.990457-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666883443",
+      "size": "19531",
+      "md5": "e629de3f27961392914d0953c8b84d7f",
+      "crc32": "a115e2dc",
+      "sha1": "73c13a25b0deb312bbd89acb3b4566edb49f73d9",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-27T11:10:27.990457-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666883447",
+      "size": "39990",
+      "md5": "6c575825d313b4ead9a8066da4d53fcb",
+      "crc32": "ae3d0efb",
+      "sha1": "3c4d949557ef289e6f87dba072a93d27505d813a",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-27T11:10:27.990457-04:00.jpg",
+      "source": "original",
+      "mtime": "1666883431",
+      "size": "228296",
+      "md5": "b1570b2d1397db6e03d7715736420ada",
+      "crc32": "0d9f6261",
+      "sha1": "c3acd22ce92ce827783fb4b485a32d48dd67c02a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-27T11:10:27.990457-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666883450",
+      "size": "1513",
+      "md5": "4bffbc269a8581f3f5fb24b6f09f9fcf",
+      "crc32": "4df1f3dc",
+      "sha1": "38d1bc7e90b82139fd2246a847616dd00f9e50c9",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-27T11:10:27.990457-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666883454",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-27T11:10:27.990457-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-27T11:10:27.990457-04:00.jpg",
+      "mtime": "1666895512",
+      "size": "9033",
+      "md5": "6abab474b49815e9a9792acb32b71d95",
+      "crc32": "26811055",
+      "sha1": "bcdd7ab24685e451cbd68700d099addd1e888c9e"
+    },
+    {
+      "name": "thestarpress-2022-10-28T00:39:48.195374-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666931991",
+      "size": "19208",
+      "md5": "8497cf089feae46701c180642c0bdd1b",
+      "crc32": "7bef2c64",
+      "sha1": "c5336f7fdab0773699056b7dc1799c11f2fa624e",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T00:39:48.195374-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666931993",
+      "size": "31222",
+      "md5": "ae8c4ee562ca98225a1c0cc16b9a66cb",
+      "crc32": "5446335f",
+      "sha1": "0a096ca638aa40105b6d52837fe89a5580f5d74a",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T00:39:48.195374-04:00.jpg",
+      "source": "original",
+      "mtime": "1666931989",
+      "size": "245119",
+      "md5": "89c3a1b7d07bc22e741a9bdd16d51a45",
+      "crc32": "fae3ff0a",
+      "sha1": "d6c9c052eee5fd5eb4f9ab5990ea2d1e281cee74",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-28T00:39:48.195374-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666931995",
+      "size": "1512",
+      "md5": "55d16d47293e6cf76fdcc2eb9e484538",
+      "crc32": "a3ad5347",
+      "sha1": "2c9b36cb3051ce18911ac85672a1b393d25419fc",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T00:39:48.195374-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666931996",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T00:39:48.195374-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-28T00:39:48.195374-04:00.jpg",
+      "mtime": "1666933388",
+      "size": "9344",
+      "md5": "b3f190f9f6d52d14bbd50b2e8a2efaa3",
+      "crc32": "a0d8b41e",
+      "sha1": "d18e612b0c9ff1bc01d133c15c0f7c1df3cd7a56"
+    },
+    {
+      "name": "thestarpress-2022-10-28T10:47:08.163644-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666968432",
+      "size": "18545",
+      "md5": "c11a5ef8ff3e1885b268acb3715006f1",
+      "crc32": "ffb0c86b",
+      "sha1": "ac0ede9de0d90462e60c535ea5384430192bc556",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T10:47:08.163644-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666968434",
+      "size": "41512",
+      "md5": "c197fadb0f314c77a468cf5082457082",
+      "crc32": "beefeed0",
+      "sha1": "690a4e0f11122400e9d5a521a96fad444f8c8f5d",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T10:47:08.163644-04:00.jpg",
+      "source": "original",
+      "mtime": "1666968431",
+      "size": "271466",
+      "md5": "8ee2b8ce0844362def56e5c2eb7b4196",
+      "crc32": "4abdda29",
+      "sha1": "6af475c93126d91ef67c8654cd0379bdbeb06ff1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-28T10:47:08.163644-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666968436",
+      "size": "1512",
+      "md5": "87959b8efd0e21ee5b61963ea49c46bf",
+      "crc32": "3dbd2c94",
+      "sha1": "b630eba4a751de090c84026c8f1973709cfbc5da",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T10:47:08.163644-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666968438",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T10:47:08.163644-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-28T10:47:08.163644-04:00.jpg",
+      "mtime": "1666977699",
+      "size": "9166",
+      "md5": "61e926664f0d847ff90032f61527c665",
+      "crc32": "bf5b6580",
+      "sha1": "384f4ee98b8386897b762550fdd3c74566c34fcf"
+    },
+    {
+      "name": "thestarpress-2022-10-28T23:30:51.624816-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667014254",
+      "size": "18485",
+      "md5": "c257db26e99bb0e247a2b6c232cfa068",
+      "crc32": "6623f5ad",
+      "sha1": "d0104799cfc8a2aa0da8985fcfacd891725cce26",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T23:30:51.624816-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667014256",
+      "size": "30837",
+      "md5": "cc9e6e19278bae82427d6883b76054b1",
+      "crc32": "303b1209",
+      "sha1": "840fbf43324b0e5246d377c921209e3bb5bb4961",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T23:30:51.624816-04:00.jpg",
+      "source": "original",
+      "mtime": "1667014253",
+      "size": "247079",
+      "md5": "b7713472d312f99daa067fe4fb6b67c6",
+      "crc32": "700b5662",
+      "sha1": "8074cfd5564882401ea3c1b563422a66abb3b280",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-28T23:30:51.624816-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667014258",
+      "size": "1513",
+      "md5": "4c5b37ca5718eb68baa5748a75bb971a",
+      "crc32": "971b551e",
+      "sha1": "aaf1e93a77c1f4a522498b464c5b37c6d51b4b34",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T23:30:51.624816-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667014260",
+      "size": "209",
+      "md5": "e4ca4d09092aa36ec0389ef753c89523",
+      "crc32": "ee4b53cc",
+      "sha1": "207d81265ae923fbac1ad3a927e8b4a39d9cfed1",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-28T23:30:51.624816-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-28T23:30:51.624816-04:00.jpg",
+      "mtime": "1667015392",
+      "size": "9158",
+      "md5": "5e14c6bec198ea51af497865670149d8",
+      "crc32": "a175573e",
+      "sha1": "87ae19235ea1add23c89803f27e086586deba583"
+    },
+    {
+      "name": "thestarpress-2022-10-29T11:07:05.152905-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667056029",
+      "size": "20033",
+      "md5": "0ab2a430c240a977017f3137e7e6b456",
+      "crc32": "af7f720a",
+      "sha1": "5a54d2cb8268e3fceae7682a2b4999f50657e122",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-29T11:07:05.152905-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667056031",
+      "size": "38949",
+      "md5": "e687f0112c3ebf6f073c9b934d9b4e6d",
+      "crc32": "750f6f0d",
+      "sha1": "8de091af96397963d3aea925600268c5abc95b98",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-29T11:07:05.152905-04:00.jpg",
+      "source": "original",
+      "mtime": "1667056027",
+      "size": "238459",
+      "md5": "17575d680fa44fdae86826ae40f71122",
+      "crc32": "36ac60ba",
+      "sha1": "99d059e4bb1f12ba67489ee9c53929dad553a92e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-29T11:07:05.152905-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667056033",
+      "size": "1513",
+      "md5": "ed2b6caa90f8dd28bf3038dedc19d08a",
+      "crc32": "b65dc9f2",
+      "sha1": "9a542c2bb8715baeec2385eab5df8ec731d0797d",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-29T11:07:05.152905-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667056034",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-29T11:07:05.152905-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-29T11:07:05.152905-04:00.jpg",
+      "mtime": "1667056769",
+      "size": "9176",
+      "md5": "a41236c523964dfe5d9bf7c0a8452dc5",
+      "crc32": "f538f005",
+      "sha1": "4e3940803813d52b42ff681501c8e5e27ecbeb70"
+    },
+    {
+      "name": "thestarpress-2022-10-29T23:29:58.426431-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667100608",
+      "size": "19113",
+      "md5": "062d02f9b820161b5cb1087d2f7d1999",
+      "crc32": "095349f4",
+      "sha1": "31257be3458a3c2e45f55a1a708cab890353ce13",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-29T23:29:58.426431-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667100610",
+      "size": "30924",
+      "md5": "35965573f6dd74b067bb47bcf74606b5",
+      "crc32": "2d651b07",
+      "sha1": "4cf414a6b45100edb7fefa05cdc512f7cf7581ea",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-29T23:29:58.426431-04:00.jpg",
+      "source": "original",
+      "mtime": "1667100607",
+      "size": "241898",
+      "md5": "4f5d37831feb89bbdbbc12363739103f",
+      "crc32": "d8090ca0",
+      "sha1": "a4e6798bb50bda6e6d6c00eef6ab2c4fc9a3e74c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-29T23:29:58.426431-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667100611",
+      "size": "1513",
+      "md5": "5ee533f17c7e67c596360c37d0b3f4d9",
+      "crc32": "a6689757",
+      "sha1": "7bf6fece3b125dba0938dc76ea3ef3ba74eaadd7",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-29T23:29:58.426431-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667100612",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-29T23:29:58.426431-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-29T23:29:58.426431-04:00.jpg",
+      "mtime": "1667101513",
+      "size": "8851",
+      "md5": "45395b9dd98568cef7c80bf17d800b62",
+      "crc32": "fff2c0a2",
+      "sha1": "1563a556a2651c968f6a98c8c4a91ff89b08b8ec"
+    },
+    {
+      "name": "thestarpress-2022-10-30T10:41:19.820985-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667140882",
+      "size": "19908",
+      "md5": "ebb1d8b9e4bf6d0e61d46923a1e7ee2d",
+      "crc32": "d787546e",
+      "sha1": "ae73864be2b6a2005131dde9c6f12d912f1e0422",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-30T10:41:19.820985-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667140884",
+      "size": "33067",
+      "md5": "2d46fc9db20d27b1288a46eb740c2ae0",
+      "crc32": "0db1f47f",
+      "sha1": "adca24db073f7b72a113db72f489e992d4b2a0ad",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-30T10:41:19.820985-04:00.jpg",
+      "source": "original",
+      "mtime": "1667140880",
+      "size": "247728",
+      "md5": "da37a308b9ebcb1b3c9f5ee3eadc83b0",
+      "crc32": "2a6cbd89",
+      "sha1": "090f3fade102517372173bf76ca8ed3fd5e739f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-30T10:41:19.820985-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667140885",
+      "size": "1513",
+      "md5": "a8460858e9858d8899667c548a9df527",
+      "crc32": "66e97bcf",
+      "sha1": "a4a4f98e80ff35529920b9baec1cc8d68c6f7480",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-30T10:41:19.820985-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667140887",
+      "size": "110248",
+      "md5": "4028cb92d4d54c909e3d303139a7fa51",
+      "crc32": "57c70e43",
+      "sha1": "55ca050c7c80acae8732253ce23bbd710689055b",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-30T10:41:19.820985-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-30T10:41:19.820985-04:00.jpg",
+      "mtime": "1667141242",
+      "size": "8956",
+      "md5": "e92aff76df3f8bbf44f088dcb49d7e89",
+      "crc32": "c6b6b032",
+      "sha1": "9db380e12782d634eb1b038b8afd5e9698bfe826"
+    },
+    {
+      "name": "thestarpress-2022-10-30T23:27:27.522163-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667186854",
+      "size": "19902",
+      "md5": "c5810244c39375094bd8a3387e33251d",
+      "crc32": "830147b3",
+      "sha1": "e09c5a272d19ce920072ff209850e07999f7c47a",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-30T23:27:27.522163-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667186856",
+      "size": "45560",
+      "md5": "4d624bc21019cc396a5843c646fb8741",
+      "crc32": "90d7b6c9",
+      "sha1": "3b905ba04f81e1a32c1c6dbb7343bb573f1a5128",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-30T23:27:27.522163-04:00.jpg",
+      "source": "original",
+      "mtime": "1667186852",
+      "size": "279448",
+      "md5": "1979888cb579ee84bb6090d0fd085ea7",
+      "crc32": "e4f5e6d9",
+      "sha1": "3f4e9675d33272d46a0002a8541e14e651c4c1fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-30T23:27:27.522163-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667186857",
+      "size": "1512",
+      "md5": "52fd9b5e46ea42c38772b0c13cdf01bf",
+      "crc32": "09096d74",
+      "sha1": "390c267dda852dff4315e7bb5fb4045316daa53d",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-30T23:27:27.522163-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667186859",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-30T23:27:27.522163-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-30T23:27:27.522163-04:00.jpg",
+      "mtime": "1667187465",
+      "size": "9052",
+      "md5": "3f56b0ff4dc40179210b0279a02377cb",
+      "crc32": "39c1e39d",
+      "sha1": "ff6e7d3a37298dba24bcafd65bfb3891ffbd039b"
+    },
+    {
+      "name": "thestarpress-2022-10-31T11:01:34.308489-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667228500",
+      "size": "18080",
+      "md5": "d0a410a3b1d01dd3e1fc2fd5b041a90a",
+      "crc32": "3c2b1f87",
+      "sha1": "f1c6ee8b800d645130dcc40ca27585149deb7640",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-31T11:01:34.308489-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667228502",
+      "size": "29710",
+      "md5": "99bd41a63a558c6a4546e248c3e74aea",
+      "crc32": "90f3460e",
+      "sha1": "8ed0e92b97dae0f49d9f29360301b7aa1b3f5a48",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-31T11:01:34.308489-04:00.jpg",
+      "source": "original",
+      "mtime": "1667228498",
+      "size": "275115",
+      "md5": "5097288f36675f313b7f6ffc4f979854",
+      "crc32": "6d9c4801",
+      "sha1": "d1eaf37b25e27fddd35dcdf08362f46320def4c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thestarpress-2022-10-31T11:01:34.308489-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667228504",
+      "size": "1512",
+      "md5": "1d35da14f883fe6062c299f3895f2ab5",
+      "crc32": "99bb8cff",
+      "sha1": "8dfc706817e5463665b74fcdf169c5101c7c5376",
+      "format": "JSON"
+    },
+    {
+      "name": "thestarpress-2022-10-31T11:01:34.308489-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667228506",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thestarpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bf4b8643ddaec789b0b6a180b82cd632f5d54c1b",
-      "mtime": "1666709665",
-      "size": "91442",
-      "md5": "5aafd5a645f2dd1b84dc6aa4377a14c8",
-      "crc32": "9656ea33",
-      "sha1": "50f6437e8eb29bdb90cd235f729b581ab94f7b5f",
+      "btih": "aa550783dfae3e497805be84f742923e67c2ec1d",
+      "mtime": "1667228549",
+      "size": "106838",
+      "md5": "042df396b70fa10ef691ca4e509e7a32",
+      "crc32": "4bf8989b",
+      "sha1": "26495901b6e36cb380fb5cbb6724af0d81a1eef3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thestarpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "02945e2af5a3735eed76a4318bb34e51",
+      "md5": "47884d647baa7ce5ed5504160c0df803",
       "summation": "md5"
     },
     {
       "name": "thestarpress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666709625",
-      "size": "557056",
-      "md5": "5cfbc86c65dcde34708e7988992aac63",
-      "crc32": "83a15b76",
-      "sha1": "970ad668be6bd362a7a1a5a2b74b7aac76060a01",
+      "mtime": "1667228510",
+      "size": "651264",
+      "md5": "59085650d5af35b7b63ec67e5c8cb6ab",
+      "crc32": "e0ddd56f",
+      "sha1": "9437fa8ddc3d85e521f0bb1a328ac83e1fd5f4b5",
       "format": "Metadata"
     },
     {
@@ -4383,9 +5127,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 424,
-  "item_last_updated": 1666709665,
-  "item_size": 27672761,
+  "files_count": 496,
+  "item_last_updated": 1667228549,
+  "item_size": 31850821,
   "metadata": {
     "identifier": "thestarpress-2022",
     "collection": [
@@ -4407,7 +5151,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451740065,
+      "task_id": 3457852090,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4415,7 +5159,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1981326941,
+  "uniq": 1135105820,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

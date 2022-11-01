@@ -1,5 +1,5 @@
 {
-  "created": 1666712798,
+  "created": 1667232933,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/16/items/aspenpubradio-2022",
@@ -7869,31 +7869,786 @@
       "format": "JSON"
     },
     {
+      "name": "aspenpubradio-2022-10-25T09:45:24.025679-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-25T09:45:24.025679-06:00.jpg",
+      "mtime": "1666714357",
+      "size": "10407",
+      "md5": "0ce330d830657e7abe59f3a6b744af62",
+      "crc32": "4c615975",
+      "sha1": "56d42c632c8404581f3333437a0d9957658eb611"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T00:25:28.402670-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666765535",
+      "size": "20019",
+      "md5": "bf13ec01e8122ae5f091799b45d597c3",
+      "crc32": "c901d987",
+      "sha1": "2cd0edd0fc8a0d56a42b42b1ce226cf413a0cb1f",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T00:25:28.402670-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666765538",
+      "size": "37299",
+      "md5": "45149f4cbcbf6fd5533dfbbacf9bc579",
+      "crc32": "93a2bae5",
+      "sha1": "d676545d75b2c7ea5cc658bdee23552a20fcc7d4",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T00:25:28.402670-06:00.jpg",
+      "source": "original",
+      "mtime": "1666765533",
+      "size": "315138",
+      "md5": "3164707a20febce260cde6a528b5bf4a",
+      "crc32": "21db3660",
+      "sha1": "fbc9d9c81127dd48316d55a572047ad22fe5ccc5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T00:25:28.402670-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666765540",
+      "size": "1537",
+      "md5": "6205d78912a51a7b1b2b7a9349c23e10",
+      "crc32": "1f470f8f",
+      "sha1": "40e28e383b22cfc2b554679b3f0fb1910899f297",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T00:25:28.402670-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666765542",
+      "size": "19695",
+      "md5": "3f5a81468501cd37386c19a1f54b162e",
+      "crc32": "04596482",
+      "sha1": "5679ce2719976e2848df9f326fa8c1d59feb445d",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T00:25:28.402670-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-26T00:25:28.402670-06:00.jpg",
+      "mtime": "1666766159",
+      "size": "10413",
+      "md5": "00cbcada9f3a8e626bedf236e54041f5",
+      "crc32": "309f9ce2",
+      "sha1": "3583ea82fd96bb0ed9e8fb51a9e49c5765a6965f"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T10:27:53.225689-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666801680",
+      "size": "19547",
+      "md5": "04b180d1f841a2a62442877a46624c9d",
+      "crc32": "c22776a6",
+      "sha1": "dc2f349a9266005b45c0a4f5ca63e0c76f07681f",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T10:27:53.225689-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666801683",
+      "size": "37929",
+      "md5": "bafe2e1c7106b3613fc72ae84ce6faf6",
+      "crc32": "a4114bd2",
+      "sha1": "98a31f2c7df32c7be4a06d85def20b5c833a72ab",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T10:27:53.225689-06:00.jpg",
+      "source": "original",
+      "mtime": "1666801678",
+      "size": "295630",
+      "md5": "94883eeae4cafc8386bdb86e5543b024",
+      "crc32": "09b8f305",
+      "sha1": "2af7c9eec26271f487f642cd07aaea89f1071bca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T10:27:53.225689-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666801685",
+      "size": "1537",
+      "md5": "f3c92a9d98e3d051d34c21fc64c56041",
+      "crc32": "20ae47e1",
+      "sha1": "46b56c9bd11c761c8c3ede57c76405a5a8b9525b",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T10:27:53.225689-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666801687",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T10:27:53.225689-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-26T10:27:53.225689-06:00.jpg",
+      "mtime": "1666803792",
+      "size": "10123",
+      "md5": "59f4bd0694a9d29e3efae22ca3f0c428",
+      "crc32": "6b578166",
+      "sha1": "dd1c79c87a8d549da520fb0756fb00e0b6a790ff"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T23:03:41.252054-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666847037",
+      "size": "20833",
+      "md5": "01644ac65abdfb8509e59de3b5aec8a2",
+      "crc32": "d3d3d165",
+      "sha1": "caffc67faecbea114e3b07cf580e5f1a577f0b3f",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T23:03:41.252054-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666847039",
+      "size": "38377",
+      "md5": "7c8ddd2ca6910ecb666609a276b8efdb",
+      "crc32": "c59c54a1",
+      "sha1": "d9ff1f29304aa770f8d6a65f3460009affb81818",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T23:03:41.252054-06:00.jpg",
+      "source": "original",
+      "mtime": "1666847027",
+      "size": "290857",
+      "md5": "1376f907735ac36b57b16096ccca8b19",
+      "crc32": "717565ff",
+      "sha1": "365c7db5c5eaf893af184d4d233f15075064a51d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T23:03:41.252054-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666847041",
+      "size": "1537",
+      "md5": "bf1dbebd52b1db3601257a138184b478",
+      "crc32": "a002ffc4",
+      "sha1": "8541b140ce2e1cc214f7db5eb12e14062b2ba8b5",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T23:03:41.252054-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666847043",
+      "size": "20333",
+      "md5": "0499db28ad2bcadd5646e843e2cb8922",
+      "crc32": "f7aa5240",
+      "sha1": "eaa17bc215a67a858d14ba52a3354d43ed75bdba",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-26T23:03:41.252054-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-26T23:03:41.252054-06:00.jpg",
+      "mtime": "1666871644",
+      "size": "10093",
+      "md5": "2a9d7f84cf66df3abc858dffc27faaac",
+      "crc32": "65e9fd2a",
+      "sha1": "3bfcba73cfc74ff09773199d54c2e993ee7228c8"
+    },
+    {
+      "name": "aspenpubradio-2022-10-27T10:07:00.918931-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666886825",
+      "size": "19877",
+      "md5": "7bd53a47054e5190d95b9432d1bf7c15",
+      "crc32": "7026652e",
+      "sha1": "da432ef32d9bbe078ceedb67d662105fd1bb0005",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-27T10:07:00.918931-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666886827",
+      "size": "37741",
+      "md5": "b2e6bc6dad71ddde8f1281178285ad09",
+      "crc32": "2083468f",
+      "sha1": "20867915f6c974262fbcf77cd82e0e33e10d029d",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-27T10:07:00.918931-06:00.jpg",
+      "source": "original",
+      "mtime": "1666886823",
+      "size": "277442",
+      "md5": "0e2184d8d74bcadb0b4ca79648b7e0f1",
+      "crc32": "98ada862",
+      "sha1": "7befa0257f984065b18b629a59ca5aebf8cf4fb9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-27T10:07:00.918931-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666886829",
+      "size": "1537",
+      "md5": "93a0f4de638f9506fe142406445f8b17",
+      "crc32": "e819411b",
+      "sha1": "910b0344afc49ab77d38df6d3ae431d62bb82387",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-27T10:07:00.918931-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666886831",
+      "size": "19733",
+      "md5": "fdae614df0ba509162c4430fe151249f",
+      "crc32": "377289e5",
+      "sha1": "29ea20797248318a0a3d01b95cad4a68aa167e03",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-27T10:07:00.918931-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-27T10:07:00.918931-06:00.jpg",
+      "mtime": "1666897389",
+      "size": "10008",
+      "md5": "1d108d2ecc454115d75aadf7d7fc5823",
+      "crc32": "49ae6899",
+      "sha1": "afe55c915a9279cee8ad1f8c30b5c65e1854617c"
+    },
+    {
+      "name": "aspenpubradio-2022-10-27T22:47:38.288333-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666932463",
+      "size": "19818",
+      "md5": "e3de93d72fec968a45d68b0803b530a3",
+      "crc32": "8007335f",
+      "sha1": "0d394ce81448a07f0763eaa9024a17046239a9c2",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-27T22:47:38.288333-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666932464",
+      "size": "37400",
+      "md5": "a593ba92d240cc8b7e5dc81bddf7df8d",
+      "crc32": "7cc853ab",
+      "sha1": "3f81b1138d6560c2e8210ebfaf081a5392bf485d",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-27T22:47:38.288333-06:00.jpg",
+      "source": "original",
+      "mtime": "1666932461",
+      "size": "275957",
+      "md5": "2469fb68c490450c3507250ffdf3afd0",
+      "crc32": "8598f80b",
+      "sha1": "b6f19775e759016d8badd07ce968eda75ee701dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-27T22:47:38.288333-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666932466",
+      "size": "1537",
+      "md5": "8058eb53051ef1e4cecd13052246c36f",
+      "crc32": "6e97992d",
+      "sha1": "0ef8cc573652fc5ce1c941a2bbc8ce17eb39ff06",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-27T22:47:38.288333-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666932467",
+      "size": "21178",
+      "md5": "d12cb68a38f2c54babdcc32613c938ea",
+      "crc32": "777fa633",
+      "sha1": "e2cebdb56200eed94fd97b7e38baa5f3e7ed177c",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-27T22:47:38.288333-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-27T22:47:38.288333-06:00.jpg",
+      "mtime": "1666934021",
+      "size": "10065",
+      "md5": "17a7b4efce32d4d1e5fae6ec7e498686",
+      "crc32": "d6752ae4",
+      "sha1": "444237036dd8c83833d289072f4773ff5ed3b047"
+    },
+    {
+      "name": "aspenpubradio-2022-10-28T09:53:40.909418-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972431",
+      "size": "20021",
+      "md5": "33a51774551b17d834ca41fea0f54bfb",
+      "crc32": "a3048e5a",
+      "sha1": "07f7b60ca61de28058ea4fe7c002dc1f3a8745c8",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-28T09:53:40.909418-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972432",
+      "size": "40232",
+      "md5": "af75f865bb91dcc5c32952f544d3c69d",
+      "crc32": "9ddfa1c8",
+      "sha1": "f0b6b8b5f49b8a2c3f42748d2283476d8a8c6c53",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-28T09:53:40.909418-06:00.jpg",
+      "source": "original",
+      "mtime": "1666972425",
+      "size": "277217",
+      "md5": "2054ecd801e4916b3c38aecc0e9066b5",
+      "crc32": "e6e4299c",
+      "sha1": "a91328260a274b712fde484e4a7774880e7545bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-28T09:53:40.909418-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972434",
+      "size": "1537",
+      "md5": "d69c9c1f546d4bc90a485421f2a5dcb5",
+      "crc32": "5ee80a2c",
+      "sha1": "8f01256fabbc22b6cdce53ed18a582e37bd7ac8e",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-28T09:53:40.909418-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972436",
+      "size": "21385",
+      "md5": "e311d9dbfcfc7da21510e2981108bd20",
+      "crc32": "9acde016",
+      "sha1": "a87dd1a81b62e39d58823c915f36003203f12ce7",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-28T09:53:40.909418-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-28T09:53:40.909418-06:00.jpg",
+      "mtime": "1666978346",
+      "size": "10053",
+      "md5": "d2eebfc826406a07f7868961aa95a39d",
+      "crc32": "c279b0dd",
+      "sha1": "b71dc00ec5cf1251379f88f029eb0cc9c83e41d3"
+    },
+    {
+      "name": "aspenpubradio-2022-10-28T22:13:39.844579-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667016834",
+      "size": "21217",
+      "md5": "2b18f828fd198c2286b45a7dac48f044",
+      "crc32": "2a81203b",
+      "sha1": "fabca66c2d7d3673c7f7ada9658494ca4328853e",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-28T22:13:39.844579-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667016836",
+      "size": "40257",
+      "md5": "215d6721b56b4dddabec8ab268209735",
+      "crc32": "9ef487e7",
+      "sha1": "66c92a5832ad2908ac6ebd30416bb05ad586ed38",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-28T22:13:39.844579-06:00.jpg",
+      "source": "original",
+      "mtime": "1667016832",
+      "size": "283583",
+      "md5": "af88c1b03b720b05c49eb5c428b42c24",
+      "crc32": "512064ad",
+      "sha1": "616d847b7487e1e75d2a8e63294ae266913e6e53",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-28T22:13:39.844579-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667016837",
+      "size": "1536",
+      "md5": "a4b99b31208007f840b22323588de217",
+      "crc32": "cb68fc67",
+      "sha1": "26bda3f44874d9eeb01531ad35ec8bfe263dbd9b",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-28T22:13:39.844579-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667016839",
+      "size": "213",
+      "md5": "b26835b455e6b54c75de40e509bb007f",
+      "crc32": "a1e2b4df",
+      "sha1": "5f247d9171b8cb90f5f3074740081342dc65bad9",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-28T22:13:39.844579-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-28T22:13:39.844579-06:00.jpg",
+      "mtime": "1667019724",
+      "size": "10031",
+      "md5": "58f4ea4b0fbb1bd5c75c647831ff8ab8",
+      "crc32": "884dd871",
+      "sha1": "79cb137df0a3980af5409de67a046bc072af50fc"
+    },
+    {
+      "name": "aspenpubradio-2022-10-29T10:07:27.619736-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667059678",
+      "size": "22066",
+      "md5": "72b90c5e30ade4f1ee8136b2147dbf2f",
+      "crc32": "5b0e2dc8",
+      "sha1": "1a5e301b2d33e0d188625ed87f89f3ab2cc2c0df",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-29T10:07:27.619736-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667059682",
+      "size": "42610",
+      "md5": "72ac6bbeba831c7de0456aa3466e9890",
+      "crc32": "c3acf100",
+      "sha1": "7f32b92f3808d132941dcc1a0f483833135a97f6",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-29T10:07:27.619736-06:00.jpg",
+      "source": "original",
+      "mtime": "1667059676",
+      "size": "283228",
+      "md5": "8ac2071464c45b479afa9a78e4faef56",
+      "crc32": "74ef9abc",
+      "sha1": "fdbcfa85b1761ad27df1e1662d578fdf966b12ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-29T10:07:27.619736-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667059686",
+      "size": "1537",
+      "md5": "8783ca6e4cfa7d26a4abb0f9e0a3eaf3",
+      "crc32": "ec238d57",
+      "sha1": "bda5ebb875bc17f889d58a448de93fe9844fa179",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-29T10:07:27.619736-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667059688",
+      "size": "22549",
+      "md5": "7e2df677882ec50111df4d9cc676917d",
+      "crc32": "3ad16fe3",
+      "sha1": "a3cbf910b67a15d8fff7c3955e53b15a77157af4",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-29T10:07:27.619736-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-29T10:07:27.619736-06:00.jpg",
+      "mtime": "1667061410",
+      "size": "10696",
+      "md5": "d65ad1e60de6cbd1933108752bd9ee48",
+      "crc32": "ce24437f",
+      "sha1": "ea22bb4a3dd228cb5c1dec8f499517c4ddd24eae"
+    },
+    {
+      "name": "aspenpubradio-2022-10-29T22:17:54.825975-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667103478",
+      "size": "20186",
+      "md5": "2b2981445557e3de284ef848afe2f572",
+      "crc32": "ee7b458a",
+      "sha1": "b3a9e8c047a626f30e50179daf60a13de7069f5e",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-29T22:17:54.825975-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667103481",
+      "size": "41113",
+      "md5": "89e388e88a47be021b73d3855060b7f4",
+      "crc32": "0d2918b3",
+      "sha1": "fcdbe16bcb075371a751d4c608eda54a8f668b7f",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-29T22:17:54.825975-06:00.jpg",
+      "source": "original",
+      "mtime": "1667103476",
+      "size": "282969",
+      "md5": "536fc0e0929bebeacdb7c4caf777a014",
+      "crc32": "2a940f4d",
+      "sha1": "cee4561912dab476707355985b197b494b45024f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-29T22:17:54.825975-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667103483",
+      "size": "1537",
+      "md5": "837f069c801c51dbea903d2edb0b499e",
+      "crc32": "5e88da43",
+      "sha1": "b4ebd01d68c657913297f166cb13d111029bdd7d",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-29T22:17:54.825975-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667103485",
+      "size": "21649",
+      "md5": "b2bf269d65858542565367d1521ebf4b",
+      "crc32": "ce40442e",
+      "sha1": "2e9e0d8c34c9f38d98b6e3adf22fe214a929247a",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-29T22:17:54.825975-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-29T22:17:54.825975-06:00.jpg",
+      "mtime": "1667104667",
+      "size": "10686",
+      "md5": "be835506e0e67f16c9ac9064c30ba78a",
+      "crc32": "a0905178",
+      "sha1": "9d4e526ba1e2fcdf3c8b25e119fce53d0f3cdbee"
+    },
+    {
+      "name": "aspenpubradio-2022-10-30T09:46:17.245175-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144786",
+      "size": "21799",
+      "md5": "7efd95ebd8c84ab80472ed39f519afe6",
+      "crc32": "78981da4",
+      "sha1": "2b1352f6858cad6ce2e9c81bd61d768177a09fe6",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-30T09:46:17.245175-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144787",
+      "size": "43243",
+      "md5": "c7feb9ef7674a220b85fae667c95b665",
+      "crc32": "339f626a",
+      "sha1": "e47ae87ed1c008e31193a5911395d435a1be64c7",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-30T09:46:17.245175-06:00.jpg",
+      "source": "original",
+      "mtime": "1667144784",
+      "size": "283148",
+      "md5": "ff5fe70854b8e27dc961eba00ff154ad",
+      "crc32": "020291ff",
+      "sha1": "e915fa031668cc9bc3e57f01b130fb63a996f56d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-30T09:46:17.245175-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144789",
+      "size": "1537",
+      "md5": "03a0e36a440f4fb880fa1b5e4b60d5eb",
+      "crc32": "833eedeb",
+      "sha1": "3911b03c369bccb582b8d86c11d1885f35272149",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-30T09:46:17.245175-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667144791",
+      "size": "22898",
+      "md5": "af1edc867d549dfc1365a4c0fd7cdae7",
+      "crc32": "967b52c4",
+      "sha1": "5ebb170645ec9f481d8b43ee793725b8b279eebc",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-30T09:46:17.245175-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-30T09:46:17.245175-06:00.jpg",
+      "mtime": "1667145278",
+      "size": "10699",
+      "md5": "e2729680a770a56df938662790c76b10",
+      "crc32": "a268e7f6",
+      "sha1": "f0b8242169fe682fcac41050cd4ac767a4e91a96"
+    },
+    {
+      "name": "aspenpubradio-2022-10-30T22:51:55.019932-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667191918",
+      "size": "19834",
+      "md5": "d3ca7e543aeb53fd4986634ba6247f94",
+      "crc32": "cebb7c04",
+      "sha1": "46d0140658360f2f418e5070fe4162da1fe58e4e",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-30T22:51:55.019932-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667191919",
+      "size": "40495",
+      "md5": "dcdc36e8fffb914e4f003a9ba2304f71",
+      "crc32": "50132f75",
+      "sha1": "f070aaabf062b325b61f97abbd91c03bf2e6da75",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-30T22:51:55.019932-06:00.jpg",
+      "source": "original",
+      "mtime": "1667191916",
+      "size": "281183",
+      "md5": "7117612cc9e275653eddc7caea3e82cb",
+      "crc32": "249a89c6",
+      "sha1": "a509274da32b23335a2a7ba9926de2b71a3cc849",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-30T22:51:55.019932-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667191921",
+      "size": "1536",
+      "md5": "30251f15598e8aac671b5b315ed8979a",
+      "crc32": "a7cbb3f5",
+      "sha1": "ae69a16c3b616881243eb38df3576f6ccfb2260c",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-30T22:51:55.019932-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667191923",
+      "size": "21182",
+      "md5": "8c7d03d9fd82be8074abb07487d188b7",
+      "crc32": "7e45d81c",
+      "sha1": "85d2a8c4d789c427f2f2b4ea65ab2547f7f7b5bb",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-30T22:51:55.019932-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-30T22:51:55.019932-06:00.jpg",
+      "mtime": "1667192175",
+      "size": "10794",
+      "md5": "3d7eddf9de640871fa42edd2a61959f2",
+      "crc32": "f0e71964",
+      "sha1": "f8db20c9c7de32ee9ea0d4ad69cdbeb8000906ca"
+    },
+    {
+      "name": "aspenpubradio-2022-10-31T10:01:42.131620-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667232110",
+      "size": "21274",
+      "md5": "11f9da91b58107adafab2f1f4033bf00",
+      "crc32": "ad977cc8",
+      "sha1": "d1f137a2530bbe69b82462a9c597020f05db60da",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-31T10:01:42.131620-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667232112",
+      "size": "42901",
+      "md5": "5974d125c7bf28ab38cafa911e27f3ca",
+      "crc32": "7d0576ff",
+      "sha1": "4f66fb4d627c1c6a86f7f0a2ac549182dc1ac5fb",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-31T10:01:42.131620-06:00.jpg",
+      "source": "original",
+      "mtime": "1667232107",
+      "size": "317850",
+      "md5": "3c83bbea9ee3dd5d3d11c1bc4c17375e",
+      "crc32": "19e0f0dc",
+      "sha1": "bfa483a29cbb9642c8a1ca820058cada768adc08",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspenpubradio-2022-10-31T10:01:42.131620-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667232114",
+      "size": "1537",
+      "md5": "99d2c51fae5fcdafeb217bd614b1e331",
+      "crc32": "3811e11e",
+      "sha1": "63e07e70f55f9eee0e9b7867c8a4ab1a9f7fbfed",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-31T10:01:42.131620-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667232116",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "aspenpubradio-2022-10-31T10:01:42.131620-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenpubradio-2022-10-31T10:01:42.131620-06:00.jpg",
+      "mtime": "1667232874",
+      "size": "10412",
+      "md5": "41327683f44558948f07b650c09a267b",
+      "crc32": "464c6a1c",
+      "sha1": "c5a3d1805b263e460fdbbc5ae4f5c668ed65ba17"
+    },
+    {
       "name": "aspenpubradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3d7e36959c076b84300835678140cc15ffe836a8",
-      "mtime": "1666712791",
-      "size": "165452",
-      "md5": "814db4c6e2013536d4d78a938c9cd493",
-      "crc32": "614bcd5b",
-      "sha1": "7f83acf17aacca24ee82095cd3784cc6fc2e278e",
+      "btih": "eb9fae324f7900bdfb5387682dc769fb9c0e5a59",
+      "mtime": "1667232885",
+      "size": "181173",
+      "md5": "a7d9aebef34507db6925871e3ff169d2",
+      "crc32": "ff6c4fb2",
+      "sha1": "42a84c3e24c8343c95ec45ffa7741a06664a8efe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspenpubradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aca06a2fc066862f3ce3d29c813f2cb4",
+      "md5": "8b48fa894aac2c552df8e4acca03f249",
       "summation": "md5"
     },
     {
       "name": "aspenpubradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666712747",
-      "size": "991232",
-      "md5": "ed667ee478422a93a84af57d6de91fd3",
-      "crc32": "bd777a57",
-      "sha1": "d1c549b1191f9bf72f9d1d37186bffa21c62ccea",
+      "mtime": "1667232122",
+      "size": "1085440",
+      "md5": "3c8f9bb340ba1c04b0f3b3ed6d2eccd4",
+      "crc32": "65419774",
+      "sha1": "d7fa2ba84cc81facbfda8cf5f2fbe2256e6b5ed9",
       "format": "Metadata"
     },
     {
@@ -7907,9 +8662,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 765,
-  "item_last_updated": 1666712791,
-  "item_size": 52452105,
+  "files_count": 838,
+  "item_last_updated": 1667232885,
+  "item_size": 57096465,
   "metadata": {
     "identifier": "aspenpubradio-2022",
     "collection": [
@@ -7926,21 +8681,10 @@
     "publicdate": "2022-08-22 13:02:32",
     "addeddate": "2022-08-22 13:02:32"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451770920,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1874952207,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1145967577,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

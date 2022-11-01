@@ -1,5 +1,5 @@
 {
-  "created": 1666706239,
+  "created": 1667226991,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/21/items/ocalastarbanner-2022",
@@ -4335,31 +4335,786 @@
       "format": "JSON"
     },
     {
+      "name": "ocalastarbanner-2022-10-25T09:56:22.189567-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-25T09:56:22.189567-04:00.jpg",
+      "mtime": "1666708872",
+      "size": "9581",
+      "md5": "bb324ca5232c7cc295f53885a8330bb1",
+      "crc32": "ffebc513",
+      "sha1": "ddb009b5d59ee6b3a69d7add5df85f8860dab5b5"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-25T22:33:00.598598-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666751583",
+      "size": "22446",
+      "md5": "0f77f99b39f8734dbd2b016af4c49f0a",
+      "crc32": "839b9ab5",
+      "sha1": "472810ed399aa8fe8e929fefc02e0f4f946c94cd",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-25T22:33:00.598598-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666751584",
+      "size": "33103",
+      "md5": "d1487a9670202b299db1a5f9de2b3233",
+      "crc32": "6d3c045e",
+      "sha1": "d963f912a5f40608daa544e2a982360bb0248520",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-25T22:33:00.598598-04:00.jpg",
+      "source": "original",
+      "mtime": "1666751582",
+      "size": "274138",
+      "md5": "8f31436c25e3e5bf5d53d7196b14500e",
+      "crc32": "6dbddd36",
+      "sha1": "ae290cbe01c069dc1f9140991ccf4d97f1164d64",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-25T22:33:00.598598-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666751586",
+      "size": "1450",
+      "md5": "7c5ebc5cc600410f4b5e33792732986e",
+      "crc32": "51915c13",
+      "sha1": "906d869cc8f28430882ea0386dd42cfe97995879",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-25T22:33:00.598598-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666751588",
+      "size": "66075",
+      "md5": "e0213707cfef1a9d23ec498a4cd501ae",
+      "crc32": "95bbc264",
+      "sha1": "becb03e055ff15119640b737ae7cdbfd808cc6b1",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-25T22:33:00.598598-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-25T22:33:00.598598-04:00.jpg",
+      "mtime": "1666751916",
+      "size": "9656",
+      "md5": "e8dd5371a5baff1071b068a8484ba9c9",
+      "crc32": "02d9682c",
+      "sha1": "2ad24730187689b8d91d9a23009ace3833a4e191"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-26T10:56:35.426040-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666796209",
+      "size": "23772",
+      "md5": "e836e23e03225d67d49a96d41f4cc531",
+      "crc32": "19879306",
+      "sha1": "5ccf64c2a5a470da0c81469af2c6e31675eb0bf9",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-26T10:56:35.426040-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666796210",
+      "size": "39136",
+      "md5": "6753e72dc09c03a1c5ac2e96535bf949",
+      "crc32": "ee4340f9",
+      "sha1": "f01954e559a86dbc15a6e442be0e3eef8dde8d97",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-26T10:56:35.426040-04:00.jpg",
+      "source": "original",
+      "mtime": "1666796206",
+      "size": "303798",
+      "md5": "d138acb008b8693148ec4c7bc7c6e0ca",
+      "crc32": "50297f7d",
+      "sha1": "fe6287f57d981068556b3b33f11d29e01d1dd2df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-26T10:56:35.426040-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666796212",
+      "size": "1449",
+      "md5": "b9b252bbbd40d3eabc390fdce52be1b0",
+      "crc32": "f500ccaf",
+      "sha1": "74080b062789ff7462b1b06718750f7e0e3a57fa",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-26T10:56:35.426040-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666796214",
+      "size": "86031",
+      "md5": "2e738a4072d50bfa8bf55b4f11579387",
+      "crc32": "f8d7966e",
+      "sha1": "95f96b495d1b8a2e2569a984f200dff152cf5d0e",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-26T10:56:35.426040-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-26T10:56:35.426040-04:00.jpg",
+      "mtime": "1666796855",
+      "size": "9868",
+      "md5": "34ab5d9bb8f9d86bf91eb39430c9f224",
+      "crc32": "494cbcef",
+      "sha1": "a8ac85354145cab0258314030999a88146de44fd"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-26T22:29:21.836465-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666837771",
+      "size": "23074",
+      "md5": "6070e108c36456a367e5205f4f608748",
+      "crc32": "cd5e5cf2",
+      "sha1": "15df08fb95c4b099617860951cb89313f4aaec18",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-26T22:29:21.836465-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666837772",
+      "size": "29671",
+      "md5": "75677c4d497fdac59ba1606ce97cfd1a",
+      "crc32": "0c4932d4",
+      "sha1": "3e1e5d71def1b82f7dd1c4a8e162cda9579eed3e",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-26T22:29:21.836465-04:00.jpg",
+      "source": "original",
+      "mtime": "1666837769",
+      "size": "301879",
+      "md5": "5e6f9574188b7a450743a1fe447d2f02",
+      "crc32": "983c6615",
+      "sha1": "f242ed528e0e9e873bebe63f7cc5dba53d2b0826",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-26T22:29:21.836465-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666837774",
+      "size": "1450",
+      "md5": "f5eeb185ed227efe025b1fa260880462",
+      "crc32": "61711934",
+      "sha1": "6fe1c6de8e8da03bf634d178bc047744f63c9c55",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-26T22:29:21.836465-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666837776",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-26T22:29:21.836465-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-26T22:29:21.836465-04:00.jpg",
+      "mtime": "1666862700",
+      "size": "9467",
+      "md5": "921ea56f707dbc69971ca5ba3e2ecbe1",
+      "crc32": "869c44e5",
+      "sha1": "7a0073ff93061c788465664fae023e3d401f179f"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-27T10:16:00.496507-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666880171",
+      "size": "23260",
+      "md5": "a0ce7ff7d90beddea284210d48522260",
+      "crc32": "cdfeafc2",
+      "sha1": "cf8aff82a61ca92d7fd78acb95e852fee255d612",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-27T10:16:00.496507-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666880173",
+      "size": "34950",
+      "md5": "2c770c12f849b1c2408b7e4794e98c92",
+      "crc32": "80439e43",
+      "sha1": "9dc3b133291e776a4b63951cacf80b70270e9b90",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-27T10:16:00.496507-04:00.jpg",
+      "source": "original",
+      "mtime": "1666880169",
+      "size": "273397",
+      "md5": "660ab3576c0faf357db8e554aab45ff1",
+      "crc32": "ba9f4b3a",
+      "sha1": "10565926be097a3732d73fbfdf4e1d2946a074c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-27T10:16:00.496507-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666880175",
+      "size": "1450",
+      "md5": "0821d32fc17b51c8dbd6047f5ba551a4",
+      "crc32": "1ef81205",
+      "sha1": "9147909f57d6ac3d0d015f04ef854e032ceba84e",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-27T10:16:00.496507-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666880177",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-27T10:16:00.496507-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-27T10:16:00.496507-04:00.jpg",
+      "mtime": "1666893536",
+      "size": "9307",
+      "md5": "c8f78d8c0ce20e11b18dc0fb2ffff5a4",
+      "crc32": "0c543d3e",
+      "sha1": "c264858e7984f4f7f14ce066bd34b3c7496fe308"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-27T22:29:56.261234-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666924199",
+      "size": "22267",
+      "md5": "217de47991d9ad065ea06baf8e4fa6e0",
+      "crc32": "f7596101",
+      "sha1": "18c86b5eb729d47c77af49eecf93f69dc6aeefa6",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-27T22:29:56.261234-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666924201",
+      "size": "30379",
+      "md5": "c0092f50f0b4de5176c37b57e3773376",
+      "crc32": "71b10ff9",
+      "sha1": "1028077995afd2a10d5eb764d29848b723a7ce19",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-27T22:29:56.261234-04:00.jpg",
+      "source": "original",
+      "mtime": "1666924198",
+      "size": "242045",
+      "md5": "dcbb242a7849bc252c8779f4fe50918d",
+      "crc32": "24d648a0",
+      "sha1": "9f07ca3ad0a09cd21ee776ad8f8d6b9f8c810bf8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-27T22:29:56.261234-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666924203",
+      "size": "1450",
+      "md5": "6f9ff5f8eb9ea7750906b5827c294006",
+      "crc32": "5675b4c3",
+      "sha1": "8e94a3261357edcec8d98dc9c71ed8235e346980",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-27T22:29:56.261234-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666924205",
+      "size": "86995",
+      "md5": "d093d84c50b2e328164ad8fba2cc49d4",
+      "crc32": "1d7f7b80",
+      "sha1": "ad2883b44ddca9b6276931285bffda922400a647",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-27T22:29:56.261234-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-27T22:29:56.261234-04:00.jpg",
+      "mtime": "1666925730",
+      "size": "9207",
+      "md5": "5805cf1246c82268a065f31d43f23137",
+      "crc32": "a21d145e",
+      "sha1": "9527347dc52a11b6746a53965c63f45118cea52c"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-28T10:04:55.524179-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666965902",
+      "size": "23134",
+      "md5": "d8f9b803df54ef3d0d971a12516e2570",
+      "crc32": "0d99173f",
+      "sha1": "4b1954ea721bd90dae1a152c6dcc1200b0713fbc",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-28T10:04:55.524179-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666965904",
+      "size": "29475",
+      "md5": "53ab2c9692cfd71f3a541d55a3df336c",
+      "crc32": "970caf3a",
+      "sha1": "12cf5a36b11e462ca7f80b42ff635ebf2fa04c0c",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-28T10:04:55.524179-04:00.jpg",
+      "source": "original",
+      "mtime": "1666965899",
+      "size": "243148",
+      "md5": "30a2142aee308ead6eb26c9381c2e2da",
+      "crc32": "3dfab32a",
+      "sha1": "11dbef0a2f95e557e5ed88287f05ee6155a90206",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-28T10:04:55.524179-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666965906",
+      "size": "1450",
+      "md5": "24109846f621965049a2f36dd5dc228a",
+      "crc32": "91c0b57b",
+      "sha1": "22b6f9706b77dd8578b0ebcb3ca069e33b569f51",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-28T10:04:55.524179-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666965908",
+      "size": "98",
+      "md5": "3841f66954097de926c2fa9c6086036f",
+      "crc32": "3188e19c",
+      "sha1": "03a530894853551d4624546af25abad24a0eaeaf",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-28T10:04:55.524179-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-28T10:04:55.524179-04:00.jpg",
+      "mtime": "1666970794",
+      "size": "9154",
+      "md5": "72a2a33f00ad005905bb02b832ca3fce",
+      "crc32": "11a8b806",
+      "sha1": "84f34e33904357238b1d1efe8aead9927bfe2365"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-28T22:16:32.101211-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667009795",
+      "size": "22756",
+      "md5": "a491243b773fef11930dcf29ebc90610",
+      "crc32": "baa52938",
+      "sha1": "5abd1f0465ae259187cf8c0a0c12c070fee7f897",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-28T22:16:32.101211-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667009796",
+      "size": "28789",
+      "md5": "c5b171e11f7aa47a57ee6bfe197a5b70",
+      "crc32": "38f9b1c8",
+      "sha1": "3955308d9df76cc6a2bc66cdcd3de1a7788ad28f",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-28T22:16:32.101211-04:00.jpg",
+      "source": "original",
+      "mtime": "1667009793",
+      "size": "258917",
+      "md5": "88ceeb80c267928c9b2472c41f76c995",
+      "crc32": "f67d78a8",
+      "sha1": "19295f17eafeef093b86d9bf683b29cd6ad029a7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-28T22:16:32.101211-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667009798",
+      "size": "1450",
+      "md5": "4fa56bb27a1f38d36c662604f78b7488",
+      "crc32": "6294905e",
+      "sha1": "29802ecf89f15df1fdc6a9ea467f52265fe129c2",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-28T22:16:32.101211-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667009802",
+      "size": "202",
+      "md5": "dd13c6e5661759af2618280c90f8c482",
+      "crc32": "f960cbcd",
+      "sha1": "0e6b2ee90b22d0cf80f7aa05a0c7713f29f569aa",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-28T22:16:32.101211-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-28T22:16:32.101211-04:00.jpg",
+      "mtime": "1667011314",
+      "size": "9487",
+      "md5": "1e2d85b78d9e680e928b2074f51604db",
+      "crc32": "f2bd45fd",
+      "sha1": "475e9bb10b2af22c3181080b7ce5d1fda62ec842"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-29T10:06:02.598055-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667052368",
+      "size": "22362",
+      "md5": "870101dd30b1e09941b24a4541acd776",
+      "crc32": "02b8dcba",
+      "sha1": "37162199ccc6da1a18e259b7afb20f8641da7887",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-29T10:06:02.598055-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667052370",
+      "size": "29296",
+      "md5": "b61f80401122b414bcbd8850f565bc19",
+      "crc32": "411e096e",
+      "sha1": "50c34ce0d3e68b238c0bfce6337b3b235579a6e1",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-29T10:06:02.598055-04:00.jpg",
+      "source": "original",
+      "mtime": "1667052366",
+      "size": "268359",
+      "md5": "4b1d4533532ba17ce3cfb0a5249af4a6",
+      "crc32": "9391e51a",
+      "sha1": "e3cdf877362f7ff55622c25a6efced862ebf2c39",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-29T10:06:02.598055-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667052371",
+      "size": "1450",
+      "md5": "afdb6203caee587178701298ec0fcbbe",
+      "crc32": "2bfad424",
+      "sha1": "f190eba65c70a26af2b5659db5f68fe77f363377",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-29T10:06:02.598055-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667052373",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-29T10:06:02.598055-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-29T10:06:02.598055-04:00.jpg",
+      "mtime": "1667053649",
+      "size": "9545",
+      "md5": "f6ee821a92e5f4f30508444d56bdecd1",
+      "crc32": "4fb9d2d1",
+      "sha1": "45e4833f05b0bb1293d56c173b2d745d76956a6b"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-29T22:08:48.234982-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667095736",
+      "size": "22721",
+      "md5": "a8ed96fb020f4ee0c10631a80af67bb3",
+      "crc32": "fa0c788f",
+      "sha1": "32f32e9c57f7533d531400b684dcf9c6aad140dd",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-29T22:08:48.234982-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667095737",
+      "size": "34900",
+      "md5": "03081b37d670929e88babba5795115a4",
+      "crc32": "40af7a6d",
+      "sha1": "cb13f2467dab09edab8e4c511289fd41dde981e4",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-29T22:08:48.234982-04:00.jpg",
+      "source": "original",
+      "mtime": "1667095734",
+      "size": "262001",
+      "md5": "ea6ab19434088c53121bec436aab2e83",
+      "crc32": "a85e59c8",
+      "sha1": "7b0ef5faab8abc775ddb12612468a5b9b1f26095",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-29T22:08:48.234982-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667095739",
+      "size": "1450",
+      "md5": "ab7aafaa1c361da2cc3c4ae7e111ea07",
+      "crc32": "696a68f8",
+      "sha1": "105693d13b1f8928047f9377d34f3f34bf9d91c1",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-29T22:08:48.234982-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667095740",
+      "size": "246",
+      "md5": "bdd39a3bca654a4da7417cc23e3c5694",
+      "crc32": "e9425f98",
+      "sha1": "2a840ef2e07bc005db788891d2f0507b5bd17e75",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-29T22:08:48.234982-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-29T22:08:48.234982-04:00.jpg",
+      "mtime": "1667104954",
+      "size": "9618",
+      "md5": "1aa6da8840df5c5acddb9165718dcb6c",
+      "crc32": "07fd6018",
+      "sha1": "4fd667288677571988ebbb5b6c68152d09418966"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-30T09:49:40.923947-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667137785",
+      "size": "24413",
+      "md5": "da1ba6a5032bf57227a7e0be798a80c9",
+      "crc32": "60c17353",
+      "sha1": "63141da5d7d155e4108be049f877a620b28b543a",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-30T09:49:40.923947-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667137786",
+      "size": "26790",
+      "md5": "6f982051c3d3fbc0b07639b5a89f1e21",
+      "crc32": "321115ea",
+      "sha1": "b95d34256b14b19baa8decfb1b95c93673116b39",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-30T09:49:40.923947-04:00.jpg",
+      "source": "original",
+      "mtime": "1667137784",
+      "size": "241076",
+      "md5": "b1902f2bb8c7f5153b2435d1fda301ab",
+      "crc32": "a0898939",
+      "sha1": "17bfba0d65192be711922c303df1f813e7ba94e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-30T09:49:40.923947-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667137788",
+      "size": "1449",
+      "md5": "8425fb93ece486d906e14006cc87304d",
+      "crc32": "1fce1287",
+      "sha1": "e11c0e2f63762b247c736fec6e2c7f916462f3d0",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-30T09:49:40.923947-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667137789",
+      "size": "67156",
+      "md5": "4b04257aa489ea900833511c33832e58",
+      "crc32": "f418903e",
+      "sha1": "23afa388b2e3b4cee42ace195dfc274cce97d5a7",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-30T09:49:40.923947-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-30T09:49:40.923947-04:00.jpg",
+      "mtime": "1667138611",
+      "size": "9073",
+      "md5": "ef4e7dcffc11f07f0886876bbec31fe5",
+      "crc32": "465b33cc",
+      "sha1": "283e0775528ddc53c87b63f2b941359595ac52a3"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-30T22:15:09.809030-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667182518",
+      "size": "22821",
+      "md5": "f9699c2161a7993f06348b92b754e721",
+      "crc32": "f118bb31",
+      "sha1": "b349b3573d37cf2375c8146ccc30580966c54e22",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-30T22:15:09.809030-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667182520",
+      "size": "30078",
+      "md5": "c74c0a74151b8fd08fd7dc80382fdc04",
+      "crc32": "747665ac",
+      "sha1": "f9c7268384f7d9a19a0f231f23e50e2de5fb8b8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-30T22:15:09.809030-04:00.jpg",
+      "source": "original",
+      "mtime": "1667182517",
+      "size": "263846",
+      "md5": "144c093451e9e08d5ed51272bef30b50",
+      "crc32": "11478599",
+      "sha1": "1dbeb1ad4d9b806ff1ff912b3c3909777fb6f1e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-30T22:15:09.809030-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667182522",
+      "size": "1450",
+      "md5": "e894ab399a192bf32a06076392111752",
+      "crc32": "ce5dad02",
+      "sha1": "ec49140d58a36b1a2ad521f10ec6b336748ae470",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-30T22:15:09.809030-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667182523",
+      "size": "77980",
+      "md5": "005cea41ef560b1ce1593777f5ad9b71",
+      "crc32": "136c657f",
+      "sha1": "44259c71a9f8f1d0c70966729ee6602a393af396",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-30T22:15:09.809030-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-30T22:15:09.809030-04:00.jpg",
+      "mtime": "1667183251",
+      "size": "9324",
+      "md5": "b1f72f274c62da1c98e0d759975c854f",
+      "crc32": "7c01a7a9",
+      "sha1": "db08513fd53482a1915234e818f894b29221968c"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-31T10:14:45.218036-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667225688",
+      "size": "22901",
+      "md5": "1150e49c2551a7c0b694842702bf6afe",
+      "crc32": "a8080576",
+      "sha1": "28367908853e582779c3e4de1f517ebddc418ae3",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-31T10:14:45.218036-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667225690",
+      "size": "31622",
+      "md5": "f3629ff4bd6e1209ab3041a0869564f8",
+      "crc32": "f72a07a7",
+      "sha1": "34f6f513c2588065a1f808657b2224f41cbc204c",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-31T10:14:45.218036-04:00.jpg",
+      "source": "original",
+      "mtime": "1667225687",
+      "size": "287335",
+      "md5": "c3a47776b4b61709e1ad3a2bcd9bcb49",
+      "crc32": "bcb60a18",
+      "sha1": "07d24fd5f8dacc0c5e25380917c637220681c87c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-31T10:14:45.218036-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667225693",
+      "size": "1450",
+      "md5": "584956088f8f21669b6cbbe4128b28ee",
+      "crc32": "41fe51a7",
+      "sha1": "97c928d7632899c1c585e29b172455e028b70b33",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-31T10:14:45.218036-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667225694",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-10-31T10:14:45.218036-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-10-31T10:14:45.218036-04:00.jpg",
+      "mtime": "1667226713",
+      "size": "9310",
+      "md5": "01d2c6bb0a7a191515ea4aa1f9e426a0",
+      "crc32": "1e67a272",
+      "sha1": "93264123301b9ccdb0393c32a281539697104208"
+    },
+    {
       "name": "ocalastarbanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5becc56c2f19e6d39d26ec5521c7e904e01c6dc4",
-      "mtime": "1666706235",
-      "size": "92437",
-      "md5": "300c440c0fe0f3b9ce2f7c17b26cc6f7",
-      "crc32": "7e9e59fb",
-      "sha1": "f222d9dbb2f45930d457ba75a928a61d1a81cae5",
+      "btih": "ef78110bfae854dec7cd54aae73deacabfc7b1d0",
+      "mtime": "1667226772",
+      "size": "108281",
+      "md5": "0a05b571f28019adc2bf8c86a9222c42",
+      "crc32": "af9dc52f",
+      "sha1": "f3a80b3045ea4c2f1e5df898c9249c29b0004480",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocalastarbanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0f52535e612ba975b69ad7e35bfddf4a",
+      "md5": "9cc2e4589f5d041d620f5d5be46bf8d4",
       "summation": "md5"
     },
     {
       "name": "ocalastarbanner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666706198",
-      "size": "561152",
-      "md5": "9d6dbd232c2b693053a140cb6b50c6bf",
-      "crc32": "04727a7d",
-      "sha1": "9f42249a66cbea24676e04b4e661868a87bf0a9f",
+      "mtime": "1667225697",
+      "size": "651264",
+      "md5": "b8106d9cd1f3a9bb8acff3ec688102e7",
+      "crc32": "01ce05c3",
+      "sha1": "1dc0c97a75954536b218d5db430433429b241057",
       "format": "Metadata"
     },
     {
@@ -4373,9 +5128,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 423,
-  "item_last_updated": 1666706235,
-  "item_size": 27173807,
+  "files_count": 496,
+  "item_last_updated": 1667226772,
+  "item_size": 31679404,
   "metadata": {
     "identifier": "ocalastarbanner-2022",
     "collection": [
@@ -4392,21 +5147,10 @@
     "publicdate": "2022-09-21 02:22:57",
     "addeddate": "2022-09-21 02:22:57"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451702827,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 583462622,
+  "server": "ia801505.us.archive.org",
+  "uniq": 325528986,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1666702926,
+  "created": 1667220812,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/17/items/irishcathnews-2022",
@@ -11955,31 +11955,775 @@
       "format": "JSON"
     },
     {
+      "name": "irishcathnews-2022-10-25T14:00:49.264418+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-25T14:00:49.264418+01:00.jpg",
+      "mtime": "1666705478",
+      "size": "8443",
+      "md5": "e958199826499ab3fc73e993663d613e",
+      "crc32": "6baabc95",
+      "sha1": "b14729491517eaef79ed09d1f7c13522b1acdf03"
+    },
+    {
+      "name": "irishcathnews-2022-10-26T02:25:46.116089+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666747551",
+      "size": "28751",
+      "md5": "64dd1b285b144cf021ea5689151c996a",
+      "crc32": "ae4648ca",
+      "sha1": "2cd672eafb5ea983c4b1633b9b33a6cd3508bbd6",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-26T02:25:46.116089+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666747553",
+      "size": "28839",
+      "md5": "5c970d57446638989a7621798820c41c",
+      "crc32": "296061d0",
+      "sha1": "3150582409434859cf34cd1ef3bcf02dfd72c674",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-26T02:25:46.116089+01:00.jpg",
+      "source": "original",
+      "mtime": "1666747547",
+      "size": "221035",
+      "md5": "085f14fd376b8d377c70d2ef2a90c11b",
+      "crc32": "57d045c9",
+      "sha1": "a8b23b0c2fb6a1b3a10505aa57448dbeafe37b42",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-26T02:25:46.116089+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666747555",
+      "size": "1521",
+      "md5": "5c1341ff5a4bb827e8817967cfd94df9",
+      "crc32": "521356fa",
+      "sha1": "90e53ce5c3b96474991b003bb0e08564c923e129",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-26T02:25:46.116089+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666747557",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-26T02:25:46.116089+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-26T02:25:46.116089+01:00.jpg",
+      "mtime": "1666749169",
+      "size": "8438",
+      "md5": "9a02e6d4575d674ee4b263f938cdcd2e",
+      "crc32": "d0b1b50d",
+      "sha1": "af4eebd27038162a2e4896998b10eab22975ebff"
+    },
+    {
+      "name": "irishcathnews-2022-10-26T14:02:12.982742+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666789341",
+      "size": "28949",
+      "md5": "9f961eeff6760acd00724f106312d190",
+      "crc32": "6bdc656c",
+      "sha1": "8a34198f43dfb83adea3eccefca221b84b64ce92",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-26T14:02:12.982742+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666789343",
+      "size": "28839",
+      "md5": "9bd473c526131ecb34f15cd465b4829f",
+      "crc32": "27aadd05",
+      "sha1": "19465349a0e6bbf58c8ee2147a2a9db1b22176e4",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-26T14:02:12.982742+01:00.jpg",
+      "source": "original",
+      "mtime": "1666789338",
+      "size": "222276",
+      "md5": "8999a030395c9d4e63b2c6ad788e6704",
+      "crc32": "516388d2",
+      "sha1": "839ab15035be3ac777aac5633edc2b96116c0d45",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-26T14:02:12.982742+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666789345",
+      "size": "1521",
+      "md5": "e931d02012ced7ea4c46ab7748edda3c",
+      "crc32": "ff8e0c8a",
+      "sha1": "c5acc846fed910ed21e53018df180e166b29e5fd",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-26T14:02:12.982742+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666789347",
+      "size": "210",
+      "md5": "fdd848ceff0f3c0a27b31f04a1fdc7a2",
+      "crc32": "04a06d96",
+      "sha1": "f56b77ff425c9fa5c60e1deedfbf0bbb6a70e37e",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-26T14:02:12.982742+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-26T14:02:12.982742+01:00.jpg",
+      "mtime": "1666790447",
+      "size": "8482",
+      "md5": "5a999ec0b5ff7dbc29fb130d3f0bb137",
+      "crc32": "c22a3a82",
+      "sha1": "da69cc83cafd4d79dbd2034c3b22b48801e30968"
+    },
+    {
+      "name": "irishcathnews-2022-10-27T02:21:53.719477+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666833717",
+      "size": "28862",
+      "md5": "18bc06ccf1376c8c44224720abae8747",
+      "crc32": "f2a8874e",
+      "sha1": "f9ed42689ce3052e7e3b182c234e7175081b3111",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-27T02:21:53.719477+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666833719",
+      "size": "28770",
+      "md5": "a4ec5efb9e342ff6204df24eb62ae2aa",
+      "crc32": "1be544cf",
+      "sha1": "d91dd8309445de48e9e8d752e15671f30788387b",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-27T02:21:53.719477+01:00.jpg",
+      "source": "original",
+      "mtime": "1666833715",
+      "size": "221974",
+      "md5": "07dbd97843b94ae11053e6c821e7c6ee",
+      "crc32": "b4188934",
+      "sha1": "7c4fa7e9c20460a4cc8f6f8a9fec25f391606649",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-27T02:21:53.719477+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666833721",
+      "size": "1521",
+      "md5": "f95be226e4a366a8f3ac4cfbae3dab5a",
+      "crc32": "e8736e40",
+      "sha1": "3ece47846085e28ccd7060b2bd0ebeb860e8e697",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-27T02:21:53.719477+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666833722",
+      "size": "106",
+      "md5": "90d20fa87110ef8fa7588837a66cf968",
+      "crc32": "4845d59b",
+      "sha1": "402c25bc9e2dd9b8ba02a2071ead1844addbef57",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-27T02:21:53.719477+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-27T02:21:53.719477+01:00.jpg",
+      "mtime": "1666857862",
+      "size": "8481",
+      "md5": "6229cab0d75e8a88cefbc94bb3aeaa8f",
+      "crc32": "2d8120da",
+      "sha1": "072946485d3d056ee38473c0917b56b87b426852"
+    },
+    {
+      "name": "irishcathnews-2022-10-27T14:13:36.199936+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666876420",
+      "size": "28784",
+      "md5": "5ac14f365e30c97670ffb992865230fb",
+      "crc32": "3bab69b1",
+      "sha1": "80f605bc7d34821f7643cd4f302d26992ee1dba3",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-27T14:13:36.199936+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666876422",
+      "size": "28120",
+      "md5": "0c333077fa4560185b621cf2aa352b55",
+      "crc32": "b616d723",
+      "sha1": "459bbc73e679575c02d963fa42f1322314583113",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-27T14:13:36.199936+01:00.jpg",
+      "source": "original",
+      "mtime": "1666876418",
+      "size": "255386",
+      "md5": "887d3457869bb7f46b444657b17dc5fa",
+      "crc32": "5a6cee48",
+      "sha1": "7ffad93f1c481b2a511a2e798f9dd9719a2e2aa5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-27T14:13:36.199936+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666876425",
+      "size": "1521",
+      "md5": "d05bafd942de20a4afe380b011165dd3",
+      "crc32": "c8f8eadc",
+      "sha1": "e7d3b1e7c94fbb1ba7eb830448fd627535749ff4",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-27T14:13:36.199936+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666876427",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-27T14:13:36.199936+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-27T14:13:36.199936+01:00.jpg",
+      "mtime": "1666891185",
+      "size": "9191",
+      "md5": "bd938511e9c47ed0f7e11c095267c2ce",
+      "crc32": "9ef22fe4",
+      "sha1": "450c297eed806f619ac3f8accb01292d324d4699"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T02:19:42.411399+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666919985",
+      "size": "28578",
+      "md5": "9fc6f68e865ac1806dae658da33b200f",
+      "crc32": "61971b09",
+      "sha1": "55ebda0ef03e6ee03453d1639ac21d0bbbced7a2",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T02:19:42.411399+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666919987",
+      "size": "28081",
+      "md5": "ae9a0c350e694907cfc7d29b4b5f4db4",
+      "crc32": "05361e90",
+      "sha1": "8a7c8776f4cb89aa7effd605e7e131804d721c34",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T02:19:42.411399+01:00.jpg",
+      "source": "original",
+      "mtime": "1666919984",
+      "size": "243252",
+      "md5": "9cdb32d0fbe24f72d342f829353b9d68",
+      "crc32": "5f6170fc",
+      "sha1": "b4a9ae3420433a9c07371d900c15f7c362294af2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T02:19:42.411399+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666919989",
+      "size": "1522",
+      "md5": "510f81e1a01df53d06fffc908eb9d250",
+      "crc32": "629d66ff",
+      "sha1": "69d1cc512275c9e051de264aaf1ca3276e218710",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T02:19:42.411399+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666919991",
+      "size": "255",
+      "md5": "380d37bea888df183925a28dd4c8337f",
+      "crc32": "412e15a4",
+      "sha1": "7aac3247f78dfcef3eb204328a3f3800af3826f3",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T02:19:42.411399+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-28T02:19:42.411399+01:00.jpg",
+      "mtime": "1666921836",
+      "size": "9129",
+      "md5": "2b0841998bd809b13e6de39863573783",
+      "crc32": "07590e2d",
+      "sha1": "8e29fdc123dca4ae5d1d3d7130689b03ae14cd30"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T14:00:04.750505+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666962023",
+      "size": "28415",
+      "md5": "9d50907e0c9966171aee8a02a72fffa0",
+      "crc32": "5e37cec0",
+      "sha1": "fc22b0f0ee1f0dfb0d777d06eac0940d510dec26",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T14:00:04.750505+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666962026",
+      "size": "27951",
+      "md5": "a182bb9963be5d2085016faf409fbd3f",
+      "crc32": "ce2ac2ce",
+      "sha1": "5ba41420d64ba89b150eec54038e8c93bfd3d917",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T14:00:04.750505+01:00.jpg",
+      "source": "original",
+      "mtime": "1666962021",
+      "size": "247012",
+      "md5": "f67321f68a2a9632e5a674bb9884ccc5",
+      "crc32": "f8f666f8",
+      "sha1": "6a019cc306110014ebbf8519550199ce8e2dab37",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T14:00:04.750505+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666962028",
+      "size": "1522",
+      "md5": "c75b34abddb4430eefcaefed76566758",
+      "crc32": "cf4cab87",
+      "sha1": "b8952bec1d3eb51c223aa6ea0b416329ceacd64a",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T14:00:04.750505+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1666962030",
+      "size": "19169",
+      "md5": "ec4aceead3aa1c2390d00d5cd1839569",
+      "crc32": "715133c2",
+      "sha1": "82aa510cf91df587b3c04c4e11088d279f7fbb1d",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-28T14:00:04.750505+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-28T14:00:04.750505+01:00.jpg",
+      "mtime": "1666968916",
+      "size": "9166",
+      "md5": "acfe59c08dbf9c71d554f47521a8fcb1",
+      "crc32": "6994990b",
+      "sha1": "a0472a148c5ce1b63d3e806e6053048b14a4b1ab"
+    },
+    {
+      "name": "irishcathnews-2022-10-29T02:18:24.645441+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667006310",
+      "size": "28379",
+      "md5": "d6bc2e5f1935249d6a78aa3618368e43",
+      "crc32": "c707eb23",
+      "sha1": "4839973968628927c8c63ea8da42a7ff59c37910",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-29T02:18:24.645441+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667006312",
+      "size": "27926",
+      "md5": "3735de971991835b04b61ade24ea5749",
+      "crc32": "ac0737f4",
+      "sha1": "b450f62c7cccd1d89ac823957a42a1b1c5495314",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-29T02:18:24.645441+01:00.jpg",
+      "source": "original",
+      "mtime": "1667006306",
+      "size": "247026",
+      "md5": "23d0054e611e28e598cff924c74853e8",
+      "crc32": "23148ffa",
+      "sha1": "b29fbe38e2d684568421bfae86b3a6f687dc3f5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-29T02:18:24.645441+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667006314",
+      "size": "1521",
+      "md5": "204a7ad3199b5e05846c75099569b330",
+      "crc32": "69f5e153",
+      "sha1": "9e819d0938c5ba9ceb879da1244460d7edc64c2b",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-29T02:18:24.645441+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667006316",
+      "size": "210",
+      "md5": "fdd848ceff0f3c0a27b31f04a1fdc7a2",
+      "crc32": "04a06d96",
+      "sha1": "f56b77ff425c9fa5c60e1deedfbf0bbb6a70e37e",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-29T02:18:24.645441+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-29T02:18:24.645441+01:00.jpg",
+      "mtime": "1667007264",
+      "size": "9166",
+      "md5": "acfe59c08dbf9c71d554f47521a8fcb1",
+      "crc32": "6994990b",
+      "sha1": "a0472a148c5ce1b63d3e806e6053048b14a4b1ab"
+    },
+    {
+      "name": "irishcathnews-2022-10-29T13:52:26.142958+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667047949",
+      "size": "28379",
+      "md5": "d6bc2e5f1935249d6a78aa3618368e43",
+      "crc32": "c707eb23",
+      "sha1": "4839973968628927c8c63ea8da42a7ff59c37910",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-29T13:52:26.142958+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667047951",
+      "size": "27926",
+      "md5": "3735de971991835b04b61ade24ea5749",
+      "crc32": "ac0737f4",
+      "sha1": "b450f62c7cccd1d89ac823957a42a1b1c5495314",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-29T13:52:26.142958+01:00.jpg",
+      "source": "original",
+      "mtime": "1667047948",
+      "size": "247026",
+      "md5": "23d0054e611e28e598cff924c74853e8",
+      "crc32": "23148ffa",
+      "sha1": "b29fbe38e2d684568421bfae86b3a6f687dc3f5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-29T13:52:26.142958+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667047953",
+      "size": "1521",
+      "md5": "9e7661babd97c211eb8278dae0ead2a5",
+      "crc32": "9e87b711",
+      "sha1": "fde66643849d5d856900087027b49949940140b9",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-29T13:52:26.142958+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667047954",
+      "size": "19074",
+      "md5": "18c8ffa091e32a215f6a9e335ff77501",
+      "crc32": "72183a1d",
+      "sha1": "35b81e8dfdf9ff7d26a46a385fa5611b36d39889",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-29T13:52:26.142958+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-29T13:52:26.142958+01:00.jpg",
+      "mtime": "1667050736",
+      "size": "9166",
+      "md5": "acfe59c08dbf9c71d554f47521a8fcb1",
+      "crc32": "6994990b",
+      "sha1": "a0472a148c5ce1b63d3e806e6053048b14a4b1ab"
+    },
+    {
+      "name": "irishcathnews-2022-10-30T01:05:01.629162+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667091904",
+      "size": "28427",
+      "md5": "b3399d02581df7533527fae26ef8ba7d",
+      "crc32": "04009551",
+      "sha1": "1578c249940ef405145c6db6b797369d1de3bb0d",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-30T01:05:01.629162+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667091906",
+      "size": "27950",
+      "md5": "2f871a4435c00c862f8459076d865c50",
+      "crc32": "f90a6549",
+      "sha1": "652eb68291379743536cf9be6b6f0677d6296df9",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-30T01:05:01.629162+00:00.jpg",
+      "source": "original",
+      "mtime": "1667091903",
+      "size": "247026",
+      "md5": "23d0054e611e28e598cff924c74853e8",
+      "crc32": "23148ffa",
+      "sha1": "b29fbe38e2d684568421bfae86b3a6f687dc3f5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-30T01:05:01.629162+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667091907",
+      "size": "1522",
+      "md5": "ba9be4d7e5bbf666c232ad6c25f4c7e0",
+      "crc32": "4b1d791f",
+      "sha1": "3738e6f3631d928bb13f04e9e3bb3a13e970419d",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-30T01:05:01.629162+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667091910",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-30T01:05:01.629162+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-30T01:05:01.629162+00:00.jpg",
+      "mtime": "1667092840",
+      "size": "9166",
+      "md5": "acfe59c08dbf9c71d554f47521a8fcb1",
+      "crc32": "6994990b",
+      "sha1": "a0472a148c5ce1b63d3e806e6053048b14a4b1ab"
+    },
+    {
+      "name": "irishcathnews-2022-10-30T12:48:28.060373+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667134112",
+      "size": "28331",
+      "md5": "f3e9bd5e5c9b24d18e544287fc16ee11",
+      "crc32": "1120f0d1",
+      "sha1": "4c51582369342bb22e2db1a93a4dd2f7f557516a",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-30T12:48:28.060373+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667134114",
+      "size": "27878",
+      "md5": "f09d095d493d820e88ec2fb11c6c6608",
+      "crc32": "1baa3c95",
+      "sha1": "2312b3476fad861c4f2253af5361a49c58680aa8",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-30T12:48:28.060373+00:00.jpg",
+      "source": "original",
+      "mtime": "1667134110",
+      "size": "247026",
+      "md5": "23d0054e611e28e598cff924c74853e8",
+      "crc32": "23148ffa",
+      "sha1": "b29fbe38e2d684568421bfae86b3a6f687dc3f5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-30T12:48:28.060373+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667134115",
+      "size": "1521",
+      "md5": "1d0316693ea1c6612249eea690285442",
+      "crc32": "dbe8075b",
+      "sha1": "d4a124426765298d344e2bd3693ce07538ff18ac",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-30T12:48:28.060373+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667134117",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-30T12:48:28.060373+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-30T12:48:28.060373+00:00.jpg",
+      "mtime": "1667134676",
+      "size": "9166",
+      "md5": "acfe59c08dbf9c71d554f47521a8fcb1",
+      "crc32": "6994990b",
+      "sha1": "a0472a148c5ce1b63d3e806e6053048b14a4b1ab"
+    },
+    {
+      "name": "irishcathnews-2022-10-31T01:09:16.938037+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667178562",
+      "size": "28283",
+      "md5": "e29d2e861e9ad9bc219bb9e3a94612e0",
+      "crc32": "6b9cf4c1",
+      "sha1": "4cb43aee9e4bd8471a88cbcaf3c948453d034bd2",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-31T01:09:16.938037+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667178563",
+      "size": "27852",
+      "md5": "738e9be3db2db53eb175f47b8e314211",
+      "crc32": "fbaf367a",
+      "sha1": "d319cf75b6c90d3d0ab45afc026e10f48aea9923",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-31T01:09:16.938037+00:00.jpg",
+      "source": "original",
+      "mtime": "1667178560",
+      "size": "247026",
+      "md5": "23d0054e611e28e598cff924c74853e8",
+      "crc32": "23148ffa",
+      "sha1": "b29fbe38e2d684568421bfae86b3a6f687dc3f5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-31T01:09:16.938037+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667178566",
+      "size": "1522",
+      "md5": "982a8091f0ed7841fccef4853815ef2b",
+      "crc32": "0c23334f",
+      "sha1": "55e775f80500e0c8ace4cbdee374fa5297e31782",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-31T01:09:16.938037+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667178568",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-31T01:09:16.938037+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-10-31T01:09:16.938037+00:00.jpg",
+      "mtime": "1667180092",
+      "size": "9166",
+      "md5": "acfe59c08dbf9c71d554f47521a8fcb1",
+      "crc32": "6994990b",
+      "sha1": "a0472a148c5ce1b63d3e806e6053048b14a4b1ab"
+    },
+    {
+      "name": "irishcathnews-2022-10-31T12:52:08.536920+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667220736",
+      "size": "28283",
+      "md5": "27c556747e09b34bc01638462d0befae",
+      "crc32": "fcbbc7a8",
+      "sha1": "b3e7f0124f7a8ca617060ab598ef74695ff5fa20",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-31T12:52:08.536920+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667220737",
+      "size": "27852",
+      "md5": "e677701884a49ba029d18b5ba7e85319",
+      "crc32": "6367067a",
+      "sha1": "7cdb12e2e263d5e64fcb757ff9143b12dcb9abd4",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-31T12:52:08.536920+00:00.jpg",
+      "source": "original",
+      "mtime": "1667220734",
+      "size": "247026",
+      "md5": "23d0054e611e28e598cff924c74853e8",
+      "crc32": "23148ffa",
+      "sha1": "b29fbe38e2d684568421bfae86b3a6f687dc3f5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishcathnews-2022-10-31T12:52:08.536920+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667220739",
+      "size": "1522",
+      "md5": "2451574db4017a3fae54212684d080b0",
+      "crc32": "5cc58cd6",
+      "sha1": "2378c6fec8c1749dd7faec29d1708a58a7a92331",
+      "format": "JSON"
+    },
+    {
+      "name": "irishcathnews-2022-10-31T12:52:08.536920+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667220741",
+      "size": "18987",
+      "md5": "e2ad383396849e562d3fb8bd2aab91bb",
+      "crc32": "9ba5e21a",
+      "sha1": "eebaf9683f2b635cf64532f0c18c8d6594c78ba8",
+      "format": "JSON"
+    },
+    {
       "name": "irishcathnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "02c05d67f9fa0acfc8ec4bd8bb2e933f68c825e4",
-      "mtime": "1666702919",
-      "size": "249815",
-      "md5": "0fbc1ca14afb261fa9108ee4bca984eb",
-      "crc32": "779b6e70",
-      "sha1": "8d392c90155995bd71d84cd0df9aa569969c3d05",
+      "btih": "626b641334ad9dfe3da54c0d5cfea725d61ef7bb",
+      "mtime": "1667220799",
+      "size": "265261",
+      "md5": "216e6247e6b28842899435892a84ba0a",
+      "crc32": "d20742ba",
+      "sha1": "2f40e7e7d4903d9840098afe103b5bb6e76c2567",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishcathnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b3a4a4cfb00d571bf95f34750b9439f",
+      "md5": "b2a108155dc333666b919f7325d13a10",
       "summation": "md5"
     },
     {
       "name": "irishcathnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666702865",
-      "size": "1482752",
-      "md5": "48ba68258cc0373005adef9c11d4af87",
-      "crc32": "aba42806",
-      "sha1": "2031ffd22704452990fb42e3f99aa191dc8db3a9",
+      "mtime": "1667220750",
+      "size": "1572864",
+      "md5": "094a6c6411b0eec15e9b864feb6fe2d6",
+      "crc32": "41f4b084",
+      "sha1": "c347d8befaa9b8561a023991cebaff5927639ef5",
       "format": "Metadata"
     },
     {
@@ -11993,9 +12737,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1159,
-  "item_last_updated": 1666702919,
-  "item_size": 68996597,
+  "files_count": 1231,
+  "item_last_updated": 1667220799,
+  "item_size": 72860089,
   "metadata": {
     "identifier": "irishcathnews-2022",
     "collection": [
@@ -12017,15 +12761,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451667301,
+      "task_id": 3457781920,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1838851122,
+  "uniq": 508252620,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

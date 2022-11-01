@@ -1,5 +1,5 @@
 {
-  "created": 1666695894,
+  "created": 1667257076,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/8/items/cbs7news-2022",
@@ -11959,31 +11959,837 @@
       "format": "JSON"
     },
     {
+      "name": "cbs7news-2022-10-25T06:01:50.874058-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-25T06:01:50.874058-05:00.jpg",
+      "mtime": "1666698145",
+      "size": "10899",
+      "md5": "8924d3d75ff51e2d5de9a7b6de20673e",
+      "crc32": "967c7cb4",
+      "sha1": "933fdc93baa3dd7a8dc46c591cf34a2191913e8c"
+    },
+    {
+      "name": "cbs7news-2022-10-25T18:02:46.792748-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666738978",
+      "size": "34908",
+      "md5": "dd2fb8b4da37c578a4c0ce5e0e5e71ea",
+      "crc32": "58391e52",
+      "sha1": "727dbcc84c3922d00f24a3b273e917cae0c94b9a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-25T18:02:46.792748-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666738981",
+      "size": "21463",
+      "md5": "98e846b4f8e02d68a04ab834f576f5b9",
+      "crc32": "d7bf3524",
+      "sha1": "d3242a8257cf8807cde4b1a590a61fea89c4fe33",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-25T18:02:46.792748-05:00.jpg",
+      "source": "original",
+      "mtime": "1666738977",
+      "size": "319435",
+      "md5": "97967a28744a9592299ea9fea3e2f5aa",
+      "crc32": "9fb605f5",
+      "sha1": "39dfc66cdf29f0d7595118638fdf0aff599c290b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-25T18:02:46.792748-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666738982",
+      "size": "1441",
+      "md5": "3db5e17f47cc1b63b81c10d56267f796",
+      "crc32": "322071b8",
+      "sha1": "59c9a3665f87e734bcb42e01634499b8ecfa3845",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-25T18:02:46.792748-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666738984",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-25T18:02:46.792748-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-25T18:02:46.792748-05:00.jpg",
+      "mtime": "1666740929",
+      "size": "10482",
+      "md5": "53f7612dc7a6699d79298cd5ea54ac84",
+      "crc32": "4eb2784d",
+      "sha1": "a009484613e840635131d63e0ab326b49d92164c"
+    },
+    {
+      "name": "cbs7news-2022-10-26T05:57:21.993404-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666781849",
+      "size": "34852",
+      "md5": "a661bac9d7f533eb599ddef82b43bf14",
+      "crc32": "4394f760",
+      "sha1": "a1a5e40f73c1453459e829e5f01c632309302bd5",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-26T05:57:21.993404-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666781851",
+      "size": "21391",
+      "md5": "648e0b9ae50de79e5ac8e177cb5bee3c",
+      "crc32": "08c896b6",
+      "sha1": "54dc4555c80fdcd278d1621bbf55d0b0f320441a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-26T05:57:21.993404-05:00.jpg",
+      "source": "original",
+      "mtime": "1666781848",
+      "size": "338070",
+      "md5": "64b101870c9850a235fe741aebfe0558",
+      "crc32": "26c7b8e0",
+      "sha1": "5624d7906621e7a818f352ce088fc82cd8dbca2c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-26T05:57:21.993404-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666781852",
+      "size": "1440",
+      "md5": "af7c79e3f7f3065c25fe049a6eb9ae91",
+      "crc32": "086e99eb",
+      "sha1": "7c30bc77255da1abdca14c22360022d7480bd697",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-26T05:57:21.993404-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666781854",
+      "size": "59496",
+      "md5": "95d9df0cd77acb1d186c9397984677d9",
+      "crc32": "8f062e25",
+      "sha1": "1350565b549442467462bdeea469daeee73d628d",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-26T05:57:21.993404-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-26T05:57:21.993404-05:00.jpg",
+      "mtime": "1666783528",
+      "size": "10507",
+      "md5": "49f2595187581f844181d385e779d0ee",
+      "crc32": "b128b74c",
+      "sha1": "a298445dd9a7e9055465abcfab372da8d2796683"
+    },
+    {
+      "name": "cbs7news-2022-10-26T17:59:27.152963-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666825181",
+      "size": "34718",
+      "md5": "15be22dc950a1b447b1d93292ed821ad",
+      "crc32": "04ff9ba3",
+      "sha1": "9c57426b90355b691d217e34a5bdbdbcc91018f6",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-26T17:59:27.152963-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666825183",
+      "size": "17654",
+      "md5": "2ef7b630f2f5b369ef22339e2885fb08",
+      "crc32": "c5baf34d",
+      "sha1": "d10c1fd58edb6df73b7501d7e98b38a0fbe90032",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-26T17:59:27.152963-05:00.jpg",
+      "source": "original",
+      "mtime": "1666825179",
+      "size": "333666",
+      "md5": "258a18449351da84e9722d11843e6f7d",
+      "crc32": "a061a6cb",
+      "sha1": "c2fd4e957905d0a460832ae561c006700a6cd836",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-26T17:59:27.152963-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666825185",
+      "size": "1440",
+      "md5": "8da6812a256b77bd8dbb21df67da5437",
+      "crc32": "860a8cb6",
+      "sha1": "36e5f75a22f261da2e572d32076a1628b2bad734",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-26T17:59:27.152963-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666825186",
+      "size": "263",
+      "md5": "002a2f017176f301a3c423e16e22fe1b",
+      "crc32": "3acefcc1",
+      "sha1": "4cd7d3f878ccaf7478f753968b2d48d05cae9515",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-26T17:59:27.152963-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-26T17:59:27.152963-05:00.jpg",
+      "mtime": "1666849707",
+      "size": "10648",
+      "md5": "8dcb8bb9cfa7cd5722d48967f2e306a9",
+      "crc32": "6b808bdc",
+      "sha1": "5fbd60afd2feb277c307cf1eaf17d8e41398c506"
+    },
+    {
+      "name": "cbs7news-2022-10-27T06:05:38.401322-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666868742",
+      "size": "34741",
+      "md5": "04c97319d3a10943368b823d50fbfc6b",
+      "crc32": "2b797a2f",
+      "sha1": "04f3456f5d68cb05d3f0bdfc8e1dd93d1810c321",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-27T06:05:38.401322-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666868744",
+      "size": "18706",
+      "md5": "ca428e9647efd437fceaafb4e98c7c87",
+      "crc32": "1a6520a5",
+      "sha1": "5adc9466abc74927b6567167fa71c3ce68d61fd3",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-27T06:05:38.401322-05:00.jpg",
+      "source": "original",
+      "mtime": "1666868740",
+      "size": "344845",
+      "md5": "c91b9a8d4fb6746914ae878f02bc89d8",
+      "crc32": "356feb7d",
+      "sha1": "f2a7035e690d99f885327afd9ba096bc98bfc59f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-27T06:05:38.401322-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666868746",
+      "size": "1440",
+      "md5": "75638d795fe855316ef667af941e2d6f",
+      "crc32": "a7418ba6",
+      "sha1": "ce1c87c3741d3bf0ab98a30aa0f0c24b7c950b17",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-27T06:05:38.401322-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666868748",
+      "size": "80917",
+      "md5": "f3c60533835ec5a0cd1659ad35d17bbb",
+      "crc32": "f5b42799",
+      "sha1": "f8af2a54a0bf4cd5e8dd1cc533b42b9f4e31b818",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-27T06:05:38.401322-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-27T06:05:38.401322-05:00.jpg",
+      "mtime": "1666887155",
+      "size": "10559",
+      "md5": "10428beed67bd2efa6b70e9f29aae7ee",
+      "crc32": "421ad160",
+      "sha1": "00d5c816de479406f2698d3989316bebc068dac3"
+    },
+    {
+      "name": "cbs7news-2022-10-27T17:49:41.901271-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666910990",
+      "size": "34792",
+      "md5": "831e57c7c70e765bdcc7235593719567",
+      "crc32": "184ef83e",
+      "sha1": "f60406fd78f56d31b63bdb6630a3e88b02a80b32",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-27T17:49:41.901271-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666910993",
+      "size": "18208",
+      "md5": "72ad2eecb3d9d53affb86b9ad0dfb9f2",
+      "crc32": "6359704b",
+      "sha1": "48d6d9a215345fb72dbb880583bdd4c774fa8582",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-27T17:49:41.901271-05:00.jpg",
+      "source": "original",
+      "mtime": "1666910988",
+      "size": "352277",
+      "md5": "1da567e2fc9c9c1ab40775732cdfdcec",
+      "crc32": "90b60f10",
+      "sha1": "9a180e8d108373818736b5c28c77ce50e3aa418f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-27T17:49:41.901271-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666910996",
+      "size": "1441",
+      "md5": "92e218cd442b50acdd7401281e570d47",
+      "crc32": "eb0b9867",
+      "sha1": "e7bc7f239729a891ac2c3f613a040f15bb42a8c5",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-27T17:49:41.901271-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666910997",
+      "size": "48421",
+      "md5": "d5f0e94c7a2c809fd13aab01e779f6f8",
+      "crc32": "f6d2b740",
+      "sha1": "4d6a49d86b8e5f2b4328a1e0d5cba59c7ace188b",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-27T17:49:41.901271-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-27T17:49:41.901271-05:00.jpg",
+      "mtime": "1666913835",
+      "size": "10881",
+      "md5": "0033baf591b2e82af550bc10b58beaa1",
+      "crc32": "dcd87bd7",
+      "sha1": "84bc3971d60d4c29f346eb92a220450e5cb6691c"
+    },
+    {
+      "name": "cbs7news-2022-10-28T05:56:36.079089-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666954602",
+      "size": "39738",
+      "md5": "ac6b7d5786c055ab737de0dbb8d94414",
+      "crc32": "33207637",
+      "sha1": "f3df966f0afca22a13e8d6286472203c72c00870",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-28T05:56:36.079089-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666954604",
+      "size": "17837",
+      "md5": "56dc00708391143b0f6249f50e9249ff",
+      "crc32": "f09b542c",
+      "sha1": "2a67194ceba78685d3f382b19818bd4be0d7ddb3",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-28T05:56:36.079089-05:00.jpg",
+      "source": "original",
+      "mtime": "1666954600",
+      "size": "340232",
+      "md5": "957612cf25055c9124b407183ce46f0c",
+      "crc32": "48e9c0fb",
+      "sha1": "4dd6282b3356b8d359def9062ab1399b2cf321d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-28T05:56:36.079089-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666954606",
+      "size": "1441",
+      "md5": "c2c91996c09a754229f243ed8fe2acf3",
+      "crc32": "a7c90dd5",
+      "sha1": "535b0005c91bf99ec93c5620507e9674842d3d90",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-28T05:56:36.079089-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666954607",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-28T05:56:36.079089-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-28T05:56:36.079089-05:00.jpg",
+      "mtime": "1666960525",
+      "size": "10940",
+      "md5": "2664538b4e3dbe52f8377730d34685bd",
+      "crc32": "e9aca8dc",
+      "sha1": "b44fa6a185de7afbe9eb319b3870d63f2a82aec5"
+    },
+    {
+      "name": "cbs7news-2022-10-28T18:08:37.268447-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666998536",
+      "size": "31828",
+      "md5": "58df72aabcbd7f23768b469126833cd3",
+      "crc32": "154ef61e",
+      "sha1": "521c748f7590f5547b5fece1da2779717297eccb",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-28T18:08:37.268447-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666998538",
+      "size": "15586",
+      "md5": "922562356cbc3efc0d81aa7566c3038d",
+      "crc32": "1bac8700",
+      "sha1": "5eecaedb1913d33c7456917e7647218fef030df0",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-28T18:08:37.268447-05:00.jpg",
+      "source": "original",
+      "mtime": "1666998535",
+      "size": "299606",
+      "md5": "aa3788cf9e2dd53aeaeb513f964ab153",
+      "crc32": "69a7a085",
+      "sha1": "c84baaa92a9d44b13b9edad96c176fb5f887a3b3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-28T18:08:37.268447-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666998540",
+      "size": "1441",
+      "md5": "0d02d34c09c2af654c9b6618edb4e3f6",
+      "crc32": "69b341de",
+      "sha1": "05cdd1fe4cfe4b15c8bc9b184e0653d3107a9c38",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-28T18:08:37.268447-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666998541",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-28T18:08:37.268447-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-28T18:08:37.268447-05:00.jpg",
+      "mtime": "1667000257",
+      "size": "10472",
+      "md5": "1af96d637a1218c3208caca873064527",
+      "crc32": "a4939b45",
+      "sha1": "7e8cede0ecf64b042666f197df615bf2429f66dc"
+    },
+    {
+      "name": "cbs7news-2022-10-29T05:54:45.767405-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667040894",
+      "size": "39550",
+      "md5": "306c71d27f529735c802e91b70ca0a73",
+      "crc32": "fcf13e6a",
+      "sha1": "b64a6dab166fac7e54f79e90ef0296e07e517c51",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-29T05:54:45.767405-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667040895",
+      "size": "17177",
+      "md5": "a16af4ddb43821ed5021afd119666c03",
+      "crc32": "5681cf9c",
+      "sha1": "bbc06e248f077415f5b87f1e7530db79524ced05",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-29T05:54:45.767405-05:00.jpg",
+      "source": "original",
+      "mtime": "1667040892",
+      "size": "330073",
+      "md5": "3a2982447a0212783c6b49c3f0803401",
+      "crc32": "984a5e60",
+      "sha1": "98ac3f670fcf070ccaf7e493d0b79568a7021edc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-29T05:54:45.767405-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667040897",
+      "size": "1441",
+      "md5": "20ee5a3b984177ce7d23fa83f6b2be23",
+      "crc32": "47980eaa",
+      "sha1": "eec2491a4162b29fdfc35e0103d2a832da7a87ce",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-29T05:54:45.767405-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667040898",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-29T05:54:45.767405-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-29T05:54:45.767405-05:00.jpg",
+      "mtime": "1667041728",
+      "size": "10732",
+      "md5": "44e3e82a42d30b9e4839a458df810bf6",
+      "crc32": "ce4d631e",
+      "sha1": "c1e5c3614dd5e381afd6c04d81252563dace56c8"
+    },
+    {
+      "name": "cbs7news-2022-10-29T17:54:57.120713-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667084119",
+      "size": "33051",
+      "md5": "b0f3ec098a4995a63e7b07cec89418c0",
+      "crc32": "1d2c9adc",
+      "sha1": "279ecf9431f2a62b76a01e39d3252901e36b159f",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-29T17:54:57.120713-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667084121",
+      "size": "15263",
+      "md5": "946432809f8e4ae6b25fa8117fba5f59",
+      "crc32": "be5072ba",
+      "sha1": "9b9994dab6de97b31856efb64d0ed76da2d3a6c5",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-29T17:54:57.120713-05:00.jpg",
+      "source": "original",
+      "mtime": "1667084118",
+      "size": "331418",
+      "md5": "6e30c10727a97a2162b45ebbf802994b",
+      "crc32": "55a4e91c",
+      "sha1": "4b3c1868aeb598b371d86167c90ef8b3a12ec06e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-29T17:54:57.120713-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667084123",
+      "size": "1441",
+      "md5": "8ef2afc523baffd41d45897c5ae3551c",
+      "crc32": "0ab652ca",
+      "sha1": "3d50f59bd852a8ffdb82b6095645a42084d866aa",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-29T17:54:57.120713-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667084125",
+      "size": "50624",
+      "md5": "c26df0146582bc6b87e508723d381610",
+      "crc32": "29fdacde",
+      "sha1": "31cd87b0d7551ceec34ed332d0c4eaab729ecc82",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-29T17:54:57.120713-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-29T17:54:57.120713-05:00.jpg",
+      "mtime": "1667085110",
+      "size": "10696",
+      "md5": "515fda417e072029f6f741f5227fbb3c",
+      "crc32": "3d8ba46d",
+      "sha1": "5200fa93b90616dc3590066b066061d0049c56a2"
+    },
+    {
+      "name": "cbs7news-2022-10-30T05:47:41.419920-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667126868",
+      "size": "32930",
+      "md5": "66383eea7870fb83b493288e2eec0ab4",
+      "crc32": "82158614",
+      "sha1": "3bdaf31bc0e33f2706ae9cd8d17870c468427869",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-30T05:47:41.419920-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667126870",
+      "size": "18587",
+      "md5": "9a2c2eec0fbcb6acf8ac9db567567547",
+      "crc32": "82692814",
+      "sha1": "70921215530e9e690933e503a7d5190b55e255c5",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-30T05:47:41.419920-05:00.jpg",
+      "source": "original",
+      "mtime": "1667126867",
+      "size": "347300",
+      "md5": "18903903ac477e277fc96bc5abd24e11",
+      "crc32": "4ad811eb",
+      "sha1": "66d709eb18a8044a353bdd76b65987e1817d47e2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-30T05:47:41.419920-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667126872",
+      "size": "1441",
+      "md5": "1bc5ea7795835b02a230a1509c4d17f1",
+      "crc32": "17d3926d",
+      "sha1": "066e21ddcfee01aa507891ae319f29bbd6e988ab",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-30T05:47:41.419920-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667126874",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-30T05:47:41.419920-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-30T05:47:41.419920-05:00.jpg",
+      "mtime": "1667127099",
+      "size": "10724",
+      "md5": "902d3eda0be29b65945d611d87b1050b",
+      "crc32": "f7c3f5cc",
+      "sha1": "1266dc2d19be033d0b6454122b8546d31e5404ef"
+    },
+    {
+      "name": "cbs7news-2022-10-30T17:43:20.963967-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667169809",
+      "size": "31525",
+      "md5": "70b7f3b8a86b5e761a2faeb06cf9c62c",
+      "crc32": "d5cbb233",
+      "sha1": "1e841ac27e88df3c436cf335dce4b8b88f662d63",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-30T17:43:20.963967-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667169811",
+      "size": "15664",
+      "md5": "dc16ca62ed7f0b52bec8832617fe4c45",
+      "crc32": "7cb36a1b",
+      "sha1": "015c4b7945f940a550d70ded0000a75d18a1ca61",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-30T17:43:20.963967-05:00.jpg",
+      "source": "original",
+      "mtime": "1667169807",
+      "size": "348493",
+      "md5": "270e21e8357d5a6191d2d059ccd30a68",
+      "crc32": "20cb4293",
+      "sha1": "2038e873a0ec93041616b7b92f4346939880d83d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-30T17:43:20.963967-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667169812",
+      "size": "1441",
+      "md5": "5d2cbeb5dbe9e30cbe273b62ba952d5e",
+      "crc32": "832bbe36",
+      "sha1": "468ad0557caca12d0399a23fd3b053bb109e8b0e",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-30T17:43:20.963967-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667169815",
+      "size": "48306",
+      "md5": "f956be5f0a7292758a5fd501c2b14fcb",
+      "crc32": "cbffd2cd",
+      "sha1": "d1f19916f2056302d80aa569c590691646406cb8",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-30T17:43:20.963967-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-30T17:43:20.963967-05:00.jpg",
+      "mtime": "1667170331",
+      "size": "10709",
+      "md5": "4514d8053ba05fbd134bc9219e12a07e",
+      "crc32": "bd379b66",
+      "sha1": "e2cdd7a2983247d5fe2bb1c8e3ea49eec88530d2"
+    },
+    {
+      "name": "cbs7news-2022-10-31T05:51:11.431797-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667213483",
+      "size": "33714",
+      "md5": "af54ebf28392fd9ef7ab6f55d1806b88",
+      "crc32": "06cdef83",
+      "sha1": "3bd4bbabd5105b2dc1df443f3db9bac37aaef8be",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-31T05:51:11.431797-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667213485",
+      "size": "21235",
+      "md5": "f22bd1b02d810e2f13af89d20214455c",
+      "crc32": "3d197b1f",
+      "sha1": "e27d12f001f5bffd1761a5ed131bdd53f48722cc",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-31T05:51:11.431797-05:00.jpg",
+      "source": "original",
+      "mtime": "1667213481",
+      "size": "337275",
+      "md5": "32ec7c3c328843ac39f3586e5a8d6a63",
+      "crc32": "22c8372c",
+      "sha1": "22a29deb6fa9a8664d708f75cc0b6b429ddea741",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-31T05:51:11.431797-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667213486",
+      "size": "1440",
+      "md5": "b1b2d4e528afbbd376f4eae405ac3096",
+      "crc32": "638beca9",
+      "sha1": "8c7a36e90d513d7d19b471c66ff31e8b8d58dc72",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-31T05:51:11.431797-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667213489",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-31T05:51:11.431797-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cbs7news-2022-10-31T05:51:11.431797-05:00.jpg",
+      "mtime": "1667214866",
+      "size": "10499",
+      "md5": "665fd18d09663d9292edc30cd03c31ac",
+      "crc32": "c89d3977",
+      "sha1": "d1cfdf0b2d1301344b92119b23cb330a7e94a022"
+    },
+    {
+      "name": "cbs7news-2022-10-31T17:56:11.294279-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667257001",
+      "size": "32181",
+      "md5": "06aad28b72762e93ce9c32a40a364840",
+      "crc32": "470bf074",
+      "sha1": "2b1aaa5c75a762dc5c2d552fb186fae0cf8207d2",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-31T17:56:11.294279-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667257003",
+      "size": "17627",
+      "md5": "2f3569a92e754608c203441edf7414ff",
+      "crc32": "5916253e",
+      "sha1": "6434556d77dc74b089bb566bbe466331a950dbf4",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-31T17:56:11.294279-05:00.jpg",
+      "source": "original",
+      "mtime": "1667256999",
+      "size": "327213",
+      "md5": "f5e3f09950758b6431b9ccccab3323e0",
+      "crc32": "64e1f9f2",
+      "sha1": "0c92b03a0fc1755faf83cec79d39a62305b29682",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbs7news-2022-10-31T17:56:11.294279-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667257005",
+      "size": "1441",
+      "md5": "9fe9439b3f84756ed582c6cb1164669a",
+      "crc32": "bc1710e3",
+      "sha1": "d33c052fdcbf30f2647dd92b030fdd39378cc225",
+      "format": "JSON"
+    },
+    {
+      "name": "cbs7news-2022-10-31T17:56:11.294279-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667257007",
+      "size": "50246",
+      "md5": "01716bc6e8225d23747aa71b1165e013",
+      "crc32": "2b4b4045",
+      "sha1": "fe280a84c78d1a6e7526e1360eff680267c1e977",
+      "format": "JSON"
+    },
+    {
       "name": "cbs7news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b1f4b4e8ba1b7c736088baddb98b5b6a1cde9f6",
-      "mtime": "1666695888",
-      "size": "244863",
-      "md5": "60adec05b58e2a5f6d3c773686a300e2",
-      "crc32": "be2bf1de",
-      "sha1": "5cc254f466e4d764df19887dd8f8d71d01f07149",
+      "btih": "e11073d6cd3d7875c4245dc4d200d76f4c6916a5",
+      "mtime": "1667257068",
+      "size": "261293",
+      "md5": "c7af3ffdbc2108cb00f9da601b303a15",
+      "crc32": "de66c48f",
+      "sha1": "f398dcee7d228ab09b806fa6f53e1fc85199753b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbs7news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04f384eb5d2a2ce5dd9118a5446c589d",
+      "md5": "01fec4783e08a555c34b1f3b0de5df4c",
       "summation": "md5"
     },
     {
       "name": "cbs7news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666695840",
-      "size": "1462272",
-      "md5": "ab2d919f242a639908caeb44c7ec9eaf",
-      "crc32": "1211bfe6",
-      "sha1": "dd4a6f8ef7e7c4553d8d60ec7d5b1d6225bc90be",
+      "mtime": "1667257018",
+      "size": "1564672",
+      "md5": "42f68311220046c3e80fb12a15be7af1",
+      "crc32": "39f42ea2",
+      "sha1": "271b1d2b90fdbc70dc522d51ea359e9e77236a4b",
       "format": "Metadata"
     },
     {
@@ -11997,9 +12803,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1159,
-  "item_last_updated": 1666695888,
-  "item_size": 88086185,
+  "files_count": 1237,
+  "item_last_updated": 1667257068,
+  "item_size": 93736806,
   "metadata": {
     "identifier": "cbs7news-2022",
     "collection": [
@@ -12021,7 +12827,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451519217,
+      "task_id": 3458214674,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12029,7 +12835,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 345614085,
+  "uniq": 575457557,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1666712832,
+  "created": 1667232346,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/2/items/amazoniaagencia-2022",
@@ -14079,31 +14079,1271 @@
       "format": "JSON"
     },
     {
+      "name": "amazoniaagencia-2022-10-25T12:45:51.964457-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-25T12:45:51.964457-03:00.jpg",
+      "mtime": "1666714431",
+      "size": "11493",
+      "md5": "72db5987b3a8401fbc63a0366563b1d9",
+      "crc32": "148a8154",
+      "sha1": "982437e139ec4890f22c1cb4c283df13fabfe6cb"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T03:25:37.701254-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666765545",
+      "size": "62863",
+      "md5": "0e6314a6e757da9af4c27d857ca72a03",
+      "crc32": "7cb42d7e",
+      "sha1": "0b941277687990d94dc7b3ef27495ad45fdc1aa7",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T03:25:37.701254-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666765547",
+      "size": "90819",
+      "md5": "305eb4b32fd3bbde5204950cd318150e",
+      "crc32": "ab033f02",
+      "sha1": "165193576f963b93e0b677938089dfb4920b20c1",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T03:25:37.701254-03:00.jpg",
+      "source": "original",
+      "mtime": "1666765543",
+      "size": "257848",
+      "md5": "60e8eaf9cfd9f1fd13809f2edca74d48",
+      "crc32": "ff6e5809",
+      "sha1": "366b8260992ac434b13215288f9be73f4cf67810",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T03:25:37.701254-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666765549",
+      "size": "1467",
+      "md5": "4145b764741740217bc3e045f3efe4e3",
+      "crc32": "6b3c5598",
+      "sha1": "c96a2b7e55e8bec4fccd42ab4e3136511db01163",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T03:25:37.701254-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666765551",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T03:25:37.701254-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-26T03:25:37.701254-03:00.jpg",
+      "mtime": "1666766595",
+      "size": "10885",
+      "md5": "5260097c1a890e1458e354e4ad4d888e",
+      "crc32": "3be06631",
+      "sha1": "74c576d4a698ebaab7c2f7879584a8dcb9fef3b4"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T09:06:51.018913-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666786014",
+      "size": "62863",
+      "md5": "0e6314a6e757da9af4c27d857ca72a03",
+      "crc32": "7cb42d7e",
+      "sha1": "0b941277687990d94dc7b3ef27495ad45fdc1aa7",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T09:06:51.018913-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666786016",
+      "size": "90819",
+      "md5": "305eb4b32fd3bbde5204950cd318150e",
+      "crc32": "ab033f02",
+      "sha1": "165193576f963b93e0b677938089dfb4920b20c1",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T09:06:51.018913-03:00.jpg",
+      "source": "original",
+      "mtime": "1666786012",
+      "size": "257908",
+      "md5": "630afae0eaf488b65cce7615182babe3",
+      "crc32": "3b38c7ca",
+      "sha1": "446f3d62b3f054f4dd56bd89046e0144bdcf08ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T09:06:51.018913-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666786018",
+      "size": "1468",
+      "md5": "fbcdd642c25a4220997f75c956b56d55",
+      "crc32": "fb9eb8ea",
+      "sha1": "1e11fef93e688d280af0125669fc4191216c555c",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T09:06:51.018913-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666786020",
+      "size": "205",
+      "md5": "1de8655bb216d56298855e66449ae6ad",
+      "crc32": "3460f1e9",
+      "sha1": "f7253885ec4ba95f3beeba48ee18880f2af27883",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T09:06:51.018913-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-26T09:06:51.018913-03:00.jpg",
+      "mtime": "1666787666",
+      "size": "10877",
+      "md5": "9d95dfa9499d17aae7b7d123442ca493",
+      "crc32": "66369fdb",
+      "sha1": "64d4495065f11366e3ae8f81a5e8b1ea9a02d06a"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T13:23:14.463306-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666801406",
+      "size": "62785",
+      "md5": "973c429d48a7a457c2ecb412e4a89ed1",
+      "crc32": "eae69b3c",
+      "sha1": "5efe945f2f96bd32e64e32181187e33da21cacf6",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T13:23:14.463306-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666801408",
+      "size": "90844",
+      "md5": "c52c1abec8ddf3095274c3be6cd04e47",
+      "crc32": "9d6f1ad6",
+      "sha1": "b33bf39cae8c71f2016da6634be454e2bd4084e4",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T13:23:14.463306-03:00.jpg",
+      "source": "original",
+      "mtime": "1666801404",
+      "size": "258068",
+      "md5": "65c35f865ea90315826730cd3053a5c0",
+      "crc32": "0bd4337b",
+      "sha1": "1f65afb7e1c6606399a95f496071d284d70741f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T13:23:14.463306-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666801410",
+      "size": "1468",
+      "md5": "cbe4a4e32310da5612e62ce957ff208e",
+      "crc32": "69b754f3",
+      "sha1": "38b8cc0998110bb92f526055c2eddb48fa4566ec",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T13:23:14.463306-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666801412",
+      "size": "20047",
+      "md5": "6c97c47a77680a5a6a5d9617b64f737d",
+      "crc32": "5709864e",
+      "sha1": "c2b27b6a148fc50a4e808ba982fd253b02dbdb62",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-26T13:23:14.463306-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-26T13:23:14.463306-03:00.jpg",
+      "mtime": "1666803501",
+      "size": "10871",
+      "md5": "bd7e88dea760114a09df1d7d4086c9b7",
+      "crc32": "882581c6",
+      "sha1": "28e31c6f137d028909cf4e0f47caa4f7c7fd31ce"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T02:03:49.721087-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666847034",
+      "size": "61908",
+      "md5": "e5500e23417cfc264b2f95366559e702",
+      "crc32": "5afd6a09",
+      "sha1": "9860668f39dfad039407ff9b9e7d16f95a03455c",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T02:03:49.721087-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666847036",
+      "size": "89608",
+      "md5": "bb05aa048c7fde337756bf2de2df7dd8",
+      "crc32": "32254a85",
+      "sha1": "b0e1c8110da91169e609c6ee5718cb5e924b7422",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T02:03:49.721087-03:00.jpg",
+      "source": "original",
+      "mtime": "1666847032",
+      "size": "273844",
+      "md5": "6b352a58eed8feacdb97ecd98c176849",
+      "crc32": "49a86cc0",
+      "sha1": "1cd1cddb65b74eb877c2ebde39dacb6af0d2da52",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T02:03:49.721087-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666847038",
+      "size": "1468",
+      "md5": "54d5c666722f97d98933f430d9098ae9",
+      "crc32": "2cc7af72",
+      "sha1": "e778bb908be908d8db9d6b46024bafa7cca17691",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T02:03:49.721087-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666847040",
+      "size": "19910",
+      "md5": "b910968443741793b67f946bdd9e1cdd",
+      "crc32": "6a66ac39",
+      "sha1": "a785dfd3437f11816ca4441df060634759ca55b8",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T02:03:49.721087-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-27T02:03:49.721087-03:00.jpg",
+      "mtime": "1666871612",
+      "size": "10744",
+      "md5": "53328e8d2751cf1536caf6796f58cc6c",
+      "crc32": "61b45884",
+      "sha1": "2088fcda57242472d222dae801f8330e4a0d2e65"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T09:06:54.066022-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872418",
+      "size": "61908",
+      "md5": "e5500e23417cfc264b2f95366559e702",
+      "crc32": "5afd6a09",
+      "sha1": "9860668f39dfad039407ff9b9e7d16f95a03455c",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T09:06:54.066022-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872420",
+      "size": "89608",
+      "md5": "bb05aa048c7fde337756bf2de2df7dd8",
+      "crc32": "32254a85",
+      "sha1": "b0e1c8110da91169e609c6ee5718cb5e924b7422",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T09:06:54.066022-03:00.jpg",
+      "source": "original",
+      "mtime": "1666872415",
+      "size": "273792",
+      "md5": "25c9244eaa71d1535784bf8fcd631ddf",
+      "crc32": "cfa51f8b",
+      "sha1": "034413aafbb5a3d2b4c53626666c3cb15e31f412",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T09:06:54.066022-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872422",
+      "size": "1468",
+      "md5": "318c83a1ef62b9831f82df94b1cbf9b1",
+      "crc32": "00da2afa",
+      "sha1": "7ff5a0d91f4422eb4c0f18a8884a6b9546a5700f",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T09:06:54.066022-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666872423",
+      "size": "19929",
+      "md5": "e8dce267a0c6cae740fb057b3fdf344d",
+      "crc32": "f36ac1fa",
+      "sha1": "4c2fbbcf034af04f208e3a824270da96ef077ea4",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T09:06:54.066022-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-27T09:06:54.066022-03:00.jpg",
+      "mtime": "1666887226",
+      "size": "10726",
+      "md5": "9bfbce5443df98b359bccfb333906b41",
+      "crc32": "ecbb7539",
+      "sha1": "69a9cb18b95249d0c3cc8520d706d5d2883f20ce"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T13:07:19.017679-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666886891",
+      "size": "61908",
+      "md5": "e5500e23417cfc264b2f95366559e702",
+      "crc32": "5afd6a09",
+      "sha1": "9860668f39dfad039407ff9b9e7d16f95a03455c",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T13:07:19.017679-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666886896",
+      "size": "89608",
+      "md5": "bb05aa048c7fde337756bf2de2df7dd8",
+      "crc32": "32254a85",
+      "sha1": "b0e1c8110da91169e609c6ee5718cb5e924b7422",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T13:07:19.017679-03:00.jpg",
+      "source": "original",
+      "mtime": "1666886889",
+      "size": "273945",
+      "md5": "9ae3399cb9c819bbf37a9394d306a2d6",
+      "crc32": "dc64a13f",
+      "sha1": "24da35477f084a0eb32d44ec95da2d7f28e94bc7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T13:07:19.017679-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666886899",
+      "size": "1467",
+      "md5": "9c5e02112cce2182626efe42c6ee81f5",
+      "crc32": "0b087a09",
+      "sha1": "f7773fb6637d3cff56afeb9f504ef836f1f03084",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T13:07:19.017679-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666886901",
+      "size": "19915",
+      "md5": "c7a9e568d8556fc6a9dd3be0451cf6b9",
+      "crc32": "b7b55d1a",
+      "sha1": "73d307b236861324d8690c0c7dc6fb630fa14fda",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-27T13:07:19.017679-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-27T13:07:19.017679-03:00.jpg",
+      "mtime": "1666897714",
+      "size": "10715",
+      "md5": "f1bdb8167c0ca267f44d37aace368d31",
+      "crc32": "5047731d",
+      "sha1": "2da805e04f09e06325fa487323146c86e8fffea1"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T01:46:30.705187-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666932394",
+      "size": "62083",
+      "md5": "78f971720a95e59a17396ef7421bb2a8",
+      "crc32": "4ab9dee7",
+      "sha1": "3ebe20c9f9a0c19ebdece58ab77a4ef0cce34d62",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T01:46:30.705187-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666932396",
+      "size": "769",
+      "md5": "02a8143d13a8563bb4415a9c42629ea9",
+      "crc32": "bffa6fc7",
+      "sha1": "c65fa485c13f0523787cd7a5ec231ed7a58ab0ab",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T01:46:30.705187-03:00.jpg",
+      "source": "original",
+      "mtime": "1666932392",
+      "size": "228088",
+      "md5": "6b6b0c538665ee36cfc3ef049e04aafb",
+      "crc32": "09040e08",
+      "sha1": "e85372345fad712ee6226055de20417320c8a0c8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T01:46:30.705187-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666932398",
+      "size": "1468",
+      "md5": "2ab8bd7a9566a2c5823a50c97a3cbc01",
+      "crc32": "93b56b6d",
+      "sha1": "f56065ba048a04cf7c8a228a9e012d009458bebe",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T01:46:30.705187-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666932400",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T01:46:30.705187-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-28T01:46:30.705187-03:00.jpg",
+      "mtime": "1666933934",
+      "size": "10464",
+      "md5": "d93ff8d20854181d1c83270a5df045d6",
+      "crc32": "c89343f2",
+      "sha1": "a1e1d00e37f9cb7029da7f81e600ec4989f09ed4"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T08:50:56.038294-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666957876",
+      "size": "62083",
+      "md5": "78f971720a95e59a17396ef7421bb2a8",
+      "crc32": "4ab9dee7",
+      "sha1": "3ebe20c9f9a0c19ebdece58ab77a4ef0cce34d62",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T08:50:56.038294-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666957878",
+      "size": "89892",
+      "md5": "579253424acb260ebfa34cb383b7dc8b",
+      "crc32": "b81761ce",
+      "sha1": "c6ef98b1976730ab535f83c773d52505971d9bf2",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T08:50:56.038294-03:00.jpg",
+      "source": "original",
+      "mtime": "1666957875",
+      "size": "227945",
+      "md5": "c9dcf11e0d22f8023bb50d33f936f7cd",
+      "crc32": "a3c9eb58",
+      "sha1": "8f984b5f76491864bf43f1ec1e24336a050d9e24",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T08:50:56.038294-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666957880",
+      "size": "1467",
+      "md5": "5babf75d9ea12fde507f4f5d4370a476",
+      "crc32": "1476aaa4",
+      "sha1": "b33694b53308dd764ec4eddfa001a8b96f330641",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T08:50:56.038294-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666957882",
+      "size": "20174",
+      "md5": "6241b7cb64f33cafe1d8065a0fef4630",
+      "crc32": "929c6089",
+      "sha1": "48bcd75e5c04fcab94671099b07d1d293be261ee",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T08:50:56.038294-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-28T08:50:56.038294-03:00.jpg",
+      "mtime": "1666965265",
+      "size": "10465",
+      "md5": "7f7119ac3a1ff5f0ced7d844a283f5cc",
+      "crc32": "6391ebd1",
+      "sha1": "98c2e0e1c569c59317d3edd4e03b73a3d5ba6d32"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T12:52:46.601747-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972394",
+      "size": "62039",
+      "md5": "ef25c3dc5abf36bde0024c567d732fad",
+      "crc32": "9e33ebb3",
+      "sha1": "0be7634056f3f63b5f29cd1553affd031c2e17ae",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T12:52:46.601747-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972396",
+      "size": "89900",
+      "md5": "0f62def2a4ce973042df0437bdea523d",
+      "crc32": "1842806c",
+      "sha1": "d71e862d2853fec56b614917464e05ca4ce89367",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T12:52:46.601747-03:00.jpg",
+      "source": "original",
+      "mtime": "1666972392",
+      "size": "228009",
+      "md5": "42f547856918bb202a5ed7ad99496d61",
+      "crc32": "712a498d",
+      "sha1": "08df886eafc1f459fd51c452018d8f332b220220",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T12:52:46.601747-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972398",
+      "size": "1468",
+      "md5": "6be5aebd75b3ff8b33a701ec3711415a",
+      "crc32": "90b7a462",
+      "sha1": "5a9bffa76dcad5a268b51f9f06de48d94a7f4eb3",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T12:52:46.601747-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972400",
+      "size": "20083",
+      "md5": "c1c3792883078b876971014c8713a3bd",
+      "crc32": "24e747d1",
+      "sha1": "d25932087a873d211d0aab45037dec56476f57a1",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-28T12:52:46.601747-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-28T12:52:46.601747-03:00.jpg",
+      "mtime": "1666977476",
+      "size": "10478",
+      "md5": "38b5f72280b0d709892aea69734cb9d6",
+      "crc32": "323c2725",
+      "sha1": "c77ee32ad34e9e8ecae73ebd22eddd02937a8f79"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T01:13:51.097782-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667016842",
+      "size": "61988",
+      "md5": "e32eb6c5e8e559ffc06149f1edd16eb8",
+      "crc32": "34462cbd",
+      "sha1": "d322820a30d1df40816db42942c05968a2f55a2d",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T01:13:51.097782-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667016843",
+      "size": "89935",
+      "md5": "461d42033eef3a28139933afc312d6ca",
+      "crc32": "8ad28e14",
+      "sha1": "d3d0dc5af923789a1b6f6d9b335c9c9a609411ff",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T01:13:51.097782-03:00.jpg",
+      "source": "original",
+      "mtime": "1667016840",
+      "size": "262392",
+      "md5": "06fa321af79880de3244a0bbe2375b17",
+      "crc32": "aa9c9225",
+      "sha1": "cbae7614df86861d337cce119ea15f4e71587a74",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T01:13:51.097782-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667016845",
+      "size": "1468",
+      "md5": "7a6d6187dcaa2b943aa5cec780f2d0bf",
+      "crc32": "0edcb0bd",
+      "sha1": "80716f72bdc9805117e9da6c9618102f44963031",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T01:13:51.097782-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667016847",
+      "size": "205",
+      "md5": "b0d51a5ae284bd5e53de840fd2f40e76",
+      "crc32": "985d2b50",
+      "sha1": "babe9c3ca89f1bb997b4b7bd6c7beb1d203794a9",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T01:13:51.097782-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-29T01:13:51.097782-03:00.jpg",
+      "mtime": "1667019850",
+      "size": "10891",
+      "md5": "2ee643e5345585bc9829d44d66a464b4",
+      "crc32": "4f14fa52",
+      "sha1": "1eaff0c40f8fad8029fd0e7eb1bfe9f8bc444943"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T09:08:00.564365-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667045296",
+      "size": "61988",
+      "md5": "e32eb6c5e8e559ffc06149f1edd16eb8",
+      "crc32": "34462cbd",
+      "sha1": "d322820a30d1df40816db42942c05968a2f55a2d",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T09:08:00.564365-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667045298",
+      "size": "89935",
+      "md5": "461d42033eef3a28139933afc312d6ca",
+      "crc32": "8ad28e14",
+      "sha1": "d3d0dc5af923789a1b6f6d9b335c9c9a609411ff",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T09:08:00.564365-03:00.jpg",
+      "source": "original",
+      "mtime": "1667045294",
+      "size": "262721",
+      "md5": "23fe4d924ca4e69d4fdd23cc3338c9e2",
+      "crc32": "72dc4f52",
+      "sha1": "b7ac02210d65e99312f83b6325f2ba400ee3e43d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T09:08:00.564365-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667045300",
+      "size": "1468",
+      "md5": "81667399c0cca72173e0476ad0b60ed1",
+      "crc32": "88a2cad1",
+      "sha1": "faca8d0c6beff58adf25260fbb10d241e388d994",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T09:08:00.564365-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667045302",
+      "size": "20197",
+      "md5": "86e4f8f99235ff673412d57d073be56e",
+      "crc32": "85fb4dc0",
+      "sha1": "41f869df5a8ff801953c3e7ab8e319e39a51ddaf",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T09:08:00.564365-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-29T09:08:00.564365-03:00.jpg",
+      "mtime": "1667049554",
+      "size": "10906",
+      "md5": "8835948f63bccac5795a95ee7d1d7ecb",
+      "crc32": "12b09f49",
+      "sha1": "dc4c93f7ca3f68248f8d81e07651ae675a89ebf6"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T13:07:22.378842-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667059647",
+      "size": "61988",
+      "md5": "e32eb6c5e8e559ffc06149f1edd16eb8",
+      "crc32": "34462cbd",
+      "sha1": "d322820a30d1df40816db42942c05968a2f55a2d",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T13:07:22.378842-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667059649",
+      "size": "89935",
+      "md5": "461d42033eef3a28139933afc312d6ca",
+      "crc32": "8ad28e14",
+      "sha1": "d3d0dc5af923789a1b6f6d9b335c9c9a609411ff",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T13:07:22.378842-03:00.jpg",
+      "source": "original",
+      "mtime": "1667059645",
+      "size": "262625",
+      "md5": "ab05e4ded9cf17a39a7b8db21abccc42",
+      "crc32": "dceb5b07",
+      "sha1": "adf60ea3e94d2074a3de75c32cc5e0655dcf3ebf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T13:07:22.378842-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667059652",
+      "size": "1468",
+      "md5": "694a7cee665629b2da584a74d80fb170",
+      "crc32": "848dcf71",
+      "sha1": "8b165f7127a523e3ee85bc70583c0bafd34d1cdf",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T13:07:22.378842-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667059654",
+      "size": "205",
+      "md5": "e496764f33b7a2989a68419628ff7371",
+      "crc32": "4b7f01d4",
+      "sha1": "9c2390447fcd84ba556b01914b83bb69c3331674",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-29T13:07:22.378842-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-29T13:07:22.378842-03:00.jpg",
+      "mtime": "1667061370",
+      "size": "10908",
+      "md5": "82308d448ef7ddedcd78510e3735ad64",
+      "crc32": "243320fe",
+      "sha1": "bc2038016585378f61c55505e893e453fdb709c8"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T01:18:32.616676-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667103515",
+      "size": "61618",
+      "md5": "75e49ff38711701c91c9ceb0229816aa",
+      "crc32": "e7ce388a",
+      "sha1": "e8929fcf43f61689a9787bd6a0299326371113d9",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T01:18:32.616676-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667103516",
+      "size": "89441",
+      "md5": "f178e5787617656c0b923a2f0dec2a90",
+      "crc32": "5d2e1b64",
+      "sha1": "d671ef8ab522501c8a493f14f00db4d2abfd43a5",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T01:18:32.616676-03:00.jpg",
+      "source": "original",
+      "mtime": "1667103513",
+      "size": "284632",
+      "md5": "463f39cd5e8f239cfbffaeb402afaac9",
+      "crc32": "9e90f2e7",
+      "sha1": "7c9271e735137872b643dbbb20a46b64abe6c18d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T01:18:32.616676-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667103518",
+      "size": "1468",
+      "md5": "4f3cd80bacbc1db5aed34c75d28e5a75",
+      "crc32": "b7554a6c",
+      "sha1": "805d6361ca58ac01158787e913bc33130170ad50",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T01:18:32.616676-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667103519",
+      "size": "20466",
+      "md5": "3aa9efff0caf3bfec5180575ce1df883",
+      "crc32": "c40c1058",
+      "sha1": "91778077d1a7925fb2a7120e24ec29f8f05e0839",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T01:18:32.616676-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-30T01:18:32.616676-03:00.jpg",
+      "mtime": "1667104629",
+      "size": "11352",
+      "md5": "71f7d0aa6ab288ecf0f6d163c5ae14a1",
+      "crc32": "ecd2137b",
+      "sha1": "d5fd9a287a66508149fa9059cb53bc5c7489c9c3"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T08:47:57.530445-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130494",
+      "size": "61618",
+      "md5": "75e49ff38711701c91c9ceb0229816aa",
+      "crc32": "e7ce388a",
+      "sha1": "e8929fcf43f61689a9787bd6a0299326371113d9",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T08:47:57.530445-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130497",
+      "size": "89441",
+      "md5": "f178e5787617656c0b923a2f0dec2a90",
+      "crc32": "5d2e1b64",
+      "sha1": "d671ef8ab522501c8a493f14f00db4d2abfd43a5",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T08:47:57.530445-03:00.jpg",
+      "source": "original",
+      "mtime": "1667130491",
+      "size": "279060",
+      "md5": "71f8873ebc87c32a77f3e6e2c72b5613",
+      "crc32": "eaa0d166",
+      "sha1": "cb5a593f8179e1d7d7e13d24ac3c5839093e9e83",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T08:47:57.530445-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130498",
+      "size": "1468",
+      "md5": "0b8bd2861d6f2fe26c2c068d9020d2b9",
+      "crc32": "013da007",
+      "sha1": "9b9f8e10ecf1ace92c287d4deb69cde79097ac55",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T08:47:57.530445-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130500",
+      "size": "20118",
+      "md5": "8c34227fb329402ccf861186c13765ef",
+      "crc32": "6398199b",
+      "sha1": "739a53df239b933b80944f1a04e6dbe7486711c7",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T08:47:57.530445-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-30T08:47:57.530445-03:00.jpg",
+      "mtime": "1667131562",
+      "size": "11267",
+      "md5": "063bd5c64aa6addb6bf5e68fc358790b",
+      "crc32": "e66bd998",
+      "sha1": "9710d637febd59c855ab4f6fcb10679b27bfbb88"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T12:45:48.843181-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144757",
+      "size": "61618",
+      "md5": "75e49ff38711701c91c9ceb0229816aa",
+      "crc32": "e7ce388a",
+      "sha1": "e8929fcf43f61689a9787bd6a0299326371113d9",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T12:45:48.843181-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144759",
+      "size": "89441",
+      "md5": "f178e5787617656c0b923a2f0dec2a90",
+      "crc32": "5d2e1b64",
+      "sha1": "d671ef8ab522501c8a493f14f00db4d2abfd43a5",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T12:45:48.843181-03:00.jpg",
+      "source": "original",
+      "mtime": "1667144755",
+      "size": "280092",
+      "md5": "5796a22178bbd29db1d56f8b4b537b62",
+      "crc32": "207e0158",
+      "sha1": "85a414af81edbdc880b814a37c888761f62df413",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T12:45:48.843181-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144762",
+      "size": "1467",
+      "md5": "d8ce8fbcbf3e83083cc64f7f7cde6da8",
+      "crc32": "9d629ebc",
+      "sha1": "32c00829d7790bc91a29aa8afb868fa307f783d4",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T12:45:48.843181-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667144765",
+      "size": "20268",
+      "md5": "4d402504ed98985c2a9e9d48f758d403",
+      "crc32": "122dadd9",
+      "sha1": "3d7d89e7265d1f71d6cc1ce1b1d29b4e92c11012",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T12:45:48.843181-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-30T12:45:48.843181-03:00.jpg",
+      "mtime": "1667145374",
+      "size": "11200",
+      "md5": "0c7a9133dce4f41ea3e34f271b333b3e",
+      "crc32": "fe144849",
+      "sha1": "480f477846f3b5314aadc1deb5243ea636e2d5ab"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T18:34:06.242674-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667165649",
+      "size": "61552",
+      "md5": "37ee7fe191b477ead2e180f87ff4c730",
+      "crc32": "e0227124",
+      "sha1": "e4975bb8738ab9362434c9bc74284b46e33d8b41",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T18:34:06.242674-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667165651",
+      "size": "89413",
+      "md5": "bb1c210108094ea2ecde466c3305d6de",
+      "crc32": "576d8d0a",
+      "sha1": "94f39ac25406a048c9384db33a7a59ec5a44b098",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T18:34:06.242674-03:00.jpg",
+      "source": "original",
+      "mtime": "1667165647",
+      "size": "300228",
+      "md5": "638887675b1f5da51034b83ef504336e",
+      "crc32": "3d680823",
+      "sha1": "4a0087d2c642c2cd90a74d810aec916f8e60dca5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T18:34:06.242674-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667165653",
+      "size": "1468",
+      "md5": "4e4b1b624c68418a0bfda7406c501622",
+      "crc32": "38613261",
+      "sha1": "e9ae8f82b7121a8c0c448ee9ce3056ccf45e527f",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T18:34:06.242674-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667165655",
+      "size": "19998",
+      "md5": "057ce5fd8735ee841cdd760d6e7564b7",
+      "crc32": "2e002da6",
+      "sha1": "643adf49a229ff453f47144072e94c63452f328b",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T18:34:06.242674-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-30T18:34:06.242674-03:00.jpg",
+      "mtime": "1667166058",
+      "size": "11180",
+      "md5": "3b115a9b6e3680eff00f974fb33455cd",
+      "crc32": "87d2d2a7",
+      "sha1": "c05ab12f917b87977c47e990b0688bac2849a94b"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T21:10:14.679860-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667175018",
+      "size": "61552",
+      "md5": "37ee7fe191b477ead2e180f87ff4c730",
+      "crc32": "e0227124",
+      "sha1": "e4975bb8738ab9362434c9bc74284b46e33d8b41",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T21:10:14.679860-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667175019",
+      "size": "89413",
+      "md5": "bb1c210108094ea2ecde466c3305d6de",
+      "crc32": "576d8d0a",
+      "sha1": "94f39ac25406a048c9384db33a7a59ec5a44b098",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T21:10:14.679860-03:00.jpg",
+      "source": "original",
+      "mtime": "1667175016",
+      "size": "296319",
+      "md5": "a9d75279e5cbabc90dcdfda1a7b91411",
+      "crc32": "1a3a7ab3",
+      "sha1": "3e5d434744e383650a630043f55e9a27700f5ac4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T21:10:14.679860-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667175021",
+      "size": "1464",
+      "md5": "be8065d4643e46f9724a57fd36ec7073",
+      "crc32": "07258ce5",
+      "sha1": "d40053f639cbc560244d9562316afd6e21f907eb",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T21:10:14.679860-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667175023",
+      "size": "126",
+      "md5": "0d53f892c5f4dd82202b5e14f20a6e96",
+      "crc32": "be22f22a",
+      "sha1": "fe51ca4fac3d99b739be38678ebc42649dbce072",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-30T21:10:14.679860-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-30T21:10:14.679860-03:00.jpg",
+      "mtime": "1667176036",
+      "size": "11059",
+      "md5": "ee7581d7509ab6e9c4a57be0c4623574",
+      "crc32": "9728c063",
+      "sha1": "391342e592b3a8fb5c1bde05f1f68667eca3ac3b"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T01:51:07.854635-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667191872",
+      "size": "61629",
+      "md5": "b7c220d13e2a5a18f443215b7e754b2a",
+      "crc32": "e1918fd2",
+      "sha1": "94d713706323ac2d3508ac63a0408a88426a098b",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T01:51:07.854635-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667191876",
+      "size": "89383",
+      "md5": "047eee951d52ad9a75f0f229a744cda8",
+      "crc32": "0e50194e",
+      "sha1": "7329f571ea1fd18f96beca5e32fb6351e8e37292",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T01:51:07.854635-03:00.jpg",
+      "source": "original",
+      "mtime": "1667191870",
+      "size": "278320",
+      "md5": "51fa77af7fadd16557db5d08da0dd1d8",
+      "crc32": "5c6f4daa",
+      "sha1": "845b4344425c71ffd9e0f1ec8bcd7451ca2d932b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T01:51:07.854635-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667191878",
+      "size": "1468",
+      "md5": "48910937b153b19467afdc6ef5201296",
+      "crc32": "95b3fd6b",
+      "sha1": "23a688de9954a62f3251e59f606e32b48111337a",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T01:51:07.854635-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667191880",
+      "size": "20204",
+      "md5": "934152ca008b3862c7d7e73acde349d0",
+      "crc32": "b07463a1",
+      "sha1": "2e3107fbc56079e79d905c87f1b4c9852171a7e5",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T01:51:07.854635-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-31T01:51:07.854635-03:00.jpg",
+      "mtime": "1667192362",
+      "size": "11472",
+      "md5": "7015c53aaa05357feb869531b31de81c",
+      "crc32": "6a5b90e0",
+      "sha1": "6853fe9a932bfe41f15f5bbd47747783a18f827d"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T08:58:31.269807-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667217542",
+      "size": "61629",
+      "md5": "b7c220d13e2a5a18f443215b7e754b2a",
+      "crc32": "e1918fd2",
+      "sha1": "94d713706323ac2d3508ac63a0408a88426a098b",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T08:58:31.269807-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667217544",
+      "size": "89383",
+      "md5": "047eee951d52ad9a75f0f229a744cda8",
+      "crc32": "0e50194e",
+      "sha1": "7329f571ea1fd18f96beca5e32fb6351e8e37292",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T08:58:31.269807-03:00.jpg",
+      "source": "original",
+      "mtime": "1667217538",
+      "size": "285882",
+      "md5": "78e67a9aee8ae2eda96104c088fc1713",
+      "crc32": "feea6ac4",
+      "sha1": "353cd03446e05c5daabc1dc3326844a0a0557f6f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T08:58:31.269807-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667217545",
+      "size": "1468",
+      "md5": "0397243abb28d2b927ce44f28ed657cb",
+      "crc32": "be3ef873",
+      "sha1": "1e869246a88e01879dddff6e738b912c26231aab",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T08:58:31.269807-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667217547",
+      "size": "19922",
+      "md5": "9afb4fa3a9cedf92ea084e905aee2f7c",
+      "crc32": "125cdd91",
+      "sha1": "5bd6eace8bdbe666ab1ce1e31211396642f8abf0",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T08:58:31.269807-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amazoniaagencia-2022-10-31T08:58:31.269807-03:00.jpg",
+      "mtime": "1667218406",
+      "size": "11542",
+      "md5": "d68112790f6b73ec3b4488e26652b0a1",
+      "crc32": "ff7d9a50",
+      "sha1": "2c9c60ada5bd38d047cd6511350a2239f80d1487"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T13:01:21.846328-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667232130",
+      "size": "61596",
+      "md5": "cf4557a460d72dc26dcb9faf943f0b3b",
+      "crc32": "a3b97300",
+      "sha1": "acf112de75fba90e9271891830dda8bf5f8e8b04",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T13:01:21.846328-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667232133",
+      "size": "89413",
+      "md5": "8a98c74cdd1a4eb670539e967f25166e",
+      "crc32": "12902711",
+      "sha1": "2323a0c063f55f139a536b2d8126f2c2736a1f4b",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T13:01:21.846328-03:00.jpg",
+      "source": "original",
+      "mtime": "1667232127",
+      "size": "284330",
+      "md5": "0227cdbc67fd5ce857047b62b8f2bcbd",
+      "crc32": "9382c4ce",
+      "sha1": "58e98cca929c63fe14042c28fe1a5a82f6e13cd1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T13:01:21.846328-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667232136",
+      "size": "1468",
+      "md5": "d087c4ae8fd08dc9995e9d2d145eb190",
+      "crc32": "1fdfe49f",
+      "sha1": "966de7237f74f313aa3760812ba8054fc9cc40ec",
+      "format": "JSON"
+    },
+    {
+      "name": "amazoniaagencia-2022-10-31T13:01:21.846328-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667232138",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "amazoniaagencia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "be6639236ab42080f5073552a00727f1b2428346",
-      "mtime": "1666712827",
-      "size": "297997",
-      "md5": "cdb830fe4c14b7235f5a2522f64e31ba",
-      "crc32": "37a31cd0",
-      "sha1": "6404bfc22d781363fa1c7e74074eb9d60f440813",
+      "btih": "e26901ffe3c4239714fea56ab242c538080faabf",
+      "mtime": "1667232272",
+      "size": "324121",
+      "md5": "bab3476833c13177553d5807bf63a7da",
+      "crc32": "fe4be945",
+      "sha1": "642d5ec32c29a64a055aea6bee7f32e681c6bea4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amazoniaagencia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c93d20903caae3901c39f5cdc07f45c5",
+      "md5": "4c4b31c2658560f0dbc68948807e1398",
       "summation": "md5"
     },
     {
       "name": "amazoniaagencia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666712774",
-      "size": "1761280",
-      "md5": "13800f8207a4fd8c862aa3dffc7818ca",
-      "crc32": "e8298f95",
-      "sha1": "b4e43248684b4431f8b60536b1429f31cef2729f",
+      "mtime": "1667232178",
+      "size": "1912832",
+      "md5": "9031a22d474ffbabd04fdc081df3e928",
+      "crc32": "c479e466",
+      "sha1": "f4502b4ffb78847ead213b9ff06f4f18b99b0e9e",
       "format": "Metadata"
     },
     {
@@ -14117,9 +15357,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1366,
-  "item_last_updated": 1666712827,
-  "item_size": 100242413,
+  "files_count": 1486,
+  "item_last_updated": 1667232272,
+  "item_size": 109233778,
   "metadata": {
     "identifier": "amazoniaagencia-2022",
     "collection": [
@@ -14141,15 +15381,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451771522,
+      "task_id": 3457891355,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 531480269,
+  "uniq": 736256574,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

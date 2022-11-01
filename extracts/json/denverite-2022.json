@@ -1,5 +1,6 @@
 {
-  "created": 1666701614,
+  "conflict": 1667260531,
+  "created": 1667259873,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/denverite-2022",
@@ -9142,31 +9143,826 @@
       "sha1": "7765687b6685c46dd64fabb69779ccf6d6188eb3"
     },
     {
+      "name": "denverite-2022-10-25T18:03:13.202661-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666742599",
+      "size": "28812",
+      "md5": "825ec12737e03c8fbf87941fba3d4f0f",
+      "crc32": "1296ec81",
+      "sha1": "d645046431e16dbe9224a8f6513e941074397cbb",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-25T18:03:13.202661-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666742601",
+      "size": "28907",
+      "md5": "9094b13517ac05ef42bd7b2f255c9491",
+      "crc32": "96a937fe",
+      "sha1": "9b6e732856e26d03e48219abd34c94ec577650e3",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-25T18:03:13.202661-06:00.jpg",
+      "source": "original",
+      "mtime": "1666742597",
+      "size": "358790",
+      "md5": "fa9ccb592c7dd2f81fcb0dde29cac8c8",
+      "crc32": "7c19f8f3",
+      "sha1": "3763232c4346e31d6fd250e41bc47ee7f86d5768",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-25T18:03:13.202661-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666742602",
+      "size": "1450",
+      "md5": "96ea976aec78c10ff98781b48b0a2f92",
+      "crc32": "4b435dc3",
+      "sha1": "cc79b05a7214d4364d878246cc10f8a667e2d1dc",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-25T18:03:13.202661-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666742604",
+      "size": "18037",
+      "md5": "f955f96c8b83e8ab3cb55575a84aebb9",
+      "crc32": "c3954c35",
+      "sha1": "0e5a3b4b6087095e9b81b6ac727ec24283a05c6a",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-25T18:03:13.202661-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-25T18:03:13.202661-06:00.jpg",
+      "mtime": "1666745725",
+      "size": "9914",
+      "md5": "a8b7e62e49627739a9b721c68e3b2046",
+      "crc32": "ad72a0c9",
+      "sha1": "d0f884777338e995dc0f1713101a71102f6cff64"
+    },
+    {
+      "name": "denverite-2022-10-26T06:01:43.037717-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666785709",
+      "size": "29085",
+      "md5": "a4da61fa6ca48cc5fae3bbbefe5a5d12",
+      "crc32": "8c647917",
+      "sha1": "11be2a0f68e670d39799db40af18de9dbde58b41",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-26T06:01:43.037717-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666785712",
+      "size": "29121",
+      "md5": "89e4a11281ee8e7158a318e48d933425",
+      "crc32": "1b59bd90",
+      "sha1": "7485d9dd15cf0dc44ae2c454e63dd3d54671a37e",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-26T06:01:43.037717-06:00.jpg",
+      "source": "original",
+      "mtime": "1666785708",
+      "size": "358531",
+      "md5": "533ad4d28fb8c74ab7851abf034aa4ff",
+      "crc32": "e9772ea3",
+      "sha1": "a6dfc6a43a16844e1af1b26a7e0f66b2403ec111",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-26T06:01:43.037717-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666785714",
+      "size": "1450",
+      "md5": "bb9edc124fec79c1c905549ac4d8c19f",
+      "crc32": "f78212f4",
+      "sha1": "81007626e37587d908af22cc91a6b4b27184c6cb",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-26T06:01:43.037717-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666785715",
+      "size": "18290",
+      "md5": "7c077d6a67d1b29fec2f03aeaa609e4f",
+      "crc32": "01826b9f",
+      "sha1": "7ec92a8c4d454a54f3c9d3f037ec6346e440ce25",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-26T06:01:43.037717-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-26T06:01:43.037717-06:00.jpg",
+      "mtime": "1666787305",
+      "size": "9976",
+      "md5": "798dd31e4a9a990e953686147c2625de",
+      "crc32": "7d9b8880",
+      "sha1": "94e28f8ba9397074a0fa2b2f4008693651def32b"
+    },
+    {
+      "name": "denverite-2022-10-26T17:47:25.879119-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666828065",
+      "size": "28965",
+      "md5": "274cff28f237cfbf1ef00cc5762ba050",
+      "crc32": "a0498e71",
+      "sha1": "880274e6c62944479334184e0828391a3d01ffe8",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-26T17:47:25.879119-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666828067",
+      "size": "28746",
+      "md5": "1073f491b7551370db7c090fa54b7292",
+      "crc32": "160642bd",
+      "sha1": "bcc7ea6851be836aad6b869e0d842e7a214b9b95",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-26T17:47:25.879119-06:00.jpg",
+      "source": "original",
+      "mtime": "1666828063",
+      "size": "338240",
+      "md5": "af1a8c0fc08b62d4861c9f1ae53956f7",
+      "crc32": "e93162b8",
+      "sha1": "0b49d2b165dbaf2adc36419cd7d71aed514aaa28",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-26T17:47:25.879119-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666828070",
+      "size": "1449",
+      "md5": "16c78cf5cda52673262357ea94a14ed2",
+      "crc32": "76a5c2bf",
+      "sha1": "51bc6efc2e82ec12d6d8ca95c34acf3822da317d",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-26T17:47:25.879119-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666828072",
+      "size": "18100",
+      "md5": "f2a1a715a36615cbe8e4c5b928d7a8ce",
+      "crc32": "27a98233",
+      "sha1": "c6d11619abc8464db971324e0fbb2c899529357e",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-26T17:47:25.879119-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-26T17:47:25.879119-06:00.jpg",
+      "mtime": "1666854360",
+      "size": "9884",
+      "md5": "5b234d908e7a4daad6b276675b8f1ecf",
+      "crc32": "ac60faee",
+      "sha1": "d887c63d7420c6f3b0756e660ef6d42a013b3456"
+    },
+    {
+      "name": "denverite-2022-10-27T06:13:00.998442-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666872791",
+      "size": "29082",
+      "md5": "25d896d77c0268bcaa88d77bac0788a6",
+      "crc32": "96884d06",
+      "sha1": "3edff2a97517bc1f0fb1465bbbf3928720d7796b",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-27T06:13:00.998442-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666872793",
+      "size": "28958",
+      "md5": "0c76fc73414514aa7b87b6f8a33d91c0",
+      "crc32": "330fc473",
+      "sha1": "36400ae9381e4a3b074b34efcad941ee215f8e09",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-27T06:13:00.998442-06:00.jpg",
+      "source": "original",
+      "mtime": "1666872789",
+      "size": "406160",
+      "md5": "34b2e38f7ef37ad5497e225159b1b7f1",
+      "crc32": "09e37ffa",
+      "sha1": "d7a57597e5fca434b278be28f8ddf3ccc5bba5d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-27T06:13:00.998442-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666872795",
+      "size": "1449",
+      "md5": "bb2d0b612911668e2064419ab8a310d4",
+      "crc32": "a79c52c7",
+      "sha1": "122d46a0d2576ae0961d36837bdf0dfd157958df",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-27T06:13:00.998442-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666872797",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-27T06:13:00.998442-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-27T06:13:00.998442-06:00.jpg",
+      "mtime": "1666889367",
+      "size": "10242",
+      "md5": "d5299753a15f7ca4b44d5555542f8ae8",
+      "crc32": "0567062b",
+      "sha1": "dde12c07909fcd18a43f521b6a8bfd4255e9ec9e"
+    },
+    {
+      "name": "denverite-2022-10-27T17:35:59.357549-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666913786",
+      "size": "28659",
+      "md5": "798702448e63103dc8cc411f12368cda",
+      "crc32": "5ff76449",
+      "sha1": "dcf8734aa9d95d7b6e2fce9dba90126ee7a5fa8e",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-27T17:35:59.357549-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666913790",
+      "size": "28714",
+      "md5": "21827919f0fe8de9cfea56f1d7a6d5bd",
+      "crc32": "fd9efe9b",
+      "sha1": "63c7b29f8bdece519bc4b8cda4cba8ef2f8820de",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-27T17:35:59.357549-06:00.jpg",
+      "source": "original",
+      "mtime": "1666913783",
+      "size": "405805",
+      "md5": "271cc5d091c495a7ac1702a5a604aadd",
+      "crc32": "e4dc44a4",
+      "sha1": "61aa3049f82cc8774400a0b3107a794aca69ebe9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-27T17:35:59.357549-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666913792",
+      "size": "1450",
+      "md5": "68b3baef5c50937a05a08d6ad3cec717",
+      "crc32": "2048efcb",
+      "sha1": "b93581b71bdbeefe7892f3698966d002d566c04b",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-27T17:35:59.357549-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666913793",
+      "size": "202",
+      "md5": "29d7a9dfea393fec6fe499356bae21d3",
+      "crc32": "ec6352dd",
+      "sha1": "d6c2619b57fe1d229bcceb19d2960fc174b84490",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-27T17:35:59.357549-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-27T17:35:59.357549-06:00.jpg",
+      "mtime": "1666915044",
+      "size": "9959",
+      "md5": "500fe3eb4f5363e39c5a2655e146e9a7",
+      "crc32": "3dc9123a",
+      "sha1": "b51f28e497e1334d7b2ba84b81d0e05592a009da"
+    },
+    {
+      "name": "denverite-2022-10-28T05:47:59.545385-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666957690",
+      "size": "28630",
+      "md5": "22cbd3530f3cb165597c17ebc200125c",
+      "crc32": "c54ed627",
+      "sha1": "58d86ce3a67538efd985c031a3ab9e65170c550a",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-28T05:47:59.545385-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666957692",
+      "size": "28714",
+      "md5": "21827919f0fe8de9cfea56f1d7a6d5bd",
+      "crc32": "fd9efe9b",
+      "sha1": "63c7b29f8bdece519bc4b8cda4cba8ef2f8820de",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-28T05:47:59.545385-06:00.jpg",
+      "source": "original",
+      "mtime": "1666957689",
+      "size": "405917",
+      "md5": "90e0de8c2d719b491495667040bbea9a",
+      "crc32": "0ad6a49d",
+      "sha1": "eeb6ec6b93ebad1887b61bc04bd922f5cfa88671",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-28T05:47:59.545385-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666957694",
+      "size": "1449",
+      "md5": "e5a6bd16bd6e45a61abdf9343b5de4c1",
+      "crc32": "9bb8603f",
+      "sha1": "6dfae178f9c729804026af0137a466a786afa997",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-28T05:47:59.545385-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1666957695",
+      "size": "18033",
+      "md5": "97d8194bb09574c2afc7598b7a58a1bd",
+      "crc32": "71f27061",
+      "sha1": "9decc01b06e86ca1517d65426ada57cc79ebb39e",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-28T05:47:59.545385-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-28T05:47:59.545385-06:00.jpg",
+      "mtime": "1666964847",
+      "size": "9964",
+      "md5": "15d84bbb15b88167adfe9b61cd7fa85c",
+      "crc32": "8565c64e",
+      "sha1": "1ab1da115f27fbd0c7a3373ba63f8503c302ba6b"
+    },
+    {
+      "name": "denverite-2022-10-28T18:07:14.510279-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667002041",
+      "size": "28857",
+      "md5": "93ba7b26e185845b72386a704bcd9597",
+      "crc32": "617c10d9",
+      "sha1": "09f97b40fe580e5998c828dbb85b8655edc5d580",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-28T18:07:14.510279-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667002043",
+      "size": "28590",
+      "md5": "a284d42cdfd3c1653ff51bcacd13d4d6",
+      "crc32": "14886f02",
+      "sha1": "0a295cc175b59f3e120219864da775ce3582609e",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-28T18:07:14.510279-06:00.jpg",
+      "source": "original",
+      "mtime": "1667002039",
+      "size": "338002",
+      "md5": "c3bfaa1c9346ae06aa24ce344925e861",
+      "crc32": "554ee0cb",
+      "sha1": "7e14b90928a03d29d04c6773426795b69ac8a335",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-28T18:07:14.510279-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667002046",
+      "size": "1450",
+      "md5": "d38094b4adb70b6ea01fae3559c87ff7",
+      "crc32": "d6132108",
+      "sha1": "1554449d0f61ac37360a1fe4af3326789a138328",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-28T18:07:14.510279-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667002049",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-28T18:07:14.510279-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-28T18:07:14.510279-06:00.jpg",
+      "mtime": "1667003901",
+      "size": "9997",
+      "md5": "e5fb7c7c769b56aceef5dc56c7fad402",
+      "crc32": "97531c4f",
+      "sha1": "ed94c4caf542e68d412b788e1a70a44dc973b49b"
+    },
+    {
+      "name": "denverite-2022-10-29T06:02:21.269784-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667044951",
+      "size": "28619",
+      "md5": "a4db4bf5fda98845291425db6a983363",
+      "crc32": "c00b592b",
+      "sha1": "ffcacea4c571bd0a7cebf9e62af80082e18287c6",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-29T06:02:21.269784-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667044953",
+      "size": "28590",
+      "md5": "a284d42cdfd3c1653ff51bcacd13d4d6",
+      "crc32": "14886f02",
+      "sha1": "0a295cc175b59f3e120219864da775ce3582609e",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-29T06:02:21.269784-06:00.jpg",
+      "source": "original",
+      "mtime": "1667044948",
+      "size": "338002",
+      "md5": "c3bfaa1c9346ae06aa24ce344925e861",
+      "crc32": "554ee0cb",
+      "sha1": "7e14b90928a03d29d04c6773426795b69ac8a335",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-29T06:02:21.269784-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667044954",
+      "size": "1450",
+      "md5": "854d1e4732426db0f9b8d2a8bb7c34ef",
+      "crc32": "a142e2ff",
+      "sha1": "8216658f9bc2e583191434e0172717db341d8603",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-29T06:02:21.269784-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667044956",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-29T06:02:21.269784-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-29T06:02:21.269784-06:00.jpg",
+      "mtime": "1667048192",
+      "size": "9997",
+      "md5": "e5fb7c7c769b56aceef5dc56c7fad402",
+      "crc32": "97531c4f",
+      "sha1": "ed94c4caf542e68d412b788e1a70a44dc973b49b"
+    },
+    {
+      "name": "denverite-2022-10-29T17:43:16.596341-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667087006",
+      "size": "29576",
+      "md5": "b11fd9099193b6f5361bb62e5be14957",
+      "crc32": "7ba77fdd",
+      "sha1": "12ce5c7f9a4399fcc802b99c931548e41c19aed6",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-29T17:43:16.596341-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667087008",
+      "size": "28800",
+      "md5": "da11ce63caf3529c053b4f5f10ffa028",
+      "crc32": "7ba49c9f",
+      "sha1": "abc2c696b2aae293910d94d5b0d03110f366cda1",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-29T17:43:16.596341-06:00.jpg",
+      "source": "original",
+      "mtime": "1667087004",
+      "size": "330391",
+      "md5": "b6f4948aae5ef4e5d28e0d84e105e7b1",
+      "crc32": "1ee6b1ac",
+      "sha1": "f8d89ef99677b58a511b71792c34f57e0778800f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-29T17:43:16.596341-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667087009",
+      "size": "1449",
+      "md5": "5533a33a87fdfe502fd9e610460146e0",
+      "crc32": "e70dfd9c",
+      "sha1": "63aaeb199460a75668b0f3fab8ac0c81b02a7178",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-29T17:43:16.596341-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667087011",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-29T17:43:16.596341-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-29T17:43:16.596341-06:00.jpg",
+      "mtime": "1667088115",
+      "size": "9923",
+      "md5": "863b1fe6395044710867ab0f76544406",
+      "crc32": "658407d0",
+      "sha1": "b295799fcedc95ee46089907088462d8e78694a3"
+    },
+    {
+      "name": "denverite-2022-10-30T05:43:47.027277-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667130231",
+      "size": "29553",
+      "md5": "e8d0ee7466193f3c4df765e555599d99",
+      "crc32": "9018785a",
+      "sha1": "8716e6d47b8c09b8ede85f57f1d210b7d49b3d17",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-30T05:43:47.027277-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667130232",
+      "size": "28800",
+      "md5": "da11ce63caf3529c053b4f5f10ffa028",
+      "crc32": "7ba49c9f",
+      "sha1": "abc2c696b2aae293910d94d5b0d03110f366cda1",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-30T05:43:47.027277-06:00.jpg",
+      "source": "original",
+      "mtime": "1667130230",
+      "size": "330391",
+      "md5": "b6f4948aae5ef4e5d28e0d84e105e7b1",
+      "crc32": "1ee6b1ac",
+      "sha1": "f8d89ef99677b58a511b71792c34f57e0778800f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-30T05:43:47.027277-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667130234",
+      "size": "1450",
+      "md5": "5a0092228b43f85929a4f613f8166802",
+      "crc32": "850e7a57",
+      "sha1": "a78ea9544a75648f4fdb4cc337da0ab8a374cc89",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-30T05:43:47.027277-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667130235",
+      "size": "18208",
+      "md5": "5b73abb81a5a6c0fbaf0a6ca41bfe4b6",
+      "crc32": "62f0dc5e",
+      "sha1": "aa88ec1361aadf076474de5d0f52e62e1b96f9c7",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-30T05:43:47.027277-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-30T05:43:47.027277-06:00.jpg",
+      "mtime": "1667131033",
+      "size": "9923",
+      "md5": "863b1fe6395044710867ab0f76544406",
+      "crc32": "658407d0",
+      "sha1": "b295799fcedc95ee46089907088462d8e78694a3"
+    },
+    {
+      "name": "denverite-2022-10-30T17:35:48.662413-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667172956",
+      "size": "29611",
+      "md5": "06044669068fc1afdcef018bb870dbde",
+      "crc32": "690908c5",
+      "sha1": "37d633274fb695c4420f9f44c2668002c2d83090",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-30T17:35:48.662413-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667172958",
+      "size": "28733",
+      "md5": "7ba06763bce4b279c9a9594a52d75fce",
+      "crc32": "43539d62",
+      "sha1": "d6f58052a9718c22ede0781b442e1cbce28971d1",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-30T17:35:48.662413-06:00.jpg",
+      "source": "original",
+      "mtime": "1667172955",
+      "size": "351760",
+      "md5": "6d88b2800e96809c69e9804cc874419c",
+      "crc32": "2ba1b839",
+      "sha1": "9cbac67c464b4becf901fbb5a027b1158469f11b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-30T17:35:48.662413-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667172959",
+      "size": "1450",
+      "md5": "fc37a88c6cc1fb09f4b0694c1fdd71c7",
+      "crc32": "17e2a619",
+      "sha1": "1c52bcd920b5f816cf340583ef0a1996c5159511",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-30T17:35:48.662413-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667172960",
+      "size": "18385",
+      "md5": "6127a797e4197ab11be5a46c60dec4aa",
+      "crc32": "5718b6a6",
+      "sha1": "3c9d71d6ebfcd033d1d912f2246ecb6039000d43",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-30T17:35:48.662413-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-30T17:35:48.662413-06:00.jpg",
+      "mtime": "1667173332",
+      "size": "10027",
+      "md5": "b4dd65e95923b6c810c698a2a2ed24f2",
+      "crc32": "a1404b59",
+      "sha1": "56ad539bc168fa490253813de34f4b0aaa7356cf"
+    },
+    {
+      "name": "denverite-2022-10-31T05:53:24.418901-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667217210",
+      "size": "29702",
+      "md5": "89664731922bc54afffc6169fd5eb811",
+      "crc32": "cb96e7a8",
+      "sha1": "144d9ddfcf9bece104f258e199e230cf1fe60558",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-31T05:53:24.418901-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667217211",
+      "size": "29352",
+      "md5": "dcce77d9201c98769411d6a84338973d",
+      "crc32": "bace9a61",
+      "sha1": "c2545a5481409f7f4c3661dfd175fc98a74495a8",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-31T05:53:24.418901-06:00.jpg",
+      "source": "original",
+      "mtime": "1667217208",
+      "size": "362019",
+      "md5": "ae02a752511775771c39ca24274bb006",
+      "crc32": "1c2db7c1",
+      "sha1": "dafc885d8c07536afa53f84973d735c2ac990c3e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-31T05:53:24.418901-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667217213",
+      "size": "1450",
+      "md5": "025c5c9d932a28732421415480d575f9",
+      "crc32": "1374db8d",
+      "sha1": "6401384f535a0e2b9157143cc8f64e03d8e9b941",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-31T05:53:24.418901-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667217214",
+      "size": "17926",
+      "md5": "e14afaaef5eeed0a01b0949247553d30",
+      "crc32": "90a76646",
+      "sha1": "4c30e3beebeb26382ad515130501901c02eef11a",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-31T05:53:24.418901-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-31T05:53:24.418901-06:00.jpg",
+      "mtime": "1667217795",
+      "size": "10083",
+      "md5": "d1cca7c3a5741f2df8131d47e3739706",
+      "crc32": "b0ca96c3",
+      "sha1": "5af4a63818169bcd683c0144cac7809b06328a40"
+    },
+    {
+      "name": "denverite-2022-10-31T17:43:13.674906-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667259803",
+      "size": "29560",
+      "md5": "add87d17a59c8e6968cc8af5c7a6784a",
+      "crc32": "afe6dc84",
+      "sha1": "d717fc0c8c2ff8184d87c783e8f11c7eee092622",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-31T17:43:13.674906-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667259805",
+      "size": "29421",
+      "md5": "d9fce5108b3729445b7a46b9fa40b357",
+      "crc32": "327f0e65",
+      "sha1": "fe4ee826445ddf80c1919c0d9866235ba6ca762c",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-31T17:43:13.674906-06:00.jpg",
+      "source": "original",
+      "mtime": "1667259802",
+      "size": "377068",
+      "md5": "db87044125925c48b08cd31a92899e1d",
+      "crc32": "38600b0b",
+      "sha1": "7e865f1b5ba6e05e7879bf7aa2b4e876c977bffa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverite-2022-10-31T17:43:13.674906-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667259807",
+      "size": "1450",
+      "md5": "96a2a70e3b87d01962d2ff7be7f0b7f3",
+      "crc32": "f28ba653",
+      "sha1": "2515c503b16f41d25b8b51c9f9b1fd46271f5acf",
+      "format": "JSON"
+    },
+    {
+      "name": "denverite-2022-10-31T17:43:13.674906-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667259808",
+      "size": "18069",
+      "md5": "a1a54108845a7a54369ac2f4315b9727",
+      "crc32": "3b3813d8",
+      "sha1": "63a0e0bd5b95ce344c65ec3af3cf3f7a2349cd85",
+      "format": "JSON"
+    },
+    {
       "name": "denverite-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fecd9673b88ad44a4783b0e29c6713472a938a74",
-      "mtime": "1666701597",
-      "size": "188500",
-      "md5": "e86b5defcc1db2401d9b75d46000d211",
-      "crc32": "5c7fe0f8",
-      "sha1": "038e2fe67574cce7b5813d4c0dfaa09e92fb6a71",
+      "btih": "a39cb9ecfcca79ca93653d4030b3064ab7148b15",
+      "mtime": "1667259866",
+      "size": "204797",
+      "md5": "01774ccb07b4454fb6cb372d2fcd0011",
+      "crc32": "3c44ffc0",
+      "sha1": "ecff8504a1b164fb83737cd3fcf31a910c3ab9ef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverite-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a861ee90757444dddb322a651fb3bc44",
+      "md5": "05298a828d5738a75a123b02e994a8f6",
       "summation": "md5"
     },
     {
       "name": "denverite-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666699494",
-      "size": "1138688",
-      "md5": "5ac4559de445bad5583b0d5deca10cab",
-      "crc32": "1063a458",
-      "sha1": "20bef61c686cffc17a24ced836ae347b12c3adbf",
+      "mtime": "1667259817",
+      "size": "1236992",
+      "md5": "408642392ea6534d06d1ee31ea405c88",
+      "crc32": "8e5b3b64",
+      "sha1": "f8dd63559682be48e2c462c9ebd620e13208039c",
       "format": "Metadata"
     },
     {
@@ -9180,9 +9976,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 888,
-  "item_last_updated": 1666701597,
-  "item_size": 65954788,
+  "files_count": 965,
+  "item_last_updated": 1667259866,
+  "item_size": 71809415,
   "metadata": {
     "identifier": "denverite-2022",
     "collection": [
@@ -9199,10 +9995,21 @@
     "publicdate": "2022-08-13 23:53:15",
     "addeddate": "2022-08-13 23:53:15"
   },
-  "server": "ia601400.us.archive.org",
-  "uniq": 1133311108,
+  "pending_tasks": true,
+  "server": "ia801400.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458247464,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1504353296,
   "workable_servers": [
-    "ia601400.us.archive.org",
     "ia801400.us.archive.org"
   ]
 }

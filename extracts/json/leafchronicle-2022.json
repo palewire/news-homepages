@@ -1,5 +1,6 @@
 {
-  "created": 1666703017,
+  "conflict": 1667221577,
+  "created": 1667221577,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/5/items/leafchronicle-2022",
@@ -4407,31 +4408,781 @@
       "format": "JSON"
     },
     {
+      "name": "leafchronicle-2022-10-25T08:02:34.388210-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-25T08:02:34.388210-05:00.jpg",
+      "mtime": "1666705426",
+      "size": "9069",
+      "md5": "da6d3113b172a88d1b6652dd212129e7",
+      "crc32": "648bed32",
+      "sha1": "190351d13bb6a4259a72e47647c9bea9eb345c3d"
+    },
+    {
+      "name": "leafchronicle-2022-10-25T20:32:04.637111-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666747928",
+      "size": "20893",
+      "md5": "0a95a15c95f43919b9dadfac187afe48",
+      "crc32": "bafb177f",
+      "sha1": "df9237ff091a82ffdeac7452a886b8e5be850c14",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-25T20:32:04.637111-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666747930",
+      "size": "36321",
+      "md5": "4d874404deac1a1aa8248d9c6ac20a9d",
+      "crc32": "f08dbfbd",
+      "sha1": "69442464d0262c6417fe3328da82bd2eebbab7bd",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-25T20:32:04.637111-05:00.jpg",
+      "source": "original",
+      "mtime": "1666747926",
+      "size": "224412",
+      "md5": "029a8cc955aeb8409eef932151a4bd40",
+      "crc32": "3f6ff8d4",
+      "sha1": "fdc80eddbc01022f9e3f7e84f403c71314027c4c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-25T20:32:04.637111-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666747933",
+      "size": "1548",
+      "md5": "98fa1383bc61f40e269cfaf633ae0690",
+      "crc32": "1fbf00c3",
+      "sha1": "c92dd8fbcb1cf2496d2aba3edb41a6224be362a6",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-25T20:32:04.637111-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666747935",
+      "size": "125697",
+      "md5": "af2630b9ec7fab7013595a4ee11bc839",
+      "crc32": "709fe141",
+      "sha1": "7318924a1be1a06a70c3a38fb9d936af9db6c6f2",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-25T20:32:04.637111-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-25T20:32:04.637111-05:00.jpg",
+      "mtime": "1666749608",
+      "size": "9075",
+      "md5": "016a386311b1a9ddd071d4cc3ad5455d",
+      "crc32": "82d46e6a",
+      "sha1": "e47950fc20951a49d7126df0e5db898b10ec4fa4"
+    },
+    {
+      "name": "leafchronicle-2022-10-26T08:05:08.404832-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666789522",
+      "size": "19959",
+      "md5": "3b0332aa79c62d53205fd0b0b381eea8",
+      "crc32": "0052121a",
+      "sha1": "aa88e05b416b8abdf4863260323772845d1ee2af",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-26T08:05:08.404832-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666789525",
+      "size": "32029",
+      "md5": "907d748fcb3ec42d6889abfb8ab0f415",
+      "crc32": "5a62e31a",
+      "sha1": "a7a5a059cd585b4a855b4f1cf33911b0384de8cc",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-26T08:05:08.404832-05:00.jpg",
+      "source": "original",
+      "mtime": "1666789521",
+      "size": "249217",
+      "md5": "1958eaac2f601e01d16e59479afc3d4d",
+      "crc32": "4ab553e1",
+      "sha1": "780c089612f306c944b78f73f87b20a5169c3e1b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-26T08:05:08.404832-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666789527",
+      "size": "1548",
+      "md5": "85750a8d5666349bd1bd7cd55978b88d",
+      "crc32": "661f8555",
+      "sha1": "3af48dd76cfb80c4c21300417f0a3642b7c3c381",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-26T08:05:08.404832-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666789529",
+      "size": "91550",
+      "md5": "da758a294d4c1ff430f6c5f65e685a03",
+      "crc32": "a73b005b",
+      "sha1": "91039a88003c7ae9aee9f477c70cfd3b515c8b11",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-26T08:05:08.404832-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-26T08:05:08.404832-05:00.jpg",
+      "mtime": "1666790869",
+      "size": "8901",
+      "md5": "94b536d1f900be260340a553d7d5dcc8",
+      "crc32": "8d820ece",
+      "sha1": "88bab3b6608c6b40680bb88aee8c2e9d840bb524"
+    },
+    {
+      "name": "leafchronicle-2022-10-26T20:25:28.192872-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666833932",
+      "size": "20015",
+      "md5": "e84b7f9d2c2dcbd6e387e4b4b8aef29f",
+      "crc32": "18991916",
+      "sha1": "b518305e3c173d437033aa38308c34dbc66dd67c",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-26T20:25:28.192872-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666833933",
+      "size": "31372",
+      "md5": "9c4f1c58cef4b643b1376d76076a4b66",
+      "crc32": "31f4e895",
+      "sha1": "aa9a4a85ade945847d2488f277c2929b7c71d3bc",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-26T20:25:28.192872-05:00.jpg",
+      "source": "original",
+      "mtime": "1666833929",
+      "size": "244448",
+      "md5": "f163bad19456f7b38a712e259418f2f5",
+      "crc32": "a96e3f64",
+      "sha1": "76be369c583b0d70aeb3dcf61eab0ec75905159b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-26T20:25:28.192872-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666833936",
+      "size": "1549",
+      "md5": "ecfc4e34b46032607e840d8798d4ef7b",
+      "crc32": "f4e69fd8",
+      "sha1": "90fb7cc78ea5680173d94ee4f915c6cac23c7491",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-26T20:25:28.192872-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666833940",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-26T20:25:28.192872-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-26T20:25:28.192872-05:00.jpg",
+      "mtime": "1666858147",
+      "size": "8959",
+      "md5": "b52f878645765e10a1b60e2be507238c",
+      "crc32": "f7901194",
+      "sha1": "20675917e710c4308b356b701a4e54f59f5316be"
+    },
+    {
+      "name": "leafchronicle-2022-10-27T08:20:07.046848-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666876810",
+      "size": "19635",
+      "md5": "2f1d41eb4b7a06627515b1564ed5a66f",
+      "crc32": "0d64c5f6",
+      "sha1": "8cec46efcc62e2d48678001d15a5af7122051ae7",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-27T08:20:07.046848-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666876812",
+      "size": "35562",
+      "md5": "1c7e4a31e65a8ac516e0d6d0970bc04a",
+      "crc32": "ee1b4a9e",
+      "sha1": "2ba70fb378c946e04bb1f2af1e50f8ed3e93b81a",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-27T08:20:07.046848-05:00.jpg",
+      "source": "original",
+      "mtime": "1666876808",
+      "size": "242329",
+      "md5": "f482969a30802861a61dbcf0189dee9c",
+      "crc32": "1a96406b",
+      "sha1": "983ea4f949cc38d2f88ad344865aa9ff1f563e76",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-27T08:20:07.046848-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666876813",
+      "size": "1549",
+      "md5": "f887a6a10159cc486b9b6748c82b4082",
+      "crc32": "a14f24ff",
+      "sha1": "1d5f8e4b5c2218ab85ae26e51eb30acfaa992ed8",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-27T08:20:07.046848-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666876815",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-27T08:20:07.046848-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-27T08:20:07.046848-05:00.jpg",
+      "mtime": "1666891619",
+      "size": "9111",
+      "md5": "e616343fca228ac6e0dec448daacf11e",
+      "crc32": "4c77799c",
+      "sha1": "2ecb4c57de217e622403726f08e8d77f9a2b162f"
+    },
+    {
+      "name": "leafchronicle-2022-10-27T20:22:51.448212-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666920174",
+      "size": "20108",
+      "md5": "6e061c19ae91be52b273bce1bf73e6e8",
+      "crc32": "f34fc54c",
+      "sha1": "953db39dc22ef7cec4a84df6bf1559b7bada6d98",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-27T20:22:51.448212-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666920175",
+      "size": "33005",
+      "md5": "0c21023d6cfde6eceeec247564c81bcf",
+      "crc32": "4463d7e7",
+      "sha1": "3b29f062cb5cbd289ea568d51b45437a6abd2e24",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-27T20:22:51.448212-05:00.jpg",
+      "source": "original",
+      "mtime": "1666920172",
+      "size": "244185",
+      "md5": "e8554cb55dbb71f1aa5c199439e22f27",
+      "crc32": "85d97932",
+      "sha1": "5d48a99eb2f8cad7a951c1c1ab269eb0d8c37822",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-27T20:22:51.448212-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666920176",
+      "size": "1549",
+      "md5": "74708b35698b093503c1795231ddccf3",
+      "crc32": "1c0e366f",
+      "sha1": "e3a9208f95ee399cf87c92377a06f7ed93226e29",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-27T20:22:51.448212-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666920178",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-27T20:22:51.448212-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-27T20:22:51.448212-05:00.jpg",
+      "mtime": "1666922241",
+      "size": "9297",
+      "md5": "c3be0cdb95ef626824b9ddae70d43a4d",
+      "crc32": "069faf4f",
+      "sha1": "1e8236f6957b6861cf93a952de2de1bf8714b4cc"
+    },
+    {
+      "name": "leafchronicle-2022-10-28T08:03:39.442802-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666962223",
+      "size": "20856",
+      "md5": "ccad0a9acb62e5881a9c37e7da504210",
+      "crc32": "d2d38923",
+      "sha1": "3071005f1f41c5453920e6f0c1f5f52442eda78e",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-28T08:03:39.442802-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666962224",
+      "size": "34331",
+      "md5": "9349fa89eba4adebc714fc69c81b41e2",
+      "crc32": "8bc8a389",
+      "sha1": "52421efce130507c7b3700626a7117670844f480",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-28T08:03:39.442802-05:00.jpg",
+      "source": "original",
+      "mtime": "1666962221",
+      "size": "231357",
+      "md5": "5d56e84e37f00647b54fe52de7d27a98",
+      "crc32": "ede8d0d2",
+      "sha1": "15f9a4fe98d59f48e2346887a96da998bb5d53c6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-28T08:03:39.442802-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666962229",
+      "size": "1549",
+      "md5": "023fa2224204a71b11991805ce0b4d2e",
+      "crc32": "0cc042a9",
+      "sha1": "ce0bf682e6d287a4cefc0371f9e7748b6a244223",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-28T08:03:39.442802-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666962230",
+      "size": "80716",
+      "md5": "9fa5ea14de11708770d7206e7f2a25bb",
+      "crc32": "cd145644",
+      "sha1": "ffe8758f1ac357f77669940be9ab95a92f8725e6",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-28T08:03:39.442802-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-28T08:03:39.442802-05:00.jpg",
+      "mtime": "1666968241",
+      "size": "9003",
+      "md5": "a4cc6aa6281c52711ebb430fb08c4fca",
+      "crc32": "8e522e11",
+      "sha1": "a31d6e4e9febf8d1f6bff6d278e2c0f3057dddb5"
+    },
+    {
+      "name": "leafchronicle-2022-10-28T20:24:21.488780-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667006664",
+      "size": "20221",
+      "md5": "e905319d7d65388eff6885e6ac08a4aa",
+      "crc32": "d2469856",
+      "sha1": "33b4a34dba624b3a40c6f81d4fed0d61fe6f09ca",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-28T20:24:21.488780-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667006666",
+      "size": "33581",
+      "md5": "e367d8af3931defd03400f5d8519119a",
+      "crc32": "bf9b9836",
+      "sha1": "9c2b131f1f5396436989ff639dfa7a862c1ad3a0",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-28T20:24:21.488780-05:00.jpg",
+      "source": "original",
+      "mtime": "1667006663",
+      "size": "248000",
+      "md5": "0ef392490d207f8edafdb7f16a72b9de",
+      "crc32": "849f5795",
+      "sha1": "516c975bec99ecde3380dbec5cf3d73096702234",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-28T20:24:21.488780-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667006668",
+      "size": "1549",
+      "md5": "7c8dbe951da09d13b2625f2d1db4419e",
+      "crc32": "805d02d0",
+      "sha1": "0094ece8d415a673d87fd8cb7fa1a8b71c758800",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-28T20:24:21.488780-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667006670",
+      "size": "213",
+      "md5": "80ff2806d9e8437e384f156d8ef0c3c6",
+      "crc32": "6248836f",
+      "sha1": "ba8c28c5024a1c36eab4a0713c94dfd45da50f18",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-28T20:24:21.488780-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-28T20:24:21.488780-05:00.jpg",
+      "mtime": "1667007513",
+      "size": "9363",
+      "md5": "e54d1a5c254b8a1f3ff0ad2c9c474b02",
+      "crc32": "0d12c5b7",
+      "sha1": "097b4fe51d2a45e414f6697ff31c1a325b52bba6"
+    },
+    {
+      "name": "leafchronicle-2022-10-29T07:55:26.493296-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667048129",
+      "size": "20097",
+      "md5": "2499b9cb1adf31e7f2e78c7f17188618",
+      "crc32": "d6868d41",
+      "sha1": "7b62aa93fa3e4129f93b8ea156feeef3b5a66c7c",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-29T07:55:26.493296-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667048131",
+      "size": "38738",
+      "md5": "576d9946d9ce31f16e1e1c924bc8660e",
+      "crc32": "c9c306a5",
+      "sha1": "654c854c737aee0bfbb6f7d632311874a5c38a27",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-29T07:55:26.493296-05:00.jpg",
+      "source": "original",
+      "mtime": "1667048128",
+      "size": "242607",
+      "md5": "b577efacabe9c3baf88d15e8996d204d",
+      "crc32": "ae96b079",
+      "sha1": "093a6e4e993920ad4e3006d04947e1a35395eea4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-29T07:55:26.493296-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667048133",
+      "size": "1549",
+      "md5": "f2e760333663b9ded961369f268f7b89",
+      "crc32": "873fcb57",
+      "sha1": "ba8d6d0a2611879cf09599d3b0ba99a11f4fd134",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-29T07:55:26.493296-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667048135",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-29T07:55:26.493296-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-29T07:55:26.493296-05:00.jpg",
+      "mtime": "1667051187",
+      "size": "9301",
+      "md5": "27bedc0f82d4fbe743f880bb9d0bf93a",
+      "crc32": "f6112960",
+      "sha1": "997345e41747b8a1574e2d2c8c8536520021e324"
+    },
+    {
+      "name": "leafchronicle-2022-10-29T20:06:28.533032-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667091994",
+      "size": "20680",
+      "md5": "6ead533e12d3f1d7d724517ed4b40003",
+      "crc32": "62914f63",
+      "sha1": "7d3f6266dfee434a0bba9846d429ff47f5337af6",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-29T20:06:28.533032-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667091996",
+      "size": "33683",
+      "md5": "3f1abed1445d628e0d766f9df69f36b5",
+      "crc32": "97c3bb4a",
+      "sha1": "9a5fad6d4ab46aab8af3dc36ef7a7fe646b7e9ec",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-29T20:06:28.533032-05:00.jpg",
+      "source": "original",
+      "mtime": "1667091992",
+      "size": "255457",
+      "md5": "fc0e2d0b9621b6eed8328aeef579a220",
+      "crc32": "b62c5f85",
+      "sha1": "bfc17812907d38855958b892f198fa0eb377b6d8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-29T20:06:28.533032-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667091997",
+      "size": "1549",
+      "md5": "0fa3f7d191c98cf77322a2eb98af8952",
+      "crc32": "d2993f3e",
+      "sha1": "b45509eed6a247f7851618a7cf7fff53e02202f1",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-29T20:06:28.533032-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667091999",
+      "size": "83403",
+      "md5": "1357d5119a508f4daf56518d00f85047",
+      "crc32": "c0334b11",
+      "sha1": "0d5c3dec4c3221d523ae1cc594b83d6363b0142d",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-29T20:06:28.533032-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-29T20:06:28.533032-05:00.jpg",
+      "mtime": "1667092907",
+      "size": "9634",
+      "md5": "af37d126c2866dc5ffaea4a5ee119d71",
+      "crc32": "5c03749f",
+      "sha1": "87c83a5e3eb6aa6a762d3a017dd6c34d0dc30ae2"
+    },
+    {
+      "name": "leafchronicle-2022-10-30T07:51:30.718994-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667134300",
+      "size": "20482",
+      "md5": "295a75054ac5aa18ad06ed8d5b87b513",
+      "crc32": "f9e5d87e",
+      "sha1": "76ddc8141fc1c829535347a42fb9fa10fc7f0dd6",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-30T07:51:30.718994-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667134302",
+      "size": "39447",
+      "md5": "90d2f3f11d16858eae91e69952012473",
+      "crc32": "f83aca85",
+      "sha1": "3b3f31340397df3883132cb384f7ec6545d61af0",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-30T07:51:30.718994-05:00.jpg",
+      "source": "original",
+      "mtime": "1667134299",
+      "size": "252710",
+      "md5": "8ea854f6eb040322fc7edb802476c7e7",
+      "crc32": "bce056a8",
+      "sha1": "32a3d101d9bb962ccb8b1557558413a5bd848a2a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-30T07:51:30.718994-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667134303",
+      "size": "1549",
+      "md5": "ad156f131949a678705f7929ff37f421",
+      "crc32": "5ec91d4e",
+      "sha1": "ee450cd9b25daffae6a4b85ddc9aaac18a573925",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-30T07:51:30.718994-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667134305",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-30T07:51:30.718994-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-30T07:51:30.718994-05:00.jpg",
+      "mtime": "1667135488",
+      "size": "9028",
+      "md5": "75acf663b96bebbae9f258f6e4e42d9d",
+      "crc32": "b39ed3ea",
+      "sha1": "f1e915a7d5f225ee697f3f08c0a75e910d484e7e"
+    },
+    {
+      "name": "leafchronicle-2022-10-30T20:11:14.297066-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667178679",
+      "size": "19804",
+      "md5": "7ccb386638e2df913c40cd68508e4b43",
+      "crc32": "abc6542c",
+      "sha1": "e25f26070e90fbf23e3c892cb3b8419f6af85846",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-30T20:11:14.297066-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667178681",
+      "size": "37009",
+      "md5": "1fd6418bb22c8a1f21e5072f27cc96e9",
+      "crc32": "4943c3d7",
+      "sha1": "07321f3be2fec86ecfc8489d0aa074eba499e54f",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-30T20:11:14.297066-05:00.jpg",
+      "source": "original",
+      "mtime": "1667178677",
+      "size": "251164",
+      "md5": "1b5caff85996cb4c2ba73c9b22ca9e95",
+      "crc32": "3deffca9",
+      "sha1": "dca1faf97bb9a42e892b0dbf131c8f5213dbaf98",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-30T20:11:14.297066-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667178682",
+      "size": "1549",
+      "md5": "fa7dedae022f93c29b62dd765ed21f9a",
+      "crc32": "043997e8",
+      "sha1": "1153587c57de544f7f3c1d699def2576ec4ddeea",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-30T20:11:14.297066-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667178684",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-30T20:11:14.297066-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-30T20:11:14.297066-05:00.jpg",
+      "mtime": "1667179354",
+      "size": "9036",
+      "md5": "e69dd912846293c97e7f0ae04172e0ed",
+      "crc32": "8632848f",
+      "sha1": "bfdbcaaa0c0b98a042c765e98e299a3c713a56d7"
+    },
+    {
+      "name": "leafchronicle-2022-10-31T07:54:31.971076-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667220879",
+      "size": "21020",
+      "md5": "d932b63b6b37ec3294e6c65c8e384af0",
+      "crc32": "091a0aec",
+      "sha1": "c328ec16ec449531eb039b9feab92c51881833f8",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-31T07:54:31.971076-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667220881",
+      "size": "44028",
+      "md5": "7a6d71bd53601851cff29714604d2448",
+      "crc32": "4c36c629",
+      "sha1": "6a261b601194b4497ec143ee275e8598155d83e1",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-31T07:54:31.971076-05:00.jpg",
+      "source": "original",
+      "mtime": "1667220877",
+      "size": "261829",
+      "md5": "5afdeb443729193d303c5d2dd5451977",
+      "crc32": "d89ec5be",
+      "sha1": "36d7af06fd7e7f7b8a9194c1675903485d88b845",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "leafchronicle-2022-10-31T07:54:31.971076-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667220882",
+      "size": "1548",
+      "md5": "d6686f2a42079ee751d7598917a5d426",
+      "crc32": "7d143746",
+      "sha1": "31360ff14e106db566295c021eb02ec5c3ca67aa",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-31T07:54:31.971076-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667220884",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "leafchronicle-2022-10-31T07:54:31.971076-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "leafchronicle-2022-10-31T07:54:31.971076-05:00.jpg"
+    },
+    {
       "name": "leafchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1081f954b22a2716c09efaff89f572c428e2d4db",
-      "mtime": "1666703012",
-      "size": "93185",
-      "md5": "8f42118a169d2ec780bc5b65f663cf13",
-      "crc32": "6a609cd5",
-      "sha1": "9f8999f8b079b36db47a598e16f3bfb80a26a210",
+      "btih": "8653ace5952bbac0b3cc1395c71e1837e9676efe",
+      "mtime": "1667220927",
+      "size": "108654",
+      "md5": "08d6bfb6e648e10e21a5aca0677c9eb8",
+      "crc32": "66d00e4f",
+      "sha1": "35e59db3debfdbea0f5d049d9861110a0b415219",
       "format": "Archive BitTorrent"
     },
     {
       "name": "leafchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4a296df7fd034e6f2b68bfa97a4456be",
+      "md5": "788fb737fc70feb97eef20985f5f1370",
       "summation": "md5"
     },
     {
       "name": "leafchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666702972",
-      "size": "569344",
-      "md5": "a53ca603fd0538a0b4791aa8337faeb8",
-      "crc32": "81169f5b",
-      "sha1": "f42946e1708ea0b1cbf61eadfd242abff170be3c",
+      "mtime": "1667220888",
+      "size": "659456",
+      "md5": "35deafeedf94ab65b7a49f5378fb9970",
+      "crc32": "1fa8c695",
+      "sha1": "0e9ef5b199106c19d5e06a526fc86900c1f4c63c",
       "format": "Metadata"
     },
     {
@@ -4445,9 +5196,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 430,
-  "item_last_updated": 1666703012,
-  "item_size": 28451287,
+  "files_count": 503,
+  "item_last_updated": 1667220927,
+  "item_size": 32688814,
   "metadata": {
     "identifier": "leafchronicle-2022",
     "collection": [
@@ -4469,15 +5220,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451669619,
+      "task_id": 3457783099,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 299694266,
+  "uniq": 515919068,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

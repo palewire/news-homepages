@@ -1,5 +1,5 @@
 {
-  "created": 1666723681,
+  "created": 1667245090,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/22/items/prisonjourn-2022",
@@ -7416,31 +7416,775 @@
       "sha1": "e4d61c535fd32f824b0c884f8b9ba7f3635d4cf4"
     },
     {
+      "name": "prisonjourn-2022-10-26T03:18:50.150561-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772336",
+      "size": "17358",
+      "md5": "5a7373eaeb2c38e1ced8b5127144391d",
+      "crc32": "8c6ea5a6",
+      "sha1": "0eb827429058aa8090983613c21fb4e3c2bed5b2",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-26T03:18:50.150561-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772337",
+      "size": "27759",
+      "md5": "f8c450b376393619cb3583b43210aab0",
+      "crc32": "98d27d99",
+      "sha1": "f422069484a3e2d73c9eec43058282da81cf250d",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-26T03:18:50.150561-05:00.jpg",
+      "source": "original",
+      "mtime": "1666772334",
+      "size": "225023",
+      "md5": "0d25ffd4790b48c0ad507a7447f6bfa3",
+      "crc32": "65d64c0c",
+      "sha1": "fd60398cbd6b813883d77ca82dee0f804b2c4253",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-26T03:18:50.150561-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772339",
+      "size": "1567",
+      "md5": "8a09671681ffbbd052a339011c069cda",
+      "crc32": "d996b32f",
+      "sha1": "aabc1e455181098b5b403f2ea11168a82c49c8bf",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-26T03:18:50.150561-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772341",
+      "size": "216",
+      "md5": "d8f3211423e3959f8d1ecccc8c066ec1",
+      "crc32": "71949cfa",
+      "sha1": "dea7a3169b270dd287e0ffca5739c967afb33c86",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-26T03:18:50.150561-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-26T03:18:50.150561-05:00.jpg",
+      "mtime": "1666773540",
+      "size": "9373",
+      "md5": "19be0e70691026c8eb6741ce7111c473",
+      "crc32": "42e378bd",
+      "sha1": "e4d61c535fd32f824b0c884f8b9ba7f3635d4cf4"
+    },
+    {
+      "name": "prisonjourn-2022-10-26T15:46:42.255675-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666817228",
+      "size": "17420",
+      "md5": "527123564ce2903b673fa901fb33a475",
+      "crc32": "199e9694",
+      "sha1": "e997fd02b10a5b6c3acb43e0e865b76f89b12fc3",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-26T15:46:42.255675-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666817231",
+      "size": "27771",
+      "md5": "6828bbad498cf186790c779a3fb9c330",
+      "crc32": "2e03bef7",
+      "sha1": "23fc73019ca904466287cbfb477d73eaea98ff10",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-26T15:46:42.255675-05:00.jpg",
+      "source": "original",
+      "mtime": "1666817226",
+      "size": "210012",
+      "md5": "2ad1002f4142cc4de510e7d441086e3a",
+      "crc32": "6aab00dc",
+      "sha1": "92839ebd722af7e0dde106443c45cd00a98a1120",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-26T15:46:42.255675-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666817235",
+      "size": "1566",
+      "md5": "ca1501dcd2346812278f6ff45833b11e",
+      "crc32": "6b3a6c89",
+      "sha1": "0be1e5fd4ec491e74a23e77a532557cf0a493f66",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-26T15:46:42.255675-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666817238",
+      "size": "18454",
+      "md5": "c475119b4ccaa809e449e2a0a747916e",
+      "crc32": "6eba9a2d",
+      "sha1": "994ec6e07bc15813a793166628ff89fbbd44d8c4",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-26T15:46:42.255675-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-26T15:46:42.255675-05:00.jpg",
+      "mtime": "1666836538",
+      "size": "9554",
+      "md5": "73aa826953ff23e1c2bf1d8f234b9873",
+      "crc32": "0b56d965",
+      "sha1": "149f3ecd35714d004e631d086fcf8be8f07aaec0"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T02:25:09.782835-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855513",
+      "size": "17420",
+      "md5": "527123564ce2903b673fa901fb33a475",
+      "crc32": "199e9694",
+      "sha1": "e997fd02b10a5b6c3acb43e0e865b76f89b12fc3",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T02:25:09.782835-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855515",
+      "size": "27771",
+      "md5": "6828bbad498cf186790c779a3fb9c330",
+      "crc32": "2e03bef7",
+      "sha1": "23fc73019ca904466287cbfb477d73eaea98ff10",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T02:25:09.782835-05:00.jpg",
+      "source": "original",
+      "mtime": "1666855511",
+      "size": "210012",
+      "md5": "2ad1002f4142cc4de510e7d441086e3a",
+      "crc32": "6aab00dc",
+      "sha1": "92839ebd722af7e0dde106443c45cd00a98a1120",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T02:25:09.782835-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855517",
+      "size": "1566",
+      "md5": "0f07c04d99fa66845008f4fe7a564102",
+      "crc32": "6400fca5",
+      "sha1": "12ad3a8473d14429b2055d3a1d10c37be3e125cd",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T02:25:09.782835-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855519",
+      "size": "18572",
+      "md5": "c55be9cd38b6d3af605d12a1cd9a24c7",
+      "crc32": "ca7be96e",
+      "sha1": "db470e0f70ec64e27685c6d61fae48efcaeb6d6f",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T02:25:09.782835-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-27T02:25:09.782835-05:00.jpg",
+      "mtime": "1666878252",
+      "size": "9554",
+      "md5": "73aa826953ff23e1c2bf1d8f234b9873",
+      "crc32": "0b56d965",
+      "sha1": "149f3ecd35714d004e631d086fcf8be8f07aaec0"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T14:24:19.804549-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898669",
+      "size": "17576",
+      "md5": "8e4e8e2bc57abbe2cc110e487c65d688",
+      "crc32": "3ffd90bb",
+      "sha1": "1a0fb9367d289a1b3c818dcec9da583e8b116e58",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T14:24:19.804549-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898671",
+      "size": "27796",
+      "md5": "ca6560eab1fcf209b789f09c335c4bf4",
+      "crc32": "7d4e37fb",
+      "sha1": "0fccd046dfe04248c07100edac45e47fe10fb074",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T14:24:19.804549-05:00.jpg",
+      "source": "original",
+      "mtime": "1666898667",
+      "size": "230173",
+      "md5": "f9f154e31f94615468e9fb270bf5a226",
+      "crc32": "bfed7d38",
+      "sha1": "0a5369c061f295d38c4d2b84de07eff61105813c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T14:24:19.804549-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898676",
+      "size": "1567",
+      "md5": "a84a17ee5002339e342de196d9910312",
+      "crc32": "3c5e56f4",
+      "sha1": "6ef0e4ffdc6cd9334bd61f32c9893197064f07a1",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T14:24:19.804549-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898677",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-27T14:24:19.804549-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-27T14:24:19.804549-05:00.jpg",
+      "mtime": "1666906565",
+      "size": "9144",
+      "md5": "10a3e38bf4e608af598d6db003767ce1",
+      "crc32": "fa60325f",
+      "sha1": "73535e5cc5cae7b4b845943424a9c2399b26865c"
+    },
+    {
+      "name": "prisonjourn-2022-10-28T03:46:42.983272-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946807",
+      "size": "17576",
+      "md5": "8e4e8e2bc57abbe2cc110e487c65d688",
+      "crc32": "3ffd90bb",
+      "sha1": "1a0fb9367d289a1b3c818dcec9da583e8b116e58",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-28T03:46:42.983272-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946808",
+      "size": "27796",
+      "md5": "ca6560eab1fcf209b789f09c335c4bf4",
+      "crc32": "7d4e37fb",
+      "sha1": "0fccd046dfe04248c07100edac45e47fe10fb074",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-28T03:46:42.983272-05:00.jpg",
+      "source": "original",
+      "mtime": "1666946804",
+      "size": "230173",
+      "md5": "f9f154e31f94615468e9fb270bf5a226",
+      "crc32": "bfed7d38",
+      "sha1": "0a5369c061f295d38c4d2b84de07eff61105813c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-28T03:46:42.983272-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946810",
+      "size": "1567",
+      "md5": "c7f329103c8950fe7f606b92b743bb01",
+      "crc32": "7be5f9e6",
+      "sha1": "d6bc06b23fa64a4b489572a1b4c464b78715dc3e",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-28T03:46:42.983272-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946811",
+      "size": "18592",
+      "md5": "2acb8e6791a1430c097d422ebdf06524",
+      "crc32": "cd2d30ba",
+      "sha1": "cdfd602d89009ada80db2848c84548c7ad29a26f",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-28T03:46:42.983272-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-28T03:46:42.983272-05:00.jpg",
+      "mtime": "1666951456",
+      "size": "9144",
+      "md5": "10a3e38bf4e608af598d6db003767ce1",
+      "crc32": "fa60325f",
+      "sha1": "73535e5cc5cae7b4b845943424a9c2399b26865c"
+    },
+    {
+      "name": "prisonjourn-2022-10-28T13:28:59.364521-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666981743",
+      "size": "17401",
+      "md5": "9f1becca4ee1f1e834fab43c5af159d5",
+      "crc32": "62881a51",
+      "sha1": "e95f8d64038d91bbaf8b2286e833d7d8291fed23",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-28T13:28:59.364521-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666981745",
+      "size": "27791",
+      "md5": "2f7c961597d7aa970753615a2bde8848",
+      "crc32": "f934013c",
+      "sha1": "4e309e7ba763e360e5f914fcbc6e576b6999a6e6",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-28T13:28:59.364521-05:00.jpg",
+      "source": "original",
+      "mtime": "1666981741",
+      "size": "214432",
+      "md5": "99def21b1ab2c57bd6206482acd125e1",
+      "crc32": "d8dce4b7",
+      "sha1": "3a931c39f47681039a2304f5b14fd7dc8376f4cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-28T13:28:59.364521-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666981746",
+      "size": "1566",
+      "md5": "5704bc77c11db30dccb383b4f6b25a73",
+      "crc32": "055309b0",
+      "sha1": "9288e2730e31759f561bfbd5b0c9eb30372a0dcd",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-28T13:28:59.364521-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666981748",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-28T13:28:59.364521-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-28T13:28:59.364521-05:00.jpg",
+      "mtime": "1666984300",
+      "size": "8977",
+      "md5": "5f19a0eaf57b6ac7fce10ca63c6671c0",
+      "crc32": "4474d0e8",
+      "sha1": "f940471ebcf5fd40383db12733bb738e3be35c5f"
+    },
+    {
+      "name": "prisonjourn-2022-10-29T01:46:32.698675-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025996",
+      "size": "17401",
+      "md5": "9f1becca4ee1f1e834fab43c5af159d5",
+      "crc32": "62881a51",
+      "sha1": "e95f8d64038d91bbaf8b2286e833d7d8291fed23",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-29T01:46:32.698675-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025997",
+      "size": "27791",
+      "md5": "2f7c961597d7aa970753615a2bde8848",
+      "crc32": "f934013c",
+      "sha1": "4e309e7ba763e360e5f914fcbc6e576b6999a6e6",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-29T01:46:32.698675-05:00.jpg",
+      "source": "original",
+      "mtime": "1667025994",
+      "size": "214432",
+      "md5": "99def21b1ab2c57bd6206482acd125e1",
+      "crc32": "d8dce4b7",
+      "sha1": "3a931c39f47681039a2304f5b14fd7dc8376f4cb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-29T01:46:32.698675-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025999",
+      "size": "1567",
+      "md5": "01ac25562464d2baea5a1464e1da1a7d",
+      "crc32": "68f576b6",
+      "sha1": "6d92f2f53128c4b564a15d3eb1f6fb70938a6513",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-29T01:46:32.698675-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667026000",
+      "size": "277",
+      "md5": "7abf84a7a05cade6f4a24bc150206666",
+      "crc32": "356d1091",
+      "sha1": "3d48865a05c07e13de0fec0629bf13ab39765331",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-29T01:46:32.698675-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-29T01:46:32.698675-05:00.jpg",
+      "mtime": "1667027749",
+      "size": "8977",
+      "md5": "5f19a0eaf57b6ac7fce10ca63c6671c0",
+      "crc32": "4474d0e8",
+      "sha1": "f940471ebcf5fd40383db12733bb738e3be35c5f"
+    },
+    {
+      "name": "prisonjourn-2022-10-29T14:33:47.361885-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667072037",
+      "size": "17425",
+      "md5": "4283c336ccb75bea8237b139a71ab35b",
+      "crc32": "2e1e0d78",
+      "sha1": "19c72d12b4e57dd5a51b9224533425f5b4a3a874",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-29T14:33:47.361885-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667072038",
+      "size": "27768",
+      "md5": "733c042e31e4fa5016c745947b10a131",
+      "crc32": "0e80e73c",
+      "sha1": "d0a8521101eae243c6d08e3c58dc45aab47e7bcd",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-29T14:33:47.361885-05:00.jpg",
+      "source": "original",
+      "mtime": "1667072035",
+      "size": "270549",
+      "md5": "6e0dc2f0af88d557ee2bdfb8c5cd3121",
+      "crc32": "1e4f4bed",
+      "sha1": "7ab3e778a49c1269e22fe65946ace6f3d84eba17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-29T14:33:47.361885-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667072040",
+      "size": "1566",
+      "md5": "36c8ee24349c14588d04809fcb9d33ff",
+      "crc32": "93346bb8",
+      "sha1": "7f9ffe7dd1d3fa7a1876e628c35dd003151a164b",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-29T14:33:47.361885-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667072042",
+      "size": "18445",
+      "md5": "099f40f8fb8840f78ed63332c72ffdcd",
+      "crc32": "afca80f8",
+      "sha1": "279aa752e9ae6ce8fe0cc88ef1a08ee9eab856cf",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-29T14:33:47.361885-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-29T14:33:47.361885-05:00.jpg",
+      "mtime": "1667075075",
+      "size": "10420",
+      "md5": "9df8e365eb30405ce149741d244f73e3",
+      "crc32": "acd0cfae",
+      "sha1": "045055553de76fbbdad10ee2db7cd1042bf06106"
+    },
+    {
+      "name": "prisonjourn-2022-10-30T02:00:48.689341-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667113260",
+      "size": "17425",
+      "md5": "4283c336ccb75bea8237b139a71ab35b",
+      "crc32": "2e1e0d78",
+      "sha1": "19c72d12b4e57dd5a51b9224533425f5b4a3a874",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-30T02:00:48.689341-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667113262",
+      "size": "27768",
+      "md5": "733c042e31e4fa5016c745947b10a131",
+      "crc32": "0e80e73c",
+      "sha1": "d0a8521101eae243c6d08e3c58dc45aab47e7bcd",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-30T02:00:48.689341-05:00.jpg",
+      "source": "original",
+      "mtime": "1667113259",
+      "size": "270549",
+      "md5": "6e0dc2f0af88d557ee2bdfb8c5cd3121",
+      "crc32": "1e4f4bed",
+      "sha1": "7ab3e778a49c1269e22fe65946ace6f3d84eba17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-30T02:00:48.689341-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667113263",
+      "size": "1566",
+      "md5": "d8e307fb048113a1d92800b9eeef18c8",
+      "crc32": "5a4ddd32",
+      "sha1": "8efc68ccfa0bae5a1a6708e81606858724846926",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-30T02:00:48.689341-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667113265",
+      "size": "18354",
+      "md5": "079f838612d88178ccce3af0520aa2d9",
+      "crc32": "b362ae91",
+      "sha1": "7c3ed6c44d3558866314539963ae18e997584055",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-30T02:00:48.689341-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-30T02:00:48.689341-05:00.jpg",
+      "mtime": "1667114452",
+      "size": "10420",
+      "md5": "9df8e365eb30405ce149741d244f73e3",
+      "crc32": "acd0cfae",
+      "sha1": "045055553de76fbbdad10ee2db7cd1042bf06106"
+    },
+    {
+      "name": "prisonjourn-2022-10-30T13:28:40.073989-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667154528",
+      "size": "17425",
+      "md5": "4283c336ccb75bea8237b139a71ab35b",
+      "crc32": "2e1e0d78",
+      "sha1": "19c72d12b4e57dd5a51b9224533425f5b4a3a874",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-30T13:28:40.073989-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667154530",
+      "size": "27768",
+      "md5": "733c042e31e4fa5016c745947b10a131",
+      "crc32": "0e80e73c",
+      "sha1": "d0a8521101eae243c6d08e3c58dc45aab47e7bcd",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-30T13:28:40.073989-05:00.jpg",
+      "source": "original",
+      "mtime": "1667154527",
+      "size": "270549",
+      "md5": "6e0dc2f0af88d557ee2bdfb8c5cd3121",
+      "crc32": "1e4f4bed",
+      "sha1": "7ab3e778a49c1269e22fe65946ace6f3d84eba17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-30T13:28:40.073989-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667154532",
+      "size": "1567",
+      "md5": "e1337511ce7cef56dc314b6bbb041d45",
+      "crc32": "da88c323",
+      "sha1": "5d47c42bf957f60e6aec690880c59805da425e54",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-30T13:28:40.073989-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667154534",
+      "size": "18361",
+      "md5": "27607eb14e888fa614f5acdc1fe09b36",
+      "crc32": "ea842275",
+      "sha1": "d19791e244aba54e9e0731ae3b86720913c3333a",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-30T13:28:40.073989-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-30T13:28:40.073989-05:00.jpg",
+      "mtime": "1667154740",
+      "size": "10420",
+      "md5": "9df8e365eb30405ce149741d244f73e3",
+      "crc32": "acd0cfae",
+      "sha1": "045055553de76fbbdad10ee2db7cd1042bf06106"
+    },
+    {
+      "name": "prisonjourn-2022-10-31T01:43:16.209254-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198601",
+      "size": "17425",
+      "md5": "4283c336ccb75bea8237b139a71ab35b",
+      "crc32": "2e1e0d78",
+      "sha1": "19c72d12b4e57dd5a51b9224533425f5b4a3a874",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-31T01:43:16.209254-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198603",
+      "size": "27768",
+      "md5": "733c042e31e4fa5016c745947b10a131",
+      "crc32": "0e80e73c",
+      "sha1": "d0a8521101eae243c6d08e3c58dc45aab47e7bcd",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-31T01:43:16.209254-05:00.jpg",
+      "source": "original",
+      "mtime": "1667198600",
+      "size": "270549",
+      "md5": "6e0dc2f0af88d557ee2bdfb8c5cd3121",
+      "crc32": "1e4f4bed",
+      "sha1": "7ab3e778a49c1269e22fe65946ace6f3d84eba17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-31T01:43:16.209254-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198605",
+      "size": "1567",
+      "md5": "15cdcf8ce365d174653fed094af86081",
+      "crc32": "55d12c32",
+      "sha1": "6bba612d3aa904c6441623545ac6940e2a40b624",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-31T01:43:16.209254-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198606",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-31T01:43:16.209254-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-31T01:43:16.209254-05:00.jpg",
+      "mtime": "1667200668",
+      "size": "10420",
+      "md5": "9df8e365eb30405ce149741d244f73e3",
+      "crc32": "acd0cfae",
+      "sha1": "045055553de76fbbdad10ee2db7cd1042bf06106"
+    },
+    {
+      "name": "prisonjourn-2022-10-31T14:22:38.473974-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667244168",
+      "size": "17399",
+      "md5": "f78a87e4179c4d866b95af92fbd7214f",
+      "crc32": "62c0902a",
+      "sha1": "0309001fa7713572000cca27bb3bd1003e81b246",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-31T14:22:38.473974-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667244171",
+      "size": "27757",
+      "md5": "4796fcf5d5ec07aee7c9e90e74b69a3a",
+      "crc32": "aca5d032",
+      "sha1": "536ecc46afb36c9f0a69179b8a4935954f1d748a",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-31T14:22:38.473974-05:00.jpg",
+      "source": "original",
+      "mtime": "1667244166",
+      "size": "316820",
+      "md5": "686b44f334d547d3987c09f56b1985c1",
+      "crc32": "de5077cc",
+      "sha1": "b70f1aa604175cc5c696eb8af9bd13fb53b22b32",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prisonjourn-2022-10-31T14:22:38.473974-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667244174",
+      "size": "1567",
+      "md5": "826014df70a62ed2217eae7251d6ae5c",
+      "crc32": "7082cd95",
+      "sha1": "0fd8f91ffc8bcc1b0ae1cd9774e79d0793aa546b",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-31T14:22:38.473974-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667244177",
+      "size": "18391",
+      "md5": "c0a201a7014697a8b3426cde0ff50dfb",
+      "crc32": "5ea83c28",
+      "sha1": "b189b0f0eb4c966affd4e6723a8bee7939c788c4",
+      "format": "JSON"
+    },
+    {
+      "name": "prisonjourn-2022-10-31T14:22:38.473974-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prisonjourn-2022-10-31T14:22:38.473974-05:00.jpg",
+      "mtime": "1667244870",
+      "size": "10347",
+      "md5": "13fd53cf902087d868d2269e9abc64d9",
+      "crc32": "4010bc8c",
+      "sha1": "71051d03b0494202fc3664866832620c70b237ce"
+    },
+    {
       "name": "prisonjourn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4b780e2e0c97a4e17698e05ce0d7c3cccbe6aeac",
-      "mtime": "1666723503",
-      "size": "153949",
-      "md5": "c5f6eb18abb2b0a5adfa6386f2b0b814",
-      "crc32": "a228e4b8",
-      "sha1": "2cdf08e18aeca80891e4df238925cc6bfe13a2f9",
+      "btih": "3b7b52e9f669f332295b85a9fbd1f493a5a3bdce",
+      "mtime": "1667244878",
+      "size": "169265",
+      "md5": "8fbe78cec5c9854bbad25b7e106868d1",
+      "crc32": "0481e4c0",
+      "sha1": "c7af26ab326013545f0e0a2498611bda185d4dba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prisonjourn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b4f95cb92465f41e56c7a51d85c735c0",
+      "md5": "b7d1da7efdf79102b8c33f51778a6c6e",
       "summation": "md5"
     },
     {
       "name": "prisonjourn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722352",
-      "size": "929792",
-      "md5": "77615d488c2684cfcc686d7a3867f441",
-      "crc32": "13dc4366",
-      "sha1": "ea2072deeee178e6190d41049cab00755b6b82d8",
+      "mtime": "1667244228",
+      "size": "1024000",
+      "md5": "fedf352966877ec840057da59337c313",
+      "crc32": "2cac27be",
+      "sha1": "32396fccd19f6f0aa13360c52b414dc090924fc7",
       "format": "Metadata"
     },
     {
@@ -7454,9 +8198,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 721,
-  "item_last_updated": 1666723503,
-  "item_size": 37163128,
+  "files_count": 793,
+  "item_last_updated": 1667244878,
+  "item_size": 41014297,
   "metadata": {
     "identifier": "prisonjourn-2022",
     "collection": [
@@ -7473,21 +8217,10 @@
     "publicdate": "2022-08-26 16:04:20",
     "addeddate": "2022-08-26 16:04:20"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451970034,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1740911015,
+  "server": "ia801505.us.archive.org",
+  "uniq": 944374874,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

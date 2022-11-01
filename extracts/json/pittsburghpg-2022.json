@@ -1,5 +1,5 @@
 {
-  "created": 1666722335,
+  "created": 1667244848,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/24/items/pittsburghpg-2022",
@@ -11059,31 +11059,786 @@
       "format": "JSON"
     },
     {
+      "name": "pittsburghpg-2022-10-25T14:22:46.716938-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-25T14:22:46.716938-04:00.jpg",
+      "mtime": "1666725211",
+      "size": "9756",
+      "md5": "70eaeb3807dc91191a728be85870083e",
+      "crc32": "a659b0c4",
+      "sha1": "39c9d9baf9187219b2506f8c044d8d393474eeb7"
+    },
+    {
+      "name": "pittsburghpg-2022-10-26T04:19:45.161706-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666772401",
+      "size": "46786",
+      "md5": "ee05a8e2bee7ccf3bfa897c3075216d5",
+      "crc32": "df24d533",
+      "sha1": "35dc43f2a361a1c22e25202e19a3bd69e59dbc7d",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-26T04:19:45.161706-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666772404",
+      "size": "87725",
+      "md5": "c0e421fe0e0134969f630c9bfad420a0",
+      "crc32": "0f7fd1aa",
+      "sha1": "6af492baebc92c738d95898fc9d83dad43d8dce6",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-26T04:19:45.161706-04:00.jpg",
+      "source": "original",
+      "mtime": "1666772394",
+      "size": "331698",
+      "md5": "c95091a2d1a7dcb516c6155fd63ebb6b",
+      "crc32": "2f30ad04",
+      "sha1": "622abd4895668af88b1935d501ba033e85e6f3b3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-26T04:19:45.161706-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666772406",
+      "size": "1513",
+      "md5": "500bd7bd991c579f3912981896658aaf",
+      "crc32": "2023e030",
+      "sha1": "2ea03ca28b32d76a1ddccacf40b350d2fc3477f2",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-26T04:19:45.161706-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666772408",
+      "size": "88594",
+      "md5": "60712040e8b705ceb8a6e0ad5428b234",
+      "crc32": "01f273b8",
+      "sha1": "5ec9d38d45fb4540bff5cbd72d6adf533d69be3c",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-26T04:19:45.161706-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-26T04:19:45.161706-04:00.jpg",
+      "mtime": "1666773684",
+      "size": "9886",
+      "md5": "4d7d21b7411e94565e60f8947d270097",
+      "crc32": "7f098e77",
+      "sha1": "e7fefcd25229ab0ccb87591931ff5bcbacc572f0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-26T16:46:58.092460-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666817240",
+      "size": "46752",
+      "md5": "2198152de4684b20bb3e9d6f1021534d",
+      "crc32": "0b66ca5b",
+      "sha1": "1a00b29a7e896dbfdeff540a0c32f30a23cb62fe",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-26T16:46:58.092460-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666817243",
+      "size": "86603",
+      "md5": "f29bdd61674aa5622ff48f0a9008b12c",
+      "crc32": "f0547fed",
+      "sha1": "899e51381f797f6f0e7ac4407f71c6d01a2bb0f2",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-26T16:46:58.092460-04:00.jpg",
+      "source": "original",
+      "mtime": "1666817238",
+      "size": "320802",
+      "md5": "c11911e3df6482e879137cf957bf2dba",
+      "crc32": "4ed2ab1c",
+      "sha1": "4e1bbd5c3e9629acd8901d8f9f70534df595801f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-26T16:46:58.092460-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666817246",
+      "size": "1512",
+      "md5": "84529e08e899eb335d6b8e7029c00a9f",
+      "crc32": "fbf08b38",
+      "sha1": "fc63bb0d70ca599527eca5ccf64d6a60c9f3a89d",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-26T16:46:58.092460-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666817249",
+      "size": "34137",
+      "md5": "e4d262ea1d7d5f3ecc0e01e1fb6e1c98",
+      "crc32": "179850a3",
+      "sha1": "7040c416a5190a7589a53af64f30a3713c1c7954",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-26T16:46:58.092460-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-26T16:46:58.092460-04:00.jpg",
+      "mtime": "1666837024",
+      "size": "9922",
+      "md5": "822527fc06d2d9fcfb1757d10e8a82bf",
+      "crc32": "0df21e22",
+      "sha1": "de6f0bd44bac322c2e67b7499e80ce095500f7cc"
+    },
+    {
+      "name": "pittsburghpg-2022-10-27T03:24:11.624103-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666855455",
+      "size": "46254",
+      "md5": "7a80fb889367f7081c6190f7d2c62a72",
+      "crc32": "a5484423",
+      "sha1": "9cc5f4ee29e33476b2568e7e8a272d26ebb4e7b7",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-27T03:24:11.624103-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666855457",
+      "size": "81566",
+      "md5": "db380819d681e25afb38539cfe68a253",
+      "crc32": "50391a0a",
+      "sha1": "56d2a84c5e7b36f5fae2f1ecc68084f38a913830",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-27T03:24:11.624103-04:00.jpg",
+      "source": "original",
+      "mtime": "1666855453",
+      "size": "339157",
+      "md5": "5099dc51efa212294710cdbbd4b53a6f",
+      "crc32": "9cc103f4",
+      "sha1": "c0e131f1143b90a50112b002f716ec4c8c3928e4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-27T03:24:11.624103-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666855459",
+      "size": "1510",
+      "md5": "1768ad0b04806a107fdb1a8abf45e780",
+      "crc32": "dd9cf672",
+      "sha1": "e8af26967fa19756541abe49d52b2fb5af95caae",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-27T03:24:11.624103-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666855461",
+      "size": "75959",
+      "md5": "4cbd18459d4edfbe886e40166f1a27f7",
+      "crc32": "e7ededff",
+      "sha1": "f1cb2a8090791ec83a59f7204f2ebe4c0e36f835",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-27T03:24:11.624103-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-27T03:24:11.624103-04:00.jpg",
+      "mtime": "1666878189",
+      "size": "9948",
+      "md5": "9884d3a6bcb51ba50a494d15aefc7a43",
+      "crc32": "e1009a3d",
+      "sha1": "77fffc8f6fa29efa1b6dd8683b42e19745d0a2ed"
+    },
+    {
+      "name": "pittsburghpg-2022-10-27T15:22:44.538874-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666898569",
+      "size": "44295",
+      "md5": "27f68ecb0014666fe253da1b07f2be55",
+      "crc32": "9e393e94",
+      "sha1": "188414de761d1c9c335efe610037717df3097914",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-27T15:22:44.538874-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666898573",
+      "size": "85700",
+      "md5": "ac594a17f0a448f2f82637116fb80d33",
+      "crc32": "5f999a30",
+      "sha1": "7b0f06648455e3c9bbf233a17dde94745517b7ce",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-27T15:22:44.538874-04:00.jpg",
+      "source": "original",
+      "mtime": "1666898567",
+      "size": "359712",
+      "md5": "23bb575588eca50399a57811de19630d",
+      "crc32": "e393c7bc",
+      "sha1": "eb2347b9ec0dcfd247624c68c73d5ff7a9725bdd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-27T15:22:44.538874-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666898575",
+      "size": "1513",
+      "md5": "a5d7de6532fd8436061cf2ab84a0c991",
+      "crc32": "a4c5cad7",
+      "sha1": "b48e82aa7eebd7b299c1512f63c86c98b3347636",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-27T15:22:44.538874-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666898577",
+      "size": "71380",
+      "md5": "d71c85c2860be18d43558e7f3c96d112",
+      "crc32": "db7be552",
+      "sha1": "0e51efff980bf48c0d0f60b7b7bca96021551ccc",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-27T15:22:44.538874-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-27T15:22:44.538874-04:00.jpg",
+      "mtime": "1666906502",
+      "size": "9996",
+      "md5": "053142bb463cd9df37947c436352b350",
+      "crc32": "9fa1dffb",
+      "sha1": "71fb2e68a7c1cb269db42fe1c0fd16805bb4c382"
+    },
+    {
+      "name": "pittsburghpg-2022-10-28T04:47:09.651174-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666946833",
+      "size": "45600",
+      "md5": "5f8d15823967c14e43036db01cad38bd",
+      "crc32": "1a45db9f",
+      "sha1": "984332245e19ceff85d45ff931aca5ed45d6a6e5",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-28T04:47:09.651174-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666946834",
+      "size": "87011",
+      "md5": "87619900b792b05d042340a946a901bb",
+      "crc32": "e512661d",
+      "sha1": "7cd22583223e5688068791707cda53efa555abaa",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-28T04:47:09.651174-04:00.jpg",
+      "source": "original",
+      "mtime": "1666946831",
+      "size": "322337",
+      "md5": "c2a75d61ff0b0369d575a52ef5db40d5",
+      "crc32": "3a10c8f1",
+      "sha1": "bc5453a6dc108d5bfbf78cbd382b2312e642f1bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-28T04:47:09.651174-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666946835",
+      "size": "1512",
+      "md5": "bf743bbf137b028b2449361c6b184285",
+      "crc32": "cc4bf31f",
+      "sha1": "6a929386c6f55d0da80210543b2ef314eb8f1fb7",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-28T04:47:09.651174-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666946838",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-28T04:47:09.651174-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-28T04:47:09.651174-04:00.jpg",
+      "mtime": "1666951341",
+      "size": "9826",
+      "md5": "631c3c1ba906b276c946bd4923c9e236",
+      "crc32": "b2cb2106",
+      "sha1": "74626660a450227ace24962b27e256648b345fd3"
+    },
+    {
+      "name": "pittsburghpg-2022-10-28T14:29:30.004372-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666981773",
+      "size": "45114",
+      "md5": "e75d7844e0dcae0d06be52fd2b31f8df",
+      "crc32": "a5697187",
+      "sha1": "23d05ff99afbc1a0260efd35fc2bd01e8990e7f1",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-28T14:29:30.004372-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666981775",
+      "size": "86749",
+      "md5": "02cc54dcbcef1f7807ea0442ab512aeb",
+      "crc32": "d88f372b",
+      "sha1": "9031be10929697c2f1720f6341508022ea46278f",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-28T14:29:30.004372-04:00.jpg",
+      "source": "original",
+      "mtime": "1666981772",
+      "size": "313547",
+      "md5": "513d197ea2ed4444834eb09ab5f3ca39",
+      "crc32": "1d05fce3",
+      "sha1": "9cb20b90313b9ac290ff3b61d5ceeebaa8677c97",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-28T14:29:30.004372-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666981777",
+      "size": "1512",
+      "md5": "c02d72aab72f995a73326c7661c51104",
+      "crc32": "49991ce3",
+      "sha1": "75cfe36d67219b5bf428f1832a7ab49bf86bed98",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-28T14:29:30.004372-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1666981782",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-28T14:29:30.004372-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-28T14:29:30.004372-04:00.jpg",
+      "mtime": "1666984343",
+      "size": "9703",
+      "md5": "5a26dbc5766d6563d80804d52c24d025",
+      "crc32": "015dcfd3",
+      "sha1": "ae57055e83bf16bbe91882eae5df794797799541"
+    },
+    {
+      "name": "pittsburghpg-2022-10-29T02:44:50.691149-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667025897",
+      "size": "45457",
+      "md5": "9bc430f8b8455accc3550a7f56ca9d01",
+      "crc32": "5efe5e87",
+      "sha1": "468a5cc5997db25731d176ac39f06ec830d2d9d5",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-29T02:44:50.691149-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667025899",
+      "size": "86308",
+      "md5": "739b33e0ce73c0cb2aeccbd7d52c3963",
+      "crc32": "0aa204bc",
+      "sha1": "3df10ac8e230996bbc88ebc1a45a61c326544b0b",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-29T02:44:50.691149-04:00.jpg",
+      "source": "original",
+      "mtime": "1667025895",
+      "size": "320314",
+      "md5": "86cac5f1c13c5a9fb779b4c181d13b9c",
+      "crc32": "a771c594",
+      "sha1": "3df1e2a4d544ae235b4fa51b742f94f5257acb54",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-29T02:44:50.691149-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667025901",
+      "size": "1510",
+      "md5": "51bb14e1014ab894c89c264463a27351",
+      "crc32": "4566c929",
+      "sha1": "00823a51e7fc92e4893a916de0c13db6cc8b750c",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-29T02:44:50.691149-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667025903",
+      "size": "270",
+      "md5": "5b34721e094e7d06041c3d3723c4d048",
+      "crc32": "0b400c57",
+      "sha1": "91c216cc006afcd1d11362fd8dcc460b0aafac95",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-29T02:44:50.691149-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-29T02:44:50.691149-04:00.jpg",
+      "mtime": "1667027813",
+      "size": "9816",
+      "md5": "528ad5e37f5634e8bc326dea03c2b9aa",
+      "crc32": "859a5a8d",
+      "sha1": "af52a43529756a2476dc5333c63214ce4054c7ee"
+    },
+    {
+      "name": "pittsburghpg-2022-10-29T15:34:40.203417-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667072089",
+      "size": "49970",
+      "md5": "c64d58063ef81a55ee25dbfacc716fda",
+      "crc32": "f95b8b59",
+      "sha1": "0e652a737162a0cafb4ae646aafe8086a38403ab",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-29T15:34:40.203417-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667072091",
+      "size": "85750",
+      "md5": "3f8c070dd341d2fb5b0223933b6cfc6e",
+      "crc32": "79e038b3",
+      "sha1": "3d2f925233508e9712e1521dbc27e8666c479883",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-29T15:34:40.203417-04:00.jpg",
+      "source": "original",
+      "mtime": "1667072087",
+      "size": "310811",
+      "md5": "a9f6cb22a3b38a0ec6e8d2d210d953d2",
+      "crc32": "d81ce9f2",
+      "sha1": "d263bcc0900ac137c812268b916f9ae4ae102a73",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-29T15:34:40.203417-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667072092",
+      "size": "1511",
+      "md5": "fc3a062777ed0c965bbe1479778318e6",
+      "crc32": "31584727",
+      "sha1": "b0379295439b544baa9bef969d4ffa1562a92cb8",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-29T15:34:40.203417-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667072094",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-29T15:34:40.203417-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-29T15:34:40.203417-04:00.jpg",
+      "mtime": "1667073167",
+      "size": "9828",
+      "md5": "4b8ad2726b09ade58de728dcc0ed36bc",
+      "crc32": "be40f6a6",
+      "sha1": "b81e063c9d442fde4c79b9fcfb51f91443ff549d"
+    },
+    {
+      "name": "pittsburghpg-2022-10-30T03:00:36.261900-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667113240",
+      "size": "49710",
+      "md5": "754201950858472ba81607525bbf2bda",
+      "crc32": "b0f42e12",
+      "sha1": "0067def54829dc51b3f0472ae5a59133f3e2d3aa",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-30T03:00:36.261900-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667113241",
+      "size": "85248",
+      "md5": "0a2eab2afdb7dc19ad3119c212ceefff",
+      "crc32": "e0a00cf8",
+      "sha1": "5e61f11b4dc5eb9e02462e004e5e7dd7314877c6",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-30T03:00:36.261900-04:00.jpg",
+      "source": "original",
+      "mtime": "1667113238",
+      "size": "339656",
+      "md5": "65d57a4a48529b4b86e37b0722ed8241",
+      "crc32": "d31d25f8",
+      "sha1": "60bc8b432d314b437bc3429f3a1bcbcc0ce7fb0d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-30T03:00:36.261900-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667113243",
+      "size": "1513",
+      "md5": "052a41a22f3e88cd6bba4039b094ebe9",
+      "crc32": "fa2e056a",
+      "sha1": "903b0b88391e046414e5222cf01e5c99ef95febd",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-30T03:00:36.261900-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667113245",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-30T03:00:36.261900-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-30T03:00:36.261900-04:00.jpg",
+      "mtime": "1667114505",
+      "size": "10005",
+      "md5": "476f8b00a4f3b6d0762e54a1d2da9b36",
+      "crc32": "6f0b6a50",
+      "sha1": "e5ceae84d516a9619994d32b123ba67dccb9df4b"
+    },
+    {
+      "name": "pittsburghpg-2022-10-30T14:27:00.051467-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667154429",
+      "size": "49814",
+      "md5": "c85198a6cf12e00bbcf0b4e66d53f393",
+      "crc32": "4948850d",
+      "sha1": "ba0049ab1f8202f614138d67730cfafdd8945c74",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-30T14:27:00.051467-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667154437",
+      "size": "85228",
+      "md5": "a137b4f155e974ddbeb2353482000394",
+      "crc32": "069b0363",
+      "sha1": "895d0ce54f71d6b3acf71b7cb51720033033fdd5",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-30T14:27:00.051467-04:00.jpg",
+      "source": "original",
+      "mtime": "1667154427",
+      "size": "328143",
+      "md5": "dbb66921b3afd6b1523908a06bef4051",
+      "crc32": "9c430153",
+      "sha1": "43519201dca7cc132fec8aaba7f8d6b3f3bf331b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-30T14:27:00.051467-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667154439",
+      "size": "1513",
+      "md5": "8fd3aaadc8e4c247187af1af2d83788d",
+      "crc32": "67c55ffc",
+      "sha1": "0b62e4aa45f1c613726f77787fd0d5afdcb4615a",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-30T14:27:00.051467-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667154442",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-30T14:27:00.051467-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-30T14:27:00.051467-04:00.jpg",
+      "mtime": "1667154644",
+      "size": "9885",
+      "md5": "985231ccbb11d6dc0d3aa017549eac1c",
+      "crc32": "7e11f197",
+      "sha1": "447d06240f26433a1c708565a25128498c74ae11"
+    },
+    {
+      "name": "pittsburghpg-2022-10-31T02:41:51.818634-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667198522",
+      "size": "49672",
+      "md5": "adbf5372e8ff88fd20a18750f1c56202",
+      "crc32": "01c2b890",
+      "sha1": "b3254b6d719e29702fbcbf22298ae17354d8a52b",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-31T02:41:51.818634-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667198524",
+      "size": "87435",
+      "md5": "110a094b259dad7eae51d595fb789f8f",
+      "crc32": "3cc4b2e0",
+      "sha1": "ce11e38a074057043717749c2713a19a4a4b7135",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-31T02:41:51.818634-04:00.jpg",
+      "source": "original",
+      "mtime": "1667198521",
+      "size": "341179",
+      "md5": "c9ef30a0fab2480509959f5f08866b22",
+      "crc32": "cff05e32",
+      "sha1": "4d87b30ecb11dc076c8aabf2b9692e641481e8b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-31T02:41:51.818634-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667198525",
+      "size": "1513",
+      "md5": "93c067a8d27170d9d2252ecf6e9a9d34",
+      "crc32": "f38e0b0b",
+      "sha1": "9c40a009f56b6294b723c6fc9ef24b3b87d9c0c9",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-31T02:41:51.818634-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667198527",
+      "size": "72434",
+      "md5": "1f2cfd370799d81257662cbbd68c8ced",
+      "crc32": "2ad94942",
+      "sha1": "0d222674f527da4b85dad284616dc4bf4cadd8f2",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-31T02:41:51.818634-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-31T02:41:51.818634-04:00.jpg",
+      "mtime": "1667200644",
+      "size": "10016",
+      "md5": "a3ceef33b61e219d937eb174670f7448",
+      "crc32": "e7043e47",
+      "sha1": "603c68191e60a078b83bce42cfff7a3c05a36b93"
+    },
+    {
+      "name": "pittsburghpg-2022-10-31T15:21:16.897259-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667244087",
+      "size": "47956",
+      "md5": "c71c91d5399c8e773aa6125643011b74",
+      "crc32": "e07a1dd6",
+      "sha1": "368d3dc8ada1f119f0c2f6cfad9ce19959bfa3b1",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-31T15:21:16.897259-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667244089",
+      "size": "88246",
+      "md5": "de680ea60ad4f559d2358d391f0c6e78",
+      "crc32": "85c73eef",
+      "sha1": "45b4b377665ac2499456ca89101234b8961740e9",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-31T15:21:16.897259-04:00.jpg",
+      "source": "original",
+      "mtime": "1667244084",
+      "size": "329522",
+      "md5": "944dac2217dfd94222c1c775af1c8707",
+      "crc32": "e1bb7c36",
+      "sha1": "e883efc82a956e686cda74deff4c3cb98ec3fbbc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pittsburghpg-2022-10-31T15:21:16.897259-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667244091",
+      "size": "1511",
+      "md5": "af9a511bafd5e0c819c5e02fe49ae7ea",
+      "crc32": "e6822e61",
+      "sha1": "50751cac93a1b2e21777d8b8360e88698320b7e1",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-31T15:21:16.897259-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667244093",
+      "size": "8204",
+      "md5": "d864c659aadc22808f00de8b91b309b8",
+      "crc32": "415787a6",
+      "sha1": "786f3874a450cd299b11614037d72f5169c0ee12",
+      "format": "JSON"
+    },
+    {
+      "name": "pittsburghpg-2022-10-31T15:21:16.897259-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pittsburghpg-2022-10-31T15:21:16.897259-04:00.jpg",
+      "mtime": "1667244719",
+      "size": "9815",
+      "md5": "9cff92bfa09d8e1e14bfc7a2373bc895",
+      "crc32": "b918ca12",
+      "sha1": "a90dbd845aac7483503e68c32abd96a0d3fad430"
+    },
+    {
       "name": "pittsburghpg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "098ffe0df86c0a68d9afc887fd1c75fdc8303bb0",
-      "mtime": "1666722328",
-      "size": "231470",
-      "md5": "31c66bf0f7eca7a21258bb24d7741d13",
-      "crc32": "f9ec4f0e",
-      "sha1": "b081913ce1d8a0e5fef86f64e474dc62e1a2aea1",
+      "btih": "18c9954e73ee4bea3a29478e9083baa2b3d62250",
+      "mtime": "1667244739",
+      "size": "247159",
+      "md5": "9d9103da798544b04eea1ed5fbbb8290",
+      "crc32": "6fd15434",
+      "sha1": "3f3ed5c2d6973d2c46e80c762420b1cae7de8238",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pittsburghpg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "af9d52b7409b086e49c4f2743d288b56",
+      "md5": "576a442807acde18574d39b516d24809",
       "summation": "md5"
     },
     {
       "name": "pittsburghpg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666722278",
-      "size": "1372160",
-      "md5": "97ffa7795593e27ea7c360165c3df179",
-      "crc32": "7bbaeb3b",
-      "sha1": "8cc87ce4db75891375702897faf7f1001a71fb36",
+      "mtime": "1667244156",
+      "size": "1466368",
+      "md5": "cf00d03a56930562c5a0b864b7c8f703",
+      "crc32": "2b76f7db",
+      "sha1": "8d5bbc647115d88e4e8c4329247772bc04f6d9bf",
       "format": "Metadata"
     },
     {
@@ -11097,9 +11852,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1073,
-  "item_last_updated": 1666722328,
-  "item_size": 96008831,
+  "files_count": 1146,
+  "item_last_updated": 1667244739,
+  "item_size": 102175088,
   "metadata": {
     "identifier": "pittsburghpg-2022",
     "collection": [
@@ -11116,21 +11871,10 @@
     "publicdate": "2022-07-26 03:54:28",
     "addeddate": "2022-07-26 03:54:28"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3451938450,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 858259715,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1246226924,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

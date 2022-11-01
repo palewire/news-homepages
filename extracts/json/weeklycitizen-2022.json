@@ -1,5 +1,5 @@
 {
-  "created": 1666712976,
+  "created": 1667232411,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/0/items/weeklycitizen-2022",
@@ -4345,31 +4345,775 @@
       "format": "JSON"
     },
     {
+      "name": "weeklycitizen-2022-10-25T10:48:38.663691-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-25T10:48:38.663691-05:00.jpg",
+      "mtime": "1666714649",
+      "size": "8984",
+      "md5": "8bfc7e6afe21ed95c865d9aa74cbeae8",
+      "crc32": "278b1f27",
+      "sha1": "1fcb92e4bd02ff75e01c6cda0ff3e2f84b37cedb"
+    },
+    {
+      "name": "weeklycitizen-2022-10-26T01:32:12.658675-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666765943",
+      "size": "20033",
+      "md5": "a96154fb9862599abb3d7de2de5db873",
+      "crc32": "2c97c94f",
+      "sha1": "f738b91d6b15285c9f6d14b10fa968804071beca",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-26T01:32:12.658675-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666765944",
+      "size": "29637",
+      "md5": "467571dbeb08e42622eb67638708c00a",
+      "crc32": "4104856b",
+      "sha1": "1ed4f1d8f9e7cc1f4594e31292ada472d68aac61",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-26T01:32:12.658675-05:00.jpg",
+      "source": "original",
+      "mtime": "1666765941",
+      "size": "229989",
+      "md5": "16cc533847d64e36c0abe3e25dd7f831",
+      "crc32": "26aff587",
+      "sha1": "d6aacb82eb104ee5c97e7a60843196350d116919",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-26T01:32:12.658675-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666765946",
+      "size": "1521",
+      "md5": "a5f8d2ee8398435eb71fa08cbce7c3c2",
+      "crc32": "a4c13524",
+      "sha1": "3bd5b87a4dd42c55745683c6b14956e0f18d7d09",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-26T01:32:12.658675-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666765949",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-26T01:32:12.658675-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-26T01:32:12.658675-05:00.jpg",
+      "mtime": "1666766444",
+      "size": "9069",
+      "md5": "31389e37a7ed1939af18a7cba3b91053",
+      "crc32": "ebc8d2de",
+      "sha1": "999db78d30328eef17df037b84a9ec5532bf2318"
+    },
+    {
+      "name": "weeklycitizen-2022-10-26T11:31:35.630061-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666801905",
+      "size": "19593",
+      "md5": "edccca9f6eb854191db245ff0782b9d2",
+      "crc32": "d888ef6a",
+      "sha1": "ba8813eca12d848c3694fa5c0fcb578432c2f1ad",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-26T11:31:35.630061-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666801906",
+      "size": "29303",
+      "md5": "9653dcccf566f50da3ed9298e23ff84d",
+      "crc32": "303241ca",
+      "sha1": "b5d1b5913feb47ce025390771d2cd4f567b0279c",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-26T11:31:35.630061-05:00.jpg",
+      "source": "original",
+      "mtime": "1666801903",
+      "size": "240928",
+      "md5": "bbd689e1e0a78a2a26f3bcfa4d3f77bc",
+      "crc32": "a6aa308c",
+      "sha1": "8c1dd0214aacb4dd2475b07a2fe8c7097516ef62",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-26T11:31:35.630061-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666801908",
+      "size": "1522",
+      "md5": "43bd6f13d5736879f03b19fc99433546",
+      "crc32": "d02025e0",
+      "sha1": "ffdce5b75bfc678f9bbc9ae0266367302da7a5b5",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-26T11:31:35.630061-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666801910",
+      "size": "77236",
+      "md5": "d3ae6517bba75f8ac42f4279385100eb",
+      "crc32": "a9231b90",
+      "sha1": "4fe18553048ae25a3d9f85a751f3e4262afb1723",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-26T11:31:35.630061-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-26T11:31:35.630061-05:00.jpg",
+      "mtime": "1666804453",
+      "size": "9225",
+      "md5": "143c462294c267f774fd7e984e208854",
+      "crc32": "ae2de281",
+      "sha1": "adcdfab10fba83c6e4c6b758e71f2dc44577a302"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T00:09:27.425096-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666847377",
+      "size": "19792",
+      "md5": "fbc0c7218bcde60e6df572c98008964b",
+      "crc32": "52626f12",
+      "sha1": "220f8b9cfac816c4400ed25253c01a5872191827",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T00:09:27.425096-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666847379",
+      "size": "28991",
+      "md5": "bfafa4c6bd3d254e1a89a3709fef9a23",
+      "crc32": "4539b6d4",
+      "sha1": "e366274793c8d7d399037ff0fadc7936d71bf3ac",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T00:09:27.425096-05:00.jpg",
+      "source": "original",
+      "mtime": "1666847375",
+      "size": "234634",
+      "md5": "4402fbb9d5d5bcd2a57975713ed57ddc",
+      "crc32": "412efa2e",
+      "sha1": "ffb4e0de1bbdd8cb9c9c854e205c4a21c4124b42",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T00:09:27.425096-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666847381",
+      "size": "1522",
+      "md5": "e92952ebe4c23b36d080eb051a1a0ab0",
+      "crc32": "db08423e",
+      "sha1": "12e00028c296a0201da8ee307b1d4b730321c68d",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T00:09:27.425096-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666847383",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T00:09:27.425096-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-27T00:09:27.425096-05:00.jpg",
+      "mtime": "1666872198",
+      "size": "9090",
+      "md5": "b42c4574aad339411975eb7ed6e0f6f1",
+      "crc32": "f9555ce9",
+      "sha1": "e10c00b963d92f929fb44e5e5120b3e040aa3430"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T11:10:27.423159-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666887032",
+      "size": "20011",
+      "md5": "d1d18b420f5bdb64a64b73a48639e710",
+      "crc32": "96ae76fe",
+      "sha1": "00c4ae0f367e273885d73e7a90a041c6124246d3",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T11:10:27.423159-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666887037",
+      "size": "32887",
+      "md5": "1e9b7036b854f2e8b15205422cc5d4f2",
+      "crc32": "9c8231e7",
+      "sha1": "770b4c10e06383f67c86f0981bb1c95b2bbf7c0e",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T11:10:27.423159-05:00.jpg",
+      "source": "original",
+      "mtime": "1666887029",
+      "size": "235485",
+      "md5": "0ff39b0259f6d685e4e461b7ce10b98e",
+      "crc32": "912b9d2f",
+      "sha1": "287dcde568ece22147309fa8f168758478f77d2d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T11:10:27.423159-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666887039",
+      "size": "1521",
+      "md5": "62ef468ac89d535c5836faf1315eaf20",
+      "crc32": "e7d0a7fd",
+      "sha1": "8ad13c489d9973f246089605581b04dcc39d3e6b",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T11:10:27.423159-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666887041",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T11:10:27.423159-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-27T11:10:27.423159-05:00.jpg",
+      "mtime": "1666897530",
+      "size": "8912",
+      "md5": "c29e14842b9f54a5b4055b9a908310dc",
+      "crc32": "391e5295",
+      "sha1": "9b622a98fea5f8a7c23d08d9e033177a3829787a"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T23:53:16.293758-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666932801",
+      "size": "20288",
+      "md5": "77360ebc82632f4256cff2c07fbc3f0f",
+      "crc32": "733f16e8",
+      "sha1": "e43e1635ff97894bfed8131a8c052368c892ac73",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T23:53:16.293758-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666932803",
+      "size": "33573",
+      "md5": "35a79e827339959c4d09a7d3d847f688",
+      "crc32": "f74ec2d2",
+      "sha1": "aa2bcb4f7adb25c5429dba0d6fb1948661da8ad9",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T23:53:16.293758-05:00.jpg",
+      "source": "original",
+      "mtime": "1666932799",
+      "size": "213112",
+      "md5": "bad242831607f0a6d64810a3fa6e93cb",
+      "crc32": "8141042c",
+      "sha1": "83d9e787317bb9c125fab0f1e0745c04283235e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T23:53:16.293758-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666932805",
+      "size": "1522",
+      "md5": "9ab1b6c4b749910c60dd62bb6038c441",
+      "crc32": "352ff26c",
+      "sha1": "38a7ec37277d209ea3cf1acb19f635ef679b89af",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T23:53:16.293758-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666932807",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-27T23:53:16.293758-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-27T23:53:16.293758-05:00.jpg",
+      "mtime": "1666934196",
+      "size": "8786",
+      "md5": "f55862d5a92edbea05493cd8e96b651d",
+      "crc32": "6730d9a8",
+      "sha1": "ddfe2b9482d5fb6df87de37a879b620ff8d72267"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T10:56:44.109867-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1666972610",
+      "size": "19285",
+      "md5": "9654817d791ba2454a03d8ed983245f1",
+      "crc32": "100d9c3d",
+      "sha1": "de4b03fb30f91e918554d8bf5891ec81dbb38735",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T10:56:44.109867-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1666972612",
+      "size": "27847",
+      "md5": "e04c68d8bf05579b5d68fc224c58a58f",
+      "crc32": "112125dc",
+      "sha1": "f70059b6ad0067b4523cebef8f1496614baf997a",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T10:56:44.109867-05:00.jpg",
+      "source": "original",
+      "mtime": "1666972608",
+      "size": "239773",
+      "md5": "eca7fd1a71e1f71d6b8bd415e7fe42e2",
+      "crc32": "53bbb890",
+      "sha1": "d02db3cab20fc27280e85efa19322af3814752cc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T10:56:44.109867-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1666972614",
+      "size": "1522",
+      "md5": "899f9937461a4601267ac9ddab33686b",
+      "crc32": "94ec2657",
+      "sha1": "053b3a9927cd8ce3b0cd85eece937bea01605caa",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T10:56:44.109867-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1666972615",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T10:56:44.109867-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-28T10:56:44.109867-05:00.jpg",
+      "mtime": "1666977700",
+      "size": "9128",
+      "md5": "fb641ca123f226d7e16ecbe0f65374e8",
+      "crc32": "8e26147a",
+      "sha1": "513b4643e5d12fa24b6ee0985bfbafcb2fbdd669"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T23:17:54.026425-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667017078",
+      "size": "19895",
+      "md5": "34b8c5a6cf86058b96a663fad00f3c8d",
+      "crc32": "505e2db0",
+      "sha1": "9deeaa185297051bd72dcc45556455af4fe896fb",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T23:17:54.026425-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667017083",
+      "size": "33440",
+      "md5": "26bc2ef16946e398bf158856845b4f11",
+      "crc32": "feae7d0c",
+      "sha1": "4a299af3ea6b82a8151a2b08ae36b4737ddb1c83",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T23:17:54.026425-05:00.jpg",
+      "source": "original",
+      "mtime": "1667017077",
+      "size": "214258",
+      "md5": "3d8a3127b083415165316fb24103105f",
+      "crc32": "d8edbc2f",
+      "sha1": "fd07ef05e7ab907159a53ca7dd24cec32b17ecb8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T23:17:54.026425-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667017084",
+      "size": "1522",
+      "md5": "594478bb305fc295793d74d21e6f4659",
+      "crc32": "3c4b868b",
+      "sha1": "a59972092f58aefb450748d68b4a6b2a929afe20",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T23:17:54.026425-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667017086",
+      "size": "210",
+      "md5": "99ba889678605768d7cdbc125666f5fb",
+      "crc32": "ac343dee",
+      "sha1": "f669677ccc394f30158576638f96884c39125993",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-28T23:17:54.026425-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-28T23:17:54.026425-05:00.jpg",
+      "mtime": "1667020081",
+      "size": "8736",
+      "md5": "0e28a75214cad5039f2a93d9fe2eb20e",
+      "crc32": "2fd21025",
+      "sha1": "c815c7e02c7ca185f4710c176413a6a26114dc87"
+    },
+    {
+      "name": "weeklycitizen-2022-10-29T11:13:36.704819-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667060019",
+      "size": "21334",
+      "md5": "794e31cd2135b87c8ec9b765551bd40b",
+      "crc32": "22e35e92",
+      "sha1": "296e14c024f93315418a29e29d201203f623923f",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-29T11:13:36.704819-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667060020",
+      "size": "31573",
+      "md5": "8e6831d67bbacbe2210e979e88d0e66b",
+      "crc32": "02b1d801",
+      "sha1": "1f7df1ffe79e5e18d7efcdd74a7aec68490c31eb",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-29T11:13:36.704819-05:00.jpg",
+      "source": "original",
+      "mtime": "1667060017",
+      "size": "221595",
+      "md5": "06c6152f9c9d1c6b99e4b78fe0dcdaf0",
+      "crc32": "ab6430eb",
+      "sha1": "62e8ec3a3a3c53e123aa293aa9523c419015b4bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-29T11:13:36.704819-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667060022",
+      "size": "1522",
+      "md5": "aecafb35883912cfd41af4a4013a2c55",
+      "crc32": "9beb43e3",
+      "sha1": "35fb11c6c34819690aaf8a41184f34f83c6848dc",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-29T11:13:36.704819-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667060023",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-29T11:13:36.704819-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-29T11:13:36.704819-05:00.jpg",
+      "mtime": "1667062089",
+      "size": "8932",
+      "md5": "ecb3cbd0e7c1f82430be5dd2bc6a0db9",
+      "crc32": "384467ab",
+      "sha1": "79ef2c42f63ce14fa7dda7fc1a12b57142e7105c"
+    },
+    {
+      "name": "weeklycitizen-2022-10-29T23:22:18.648482-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667103743",
+      "size": "20710",
+      "md5": "0f7320751ebe7bc46f78e64b4dd65d47",
+      "crc32": "bfaa4c3c",
+      "sha1": "69990eab926ee6dc5fdb13a6a29cf60296415849",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-29T23:22:18.648482-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667103748",
+      "size": "41091",
+      "md5": "abf8eb56f5d0c532c13c1cefc295a9a8",
+      "crc32": "b5255e0f",
+      "sha1": "b5d44a77be179edebedee7b196031f07593578bb",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-29T23:22:18.648482-05:00.jpg",
+      "source": "original",
+      "mtime": "1667103741",
+      "size": "225244",
+      "md5": "3297f886d4c433786d509df404816668",
+      "crc32": "7b2f16a7",
+      "sha1": "ee8384a6a62d7d0c6e3846261dd52eede6461374",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-29T23:22:18.648482-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667103751",
+      "size": "1522",
+      "md5": "c0bc59b90671c4d9a73361b57381da84",
+      "crc32": "862de70c",
+      "sha1": "ff2a3fc11524e54df8d2faa9d1da6545904a824b",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-29T23:22:18.648482-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667103753",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-29T23:22:18.648482-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-29T23:22:18.648482-05:00.jpg",
+      "mtime": "1667104617",
+      "size": "8987",
+      "md5": "7907880cc6593337d5283d64fbba17e1",
+      "crc32": "9ccb3977",
+      "sha1": "c892b0d920dd3367f5ab169e4861c8be60596e7e"
+    },
+    {
+      "name": "weeklycitizen-2022-10-30T10:49:42.660589-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667144995",
+      "size": "19361",
+      "md5": "b819ff4ac813bb40fc5a94bae4571fb2",
+      "crc32": "78542530",
+      "sha1": "54b2c82bc4e609d0bc807403b49d86689ada1d77",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-30T10:49:42.660589-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667144997",
+      "size": "41927",
+      "md5": "424863a3683428588ee5402c1dfa00b5",
+      "crc32": "9c9b86ce",
+      "sha1": "a0a5b45879a7eb17e2f9d36b870b14bc8c03d853",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-30T10:49:42.660589-05:00.jpg",
+      "source": "original",
+      "mtime": "1667144994",
+      "size": "246318",
+      "md5": "7077e73e500046d3d2ded6273bdaa036",
+      "crc32": "87070e8a",
+      "sha1": "e5addd0105e3b91ea8bfbb451e6cbddf96edd54d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-30T10:49:42.660589-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667144999",
+      "size": "1522",
+      "md5": "bfeb9cf30ebd575e2f227b057657801c",
+      "crc32": "8cce6b9c",
+      "sha1": "1681fa34d4d722db697e7c643b9f94dd60602322",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-30T10:49:42.660589-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667145000",
+      "size": "80223",
+      "md5": "ff1457bfb4af7cafc39fec632afa6d7e",
+      "crc32": "33ab8308",
+      "sha1": "d19b36ead8f8eb082e93001ea82b9f6f744ae240",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-30T10:49:42.660589-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-30T10:49:42.660589-05:00.jpg",
+      "mtime": "1667145770",
+      "size": "8953",
+      "md5": "7901e24928cef3a43d86f2508f25908d",
+      "crc32": "8056f13e",
+      "sha1": "7e617573ed23c8c4d4e6f2fbf4b3d8b209d8ed4e"
+    },
+    {
+      "name": "weeklycitizen-2022-10-30T23:55:29.744039-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667192145",
+      "size": "20892",
+      "md5": "9bd32925ab5499fbcd7d426467f35cb6",
+      "crc32": "4d91cb1a",
+      "sha1": "64bb1e7626e0affcb7dbf3544857b686fd170613",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-30T23:55:29.744039-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667192146",
+      "size": "31518",
+      "md5": "0de3269f43891b56d467985c7e627a62",
+      "crc32": "fc54540f",
+      "sha1": "1781bfe66096c37cc5525887621f98fa426b9a93",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-30T23:55:29.744039-05:00.jpg",
+      "source": "original",
+      "mtime": "1667192140",
+      "size": "260490",
+      "md5": "f390a47476549145022031ec6fbe590f",
+      "crc32": "9c8d2d6e",
+      "sha1": "24b79ba0a69cc19e0c17a6d62a24375ecaae0122",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-30T23:55:29.744039-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667192148",
+      "size": "1522",
+      "md5": "3331573499c6a61a467d1266d843bac8",
+      "crc32": "1840c88d",
+      "sha1": "ed7624a865392a90c2147fb85c4889f9659f8bda",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-30T23:55:29.744039-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667192150",
+      "size": "119442",
+      "md5": "787406cccf75c321d2f143dbedf48623",
+      "crc32": "7a2e78a6",
+      "sha1": "ff5584fa22ecc346c41c245d2ae1a555be94a3ee",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-30T23:55:29.744039-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weeklycitizen-2022-10-30T23:55:29.744039-05:00.jpg",
+      "mtime": "1667192297",
+      "size": "9393",
+      "md5": "0aab8b5b27625530508c250e319a0f98",
+      "crc32": "e4ca05dc",
+      "sha1": "aca26008a25ae318565d6376260859d460046c22"
+    },
+    {
+      "name": "weeklycitizen-2022-10-31T11:05:47.375198-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667232354",
+      "size": "19585",
+      "md5": "7f034817e7cac14b597b2322e7026a9a",
+      "crc32": "ac163795",
+      "sha1": "79e1bd64981f14e1ac9f33d65c4c135cd8327fc0",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-31T11:05:47.375198-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667232356",
+      "size": "33898",
+      "md5": "d4d240d7864d582d40970ff4b6bfdca2",
+      "crc32": "886b5f4b",
+      "sha1": "c50d3d2c6dd04a7125fbf2516444da46bc7a5f59",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-31T11:05:47.375198-05:00.jpg",
+      "source": "original",
+      "mtime": "1667232351",
+      "size": "271490",
+      "md5": "66eaaab7221e4123bcdbb35516cd67c6",
+      "crc32": "f7354674",
+      "sha1": "67915926123ba4a8f359751dd040f571cb5392f4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weeklycitizen-2022-10-31T11:05:47.375198-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667232360",
+      "size": "1522",
+      "md5": "3efdcebe9c3ffd20e433384b9d27bc5b",
+      "crc32": "f6763dec",
+      "sha1": "da0397aaec2f05263bce90328ede9d819a2904cd",
+      "format": "JSON"
+    },
+    {
+      "name": "weeklycitizen-2022-10-31T11:05:47.375198-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667232363",
+      "size": "117732",
+      "md5": "86ef65585674ed218bf61441917db0b3",
+      "crc32": "5ed85121",
+      "sha1": "feeeb8a7ea11ce3e15c386eeffb104891875ae5e",
+      "format": "JSON"
+    },
+    {
       "name": "weeklycitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c2f4513f2bf7de49d84eeed861140bbce9c75eaa",
-      "mtime": "1666712972",
-      "size": "91861",
-      "md5": "99082a8104e6a340ead26b4fcdc51a08",
-      "crc32": "f15386d0",
-      "sha1": "960d7c487791f6101dcb211437d03516cfb0d87d",
+      "btih": "6e63c887893e65da573a92ccb0b6419fffb87793",
+      "mtime": "1667232407",
+      "size": "107311",
+      "md5": "59452597c6063eee00b58aaa3faeb024",
+      "crc32": "0577e788",
+      "sha1": "444a7098ad307b74bddc82bf7d2288bf39c6a553",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weeklycitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7f8163ecac68548c7b2a2339bc0e26fb",
+      "md5": "4f17742571388bb5ca710a0988ec2c92",
       "summation": "md5"
     },
     {
       "name": "weeklycitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1666712933",
-      "size": "561152",
-      "md5": "af336942c0bcf7419d88d0923d390c21",
-      "crc32": "cadde6e9",
-      "sha1": "fde5cb844eb6d4bb7fdeacdb7e3e8d2941bb8ab8",
+      "mtime": "1667232368",
+      "size": "651264",
+      "md5": "69851f73c430779820237ab8355a2a63",
+      "crc32": "b24c53f7",
+      "sha1": "801fc392c04d4157135459483a67d07ea58e49bf",
       "format": "Metadata"
     },
     {
@@ -4383,9 +5127,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 424,
-  "item_last_updated": 1666712972,
-  "item_size": 27465250,
+  "files_count": 496,
+  "item_last_updated": 1667232407,
+  "item_size": 31563306,
   "metadata": {
     "identifier": "weeklycitizen-2022",
     "collection": [
@@ -4407,7 +5151,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3451773823,
+      "task_id": 3457892327,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -4415,7 +5159,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2010513824,
+  "uniq": 673688294,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]
