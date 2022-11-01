@@ -1,5 +1,10 @@
 {
-  "created": 1667232149,
+  "arstechnica-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261270,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/4/items/arstechnica-2022",
@@ -14465,21 +14470,32 @@
       "format": "JSON"
     },
     {
+      "name": "arstechnica-2022-10-31T12:01:06.054152-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arstechnica-2022-10-31T12:01:06.054152-04:00.jpg",
+      "mtime": "1667233470",
+      "size": "11364",
+      "md5": "f2bbc4ff0c3b4d5486c4d2be670fc33c",
+      "crc32": "55529263",
+      "sha1": "a97d3865ceaf0fb051284aab13acee64a0dda5a0"
+    },
+    {
       "name": "arstechnica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "793f9474ae6ba590bf17d70b36f47edcd8f56309",
-      "mtime": "1667232144",
-      "size": "299749",
-      "md5": "919ff29cc33e44eae890ad49c85b65f9",
-      "crc32": "99dc98ff",
-      "sha1": "b84779351af5df48f3e8ea5a37e41a6cc1ee1b18",
+      "btih": "7aba30a0beadfdbdcd1f579990eb450f905d8c56",
+      "mtime": "1667233500",
+      "size": "299957",
+      "md5": "651100002e4c4c00782412c96fee8bed",
+      "crc32": "afff7afd",
+      "sha1": "5ba5ec023d13d8d75cd67799cf5dc1f5f56f2c00",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arstechnica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "68a6c3ff85c4dc8c0c381a778f41c37d",
+      "md5": "81b113b024e60a6eee729dc7a5542dce",
       "summation": "md5"
     },
     {
@@ -14503,9 +14519,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1399,
-  "item_last_updated": 1667232144,
-  "item_size": 111221727,
+  "files_count": 1400,
+  "item_last_updated": 1667233500,
+  "item_size": 111233299,
   "metadata": {
     "identifier": "arstechnica-2022",
     "collection": [
@@ -14522,21 +14538,10 @@
     "publicdate": "2022-07-04 20:17:38",
     "addeddate": "2022-07-04 20:17:38"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457887618,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1507524514,
+  "server": "ia801507.us.archive.org",
+  "uniq": 653075474,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

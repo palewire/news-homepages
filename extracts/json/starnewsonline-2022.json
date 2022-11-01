@@ -1,5 +1,5 @@
 {
-  "created": 1667228321,
+  "created": 1667230109,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/starnewsonline-2022",
@@ -5089,21 +5089,32 @@
       "format": "JSON"
     },
     {
+      "name": "starnewsonline-2022-10-31T10:57:35.910952-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "starnewsonline-2022-10-31T10:57:35.910952-04:00.jpg",
+      "mtime": "1667230008",
+      "size": "9028",
+      "md5": "924fa614c6a4ff85f17365e909a06e48",
+      "crc32": "bdd96d8e",
+      "sha1": "205ca7cd804d1cb1c2adb0597d00551e9ffabc9e"
+    },
+    {
       "name": "starnewsonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0f80e04fbc057b6fbf4ee8b0390f899fd07e17e7",
-      "mtime": "1667228318",
-      "size": "107906",
-      "md5": "aedce30e9f31f4698f6e5d5efa4af6f4",
-      "crc32": "6d41f0ea",
-      "sha1": "d8e2de777c395f50c8937d871dc8a0f68c187333",
+      "btih": "0f24c39e76ba8fc63987dd206073ae05b2919e81",
+      "mtime": "1667230046",
+      "size": "108116",
+      "md5": "a1b28e19714e82bfb63c818f3504848e",
+      "crc32": "9358aafb",
+      "sha1": "23c11667f421eb10eb18318927c1e32c37e1b791",
       "format": "Archive BitTorrent"
     },
     {
       "name": "starnewsonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0272e0e5ddf750513bd7c760894811d8",
+      "md5": "5abc6d3075febbd10430be09d68d0bff",
       "summation": "md5"
     },
     {
@@ -5127,9 +5138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 496,
-  "item_last_updated": 1667228318,
-  "item_size": 33605297,
+  "files_count": 497,
+  "item_last_updated": 1667230046,
+  "item_size": 33614535,
   "metadata": {
     "identifier": "starnewsonline-2022",
     "collection": [
@@ -5146,21 +5157,10 @@
     "publicdate": "2022-09-21 03:42:59",
     "addeddate": "2022-09-21 03:42:59"
   },
-  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848262,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 347425479,
+  "uniq": 444993047,
   "workable_servers": [
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

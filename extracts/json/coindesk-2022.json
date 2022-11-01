@@ -1,5 +1,5 @@
 {
-  "created": 1667259889,
+  "created": 1667261635,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/0/items/coindesk-2022",
@@ -12187,21 +12187,32 @@
       "format": "JSON"
     },
     {
+      "name": "coindesk-2022-10-31T19:43:28.663779-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "coindesk-2022-10-31T19:43:28.663779-04:00.jpg",
+      "mtime": "1667261374",
+      "size": "10250",
+      "md5": "34cdeac0ff0e2e50759a06da021b81fc",
+      "crc32": "864f3b20",
+      "sha1": "df2b014e64afdc81e53f8de41ea120efd9c9cb97"
+    },
+    {
       "name": "coindesk-2022_archive.torrent",
       "source": "metadata",
-      "btih": "38bbc60b9d3cf6d799a6fcc692df662bc5b9367a",
-      "mtime": "1667259882",
-      "size": "250278",
-      "md5": "5631520d1fa7988310d2a609c1c2a393",
-      "crc32": "bb4cbe28",
-      "sha1": "42648d3919ce05bf7cf5a619cc65356e606bfcdd",
+      "btih": "0572233eebb47c63063d3bae68790b86cd19e26e",
+      "mtime": "1667261396",
+      "size": "250483",
+      "md5": "de0bfbf0ecce7634c84996a17f8a03c1",
+      "crc32": "17cf827f",
+      "sha1": "23b866e54f75527445f6e2a607a5b1852c4749b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coindesk-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "56a9d8fda249760cd54ef2860e51bd33",
+      "md5": "1a105dce8d0bd033b488a381fbff2e18",
       "summation": "md5"
     },
     {
@@ -12225,9 +12236,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1182,
-  "item_last_updated": 1667259882,
-  "item_size": 107025897,
+  "files_count": 1183,
+  "item_last_updated": 1667261396,
+  "item_size": 107036352,
   "metadata": {
     "identifier": "coindesk-2022",
     "collection": [
@@ -12244,21 +12255,10 @@
     "publicdate": "2022-07-25 06:46:58",
     "addeddate": "2022-07-25 06:46:58"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247654,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 682023549,
+  "server": "ia801509.us.archive.org",
+  "uniq": 50980647,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667229154,
+  "created": 1667267247,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/30/items/the_daily_world-2022",
@@ -5079,21 +5079,32 @@
       "format": "JSON"
     },
     {
+      "name": "the_daily_world-2022-10-31T09:57:30.582955-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "the_daily_world-2022-10-31T09:57:30.582955-05:00.jpg",
+      "mtime": "1667230086",
+      "size": "9055",
+      "md5": "1b91728716c9e5066d3ac9e95e17db5d",
+      "crc32": "2e0d17bb",
+      "sha1": "be20ef3c8ed9c3ab54af10a097a057162ae93a87"
+    },
+    {
       "name": "the_daily_world-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1bdb9fbced1b24ec53bcadb62de1c48049631132",
-      "mtime": "1667228309",
-      "size": "108089",
-      "md5": "7b3fdb1ab50aa31a5a8d089bfed4be18",
-      "crc32": "488d1ed9",
-      "sha1": "4b52ecf365290e6d90d153f3e6b61a4ad05cbdb1",
+      "btih": "fa7aedb9f9caead01bfa5f7c1f21dcf4bf48a80c",
+      "mtime": "1667230092",
+      "size": "108300",
+      "md5": "b9f0c53d0973a84248298646f7f7eff5",
+      "crc32": "2fdc158b",
+      "sha1": "302295c6bcb1c54a264609fdd18a655cc6e47342",
       "format": "Archive BitTorrent"
     },
     {
       "name": "the_daily_world-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fca3f6f290ada7b4eeaea953b835fd34",
+      "md5": "683f636adc6b0d3fafd64815797d9461",
       "summation": "md5"
     },
     {
@@ -5117,9 +5128,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 495,
-  "item_last_updated": 1667228309,
-  "item_size": 31078486,
+  "files_count": 496,
+  "item_last_updated": 1667230092,
+  "item_size": 31087752,
   "metadata": {
     "identifier": "the_daily_world-2022",
     "collection": [
@@ -5136,25 +5147,14 @@
     "publicdate": "2022-09-21 03:43:02",
     "addeddate": "2022-09-21 03:43:02"
   },
-  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848160,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
   "the_daily_world-2022": {
     "url": "https://www.dailyworld.com/",
     "job_id": "spn2-956d0a66a8737eec4e17bacda0b09da54e33f5c8"
   },
-  "uniq": 1134270581,
+  "uniq": 1378939436,
   "workable_servers": [
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

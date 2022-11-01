@@ -1,5 +1,5 @@
 {
-  "created": 1667265800,
+  "created": 1667263665,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/31/items/komunews-2022",
@@ -15286,82 +15286,31 @@
       "sha1": "0f47694f7414b088f9185d8e7cc8a81d92556200"
     },
     {
-      "name": "komunews-2022-10-31T20:21:16.213650-05:00.accessibility.json",
-      "source": "original",
-      "mtime": "1667265679",
-      "size": "25854",
-      "md5": "30f8ce09f3961d9127f786796134e4f6",
-      "crc32": "1d36d504",
-      "sha1": "05ba22b2a5caa49cc55c942f22c0e7ce584328d9",
-      "format": "JSON"
-    },
-    {
-      "name": "komunews-2022-10-31T20:21:16.213650-05:00.hyperlinks.json",
-      "source": "original",
-      "mtime": "1667265681",
-      "size": "45764",
-      "md5": "cdd576d2c37cc4cab373c29d80e42940",
-      "crc32": "9aab5587",
-      "sha1": "c224f98f18098d4bc179051026b960acbf56f416",
-      "format": "JSON"
-    },
-    {
-      "name": "komunews-2022-10-31T20:21:16.213650-05:00.jpg",
-      "source": "original",
-      "mtime": "1667265678",
-      "size": "302484",
-      "md5": "ed9727280f832e4d12c0057d977d30b1",
-      "crc32": "1dba9f85",
-      "sha1": "a04cfc5f5f978b81917a529424b2bcbf65539375",
-      "format": "JPEG",
-      "rotation": "0"
-    },
-    {
-      "name": "komunews-2022-10-31T20:21:16.213650-05:00.lighthouse.json",
-      "source": "original",
-      "mtime": "1667265683",
-      "size": "1435",
-      "md5": "49b31d7220a3237f6bf065a19647b513",
-      "crc32": "a57cd7a6",
-      "sha1": "dd508ded1642bdcea7f59631d84bbb71ca59a548",
-      "format": "JSON"
-    },
-    {
-      "name": "komunews-2022-10-31T20:21:16.213650-05:00.wayback.json",
-      "source": "original",
-      "mtime": "1667265685",
-      "size": "202",
-      "md5": "07e452389e857b7334503102fdd2cebf",
-      "crc32": "55525c66",
-      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
-      "format": "JSON"
-    },
-    {
       "name": "komunews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6194003a8e7f26688b43e83d2fe74534e3a67b6f",
-      "mtime": "1667265785",
-      "size": "312928",
-      "md5": "94cc127aadc727bfb7e3ac45c1668507",
-      "crc32": "cdd530a3",
-      "sha1": "b09144c151fbd66f66bf00c07175cf782d1c46e5",
+      "btih": "9164ea2918f2ad8b7ae3e5be6411453676553349",
+      "mtime": "1667222004",
+      "size": "311867",
+      "md5": "5a0b0dbe00908f7d4a811c844b2df8f5",
+      "crc32": "add71043",
+      "sha1": "7a4b03e1d3b3258c9037d170070beb62fb053259",
       "format": "Archive BitTorrent"
     },
     {
       "name": "komunews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "33af0520be5a345b771b0f41f5c13e2d",
+      "md5": "ef47e0fafc6177cdb96fedcabacef87d",
       "summation": "md5"
     },
     {
       "name": "komunews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667265703",
-      "size": "1843200",
-      "md5": "2463952324d76f3b02ddc24d8a82bf41",
-      "crc32": "30cee329",
-      "sha1": "400b4fcce40c448b1c40876959a70bd6297c659b",
+      "mtime": "1667220827",
+      "size": "1830912",
+      "md5": "e07da6321e1a838ce370b86a0f00e8d4",
+      "crc32": "5b9004ba",
+      "sha1": "8b1ff4883f5c107adad2e67c4c9153bf0eea42ee",
       "format": "Metadata"
     },
     {
@@ -15375,9 +15324,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1482,
-  "item_last_updated": 1667265785,
-  "item_size": 115986867,
+  "files_count": 1477,
+  "item_last_updated": 1667222004,
+  "item_size": 115597779,
+  "komunews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "komunews-2022",
     "collection": [
@@ -15394,21 +15348,10 @@
     "publicdate": "2022-06-24 22:57:45",
     "addeddate": "2022-06-24 22:57:45"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458321775,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2099954733,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1546361762,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

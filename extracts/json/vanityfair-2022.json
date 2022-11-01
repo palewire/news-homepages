@@ -1,5 +1,5 @@
 {
-  "created": 1667232447,
+  "created": 1667268460,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/vanityfair-2022",
@@ -13771,21 +13771,32 @@
       "format": "JSON"
     },
     {
+      "name": "vanityfair-2022-10-31T12:05:58.834372-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vanityfair-2022-10-31T12:05:58.834372-04:00.jpg",
+      "mtime": "1667233304",
+      "size": "8825",
+      "md5": "ea84b2243e705404aa6c2e45ae97f8ab",
+      "crc32": "9463872d",
+      "sha1": "8d9d248242988de0d1a987e193956d4bb1d6a0b8"
+    },
+    {
       "name": "vanityfair-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9d1fadeb23458c8afd75d071f72c4abfe0da5cc2",
-      "mtime": "1667232440",
-      "size": "283594",
-      "md5": "356a29b22519b4e5dd9468404b789eb5",
-      "crc32": "f0a466c6",
-      "sha1": "38ffe609522bb9fd2c3c1c7db2f4ed4e41b9d079",
+      "btih": "c16c3e4a147b03d5945d62d124ab099c81f82f82",
+      "mtime": "1667233364",
+      "size": "283800",
+      "md5": "3828c52f402d8ace049a779383ccae83",
+      "crc32": "d1ca280e",
+      "sha1": "04b0a41e5ffc31c104a778957fe63a076a8842dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vanityfair-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ef29e07e1685534473c55b7eac34a033",
+      "md5": "44ac8d6b5f73e8a7f7e0f826d632c7e1",
       "summation": "md5"
     },
     {
@@ -13809,9 +13820,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1333,
-  "item_last_updated": 1667232440,
-  "item_size": 91183751,
+  "files_count": 1334,
+  "item_last_updated": 1667233364,
+  "item_size": 91192782,
   "metadata": {
     "identifier": "vanityfair-2022",
     "collection": [
@@ -13828,21 +13839,15 @@
     "publicdate": "2022-07-04 21:47:44",
     "addeddate": "2022-07-04 21:47:44"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457892718,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1680504748,
+  "uniq": 788252949,
+  "vanityfair-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

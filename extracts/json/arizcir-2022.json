@@ -1,5 +1,5 @@
 {
-  "created": 1667256946,
+  "created": 1667257454,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/32/items/arizcir-2022",
@@ -16249,21 +16249,32 @@
       "format": "JSON"
     },
     {
+      "name": "arizcir-2022-10-31T15:54:09.065957-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arizcir-2022-10-31T15:54:09.065957-07:00.jpg",
+      "mtime": "1667257419",
+      "size": "10745",
+      "md5": "abb952648a4d4ef6b368557c0749708e",
+      "crc32": "5e0a98cc",
+      "sha1": "f2562fcec3cc37f2e008692a0b66407cc98fd520"
+    },
+    {
       "name": "arizcir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "45e662eb1a559360f51864a98ee13013d9b519b8",
-      "mtime": "1667256941",
-      "size": "328181",
-      "md5": "92e74f7d11f6f7796d648260bc79847f",
-      "crc32": "5d0a343f",
-      "sha1": "d4df581eb94e35bccccfd6f44833480208f335e6",
+      "btih": "aba425ed0531501e6f78f5f5cb0dee5d9b9e3d71",
+      "mtime": "1667257441",
+      "size": "328385",
+      "md5": "516a5b3f2d13107e22ddc811dcdaad61",
+      "crc32": "2b186dae",
+      "sha1": "27c23d6fe353f7b35ecd2051002962138138a133",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arizcir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "374a276a943904dd74f822c394691bf2",
+      "md5": "e8ce3ed9403540abca289d3def8444e2",
       "summation": "md5"
     },
     {
@@ -16287,9 +16298,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1569,
-  "item_last_updated": 1667256941,
-  "item_size": 88186812,
+  "files_count": 1570,
+  "item_last_updated": 1667257441,
+  "item_size": 88197761,
   "metadata": {
     "identifier": "arizcir-2022",
     "collection": [
@@ -16306,21 +16317,10 @@
     "publicdate": "2022-06-19 23:22:49",
     "addeddate": "2022-06-19 23:22:49"
   },
-  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458213113,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 988502265,
+  "uniq": 1256422028,
   "workable_servers": [
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

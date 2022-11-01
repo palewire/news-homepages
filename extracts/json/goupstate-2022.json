@@ -1,5 +1,5 @@
 {
-  "created": 1667260236,
+  "created": 1667261808,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/28/items/goupstate-2022",
@@ -5203,21 +5203,32 @@
       "format": "JSON"
     },
     {
+      "name": "goupstate-2022-10-31T19:49:02.796569-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "goupstate-2022-10-31T19:49:02.796569-04:00.jpg",
+      "mtime": "1667261721",
+      "size": "8748",
+      "md5": "d577c3381ecd17e635a083449d04bb29",
+      "crc32": "f694975b",
+      "sha1": "d1f47034d1723333ba00cd9262c688ac06c5fe64"
+    },
+    {
       "name": "goupstate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f0e3d605a3eb28d71b4a76e5dd09373fa994b77",
-      "mtime": "1667260214",
-      "size": "107666",
-      "md5": "7292404a23934df179d04efad08db5b5",
-      "crc32": "ceee5a4a",
-      "sha1": "8cef5146d8c02636071f5ec89e36a742c109ae97",
+      "btih": "a73799f87f738fba7e7d9d4eb596d67ae10bf724",
+      "mtime": "1667261727",
+      "size": "107871",
+      "md5": "6246bc0ab74fdd9f8056913a5eef4287",
+      "crc32": "6f992651",
+      "sha1": "d8774fa5743d62a0ecc2c4c32f0dd92f4970ceeb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "goupstate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "28d01e96260ad75688c704b1a1289ac6",
+      "md5": "e064d0ac8468d25281dcf97427a5e1a0",
       "summation": "md5"
     },
     {
@@ -5241,9 +5252,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 507,
-  "item_last_updated": 1667260214,
-  "item_size": 32709169,
+  "files_count": 508,
+  "item_last_updated": 1667261727,
+  "item_size": 32718122,
   "metadata": {
     "identifier": "goupstate-2022",
     "collection": [
@@ -5260,21 +5271,10 @@
     "publicdate": "2022-09-20 22:18:26",
     "addeddate": "2022-09-20 22:18:26"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458251304,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1937198845,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1106775504,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

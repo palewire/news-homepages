@@ -1,5 +1,5 @@
 {
-  "created": 1667228643,
+  "created": 1667267973,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/15/items/tiftongazette1-2022",
@@ -11917,21 +11917,32 @@
       "format": "JSON"
     },
     {
+      "name": "tiftongazette1-2022-10-31T11:02:47.010021-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tiftongazette1-2022-10-31T11:02:47.010021-04:00.jpg",
+      "mtime": "1667230974",
+      "size": "5182",
+      "md5": "224f464a59c9a01a1a8aba92821f18a8",
+      "crc32": "1ade327a",
+      "sha1": "f0332416d0362ab66f592eb1c5735e0f3d512c0d"
+    },
+    {
       "name": "tiftongazette1-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e72f1e01d1868989268fdb7e34fe4d44c4a55394",
-      "mtime": "1667228639",
-      "size": "250465",
-      "md5": "2be7be14bef5841a46d057b37285776a",
-      "crc32": "8ec9625e",
-      "sha1": "778cda5eb8658ef14157d02836061d0d446ed1e3",
+      "btih": "86cfeb5228b59f5d3396ed09ffcd55e7fe94f9bf",
+      "mtime": "1667230999",
+      "size": "250675",
+      "md5": "11ff27b096622d0258ea5f64de8e0823",
+      "crc32": "e8a05c23",
+      "sha1": "4cab16e75010888e52ab139c8ec8d43aea36f1dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tiftongazette1-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "858dea2e138a7f894afc437ba706f4be",
+      "md5": "e169e88a43a8afb51fdd4c4f037c2d31",
       "summation": "md5"
     },
     {
@@ -11955,9 +11966,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1154,
-  "item_last_updated": 1667228639,
-  "item_size": 91055128,
+  "files_count": 1155,
+  "item_last_updated": 1667230999,
+  "item_size": 91060520,
   "metadata": {
     "identifier": "tiftongazette1-2022",
     "collection": [
@@ -11974,21 +11985,15 @@
     "publicdate": "2022-07-20 23:31:20",
     "addeddate": "2022-07-20 23:31:20"
   },
-  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457852959,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 435402852,
+  "tiftongazette1-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 65010122,
   "workable_servers": [
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667228615,
+  "created": 1667268146,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/19/items/towntalkdotcom-2022",
@@ -5089,21 +5089,32 @@
       "format": "JSON"
     },
     {
+      "name": "towntalkdotcom-2022-10-31T10:02:38.243619-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "towntalkdotcom-2022-10-31T10:02:38.243619-05:00.jpg",
+      "mtime": "1667230724",
+      "size": "9212",
+      "md5": "93fb0d4297acae2c652abce18831db25",
+      "crc32": "3e556cfc",
+      "sha1": "3333d873b691f0080dc4dff96e232fb8642fbf9b"
+    },
+    {
       "name": "towntalkdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eeca61f333a47eb9c120308a62c6d448fa4a932b",
-      "mtime": "1667228612",
-      "size": "107776",
-      "md5": "bc0f98277c92d64e9656265374d539c0",
-      "crc32": "4c7aba41",
-      "sha1": "299cebac07185a844ce7797f2215a55c87a5794a",
+      "btih": "086c9890bb536875dec99ae8a71cb9098515a87a",
+      "mtime": "1667230734",
+      "size": "107986",
+      "md5": "7755ad257fbe01a87aa7b8c8f1a7c66e",
+      "crc32": "47a04c99",
+      "sha1": "62f66381e84a03a7d92496fbbe9c313e611ece8a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "towntalkdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c91dd38e32d65c251ce765c02c638561",
+      "md5": "b2e5cc48e47f73d1580680f87c5a5f56",
       "summation": "md5"
     },
     {
@@ -5127,9 +5138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 496,
-  "item_last_updated": 1667228612,
-  "item_size": 30912513,
+  "files_count": 497,
+  "item_last_updated": 1667230734,
+  "item_size": 30921935,
   "metadata": {
     "identifier": "towntalkdotcom-2022",
     "collection": [
@@ -5146,21 +5157,15 @@
     "publicdate": "2022-09-21 03:46:13",
     "addeddate": "2022-09-21 03:46:13"
   },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457852585,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1588793460,
+  "towntalkdotcom-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1660153051,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

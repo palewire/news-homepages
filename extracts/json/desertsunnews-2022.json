@@ -1,5 +1,5 @@
 {
-  "created": 1667260001,
+  "created": 1667261444,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/desertsunnews-2022",
@@ -5213,21 +5213,32 @@
       "format": "JSON"
     },
     {
+      "name": "desertsunnews-2022-10-31T16:45:42.372391-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "desertsunnews-2022-10-31T16:45:42.372391-07:00.jpg",
+      "mtime": "1667261346",
+      "size": "9388",
+      "md5": "054959527194b9a99e40045172cdcd9a",
+      "crc32": "a4889509",
+      "sha1": "d95147a6a2087bac1f192deb26c6d8178551f4ec"
+    },
+    {
       "name": "desertsunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9dd577bd595873c713e42c254cba15187c23ab1e",
-      "mtime": "1667259997",
-      "size": "109965",
-      "md5": "8101d0761dc50cc0c4c600ed8e4c36e9",
-      "crc32": "71eb927b",
-      "sha1": "44bb0529f11e201581a83c62859231022b834f83",
+      "btih": "bdcbbbdf0bce865106fee3d55c687e50174ca772",
+      "mtime": "1667261353",
+      "size": "110174",
+      "md5": "2c384e96edab4585d3b4a71faec6d380",
+      "crc32": "9e93ae12",
+      "sha1": "0b6870af18b67b727f78badc55789611fe6995c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "desertsunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "010a27cbbfee9cf40fa459dc812c5936",
+      "md5": "895e4448c07f6b3383c754b8d6deacbc",
       "summation": "md5"
     },
     {
@@ -5251,9 +5262,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 508,
-  "item_last_updated": 1667259997,
-  "item_size": 33514869,
+  "files_count": 509,
+  "item_last_updated": 1667261353,
+  "item_size": 33524466,
   "metadata": {
     "identifier": "desertsunnews-2022",
     "collection": [
@@ -5270,21 +5281,10 @@
     "publicdate": "2022-09-20 22:16:38",
     "addeddate": "2022-09-20 22:16:38"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458248748,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1885815080,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1049816451,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

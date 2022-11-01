@@ -1,6 +1,5 @@
 {
-  "conflict": 1667257370,
-  "created": 1667257370,
+  "created": 1667257506,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/15/items/bhamwatch-2022",
@@ -13565,24 +13564,29 @@
       "name": "bhamwatch-2022-10-31T17:53:51.069422-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "bhamwatch-2022-10-31T17:53:51.069422-05:00.jpg"
+      "original": "bhamwatch-2022-10-31T17:53:51.069422-05:00.jpg",
+      "mtime": "1667257367",
+      "size": "10339",
+      "md5": "785cde2fa6f9255357a3a5ad5059ed0e",
+      "crc32": "e20d464d",
+      "sha1": "09b4a070cbd3b2ffebcf80e9d7940ab119b6936e"
     },
     {
       "name": "bhamwatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2c956024022b00350132c715e0a28fe4fca9ad27",
-      "mtime": "1667256911",
-      "size": "278854",
-      "md5": "eeb74468b27c144a98f8da1661e1cf64",
-      "crc32": "8979f6c8",
-      "sha1": "192981f1274267655e7600ed19f86ef9520ef8fa",
+      "btih": "f3e6a575119d7c442dc666d7f59d4f99567d1b3a",
+      "mtime": "1667257407",
+      "size": "279060",
+      "md5": "c7467fff2088cd48f8af24de3f3a405d",
+      "crc32": "a473092f",
+      "sha1": "80ac415326479e7566576c11e9511dc181afd856",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bhamwatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e621bd765f4fee572f465d896f1b4963",
+      "md5": "11da04a8cb06322dc5e9f9be3da534b4",
       "summation": "md5"
     },
     {
@@ -13607,8 +13611,8 @@
     }
   ],
   "files_count": 1314,
-  "item_last_updated": 1667256911,
-  "item_size": 106050337,
+  "item_last_updated": 1667257407,
+  "item_size": 106060882,
   "metadata": {
     "identifier": "bhamwatch-2022",
     "collection": [
@@ -13625,21 +13629,10 @@
     "publicdate": "2022-07-09 03:56:45",
     "addeddate": "2022-07-09 03:56:45"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212815,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 88236858,
+  "uniq": 1607546440,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

@@ -1,6 +1,13 @@
 {
-  "conflict": 1667232926,
-  "created": 1667232926,
+  "abc_es-2022": {
+    "url": "https://www.abc.es/",
+    "job_id": "spn2-c42ae28dd632ae9e329fa661d97d13a6367d7896",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "created": 1667261090,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/2/items/abc_es-2022",
@@ -5744,29 +5751,10 @@
     "publicdate": "2022-07-28 18:53:56",
     "addeddate": "2022-07-28 18:53:56"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
+  "server": "ia801400.us.archive.org",
   "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457887529,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3457898005,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1113950113,
+  "uniq": 2011795198,
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia801400.us.archive.org"
   ]
 }

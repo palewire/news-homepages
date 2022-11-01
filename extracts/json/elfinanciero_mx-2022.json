@@ -1,5 +1,5 @@
 {
-  "created": 1667260050,
+  "created": 1667261619,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/19/items/elfinanciero_mx-2022",
@@ -9689,21 +9689,32 @@
       "format": "JSON"
     },
     {
+      "name": "elfinanciero_mx-2022-10-31T17:46:19.976516-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elfinanciero_mx-2022-10-31T17:46:19.976516-06:00.jpg",
+      "mtime": "1667261466",
+      "size": "9895",
+      "md5": "dfed308f156e1bea499e730ac836213d",
+      "crc32": "aac49308",
+      "sha1": "ce9cb2e441be08776cae1a34c755b6d104caeaba"
+    },
+    {
       "name": "elfinanciero_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c1957b330294a8cbcd92a0bac8bef929c08b630d",
-      "mtime": "1667260044",
-      "size": "205406",
-      "md5": "6802666a705a6db8f3d3caa9f04b61a9",
-      "crc32": "19138933",
-      "sha1": "11f23aa5df87c9a4856be146aafe4f883b612a36",
+      "btih": "a60a5064d6845db48255b109a089963fe2c8a4cc",
+      "mtime": "1667261478",
+      "size": "205617",
+      "md5": "91b295ce6ba1fba91842db4acadccae6",
+      "crc32": "4f4db193",
+      "sha1": "ba1d3a1e0623cf33c00d4240089d3159e357d25f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elfinanciero_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "13e34e6a95d7261c6cb640c866a3273f",
+      "md5": "cfe221e4040a7812dcb014ffe68695b6",
       "summation": "md5"
     },
     {
@@ -9727,9 +9738,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 941,
-  "item_last_updated": 1667260044,
-  "item_size": 69142629,
+  "files_count": 942,
+  "item_last_updated": 1667261478,
+  "item_size": 69152735,
   "metadata": {
     "identifier": "elfinanciero_mx-2022",
     "collection": [
@@ -9746,21 +9757,10 @@
     "publicdate": "2022-08-16 17:10:52",
     "addeddate": "2022-08-16 17:10:52"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458249300,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 573651828,
+  "uniq": 2086364174,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

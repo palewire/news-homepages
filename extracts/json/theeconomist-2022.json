@@ -1,5 +1,5 @@
 {
-  "created": 1667228477,
+  "created": 1667267475,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/32/items/theeconomist-2022",
@@ -18557,21 +18557,32 @@
       "format": "JSON"
     },
     {
+      "name": "theeconomist-2022-10-31T14:59:51.201346+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theeconomist-2022-10-31T14:59:51.201346+00:00.jpg",
+      "mtime": "1667230225",
+      "size": "9187",
+      "md5": "a720986017f840550319f8fc69ad7d91",
+      "crc32": "3b678b51",
+      "sha1": "568ca2589ec8dd306f45f189d067b2e3acca87bf"
+    },
+    {
       "name": "theeconomist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "43cdca528e3af3427f4ad7cbc08a00638ef1c8b4",
-      "mtime": "1667228471",
-      "size": "385106",
-      "md5": "d1242703af061adbc5dde5c7b0ff624e",
-      "crc32": "eddaeb13",
-      "sha1": "fd8e5ed81426355e51b11dede9d380e42ebc09ce",
+      "btih": "552d8cf334480a58247fa21194e165e3df91d116",
+      "mtime": "1667230249",
+      "size": "385314",
+      "md5": "bd2e289047ba41bee5462224fead9368",
+      "crc32": "275caf1f",
+      "sha1": "70f526c24e6b6213adfc345245e98d47d06cd3ac",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theeconomist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0ba8548ef0d0a5b2d13c829610b7efc1",
+      "md5": "55333f531e96d471ddfc524b5c30ef5e",
       "summation": "md5"
     },
     {
@@ -18595,9 +18606,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1796,
-  "item_last_updated": 1667228471,
-  "item_size": 113594388,
+  "files_count": 1797,
+  "item_last_updated": 1667230249,
+  "item_size": 113603783,
   "metadata": {
     "identifier": "theeconomist-2022",
     "collection": [
@@ -18614,21 +18625,10 @@
     "publicdate": "2022-07-04 21:46:07",
     "addeddate": "2022-07-04 21:46:07"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457850241,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 790937524,
+  "uniq": 1058302894,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

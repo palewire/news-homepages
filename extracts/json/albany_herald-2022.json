@@ -1,6 +1,5 @@
 {
-  "conflict": 1667257192,
-  "created": 1667257192,
+  "created": 1667257691,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/27/items/albany_herald-2022",
@@ -12423,24 +12422,29 @@
       "name": "albany_herald-2022-10-31T18:51:40.736057-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "albany_herald-2022-10-31T18:51:40.736057-04:00.jpg"
+      "original": "albany_herald-2022-10-31T18:51:40.736057-04:00.jpg",
+      "mtime": "1667257188",
+      "size": "10539",
+      "md5": "3bdce23df57b9701358ef2c4f743e623",
+      "crc32": "2d9cdf80",
+      "sha1": "da40290bde19effa730dca9a8a0a44a6e6433ec5"
     },
     {
       "name": "albany_herald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "239d6af2b673e1b2329fe4513f3d7e2a817c64fa",
-      "mtime": "1667256789",
-      "size": "261722",
-      "md5": "735f45afc6f758356b6c8f2c2c322a48",
-      "crc32": "1a30e9a2",
-      "sha1": "67cffe38ea3872e94ec147224e40548ba8c2d540",
+      "btih": "46579e94068134ea83df50bbf00b020389b868bf",
+      "mtime": "1667257395",
+      "size": "261932",
+      "md5": "d1e4f9133ffbfeee496c3eed9d39e670",
+      "crc32": "7241c7f0",
+      "sha1": "250b90a59e4211e4b3256848903efbf1e13b726b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "albany_herald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "60b42955e29a955ef5a5bee0aa87e768",
+      "md5": "0251c79e38cd1ebd6626d605546589f9",
       "summation": "md5"
     },
     {
@@ -12465,8 +12469,8 @@
     }
   ],
   "files_count": 1205,
-  "item_last_updated": 1667256789,
-  "item_size": 119921009,
+  "item_last_updated": 1667257395,
+  "item_size": 119931758,
   "metadata": {
     "identifier": "albany_herald-2022",
     "collection": [
@@ -12483,21 +12487,10 @@
     "publicdate": "2022-07-20 23:30:34",
     "addeddate": "2022-07-20 23:30:34"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458211332,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1872305252,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1152930956,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

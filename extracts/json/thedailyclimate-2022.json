@@ -1,5 +1,5 @@
 {
-  "created": 1667228571,
+  "created": 1667267393,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/28/items/thedailyclimate-2022",
@@ -12229,21 +12229,32 @@
       "format": "JSON"
     },
     {
+      "name": "thedailyclimate-2022-10-31T08:59:48.012135-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyclimate-2022-10-31T08:59:48.012135-06:00.jpg",
+      "mtime": "1667230516",
+      "size": "10510",
+      "md5": "7daa0bc125afba9a553ea6abe5cf5d85",
+      "crc32": "413c720c",
+      "sha1": "b6335db7f047e3ce7fd30bf24e8bad4a512b8c62"
+    },
+    {
       "name": "thedailyclimate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "14908b28d32a8e79ead3f2648171489edadb8039",
-      "mtime": "1667228522",
-      "size": "258432",
-      "md5": "38714805e2f337579d1bca5cf6aa5a4e",
-      "crc32": "07a352ae",
-      "sha1": "4902b8746eea441fa1a093b2bda240c9d172d9b9",
+      "btih": "4874757ef61b03a274d926c6717df680ea5ebade",
+      "mtime": "1667230552",
+      "size": "258644",
+      "md5": "a90c42646498c65f94d6f2a9d6d5b30c",
+      "crc32": "78bcf740",
+      "sha1": "c0ea82f5a0003ce3f58ae98d24231fbf4f4aa7c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyclimate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "10062f0990f6b8bc89933560b9d337d2",
+      "md5": "a888f2371560de00522e5569215ac964",
       "summation": "md5"
     },
     {
@@ -12267,9 +12278,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1186,
-  "item_last_updated": 1667228522,
-  "item_size": 78140329,
+  "files_count": 1187,
+  "item_last_updated": 1667230552,
+  "item_size": 78151051,
   "metadata": {
     "identifier": "thedailyclimate-2022",
     "collection": [
@@ -12286,21 +12297,15 @@
     "publicdate": "2022-07-23 04:24:54",
     "addeddate": "2022-07-23 04:24:54"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457851878,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 505237916,
+  "server": "ia802508.us.archive.org",
+  "thedailyclimate-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1075093472,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

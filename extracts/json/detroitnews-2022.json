@@ -1,5 +1,5 @@
 {
-  "created": 1667260025,
+  "created": 1667261447,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/9/items/detroitnews-2022",
@@ -12031,21 +12031,32 @@
       "format": "JSON"
     },
     {
+      "name": "detroitnews-2022-10-31T19:45:44.706821-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "detroitnews-2022-10-31T19:45:44.706821-04:00.jpg",
+      "mtime": "1667261377",
+      "size": "9556",
+      "md5": "16625254b125999b7801c42b803cf8c7",
+      "crc32": "e8a693ed",
+      "sha1": "d2c6b74157d7cbc1ee18f07cb341cedf95563913"
+    },
+    {
       "name": "detroitnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a4bd2760b230828372f431caf8bc6d7181ca63ae",
-      "mtime": "1667260014",
-      "size": "249519",
-      "md5": "a39dbba672eb62d2ee7baad9e43fc077",
-      "crc32": "1182eef8",
-      "sha1": "c57c79b9af01bc5e3223d7ba0c88c85e2864f1b7",
+      "btih": "0fcdcc3e6d1cae819dd60d373d1e0a8abeb64f33",
+      "mtime": "1667261397",
+      "size": "249726",
+      "md5": "e7ac075b0672bdb0855d8c6a81030ae7",
+      "crc32": "8b8568ff",
+      "sha1": "6ed0fd3bf5807e307bd768386bc37dd539b1b087",
       "format": "Archive BitTorrent"
     },
     {
       "name": "detroitnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "30d733c98a038a192b7e76dc6209def4",
+      "md5": "f3a73425c4bec911378fca65cfa34ba0",
       "summation": "md5"
     },
     {
@@ -12069,9 +12080,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1167,
-  "item_last_updated": 1667260014,
-  "item_size": 78481617,
+  "files_count": 1168,
+  "item_last_updated": 1667261397,
+  "item_size": 78491380,
   "metadata": {
     "identifier": "detroitnews-2022",
     "collection": [
@@ -12088,21 +12099,10 @@
     "publicdate": "2022-07-25 23:13:05",
     "addeddate": "2022-07-25 23:13:05"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458248992,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 388504109,
+  "server": "ia801506.us.archive.org",
+  "uniq": 1740456096,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

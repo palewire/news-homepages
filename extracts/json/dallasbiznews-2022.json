@@ -1,5 +1,5 @@
 {
-  "created": 1667259923,
+  "created": 1667261517,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/15/items/dallasbiznews-2022",
@@ -12625,21 +12625,32 @@
       "format": "JSON"
     },
     {
+      "name": "dallasbiznews-2022-10-31T18:43:40.437613-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasbiznews-2022-10-31T18:43:40.437613-05:00.jpg",
+      "mtime": "1667261453",
+      "size": "8909",
+      "md5": "40712c3720024cb475fa101680502e0e",
+      "crc32": "94d23b9c",
+      "sha1": "b0400f466ced926311d0d3a4321cf3c834075dc9"
+    },
+    {
       "name": "dallasbiznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0437c3900e27b0a902bc6d67cd43957c9f987f7b",
-      "mtime": "1667259915",
-      "size": "263932",
-      "md5": "a965a0e438218e51af7a11f51840fca6",
-      "crc32": "c0242baf",
-      "sha1": "e107e50fa599050d21e2e9e8abd958c5773fd502",
+      "btih": "00eeef549124793d83c717244c9a4d2bc858d845",
+      "mtime": "1667261473",
+      "size": "264141",
+      "md5": "f06f4d267c96896105f125136e36bceb",
+      "crc32": "aec313d7",
+      "sha1": "b866f4fc87dc18046a5ec59d258efc1cb591b4a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasbiznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb86ed0e251b2a9ef8ea347b4cbda3a0",
+      "md5": "f8a498ceb9b7363966978a7175da7ff2",
       "summation": "md5"
     },
     {
@@ -12663,9 +12674,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1224,
-  "item_last_updated": 1667259915,
-  "item_size": 88214427,
+  "files_count": 1225,
+  "item_last_updated": 1667261473,
+  "item_size": 88223545,
   "metadata": {
     "identifier": "dallasbiznews-2022",
     "collection": [
@@ -12682,21 +12693,10 @@
     "publicdate": "2022-07-18 00:04:04",
     "addeddate": "2022-07-18 00:04:04"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247965,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1073871243,
+  "uniq": 69792225,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

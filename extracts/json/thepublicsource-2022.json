@@ -1,5 +1,5 @@
 {
-  "created": 1667228490,
+  "created": 1667267763,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/21/items/thepublicsource-2022",
@@ -16143,21 +16143,32 @@
       "format": "JSON"
     },
     {
+      "name": "thepublicsource-2022-10-31T16:59:55.256820+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thepublicsource-2022-10-31T16:59:55.256820+02:00.jpg",
+      "mtime": "1667230305",
+      "size": "9969",
+      "md5": "817f428a3829090a9ff58a095e149e64",
+      "crc32": "f6fd53b9",
+      "sha1": "22a3e69465edf585cb08898725d1554d5ce02119"
+    },
+    {
       "name": "thepublicsource-2022_archive.torrent",
       "source": "metadata",
-      "btih": "241638184b1c71d88d74f2d6ff8a7d06c396e62e",
-      "mtime": "1667228486",
-      "size": "339577",
-      "md5": "a1db89d543071f617466597d3514138a",
-      "crc32": "ddaa907b",
-      "sha1": "28ab73df0ab1d6e1921ad297efa3cea27bf8cc69",
+      "btih": "5dd9420054fd9b3f6615368a827dd5270133d6d9",
+      "mtime": "1667230432",
+      "size": "339788",
+      "md5": "cfbbe39021212d500fa5637ccd4e6ebc",
+      "crc32": "7c209a37",
+      "sha1": "034b10df90477483b79c9052b10255d0c0324823",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thepublicsource-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2c1e80005d5ca9ca10b8f7f4dec6c028",
+      "md5": "7c360107224b51d8c6e944ae4d69d5d7",
       "summation": "md5"
     },
     {
@@ -16181,9 +16192,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1559,
-  "item_last_updated": 1667228486,
-  "item_size": 108574236,
+  "files_count": 1560,
+  "item_last_updated": 1667230432,
+  "item_size": 108584416,
   "metadata": {
     "identifier": "thepublicsource-2022",
     "collection": [
@@ -16200,21 +16211,15 @@
     "publicdate": "2022-06-19 23:29:03",
     "addeddate": "2022-06-19 23:29:03"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457850479,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 691784892,
+  "thepublicsource-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1220423356,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

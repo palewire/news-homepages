@@ -1,5 +1,5 @@
 {
-  "created": 1667256963,
+  "created": 1667257685,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/32/items/blockclubchi-2022",
@@ -22763,21 +22763,32 @@
       "format": "JSON"
     },
     {
+      "name": "blockclubchi-2022-10-31T17:53:29.773801-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blockclubchi-2022-10-31T17:53:29.773801-05:00.jpg",
+      "mtime": "1667257489",
+      "size": "10353",
+      "md5": "f4f71386dd8cbea9846edf422c0bd47b",
+      "crc32": "aaacd819",
+      "sha1": "2c1b2bbd0f7356c1b2a23e1080d7f34201902c85"
+    },
+    {
       "name": "blockclubchi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd89feac5e455498238d06f7211d7a5d981b9b25",
-      "mtime": "1667256940",
-      "size": "472461",
-      "md5": "90827aaf4a619ef98b54d38c5dec48a6",
-      "crc32": "08040998",
-      "sha1": "724d0e729e51f9f58e78fb76a61fc2098e9c92c3",
+      "btih": "193a48cd4199120e6d7e96abdc18012f13f3ad92",
+      "mtime": "1667257635",
+      "size": "472670",
+      "md5": "e9aa5ba415803a97b4fc24b24a355e79",
+      "crc32": "0cfbe9d9",
+      "sha1": "97cc38fac656c6573385a0ac552ece7f24742c8d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blockclubchi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e6ccb447d8d04ce38fc35208689f5beb",
+      "md5": "de3dde8954821068afc1f9fd0fe83658",
       "summation": "md5"
     },
     {
@@ -22801,9 +22812,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2198,
-  "item_last_updated": 1667256940,
-  "item_size": 165751850,
+  "files_count": 2199,
+  "item_last_updated": 1667257635,
+  "item_size": 165762412,
   "metadata": {
     "identifier": "blockclubchi-2022",
     "collection": [
@@ -22820,21 +22831,10 @@
     "publicdate": "2022-06-19 23:23:08",
     "addeddate": "2022-06-19 23:23:08"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458213443,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 222067563,
+  "server": "ia801506.us.archive.org",
+  "uniq": 206437263,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

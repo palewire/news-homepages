@@ -1,5 +1,5 @@
 {
-  "created": 1667257098,
+  "created": 1667258012,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/brunswick_news-2022",
@@ -12563,21 +12563,32 @@
       "format": "JSON"
     },
     {
+      "name": "brunswick_news-2022-10-31T18:56:46.858812-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brunswick_news-2022-10-31T18:56:46.858812-04:00.jpg",
+      "mtime": "1667257876",
+      "size": "8818",
+      "md5": "613498d788fba40573f4160ca3854f96",
+      "crc32": "06cb2061",
+      "sha1": "0b04fdaa22f887c215d94ff27e3328267418b22f"
+    },
+    {
       "name": "brunswick_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e9d976927388a82439049bac55f2f018736dcf2f",
-      "mtime": "1667257086",
-      "size": "264278",
-      "md5": "451f9cfe936c66d69df4536d2dcfb450",
-      "crc32": "de58003e",
-      "sha1": "cd7b312ff9be069e5f032cd33ec0d9706d544439",
+      "btih": "f28bbf3c649b75f5869698cd5ef2cc3aece16a55",
+      "mtime": "1667257891",
+      "size": "264488",
+      "md5": "dd35ef446688b483195cfcec1681fb81",
+      "crc32": "46709e60",
+      "sha1": "88f3b534a698b11152f835d28f84f3e727d18f0d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brunswick_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "299fa0d1435cedec204b9861af82c1d9",
+      "md5": "b1a263212828641d8251bfe885a5312f",
       "summation": "md5"
     },
     {
@@ -12601,9 +12612,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1218,
-  "item_last_updated": 1667257086,
-  "item_size": 89108793,
+  "files_count": 1219,
+  "item_last_updated": 1667257891,
+  "item_size": 89117821,
   "metadata": {
     "identifier": "brunswick_news-2022",
     "collection": [
@@ -12620,21 +12631,10 @@
     "publicdate": "2022-07-20 23:30:25",
     "addeddate": "2022-07-20 23:30:25"
   },
-  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458214937,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 876828986,
+  "uniq": 2123107006,
   "workable_servers": [
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

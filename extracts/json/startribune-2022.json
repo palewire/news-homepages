@@ -1,5 +1,5 @@
 {
-  "created": 1667228330,
+  "created": 1667266923,
   "d1": "ia904703.us.archive.org",
   "d2": "ia804703.us.archive.org",
   "dir": "/30/items/startribune-2022",
@@ -19847,21 +19847,32 @@
       "format": "JSON"
     },
     {
+      "name": "startribune-2022-10-31T09:57:26.446510-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "startribune-2022-10-31T09:57:26.446510-05:00.jpg",
+      "mtime": "1667230020",
+      "size": "8727",
+      "md5": "68d1451c7303a7483fe59c7250d6b405",
+      "crc32": "df6d1e3d",
+      "sha1": "c24024fc862559fdc63e706e68af97cf5a21f923"
+    },
+    {
       "name": "startribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3b9327ef70d381afeb1444fbb1e8eb201df7f0a3",
-      "mtime": "1667228326",
-      "size": "409237",
-      "md5": "ae67ef6156f929ab3cf53b57e12f1277",
-      "crc32": "40148345",
-      "sha1": "b991d6465f1c382ee6a54b9472a6eec92f1ffe6e",
+      "btih": "6dc0b3aeac036f431728714583500a7f13776b10",
+      "mtime": "1667230150",
+      "size": "409444",
+      "md5": "2d57a8f153bb235cb2a79d3cb430256b",
+      "crc32": "6d75425a",
+      "sha1": "dcdfdd9d8ffb86d123410776e7133ac34db65728",
       "format": "Archive BitTorrent"
     },
     {
       "name": "startribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "90d3ff7a4076d1cc81a404ad276971ac",
+      "md5": "ef167a421f127da84a0d641f2c0e4992",
       "summation": "md5"
     },
     {
@@ -19885,9 +19896,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1911,
-  "item_last_updated": 1667228326,
-  "item_size": 166056839,
+  "files_count": 1912,
+  "item_last_updated": 1667230150,
+  "item_size": 166065773,
   "metadata": {
     "identifier": "startribune-2022",
     "collection": [
@@ -19904,21 +19915,18 @@
     "publicdate": "2022-04-01 22:42:36",
     "addeddate": "2022-04-01 22:42:36"
   },
-  "pending_tasks": true,
   "server": "ia904703.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848374,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2078304482,
+  "startribune-2022": {
+    "url": "https://www.startribune.com/",
+    "job_id": "spn2-49f4189478b71119aed217f0f7f3e60718f4c523",
+    "resources": [],
+    "status": "error",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1081.",
+    "status_ext": "WorkerLostError"
+  },
+  "uniq": 708072100,
   "workable_servers": [
-    "ia904703.us.archive.org"
+    "ia904703.us.archive.org",
+    "ia804703.us.archive.org"
   ]
 }

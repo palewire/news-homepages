@@ -1,5 +1,5 @@
 {
-  "created": 1667265998,
+  "created": 1667264559,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/mgmadvertiser-2022",
@@ -6196,82 +6196,31 @@
       "sha1": "b1a73070e84717a7cfe807a07ab23ed999e9d5d7"
     },
     {
-      "name": "mgmadvertiser-2022-10-31T20:24:54.765290-05:00.accessibility.json",
-      "source": "original",
-      "mtime": "1667265905",
-      "size": "19529",
-      "md5": "0b9250ee841414841d66fc202f3271d3",
-      "crc32": "394a2c2e",
-      "sha1": "d28e8b9292c83e82b5886cfb0811f3c90032c293",
-      "format": "JSON"
-    },
-    {
-      "name": "mgmadvertiser-2022-10-31T20:24:54.765290-05:00.hyperlinks.json",
-      "source": "original",
-      "mtime": "1667265907",
-      "size": "37824",
-      "md5": "32e9c806b3d15ce35021a3d22c5aba31",
-      "crc32": "7e4b088a",
-      "sha1": "f66372d8f1b1d138866bc128749ef02f397bee41",
-      "format": "JSON"
-    },
-    {
-      "name": "mgmadvertiser-2022-10-31T20:24:54.765290-05:00.jpg",
-      "source": "original",
-      "mtime": "1667265903",
-      "size": "284621",
-      "md5": "f64383ea799125125816e64bb98af9ae",
-      "crc32": "a274ba0d",
-      "sha1": "4909506678e4ee55fc28409c51221e1a1453151c",
-      "format": "JPEG",
-      "rotation": "0"
-    },
-    {
-      "name": "mgmadvertiser-2022-10-31T20:24:54.765290-05:00.lighthouse.json",
-      "source": "original",
-      "mtime": "1667265909",
-      "size": "1585",
-      "md5": "c23e0c2032284e5cfbbc598bee4acd0e",
-      "crc32": "d2cbd3d2",
-      "sha1": "c6a2fd3c9c55fd8677ef386448609e74b850d765",
-      "format": "JSON"
-    },
-    {
-      "name": "mgmadvertiser-2022-10-31T20:24:54.765290-05:00.wayback.json",
-      "source": "original",
-      "mtime": "1667265910",
-      "size": "202",
-      "md5": "07e452389e857b7334503102fdd2cebf",
-      "crc32": "55525c66",
-      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
-      "format": "JSON"
-    },
-    {
       "name": "mgmadvertiser-2022_archive.torrent",
       "source": "metadata",
-      "btih": "398ead8d828bef5131c414f70c5e76f95e67bff5",
-      "mtime": "1667265993",
-      "size": "131447",
-      "md5": "1c6656419676705a8c7a4c7ecfce1b9f",
-      "crc32": "832291c9",
-      "sha1": "60e54b435a8cae504592afdcf2e66b012e38ffdb",
+      "btih": "a650e4cf1c70b8617b3954b1041b3c31061ebb67",
+      "mtime": "1667221953",
+      "size": "130361",
+      "md5": "2660cf43f260f08177e67e156f7da2d7",
+      "crc32": "d34b7dde",
+      "sha1": "08343455cf6f04a694d0c99691d619382ead27bd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mgmadvertiser-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "96f60ca5394c61c41d7a2f24a135fa12",
+      "md5": "8fad3d629de7b936dc73259282f79c20",
       "summation": "md5"
     },
     {
       "name": "mgmadvertiser-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667265950",
-      "size": "794624",
-      "md5": "09ba3003cf35a8affbe8cd3544f21dd8",
-      "crc32": "baeec55d",
-      "sha1": "2a3491248b58bf27c8b97326a1bd0640c990e747",
+      "mtime": "1667221002",
+      "size": "782336",
+      "md5": "3084252198da6d6b8b899e4e6b647428",
+      "crc32": "1baf5e5e",
+      "sha1": "2da5507e4855b809f3767446dfdb0e8fe6ebbe7f",
       "format": "Metadata"
     },
     {
@@ -6285,9 +6234,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 608,
-  "item_last_updated": 1667265993,
-  "item_size": 39536456,
+  "files_count": 603,
+  "item_last_updated": 1667221953,
+  "item_size": 39179321,
   "metadata": {
     "identifier": "mgmadvertiser-2022",
     "collection": [
@@ -6304,21 +6253,14 @@
     "publicdate": "2022-09-12 12:33:20",
     "addeddate": "2022-09-12 12:33:20"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458324023,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 12690709,
+  "mgmadvertiser-2022": {
+    "url": "https://www.montgomeryadvertiser.com/",
+    "job_id": "spn2-e28394c1999cced83dfe387809d1f34149a25d68"
+  },
+  "server": "ia801500.us.archive.org",
+  "uniq": 1396305932,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

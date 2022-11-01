@@ -1,5 +1,5 @@
 {
-  "created": 1667232418,
+  "created": 1667268667,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/23/items/walbnews10-2022",
@@ -12387,21 +12387,32 @@
       "format": "JSON"
     },
     {
+      "name": "walbnews10-2022-10-31T12:05:31.434944-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "walbnews10-2022-10-31T12:05:31.434944-04:00.jpg",
+      "mtime": "1667233116",
+      "size": "11059",
+      "md5": "6c445c493f8628b52d73f8951f42f874",
+      "crc32": "49cdba69",
+      "sha1": "d45908940c4b239f26e685441ffc2beabd55214b"
+    },
+    {
       "name": "walbnews10-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce8694adc9c5ac0701d32d8a662145282e8b3399",
-      "mtime": "1667232409",
-      "size": "256291",
-      "md5": "3d15ede45b4445822bcbcd9169f40d7f",
-      "crc32": "ab5689f6",
-      "sha1": "391d29f8628f049541f1dcfe94ab0dbed6889d50",
+      "btih": "0789bea774385126f53d1475b883cab5a2c8bb09",
+      "mtime": "1667233159",
+      "size": "256498",
+      "md5": "4f4be8e4412e407ad79101ca8b34a359",
+      "crc32": "2dd3a35c",
+      "sha1": "b7f3e840f47333515752ca672185981a318432e1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "walbnews10-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b331a565de1198f29ece3257912de34f",
+      "md5": "59de5fd909b7794518e98c578831868e",
       "summation": "md5"
     },
     {
@@ -12425,9 +12436,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1201,
-  "item_last_updated": 1667232409,
-  "item_size": 96248004,
+  "files_count": 1202,
+  "item_last_updated": 1667233159,
+  "item_size": 96259270,
   "metadata": {
     "identifier": "walbnews10-2022",
     "collection": [
@@ -12444,21 +12455,15 @@
     "publicdate": "2022-07-20 23:31:52",
     "addeddate": "2022-07-20 23:31:52"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457892406,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1150315668,
+  "uniq": 1380255579,
+  "walbnews10-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

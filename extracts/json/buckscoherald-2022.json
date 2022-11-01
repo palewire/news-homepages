@@ -1,5 +1,5 @@
 {
-  "created": 1667257066,
+  "created": 1667257892,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/12/items/buckscoherald-2022",
@@ -13453,21 +13453,32 @@
       "format": "JSON"
     },
     {
+      "name": "buckscoherald-2022-10-31T18:56:29.918676-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buckscoherald-2022-10-31T18:56:29.918676-04:00.jpg",
+      "mtime": "1667257716",
+      "size": "9640",
+      "md5": "92bb80af44a7b5f7ebc5a4a4ffe90386",
+      "crc32": "3841325a",
+      "sha1": "a269dd8cf4c9f92d08b5c485456f848aeb0652f3"
+    },
+    {
       "name": "buckscoherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cccbe4bac63c3d59434d053c8cccd3a6d15ccc84",
-      "mtime": "1667257062",
-      "size": "281334",
-      "md5": "fce68172bc09697dd24b403f64f1e267",
-      "crc32": "ec20392e",
-      "sha1": "26a616892e21045bc9c960cd3c66420673833c9f",
+      "btih": "a4c6942c52f605b832a308ccd3fac71e71fa3cfe",
+      "mtime": "1667257732",
+      "size": "281543",
+      "md5": "96ad16dc0117d605503a2fad7e3e74cd",
+      "crc32": "837e4d98",
+      "sha1": "9e8d36e7ac9e6bfb8b2ab1d9245c452f22ed2538",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buckscoherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8208dc2e2ccb8e1a316cb72c3c058bf6",
+      "md5": "23a459628ae1ed513008e461a65430cb",
       "summation": "md5"
     },
     {
@@ -13491,9 +13502,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1303,
-  "item_last_updated": 1667257062,
-  "item_size": 92932813,
+  "files_count": 1304,
+  "item_last_updated": 1667257732,
+  "item_size": 92942662,
   "metadata": {
     "identifier": "buckscoherald-2022",
     "collection": [
@@ -13510,21 +13521,10 @@
     "publicdate": "2022-07-09 03:57:03",
     "addeddate": "2022-07-09 03:57:03"
   },
-  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458214568,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 126296098,
+  "uniq": 1474359045,
   "workable_servers": [
-    "ia902506.us.archive.org"
+    "ia902506.us.archive.org",
+    "ia802506.us.archive.org"
   ]
 }

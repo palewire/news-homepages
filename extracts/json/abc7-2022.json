@@ -1,5 +1,10 @@
 {
-  "created": 1667256809,
+  "abc7-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261070,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/32/items/abc7-2022",
@@ -28509,21 +28514,32 @@
       "format": "JSON"
     },
     {
+      "name": "abc7-2022-10-31T15:51:00.281678-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7-2022-10-31T15:51:00.281678-07:00.jpg",
+      "mtime": "1667257854",
+      "size": "10923",
+      "md5": "29bd9e4fd8868306c0509290b2d69ca5",
+      "crc32": "e45bbf6d",
+      "sha1": "d4a9e10b0fd1aa071ef3d5e6c436dec2c928b0e2"
+    },
+    {
       "name": "abc7-2022_archive.torrent",
       "source": "metadata",
-      "btih": "33578bb7b7cd89e2e2745f9e1942565d9c6b8fa1",
-      "mtime": "1667256803",
-      "size": "568247",
-      "md5": "586484702f6117aa4b4222acd2e0d54c",
-      "crc32": "0441cad8",
-      "sha1": "2240dad0e209b26f822c9988a6eaa533dc0cbfb4",
+      "btih": "892f0f1f35e53d99d8f5b36553071b46061d724c",
+      "mtime": "1667257915",
+      "size": "568448",
+      "md5": "f0d9d7b3d7439d452463a011ba2e8844",
+      "crc32": "d322d55e",
+      "sha1": "3bee1c86697acc7fed12070b22dd37689c7e7e53",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc7-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b01188f48f563f47d99dc7d95ab5895",
+      "md5": "a1fadc5b58c74613160b752a67b213c8",
       "summation": "md5"
     },
     {
@@ -28547,9 +28563,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2742,
-  "item_last_updated": 1667256803,
-  "item_size": 240493122,
+  "files_count": 2743,
+  "item_last_updated": 1667257915,
+  "item_size": 240504246,
   "metadata": {
     "identifier": "abc7-2022",
     "collection": [
@@ -28566,21 +28582,10 @@
     "publicdate": "2022-03-23 20:58:55",
     "addeddate": "2022-03-23 20:58:55"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458211498,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 2013870294,
+  "server": "ia802508.us.archive.org",
+  "uniq": 297550177,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

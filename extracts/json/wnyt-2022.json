@@ -1,5 +1,5 @@
 {
-  "created": 1667232432,
+  "created": 1667268933,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/wnyt-2022",
@@ -11085,21 +11085,32 @@
       "format": "JSON"
     },
     {
+      "name": "wnyt-2022-10-31T12:05:50.537577-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyt-2022-10-31T12:05:50.537577-04:00.jpg",
+      "mtime": "1667233162",
+      "size": "9251",
+      "md5": "4e442cd0d20ada57b965bd86c19acabd",
+      "crc32": "0c29948c",
+      "sha1": "dea4787ec1f4b85d61ccc9e3775d66c67bae17a2"
+    },
+    {
       "name": "wnyt-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ccbccde06d7a1531e124d72d22e3e88a01b38b41",
-      "mtime": "1667232426",
-      "size": "222094",
-      "md5": "7f3ce2ec4ca5e700a4b1582f7bb03a1e",
-      "crc32": "09c07a47",
-      "sha1": "c6cf4097c0f36dde6bd52f652ad82d8a63d912b9",
+      "btih": "ddd0a0486a9eb65a3db68ea5c25524c7bf3a23fa",
+      "mtime": "1667233337",
+      "size": "222294",
+      "md5": "f27c374208915be99d967aefdb640dc0",
+      "crc32": "d49c846e",
+      "sha1": "e23173623d1909a3a3a2e576a26b003228df85f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyt-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aaee80ed18bbe85d97081bdc1bc0d4a2",
+      "md5": "2ae0965c362357b11b7e63a81cf40b56",
       "summation": "md5"
     },
     {
@@ -11123,9 +11134,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1076,
-  "item_last_updated": 1667232426,
-  "item_size": 62229062,
+  "files_count": 1077,
+  "item_last_updated": 1667233337,
+  "item_size": 62238513,
   "metadata": {
     "identifier": "wnyt-2022",
     "collection": [
@@ -11142,21 +11153,15 @@
     "publicdate": "2022-08-02 02:04:24",
     "addeddate": "2022-08-02 02:04:24"
   },
-  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457892553,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1453341723,
+  "uniq": 726482842,
+  "wnyt-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

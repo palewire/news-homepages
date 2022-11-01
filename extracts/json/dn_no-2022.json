@@ -1,8 +1,12 @@
 {
-  "created": 1667260011,
+  "created": 1667262218,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/0/items/dn_no-2022",
+  "dn_no-2022": {
+    "url": "https://www.dn.no/",
+    "job_id": "spn2-070fffcd87ac50b2419e90186d80a26fedc3011a"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -12647,21 +12651,32 @@
       "format": "JSON"
     },
     {
+      "name": "dn_no-2022-11-01T00:45:32.965247+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dn_no-2022-11-01T00:45:32.965247+01:00.jpg",
+      "mtime": "1667261409",
+      "size": "9683",
+      "md5": "73080e13abdea100bf36817e14e190f0",
+      "crc32": "39fb96e2",
+      "sha1": "133d2ebffe3365333b2059714f7e4b0f252031d5"
+    },
+    {
       "name": "dn_no-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b824fc4d3746f37f0e097213af397e1f73be467",
-      "mtime": "1667260005",
-      "size": "255018",
-      "md5": "0f06d45478a7bd006d5415480f948995",
-      "crc32": "84190b8e",
-      "sha1": "0001f775a6fd47ad9848ce9f21c934c5f849a9e9",
+      "btih": "1c3888c0ac5a60e01556baeb14232c067b2fda2c",
+      "mtime": "1667261424",
+      "size": "255219",
+      "md5": "fbaf7c43a02169de37409f4ca60ac747",
+      "crc32": "182e9bb1",
+      "sha1": "7a3e4a9f46df2cbb7ea8d08c0d8c4de5c7011bf9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dn_no-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cfc2479c92ce751d392d0ed5acadd907",
+      "md5": "f08ee8ffeb12d0e0be5d74166cb55f3c",
       "summation": "md5"
     },
     {
@@ -12685,9 +12700,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1226,
-  "item_last_updated": 1667260005,
-  "item_size": 90277658,
+  "files_count": 1227,
+  "item_last_updated": 1667261424,
+  "item_size": 90287542,
   "metadata": {
     "identifier": "dn_no-2022",
     "collection": [
@@ -12704,21 +12719,10 @@
     "publicdate": "2022-07-20 11:37:17",
     "addeddate": "2022-07-20 11:37:17"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458248853,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 442513275,
+  "uniq": 2114976573,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

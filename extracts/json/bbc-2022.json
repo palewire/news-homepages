@@ -1,6 +1,10 @@
 {
-  "conflict": 1667233053,
-  "created": 1667233053,
+  "bbc-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261434,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/3/items/bbc-2022",
@@ -31301,24 +31305,29 @@
       "name": "bbc-2022-10-31T16:02:43.325342+00:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "bbc-2022-10-31T16:02:43.325342+00:00.jpg"
+      "original": "bbc-2022-10-31T16:02:43.325342+00:00.jpg",
+      "mtime": "1667232911",
+      "size": "11464",
+      "md5": "435a9ec34486462dbcb43bfb68b00d29",
+      "crc32": "34248512",
+      "sha1": "ba4ea540ee8b69a1f0db15d350ad191ac32ba388"
     },
     {
       "name": "bbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b20ae290863e9eeeebb052cea595f09c755ab84",
-      "mtime": "1667232289",
-      "size": "619872",
-      "md5": "df14e26054bc1e78a7632c3f4d1ed94c",
-      "crc32": "eb0e349b",
-      "sha1": "86eee1ee765632a7c9f0c751510a23c6b9a33959",
+      "btih": "6c6e077c1ea87f0c4b93eb7722350dd4292db21b",
+      "mtime": "1667233811",
+      "size": "620072",
+      "md5": "dc891762cc82db4f69bdffcdcfdfd591",
+      "crc32": "b73e7ff2",
+      "sha1": "2c41ddc64517c294184bee2e95035ee6efd15b55",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "19da121a6f83e2600eb5f2d2ad1758fe",
+      "md5": "55600a2190eb5e1df0c8cece90124b6a",
       "summation": "md5"
     },
     {
@@ -31343,8 +31352,8 @@
     }
   ],
   "files_count": 3011,
-  "item_last_updated": 1667232289,
-  "item_size": 247394097,
+  "item_last_updated": 1667233811,
+  "item_size": 247405761,
   "metadata": {
     "identifier": "bbc-2022",
     "collection": [
@@ -31361,21 +31370,10 @@
     "publicdate": "2022-03-23 01:47:02",
     "addeddate": "2022-03-23 01:47:02"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457890423,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1098042041,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1529305369,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

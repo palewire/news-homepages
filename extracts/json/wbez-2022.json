@@ -1,5 +1,5 @@
 {
-  "created": 1667232526,
+  "created": 1667268732,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/24/items/wbez-2022",
@@ -21707,6 +21707,17 @@
       "format": "JSON"
     },
     {
+      "name": "wbez-2022-10-31T11:05:51.289197-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-10-31T11:05:51.289197-05:00.jpg",
+      "mtime": "1667233335",
+      "size": "9610",
+      "md5": "3e0db169ee9d0b6de59efd4ed55166fa",
+      "crc32": "9a235482",
+      "sha1": "78393e85909b501b8f46a4ad2c4608516e542dc0"
+    },
+    {
       "name": "wbez-2022-10-31T11:07:34.936805-05:00.accessibility.json",
       "source": "original",
       "mtime": "1667232459",
@@ -21758,21 +21769,32 @@
       "format": "JSON"
     },
     {
+      "name": "wbez-2022-10-31T11:07:34.936805-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbez-2022-10-31T11:07:34.936805-05:00.jpg",
+      "mtime": "1667233343",
+      "size": "9610",
+      "md5": "3e0db169ee9d0b6de59efd4ed55166fa",
+      "crc32": "9a235482",
+      "sha1": "78393e85909b501b8f46a4ad2c4608516e542dc0"
+    },
+    {
       "name": "wbez-2022_archive.torrent",
       "source": "metadata",
-      "btih": "23378a024f93bb251e45686e7ece8f89affe0997",
-      "mtime": "1667232521",
-      "size": "434036",
-      "md5": "6491b9f4d924752db5ec6866d908c724",
-      "crc32": "2b32e2a8",
-      "sha1": "8742e26c25f04321773d225ece065f45a874c32b",
+      "btih": "7140e0e7bdb49572399c4020601900a528e0c83d",
+      "mtime": "1667233570",
+      "size": "434436",
+      "md5": "485fffbc1ae1ab338ed0c4c9044314dd",
+      "crc32": "f5f94202",
+      "sha1": "6614f1f476073da5ae41fc3958ad6a742955d300",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wbez-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "24566b818471dd59551330b2739645c9",
+      "md5": "bb7b867cbe020d842cf8c06418cc2068",
       "summation": "md5"
     },
     {
@@ -21796,9 +21818,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2102,
-  "item_last_updated": 1667232521,
-  "item_size": 137045950,
+  "files_count": 2104,
+  "item_last_updated": 1667233570,
+  "item_size": 137065570,
   "metadata": {
     "identifier": "wbez-2022",
     "collection": [
@@ -21815,21 +21837,15 @@
     "publicdate": "2022-06-24 23:03:38",
     "addeddate": "2022-06-24 23:03:38"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457893136,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 658896963,
+  "uniq": 963143009,
+  "wbez-2022": {
+    "url": "https://www.wbez.org/",
+    "job_id": "spn2-f222c6ed5b0999a409dbe4a17e15ba22054360bd",
+    "message": "The same snapshot had been made 7 minutes, 18 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

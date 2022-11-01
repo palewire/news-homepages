@@ -1,6 +1,5 @@
 {
-  "conflict": 1667257285,
-  "created": 1667257285,
+  "created": 1667257375,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/alma_preta-2022",
@@ -15531,24 +15530,29 @@
       "name": "alma_preta-2022-10-31T19:51:07.350546-03:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "alma_preta-2022-10-31T19:51:07.350546-03:00.jpg"
+      "original": "alma_preta-2022-10-31T19:51:07.350546-03:00.jpg",
+      "mtime": "1667257271",
+      "size": "10884",
+      "md5": "d50951822d60bd51af8d1f19db084ae4",
+      "crc32": "097eb588",
+      "sha1": "eeebc03e04559922a58c557875386ea5562e73aa"
     },
     {
       "name": "alma_preta-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ccc549c0674d90905b84777443444ef44962ded",
-      "mtime": "1667256755",
-      "size": "320064",
-      "md5": "c89810b628ef27c4b55ff80ccefa3d36",
-      "crc32": "13e61bb9",
-      "sha1": "cfecd947b45503f26fd1411ec02f67c90d3ef519",
+      "btih": "b99e55c708cf1bec9105962ec3a5796b35b586c1",
+      "mtime": "1667257319",
+      "size": "320271",
+      "md5": "aafe253ac92a90121988579ccb5007e8",
+      "crc32": "621579e7",
+      "sha1": "0efa658175c20dcfa9d78b764e9f86067909bed5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alma_preta-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "98209911c865267d956d66d435e735f6",
+      "md5": "50f4c7ff62cb742d96a70851cc15b980",
       "summation": "md5"
     },
     {
@@ -15573,8 +15577,8 @@
     }
   ],
   "files_count": 1507,
-  "item_last_updated": 1667256755,
-  "item_size": 91239392,
+  "item_last_updated": 1667257319,
+  "item_size": 91250483,
   "metadata": {
     "identifier": "alma_preta-2022",
     "collection": [
@@ -15591,21 +15595,10 @@
     "publicdate": "2022-08-07 19:42:34",
     "addeddate": "2022-08-07 19:42:34"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458210956,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1786450764,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1958667959,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

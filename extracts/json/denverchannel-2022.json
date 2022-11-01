@@ -1,5 +1,5 @@
 {
-  "created": 1667259917,
+  "created": 1667261349,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/denverchannel-2022",
@@ -9785,21 +9785,32 @@
       "format": "JSON"
     },
     {
+      "name": "denverchannel-2022-10-31T17:43:41.160387-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverchannel-2022-10-31T17:43:41.160387-06:00.jpg",
+      "mtime": "1667261283",
+      "size": "10729",
+      "md5": "3f4d8cc56e134f835ec9a57e6f51667b",
+      "crc32": "9c4a0665",
+      "sha1": "88d657717d89f791989e673724091b1dc2303b15"
+    },
+    {
       "name": "denverchannel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3d2e03fff9e45aa0dfdd57035d00f1679a0fdc45",
-      "mtime": "1667259906",
-      "size": "205397",
-      "md5": "0cccec50a2b35c7df05ccf02c17f9da7",
-      "crc32": "3a359274",
-      "sha1": "4b672afadaea899b56b2415189b6bb5434eb88c6",
+      "btih": "70b93ae3f3b49b222bf90e88d746c0f7caa3f2d3",
+      "mtime": "1667261303",
+      "size": "205607",
+      "md5": "f7596c86473469c11f510b059f2789d4",
+      "crc32": "b4f0bde0",
+      "sha1": "3e822a90d17441a4d9290b335c0efe26a269f3dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverchannel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e9c6a6e2b81c93140bd68425bd88dab3",
+      "md5": "b7ae3c4a52c729f6602f4fd1fc935485",
       "summation": "md5"
     },
     {
@@ -9823,9 +9834,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 950,
-  "item_last_updated": 1667259906,
-  "item_size": 69824017,
+  "files_count": 951,
+  "item_last_updated": 1667261303,
+  "item_size": 69834956,
   "metadata": {
     "identifier": "denverchannel-2022",
     "collection": [
@@ -9842,21 +9853,10 @@
     "publicdate": "2022-08-13 23:53:35",
     "addeddate": "2022-08-13 23:53:35"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247926,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1127045870,
+  "server": "ia801507.us.archive.org",
+  "uniq": 2000046038,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

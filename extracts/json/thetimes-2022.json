@@ -1,5 +1,5 @@
 {
-  "created": 1667228732,
+  "created": 1667267915,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/22/items/thetimes-2022",
@@ -30671,21 +30671,32 @@
       "format": "JSON"
     },
     {
+      "name": "thetimes-2022-10-31T15:02:17.904036+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetimes-2022-10-31T15:02:17.904036+00:00.jpg",
+      "mtime": "1667230874",
+      "size": "9960",
+      "md5": "7d6e921c20397d856fd9660d831a916f",
+      "crc32": "7a7964ad",
+      "sha1": "d1b13a0a8faabee22fb826932c2afcb5d87c54eb"
+    },
+    {
       "name": "thetimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "66c9643768c2508822fbc2b49dda7af84dcb69e3",
-      "mtime": "1667228716",
-      "size": "625368",
-      "md5": "83908ee7f3e3cf4d50755cee69d49501",
-      "crc32": "b18ea72f",
-      "sha1": "bc1d252f8df336e22764ad482574fa118d0084c5",
+      "btih": "4a62d236c843e2dd3d036c97f1d829cf32835641",
+      "mtime": "1667232100",
+      "size": "625572",
+      "md5": "243b04caf300d9154c8adfa423cb5f74",
+      "crc32": "2c4a3354",
+      "sha1": "c11828b4dd05c4892365b58cea795d65b75b4d87",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d466e722d035bdcb078081086f5b1614",
+      "md5": "fc05de4e8645fff727246f78edcace71",
       "summation": "md5"
     },
     {
@@ -30709,9 +30720,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2950,
-  "item_last_updated": 1667228716,
-  "item_size": 310345265,
+  "files_count": 2951,
+  "item_last_updated": 1667232100,
+  "item_size": 310355429,
   "metadata": {
     "identifier": "thetimes-2022",
     "collection": [
@@ -30728,21 +30739,15 @@
     "publicdate": "2022-03-23 08:04:21",
     "addeddate": "2022-03-23 08:04:21"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457854014,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 373324367,
+  "server": "ia802508.us.archive.org",
+  "thetimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 305024014,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

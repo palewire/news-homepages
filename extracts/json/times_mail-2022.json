@@ -1,5 +1,5 @@
 {
-  "created": 1667228604,
+  "created": 1667267979,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/8/items/times_mail-2022",
@@ -5067,21 +5067,32 @@
       "format": "JSON"
     },
     {
+      "name": "times_mail-2022-10-31T11:02:21.495009-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "times_mail-2022-10-31T11:02:21.495009-04:00.jpg",
+      "mtime": "1667230952",
+      "size": "9055",
+      "md5": "78a43c1e88997b2f96e489bf9530f1f7",
+      "crc32": "b62cf80c",
+      "sha1": "97551d0b21dda82274008402c88799f2c9baac51"
+    },
+    {
       "name": "times_mail-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a79fd13deae4c1bfb615195c5b7ac3ef9523ac00",
-      "mtime": "1667228601",
-      "size": "105492",
-      "md5": "e0842e03e43a9f460e1e7419ed6eb2d3",
-      "crc32": "abf7fa46",
-      "sha1": "b20092e13013dd95d816cd072f27821fa533d84d",
+      "btih": "105c762ea9c8f5a8ffad8fcc470326dd238a1aaf",
+      "mtime": "1667230969",
+      "size": "105698",
+      "md5": "55f0ffc5a89c2d6c9767209e42065300",
+      "crc32": "7b1eedbc",
+      "sha1": "619dc034e8faeb4a9f7cd134c48f2f6d685a4426",
       "format": "Archive BitTorrent"
     },
     {
       "name": "times_mail-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bfa3cd220d6ab1a08484e07322b44c27",
+      "md5": "96ac50f7caf4f9b23300a14c5646d163",
       "summation": "md5"
     },
     {
@@ -5105,9 +5116,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 494,
-  "item_last_updated": 1667228601,
-  "item_size": 33253405,
+  "files_count": 495,
+  "item_last_updated": 1667230969,
+  "item_size": 33262666,
   "metadata": {
     "identifier": "times_mail-2022",
     "collection": [
@@ -5124,21 +5135,15 @@
     "publicdate": "2022-09-21 03:46:19",
     "addeddate": "2022-09-21 03:46:19"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457852395,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1539801308,
+  "server": "ia801509.us.archive.org",
+  "times_mail-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 474936495,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

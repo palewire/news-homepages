@@ -1,5 +1,5 @@
 {
-  "created": 1667257045,
+  "created": 1667257723,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/brecktexan-2022",
@@ -13485,21 +13485,32 @@
       "format": "JSON"
     },
     {
+      "name": "brecktexan-2022-10-31T17:55:59.111169-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-10-31T17:55:59.111169-05:00.jpg",
+      "mtime": "1667257584",
+      "size": "10404",
+      "md5": "f9bd355575812f113cac98c994b2acbe",
+      "crc32": "ea5631cb",
+      "sha1": "175914a1fe55e007f7f5b04937bc59d20d60d2a4"
+    },
+    {
       "name": "brecktexan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a32811d165f628a39bb2a16293b2e162b1471c0b",
-      "mtime": "1667257038",
-      "size": "279697",
-      "md5": "5ee7c09acbf6a36bf4c135cab1de3108",
-      "crc32": "de99ae30",
-      "sha1": "5e7f92625578151b79a06572fc227ac3c8893316",
+      "btih": "08bc1b9542cf1f37509e12bdb0c5911da0881bc9",
+      "mtime": "1667257662",
+      "size": "279904",
+      "md5": "2a07d2f3874df5b171ba28e60953b350",
+      "crc32": "c2f5b55a",
+      "sha1": "6c691d277bd0b637da8d56d82398d4dea6310c01",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brecktexan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6926047cfd390c2bca5b358a1f430004",
+      "md5": "c51d2f1dc82b5c99ce0456c6904cfe6a",
       "summation": "md5"
     },
     {
@@ -13523,9 +13534,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1306,
-  "item_last_updated": 1667257038,
-  "item_size": 131638703,
+  "files_count": 1307,
+  "item_last_updated": 1667257662,
+  "item_size": 131649314,
   "metadata": {
     "identifier": "brecktexan-2022",
     "collection": [
@@ -13542,21 +13553,10 @@
     "publicdate": "2022-07-09 03:56:32",
     "addeddate": "2022-07-09 03:56:32"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458214342,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 804874970,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1577308752,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

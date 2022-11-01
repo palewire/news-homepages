@@ -1,5 +1,5 @@
 {
-  "created": 1667260193,
+  "created": 1667261820,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/30/items/galesburg-2022",
@@ -5191,21 +5191,32 @@
       "format": "JSON"
     },
     {
+      "name": "galesburg-2022-10-31T18:48:44.472092-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-10-31T18:48:44.472092-05:00.jpg",
+      "mtime": "1667261586",
+      "size": "8819",
+      "md5": "e95e64505b33af2b7c20cf5c37b0769b",
+      "crc32": "54ea5eca",
+      "sha1": "f1e13d2d72a94f185c95c8a99eeef0698a3fbba3"
+    },
+    {
       "name": "galesburg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fa1443e6f2f3ad5a7849e6791b44c10cd785238e",
-      "mtime": "1667260189",
-      "size": "107502",
-      "md5": "b38c9c8c33d2e3b1417a2b35fe67586d",
-      "crc32": "f79b0c9a",
-      "sha1": "e8df5f33a35d02ab9b3d2bd3243a039e5b66afdf",
+      "btih": "9acee42dc7625446b8070200df2985c90d8bb84d",
+      "mtime": "1667261652",
+      "size": "107707",
+      "md5": "db06e5eb35cca21db3e07037f783dc87",
+      "crc32": "fee71d10",
+      "sha1": "2a1a33740d36fc4d81067d76e6a30cb45b0ac29b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "galesburg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "01a6f065d796db22630147b3e39a8023",
+      "md5": "d7d79d3e2122b367b51c6dc196cf3ce9",
       "summation": "md5"
     },
     {
@@ -5229,9 +5240,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 506,
-  "item_last_updated": 1667260189,
-  "item_size": 33856424,
+  "files_count": 507,
+  "item_last_updated": 1667261652,
+  "item_size": 33865448,
   "metadata": {
     "identifier": "galesburg-2022",
     "collection": [
@@ -5248,21 +5259,10 @@
     "publicdate": "2022-09-20 22:17:28",
     "addeddate": "2022-09-20 22:17:28"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458250907,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1628385039,
+  "uniq": 921159962,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

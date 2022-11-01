@@ -1,5 +1,5 @@
 {
-  "created": 1667232491,
+  "created": 1667268968,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/27/items/wrdw_wagt-2022",
@@ -12439,21 +12439,32 @@
       "format": "JSON"
     },
     {
+      "name": "wrdw_wagt-2022-10-31T12:06:25.191521-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wrdw_wagt-2022-10-31T12:06:25.191521-04:00.jpg",
+      "mtime": "1667233348",
+      "size": "10521",
+      "md5": "5f3e72833aa90b653d9d83289e6bd09f",
+      "crc32": "f8a63590",
+      "sha1": "18f14b9219969717735401b8d3e7b65fa23a7b37"
+    },
+    {
       "name": "wrdw_wagt-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1ade81ba3aa1208bfb2fa5de24efb25fc7fc0e52",
-      "mtime": "1667232484",
-      "size": "256066",
-      "md5": "9c98513ca459f797b414e007e80bd3fc",
-      "crc32": "714f8143",
-      "sha1": "7cb5a264d8ea44d99666cb8de3ce8b03d40ceb15",
+      "btih": "e90d5ec2b69e7495c13e86bd3bc48305f40b8e80",
+      "mtime": "1667233363",
+      "size": "256272",
+      "md5": "a2054bce05505dcafcd8c24c6b207c05",
+      "crc32": "3ad02de5",
+      "sha1": "074bc7f9925034f2b0d1382abf4433e1982af41f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wrdw_wagt-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e2d90f7baca830bd61757e849bd56c68",
+      "md5": "aee274ab4d7c37c47e0eb02fa3195e44",
       "summation": "md5"
     },
     {
@@ -12477,9 +12488,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1206,
-  "item_last_updated": 1667232484,
-  "item_size": 93993588,
+  "files_count": 1207,
+  "item_last_updated": 1667233363,
+  "item_size": 94004315,
   "metadata": {
     "identifier": "wrdw_wagt-2022",
     "collection": [
@@ -12496,21 +12507,15 @@
     "publicdate": "2022-07-20 23:32:25",
     "addeddate": "2022-07-20 23:32:25"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457893251,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1093957696,
+  "server": "ia801507.us.archive.org",
+  "uniq": 207252316,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
-  ]
+  ],
+  "wrdw_wagt-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  }
 }

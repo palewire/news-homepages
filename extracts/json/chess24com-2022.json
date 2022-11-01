@@ -1,6 +1,10 @@
 {
-  "conflict": 1667233448,
-  "created": 1667233448,
+  "chess24com-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261754,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/27/items/chess24com-2022",
@@ -12494,21 +12498,32 @@
       "format": "JSON"
     },
     {
+      "name": "chess24com-2022-10-31T17:04:51.849201+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chess24com-2022-10-31T17:04:51.849201+01:00.jpg",
+      "mtime": "1667233453",
+      "size": "10394",
+      "md5": "a91c62591b05765fc82eaa234c48f960",
+      "crc32": "532b800c",
+      "sha1": "d2a74cdfbb09e128228f111d1624b1ea23a6cd11"
+    },
+    {
       "name": "chess24com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0da838c369ae8748147541f6fca7aa76562351d9",
-      "mtime": "1667232365",
-      "size": "257890",
-      "md5": "242fca9e40998df4bdb38e2d08c069b9",
-      "crc32": "62813e93",
-      "sha1": "56be23befaceebaa4a1e07aa3bc8a7816b5eba01",
+      "btih": "721634008752d1863984793470bf8ce399e48e8b",
+      "mtime": "1667233469",
+      "size": "258097",
+      "md5": "cb108dd36801a95d2c8f36ecabc2b524",
+      "crc32": "f52641ac",
+      "sha1": "a5070cf7b2f7d46575907eebbd2c36e4770dc2e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chess24com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e5fde3f78bf4afe2b0ac2edd64945e73",
+      "md5": "b62b059fd03f30ef447b9be191358005",
       "summation": "md5"
     },
     {
@@ -12532,9 +12547,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1211,
-  "item_last_updated": 1667232365,
-  "item_size": 88466355,
+  "files_count": 1212,
+  "item_last_updated": 1667233469,
+  "item_size": 88476956,
   "metadata": {
     "identifier": "chess24com-2022",
     "collection": [
@@ -12551,21 +12566,10 @@
     "publicdate": "2022-07-20 11:23:28",
     "addeddate": "2022-07-20 11:23:28"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457891792,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 459885156,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1476391763,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

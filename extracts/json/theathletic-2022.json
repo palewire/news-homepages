@@ -1,5 +1,5 @@
 {
-  "created": 1667228454,
+  "created": 1667267277,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/31/items/theathletic-2022",
@@ -12397,21 +12397,32 @@
       "format": "JSON"
     },
     {
+      "name": "theathletic-2022-10-31T10:59:45.076275-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theathletic-2022-10-31T10:59:45.076275-04:00.jpg",
+      "mtime": "1667230171",
+      "size": "10418",
+      "md5": "46cf2f4e7f471b7e3a15af5c97f62429",
+      "crc32": "8d6c0a17",
+      "sha1": "571a05d55b13e8e342a59d126b11b077090939a9"
+    },
+    {
       "name": "theathletic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b53370fe652181d1488f3af518b69727c8f0b251",
-      "mtime": "1667228451",
-      "size": "256893",
-      "md5": "7f6dc6928e09e83fc4b36dd25690e883",
-      "crc32": "27aa5acf",
-      "sha1": "7d3d4e03576fb9fe778099800a8106fd62889b41",
+      "btih": "d4bb947d7bd0851103064efb14a7c98e85e69a85",
+      "mtime": "1667230283",
+      "size": "257101",
+      "md5": "8b545483c77a625df559704b89909734",
+      "crc32": "b832e958",
+      "sha1": "65f1b927aecd20a9c89d8c33e8b55e9511e5b4dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theathletic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7b96b005f87df504069fa3a71878ca0f",
+      "md5": "906f2f0ff7042f6b3173e68939551585",
       "summation": "md5"
     },
     {
@@ -12435,9 +12446,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1202,
-  "item_last_updated": 1667228451,
-  "item_size": 77566304,
+  "files_count": 1203,
+  "item_last_updated": 1667230283,
+  "item_size": 77576930,
   "metadata": {
     "identifier": "theathletic-2022",
     "collection": [
@@ -12454,21 +12465,15 @@
     "publicdate": "2022-07-21 04:28:48",
     "addeddate": "2022-07-21 04:28:48"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457849835,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 66967448,
+  "server": "ia802502.us.archive.org",
+  "theathletic-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1448515858,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

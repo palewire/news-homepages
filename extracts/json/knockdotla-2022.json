@@ -1,5 +1,5 @@
 {
-  "created": 1667265836,
+  "created": 1667263630,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/24/items/knockdotla-2022",
@@ -28296,82 +28296,31 @@
       "sha1": "d973d245c19a3ef601866df93f88e4f99d80ce32"
     },
     {
-      "name": "knockdotla-2022-10-31T18:21:35.346617-07:00.accessibility.json",
-      "source": "original",
-      "mtime": "1667265699",
-      "size": "12088",
-      "md5": "2924cdf55f0ade1948bd5a5331ef923e",
-      "crc32": "ecbdaed3",
-      "sha1": "cffcc0a844213a0611f12cdee855159bd689cc9c",
-      "format": "JSON"
-    },
-    {
-      "name": "knockdotla-2022-10-31T18:21:35.346617-07:00.hyperlinks.json",
-      "source": "original",
-      "mtime": "1667265701",
-      "size": "13855",
-      "md5": "cd2ad713a46dede3e1108e9ae9bc6287",
-      "crc32": "fca7aed3",
-      "sha1": "5b15d678f70fd314e1148759cbe5a0d117ac261e",
-      "format": "JSON"
-    },
-    {
-      "name": "knockdotla-2022-10-31T18:21:35.346617-07:00.jpg",
-      "source": "original",
-      "mtime": "1667265697",
-      "size": "247827",
-      "md5": "4689235782079097d5a6e724494275b3",
-      "crc32": "9222aed7",
-      "sha1": "975423ee02c069b960d7fce1fd7a4792e1678efb",
-      "format": "JPEG",
-      "rotation": "0"
-    },
-    {
-      "name": "knockdotla-2022-10-31T18:21:35.346617-07:00.lighthouse.json",
-      "source": "original",
-      "mtime": "1667265704",
-      "size": "1432",
-      "md5": "928a0f0c2ae43e41f87ffb31c1fdc14d",
-      "crc32": "220e9ce7",
-      "sha1": "a9f952668dd4d05b134dc5ee3eadf8715b75bc8e",
-      "format": "JSON"
-    },
-    {
-      "name": "knockdotla-2022-10-31T18:21:35.346617-07:00.wayback.json",
-      "source": "original",
-      "mtime": "1667265706",
-      "size": "202",
-      "md5": "07e452389e857b7334503102fdd2cebf",
-      "crc32": "55525c66",
-      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
-      "format": "JSON"
-    },
-    {
       "name": "knockdotla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f5a5c81cb645a5064b766a2c8865ccd3199cf01",
-      "mtime": "1667265829",
-      "size": "577875",
-      "md5": "49a77797e9fb5d4a90ac30c84b1c9344",
-      "crc32": "4d61a3e0",
-      "sha1": "287e2ad5fe178e4c363d4af8fe89cd08c5747e72",
+      "btih": "8e6fb201f983acf8966f17d2944edcd88d5f18d6",
+      "mtime": "1667224476",
+      "size": "576804",
+      "md5": "bf942f09f289fced857213b4ff3612f3",
+      "crc32": "6d58543c",
+      "sha1": "93f760b4c71b820d27d6360b058f4516b8bfb446",
       "format": "Archive BitTorrent"
     },
     {
       "name": "knockdotla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94c31a7868a16914490158f4a17b15ff",
+      "md5": "ee18f1445262a36fc9e661cbea50d105",
       "summation": "md5"
     },
     {
       "name": "knockdotla-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667265712",
-      "size": "3325952",
-      "md5": "7c8081af5ded668d88d2a28aefc4e9c6",
-      "crc32": "9e0bef0f",
-      "sha1": "0319827d97306b3b7fededf795eda3cbb1d09bbd",
+      "mtime": "1667220853",
+      "size": "3313664",
+      "md5": "7ea7cce52206c49f5d19c1501ec4602a",
+      "crc32": "c1b1d421",
+      "sha1": "be4016aae5ebceb4b1e67aa463791298a9007f31",
       "format": "Metadata"
     },
     {
@@ -28385,9 +28334,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2727,
-  "item_last_updated": 1667265829,
-  "item_size": 156861071,
+  "files_count": 2722,
+  "item_last_updated": 1667224476,
+  "item_size": 156572308,
+  "knockdotla-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "knockdotla-2022",
     "collection": [
@@ -28404,21 +28358,10 @@
     "publicdate": "2022-03-23 02:08:17",
     "addeddate": "2022-03-23 02:08:17"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458322105,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2077731717,
+  "server": "ia802507.us.archive.org",
+  "uniq": 793529672,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667259899,
+  "created": 1667261382,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/26/items/charlie_hebdo_-2022",
@@ -16313,21 +16313,32 @@
       "format": "JSON"
     },
     {
+      "name": "charlie_hebdo_-2022-11-01T00:43:43.277869+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "charlie_hebdo_-2022-11-01T00:43:43.277869+01:00.jpg",
+      "mtime": "1667261328",
+      "size": "11293",
+      "md5": "88ac1918469c33a4803726329abd9a59",
+      "crc32": "4003f30d",
+      "sha1": "867e05ad294df7ff7f19dd6731460d623616ccf0"
+    },
+    {
       "name": "charlie_hebdo_-2022_archive.torrent",
       "source": "metadata",
-      "btih": "69d5d1d6ace74c3dfb5df66814ff828d6b924824",
-      "mtime": "1667259895",
-      "size": "343362",
-      "md5": "ce0e9f2dc2609246c579703c42613a15",
-      "crc32": "83b6a173",
-      "sha1": "f0cea5e57571eab45675338a9de1a005f65de143",
+      "btih": "45bb2ef0ffad1f31f8e0b1dda169b9e15a8fc061",
+      "mtime": "1667261351",
+      "size": "343573",
+      "md5": "258b6f906de644442fd6d21bf3d2d231",
+      "crc32": "f2145435",
+      "sha1": "8a24df24c1000fb2180327b1cebe181679d99978",
       "format": "Archive BitTorrent"
     },
     {
       "name": "charlie_hebdo_-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46f346d05c2ef0b9fbd5d1887f74bd63",
+      "md5": "e40f52b1123147d263e712b9fd4a9d6c",
       "summation": "md5"
     },
     {
@@ -16351,9 +16362,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1582,
-  "item_last_updated": 1667259895,
-  "item_size": 114677211,
+  "files_count": 1583,
+  "item_last_updated": 1667261351,
+  "item_size": 114688715,
   "metadata": {
     "identifier": "charlie_hebdo_-2022",
     "collection": [
@@ -16370,21 +16381,10 @@
     "publicdate": "2022-08-05 08:11:56",
     "addeddate": "2022-08-05 08:11:56"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247777,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1511980608,
+  "server": "ia802502.us.archive.org",
+  "uniq": 670297968,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "created": 1667259888,
+  "conflict": 1667261938,
+  "created": 1667261938,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/10/items/dailyneb-2022",
@@ -11665,21 +11666,32 @@
       "format": "JSON"
     },
     {
+      "name": "dailyneb-2022-10-31T18:43:29.863508-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyneb-2022-10-31T18:43:29.863508-05:00.jpg",
+      "mtime": "1667261921",
+      "size": "10490",
+      "md5": "ca98a249f0342f50583b8f1e66de215f",
+      "crc32": "a50fb8c8",
+      "sha1": "6a04e3958a0676234a8b78fd04d4ab86ae06207a"
+    },
+    {
       "name": "dailyneb-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8dbbe9e669c77d57a93172620ddee906130263d6",
-      "mtime": "1667259880",
-      "size": "238571",
-      "md5": "7f69e679a4d5246f9c3e61aecba78496",
-      "crc32": "cf2407d4",
-      "sha1": "2b8282e1ec2f3900c4403c05b3a5f93aec6ba148",
+      "btih": "9b51d036e6c11476a4b328fc03f6e5d0e50fb5e3",
+      "mtime": "1667261936",
+      "size": "238776",
+      "md5": "e0e37eadedec90872759987df0aa74f8",
+      "crc32": "67ed56c9",
+      "sha1": "8549010805bafb7b48ce1320ce0516fc34b5b47b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyneb-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3e25cf6b579a0e1b0450612f946eab18",
+      "md5": "ce8f241824a2e500452b50dd6f5e1436",
       "summation": "md5"
     },
     {
@@ -11703,9 +11715,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1132,
-  "item_last_updated": 1667259880,
-  "item_size": 69258456,
+  "files_count": 1133,
+  "item_last_updated": 1667261936,
+  "item_size": 69269151,
   "metadata": {
     "identifier": "dailyneb-2022",
     "collection": [
@@ -11730,12 +11742,20 @@
       "task_id": 3458247635,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458272526,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1342125962,
+  "uniq": 968444280,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

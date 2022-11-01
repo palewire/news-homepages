@@ -1,5 +1,5 @@
 {
-  "created": 1667228550,
+  "created": 1667267270,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/17/items/theaspentimes-2022",
@@ -8533,21 +8533,32 @@
       "format": "JSON"
     },
     {
+      "name": "theaspentimes-2022-10-31T08:59:52.144516-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theaspentimes-2022-10-31T08:59:52.144516-06:00.jpg",
+      "mtime": "1667231076",
+      "size": "9422",
+      "md5": "cd0fc5f7cf364722a34b058d8269ad91",
+      "crc32": "71b8dcff",
+      "sha1": "e8c71313750e1dfeabd5608f42079abd9ba8eb51"
+    },
+    {
       "name": "theaspentimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "343d57b5d1eb883997b14ecc863cd9eb39b40cfe",
-      "mtime": "1667228535",
-      "size": "178655",
-      "md5": "64442b716afccb5220baaf0646d23163",
-      "crc32": "8de31baf",
-      "sha1": "8403f74dc14501cd41a7933a4edaaa8da5958ef9",
+      "btih": "3db98aed679ed836ce4278045514824fab8d620b",
+      "mtime": "1667231191",
+      "size": "178864",
+      "md5": "5ec3c19cfbf53de35146c62d5f1131d9",
+      "crc32": "0ae9a0d8",
+      "sha1": "1782d2b8370182005a0547fcb513d66b3226914d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theaspentimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b9e4bd25748d6a0380c018c338e321b0",
+      "md5": "32dd3bc5afd2bce24a8a462ebb22e23d",
       "summation": "md5"
     },
     {
@@ -8571,9 +8582,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 829,
-  "item_last_updated": 1667228535,
-  "item_size": 46117177,
+  "files_count": 830,
+  "item_last_updated": 1667231191,
+  "item_size": 46126808,
   "metadata": {
     "identifier": "theaspentimes-2022",
     "collection": [
@@ -8590,21 +8601,15 @@
     "publicdate": "2022-08-22 13:05:38",
     "addeddate": "2022-08-22 13:05:38"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457851481,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1409543894,
+  "server": "ia801401.us.archive.org",
+  "theaspentimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1698452753,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

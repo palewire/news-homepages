@@ -1,5 +1,5 @@
 {
-  "created": 1667228628,
+  "created": 1667268008,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/1/items/timesherald-2022",
@@ -12159,21 +12159,32 @@
       "format": "JSON"
     },
     {
+      "name": "timesherald-2022-10-31T11:02:12.479049-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesherald-2022-10-31T11:02:12.479049-04:00.jpg",
+      "mtime": "1667230663",
+      "size": "9155",
+      "md5": "274b0d34a2f42a94f502f48b83131077",
+      "crc32": "039c27ea",
+      "sha1": "de09f772f08bbd0d9d9c69c86fff56410dfa941e"
+    },
+    {
       "name": "timesherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e64c16704520d1238ea9773ed2aa046c34d7b6e0",
-      "mtime": "1667228618",
-      "size": "251726",
-      "md5": "53b3a1019c9f87949b1ef31c0cee9f3f",
-      "crc32": "6c3a2a32",
-      "sha1": "77293d25a4e9fe6e5ed338f6b1048a92695fc460",
+      "btih": "50a613eb24958d65d8d722af5dc5a5c10f0fb322",
+      "mtime": "1667230734",
+      "size": "251933",
+      "md5": "5ba8f13436788a6f2f6b66c79ec512cb",
+      "crc32": "a6438ab4",
+      "sha1": "8418024809f4277c3fe0acd5b4ad9fd133e07430",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "348119fcece82324d287d96e823cfcd4",
+      "md5": "7156b1cc362b4eaa3dbbcbb3dea975fe",
       "summation": "md5"
     },
     {
@@ -12197,9 +12208,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1179,
-  "item_last_updated": 1667228618,
-  "item_size": 72645863,
+  "files_count": 1180,
+  "item_last_updated": 1667230734,
+  "item_size": 72655225,
   "metadata": {
     "identifier": "timesherald-2022",
     "collection": [
@@ -12216,21 +12227,10 @@
     "publicdate": "2022-07-20 23:31:58",
     "addeddate": "2022-07-20 23:31:58"
   },
-  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457852759,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1144221403,
+  "uniq": 170986753,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667259861,
+  "created": 1667261346,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/9/items/chesbayjournal-2022",
@@ -13539,21 +13539,32 @@
       "format": "JSON"
     },
     {
+      "name": "chesbayjournal-2022-10-31T19:43:07.804817-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesbayjournal-2022-10-31T19:43:07.804817-04:00.jpg",
+      "mtime": "1667261173",
+      "size": "9876",
+      "md5": "926116a029818e960fedbd86e443ff27",
+      "crc32": "f9ca59a6",
+      "sha1": "6647e683defc378e062db0259a3c87d4fe02f768"
+    },
+    {
       "name": "chesbayjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c57dbf5bf614380014c498344007ce8fdeee0cef",
-      "mtime": "1667259858",
-      "size": "284565",
-      "md5": "a42809683e4835a9c4b8c7a6739c276b",
-      "crc32": "b7af8203",
-      "sha1": "96ac550ac33a0040995e75fb7ea91a2d736e34cc",
+      "btih": "78b10c3c9b56da0d2686bc8b8e4c24ec1b4a6ee4",
+      "mtime": "1667261299",
+      "size": "284775",
+      "md5": "9090e2b26fdb42e70d7c63284aa26fd6",
+      "crc32": "182e9cd1",
+      "sha1": "7fee441030dd2e148cd83e063a1c0ed88a4f93f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesbayjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77f7e53054591218c1574bfa2e88416e",
+      "md5": "d2f158d03a2180727ea390ae4b59be5d",
       "summation": "md5"
     },
     {
@@ -13577,9 +13588,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1311,
-  "item_last_updated": 1667259858,
-  "item_size": 97525186,
+  "files_count": 1312,
+  "item_last_updated": 1667261299,
+  "item_size": 97535272,
   "metadata": {
     "identifier": "chesbayjournal-2022",
     "collection": [
@@ -13596,21 +13607,10 @@
     "publicdate": "2022-07-09 03:56:13",
     "addeddate": "2022-07-09 03:56:13"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247308,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1860683562,
+  "server": "ia802500.us.archive.org",
+  "uniq": 82671908,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

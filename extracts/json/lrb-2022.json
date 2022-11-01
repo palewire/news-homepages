@@ -1,5 +1,5 @@
 {
-  "created": 1667265953,
+  "created": 1667264333,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/22/items/lrb-2022",
@@ -13904,82 +13904,31 @@
       "sha1": "7e841f16dba062899639a365779186fa9a675c39"
     },
     {
-      "name": "lrb-2022-11-01T01:24:28.965582+00:00.accessibility.json",
-      "source": "original",
-      "mtime": "1667265872",
-      "size": "24717",
-      "md5": "d2cd6be9709e57bb9f40c4347a1b4bfe",
-      "crc32": "5aab9d76",
-      "sha1": "206d1932bb1a738da5b75ef62eabb8f590709b27",
-      "format": "JSON"
-    },
-    {
-      "name": "lrb-2022-11-01T01:24:28.965582+00:00.hyperlinks.json",
-      "source": "original",
-      "mtime": "1667265876",
-      "size": "31586",
-      "md5": "14d76fe7ff816c511daa7006f46a4595",
-      "crc32": "dbc7deca",
-      "sha1": "22f5d539536624576b02a4657b4141ecb9157fd8",
-      "format": "JSON"
-    },
-    {
-      "name": "lrb-2022-11-01T01:24:28.965582+00:00.jpg",
-      "source": "original",
-      "mtime": "1667265870",
-      "size": "292644",
-      "md5": "a0faea8b31f19a9ce53cfae251e74004",
-      "crc32": "02cc4120",
-      "sha1": "f5bdd1322250a52d884dbc9bb497d139b4bfe9fa",
-      "format": "JPEG",
-      "rotation": "0"
-    },
-    {
-      "name": "lrb-2022-11-01T01:24:28.965582+00:00.lighthouse.json",
-      "source": "original",
-      "mtime": "1667265882",
-      "size": "1441",
-      "md5": "2e04868f82f8eb6f85feb8f040b110d4",
-      "crc32": "a768a9f6",
-      "sha1": "63b8d5136c0a227ed6fa8d42f5b44873509b1c42",
-      "format": "JSON"
-    },
-    {
-      "name": "lrb-2022-11-01T01:24:28.965582+00:00.wayback.json",
-      "source": "original",
-      "mtime": "1667265883",
-      "size": "11681",
-      "md5": "da7067800df8333a53ac4a6f35525920",
-      "crc32": "f9305de2",
-      "sha1": "cbab37150edd40d0bb3c70e9ec886c30bc264f1f",
-      "format": "JSON"
-    },
-    {
       "name": "lrb-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0fd7115916ab9793b22c48a00b2b1be64d035448",
-      "mtime": "1667265944",
-      "size": "278294",
-      "md5": "06e09b58beeb3e206d2ecb1ee9a45721",
-      "crc32": "37809244",
-      "sha1": "b0fc01bc6f83c7ca1c6283b631c6e81faf4215fe",
+      "btih": "5e74d6dc22b8daf54916b98888870642dd0a7cc8",
+      "mtime": "1667222703",
+      "size": "277256",
+      "md5": "c7cf358c45d6e1a650a3e03d9d1ad251",
+      "crc32": "15935666",
+      "sha1": "161388eac119c1dc918bf5107fb3fd102e5e4332",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lrb-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d806dd72e87a1e35d966546b26a5b12e",
+      "md5": "431c8c9c1055254f24d8176e0a07c1de",
       "summation": "md5"
     },
     {
       "name": "lrb-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667265887",
-      "size": "1712128",
-      "md5": "ea8c79e580df7de5ebaca670392af8d9",
-      "crc32": "4d116819",
-      "sha1": "4853509478314855248c9a14b9b085c3bcc7337a",
+      "mtime": "1667220893",
+      "size": "1708032",
+      "md5": "cdda56fe812ce5cff3620a82e8eadf81",
+      "crc32": "3ac8e4a9",
+      "sha1": "1f2be356630e47bf5a8a6559ef33ed9f36ff1c9a",
       "format": "Metadata"
     },
     {
@@ -13993,9 +13942,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1354,
-  "item_last_updated": 1667265944,
-  "item_size": 86948095,
+  "files_count": 1349,
+  "item_last_updated": 1667222703,
+  "item_size": 86580892,
+  "lrb-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lrb-2022",
     "collection": [
@@ -14012,21 +13966,10 @@
     "publicdate": "2022-08-18 23:54:57",
     "addeddate": "2022-08-18 23:54:57"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458323544,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1422777439,
+  "uniq": 1796591773,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667228506,
+  "created": 1667267209,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/11/items/texastribune-2022",
@@ -15169,21 +15169,32 @@
       "format": "JSON"
     },
     {
+      "name": "texastribune-2022-10-31T09:57:23.357858-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texastribune-2022-10-31T09:57:23.357858-05:00.jpg",
+      "mtime": "1667230506",
+      "size": "8743",
+      "md5": "002f560e4f4fd633fcd2d2b580623029",
+      "crc32": "8d1b22f3",
+      "sha1": "c7627f3b23c008ff8a5edbccb04d8c6dc8d183f7"
+    },
+    {
       "name": "texastribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3ba0b0a848fdd0d17090ef8508ce1b75720d732",
-      "mtime": "1667228457",
-      "size": "314778",
-      "md5": "7acf946edb8c850839d1149b0b755d19",
-      "crc32": "9d392579",
-      "sha1": "34354acf6396077453c4699f5344cf9cffae216f",
+      "btih": "ebf2ac7accf4498c1a41b4f64ac85488873001de",
+      "mtime": "1667230569",
+      "size": "314986",
+      "md5": "69427f7210197fcccfd65ef1afac1312",
+      "crc32": "0922d6c8",
+      "sha1": "a0d6dbd71bae6cdadfb4b97639d20c1382a34fd6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texastribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "500680652b63eaacd46dc5938762c2b7",
+      "md5": "b469315dc4a1d179fac2099601b397df",
       "summation": "md5"
     },
     {
@@ -15207,9 +15218,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1466,
-  "item_last_updated": 1667228457,
-  "item_size": 102758580,
+  "files_count": 1467,
+  "item_last_updated": 1667230569,
+  "item_size": 102767531,
   "metadata": {
     "identifier": "texastribune-2022",
     "collection": [
@@ -15226,21 +15237,15 @@
     "publicdate": "2022-06-24 23:02:15",
     "addeddate": "2022-06-24 23:02:15"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457851223,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 542900535,
+  "server": "ia801407.us.archive.org",
+  "texastribune-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 450967889,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

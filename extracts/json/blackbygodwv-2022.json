@@ -1,5 +1,5 @@
 {
-  "created": 1667256943,
+  "created": 1667257551,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/blackbygodwv-2022",
@@ -13437,21 +13437,32 @@
       "format": "JSON"
     },
     {
+      "name": "blackbygodwv-2022-10-31T18:54:34.550307-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blackbygodwv-2022-10-31T18:54:34.550307-04:00.jpg",
+      "mtime": "1667257461",
+      "size": "8652",
+      "md5": "e946def9d06e88650cf742d9d106e991",
+      "crc32": "80437734",
+      "sha1": "322bc24e3dd9c7807eb582090d5d803f63adc06c"
+    },
+    {
       "name": "blackbygodwv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "adc5e719dd752a72e1a87a9d295a1c5baf5e3e76",
-      "mtime": "1667256941",
-      "size": "278253",
-      "md5": "18a392d736f21497c9115abb5abf6bdc",
-      "crc32": "6571ccff",
-      "sha1": "6069e81c4237ff19cc628f773b3a7d94e6dd381b",
+      "btih": "d87c2d4967f9fd23a12cab7d46140f8427dc023d",
+      "mtime": "1667257505",
+      "size": "278461",
+      "md5": "2f9bed8f21c3010831266fd4babacb36",
+      "crc32": "b636900d",
+      "sha1": "05f74e5e3419499ce07cd24fd7255cf1e0ce63da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blackbygodwv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8b6b4512687ed990c19c5bbfb7a9b509",
+      "md5": "be1c87b18762c5a51b33363dd6fb37f5",
       "summation": "md5"
     },
     {
@@ -13475,9 +13486,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1301,
-  "item_last_updated": 1667256941,
-  "item_size": 65349096,
+  "files_count": 1302,
+  "item_last_updated": 1667257505,
+  "item_size": 65357956,
   "metadata": {
     "identifier": "blackbygodwv-2022",
     "collection": [
@@ -13494,21 +13505,10 @@
     "publicdate": "2022-07-10 15:40:03",
     "addeddate": "2022-07-10 15:40:03"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458213070,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1235402924,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1072046926,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

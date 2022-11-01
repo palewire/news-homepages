@@ -1,5 +1,5 @@
 {
-  "created": 1667228322,
+  "created": 1667266682,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/sinembargomx-2022",
@@ -9329,21 +9329,32 @@
       "format": "JSON"
     },
     {
+      "name": "sinembargomx-2022-10-31T08:57:29.702114-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sinembargomx-2022-10-31T08:57:29.702114-06:00.jpg",
+      "mtime": "1667230137",
+      "size": "9651",
+      "md5": "a0ad2c6669e081bb348b4e8150088bfc",
+      "crc32": "07b23752",
+      "sha1": "529e5dcbf83b9e783f80b251b786652d1d6d33d0"
+    },
+    {
       "name": "sinembargomx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "95eaf171df099614d85f4cbeddb53de02976c65f",
-      "mtime": "1667228317",
-      "size": "195911",
-      "md5": "9e20afc0d02dbe1e013d494f8d794d3a",
-      "crc32": "404cbe56",
-      "sha1": "c8a029e49fb91ab9ac89ff346dc6dc902e2c3049",
+      "btih": "1da63efe96df8998df323414427608a827b5fe63",
+      "mtime": "1667230147",
+      "size": "196119",
+      "md5": "1315ece2ed9039957a3c71dd7a5c1e91",
+      "crc32": "83d77efb",
+      "sha1": "4263431b87e3573cda97448854406a61f8a140da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sinembargomx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e7408f9d50e7fadfaaff9f36c10bbbc8",
+      "md5": "1fc297546b4669ad49afe5eb0d0da606",
       "summation": "md5"
     },
     {
@@ -9367,9 +9378,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 906,
-  "item_last_updated": 1667228317,
-  "item_size": 88933241,
+  "files_count": 907,
+  "item_last_updated": 1667230147,
+  "item_size": 88943100,
   "metadata": {
     "identifier": "sinembargomx-2022",
     "collection": [
@@ -9386,21 +9397,14 @@
     "publicdate": "2022-08-16 17:12:18",
     "addeddate": "2022-08-16 17:12:18"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848279,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 637993084,
+  "server": "ia801408.us.archive.org",
+  "sinembargomx-2022": {
+    "url": "https://www.sinembargo.mx/",
+    "job_id": "spn2-e42198cfc2c862429e5d095921cbfbcf9c883177"
+  },
+  "uniq": 1610746337,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

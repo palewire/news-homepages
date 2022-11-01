@@ -1,5 +1,5 @@
 {
-  "created": 1667228331,
+  "created": 1667267202,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/texasobserver-2022",
@@ -12629,21 +12629,32 @@
       "format": "JSON"
     },
     {
+      "name": "texasobserver-2022-10-31T09:57:34.986785-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "texasobserver-2022-10-31T09:57:34.986785-05:00.jpg",
+      "mtime": "1667230269",
+      "size": "9308",
+      "md5": "6e7cebe4afd32b708b8d18d29124ed6d",
+      "crc32": "e6bdb5d6",
+      "sha1": "ff7e6a9352a7c4c8b8a2cd880d89d00bc23e44e5"
+    },
+    {
       "name": "texasobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0a9ba86c2c48ee64d4f96ac3f40d02e8158406cb",
-      "mtime": "1667228325",
-      "size": "263069",
-      "md5": "ffd666fe4372cd1375a620af3daf24f8",
-      "crc32": "80e83d49",
-      "sha1": "a6b97d8b13efe16b07367a8af5ca2bd618de81ad",
+      "btih": "46e4d24bcfb20d1923ce32577e967c01551dc3e1",
+      "mtime": "1667230287",
+      "size": "263278",
+      "md5": "85d21f692b8bfa318f192a0bf08ae957",
+      "crc32": "80ef2809",
+      "sha1": "e613c8e950d675b22ff26a19a9715117a6b01431",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texasobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bdba9f7cf508921d1312a9f0d30a9f9f",
+      "md5": "3452ae2350cb0f589a07ad7ce47224e8",
       "summation": "md5"
     },
     {
@@ -12667,9 +12678,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1224,
-  "item_last_updated": 1667228325,
-  "item_size": 55609744,
+  "files_count": 1225,
+  "item_last_updated": 1667230287,
+  "item_size": 55619261,
   "metadata": {
     "identifier": "texasobserver-2022",
     "collection": [
@@ -12686,21 +12697,15 @@
     "publicdate": "2022-07-18 00:05:22",
     "addeddate": "2022-07-18 00:05:22"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848385,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2106042910,
+  "texasobserver-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1258536134,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

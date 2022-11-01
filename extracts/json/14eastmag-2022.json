@@ -1,6 +1,5 @@
 {
-  "conflict": 1667257197,
-  "created": 1667257197,
+  "created": 1667257909,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/24/items/14eastmag-2022",
@@ -22820,24 +22819,29 @@
       "name": "14eastmag-2022-10-31T17:51:04.163869-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "14eastmag-2022-10-31T17:51:04.163869-05:00.jpg"
+      "original": "14eastmag-2022-10-31T17:51:04.163869-05:00.jpg",
+      "mtime": "1667257188",
+      "size": "9189",
+      "md5": "a6990c0ebcaf39e68798b69f850cd366",
+      "crc32": "e33c98cb",
+      "sha1": "34428c93df8f29aa079992324129407e7fcace02"
     },
     {
       "name": "14eastmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b949850dc36d2666aa6a0a122322d437f2f3d583",
-      "mtime": "1667256754",
-      "size": "465596",
-      "md5": "c1d693e81482abde7053be1f6971c3b3",
-      "crc32": "522479cd",
-      "sha1": "8e4d9162b54c6992225d93554c383f7d1432346f",
+      "btih": "7e147620bd2b0705f2c484b87bbe7ac505da7471",
+      "mtime": "1667257754",
+      "size": "465801",
+      "md5": "6f331ad148ce5a94000e5a27b108c566",
+      "crc32": "18c9e78d",
+      "sha1": "b7adb1ab37dd132fd605f70f280b7f73d0ebcd4b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "14eastmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "431b256fd01672e751b78336cb478efc",
+      "md5": "305c08d3ed366643dce02c25e703d7cd",
       "summation": "md5"
     },
     {
@@ -22873,8 +22877,8 @@
     }
   ],
   "files_count": 2205,
-  "item_last_updated": 1667256754,
-  "item_size": 134238033,
+  "item_last_updated": 1667257754,
+  "item_size": 134247427,
   "metadata": {
     "identifier": "14eastmag-2022",
     "collection": [
@@ -22891,21 +22895,10 @@
     "publicdate": "2022-06-19 23:22:49",
     "addeddate": "2022-06-19 23:22:49"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458210927,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 662290502,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1978726177,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

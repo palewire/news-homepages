@@ -1,5 +1,5 @@
 {
-  "created": 1667228342,
+  "created": 1667266905,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/27/items/stamadvocate-2022",
@@ -5927,21 +5927,32 @@
       "format": "JSON"
     },
     {
+      "name": "stamadvocate-2022-10-31T10:58:00.317589-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stamadvocate-2022-10-31T10:58:00.317589-04:00.jpg",
+      "mtime": "1667230266",
+      "size": "10208",
+      "md5": "7c2795a62e28b4cd8de9496fdbc2a426",
+      "crc32": "0c400b06",
+      "sha1": "1c278266bfbf889605b3547530fe69382d8a5a3c"
+    },
+    {
       "name": "stamadvocate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "094b9a1e3294c6a544f1c89efe159557e84537bb",
-      "mtime": "1667228337",
-      "size": "124877",
-      "md5": "cf632aae7c916c6aeec9fcb0ed62c0ff",
-      "crc32": "44c52481",
-      "sha1": "a5ae7a672907d4ed1d5c61d3f3e0c600b97ebec3",
+      "btih": "71661d7f49b79db0bac43a7e80e40040d507bd59",
+      "mtime": "1667230274",
+      "size": "125086",
+      "md5": "ecc2059d3dd141b1506953983c24ee87",
+      "crc32": "0135e9aa",
+      "sha1": "17551214a50dfb849b784ff7e716b7b4af4a9710",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stamadvocate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "93c9b5a8362bd5dca76b378276ecd765",
+      "md5": "36e3f0b18a4e658a5eb17fcc121c6cce",
       "summation": "md5"
     },
     {
@@ -5965,9 +5976,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 577,
-  "item_last_updated": 1667228337,
-  "item_size": 54553033,
+  "files_count": 578,
+  "item_last_updated": 1667230274,
+  "item_size": 54563450,
   "metadata": {
     "identifier": "stamadvocate-2022",
     "collection": [
@@ -5984,21 +5995,18 @@
     "publicdate": "2022-09-14 01:26:51",
     "addeddate": "2022-09-14 01:26:51"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848466,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 480262469,
+  "stamadvocate-2022": {
+    "url": "https://www.stamfordadvocate.com/",
+    "job_id": "spn2-d4945058305d00de97613cb590c93e6b3680d97e",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "resources": [],
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1090."
+  },
+  "uniq": 1999590518,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

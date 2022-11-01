@@ -1,5 +1,5 @@
 {
-  "created": 1667256992,
+  "created": 1667258070,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/1/items/ashlandornews-2022",
@@ -13529,21 +13529,32 @@
       "format": "JSON"
     },
     {
+      "name": "ashlandornews-2022-10-31T15:53:50.116001-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ashlandornews-2022-10-31T15:53:50.116001-07:00.jpg",
+      "mtime": "1667257747",
+      "size": "9930",
+      "md5": "c4e09006f18dd18a0cbb1c35d446b02d",
+      "crc32": "f91f67f0",
+      "sha1": "cf9fe4f640e585a7f05dee9780c9c3a2e9a19d1d"
+    },
+    {
       "name": "ashlandornews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "45307b683f32da22496f18103bea71e86b414bc6",
-      "mtime": "1667256985",
-      "size": "283062",
-      "md5": "291c75f1354a36678bc78496ebb3152d",
-      "crc32": "d7eecfb1",
-      "sha1": "910f95a69cec8b6f1ae69cc578d01938f9468a33",
+      "btih": "470af05afc5b2631521faa2b8be329979c2ad3f6",
+      "mtime": "1667257763",
+      "size": "283271",
+      "md5": "ae9c9658dc7e7a78e969db9c04ad209e",
+      "crc32": "f6bb5cf2",
+      "sha1": "91e0d2c75fecc47da309a1bd24d6d93368e9b4b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ashlandornews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3eff86e3e0432521a127347c94e4004d",
+      "md5": "d37598d94c7ea9b355a1a2801e1f4bde",
       "summation": "md5"
     },
     {
@@ -13567,9 +13578,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1310,
-  "item_last_updated": 1667256985,
-  "item_size": 100818045,
+  "files_count": 1311,
+  "item_last_updated": 1667257763,
+  "item_size": 100828184,
   "metadata": {
     "identifier": "ashlandornews-2022",
     "collection": [
@@ -13586,21 +13597,10 @@
     "publicdate": "2022-07-09 03:55:50",
     "addeddate": "2022-07-09 03:55:50"
   },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458213697,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 986126612,
+  "uniq": 275966940,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

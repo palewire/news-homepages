@@ -1,5 +1,5 @@
 {
-  "created": 1667257047,
+  "created": 1667257600,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/4/items/bucyrustf-2022",
@@ -5163,21 +5163,32 @@
       "format": "JSON"
     },
     {
+      "name": "bucyrustf-2022-10-31T18:56:34.548699-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bucyrustf-2022-10-31T18:56:34.548699-04:00.jpg",
+      "mtime": "1667257506",
+      "size": "9071",
+      "md5": "401d7aae484e81b68bcf089ba099aae5",
+      "crc32": "6d68e2c4",
+      "sha1": "63f267069deab6cd0454ca384352e789e9d88678"
+    },
+    {
       "name": "bucyrustf-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9787bc7ab1e4854e03ebcdf6bc1161f433a47fb7",
-      "mtime": "1667257045",
-      "size": "106822",
-      "md5": "9704b4c3f8e575ade14456ebee40af45",
-      "crc32": "0b8eb8b2",
-      "sha1": "6d49a46804afb74a330c4f4a9ea0cb06f39a5b8d",
+      "btih": "09ce5443751fcfcb890a0a45cdfe6abe6d8b5602",
+      "mtime": "1667257557",
+      "size": "107027",
+      "md5": "a36d9018875c400972ca3c3453bc9d1c",
+      "crc32": "949c8a64",
+      "sha1": "e5ee77e27c1db12d153d43ee7dcb3eec67506c01",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bucyrustf-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94e5d628d26c96563f2e2ec1c3c58957",
+      "md5": "00d90b789a50730a6232fd887a28e3de",
       "summation": "md5"
     },
     {
@@ -5201,9 +5212,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 503,
-  "item_last_updated": 1667257045,
-  "item_size": 32760484,
+  "files_count": 504,
+  "item_last_updated": 1667257557,
+  "item_size": 32769760,
   "metadata": {
     "identifier": "bucyrustf-2022",
     "collection": [
@@ -5220,21 +5231,10 @@
     "publicdate": "2022-09-20 22:11:54",
     "addeddate": "2022-09-20 22:11:54"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458214358,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 777107235,
+  "server": "ia801509.us.archive.org",
+  "uniq": 940197920,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

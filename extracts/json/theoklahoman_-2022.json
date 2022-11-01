@@ -1,5 +1,5 @@
 {
-  "created": 1667228503,
+  "created": 1667267709,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/theoklahoman_-2022",
@@ -15139,21 +15139,32 @@
       "format": "JSON"
     },
     {
+      "name": "theoklahoman_-2022-10-31T10:00:04.321596-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theoklahoman_-2022-10-31T10:00:04.321596-05:00.jpg",
+      "mtime": "1667230332",
+      "size": "8755",
+      "md5": "56934274bc180ce764ec8f851dad22b7",
+      "crc32": "ddee7bfe",
+      "sha1": "04d5d2897e680a8ad3267010163cae0929058140"
+    },
+    {
       "name": "theoklahoman_-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e8e640f5ddc35a5dd61c56eb566517c428312e8c",
-      "mtime": "1667228496",
-      "size": "315670",
-      "md5": "06a6ba9210487dd4a12f0f15fc60e95a",
-      "crc32": "c2b9774b",
-      "sha1": "e913e6f0d3c2133934143aabc99238c5adbbe371",
+      "btih": "833f8441fd188e2ae53011d64a3764cd4e73e7d1",
+      "mtime": "1667230435",
+      "size": "315879",
+      "md5": "fdba4e59316a386ac7467c76dbf4c819",
+      "crc32": "7567bb6a",
+      "sha1": "eb0221df40effd02ff13c80aea34f4869903004a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theoklahoman_-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5e0d97ab3364ceb74b8d34f1836623bb",
+      "md5": "70b2f415b4bb658ff3a9e14726993970",
       "summation": "md5"
     },
     {
@@ -15177,9 +15188,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1463,
-  "item_last_updated": 1667228496,
-  "item_size": 104097887,
+  "files_count": 1464,
+  "item_last_updated": 1667230435,
+  "item_size": 104106851,
   "metadata": {
     "identifier": "theoklahoman_-2022",
     "collection": [
@@ -15196,21 +15207,15 @@
     "publicdate": "2022-06-24 23:02:53",
     "addeddate": "2022-06-24 23:02:53"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457850722,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 608401456,
+  "server": "ia801501.us.archive.org",
+  "theoklahoman_-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 2097841336,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

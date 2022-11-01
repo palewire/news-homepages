@@ -1,5 +1,5 @@
 {
-  "created": 1667228305,
+  "created": 1667266650,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/7/items/sheboyganpress-2022",
@@ -5067,21 +5067,32 @@
       "format": "JSON"
     },
     {
+      "name": "sheboyganpress-2022-10-31T09:57:33.346778-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sheboyganpress-2022-10-31T09:57:33.346778-05:00.jpg",
+      "mtime": "1667230565",
+      "size": "9369",
+      "md5": "f6f7a0ee4acbeb18fd972f8ac5f154de",
+      "crc32": "1c8e81bf",
+      "sha1": "b79fbe9be34532202ae6423e986071ff1bba61ef"
+    },
+    {
       "name": "sheboyganpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4425acee6d2216a7ea5da54cfbbb44e84530ba5a",
-      "mtime": "1667228302",
-      "size": "107574",
-      "md5": "0e66510e3e1e87b1a93d57b80eff50fb",
-      "crc32": "c7dbb9ee",
-      "sha1": "f2c14a97faf6f267a23a15dd51cc7e0766ed870e",
+      "btih": "e882375dbde9da019bb1db4823eb6330a4038ab9",
+      "mtime": "1667230570",
+      "size": "107784",
+      "md5": "232b19a4de78eb91d33809d799f63550",
+      "crc32": "2508aec1",
+      "sha1": "fd8a26a643e059685f594b336a67ec82ec525d55",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sheboyganpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0023dce726c865693cb9072c265e5bce",
+      "md5": "4383c5c4f2146fcd3bfdfcb177a4d26d",
       "summation": "md5"
     },
     {
@@ -5105,9 +5116,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 494,
-  "item_last_updated": 1667228302,
-  "item_size": 34860841,
+  "files_count": 495,
+  "item_last_updated": 1667230570,
+  "item_size": 34870420,
   "metadata": {
     "identifier": "sheboyganpress-2022",
     "collection": [
@@ -5124,21 +5135,18 @@
     "publicdate": "2022-09-21 03:42:57",
     "addeddate": "2022-09-21 03:42:57"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848062,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 889573859,
+  "sheboyganpress-2022": {
+    "url": "https://www.sheboyganpress.com/",
+    "job_id": "spn2-e5c7ac6918d8d9a199a662e66fe26b714188d6df",
+    "resources": [],
+    "status": "error",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1069.",
+    "status_ext": "WorkerLostError"
+  },
+  "uniq": 1685445476,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

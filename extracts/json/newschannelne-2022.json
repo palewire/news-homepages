@@ -1,5 +1,5 @@
 {
-  "created": 1667228333,
+  "created": 1667265258,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/12/items/newschannelne-2022",
@@ -11339,29 +11339,10 @@
     "url": "https://metro.newschannelnebraska.com/",
     "job_id": "spn2-7dd379a5d4ad997ec7dcc3bcf69282c02d0e7f45"
   },
-  "pending_tasks": true,
-  "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457826873,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3457843288,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 829874432,
+  "server": "ia801402.us.archive.org",
+  "uniq": 740724119,
   "workable_servers": [
+    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667260006,
+  "created": 1667261331,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/6/items/florida_today-2022",
@@ -5203,21 +5203,32 @@
       "format": "JSON"
     },
     {
+      "name": "florida_today-2022-10-31T19:45:36.728126-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "florida_today-2022-10-31T19:45:36.728126-04:00.jpg",
+      "mtime": "1667261301",
+      "size": "9260",
+      "md5": "02f0d9daa4a8135117be69bd874dc974",
+      "crc32": "3a3d826e",
+      "sha1": "07211058621f13ac35bbe60bd06c453582faecaf"
+    },
+    {
       "name": "florida_today-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c6925d49d863f91395f5437b829270a4c0bec25c",
-      "mtime": "1667260003",
-      "size": "109670",
-      "md5": "17eabdf7ae0f1652a8a43b18d0e3822c",
-      "crc32": "b750ee37",
-      "sha1": "c8ee64b935a2965cbfbed5fdacb7ab0a47816a46",
+      "btih": "19023e47fae3de13a6c39d478819975ede0b306d",
+      "mtime": "1667261307",
+      "size": "109879",
+      "md5": "18d084c813de6ac4d60413369cafaddf",
+      "crc32": "05ed33d4",
+      "sha1": "c89e42951a5eb78562ed5015575bbd78a813540f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "florida_today-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0e90885c532ebdc657e0bde1fe7014f6",
+      "md5": "8a66b4bafd8c3c3e5bc3cf5f5250bc86",
       "summation": "md5"
     },
     {
@@ -5241,9 +5252,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 507,
-  "item_last_updated": 1667260003,
-  "item_size": 32489547,
+  "files_count": 508,
+  "item_last_updated": 1667261307,
+  "item_size": 32499016,
   "metadata": {
     "identifier": "florida_today-2022",
     "collection": [
@@ -5260,21 +5271,10 @@
     "publicdate": "2022-09-20 22:17:19",
     "addeddate": "2022-09-20 22:17:19"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458248802,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1550820550,
+  "uniq": 537883958,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

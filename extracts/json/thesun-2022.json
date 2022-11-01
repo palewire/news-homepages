@@ -1,5 +1,5 @@
 {
-  "created": 1667228801,
+  "created": 1667267864,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/16/items/thesun-2022",
@@ -30607,21 +30607,32 @@
       "format": "JSON"
     },
     {
+      "name": "thesun-2022-10-31T15:03:04.910187+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thesun-2022-10-31T15:03:04.910187+00:00.jpg",
+      "mtime": "1667231062",
+      "size": "10537",
+      "md5": "3e4514a2d21a8a22431229b016ec0d02",
+      "crc32": "f5e03fff",
+      "sha1": "55359d2ce8842ed8f714eef8bff0a62b7962aa08"
+    },
+    {
       "name": "thesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "781686e309fbd4f6509b850c1846ca04d7d16f6e",
-      "mtime": "1667228793",
-      "size": "618946",
-      "md5": "5679e5e8f731263673564c794538d8eb",
-      "crc32": "1d95f65d",
-      "sha1": "2f15813247c0f0ae8dd07108b041a187aa8ef472",
+      "btih": "c9c3483a5410a6a14078d511f7a5ac70985bf78d",
+      "mtime": "1667231210",
+      "size": "619149",
+      "md5": "bd9250e521ad2f1c83b749d7130f62d9",
+      "crc32": "e9010a87",
+      "sha1": "3e116ceb326d41801e117b9b3d4b6aa6d52ef1ec",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f68a52df07617ca804068f3e9dbe23e",
+      "md5": "a4e1189ba723638452a85a9948d02301",
       "summation": "md5"
     },
     {
@@ -30645,9 +30656,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2944,
-  "item_last_updated": 1667228793,
-  "item_size": 324800122,
+  "files_count": 2945,
+  "item_last_updated": 1667231210,
+  "item_size": 324810862,
   "metadata": {
     "identifier": "thesun-2022",
     "collection": [
@@ -30664,21 +30675,10 @@
     "publicdate": "2022-03-23 08:04:03",
     "addeddate": "2022-03-23 08:04:03"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457854841,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 745018387,
+  "server": "ia802508.us.archive.org",
+  "uniq": 1182914227,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

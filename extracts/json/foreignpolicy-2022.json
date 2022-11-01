@@ -1,5 +1,6 @@
 {
-  "created": 1667260299,
+  "conflict": 1667262399,
+  "created": 1667262399,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/foreignpolicy-2022",
@@ -16077,21 +16078,32 @@
       "format": "JSON"
     },
     {
+      "name": "foreignpolicy-2022-10-31T19:48:45.462182-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foreignpolicy-2022-10-31T19:48:45.462182-04:00.jpg",
+      "mtime": "1667262376",
+      "size": "10817",
+      "md5": "5cb68f046b6a6109c34c62534f4f8ae8",
+      "crc32": "2b1a8851",
+      "sha1": "13f245ece2e06a61ab0feb9a75f4f45273785a7a"
+    },
+    {
       "name": "foreignpolicy-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b7b732b3e2c1938f85c89e19667a07bda0a0fd7",
-      "mtime": "1667260265",
-      "size": "336390",
-      "md5": "503f441cd43582a5e9399afce0a1dba8",
-      "crc32": "9d9caaf9",
-      "sha1": "a499f6c8cf0d8e00d4a0d637c1870e462215ec94",
+      "btih": "5e0b0c9c2fee0e640c04ec7fb38dc8a3c897ea97",
+      "mtime": "1667262396",
+      "size": "336600",
+      "md5": "41699f343bc577f78bd79099fb6c2896",
+      "crc32": "934c0c2e",
+      "sha1": "4ce9ebb1a620b2c10100094051dab089232e9324",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foreignpolicy-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58e83d55ff14eae32470922b4c3c124f",
+      "md5": "fe350268fc0ea0d623155157fd750668",
       "summation": "md5"
     },
     {
@@ -16115,9 +16127,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1552,
-  "item_last_updated": 1667260265,
-  "item_size": 146973451,
+  "files_count": 1553,
+  "item_last_updated": 1667262396,
+  "item_size": 146984478,
   "metadata": {
     "identifier": "foreignpolicy-2022",
     "collection": [
@@ -16142,12 +16154,20 @@
       "task_id": 3458251963,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458276508,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 620362097,
+  "uniq": 2104755230,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

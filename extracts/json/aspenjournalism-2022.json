@@ -1,5 +1,5 @@
 {
-  "created": 1667256913,
+  "created": 1667257501,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/4/items/aspenjournalism-2022",
@@ -13467,21 +13467,32 @@
       "format": "JSON"
     },
     {
+      "name": "aspenjournalism-2022-10-31T16:54:02.509179-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspenjournalism-2022-10-31T16:54:02.509179-06:00.jpg",
+      "mtime": "1667257418",
+      "size": "9781",
+      "md5": "b804e91576c9271f21d5ebfde02a1294",
+      "crc32": "fc68c213",
+      "sha1": "842b1617edb515bb3218993d6ee27de9ff960e22"
+    },
+    {
       "name": "aspenjournalism-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a59548a30e0578121221fc94598b878d12a86fa3",
-      "mtime": "1667256909",
-      "size": "284060",
-      "md5": "4f8086eecb25a1b74f21a144e54ac83e",
-      "crc32": "2913315e",
-      "sha1": "bdf0dc0411df34c4137afa00521e38c0c4e62d95",
+      "btih": "649e17ef77c4a0a840fe86b85cee6cd0dad6416a",
+      "mtime": "1667257435",
+      "size": "284271",
+      "md5": "57d53397e60b7212b13d996c36d9e642",
+      "crc32": "4aac5afa",
+      "sha1": "4e897c842e1f8fa201ea5cc7aacbda27d3ddea7f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspenjournalism-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b8b11a23b5b4537338e295203ea72d7",
+      "md5": "f4ecaff3b57c4602b60925b517df71da",
       "summation": "md5"
     },
     {
@@ -13505,9 +13516,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1304,
-  "item_last_updated": 1667256909,
-  "item_size": 89490007,
+  "files_count": 1305,
+  "item_last_updated": 1667257435,
+  "item_size": 89499999,
   "metadata": {
     "identifier": "aspenjournalism-2022",
     "collection": [
@@ -13524,21 +13535,10 @@
     "publicdate": "2022-07-09 03:55:43",
     "addeddate": "2022-07-09 03:55:43"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212755,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1002728824,
+  "server": "ia802507.us.archive.org",
+  "uniq": 752729857,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667260241,
+  "created": 1667261934,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/10/items/france24_en-2022",
@@ -26513,21 +26513,32 @@
       "format": "JSON"
     },
     {
+      "name": "france24_en-2022-11-01T00:48:17.881984+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24_en-2022-11-01T00:48:17.881984+01:00.jpg",
+      "mtime": "1667261679",
+      "size": "9093",
+      "md5": "df8f687de0362ca7c4d82ae073d8fe91",
+      "crc32": "015b2fe5",
+      "sha1": "d3ce40bb2766f2cc64eef44bbb83f12def2845e5"
+    },
+    {
       "name": "france24_en-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6beca2e811a226c2cd9112fbd0969763e0929adc",
-      "mtime": "1667260233",
-      "size": "544663",
-      "md5": "be474c805c56307f2e34a02e70b16054",
-      "crc32": "7a92c997",
-      "sha1": "ea276893b9cac7219cd13692f9ecaddf40bb604d",
+      "btih": "b025219834fa15b32ccae44607089fa955b86687",
+      "mtime": "1667261801",
+      "size": "544870",
+      "md5": "a0b669dbdbc1668fcbfed4e68b496a78",
+      "crc32": "b57f9635",
+      "sha1": "dec2d12aefdadca1f17e5e76f9c00426137de76e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24_en-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f503c38a9591fcf819b7694fede35ebf",
+      "md5": "634a651f20ab5a197384d1b28be27196",
       "summation": "md5"
     },
     {
@@ -26551,9 +26562,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2555,
-  "item_last_updated": 1667260233,
-  "item_size": 159218246,
+  "files_count": 2556,
+  "item_last_updated": 1667261801,
+  "item_size": 159227546,
   "metadata": {
     "identifier": "france24_en-2022",
     "collection": [
@@ -26570,21 +26581,10 @@
     "publicdate": "2022-04-09 13:40:37",
     "addeddate": "2022-04-09 13:40:37"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458251363,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1645841034,
+  "server": "ia801503.us.archive.org",
+  "uniq": 1934430907,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

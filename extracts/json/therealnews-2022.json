@@ -1,5 +1,5 @@
 {
-  "created": 1667228502,
+  "created": 1667267776,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/3/items/therealnews-2022",
@@ -13173,21 +13173,32 @@
       "format": "JSON"
     },
     {
+      "name": "therealnews-2022-10-31T11:00:24.434453-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "therealnews-2022-10-31T11:00:24.434453-04:00.jpg",
+      "mtime": "1667230278",
+      "size": "11427",
+      "md5": "9f3aa9ca220fc98e2b897af3b49bc750",
+      "crc32": "890a944d",
+      "sha1": "e37039718fa54eaefda9cec42951429c63c80b32"
+    },
+    {
       "name": "therealnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de4684a9bc00ed7b9835ed97beff655efcdd749a",
-      "mtime": "1667228498",
-      "size": "273350",
-      "md5": "ecfca230426e95cfe3f89856283d51f3",
-      "crc32": "5bfafe65",
-      "sha1": "353a4fa40ae1d4e0de1f17cf30b0bbe5ba46cba1",
+      "btih": "66183dbc0f3aaf9673375b9874d655e9de165b85",
+      "mtime": "1667230293",
+      "size": "273558",
+      "md5": "bf52bb49cae93b6d4e10fd5f65cee728",
+      "crc32": "39f368fd",
+      "sha1": "ce33e5fc7791120f7c69ac570383e1a5dd852cf5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "therealnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "267dbcbb8aca2227b29e4897f71b4773",
+      "md5": "35f631d82e1a1e5319ab768dcbfd8b3f",
       "summation": "md5"
     },
     {
@@ -13211,9 +13222,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1276,
-  "item_last_updated": 1667228498,
-  "item_size": 97761095,
+  "files_count": 1277,
+  "item_last_updated": 1667230293,
+  "item_size": 97772730,
   "metadata": {
     "identifier": "therealnews-2022",
     "collection": [
@@ -13230,21 +13241,10 @@
     "publicdate": "2022-07-13 02:25:04",
     "addeddate": "2022-07-13 02:25:04"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457850687,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 427928190,
+  "server": "ia801401.us.archive.org",
+  "uniq": 2040033165,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

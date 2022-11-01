@@ -1,6 +1,10 @@
 {
-  "conflict": 1667233496,
-  "created": 1667233496,
+  "civic_lex-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261838,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/6/items/civic_lex-2022",
@@ -13481,24 +13485,29 @@
       "name": "civic_lex-2022-10-31T12:05:51.636068-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "civic_lex-2022-10-31T12:05:51.636068-04:00.jpg"
+      "original": "civic_lex-2022-10-31T12:05:51.636068-04:00.jpg",
+      "mtime": "1667233490",
+      "size": "8586",
+      "md5": "3e8b8052aacbee482ed0ca5da36d665a",
+      "crc32": "926055f0",
+      "sha1": "e7dec5627fa488b3eb528fc0a1e7db0f216213ad"
     },
     {
       "name": "civic_lex-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9fd3bb3a0ad64f6d43755a9b31e4f48863667ab1",
-      "mtime": "1667232432",
-      "size": "274612",
-      "md5": "27ef78bb2756b3fb0589d0b0fe998af3",
-      "crc32": "e15d1a63",
-      "sha1": "e81a1fc992831d095564ebb3fe597c80fd718784",
+      "btih": "533ba7c69488115b08cf0383b922924bdf5d6bcf",
+      "mtime": "1667233518",
+      "size": "274817",
+      "md5": "44ea53e2db77b83494cc16d9c2755e1c",
+      "crc32": "ad58a5bb",
+      "sha1": "a9c045f000e1b7e78e2261447bae627a7ff1d05f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civic_lex-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2076748d12d9c1cc181e8d5c32ba7ce",
+      "md5": "79bf79533d26123ac0e7bed29a34e380",
       "summation": "md5"
     },
     {
@@ -13523,8 +13532,8 @@
     }
   ],
   "files_count": 1306,
-  "item_last_updated": 1667232432,
-  "item_size": 49182416,
+  "item_last_updated": 1667233518,
+  "item_size": 49191207,
   "metadata": {
     "identifier": "civic_lex-2022",
     "collection": [
@@ -13541,21 +13550,10 @@
     "publicdate": "2022-07-09 03:57:14",
     "addeddate": "2022-07-09 03:57:14"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457892645,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 821887719,
+  "server": "ia801507.us.archive.org",
+  "uniq": 519730581,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

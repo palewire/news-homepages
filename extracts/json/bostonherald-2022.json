@@ -1,5 +1,5 @@
 {
-  "created": 1667256899,
+  "created": 1667257529,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/33/items/bostonherald-2022",
@@ -11727,21 +11727,32 @@
       "format": "JSON"
     },
     {
+      "name": "bostonherald-2022-10-31T18:53:38.722298-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bostonherald-2022-10-31T18:53:38.722298-04:00.jpg",
+      "mtime": "1667257469",
+      "size": "9567",
+      "md5": "071282de54d45abca2de326189258431",
+      "crc32": "8f208323",
+      "sha1": "1c6bc294a80b1a668b5de1f2d3359c31c43e0772"
+    },
+    {
       "name": "bostonherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5a25f121aef0916477306ca8110a0f48b5473892",
-      "mtime": "1667256893",
-      "size": "244439",
-      "md5": "102d352f8a218dae4269f030dbcb4a66",
-      "crc32": "4fb177d3",
-      "sha1": "e7f438d164e9c2a6d44f6b1fdb88f3cae7938572",
+      "btih": "653f8713d2003d147bd920c870ace885e575555d",
+      "mtime": "1667257484",
+      "size": "244647",
+      "md5": "e94d76e7dba1b3c16f1ce1f819da1a70",
+      "crc32": "a6eb93cf",
+      "sha1": "68d8e15ecdc68c08dd39806ae079cb5b303f3b81",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bostonherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ebbc014965854a6233b42df906784452",
+      "md5": "5755b5fe17d05ff48a13245f0c368944",
       "summation": "md5"
     },
     {
@@ -11765,9 +11776,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1138,
-  "item_last_updated": 1667256893,
-  "item_size": 76532541,
+  "files_count": 1139,
+  "item_last_updated": 1667257484,
+  "item_size": 76542316,
   "metadata": {
     "identifier": "bostonherald-2022",
     "collection": [
@@ -11784,21 +11795,10 @@
     "publicdate": "2022-07-27 23:03:07",
     "addeddate": "2022-07-27 23:03:07"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212592,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 2036846529,
+  "uniq": 603665843,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

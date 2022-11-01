@@ -1,5 +1,5 @@
 {
-  "created": 1667260105,
+  "created": 1667261961,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/fla_pol-2022",
@@ -10515,21 +10515,32 @@
       "format": "JSON"
     },
     {
+      "name": "fla_pol-2022-10-31T19:46:38.397131-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-10-31T19:46:38.397131-04:00.jpg",
+      "mtime": "1667261608",
+      "size": "11268",
+      "md5": "8b47668ef5c5f37f3d1b87f96effc3e2",
+      "crc32": "e194e95a",
+      "sha1": "f8026e972275d068e308fe085bbbe259375dce08"
+    },
+    {
       "name": "fla_pol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "34fb083cbbd0d66d47562f35e80a4f7001fd973b",
-      "mtime": "1667260099",
-      "size": "214798",
-      "md5": "cb33cd790312ba792f95663bbcb453bb",
-      "crc32": "1d406a1b",
-      "sha1": "e16857f2fbeb8dc5978cbdc28d2e4a47625f9186",
+      "btih": "cfb90ec38306f79651887d043d9e08d702278ee1",
+      "mtime": "1667261623",
+      "size": "215002",
+      "md5": "cbe454d56f197577890eb48b54339157",
+      "crc32": "9cf487a8",
+      "sha1": "7cc26dc47d513201436415b7e34fd6339d44220b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fla_pol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fad728b3627d383ea4eff0a644f3e8bc",
+      "md5": "52480ec7cf6ec421aa81654f1ef0ff00",
       "summation": "md5"
     },
     {
@@ -10553,9 +10564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1021,
-  "item_last_updated": 1667260099,
-  "item_size": 79880620,
+  "files_count": 1022,
+  "item_last_updated": 1667261623,
+  "item_size": 79892092,
   "metadata": {
     "identifier": "fla_pol-2022",
     "collection": [
@@ -10572,21 +10583,10 @@
     "publicdate": "2022-08-09 03:37:17",
     "addeddate": "2022-08-09 03:37:17"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458249977,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 516680408,
+  "server": "ia801501.us.archive.org",
+  "uniq": 672035037,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667260145,
+  "created": 1667261739,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/32/items/heraldmailnews-2022",
@@ -5213,21 +5213,32 @@
       "format": "JSON"
     },
     {
+      "name": "heraldmailnews-2022-10-31T19:48:08.521005-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldmailnews-2022-10-31T19:48:08.521005-04:00.jpg",
+      "mtime": "1667261646",
+      "size": "9262",
+      "md5": "abf5f41ce0ca9b6d68310c20b262697a",
+      "crc32": "3bfea9b7",
+      "sha1": "19b59679e0dee2e6cc04d119bf254407d41cd9f1"
+    },
+    {
       "name": "heraldmailnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9b1a4b90328a822846229b00d9a6c70b0af6150b",
-      "mtime": "1667260141",
-      "size": "110580",
-      "md5": "4070127aac4d78d163ca9a9ad58d3067",
-      "crc32": "3a38233b",
-      "sha1": "ac41005311cb163e74769771092283f18c40a72a",
+      "btih": "dd2c7318d6bfb11e3cba817a0f84ecdde6a60629",
+      "mtime": "1667261653",
+      "size": "110790",
+      "md5": "afa3ebdf2d596eaeff6a80383e54ffb5",
+      "crc32": "88e013ac",
+      "sha1": "b0a10cebe3864f654c3fbf09e106864c618ebd18",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldmailnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ae4f6fa51f617bf33d8dc1dfde947742",
+      "md5": "aaaea4ca69522334cf95dc83491c2a3b",
       "summation": "md5"
     },
     {
@@ -5251,9 +5262,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 508,
-  "item_last_updated": 1667260141,
-  "item_size": 35823608,
+  "files_count": 509,
+  "item_last_updated": 1667261653,
+  "item_size": 35833080,
   "metadata": {
     "identifier": "heraldmailnews-2022",
     "collection": [
@@ -5270,21 +5281,10 @@
     "publicdate": "2022-09-20 22:18:30",
     "addeddate": "2022-09-20 22:18:30"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458250455,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1985806311,
+  "server": "ia801508.us.archive.org",
+  "uniq": 283655375,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

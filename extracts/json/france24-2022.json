@@ -1,5 +1,5 @@
 {
-  "created": 1667260232,
+  "created": 1667262271,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/26/items/france24-2022",
@@ -26669,21 +26669,32 @@
       "format": "JSON"
     },
     {
+      "name": "france24-2022-11-01T00:48:25.460565+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "france24-2022-11-01T00:48:25.460565+01:00.jpg",
+      "mtime": "1667261938",
+      "size": "9112",
+      "md5": "bc692a1d03f389a51b8452af069e2b87",
+      "crc32": "b2353861",
+      "sha1": "ea3877618fe86f9b6f600ef16ad43e9d81990c4b"
+    },
+    {
       "name": "france24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "75cab50a88c38cde394abf5d9c2d470d4ad72190",
-      "mtime": "1667260227",
-      "size": "540558",
-      "md5": "f3b950ce6fd5f84630164db46dd75289",
-      "crc32": "acbf83e8",
-      "sha1": "b065af834049d70015289d9bc63dd75908ca2ced",
+      "btih": "e1aab4ded293f7991e9efdd72233daa9c7d12a75",
+      "mtime": "1667261996",
+      "size": "540762",
+      "md5": "4dab8b1d51ecda6e6e066f36f442c400",
+      "crc32": "9a703a78",
+      "sha1": "e2f477cafdfdfcfb1413bbae53358eab5c6996a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8db996cc6ffa202f4fae9fac55761850",
+      "md5": "4544f17fcadb4792db0a92efec9bc005",
       "summation": "md5"
     },
     {
@@ -26707,9 +26718,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2570,
-  "item_last_updated": 1667260227,
-  "item_size": 171310232,
+  "files_count": 2571,
+  "item_last_updated": 1667261996,
+  "item_size": 171319548,
   "metadata": {
     "identifier": "france24-2022",
     "collection": [
@@ -26726,21 +26737,10 @@
     "publicdate": "2022-04-09 13:41:21",
     "addeddate": "2022-04-09 13:41:21"
   },
-  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458251252,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 371083571,
+  "uniq": 1549585717,
   "workable_servers": [
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

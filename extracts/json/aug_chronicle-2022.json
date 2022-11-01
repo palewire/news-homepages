@@ -1,5 +1,5 @@
 {
-  "created": 1667256890,
+  "created": 1667257541,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/9/items/aug_chronicle-2022",
@@ -12535,21 +12535,32 @@
       "format": "JSON"
     },
     {
+      "name": "aug_chronicle-2022-10-31T18:53:29.632415-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aug_chronicle-2022-10-31T18:53:29.632415-04:00.jpg",
+      "mtime": "1667257409",
+      "size": "9108",
+      "md5": "9ce55aabda2e8e97c5d70600205cd730",
+      "crc32": "8744d971",
+      "sha1": "fe5ac0e901c3292de91d20bf1bcbc06818f525cc"
+    },
+    {
       "name": "aug_chronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee32cd77597dea2a627743d5128913b9fa975c28",
-      "mtime": "1667256881",
-      "size": "262305",
-      "md5": "bd4e960a76ff56a1879bd38e3f6ccc66",
-      "crc32": "5ec35b67",
-      "sha1": "c5f9dd01d6b4f7593d35c380398b634b8d8fc9f6",
+      "btih": "c90ac1235953fee9d80c5c0452be9bd15d958d0d",
+      "mtime": "1667257424",
+      "size": "262514",
+      "md5": "6a484e0b4e3a771f5f7bcf6872a8b670",
+      "crc32": "387fc1a7",
+      "sha1": "00b805cb6080397f5982a73948d63312d3f86a14",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aug_chronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5d1ea5c6edb36efb67f3a4ac7eacae53",
+      "md5": "1e6f2d727f8c12be77aefc47acc4fe91",
       "summation": "md5"
     },
     {
@@ -12573,9 +12584,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1215,
-  "item_last_updated": 1667256881,
-  "item_size": 83729250,
+  "files_count": 1216,
+  "item_last_updated": 1667257424,
+  "item_size": 83738567,
   "metadata": {
     "identifier": "aug_chronicle-2022",
     "collection": [
@@ -12592,21 +12603,10 @@
     "publicdate": "2022-07-20 23:30:16",
     "addeddate": "2022-07-20 23:30:16"
   },
-  "pending_tasks": true,
-  "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212502,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1759658013,
+  "server": "ia801504.us.archive.org",
+  "uniq": 663442297,
   "workable_servers": [
+    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

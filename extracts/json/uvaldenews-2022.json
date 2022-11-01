@@ -1,5 +1,5 @@
 {
-  "created": 1667228623,
+  "created": 1667268423,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/5/items/uvaldenews-2022",
@@ -12607,21 +12607,32 @@
       "format": "JSON"
     },
     {
+      "name": "uvaldenews-2022-10-31T10:02:25.644087-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uvaldenews-2022-10-31T10:02:25.644087-05:00.jpg",
+      "mtime": "1667230828",
+      "size": "10208",
+      "md5": "961e21316f3ed265bb82be39b8c2b6f4",
+      "crc32": "52eb5817",
+      "sha1": "2ca3d45541966ff4ef4c13769e919ec63a936b80"
+    },
+    {
       "name": "uvaldenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7bedb59776be3349bcf3d3903a954205b6902085",
-      "mtime": "1667228619",
-      "size": "259953",
-      "md5": "9b945e925bee0d5c39290bbffb63cad2",
-      "crc32": "9c7528a8",
-      "sha1": "ae6d5d0b3385a99d762f4edf6c7aa45f5ce72da3",
+      "btih": "8b11a2f44186cac8b1fcee91bd106bbf604f57aa",
+      "mtime": "1667230842",
+      "size": "260160",
+      "md5": "96ea5acf934271b5757fc6f2f8816b95",
+      "crc32": "0fff4eed",
+      "sha1": "7a12e3fd16569aacdb61f439a5f594267fa90dbe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uvaldenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "913bdba532f1c3981c5d05c009911307",
+      "md5": "554153be24f36d663c9a94db22159e25",
       "summation": "md5"
     },
     {
@@ -12645,9 +12656,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1222,
-  "item_last_updated": 1667228619,
-  "item_size": 74435717,
+  "files_count": 1223,
+  "item_last_updated": 1667230842,
+  "item_size": 74446132,
   "metadata": {
     "identifier": "uvaldenews-2022",
     "collection": [
@@ -12664,21 +12675,15 @@
     "publicdate": "2022-07-18 00:05:55",
     "addeddate": "2022-07-18 00:05:55"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457852671,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1023916327,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1978097314,
+  "uvaldenews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

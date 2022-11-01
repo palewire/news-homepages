@@ -1,5 +1,5 @@
 {
-  "created": 1667260214,
+  "created": 1667261727,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/21/items/fortworthreport-2022",
@@ -13551,21 +13551,32 @@
       "format": "JSON"
     },
     {
+      "name": "fortworthreport-2022-10-31T18:48:48.767120-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fortworthreport-2022-10-31T18:48:48.767120-05:00.jpg",
+      "mtime": "1667261637",
+      "size": "9810",
+      "md5": "6c976ac07012894580beb341a4608574",
+      "crc32": "26c4fc0c",
+      "sha1": "ac480e1db68b34ec73cdd27d9b3f74f305e6fe25"
+    },
+    {
       "name": "fortworthreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9dbe73bfa38fdb15a834761d9288817918263440",
-      "mtime": "1667260206",
-      "size": "285242",
-      "md5": "fd304e3b58b8cb8a1b4cf4d3f1688979",
-      "crc32": "cd776166",
-      "sha1": "70d56352de0dbfbe33e936e2f4f0c232dd4704e4",
+      "btih": "11998a0bfc3643f0025cd9e339dd2dca7af71bbe",
+      "mtime": "1667261683",
+      "size": "285453",
+      "md5": "ce5e5799252f288a0046ec213f204462",
+      "crc32": "217d950b",
+      "sha1": "7c84583d220a05d74704fc1aece8aa6876f1dfd7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fortworthreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ddc3719be784701f1c7ef99f83d3890c",
+      "md5": "1b5963284a5c8ef2beb09d581dc0efb3",
       "summation": "md5"
     },
     {
@@ -13589,9 +13600,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1312,
-  "item_last_updated": 1667260206,
-  "item_size": 77242787,
+  "files_count": 1313,
+  "item_last_updated": 1667261683,
+  "item_size": 77252808,
   "metadata": {
     "identifier": "fortworthreport-2022",
     "collection": [
@@ -13608,21 +13619,10 @@
     "publicdate": "2022-07-09 03:59:06",
     "addeddate": "2022-07-09 03:59:06"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458251064,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1958305035,
+  "uniq": 104321120,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

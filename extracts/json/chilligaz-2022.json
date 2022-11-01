@@ -1,5 +1,5 @@
 {
-  "created": 1667259856,
+  "created": 1667261330,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/8/items/chilligaz-2022",
@@ -5203,21 +5203,32 @@
       "format": "JSON"
     },
     {
+      "name": "chilligaz-2022-10-31T19:43:07.586354-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chilligaz-2022-10-31T19:43:07.586354-04:00.jpg",
+      "mtime": "1667261242",
+      "size": "9380",
+      "md5": "81f6cd4405a2886ca86cb26caa000277",
+      "crc32": "b6bca5ec",
+      "sha1": "3f925d7d15f5d3f9b969883bbe8271cebc09ac7d"
+    },
+    {
       "name": "chilligaz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b78d1da123d9ffad5d92ad7d19cb2a2aa523856d",
-      "mtime": "1667259846",
-      "size": "107837",
-      "md5": "ffd31a922365a0fd261fb81fd2dd64b6",
-      "crc32": "d25f1a06",
-      "sha1": "fa358d254c1293698cb46ad5b8b82cde9d922fe6",
+      "btih": "e233acba583f430a0e3c021668c5845bab10ab19",
+      "mtime": "1667261248",
+      "size": "108042",
+      "md5": "e1b9b307fa4103ab6929eb6f507dff58",
+      "crc32": "eb2221a0",
+      "sha1": "92b2c5caea51b51cffa04f99d4e8b36d82f37eba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chilligaz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c1a6b032f7eea06ccf229e45967e458",
+      "md5": "0b4a075d4f5abc4171dd58fd02608447",
       "summation": "md5"
     },
     {
@@ -5241,9 +5252,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 507,
-  "item_last_updated": 1667259846,
-  "item_size": 36100448,
+  "files_count": 508,
+  "item_last_updated": 1667261248,
+  "item_size": 36110033,
   "metadata": {
     "identifier": "chilligaz-2022",
     "collection": [
@@ -5260,21 +5271,10 @@
     "publicdate": "2022-09-20 22:13:45",
     "addeddate": "2022-09-20 22:13:45"
   },
-  "pending_tasks": true,
-  "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247222,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 880871712,
+  "server": "ia801402.us.archive.org",
+  "uniq": 976220538,
   "workable_servers": [
+    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

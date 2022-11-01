@@ -1,5 +1,10 @@
 {
-  "created": 1667257061,
+  "cnnbrasil-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261884,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/24/items/cnnbrasil-2022",
@@ -15619,21 +15624,32 @@
       "format": "JSON"
     },
     {
+      "name": "cnnbrasil-2022-10-31T19:56:20.459242-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnnbrasil-2022-10-31T19:56:20.459242-03:00.jpg",
+      "mtime": "1667257845",
+      "size": "10160",
+      "md5": "11d01d60ccd693a2f835179464dad8a9",
+      "crc32": "6cb683d6",
+      "sha1": "2866b27c1bb52193f47a7079fe05b2293a00daf5"
+    },
+    {
       "name": "cnnbrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "58cc9221f0e89748d12626eb2db3251c00e20bff",
-      "mtime": "1667257054",
-      "size": "321569",
-      "md5": "1936bf135827db3a04e4b3c581eecc21",
-      "crc32": "cacd5e16",
-      "sha1": "fa01aeec5685409fadc3ac40c32100f76b3ae877",
+      "btih": "96005d3597cd9867f74f173d388ca9a91a2e84f5",
+      "mtime": "1667257869",
+      "size": "321775",
+      "md5": "e8574feccc530a63e4d5c22eb99c45ec",
+      "crc32": "81d7b984",
+      "sha1": "6245d2659dc43eade7076b4f242aaefe0723c0a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnnbrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8891bdc69468126b5827d25cd58508dc",
+      "md5": "1531b5ada08f23f6e3b67ea64b5d6a98",
       "summation": "md5"
     },
     {
@@ -15657,9 +15673,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1515,
-  "item_last_updated": 1667257054,
-  "item_size": 119813545,
+  "files_count": 1516,
+  "item_last_updated": 1667257869,
+  "item_size": 119823911,
   "metadata": {
     "identifier": "cnnbrasil-2022",
     "collection": [
@@ -15676,21 +15692,10 @@
     "publicdate": "2022-08-07 19:42:41",
     "addeddate": "2022-08-07 19:42:41"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458214533,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1143677667,
+  "server": "ia801403.us.archive.org",
+  "uniq": 1349902551,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

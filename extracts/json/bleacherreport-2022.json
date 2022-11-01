@@ -1,5 +1,5 @@
 {
-  "created": 1667256903,
+  "created": 1667258293,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/30/items/bleacherreport-2022",
@@ -13909,21 +13909,32 @@
       "format": "JSON"
     },
     {
+      "name": "bleacherreport-2022-10-31T18:53:51.802096-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bleacherreport-2022-10-31T18:53:51.802096-04:00.jpg",
+      "mtime": "1667258131",
+      "size": "9794",
+      "md5": "516b0468510fb52bd50162e8c7ee233e",
+      "crc32": "27247072",
+      "sha1": "095f8d204bf2fa411e13475017457f56be394af6"
+    },
+    {
       "name": "bleacherreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fac2e8fc3d8c0a2376a9d472e114e859df7d8b16",
-      "mtime": "1667256899",
-      "size": "291249",
-      "md5": "a8d3936dbf88751f5d46fdc00ab84329",
-      "crc32": "83329e5c",
-      "sha1": "1f52a99d8d6a0b67111da1478a62a977b705aa54",
+      "btih": "37b953ce81f816da27804b5abf6017c39b534944",
+      "mtime": "1667258165",
+      "size": "291459",
+      "md5": "24475d758863dde18503bca2deadeea6",
+      "crc32": "57966105",
+      "sha1": "c80879627f7524246304a5b2588057b8429d5c46",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bleacherreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0974632f5aceb1b7cb1b2aeb063e7fec",
+      "md5": "11adde3b3baf48356414d52b804edd62",
       "summation": "md5"
     },
     {
@@ -13947,9 +13958,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1346,
-  "item_last_updated": 1667256899,
-  "item_size": 74478946,
+  "files_count": 1347,
+  "item_last_updated": 1667258165,
+  "item_size": 74488950,
   "metadata": {
     "identifier": "bleacherreport-2022",
     "collection": [
@@ -13966,21 +13977,10 @@
     "publicdate": "2022-07-04 20:45:29",
     "addeddate": "2022-07-04 20:45:29"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212629,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 129410902,
+  "server": "ia802506.us.archive.org",
+  "uniq": 520044227,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

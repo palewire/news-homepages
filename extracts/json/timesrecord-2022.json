@@ -1,5 +1,5 @@
 {
-  "created": 1667228654,
+  "created": 1667268049,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/timesrecord-2022",
@@ -5079,21 +5079,32 @@
       "format": "JSON"
     },
     {
+      "name": "timesrecord-2022-10-31T10:03:16.637817-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesrecord-2022-10-31T10:03:16.637817-05:00.jpg",
+      "mtime": "1667233983",
+      "size": "9478",
+      "md5": "9aea55ec57c77434b171fea5ba9fbbe4",
+      "crc32": "b3ac4d73",
+      "sha1": "df2bfb66008d79a917dbd25fc9ae085819c32c48"
+    },
+    {
       "name": "timesrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "328091bb5105e9d78860e6734a7e1d4361f0cc3b",
-      "mtime": "1667228649",
-      "size": "106095",
-      "md5": "e4a81b9db12af3abc77aa869bee1bfd5",
-      "crc32": "01e69a25",
-      "sha1": "0ea457bc904b72725de64f995ce15191cb54dff1",
+      "btih": "25bcdc8ce46cedaed2c4333ef678b23e1bceada6",
+      "mtime": "1667234053",
+      "size": "106302",
+      "md5": "06df9dd01aaf734dccdc4747595a2679",
+      "crc32": "cc5286b0",
+      "sha1": "764fab779f23d850b9962e5b5590f1ed72bed020",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1b35cbc4928019a96a7aa3445e58e015",
+      "md5": "b70e2586e4168c46eaf4e0460a904785",
       "summation": "md5"
     },
     {
@@ -5117,9 +5128,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 495,
-  "item_last_updated": 1667228649,
-  "item_size": 31697435,
+  "files_count": 496,
+  "item_last_updated": 1667234053,
+  "item_size": 31707120,
   "metadata": {
     "identifier": "timesrecord-2022",
     "collection": [
@@ -5136,21 +5147,15 @@
     "publicdate": "2022-09-21 03:46:49",
     "addeddate": "2022-09-21 03:46:49"
   },
-  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457853126,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 881262656,
+  "timesrecord-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 307891965,
   "workable_servers": [
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

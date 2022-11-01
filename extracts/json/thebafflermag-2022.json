@@ -1,6 +1,5 @@
 {
-  "conflict": 1667246753,
-  "created": 1667246753,
+  "created": 1667247216,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/5/items/thebafflermag-2022",
@@ -18449,24 +18448,29 @@
       "name": "thebafflermag-2022-10-31T16:00:06.310317-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "thebafflermag-2022-10-31T16:00:06.310317-04:00.jpg"
+      "original": "thebafflermag-2022-10-31T16:00:06.310317-04:00.jpg",
+      "mtime": "1667246737",
+      "size": "9784",
+      "md5": "3dfb76aeb6cb601ee482090fd261b8cc",
+      "crc32": "26c03923",
+      "sha1": "11e996ad3d2db59914551dd965cf1884054dcb14"
     },
     {
       "name": "thebafflermag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "68d9146353f52d974b471f6c2c67af6a0a0d91a2",
-      "mtime": "1667246491",
-      "size": "384127",
-      "md5": "109dc92156a8b88f7993265264fa2181",
-      "crc32": "3bf51fd5",
-      "sha1": "4fa210670888e7d13478978dd68d9c4ceb8b8e60",
+      "btih": "cbf7f71ee787486db3c8faee540eab5c4e1a1c0e",
+      "mtime": "1667247184",
+      "size": "384336",
+      "md5": "0bdc81c401e0b389ccd35cd3f50936d3",
+      "crc32": "54744c65",
+      "sha1": "5bbbd139ff1b9fef78108bdb752be9af5ced7578",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebafflermag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "23c6705e544d55f1d860c5c60318ff22",
+      "md5": "f224947c43dade405effd5e6ce881f35",
       "summation": "md5"
     },
     {
@@ -18491,8 +18495,8 @@
     }
   ],
   "files_count": 1787,
-  "item_last_updated": 1667246491,
-  "item_size": 98291124,
+  "item_last_updated": 1667247184,
+  "item_size": 98301117,
   "metadata": {
     "identifier": "thebafflermag-2022",
     "collection": [
@@ -18509,21 +18513,10 @@
     "publicdate": "2022-07-17 16:00:07",
     "addeddate": "2022-07-17 16:00:07"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458062074,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 339945967,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1866568830,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

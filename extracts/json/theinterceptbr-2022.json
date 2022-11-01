@@ -1,5 +1,5 @@
 {
-  "created": 1667228497,
+  "created": 1667267575,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/3/items/theinterceptbr-2022",
@@ -16045,21 +16045,32 @@
       "format": "JSON"
     },
     {
+      "name": "theinterceptbr-2022-10-31T12:00:20.671652-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theinterceptbr-2022-10-31T12:00:20.671652-03:00.jpg",
+      "mtime": "1667232323",
+      "size": "9380",
+      "md5": "b0730d2b0b5f5ac58ca92adcc7f38ea4",
+      "crc32": "c345ddec",
+      "sha1": "7560140b41b8710644b802d77f069ef776439bfa"
+    },
+    {
       "name": "theinterceptbr-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5bbe9cc511a9d6f8070aff2b0340d8a73feef71",
-      "mtime": "1667228489",
-      "size": "335032",
-      "md5": "db154fa0ace4ae54259100d4ef845f3e",
-      "crc32": "b08cf364",
-      "sha1": "055576a415df4dea628c3517bac31f31a22a9098",
+      "btih": "93c4053ee7e74b3100b9d853f125459c958edc6e",
+      "mtime": "1667232343",
+      "size": "335242",
+      "md5": "b33809b5985ef4cddfaf102bb1814520",
+      "crc32": "15ba60b1",
+      "sha1": "b7168513677ec7671c477e8699eab64c38cba6a0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theinterceptbr-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b113c29a537c027986dc6154d39ced9",
+      "md5": "c4f83ada9691deacf91334544e3c615a",
       "summation": "md5"
     },
     {
@@ -16083,9 +16094,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1556,
-  "item_last_updated": 1667228489,
-  "item_size": 63726816,
+  "files_count": 1557,
+  "item_last_updated": 1667232343,
+  "item_size": 63736406,
   "metadata": {
     "identifier": "theinterceptbr-2022",
     "collection": [
@@ -16102,21 +16113,10 @@
     "publicdate": "2022-08-03 01:57:11",
     "addeddate": "2022-08-03 01:57:11"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457850607,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1344153953,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1930673750,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

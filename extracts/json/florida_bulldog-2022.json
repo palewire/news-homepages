@@ -1,5 +1,5 @@
 {
-  "created": 1667260056,
+  "created": 1667261570,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/5/items/florida_bulldog-2022",
@@ -13497,21 +13497,32 @@
       "format": "JSON"
     },
     {
+      "name": "florida_bulldog-2022-10-31T19:46:08.612557-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "florida_bulldog-2022-10-31T19:46:08.612557-04:00.jpg",
+      "mtime": "1667261392",
+      "size": "9722",
+      "md5": "d70f638cd6e053ef0e7f8df67b395eb5",
+      "crc32": "815ddd5e",
+      "sha1": "32ab0f9ae6194b80d9597ded235e1ff2b1822b5e"
+    },
+    {
       "name": "florida_bulldog-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d55f4f3aeead9c34319f0bd75b35376dcb7524fb",
-      "mtime": "1667260049",
-      "size": "284294",
-      "md5": "1a6a12c457ae3104ba0ed44d709d8713",
-      "crc32": "4b78a020",
-      "sha1": "94e0c42bc3e0168a2cd8b3cd5090ce5d42dcdba2",
+      "btih": "75b997d33e26aec559598276f40e7ca0913e0506",
+      "mtime": "1667261501",
+      "size": "284505",
+      "md5": "2d71fdd968048f3bd08d036a0f047848",
+      "crc32": "13f7f88c",
+      "sha1": "8dd1fd1540da7a03605cf38430787b4bfb2630d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "florida_bulldog-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7bdcbcde0a30970b2f4d00348dbdd326",
+      "md5": "9ab714027c1b5fe2aa6124dd5711a451",
       "summation": "md5"
     },
     {
@@ -13535,9 +13546,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1307,
-  "item_last_updated": 1667260049,
-  "item_size": 80473870,
+  "files_count": 1308,
+  "item_last_updated": 1667261501,
+  "item_size": 80483803,
   "metadata": {
     "identifier": "florida_bulldog-2022",
     "collection": [
@@ -13554,21 +13565,10 @@
     "publicdate": "2022-07-09 03:59:15",
     "addeddate": "2022-07-09 03:59:15"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458249394,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1292077346,
+  "server": "ia801408.us.archive.org",
+  "uniq": 969636793,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

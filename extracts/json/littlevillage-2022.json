@@ -1,5 +1,5 @@
 {
-  "created": 1667265913,
+  "created": 1667264247,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/littlevillage-2022",
@@ -18090,82 +18090,31 @@
       "sha1": "7c6c1a1eb449415bdc247d5e205e3af69f733b3e"
     },
     {
-      "name": "littlevillage-2022-10-31T20:23:53.864372-05:00.accessibility.json",
-      "source": "original",
-      "mtime": "1667265838",
-      "size": "30676",
-      "md5": "47b37316e0853dc5d2ac3876c4f1e2c4",
-      "crc32": "8c00cd34",
-      "sha1": "391972c620acdd47f987b9f1ba8543de3b745c80",
-      "format": "JSON"
-    },
-    {
-      "name": "littlevillage-2022-10-31T20:23:53.864372-05:00.hyperlinks.json",
-      "source": "original",
-      "mtime": "1667265840",
-      "size": "37760",
-      "md5": "594cd8f850f2437d00a27d7fdfdcaa5c",
-      "crc32": "b69c35bf",
-      "sha1": "69d291a225f4fae59c88efecfa5c09d8bb2b1df9",
-      "format": "JSON"
-    },
-    {
-      "name": "littlevillage-2022-10-31T20:23:53.864372-05:00.jpg",
-      "source": "original",
-      "mtime": "1667265836",
-      "size": "270258",
-      "md5": "37c8273e0ed8d92c039fe4f517f204a5",
-      "crc32": "70be7899",
-      "sha1": "edbe3606cb031b0adb394143fdfa72428b9586a0",
-      "format": "JPEG",
-      "rotation": "0"
-    },
-    {
-      "name": "littlevillage-2022-10-31T20:23:53.864372-05:00.lighthouse.json",
-      "source": "original",
-      "mtime": "1667265844",
-      "size": "1510",
-      "md5": "0c38617dc9f07c0d007ad1002c4aa766",
-      "crc32": "097cfc09",
-      "sha1": "b6a8ef0e62c23f3ef4a8993dba154b3a24b0b5ae",
-      "format": "JSON"
-    },
-    {
-      "name": "littlevillage-2022-10-31T20:23:53.864372-05:00.wayback.json",
-      "source": "original",
-      "mtime": "1667265848",
-      "size": "202",
-      "md5": "07e452389e857b7334503102fdd2cebf",
-      "crc32": "55525c66",
-      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
-      "format": "JSON"
-    },
-    {
       "name": "littlevillage-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a1055bd9e1c15a0524ceadccf10b40e9b43ff09f",
-      "mtime": "1667265909",
-      "size": "378330",
-      "md5": "1bdc52715d38aaec039fc397b673b863",
-      "crc32": "fa6fc65a",
-      "sha1": "f07ed32c199ffccce73ee5df311515c8fedee564",
+      "btih": "72b7da66e15c38c5e46ef2ce7a4b16cd6f7fb7cb",
+      "mtime": "1667234029",
+      "size": "377244",
+      "md5": "69f5895f95770779026690dde4f5465f",
+      "crc32": "10747e58",
+      "sha1": "e29ff41e9993be7e91073bebf2e517ce00dc659c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "littlevillage-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "df517d6f7fa3dc0e27fd58d3fc3358a6",
+      "md5": "50367adab67dab9588254373aabf89af",
       "summation": "md5"
     },
     {
       "name": "littlevillage-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667265851",
-      "size": "2203648",
-      "md5": "14be78a0a9fa22681e8f13f82d9cb5de",
-      "crc32": "fad8320c",
-      "sha1": "a82207d1f0527a62ad35f7c9405cd42f41685953",
+      "mtime": "1667232633",
+      "size": "2191360",
+      "md5": "b59390f0c18bd842c3c6416a162bdcf4",
+      "crc32": "bd1a7d4f",
+      "sha1": "6b50b1d6b3635ae084f1420cab7db7444dd1f49a",
       "format": "Metadata"
     },
     {
@@ -18179,9 +18128,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1753,
-  "item_last_updated": 1667265909,
-  "item_size": 130473048,
+  "files_count": 1748,
+  "item_last_updated": 1667234029,
+  "item_size": 130119268,
+  "littlevillage-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "littlevillage-2022",
     "collection": [
@@ -18198,21 +18152,10 @@
     "publicdate": "2022-06-24 22:57:45",
     "addeddate": "2022-06-24 22:57:45"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458323130,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 610127947,
+  "server": "ia802507.us.archive.org",
+  "uniq": 870139081,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

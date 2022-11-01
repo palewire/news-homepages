@@ -1,5 +1,5 @@
 {
-  "created": 1667256896,
+  "created": 1667257428,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/11/items/asburyparkpress-2022",
@@ -5203,21 +5203,32 @@
       "format": "JSON"
     },
     {
+      "name": "asburyparkpress-2022-10-31T18:53:45.402475-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "asburyparkpress-2022-10-31T18:53:45.402475-04:00.jpg",
+      "mtime": "1667257367",
+      "size": "9111",
+      "md5": "d22c62ec4aa6f64d9400cc163d608707",
+      "crc32": "f9a93425",
+      "sha1": "4a55db9aacd732707aa2e3e64fc706408bfcdbb9"
+    },
+    {
       "name": "asburyparkpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b76066bf8dc5e55cda332d5c9b4f2dd31419a0c8",
-      "mtime": "1667256886",
-      "size": "110764",
-      "md5": "927e1768d85e30c7b65add2910017307",
-      "crc32": "65f4d4c3",
-      "sha1": "00ef67d8479db56d8a85500051d85bcdfd00c9e7",
+      "btih": "89e59b8197bea3c739d92e89f6312355cf8fe6aa",
+      "mtime": "1667257388",
+      "size": "110975",
+      "md5": "7f6d3063cc58d7b3466999a02dca3460",
+      "crc32": "beedf29f",
+      "sha1": "e382afec513e61bda9cfc6dcf53673ae342e76a8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "asburyparkpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a3905f21bb52cdd7825f4dcda44c556a",
+      "md5": "95a9cfc153cb1ab4c5028612f5f0dafb",
       "summation": "md5"
     },
     {
@@ -5241,9 +5252,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 507,
-  "item_last_updated": 1667256886,
-  "item_size": 33218937,
+  "files_count": 508,
+  "item_last_updated": 1667257388,
+  "item_size": 33228259,
   "metadata": {
     "identifier": "asburyparkpress-2022",
     "collection": [
@@ -5260,21 +5271,10 @@
     "publicdate": "2022-09-20 22:10:26",
     "addeddate": "2022-09-20 22:10:26"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212556,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 2110710871,
+  "uniq": 683151855,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

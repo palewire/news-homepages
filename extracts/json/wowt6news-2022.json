@@ -1,5 +1,5 @@
 {
-  "created": 1667232498,
+  "created": 1667268940,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/wowt6news-2022",
@@ -11479,21 +11479,32 @@
       "format": "JSON"
     },
     {
+      "name": "wowt6news-2022-10-31T11:05:48.048364-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wowt6news-2022-10-31T11:05:48.048364-05:00.jpg",
+      "mtime": "1667233324",
+      "size": "10380",
+      "md5": "8bd0b6666cbf98e485fbe19784963777",
+      "crc32": "3262c6cf",
+      "sha1": "22c6a8c401a08a71c902c3bf211694c7859714d4"
+    },
+    {
       "name": "wowt6news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "133fda6a4f508c11e863f5f375fa7043d34761a1",
-      "mtime": "1667232484",
-      "size": "236541",
-      "md5": "a3dd05ca3345ed966aba67a41e04dd65",
-      "crc32": "cf09cf8e",
-      "sha1": "54fb78c631e8092b01b1a42f54019643a3e573be",
+      "btih": "0baadc983e10fd1e528d55969f6242411d3b0f75",
+      "mtime": "1667233339",
+      "size": "236747",
+      "md5": "a49cdb2d85dd120a9588ccf1d52f677f",
+      "crc32": "d9f0df38",
+      "sha1": "8221492f7196c4958522ebaad16febd59483965c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wowt6news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "56a0bf6d46cec3e72fb14154dd356440",
+      "md5": "bee95a1527d68bf08ff18ee03b55705c",
       "summation": "md5"
     },
     {
@@ -11517,9 +11528,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1114,
-  "item_last_updated": 1667232484,
-  "item_size": 86450851,
+  "files_count": 1115,
+  "item_last_updated": 1667233339,
+  "item_size": 86461437,
   "metadata": {
     "identifier": "wowt6news-2022",
     "collection": [
@@ -11536,21 +11547,15 @@
     "publicdate": "2022-07-30 16:33:51",
     "addeddate": "2022-07-30 16:33:51"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457893336,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1886195804,
+  "server": "ia801408.us.archive.org",
+  "uniq": 672200017,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
-  ]
+  ],
+  "wowt6news-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  }
 }

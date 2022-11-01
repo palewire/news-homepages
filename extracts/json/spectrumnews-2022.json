@@ -1,5 +1,5 @@
 {
-  "created": 1667228315,
+  "created": 1667266843,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/spectrumnews-2022",
@@ -15119,21 +15119,32 @@
       "format": "JSON"
     },
     {
+      "name": "spectrumnews-2022-10-31T08:57:18.030148-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spectrumnews-2022-10-31T08:57:18.030148-06:00.jpg",
+      "mtime": "1667231336",
+      "size": "9215",
+      "md5": "ab0de657e2b8493892aebc9f544da390",
+      "crc32": "5318f907",
+      "sha1": "5e8a44f7de3fbc1e9a3fe651c69a80fd008fcf39"
+    },
+    {
       "name": "spectrumnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "339d2f68a49594615bbc256ae987fba360b6a29f",
-      "mtime": "1667228310",
-      "size": "313570",
-      "md5": "2aa3b42b09c3c5366db87856bf230c56",
-      "crc32": "ca5ed16b",
-      "sha1": "142be0be59e53658847cd2914c447e3a37dc917d",
+      "btih": "dafd499fc0c87ffee3cf15167712bd2e392db38f",
+      "mtime": "1667231396",
+      "size": "313778",
+      "md5": "ad6c6dcb9f403981892fd4e585800f1e",
+      "crc32": "669d0373",
+      "sha1": "d96743e39a81f9ba47d6ff8177f4458da46ca385",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spectrumnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a0d38ff2f4d69efc7c10aaabfe8d44b8",
+      "md5": "032dee0ee4cadc72668d29e2c68d01ad",
       "summation": "md5"
     },
     {
@@ -15157,9 +15168,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1461,
-  "item_last_updated": 1667228310,
-  "item_size": 98448667,
+  "files_count": 1462,
+  "item_last_updated": 1667231396,
+  "item_size": 98458090,
   "metadata": {
     "identifier": "spectrumnews-2022",
     "collection": [
@@ -15176,21 +15187,15 @@
     "publicdate": "2022-06-24 23:02:15",
     "addeddate": "2022-06-24 23:02:15"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848175,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 740461212,
+  "server": "ia802507.us.archive.org",
+  "spectrumnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 755584313,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

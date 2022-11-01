@@ -1,6 +1,10 @@
 {
-  "conflict": 1667257216,
-  "created": 1667257216,
+  "ap-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261242,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/20/items/ap-2022",
@@ -28036,21 +28040,32 @@
       "format": "JSON"
     },
     {
+      "name": "ap-2022-10-31T18:51:37.416615-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ap-2022-10-31T18:51:37.416615-04:00.jpg",
+      "mtime": "1667257240",
+      "size": "8707",
+      "md5": "19206843c3bc31867fa2224ef1cdf2b6",
+      "crc32": "b3f75a04",
+      "sha1": "3dd3a7438ee951795add10b0983b875f2cf9c402"
+    },
+    {
       "name": "ap-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b7d6bf7e01fe8d7c6e0b240e3cb9ca2c9638d425",
-      "mtime": "1667256806",
-      "size": "551755",
-      "md5": "9a49a72027969ca82dbd6ffb0279f5aa",
-      "crc32": "4a748d66",
-      "sha1": "b884455c51356cf5b24d1f3b02e9570f63d9c519",
+      "btih": "0bfc43349269616a0ce692312fde45eb4207369c",
+      "mtime": "1667258407",
+      "size": "551953",
+      "md5": "719a683408c0af4657954ea953e938d5",
+      "crc32": "d93ef374",
+      "sha1": "654f8533c8cfa272a40c6e4fb363548d12c82257",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ap-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ea78d8a393beec492586a506f35dc253",
+      "md5": "d4bdea53318cd2d5dfc7b1900c217d89",
       "summation": "md5"
     },
     {
@@ -28074,9 +28089,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2707,
-  "item_last_updated": 1667256806,
-  "item_size": 147538197,
+  "files_count": 2708,
+  "item_last_updated": 1667258407,
+  "item_size": 147547102,
   "metadata": {
     "identifier": "ap-2022",
     "collection": [
@@ -28093,21 +28108,10 @@
     "publicdate": "2022-06-24 22:53:09",
     "addeddate": "2022-06-24 22:53:09"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458211685,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 2066426066,
+  "server": "ia801503.us.archive.org",
+  "uniq": 275812740,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

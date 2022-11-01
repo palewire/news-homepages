@@ -1,6 +1,5 @@
 {
-  "conflict": 1667260539,
-  "created": 1667260080,
+  "created": 1667261971,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/diariope-2022",
@@ -16066,21 +16065,32 @@
       "format": "JSON"
     },
     {
+      "name": "diariope-2022-10-31T20:45:50.466220-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "diariope-2022-10-31T20:45:50.466220-03:00.jpg",
+      "mtime": "1667261718",
+      "size": "9497",
+      "md5": "da18340223a61791fa6b006444e0a25e",
+      "crc32": "48baa4ca",
+      "sha1": "6fd81f8bd2e2677655a7d0420c57dbc18c962ac3"
+    },
+    {
       "name": "diariope-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f6c97ecc14aa37113be7b780af7a2abb8109332",
-      "mtime": "1667260061",
-      "size": "330384",
-      "md5": "3a24920c508fc39655e92e23064bfa69",
-      "crc32": "b5104649",
-      "sha1": "c955854856b594b334fc6c7276c9a196cb8ccc03",
+      "btih": "d67dadf3f3f9b26bb7cb2b78019bd67f43ade1e8",
+      "mtime": "1667261749",
+      "size": "330588",
+      "md5": "8c324e8a01b17aa54e8ddd530ddb852d",
+      "crc32": "9d8d12b6",
+      "sha1": "85d95a9da69dddcf57f39d3062a2cfd8455f620c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "diariope-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bccb77295f69dd8e1ba458d1f1cdc459",
+      "md5": "47d1452a8c38404593afa184fc713d2e",
       "summation": "md5"
     },
     {
@@ -16104,9 +16114,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1558,
-  "item_last_updated": 1667260061,
-  "item_size": 150277856,
+  "files_count": 1559,
+  "item_last_updated": 1667261749,
+  "item_size": 150287557,
   "metadata": {
     "identifier": "diariope-2022",
     "collection": [
@@ -16123,21 +16133,10 @@
     "publicdate": "2022-08-04 04:55:38",
     "addeddate": "2022-08-04 04:55:38"
   },
-  "pending_tasks": true,
   "server": "ia801400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458249789,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 358728530,
+  "uniq": 48871444,
   "workable_servers": [
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

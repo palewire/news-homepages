@@ -1,5 +1,5 @@
 {
-  "created": 1667246489,
+  "created": 1667247433,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/truthout-2022",
@@ -18465,21 +18465,32 @@
       "format": "JSON"
     },
     {
+      "name": "truthout-2022-10-31T13:00:12.292353-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "truthout-2022-10-31T13:00:12.292353-07:00.jpg",
+      "mtime": "1667247357",
+      "size": "9932",
+      "md5": "29b9ba6bd728692a34010807ba1ac5b7",
+      "crc32": "579109b4",
+      "sha1": "6b8f07ab80212ea5ad90f254b0360c5975a0f8ab"
+    },
+    {
       "name": "truthout-2022_archive.torrent",
       "source": "metadata",
-      "btih": "33c7866b194c76d146318e86af81be033da0ff83",
-      "mtime": "1667246484",
-      "size": "376083",
-      "md5": "b1bfe2a1900addafd1f2e9f31341b48d",
-      "crc32": "68ab66f2",
-      "sha1": "997afa447a87dedb3f9d9890d916e9dfc99c6141",
+      "btih": "2234d727c434e0585fbc2b5652f4e82eddbe2458",
+      "mtime": "1667247384",
+      "size": "376287",
+      "md5": "0057391bdbb61d104456e0e682b5b89f",
+      "crc32": "f14351ba",
+      "sha1": "33f81fe5b054f5f3ac1b6f61a40a0e8c40dd6096",
       "format": "Archive BitTorrent"
     },
     {
       "name": "truthout-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7759ad7bfcf6c28bf733e03a945718a8",
+      "md5": "74c6c976aa58df4a05dd1fdc0f089c0b",
       "summation": "md5"
     },
     {
@@ -18503,9 +18514,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1788,
-  "item_last_updated": 1667246484,
-  "item_size": 105888933,
+  "files_count": 1789,
+  "item_last_updated": 1667247384,
+  "item_size": 105899069,
   "metadata": {
     "identifier": "truthout-2022",
     "collection": [
@@ -18522,21 +18533,10 @@
     "publicdate": "2022-07-17 15:59:53",
     "addeddate": "2022-07-17 15:59:53"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458061808,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 910240045,
+  "server": "ia802507.us.archive.org",
+  "uniq": 119298814,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

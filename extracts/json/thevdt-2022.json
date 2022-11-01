@@ -1,5 +1,5 @@
 {
-  "created": 1667228650,
+  "created": 1667267938,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/11/items/thevdt-2022",
@@ -11909,21 +11909,32 @@
       "format": "JSON"
     },
     {
+      "name": "thevdt-2022-10-31T11:02:35.587651-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thevdt-2022-10-31T11:02:35.587651-04:00.jpg",
+      "mtime": "1667230653",
+      "size": "8716",
+      "md5": "ce8ed3718ec024ed9fb6bd45dbbff975",
+      "crc32": "e6aeb60c",
+      "sha1": "7586a6cf2e252cc33f48a035b7959759a8d6afd7"
+    },
+    {
       "name": "thevdt-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b1b7f31ecce954ed81aed24637f0f77a150dfc4",
-      "mtime": "1667228640",
-      "size": "240917",
-      "md5": "a4aeb329a60b5478210b8714c9197314",
-      "crc32": "b6c31c8c",
-      "sha1": "8d0f79d01b236ac90f5b774bb54cc02f8b2c8b9a",
+      "btih": "581027e6d22099a843a81b4b9b5a443d7a36f02d",
+      "mtime": "1667230666",
+      "size": "241119",
+      "md5": "bd69e593ca0d84a10c19ca9414998be7",
+      "crc32": "ec9a5405",
+      "sha1": "19aadc1dc7561da23ad2f0eb8d426baf6a057c01",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thevdt-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6eb0435a676d10778dc5d2122c61fd7b",
+      "md5": "b5cd2671b2c8ef237e5fe55841bea087",
       "summation": "md5"
     },
     {
@@ -11947,9 +11958,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1153,
-  "item_last_updated": 1667228640,
-  "item_size": 90278054,
+  "files_count": 1154,
+  "item_last_updated": 1667230666,
+  "item_size": 90286972,
   "metadata": {
     "identifier": "thevdt-2022",
     "collection": [
@@ -11966,21 +11977,15 @@
     "publicdate": "2022-07-20 23:31:50",
     "addeddate": "2022-07-20 23:31:50"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457853077,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1333810818,
+  "thevdt-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1701449813,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

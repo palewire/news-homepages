@@ -1,5 +1,5 @@
 {
-  "created": 1667265987,
+  "created": 1667264408,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/11/items/mailonline-2022",
@@ -21140,82 +21140,31 @@
       "sha1": "18be5e4ab4fe3d91ae44dbd803073dfb2fa896c0"
     },
     {
-      "name": "mailonline-2022-11-01T01:24:25.933213+00:00.accessibility.json",
-      "source": "original",
-      "mtime": "1667265870",
-      "size": "236966",
-      "md5": "14f561cd68cf0f53efccfad4d8c94c87",
-      "crc32": "88d66b41",
-      "sha1": "36133c1bdefd5e8133e3e669b2866fc410f6f9d1",
-      "format": "JSON"
-    },
-    {
-      "name": "mailonline-2022-11-01T01:24:25.933213+00:00.hyperlinks.json",
-      "source": "original",
-      "mtime": "1667265871",
-      "size": "300752",
-      "md5": "b500a75a686923f9216a3e28d2ccfb3c",
-      "crc32": "bdc05170",
-      "sha1": "87ea82fcb3269fe075e4ab4558b89cce7322c460",
-      "format": "JSON"
-    },
-    {
-      "name": "mailonline-2022-11-01T01:24:25.933213+00:00.jpg",
-      "source": "original",
-      "mtime": "1667265868",
-      "size": "407360",
-      "md5": "153a4a510c21c8b747fc9b877fa5afea",
-      "crc32": "f22a99ea",
-      "sha1": "c39617ba510814a2feb333579ec186c5ef088384",
-      "format": "JPEG",
-      "rotation": "0"
-    },
-    {
-      "name": "mailonline-2022-11-01T01:24:25.933213+00:00.lighthouse.json",
-      "source": "original",
-      "mtime": "1667265873",
-      "size": "1639",
-      "md5": "3756f3cf404eab6383c083928a7619cf",
-      "crc32": "a4beea0a",
-      "sha1": "f85edb0ed8a7eb98a0c4756b17d574adc0875fe1",
-      "format": "JSON"
-    },
-    {
-      "name": "mailonline-2022-11-01T01:24:25.933213+00:00.wayback.json",
-      "source": "original",
-      "mtime": "1667265875",
-      "size": "202",
-      "md5": "07e452389e857b7334503102fdd2cebf",
-      "crc32": "55525c66",
-      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
-      "format": "JSON"
-    },
-    {
       "name": "mailonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "90ff2d827077948398946c61ac6cc9fd1a0f2e5a",
-      "mtime": "1667265974",
-      "size": "442509",
-      "md5": "165ad25b1bffadce8ccda49c753e63c0",
-      "crc32": "41060117",
-      "sha1": "c1dfc271d4e9832c5c92f297aea1cd0cdeba8935",
+      "btih": "4365159b7aa3ff0a69851558bd989f9674216323",
+      "mtime": "1667221398",
+      "size": "441416",
+      "md5": "b99c8ed2f2bc490ddf521b3e2123b831",
+      "crc32": "2ceafd76",
+      "sha1": "0de2704775320a1406e0d54bfb38bae87a575369",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mailonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "277b338d3639002b6a6bd59e074f406c",
+      "md5": "392374ffbd526b65a4eeebd2e5d900f3",
       "summation": "md5"
     },
     {
       "name": "mailonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667265887",
-      "size": "2531328",
-      "md5": "3079526f7739bace69c1f35bf6cfb690",
-      "crc32": "c519f5b0",
-      "sha1": "ac9533d98c5773c71d068e856aba2d214dd47082",
+      "mtime": "1667220918",
+      "size": "2527232",
+      "md5": "eea6c668dcb2406ac9c9ec30abeda169",
+      "crc32": "ba60ab09",
+      "sha1": "4776e65aed77a85ebf6262b97a19004308186c8a",
       "format": "Metadata"
     },
     {
@@ -21229,9 +21178,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2044,
-  "item_last_updated": 1667265974,
-  "item_size": 338813713,
+  "files_count": 2039,
+  "item_last_updated": 1667221398,
+  "item_size": 337861605,
   "metadata": {
     "identifier": "mailonline-2022",
     "collection": [
@@ -21248,21 +21197,10 @@
     "publicdate": "2022-06-29 18:55:39",
     "addeddate": "2022-06-29 18:55:39"
   },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458323902,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1196567979,
+  "uniq": 946978816,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

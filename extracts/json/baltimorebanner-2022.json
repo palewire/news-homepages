@@ -1,5 +1,5 @@
 {
-  "created": 1667256966,
+  "created": 1667257996,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/3/items/baltimorebanner-2022",
@@ -16763,21 +16763,32 @@
       "format": "JSON"
     },
     {
+      "name": "baltimorebanner-2022-10-31T18:54:36.746715-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimorebanner-2022-10-31T18:54:36.746715-04:00.jpg",
+      "mtime": "1667257653",
+      "size": "9552",
+      "md5": "7f2a3241c61509c7f314544a74630161",
+      "crc32": "db38d57d",
+      "sha1": "f01d7deb517980caa1a396e6c88e069c1508da81"
+    },
+    {
       "name": "baltimorebanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8b91063eb7c0f8ab0a3ff045698c06a6b1ac474e",
-      "mtime": "1667256963",
-      "size": "352012",
-      "md5": "eb6b314e8afb97024c9828e2dd2af061",
-      "crc32": "e23a402d",
-      "sha1": "1167cfa062857c75ba9cb49488e0f2172bad2b91",
+      "btih": "d3b3e7f73712b6aa0c56f271525243c4a58f2be0",
+      "mtime": "1667257939",
+      "size": "352223",
+      "md5": "21b12f8a7185c353b545ab930aee3921",
+      "crc32": "9c59f2f6",
+      "sha1": "be41da72c8427b6ff1e27a2f64d5798e324417fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6426fcb234401c704960644dce558594",
+      "md5": "55ba62b33ab1093993f586c9efe5edfd",
       "summation": "md5"
     },
     {
@@ -16801,9 +16812,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1618,
-  "item_last_updated": 1667256963,
-  "item_size": 109418975,
+  "files_count": 1619,
+  "item_last_updated": 1667257939,
+  "item_size": 109428738,
   "metadata": {
     "identifier": "baltimorebanner-2022",
     "collection": [
@@ -16820,21 +16831,10 @@
     "publicdate": "2022-06-18 17:07:17",
     "addeddate": "2022-06-18 17:07:17"
   },
-  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458213335,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 881853915,
+  "uniq": 282791566,
   "workable_servers": [
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667257033,
+  "created": 1667258256,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/28/items/burlcotimes-2022",
@@ -5131,21 +5131,32 @@
       "format": "JSON"
     },
     {
+      "name": "burlcotimes-2022-10-31T18:56:16.045611-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "burlcotimes-2022-10-31T18:56:16.045611-04:00.jpg",
+      "mtime": "1667258196",
+      "size": "9491",
+      "md5": "06f0afcd66502ceaede054775f08b4fc",
+      "crc32": "82659796",
+      "sha1": "783508f29e8af6e37a261689998a4861410a64c0"
+    },
+    {
       "name": "burlcotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a54d932a06a8919bb89025daf9bc92696e0a865",
-      "mtime": "1667257030",
-      "size": "107251",
-      "md5": "4c7a5bc98116b597dfea26d6bb64b7c1",
-      "crc32": "e21df7ad",
-      "sha1": "a97d03bb16937bd9145bb7ef40f3081d9233b1ef",
+      "btih": "e6dc29758e3d3f27b8d509edf4f6cfaaa1da59f1",
+      "mtime": "1667258207",
+      "size": "107458",
+      "md5": "cde07f3f3a627c685dc296f897186b4c",
+      "crc32": "9c784af0",
+      "sha1": "9838156d8e8b40b47929af883f17cf522bd5339c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "burlcotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f29bff3cdf92f9e006344dbe41399193",
+      "md5": "af5156f9329e81bab79928333946960e",
       "summation": "md5"
     },
     {
@@ -5169,9 +5180,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 500,
-  "item_last_updated": 1667257030,
-  "item_size": 34017070,
+  "files_count": 501,
+  "item_last_updated": 1667258207,
+  "item_size": 34026768,
   "metadata": {
     "identifier": "burlcotimes-2022",
     "collection": [
@@ -5188,21 +5199,10 @@
     "publicdate": "2022-09-20 22:11:31",
     "addeddate": "2022-09-20 22:11:31"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458214209,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 728970591,
+  "server": "ia801409.us.archive.org",
+  "uniq": 666480144,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

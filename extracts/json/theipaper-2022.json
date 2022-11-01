@@ -1,5 +1,5 @@
 {
-  "created": 1667245977,
+  "created": 1667267599,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/7/items/theipaper-2022",
@@ -14297,21 +14297,32 @@
       "format": "JSON"
     },
     {
+      "name": "theipaper-2022-10-31T19:51:21.409795+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theipaper-2022-10-31T19:51:21.409795+00:00.jpg",
+      "mtime": "1667246990",
+      "size": "10651",
+      "md5": "1d512bcc849522ed76cfd94a2ba7fd2c",
+      "crc32": "e6fe7903",
+      "sha1": "5cc71abb431dfd28cd401c4c3ba2080831d68bb9"
+    },
+    {
       "name": "theipaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0599c276ce7e4c2836a555c24413bc04180b8f4a",
-      "mtime": "1667245968",
-      "size": "294578",
-      "md5": "1ea9649cdead62d8431efec3f6f8e898",
-      "crc32": "704acf8e",
-      "sha1": "9c65a63a41defea75f68303bcaa42e44085ede5b",
+      "btih": "76e1d2d0ef0d5e93e85dad5b42f0644633617d75",
+      "mtime": "1667247019",
+      "size": "294784",
+      "md5": "425d7b8c2185ef8ff26c301da581bd18",
+      "crc32": "e541f73c",
+      "sha1": "b30bb7a32e6612747cbc95f9242c11ade9d97454",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theipaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0dc7ed439898e0534974940684154f3b",
+      "md5": "b3c4fb1bb72880bfab9bedfb77caffb0",
       "summation": "md5"
     },
     {
@@ -14335,9 +14346,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1387,
-  "item_last_updated": 1667245968,
-  "item_size": 112937242,
+  "files_count": 1388,
+  "item_last_updated": 1667247019,
+  "item_size": 112948099,
   "metadata": {
     "identifier": "theipaper-2022",
     "collection": [
@@ -14354,21 +14365,15 @@
     "publicdate": "2022-08-15 06:48:06",
     "addeddate": "2022-08-15 06:48:06"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458054454,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1825935295,
+  "server": "ia801506.us.archive.org",
+  "theipaper-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 337131647,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

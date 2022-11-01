@@ -1,5 +1,10 @@
 {
-  "created": 1667232526,
+  "brooklynpaper-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261611,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/5/items/brooklynpaper-2022",
@@ -11105,21 +11110,32 @@
       "format": "JSON"
     },
     {
+      "name": "brooklynpaper-2022-10-31T12:03:44.277531-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brooklynpaper-2022-10-31T12:03:44.277531-04:00.jpg",
+      "mtime": "1667234611",
+      "size": "10057",
+      "md5": "ab0d2e8eeb28560ab906caf40bca2406",
+      "crc32": "465d0956",
+      "sha1": "1bb0b15d829f03385fb2f2e483d92db3fa7fd163"
+    },
+    {
       "name": "brooklynpaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee9f5ba87aa93db15ad3fd68bb3e10ff9083fa0e",
-      "mtime": "1667232514",
-      "size": "232557",
-      "md5": "0b7054944dd4003071fbbe90810e09ab",
-      "crc32": "b52b7661",
-      "sha1": "9811506ff05fc6a5235c4d29acda5d639f7859a3",
+      "btih": "cce278f2bca48dcc35b33b71bdf98769266b23b8",
+      "mtime": "1667234663",
+      "size": "232767",
+      "md5": "1e860e6c90bf5976f1084be3b3a1f493",
+      "crc32": "aff20be1",
+      "sha1": "c1b1b84f285e203ec1df53e25b6f52a912807b1d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brooklynpaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "96fe70307e7812768f814468b6fe3515",
+      "md5": "5bfb98119cfed504eaa1ca1c456ce448",
       "summation": "md5"
     },
     {
@@ -11143,9 +11159,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1078,
-  "item_last_updated": 1667232514,
-  "item_size": 64910595,
+  "files_count": 1079,
+  "item_last_updated": 1667234663,
+  "item_size": 64920862,
   "metadata": {
     "identifier": "brooklynpaper-2022",
     "collection": [
@@ -11162,21 +11178,10 @@
     "publicdate": "2022-08-03 01:54:23",
     "addeddate": "2022-08-03 01:54:23"
   },
-  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457893603,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 27600102,
+  "uniq": 1586607447,
   "workable_servers": [
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

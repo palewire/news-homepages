@@ -1,5 +1,5 @@
 {
-  "created": 1667228457,
+  "created": 1667267673,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/1/items/thenewportdaily-2022",
@@ -5079,21 +5079,32 @@
       "format": "JSON"
     },
     {
+      "name": "thenewportdaily-2022-10-31T10:59:57.008435-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenewportdaily-2022-10-31T10:59:57.008435-04:00.jpg",
+      "mtime": "1667230277",
+      "size": "9219",
+      "md5": "17f006af399dc607998abe8dc7f951c3",
+      "crc32": "c77634cf",
+      "sha1": "95e84d0eabcc850fa94315a78ff0c1cb5277addd"
+    },
+    {
       "name": "thenewportdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4c06d6c3aab4cfd363e54aec09d392a4f5fb2b1d",
-      "mtime": "1667228453",
-      "size": "108150",
-      "md5": "baf95a96ed18328ed799ca1b060bc97c",
-      "crc32": "1ec21dcb",
-      "sha1": "275dfe0d81517ab489b8d42ec76edf44deb5135e",
+      "btih": "8df23393619079c144c5366ef509deb801098697",
+      "mtime": "1667230300",
+      "size": "108361",
+      "md5": "374ac304079aed9be78e38945b929a3d",
+      "crc32": "31736ac6",
+      "sha1": "873d1a19e2c5ad4e4a951d80b94164b65d044328",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenewportdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "68d7b7ea6a041d1005d6a6af39a5ca89",
+      "md5": "13f3d4b6b4b5f0472a9f86f8500172f8",
       "summation": "md5"
     },
     {
@@ -5117,9 +5128,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 495,
-  "item_last_updated": 1667228453,
-  "item_size": 32652420,
+  "files_count": 496,
+  "item_last_updated": 1667230300,
+  "item_size": 32661850,
   "metadata": {
     "identifier": "thenewportdaily-2022",
     "collection": [
@@ -5136,21 +5147,15 @@
     "publicdate": "2022-09-21 03:45:16",
     "addeddate": "2022-09-21 03:45:16"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457849874,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 278978396,
+  "server": "ia801408.us.archive.org",
+  "thenewportdaily-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1820380505,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

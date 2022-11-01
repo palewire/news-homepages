@@ -1,5 +1,5 @@
 {
-  "created": 1667228519,
+  "created": 1667267262,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/19/items/thealligator-2022",
@@ -15153,21 +15153,32 @@
       "format": "JSON"
     },
     {
+      "name": "thealligator-2022-10-31T11:00:29.540805-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thealligator-2022-10-31T11:00:29.540805-04:00.jpg",
+      "mtime": "1667230456",
+      "size": "10165",
+      "md5": "a026dd7e915b363bee9d84468f606aee",
+      "crc32": "01a9ace8",
+      "sha1": "e1698804fe5b5c0c705ee5347c68b0d46fedcbdd"
+    },
+    {
       "name": "thealligator-2022_archive.torrent",
       "source": "metadata",
-      "btih": "30c3db864b06bd1bdc04b4f238c400f8c531943c",
-      "mtime": "1667228510",
-      "size": "314928",
-      "md5": "280fd9cb0ed29cc2c31414796b8cc7fa",
-      "crc32": "4f6b93e3",
-      "sha1": "bd97dd57a2638a05507069a72e2fec009ded220f",
+      "btih": "6b18d6d6adead0408676000c383ff16efcf01c5b",
+      "mtime": "1667230550",
+      "size": "315137",
+      "md5": "766bc7f105dc8dfc10e763daf0f33b42",
+      "crc32": "55061aeb",
+      "sha1": "f9619840b481c97f79e8e636f295e54127030e51",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thealligator-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "10fdcfacdc1b720c5438b9cddafed615",
+      "md5": "f5b5fff7a2edaf0bdb7282cdfedb609a",
       "summation": "md5"
     },
     {
@@ -15191,9 +15202,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1464,
-  "item_last_updated": 1667228510,
-  "item_size": 113111009,
+  "files_count": 1465,
+  "item_last_updated": 1667230550,
+  "item_size": 113121383,
   "metadata": {
     "identifier": "thealligator-2022",
     "collection": [
@@ -15210,21 +15221,15 @@
     "publicdate": "2022-06-24 23:02:17",
     "addeddate": "2022-06-24 23:02:17"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457851026,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1909462463,
+  "server": "ia801509.us.archive.org",
+  "thealligator-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 2010169887,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

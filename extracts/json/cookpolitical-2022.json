@@ -1,5 +1,5 @@
 {
-  "created": 1667259894,
+  "created": 1667261447,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/0/items/cookpolitical-2022",
@@ -14001,21 +14001,32 @@
       "format": "JSON"
     },
     {
+      "name": "cookpolitical-2022-10-31T19:43:46.223343-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cookpolitical-2022-10-31T19:43:46.223343-04:00.jpg",
+      "mtime": "1667261321",
+      "size": "10252",
+      "md5": "f6c1bea9ae9e1999867cbbf5119dac33",
+      "crc32": "0951903c",
+      "sha1": "e99a8eaf0e878c0572e957732f398a74c14c2efd"
+    },
+    {
       "name": "cookpolitical-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a960bb352506fc1714fa2d5a8efb1150f94345f1",
-      "mtime": "1667259890",
-      "size": "291548",
-      "md5": "f587f5f62b2f4156d40f6aef00350bb6",
-      "crc32": "9e2c56cb",
-      "sha1": "a57f7f0d3bb645bfda7cfc30a72645c5b50babd2",
+      "btih": "10088ae9590d10943e336c360eb031fa8300863a",
+      "mtime": "1667261341",
+      "size": "291758",
+      "md5": "3a0ca0adb435b449da9f3cf7db14a88f",
+      "crc32": "e1957350",
+      "sha1": "a8a62bb02a9c1fa1f68ae83c3d131d92071af6fd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cookpolitical-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "44e1e18ff5c0c6bca1570536989fdb7f",
+      "md5": "4cef2ab4d7c12f1cbd989dc084f66102",
       "summation": "md5"
     },
     {
@@ -14039,9 +14050,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1355,
-  "item_last_updated": 1667259890,
-  "item_size": 76620360,
+  "files_count": 1356,
+  "item_last_updated": 1667261341,
+  "item_size": 76630822,
   "metadata": {
     "identifier": "cookpolitical-2022",
     "collection": [
@@ -14058,21 +14069,10 @@
     "publicdate": "2022-07-04 20:47:01",
     "addeddate": "2022-07-04 20:47:01"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247715,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 613624999,
+  "uniq": 1378561090,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

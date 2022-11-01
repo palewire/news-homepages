@@ -1,5 +1,5 @@
 {
-  "created": 1667228628,
+  "created": 1667268306,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/3/items/umd_sbs-2022",
@@ -13185,21 +13185,32 @@
       "format": "JSON"
     },
     {
+      "name": "umd_sbs-2022-10-31T11:02:28.269815-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "umd_sbs-2022-10-31T11:02:28.269815-04:00.jpg",
+      "mtime": "1667231306",
+      "size": "8117",
+      "md5": "25b4d6f3c3674689a2450e1b7c450f52",
+      "crc32": "2c106a84",
+      "sha1": "cf747f6a4a8b40d180fef6df6d9ed75782db3a3d"
+    },
+    {
       "name": "umd_sbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3617bbc2baf71b76fbea943de7cb3290250cfaf",
-      "mtime": "1667228624",
-      "size": "266966",
-      "md5": "40d63e7befeb5eb08221a5b68371326f",
-      "crc32": "6206f702",
-      "sha1": "858b7f54079b093843bc4be4934a357e132e202d",
+      "btih": "cdd1f03c0cdf1ad5572aee7f60c26bfe0fbd0fbd",
+      "mtime": "1667231322",
+      "size": "267169",
+      "md5": "d64915ee7acc3bb9efe77768d19abaf5",
+      "crc32": "8b074fa8",
+      "sha1": "ca620133e226abcdb5cdc1748c9f5b72156c4e49",
       "format": "Archive BitTorrent"
     },
     {
       "name": "umd_sbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "66b710a2013bd71068d6b6cdeac25f1a",
+      "md5": "89bf05825cdfdd35d305fd187bd5bcf8",
       "summation": "md5"
     },
     {
@@ -13223,9 +13234,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1277,
-  "item_last_updated": 1667228624,
-  "item_size": 66736328,
+  "files_count": 1278,
+  "item_last_updated": 1667231322,
+  "item_size": 66744648,
   "metadata": {
     "identifier": "umd_sbs-2022",
     "collection": [
@@ -13242,21 +13253,15 @@
     "publicdate": "2022-07-12 20:46:23",
     "addeddate": "2022-07-12 20:46:23"
   },
-  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457852755,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 748417007,
+  "umd_sbs-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 737681644,
   "workable_servers": [
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

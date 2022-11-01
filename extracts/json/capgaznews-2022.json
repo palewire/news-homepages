@@ -1,5 +1,10 @@
 {
-  "created": 1667232317,
+  "capgaznews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261694,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/30/items/capgaznews-2022",
@@ -15417,21 +15422,32 @@
       "format": "JSON"
     },
     {
+      "name": "capgaznews-2022-10-31T12:03:44.412542-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capgaznews-2022-10-31T12:03:44.412542-04:00.jpg",
+      "mtime": "1667233597",
+      "size": "8014",
+      "md5": "8f924401b4b682535cf3c6f61107e178",
+      "crc32": "773aa0b7",
+      "sha1": "ed4dadec9abd6ec2567fde2ef3c2c4d8cb324b93"
+    },
+    {
       "name": "capgaznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4d00ebcc20bdd5f7c63a6f2430605a8138084a53",
-      "mtime": "1667232308",
-      "size": "316921",
-      "md5": "c4e0178140fcf66d2bfd79e16534c600",
-      "crc32": "c5ecab84",
-      "sha1": "01207826766cc10b8dfa1c16e556045f7ec7a83e",
+      "btih": "fc6ecbeb9c917c6346ffcf6390d1d817ba09ade3",
+      "mtime": "1667233616",
+      "size": "317127",
+      "md5": "791f5dbe59f42b1f741e1884904eb01f",
+      "crc32": "552fbc71",
+      "sha1": "555f6a79dfc071c09c9096c51b833d10fc5d4efd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capgaznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "98ef64b5da68c0a79183bb52ba464e0b",
+      "md5": "12a6d37eb4cb725386478d31e85ac0d2",
       "summation": "md5"
     },
     {
@@ -15455,9 +15471,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1490,
-  "item_last_updated": 1667232308,
-  "item_size": 103272211,
+  "files_count": 1491,
+  "item_last_updated": 1667233616,
+  "item_size": 103280431,
   "metadata": {
     "identifier": "capgaznews-2022",
     "collection": [
@@ -15474,21 +15490,10 @@
     "publicdate": "2022-06-24 22:54:14",
     "addeddate": "2022-06-24 22:54:14"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457890911,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 167077259,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1205990468,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

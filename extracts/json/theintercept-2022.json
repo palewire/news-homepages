@@ -1,5 +1,5 @@
 {
-  "created": 1667246666,
+  "created": 1667247418,
   "d1": "ia904701.us.archive.org",
   "d2": "ia804701.us.archive.org",
   "dir": "/0/items/theintercept-2022",
@@ -21897,21 +21897,32 @@
       "format": "JSON"
     },
     {
+      "name": "theintercept-2022-10-31T16:00:14.215952-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-10-31T16:00:14.215952-04:00.jpg",
+      "mtime": "1667247193",
+      "size": "10248",
+      "md5": "6c3525eb9ec5d1fcc611ca8b8654c232",
+      "crc32": "195eb4df",
+      "sha1": "f96355610e84432212f6a7567ffed2cbe0daf3fd"
+    },
+    {
       "name": "theintercept-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b9a713638d9f293bc3681e6f0e12fb8a1844ced3",
-      "mtime": "1667246659",
-      "size": "451843",
-      "md5": "3be35b30f10f21ded3d80c83a39075e1",
-      "crc32": "64837395",
-      "sha1": "a519b718593511b1ede2b80f48800d3abe446257",
+      "btih": "5ce211e7fd303ee818afeb7b463717b02b536b06",
+      "mtime": "1667247236",
+      "size": "452052",
+      "md5": "5217768cdc30984250f29b5898bb03b9",
+      "crc32": "86b91102",
+      "sha1": "369df08d688a044c381c55ec5572f28b66f4f9b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theintercept-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8acbe7e69c297fac3e68f2af53c10936",
+      "md5": "9dc391e7333695fd16a676c16edbe938",
       "summation": "md5"
     },
     {
@@ -21935,9 +21946,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2115,
-  "item_last_updated": 1667246659,
-  "item_size": 113045411,
+  "files_count": 2116,
+  "item_last_updated": 1667247236,
+  "item_size": 113055868,
   "metadata": {
     "identifier": "theintercept-2022",
     "collection": [
@@ -21954,21 +21965,10 @@
     "publicdate": "2022-06-19 23:28:41",
     "addeddate": "2022-06-19 23:28:41"
   },
-  "pending_tasks": true,
-  "server": "ia904701.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458065770,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 234829861,
+  "server": "ia804701.us.archive.org",
+  "uniq": 573197658,
   "workable_servers": [
+    "ia804701.us.archive.org",
     "ia904701.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667228609,
+  "created": 1667268059,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/24/items/timestelegram-2022",
@@ -5057,21 +5057,32 @@
       "format": "JSON"
     },
     {
+      "name": "timestelegram-2022-10-31T11:02:29.472148-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timestelegram-2022-10-31T11:02:29.472148-04:00.jpg",
+      "mtime": "1667230930",
+      "size": "9369",
+      "md5": "8ed05ffe7e79a1603335d90392b60693",
+      "crc32": "fb9232a6",
+      "sha1": "d913980eee8254e47a23303a7d018527130a5c17"
+    },
+    {
       "name": "timestelegram-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f7e2d6a9f8f59e487bc654b38147cd5f92caca5",
-      "mtime": "1667228605",
-      "size": "106738",
-      "md5": "6d87d0523e59038344a9b1576ebe9d30",
-      "crc32": "c35b5e3c",
-      "sha1": "da197bf00870b261b2937eb4662176d00b72dd68",
+      "btih": "36defcea12b9884f9fd11c40bd694d1e03bfd8a4",
+      "mtime": "1667230936",
+      "size": "106947",
+      "md5": "adda796825684325cc6d14d881004a04",
+      "crc32": "44c7e619",
+      "sha1": "0a7e9e215d9befc9f471446529e172763ecce0db",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timestelegram-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5cccb0ae983c1adc4ca582f229623444",
+      "md5": "2baeff71aa155063a8f6e9837ad73435",
       "summation": "md5"
     },
     {
@@ -5095,9 +5106,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 493,
-  "item_last_updated": 1667228605,
-  "item_size": 32902463,
+  "files_count": 494,
+  "item_last_updated": 1667230936,
+  "item_size": 32912041,
   "metadata": {
     "identifier": "timestelegram-2022",
     "collection": [
@@ -5114,21 +5125,15 @@
     "publicdate": "2022-09-21 03:46:50",
     "addeddate": "2022-09-21 03:46:50"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457852489,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1405362937,
+  "server": "ia801409.us.archive.org",
+  "timestelegram-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1660914087,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667232417,
+  "created": 1667268735,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/29/items/wbrcnews-2022",
@@ -6205,21 +6205,32 @@
       "format": "JSON"
     },
     {
+      "name": "wbrcnews-2022-10-31T11:05:49.541332-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wbrcnews-2022-10-31T11:05:49.541332-05:00.jpg",
+      "mtime": "1667233248",
+      "size": "10934",
+      "md5": "2dfa6e5e336c244c7bca9144c6ecbf5e",
+      "crc32": "a6affae4",
+      "sha1": "b41dc9afae8b20beb898d526ec66a2007450ae12"
+    },
+    {
       "name": "wbrcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "db1b1f6b610aff9f64536d615a0f8b3c92a1392e",
-      "mtime": "1667232413",
-      "size": "127965",
-      "md5": "ea2b94feb4c4bbe86fc6f2df4072ffe1",
-      "crc32": "6db8406b",
-      "sha1": "54ba53a165fab8b78337e9e4a76cc1063423d1ab",
+      "btih": "28514afaaae9d3e4e77c947f3afc3eef62e87cd5",
+      "mtime": "1667233256",
+      "size": "128170",
+      "md5": "404b3946fb6623d6bb99953d77dd3a91",
+      "crc32": "932e687b",
+      "sha1": "832f553cbbc1d6ba77a005ecaae0932565d12f83",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wbrcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "61f2abd5bb171f06a9ecbbe522dd0ccc",
+      "md5": "5886cc3bb1521da2b8345acae27ed09d",
       "summation": "md5"
     },
     {
@@ -6243,9 +6254,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 604,
-  "item_last_updated": 1667232413,
-  "item_size": 48569112,
+  "files_count": 605,
+  "item_last_updated": 1667233256,
+  "item_size": 48580251,
   "metadata": {
     "identifier": "wbrcnews-2022",
     "collection": [
@@ -6262,21 +6273,15 @@
     "publicdate": "2022-09-12 02:46:04",
     "addeddate": "2022-09-12 02:46:04"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457892384,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 678483929,
+  "server": "ia801507.us.archive.org",
+  "uniq": 741226525,
+  "wbrcnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

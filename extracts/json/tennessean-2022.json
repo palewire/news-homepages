@@ -1,5 +1,5 @@
 {
-  "created": 1667228303,
+  "created": 1667267170,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/30/items/tennessean-2022",
@@ -5027,21 +5027,32 @@
       "format": "JSON"
     },
     {
+      "name": "tennessean-2022-10-31T09:57:23.841194-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-10-31T09:57:23.841194-05:00.jpg",
+      "mtime": "1667230676",
+      "size": "9469",
+      "md5": "ed9e1299a0df3379221f98d87f1fd576",
+      "crc32": "72a9b9aa",
+      "sha1": "f6f1e40cfb53457d192186b6c5af76b480bae7e5"
+    },
+    {
       "name": "tennessean-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e67f5134ad06eee2d2dba7925b547e9cf37bb6d6",
-      "mtime": "1667228299",
-      "size": "104568",
-      "md5": "c79fac3d5714e9efe973a4f189d6fd97",
-      "crc32": "f2a37b76",
-      "sha1": "63ee9375b03fa818ce218688fa492dbfa8cddf9d",
+      "btih": "56d13c0a9cecd511088a2f59ffc607ec8e2c9d21",
+      "mtime": "1667230683",
+      "size": "104774",
+      "md5": "ee16074b199558b052d02f67c969f031",
+      "crc32": "338d29e5",
+      "sha1": "94ad5a485e681171629a36b967db1c66a4beeec3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tennessean-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "19223d928a9eea353c7076e223573145",
+      "md5": "ede49b66d9a66a50c5dcd80f94ca9a39",
       "summation": "md5"
     },
     {
@@ -5065,9 +5076,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 490,
-  "item_last_updated": 1667228299,
-  "item_size": 31562855,
+  "files_count": 491,
+  "item_last_updated": 1667230683,
+  "item_size": 31572530,
   "metadata": {
     "identifier": "tennessean-2022",
     "collection": [
@@ -5084,21 +5095,15 @@
     "publicdate": "2022-09-21 03:43:04",
     "addeddate": "2022-09-21 03:43:04"
   },
-  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848048,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 261348769,
+  "tennessean-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1408512872,
   "workable_servers": [
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

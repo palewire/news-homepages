@@ -1,6 +1,5 @@
 {
-  "conflict": 1667260372,
-  "created": 1667259916,
+  "created": 1667261624,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/29/items/chequeado-2022",
@@ -16112,21 +16111,32 @@
       "format": "JSON"
     },
     {
+      "name": "chequeado-2022-10-31T20:43:41.764083-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chequeado-2022-10-31T20:43:41.764083-03:00.jpg",
+      "mtime": "1667261517",
+      "size": "10859",
+      "md5": "f4bde25a51e788a626c11a6fbd92216f",
+      "crc32": "c0f3fc98",
+      "sha1": "fea321cfcd1e940d75a9413c09e3060d737ee344"
+    },
+    {
       "name": "chequeado-2022_archive.torrent",
       "source": "metadata",
-      "btih": "de23a258ee51a6ddf75c2befde314a75cc54b5c5",
-      "mtime": "1667259912",
-      "size": "328830",
-      "md5": "91b26bc743da527a5a1c9d2c2dd75b90",
-      "crc32": "1e30ec7c",
-      "sha1": "10dcce378ebde18f0ed94ab748b7ba356a5870bf",
+      "btih": "013aeda5c9bb712185b9b90f548497c8994bf776",
+      "mtime": "1667261557",
+      "size": "329056",
+      "md5": "ae1d7aaeea68c4d5ca1ea2e982633b25",
+      "crc32": "4e0b3d40",
+      "sha1": "e09d3f627f8bc659392c7aeca05e9b970b669261",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chequeado-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e0483d01b976b18cbe93a71ff3cbbe5",
+      "md5": "7f52505da079faa98f8e1ecdc267b860",
       "summation": "md5"
     },
     {
@@ -16150,9 +16160,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1555,
-  "item_last_updated": 1667259912,
-  "item_size": 98891628,
+  "files_count": 1556,
+  "item_last_updated": 1667261557,
+  "item_size": 98902713,
   "metadata": {
     "identifier": "chequeado-2022",
     "collection": [
@@ -16169,21 +16179,10 @@
     "publicdate": "2022-06-19 23:23:46",
     "addeddate": "2022-06-19 23:23:46"
   },
-  "pending_tasks": true,
-  "server": "ia802508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247921,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 344586445,
+  "server": "ia902508.us.archive.org",
+  "uniq": 350837134,
   "workable_servers": [
+    "ia902508.us.archive.org",
     "ia802508.us.archive.org"
   ]
 }

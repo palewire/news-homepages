@@ -1,5 +1,5 @@
 {
-  "created": 1667257042,
+  "created": 1667258331,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/13/items/chalkbeat-2022",
@@ -11999,21 +11999,32 @@
       "format": "JSON"
     },
     {
+      "name": "chalkbeat-2022-10-31T18:56:09.300808-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chalkbeat-2022-10-31T18:56:09.300808-04:00.jpg",
+      "mtime": "1667257604",
+      "size": "9837",
+      "md5": "e917faa4fd7a3f9f79dab37b945153df",
+      "crc32": "75d27c9c",
+      "sha1": "b3d8619d90fe2edd1313d81224317fb290187010"
+    },
+    {
       "name": "chalkbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "573bf6972db6f10145151413e50362aa686f313a",
-      "mtime": "1667257037",
-      "size": "246512",
-      "md5": "ac04dd38b43e97b6b6e4ac128005fc1b",
-      "crc32": "986cc6d4",
-      "sha1": "412d6d95e62695345f21b8adf7a6a80dcc7e960b",
+      "btih": "7a95ee3b1e44ab2e57a2c6fd93b26b8a61d6b960",
+      "mtime": "1667257623",
+      "size": "246717",
+      "md5": "8c48dd7e55a9ef7502140eb9d5e3264b",
+      "crc32": "58f52590",
+      "sha1": "d1d98d732f5c13b918a307b9794426cf17d90232",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chalkbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "36d743cce07effa115caa7fbb09e7e56",
+      "md5": "0f14e91b7c798f7b58232453d7cb4961",
       "summation": "md5"
     },
     {
@@ -12037,9 +12048,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1164,
-  "item_last_updated": 1667257037,
-  "item_size": 78199794,
+  "files_count": 1165,
+  "item_last_updated": 1667257623,
+  "item_size": 78209836,
   "metadata": {
     "identifier": "chalkbeat-2022",
     "collection": [
@@ -12056,21 +12067,10 @@
     "publicdate": "2022-07-26 11:14:00",
     "addeddate": "2022-07-26 11:14:00"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458214303,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1612125979,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1902175554,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

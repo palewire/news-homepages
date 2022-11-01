@@ -1,5 +1,6 @@
 {
-  "created": 1667260077,
+  "conflict": 1667261714,
+  "created": 1667261714,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/eastbaytimes-2022",
@@ -21185,21 +21186,32 @@
       "format": "JSON"
     },
     {
+      "name": "eastbaytimes-2022-10-31T16:46:05.536949-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eastbaytimes-2022-10-31T16:46:05.536949-07:00.jpg",
+      "mtime": "1667261674",
+      "size": "9702",
+      "md5": "190d87688a288bee8add164246a44441",
+      "crc32": "96739dda",
+      "sha1": "fce7c23f614c5715abc76e1743e3f7296054b9f2"
+    },
+    {
       "name": "eastbaytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5f7168e64f9b617ca1222f102ab5f7c4249de251",
-      "mtime": "1667260071",
-      "size": "438211",
-      "md5": "96bec9ee27071df24ae117ddb52fdf94",
-      "crc32": "9a230876",
-      "sha1": "4899d169e05c5bd0136ce665cbd2d1b2c79008ec",
+      "btih": "7a0d4c71a6c3813ce614bf5a83df4ccaca4b2fcd",
+      "mtime": "1667261711",
+      "size": "438419",
+      "md5": "889011a52a837d1ab7b162e337570ea9",
+      "crc32": "a8c3f7c9",
+      "sha1": "68d30a22e84f96d4f67e0643eaf03b2bb7df3aaa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eastbaytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b56867056a4d7e70137e9f97d0d074d1",
+      "md5": "4d25b8a7b6059e1e5ee123887da58294",
       "summation": "md5"
     },
     {
@@ -21223,9 +21235,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2038,
-  "item_last_updated": 1667260071,
-  "item_size": 172500408,
+  "files_count": 2039,
+  "item_last_updated": 1667261711,
+  "item_size": 172510318,
   "metadata": {
     "identifier": "eastbaytimes-2022",
     "collection": [
@@ -21250,12 +21262,20 @@
       "task_id": 3458249702,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458270372,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 594470005,
+  "uniq": 1235283030,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

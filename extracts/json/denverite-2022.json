@@ -1,6 +1,5 @@
 {
-  "conflict": 1667260531,
-  "created": 1667259873,
+  "created": 1667261642,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/28/items/denverite-2022",
@@ -9938,21 +9937,32 @@
       "format": "JSON"
     },
     {
+      "name": "denverite-2022-10-31T17:43:13.674906-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverite-2022-10-31T17:43:13.674906-06:00.jpg",
+      "mtime": "1667261414",
+      "size": "10158",
+      "md5": "7e2b7fb1284d48e4424e254722beb4ce",
+      "crc32": "da5031da",
+      "sha1": "5a9438da17f9fb2c98da56a01541c67ca110327d"
+    },
+    {
       "name": "denverite-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a39cb9ecfcca79ca93653d4030b3064ab7148b15",
-      "mtime": "1667259866",
-      "size": "204797",
-      "md5": "01774ccb07b4454fb6cb372d2fcd0011",
-      "crc32": "3c44ffc0",
-      "sha1": "ecff8504a1b164fb83737cd3fcf31a910c3ab9ef",
+      "btih": "71afb2d4598d8477a544971d5503b11b8f582dae",
+      "mtime": "1667261517",
+      "size": "205003",
+      "md5": "5720c95ed94ac6eb1cb99d43c5aafee3",
+      "crc32": "43bdc9f6",
+      "sha1": "46d1a847bec25f9b7d884f9e94da27249a1d9c98",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverite-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "05298a828d5738a75a123b02e994a8f6",
+      "md5": "df8d1b9ae23bcbf4173c92d807bda551",
       "summation": "md5"
     },
     {
@@ -9976,9 +9986,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 965,
-  "item_last_updated": 1667259866,
-  "item_size": 71809415,
+  "files_count": 966,
+  "item_last_updated": 1667261517,
+  "item_size": 71819779,
   "metadata": {
     "identifier": "denverite-2022",
     "collection": [
@@ -9995,21 +10005,10 @@
     "publicdate": "2022-08-13 23:53:15",
     "addeddate": "2022-08-13 23:53:15"
   },
-  "pending_tasks": true,
   "server": "ia801400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247464,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1504353296,
+  "uniq": 2082214461,
   "workable_servers": [
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667228419,
+  "created": 1667267085,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/4/items/telegraph-2022",
@@ -30609,21 +30609,32 @@
       "format": "JSON"
     },
     {
+      "name": "telegraph-2022-10-31T14:57:29.705544+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-10-31T14:57:29.705544+00:00.jpg",
+      "mtime": "1667231936",
+      "size": "9299",
+      "md5": "2aa921e10176f934040a8e333c95a9c7",
+      "crc32": "826c326f",
+      "sha1": "a8ca4fea03608a1b67f02a04a773519f632aff74"
+    },
+    {
       "name": "telegraph-2022_archive.torrent",
       "source": "metadata",
-      "btih": "00ca69b6aa093b8b7c6e651f8152bc83d04f6808",
-      "mtime": "1667228405",
-      "size": "623763",
-      "md5": "c577df41e42943fab127bacd93418acd",
-      "crc32": "2b1da18f",
-      "sha1": "315c9d45dd05567095a91617c046dbba8faff72f",
+      "btih": "8de03b113d80c6cb4397ec34da6809d299356504",
+      "mtime": "1667232016",
+      "size": "623968",
+      "md5": "f0305b0f8b6aca56b16a14036f2dc0cb",
+      "crc32": "7d0effeb",
+      "sha1": "edbf506a3f5caba8bd431427a6aef03c3a0415bf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraph-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "66fbc94fce0a2f7f05f65627b15edb19",
+      "md5": "0018b06cb3dfc58dc330577e486b361a",
       "summation": "md5"
     },
     {
@@ -30647,9 +30658,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2944,
-  "item_last_updated": 1667228405,
-  "item_size": 248229437,
+  "files_count": 2945,
+  "item_last_updated": 1667232016,
+  "item_size": 248238941,
   "metadata": {
     "identifier": "telegraph-2022",
     "collection": [
@@ -30666,21 +30677,10 @@
     "publicdate": "2022-03-23 08:03:49",
     "addeddate": "2022-03-23 08:03:49"
   },
-  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457849172,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1141845656,
+  "uniq": 774174021,
   "workable_servers": [
-    "ia601504.us.archive.org"
+    "ia601504.us.archive.org",
+    "ia801504.us.archive.org"
   ]
 }

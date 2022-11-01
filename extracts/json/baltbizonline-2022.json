@@ -1,5 +1,5 @@
 {
-  "created": 1667256895,
+  "created": 1667257509,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/4/items/baltbizonline-2022",
@@ -13131,21 +13131,32 @@
       "format": "JSON"
     },
     {
+      "name": "baltbizonline-2022-10-31T18:53:41.285550-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltbizonline-2022-10-31T18:53:41.285550-04:00.jpg",
+      "mtime": "1667257423",
+      "size": "8624",
+      "md5": "e716cbc2557ee8b2480792fbe4c063ba",
+      "crc32": "761448df",
+      "sha1": "e158ffd1940b5cd05bc890ed0bb9c85965aa7854"
+    },
+    {
       "name": "baltbizonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aead2cb7f2447718c1da185d66e046fe28ba9c7c",
-      "mtime": "1667256891",
-      "size": "274562",
-      "md5": "ad1428b6ce2727b1b1c6796953afbd7e",
-      "crc32": "2ab47a30",
-      "sha1": "3f6cde83a1bde6c836c8be1cbb6c76b78da7dbbe",
+      "btih": "5c53995c9627ed4ec68d322d0a9f6a454d73deaf",
+      "mtime": "1667257439",
+      "size": "274771",
+      "md5": "623befcb920a568687be125268d8de75",
+      "crc32": "4615fb15",
+      "sha1": "298b8dc5c7650ed5ede79df66a0eb95e137464bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltbizonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "85877e36d611dbe2601f0439b4d18f0e",
+      "md5": "7f2e3729ce1f85bfb2907a4cf4c5c9a2",
       "summation": "md5"
     },
     {
@@ -13169,9 +13180,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1272,
-  "item_last_updated": 1667256891,
-  "item_size": 100678884,
+  "files_count": 1273,
+  "item_last_updated": 1667257439,
+  "item_size": 100687717,
   "metadata": {
     "identifier": "baltbizonline-2022",
     "collection": [
@@ -13188,21 +13199,10 @@
     "publicdate": "2022-07-13 02:24:31",
     "addeddate": "2022-07-13 02:24:31"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212544,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 612283209,
+  "server": "ia802506.us.archive.org",
+  "uniq": 746204685,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

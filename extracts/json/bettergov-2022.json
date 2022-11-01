@@ -1,5 +1,46 @@
 {
-  "created": 1667256899,
+  "bettergov-2022": [
+    {
+      "url": "https://www.bettergov.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bettergov_org-_-2022_10_31_22_40_29.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bettergov_org-_-2022_10_31_22_40_29.report.json",
+      "summary": {
+        "performance": 0.3,
+        "accessibility": 0.71,
+        "best-practices": 0.83,
+        "seo": 0.86,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.bettergov.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bettergov_org-_-2022_10_31_22_40_47.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bettergov_org-_-2022_10_31_22_40_47.report.json",
+      "summary": {
+        "performance": 0.29,
+        "accessibility": 0.71,
+        "best-practices": 0.83,
+        "seo": 0.86,
+        "pwa": 0.7
+      }
+    },
+    {
+      "url": "https://www.bettergov.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bettergov_org-_-2022_10_31_22_40_10.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_bettergov_org-_-2022_10_31_22_40_10.report.json",
+      "summary": {
+        "performance": 0.28,
+        "accessibility": 0.71,
+        "best-practices": 0.83,
+        "seo": 0.86,
+        "pwa": 0.7
+      }
+    }
+  ],
+  "created": 1667261495,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/bettergov-2022",
@@ -19781,21 +19822,32 @@
       "format": "JSON"
     },
     {
+      "name": "bettergov-2022-10-31T17:53:28.981243-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bettergov-2022-10-31T17:53:28.981243-05:00.jpg",
+      "mtime": "1667258008",
+      "size": "10685",
+      "md5": "9056e5f0ed43daf1bd060f39bd75a0b8",
+      "crc32": "f03dc7f6",
+      "sha1": "8908e869c5bd9a94cebe7d5a194aef5e583632a3"
+    },
+    {
       "name": "bettergov-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dcc910f5c897b440fb8f3988b7f6b9c3a6060a9b",
-      "mtime": "1667256891",
-      "size": "405052",
-      "md5": "bb03e54b0f52f468201a3492d34588ba",
-      "crc32": "3c837c39",
-      "sha1": "5c5c6207c4f07f628fa61aa4115cb15e45544993",
+      "btih": "ae073f6d6fe1f12ad37c4cb65beca1f52d15787c",
+      "mtime": "1667258135",
+      "size": "405258",
+      "md5": "feccf9e70a588cad0d21373fa3d3e48e",
+      "crc32": "0f3303ac",
+      "sha1": "d27dcab9befcd8bd90be760bbbe58eec669d0485",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bettergov-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fefab4f769df977abc9799b3a114d8f1",
+      "md5": "025d3e1602c8c607d07ea20908e8243d",
       "summation": "md5"
     },
     {
@@ -19819,9 +19871,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1914,
-  "item_last_updated": 1667256891,
-  "item_size": 122568593,
+  "files_count": 1915,
+  "item_last_updated": 1667258135,
+  "item_size": 122579484,
   "metadata": {
     "identifier": "bettergov-2022",
     "collection": [
@@ -19838,21 +19890,10 @@
     "publicdate": "2022-07-09 03:56:41",
     "addeddate": "2022-07-09 03:56:41"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212588,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1625936730,
+  "uniq": 991565583,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

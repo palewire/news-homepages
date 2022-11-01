@@ -1,5 +1,5 @@
 {
-  "created": 1667228481,
+  "created": 1667267826,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/4/items/thescotsman-2022",
@@ -18097,21 +18097,32 @@
       "format": "JSON"
     },
     {
+      "name": "thescotsman-2022-10-31T14:59:51.067221+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thescotsman-2022-10-31T14:59:51.067221+00:00.jpg",
+      "mtime": "1667230778",
+      "size": "7867",
+      "md5": "8fd4311ef769bfd6e6244c24c343f4e1",
+      "crc32": "1c133ba8",
+      "sha1": "e9b50e13513d7270651666e15110a3bc7917c3dd"
+    },
+    {
       "name": "thescotsman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ddae974ef5f9d08e3e855eee71efe3c0f8e925e",
-      "mtime": "1667228473",
-      "size": "373959",
-      "md5": "8dd8a20c2edb8c794452cc3d29674abe",
-      "crc32": "5fc5d4f9",
-      "sha1": "454789297cffc74b7cc43c1eaeda767b7c797bc8",
+      "btih": "3310a7916c7000e07e46e427e1453a5a4cb4db4e",
+      "mtime": "1667230806",
+      "size": "374166",
+      "md5": "5b5a3cd7d6ec625a0374c5c12ea286b9",
+      "crc32": "8dfe6320",
+      "sha1": "572833ba27cc7678d216d59341d70be10790879f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thescotsman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a12abdca135063c1ace4c2fb1e614890",
+      "md5": "95a9b6085a891c55aff8dae235403566",
       "summation": "md5"
     },
     {
@@ -18135,9 +18146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1751,
-  "item_last_updated": 1667228473,
-  "item_size": 120910085,
+  "files_count": 1752,
+  "item_last_updated": 1667230806,
+  "item_size": 120918159,
   "metadata": {
     "identifier": "thescotsman-2022",
     "collection": [
@@ -18154,21 +18165,15 @@
     "publicdate": "2022-07-06 21:13:25",
     "addeddate": "2022-07-06 21:13:25"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457850320,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1638002881,
+  "thescotsman-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1542484476,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

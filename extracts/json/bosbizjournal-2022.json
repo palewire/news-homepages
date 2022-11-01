@@ -1,5 +1,10 @@
 {
-  "created": 1667232317,
+  "bosbizjournal-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261593,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/34/items/bosbizjournal-2022",
@@ -9689,21 +9694,32 @@
       "format": "JSON"
     },
     {
+      "name": "bosbizjournal-2022-10-31T12:03:30.231794-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bosbizjournal-2022-10-31T12:03:30.231794-04:00.jpg",
+      "mtime": "1667233655",
+      "size": "8394",
+      "md5": "5035598e2327cbefb70a3369520d388a",
+      "crc32": "d0e189ce",
+      "sha1": "1b47c90b5bf105be73dc4438150ea7cdc09da70c"
+    },
+    {
       "name": "bosbizjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ca07a8f81e2ca0e1ce8719fea4ce420e27fd5a62",
-      "mtime": "1667232308",
-      "size": "202906",
-      "md5": "86e1925241a4b8354a062ac05abaad50",
-      "crc32": "f21019d3",
-      "sha1": "7808f09f288be47df3554be73e989b8f2973e8e6",
+      "btih": "1c820cce067b55c3455394182794a68544de0922",
+      "mtime": "1667233666",
+      "size": "203115",
+      "md5": "dc28bd23416e980833660700d9387f3b",
+      "crc32": "9c64a403",
+      "sha1": "9875daf8f9b99a39ea7038d7b400eafea6552ee4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bosbizjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0ba6135e62b8bae849a13cee9dde7ee6",
+      "md5": "f94857c85ebcb2299503a128af8cf576",
       "summation": "md5"
     },
     {
@@ -9727,9 +9743,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 941,
-  "item_last_updated": 1667232308,
-  "item_size": 65137231,
+  "files_count": 942,
+  "item_last_updated": 1667233666,
+  "item_size": 65145834,
   "metadata": {
     "identifier": "bosbizjournal-2022",
     "collection": [
@@ -9746,21 +9762,10 @@
     "publicdate": "2022-08-14 05:02:07",
     "addeddate": "2022-08-14 05:02:07"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457890912,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1478942714,
+  "server": "ia801407.us.archive.org",
+  "uniq": 217058945,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

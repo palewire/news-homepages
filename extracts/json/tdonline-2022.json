@@ -1,5 +1,5 @@
 {
-  "created": 1667228323,
+  "created": 1667267022,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/23/items/tdonline-2022",
@@ -5089,21 +5089,32 @@
       "format": "JSON"
     },
     {
+      "name": "tdonline-2022-10-31T10:57:46.520822-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tdonline-2022-10-31T10:57:46.520822-04:00.jpg",
+      "mtime": "1667230160",
+      "size": "9202",
+      "md5": "5de0492e44b2efcad48884622b242c54",
+      "crc32": "eccd6909",
+      "sha1": "bb29deffc0af6372f18a5577fb47c6fea495f294"
+    },
+    {
       "name": "tdonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6921d86dfa87682b5b6c4c16c0f997ff159259f9",
-      "mtime": "1667228320",
-      "size": "104858",
-      "md5": "72174f1ce9e7951555c3526517ac0025",
-      "crc32": "dfd32f7c",
-      "sha1": "e416dbc8204a8b58472de853a3323be83b611dba",
+      "btih": "f8cd4c7b52290a467fa97fa6527784622d163f4e",
+      "mtime": "1667230165",
+      "size": "105082",
+      "md5": "83ad37085b03f259631a72b0b8434012",
+      "crc32": "a5bf982c",
+      "sha1": "53ad92b8cfd293d253073dde6a18756c3a97a495",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tdonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "10b6b913022c9c9ac0be467e1e080337",
+      "md5": "8617ccc4f468816ad4a68fcb1170d241",
       "summation": "md5"
     },
     {
@@ -5127,9 +5138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 496,
-  "item_last_updated": 1667228320,
-  "item_size": 32609404,
+  "files_count": 497,
+  "item_last_updated": 1667230165,
+  "item_size": 32618830,
   "metadata": {
     "identifier": "tdonline-2022",
     "collection": [
@@ -5146,21 +5157,15 @@
     "publicdate": "2022-09-21 03:43:06",
     "addeddate": "2022-09-21 03:43:06"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848291,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2103601714,
+  "tdonline-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 49921930,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

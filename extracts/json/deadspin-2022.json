@@ -1,5 +1,5 @@
 {
-  "created": 1667259881,
+  "created": 1667261344,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/deadspin-2022",
@@ -13711,21 +13711,32 @@
       "format": "JSON"
     },
     {
+      "name": "deadspin-2022-10-31T19:43:25.436329-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deadspin-2022-10-31T19:43:25.436329-04:00.jpg",
+      "mtime": "1667261291",
+      "size": "11275",
+      "md5": "17cfaf6f36fc7f8d6c2734bf7b8412cb",
+      "crc32": "efcdde7c",
+      "sha1": "8797eca1d1632b6439e87ce306f4a8914e570ee1"
+    },
+    {
       "name": "deadspin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b55c91df44edb0b261ce8372cb15935feea64511",
-      "mtime": "1667259876",
-      "size": "279851",
-      "md5": "748c6d8b1e2a40d0a0564dc1a7e5e33a",
-      "crc32": "99d8bd52",
-      "sha1": "b7e41678c1257e652629337158038e694f32aba8",
+      "btih": "0ee6a008f414232bd6de08a31060399cb4f834c7",
+      "mtime": "1667261308",
+      "size": "280056",
+      "md5": "2da1460bb6b28f4680ebdf931e50e171",
+      "crc32": "0030d936",
+      "sha1": "7b4acba7bdb683d0843bd91e6515dd5591fc6a84",
       "format": "Archive BitTorrent"
     },
     {
       "name": "deadspin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "331ca60cdde2dbc716a08d5179ae60d8",
+      "md5": "74c94a2e74db66c0c1fe7f280e730401",
       "summation": "md5"
     },
     {
@@ -13749,9 +13760,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1326,
-  "item_last_updated": 1667259876,
-  "item_size": 98872069,
+  "files_count": 1327,
+  "item_last_updated": 1667261308,
+  "item_size": 98883549,
   "metadata": {
     "identifier": "deadspin-2022",
     "collection": [
@@ -13768,21 +13779,10 @@
     "publicdate": "2022-07-04 20:47:14",
     "addeddate": "2022-07-04 20:47:14"
   },
-  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247558,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1083340401,
+  "uniq": 1516297537,
   "workable_servers": [
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

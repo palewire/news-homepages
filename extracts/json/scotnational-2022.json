@@ -1,5 +1,5 @@
 {
-  "created": 1667228345,
+  "created": 1667266507,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/6/items/scotnational-2022",
@@ -18053,21 +18053,32 @@
       "format": "JSON"
     },
     {
+      "name": "scotnational-2022-10-31T14:57:30.505117+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scotnational-2022-10-31T14:57:30.505117+00:00.jpg",
+      "mtime": "1667230177",
+      "size": "9422",
+      "md5": "32f344af11131ff84a7fea73f3b15ef4",
+      "crc32": "f0bd8a67",
+      "sha1": "9cf5c21311c87519c3616cb652c643caeb897051"
+    },
+    {
       "name": "scotnational-2022_archive.torrent",
       "source": "metadata",
-      "btih": "37e48c69cb65c41594df809cead809d7f2c45c12",
-      "mtime": "1667228335",
-      "size": "375190",
-      "md5": "293e0daf9b2eacac1b4a599c554fa52e",
-      "crc32": "2d0a938f",
-      "sha1": "8abe0be7c7277ae9931623a7f79eae24311b21f3",
+      "btih": "65b9b720275501b62225a1f13b7781d1f3ba619b",
+      "mtime": "1667230203",
+      "size": "375398",
+      "md5": "65836015875a7b03293e75d815f1dc7f",
+      "crc32": "be3e747e",
+      "sha1": "4786caa08c5005145b6db034e552467ed169fa34",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scotnational-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "16177239d22d701fdd48f66e4b5792b1",
+      "md5": "f2d7cb3e530b39ff961aa5add7e29d35",
       "summation": "md5"
     },
     {
@@ -18091,9 +18102,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1747,
-  "item_last_updated": 1667228335,
-  "item_size": 125083376,
+  "files_count": 1748,
+  "item_last_updated": 1667230203,
+  "item_size": 125093006,
   "metadata": {
     "identifier": "scotnational-2022",
     "collection": [
@@ -18110,21 +18121,10 @@
     "publicdate": "2022-07-06 21:13:16",
     "addeddate": "2022-07-06 21:13:16"
   },
-  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848499,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2011993844,
+  "uniq": 936168029,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667257038,
+  "created": 1667257805,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/11/items/cnbc-2022",
@@ -8707,21 +8707,32 @@
       "format": "JSON"
     },
     {
+      "name": "cnbc-2022-10-31T18:56:07.308556-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnbc-2022-10-31T18:56:07.308556-04:00.jpg",
+      "mtime": "1667257700",
+      "size": "9723",
+      "md5": "883e3caaebdeb1c5015d3ed85a387fa1",
+      "crc32": "c9f4644c",
+      "sha1": "2b06b12007ec8869c77553a0ec9b9d5587839dca"
+    },
+    {
       "name": "cnbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9e8ce111ca6163e99fc699fd6d5bdf32bea53c54",
-      "mtime": "1667257032",
-      "size": "175022",
-      "md5": "18ff5a3fb6dc81a969eef44fe502f0dc",
-      "crc32": "29d17cf4",
-      "sha1": "bad268349334d3321b13b8563a06ff3b1ceee7d6",
+      "btih": "c6fa683cb67afa8944e0abc39b0d573870813f6a",
+      "mtime": "1667257711",
+      "size": "175222",
+      "md5": "09b03849fa855e12c1de166d44b20ce7",
+      "crc32": "a0294330",
+      "sha1": "672b8542d938ac867fe5fbd6a4eff8426c9d36d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "95a2f38998190e1424f99191168b9092",
+      "md5": "8c93cc1d469d6b3d066d256d6bfbb370",
       "summation": "md5"
     },
     {
@@ -8745,9 +8756,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 846,
-  "item_last_updated": 1667257032,
-  "item_size": 56243521,
+  "files_count": 847,
+  "item_last_updated": 1667257711,
+  "item_size": 56253444,
   "metadata": {
     "identifier": "cnbc-2022",
     "collection": [
@@ -8764,21 +8775,10 @@
     "publicdate": "2022-08-23 22:59:56",
     "addeddate": "2022-08-23 22:59:56"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458214278,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1684307466,
+  "server": "ia801508.us.archive.org",
+  "uniq": 2131586147,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

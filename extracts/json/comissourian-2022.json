@@ -1,5 +1,5 @@
 {
-  "created": 1667259884,
+  "created": 1667261301,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/9/items/comissourian-2022",
@@ -13819,21 +13819,32 @@
       "format": "JSON"
     },
     {
+      "name": "comissourian-2022-10-31T18:43:26.435834-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-10-31T18:43:26.435834-05:00.jpg",
+      "mtime": "1667261237",
+      "size": "9591",
+      "md5": "ae2aaa45296d185a851a2958276161b4",
+      "crc32": "c9986e01",
+      "sha1": "2c8dc2dc2aee860ea9a7efda0fba99ede9e07460"
+    },
+    {
       "name": "comissourian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9c581a92c6503b0fc3bb62ee9c5f3ce7bc3545e1",
-      "mtime": "1667259874",
-      "size": "287890",
-      "md5": "d6fd92b91595bb7e7e4682c052fc7863",
-      "crc32": "e6f89e67",
-      "sha1": "89f1f13d3f1f5d442dcfc1e9faf47fe024c0f561",
+      "btih": "eefaa9c91b6408fe7987614ef549ad0d06b0aca4",
+      "mtime": "1667261257",
+      "size": "288098",
+      "md5": "311a7ea48bca032955fb9b2d446656fb",
+      "crc32": "43ca0937",
+      "sha1": "e5cfbe6e8f8c48c2c06a56d3b68f43473a10b598",
       "format": "Archive BitTorrent"
     },
     {
       "name": "comissourian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc90541704d3c22d276b72d486440dc3",
+      "md5": "05ffe4ce2946dac4c0fcad70c6c0ea9a",
       "summation": "md5"
     },
     {
@@ -13857,9 +13868,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1337,
-  "item_last_updated": 1667259874,
-  "item_size": 113772472,
+  "files_count": 1338,
+  "item_last_updated": 1667261257,
+  "item_size": 113782271,
   "metadata": {
     "identifier": "comissourian-2022",
     "collection": [
@@ -13876,21 +13887,10 @@
     "publicdate": "2022-07-04 20:47:01",
     "addeddate": "2022-07-04 20:47:01"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247595,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 763041932,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1061772394,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

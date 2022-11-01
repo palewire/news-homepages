@@ -1,6 +1,5 @@
 {
-  "conflict": 1667246340,
-  "created": 1667246340,
+  "created": 1667260749,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/12/items/tb_times-2022",
@@ -11882,29 +11881,10 @@
     "publicdate": "2022-07-26 03:58:53",
     "addeddate": "2022-07-26 03:58:53"
   },
-  "pending_tasks": true,
-  "server": "ia802508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458052307,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3458059288,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 71040678,
+  "server": "ia902508.us.archive.org",
+  "uniq": 26686038,
   "workable_servers": [
+    "ia902508.us.archive.org",
     "ia802508.us.archive.org"
   ]
 }

@@ -1,5 +1,10 @@
 {
-  "created": 1667232125,
+  "anchoragepress-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261230,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/anchoragepress-2022",
@@ -6071,21 +6076,32 @@
       "format": "JSON"
     },
     {
+      "name": "anchoragepress-2022-10-31T08:00:53.718621-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "anchoragepress-2022-10-31T08:00:53.718621-08:00.jpg",
+      "mtime": "1667233538",
+      "size": "9366",
+      "md5": "73497a5c9b24c4981f1e0ec33bc12ebf",
+      "crc32": "757a9bda",
+      "sha1": "000aab0263a4dd8b77de3e0172402a0428ab5e94"
+    },
+    {
       "name": "anchoragepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9dd25c4cf0f5370fbf9003fbeb1d702a85e0d3c0",
-      "mtime": "1667232119",
-      "size": "128591",
-      "md5": "51fa48dd8c3a3d2c74ea7dbc57cffb31",
-      "crc32": "ccded0eb",
-      "sha1": "fc2449bb92ac96b84ab69c5df230c8140e55cc90",
+      "btih": "6320cf325db05dead107db7d0dcd10cd37094ee2",
+      "mtime": "1667233550",
+      "size": "128801",
+      "md5": "cbac243c3900d83c3958c4d94e2541ff",
+      "crc32": "ecf62c48",
+      "sha1": "e290871a4b1dee9cc573ab285448e58089540080",
       "format": "Archive BitTorrent"
     },
     {
       "name": "anchoragepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d86a567c42d68987f8245ac2e583f7cc",
+      "md5": "913950eaaf43af37204c662349ed6532",
       "summation": "md5"
     },
     {
@@ -6109,9 +6125,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 591,
-  "item_last_updated": 1667232119,
-  "item_size": 43201918,
+  "files_count": 592,
+  "item_last_updated": 1667233550,
+  "item_size": 43211494,
   "metadata": {
     "identifier": "anchoragepress-2022",
     "collection": [
@@ -6128,21 +6144,10 @@
     "publicdate": "2022-09-13 02:23:47",
     "addeddate": "2022-09-13 02:23:47"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457887174,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1615493262,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1848888538,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

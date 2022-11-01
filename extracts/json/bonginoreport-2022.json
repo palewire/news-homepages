@@ -1,6 +1,5 @@
 {
-  "conflict": 1667257434,
-  "created": 1667257434,
+  "created": 1667257550,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/26/items/bonginoreport-2022",
@@ -26427,24 +26426,29 @@
       "name": "bonginoreport-2022-10-31T18:53:39.347815-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "bonginoreport-2022-10-31T18:53:39.347815-04:00.jpg"
+      "original": "bonginoreport-2022-10-31T18:53:39.347815-04:00.jpg",
+      "mtime": "1667257430",
+      "size": "8469",
+      "md5": "e600c3a501f796d654a2b74a2adc0028",
+      "crc32": "29c41367",
+      "sha1": "b5e63c24e112a72d771a732a99f553f47cb69fb9"
     },
     {
       "name": "bonginoreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "81a53f718777cecb42d452c486cdf63fd38d66fe",
-      "mtime": "1667256917",
-      "size": "547940",
-      "md5": "3fe0bb624bfa18c4a14146cf77e7cc6d",
-      "crc32": "85edcb70",
-      "sha1": "eee43da9e549d756f11b93b6378e89ba04de7abc",
+      "btih": "fc5f9897e4b2eb74a877ca5512cff5a89cf9deeb",
+      "mtime": "1667257518",
+      "size": "548149",
+      "md5": "33569919fda373a56e9f56d683791858",
+      "crc32": "e7604850",
+      "sha1": "3d5d27111b4c4bb2b77aca7bfc5f2f2c7f7338a6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bonginoreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0dc9a247f3b7b6da0d5039b98b1eb3a",
+      "md5": "fd445c480caaf65fb19e990a5f286742",
       "summation": "md5"
     },
     {
@@ -26469,8 +26473,8 @@
     }
   ],
   "files_count": 2547,
-  "item_last_updated": 1667256917,
-  "item_size": 161597426,
+  "item_last_updated": 1667257518,
+  "item_size": 161606104,
   "metadata": {
     "identifier": "bonginoreport-2022",
     "collection": [
@@ -26487,21 +26491,10 @@
     "publicdate": "2022-03-25 18:46:29",
     "addeddate": "2022-03-25 18:46:29"
   },
-  "pending_tasks": true,
   "server": "ia601402.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212882,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 648354539,
+  "uniq": 842553835,
   "workable_servers": [
-    "ia601402.us.archive.org"
+    "ia601402.us.archive.org",
+    "ia801402.us.archive.org"
   ]
 }

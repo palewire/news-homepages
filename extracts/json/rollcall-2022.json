@@ -1,5 +1,5 @@
 {
-  "created": 1667244388,
+  "created": 1667266386,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/rollcall-2022",
@@ -13347,21 +13347,32 @@
       "format": "JSON"
     },
     {
+      "name": "rollcall-2022-10-31T15:24:20.679231-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollcall-2022-10-31T15:24:20.679231-04:00.jpg",
+      "mtime": "1667247443",
+      "size": "11276",
+      "md5": "c305acdb2336f7a340ed7b7e8f41c377",
+      "crc32": "80466fbf",
+      "sha1": "9720788951cec1130d0d5c2bbb00d3def38c3766"
+    },
+    {
       "name": "rollcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83d240348a8108514fffad2f675226aaf5fd21ee",
-      "mtime": "1667244372",
-      "size": "272032",
-      "md5": "edb8f3c08fbec0bc0dbb7d66f11d5403",
-      "crc32": "9334e35a",
-      "sha1": "b3d3daa72c7c857a018d1defe312d25d691f361d",
+      "btih": "3e4089318b833bac7cc7cce3056b7ff7c74666ed",
+      "mtime": "1667247495",
+      "size": "272257",
+      "md5": "311926b0c1da965509c39fd3a7955702",
+      "crc32": "3b9d4214",
+      "sha1": "c6288d464cc933c2b3dadbdd70c7956be05d6d9e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a83f7d00b6a2a28e0145bfa7e8e20d5a",
+      "md5": "4897341ef6eccf60a243c133f9eb7d73",
       "summation": "md5"
     },
     {
@@ -13385,9 +13396,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1291,
-  "item_last_updated": 1667244372,
-  "item_size": 84673547,
+  "files_count": 1292,
+  "item_last_updated": 1667247495,
+  "item_size": 84685048,
   "metadata": {
     "identifier": "rollcall-2022",
     "collection": [
@@ -13404,21 +13415,15 @@
     "publicdate": "2022-07-04 21:52:31",
     "addeddate": "2022-07-04 21:52:31"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458032874,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 226616211,
+  "rollcall-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801407.us.archive.org",
+  "uniq": 1765065533,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

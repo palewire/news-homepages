@@ -1,5 +1,5 @@
 {
-  "created": 1667256905,
+  "created": 1667257511,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/29/items/blufftontoday-2022",
@@ -5183,21 +5183,32 @@
       "format": "JSON"
     },
     {
+      "name": "blufftontoday-2022-10-31T18:54:05.817460-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blufftontoday-2022-10-31T18:54:05.817460-04:00.jpg",
+      "mtime": "1667257472",
+      "size": "8617",
+      "md5": "59bae23f427bf4f0501f7bd08d37d4ca",
+      "crc32": "c52c4eea",
+      "sha1": "0ec93ec16082d103771d2ceb5095745fc6e2f14f"
+    },
+    {
       "name": "blufftontoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a0495f7d2901cdc6f96125c3d7d843df42dfcbab",
-      "mtime": "1667256899",
-      "size": "109247",
-      "md5": "ec24bb044b4190f5505105cd190edf2a",
-      "crc32": "15766577",
-      "sha1": "25e28ee522e6503fdb07506620b64e8759e0562d",
+      "btih": "5371a037d00ab4f8c6aea1981e49d7d3e30dfa49",
+      "mtime": "1667257479",
+      "size": "109456",
+      "md5": "f99a035862dc7dec279f867d847cb3aa",
+      "crc32": "22af21d1",
+      "sha1": "cc7f5ee81d42323a448e0ac04a2b1f690edc7fbd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blufftontoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac428bceed5f0a739fff1feb2ac2ca79",
+      "md5": "f602c5f28122a6bbd967ca44f3f80ff7",
       "summation": "md5"
     },
     {
@@ -5221,9 +5232,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 505,
-  "item_last_updated": 1667256899,
-  "item_size": 32328988,
+  "files_count": 506,
+  "item_last_updated": 1667257479,
+  "item_size": 32337814,
   "metadata": {
     "identifier": "blufftontoday-2022",
     "collection": [
@@ -5240,21 +5251,10 @@
     "publicdate": "2022-09-20 22:11:07",
     "addeddate": "2022-09-20 22:11:07"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212647,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 201830630,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1762771376,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

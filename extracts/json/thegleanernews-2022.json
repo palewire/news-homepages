@@ -1,5 +1,5 @@
 {
-  "created": 1667228463,
+  "created": 1667267487,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/thegleanernews-2022",
@@ -5089,21 +5089,32 @@
       "format": "JSON"
     },
     {
+      "name": "thegleanernews-2022-10-31T09:59:55.195947-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thegleanernews-2022-10-31T09:59:55.195947-05:00.jpg",
+      "mtime": "1667230191",
+      "size": "8770",
+      "md5": "963bfdd506c71faf49b66a8e0c1225a2",
+      "crc32": "8892a5ff",
+      "sha1": "f48d776b74ff31b5322c33fdf1288b8b03d59801"
+    },
+    {
       "name": "thegleanernews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cd49d98d96df9aa994782b0bfc6e060ba927084d",
-      "mtime": "1667228458",
-      "size": "107744",
-      "md5": "80583d1687587fb1501e17d7abd1ed3b",
-      "crc32": "9db78ddd",
-      "sha1": "70a1e5416db585b29411a978e65291c0b6c58711",
+      "btih": "2a937f5ebf9b20ab2040aaf0fddcac7049e3ed1a",
+      "mtime": "1667230196",
+      "size": "107954",
+      "md5": "ecbfdd9a90f5d4af8015d89782b10de1",
+      "crc32": "ad08539a",
+      "sha1": "a77aff96994f8e87847fb598106dde6536bb8df7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thegleanernews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dcefd9bdfa213b0b300260e8794d82d6",
+      "md5": "e7324cee950d0d50c534a311cd2b6876",
       "summation": "md5"
     },
     {
@@ -5127,9 +5138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 496,
-  "item_last_updated": 1667228458,
-  "item_size": 30199123,
+  "files_count": 497,
+  "item_last_updated": 1667230196,
+  "item_size": 30208103,
   "metadata": {
     "identifier": "thegleanernews-2022",
     "collection": [
@@ -5146,21 +5157,15 @@
     "publicdate": "2022-09-21 03:44:35",
     "addeddate": "2022-09-21 03:44:35"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457849985,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1616320101,
+  "server": "ia801507.us.archive.org",
+  "thegleanernews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1233236329,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

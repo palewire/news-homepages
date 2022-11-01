@@ -1,5 +1,5 @@
 {
-  "created": 1667259869,
+  "created": 1667261317,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/claytoncrescent-2022",
@@ -13581,21 +13581,32 @@
       "format": "JSON"
     },
     {
+      "name": "claytoncrescent-2022-10-31T19:43:06.506403-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "claytoncrescent-2022-10-31T19:43:06.506403-04:00.jpg",
+      "mtime": "1667261219",
+      "size": "10436",
+      "md5": "2fec5c5408cd9f8a52b035cdaeed6d27",
+      "crc32": "fcec2da8",
+      "sha1": "6f410109cb0a85a28cc7c0703f63d52bb0712f8a"
+    },
+    {
       "name": "claytoncrescent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "491a32dc82290a7b049a74d7c455c5bba66077ff",
-      "mtime": "1667259862",
-      "size": "286188",
-      "md5": "7ea1f7088c97fd47c9af5180182e1707",
-      "crc32": "249fde1b",
-      "sha1": "739027d0dc65fa5380d42a6129c751e0c18fe723",
+      "btih": "da8cbed88fa9060b44590b264f75f79ed03e5a20",
+      "mtime": "1667261250",
+      "size": "286400",
+      "md5": "3881bfe76c930437732555636b20d269",
+      "crc32": "b50add2f",
+      "sha1": "2a3dc32608a0e40b7b9c8cd2c15533a26202c305",
       "format": "Archive BitTorrent"
     },
     {
       "name": "claytoncrescent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77e739873142b0cda3857e78a3883642",
+      "md5": "2e7ee83688f2f7b7d5f53e754c15fcde",
       "summation": "md5"
     },
     {
@@ -13619,9 +13630,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1315,
-  "item_last_updated": 1667259862,
-  "item_size": 82890869,
+  "files_count": 1316,
+  "item_last_updated": 1667261250,
+  "item_size": 82901517,
   "metadata": {
     "identifier": "claytoncrescent-2022",
     "collection": [
@@ -13638,21 +13649,10 @@
     "publicdate": "2022-07-09 03:56:58",
     "addeddate": "2022-07-09 03:56:58"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247406,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 419787578,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1430800468,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

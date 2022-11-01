@@ -1,5 +1,5 @@
 {
-  "created": 1667259914,
+  "created": 1667261469,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/5/items/cityjournal-2022",
@@ -16073,21 +16073,32 @@
       "format": "JSON"
     },
     {
+      "name": "cityjournal-2022-10-31T19:43:42.741765-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cityjournal-2022-10-31T19:43:42.741765-04:00.jpg",
+      "mtime": "1667261401",
+      "size": "8915",
+      "md5": "63056efa384d8c1af7ecea50d732e5aa",
+      "crc32": "216394eb",
+      "sha1": "dfea3c9a78a86dc99a9350257c9e246501249273"
+    },
+    {
       "name": "cityjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "df4b5f7a4b35d1c7acf5e85725ba809d25287cd3",
-      "mtime": "1667259902",
-      "size": "331865",
-      "md5": "be3e29a560f03482c6cfd909064e108f",
-      "crc32": "fe5fd060",
-      "sha1": "01489d5e4db2e4b09ca3c583c0a40901827be2fb",
+      "btih": "955bdac813ac47246352928607650ce7eade5a3e",
+      "mtime": "1667261430",
+      "size": "332072",
+      "md5": "6f105aaaab69a1345b9ae364e942a2b3",
+      "crc32": "4b649307",
+      "sha1": "9b7b24c10baa85cbb9cbe1b5f84780a50ccf176e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cityjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cad828e0129ac599dfe299cc20369b67",
+      "md5": "853f2279f512b43771deb02a3f9e32bc",
       "summation": "md5"
     },
     {
@@ -16111,9 +16122,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1559,
-  "item_last_updated": 1667259902,
-  "item_size": 70834672,
+  "files_count": 1560,
+  "item_last_updated": 1667261430,
+  "item_size": 70843794,
   "metadata": {
     "identifier": "cityjournal-2022",
     "collection": [
@@ -16130,21 +16141,10 @@
     "publicdate": "2022-08-05 12:25:05",
     "addeddate": "2022-08-05 12:25:05"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247909,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1016247644,
+  "uniq": 918315723,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667228481,
+  "created": 1667267405,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/14/items/thedailytimes-2022",
@@ -5089,21 +5089,32 @@
       "format": "JSON"
     },
     {
+      "name": "thedailytimes-2022-10-31T09:00:25.946435-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailytimes-2022-10-31T09:00:25.946435-06:00.jpg",
+      "mtime": "1667230316",
+      "size": "9218",
+      "md5": "3793de30701d8922c51f7dc4f8c00ea2",
+      "crc32": "3667d35d",
+      "sha1": "6ec6dda4263859163e2cf7c5616f83a816f2597f"
+    },
+    {
       "name": "thedailytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ecf69eae187ee57a503c7557e0abbcc0ba27a4e6",
-      "mtime": "1667228477",
-      "size": "107330",
-      "md5": "1f028602499234a56c031673a0dd4735",
-      "crc32": "eeb6caa0",
-      "sha1": "4e6e5bc910204bb4b1cb5e2045aa10f6771b4a28",
+      "btih": "4a27bab852e3a811b7796ab7ceeaa1ca1442df9b",
+      "mtime": "1667230329",
+      "size": "107539",
+      "md5": "ac1a6c5fc1862fd41eb653730f5cf75e",
+      "crc32": "7c5ab7af",
+      "sha1": "d7cb042e2cc68cd285f42c043ee1d9fe113c5a5a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eba94ebde58e958d61cd549679450a2f",
+      "md5": "30956cd803bf7ec5927535d8e0f85b33",
       "summation": "md5"
     },
     {
@@ -5127,9 +5138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 496,
-  "item_last_updated": 1667228477,
-  "item_size": 31909360,
+  "files_count": 497,
+  "item_last_updated": 1667230329,
+  "item_size": 31918787,
   "metadata": {
     "identifier": "thedailytimes-2022",
     "collection": [
@@ -5146,21 +5157,15 @@
     "publicdate": "2022-09-21 03:44:35",
     "addeddate": "2022-09-21 03:44:35"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457850307,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2017771168,
+  "server": "ia801501.us.archive.org",
+  "thedailytimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 2017122085,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

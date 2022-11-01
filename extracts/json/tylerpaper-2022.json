@@ -1,5 +1,5 @@
 {
-  "created": 1667228617,
+  "created": 1667268246,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/8/items/tylerpaper-2022",
@@ -12441,21 +12441,32 @@
       "format": "JSON"
     },
     {
+      "name": "tylerpaper-2022-10-31T10:02:12.072413-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tylerpaper-2022-10-31T10:02:12.072413-05:00.jpg",
+      "mtime": "1667230610",
+      "size": "10347",
+      "md5": "2c3d3e76e2a81f5d908fe97df809f951",
+      "crc32": "2efc17df",
+      "sha1": "c92b3215cc8287043bdbfdf61c5b01c63b0fdf94"
+    },
+    {
       "name": "tylerpaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f4f3a90b1d3da6aa9358c1624b2490215058d559",
-      "mtime": "1667228610",
-      "size": "256902",
-      "md5": "00004b0a256430ebe3a5cf042d4e0308",
-      "crc32": "e0538114",
-      "sha1": "243c112297aeb51846c41d7f21c0d7e967f0d697",
+      "btih": "c852ba0e80789e0ceb6cbe1fc8b12d41c7f98188",
+      "mtime": "1667230644",
+      "size": "257109",
+      "md5": "74d4f5124028dffd1ed38ee27a8726a2",
+      "crc32": "0d38111c",
+      "sha1": "622cce759cf9a64b231aefa22da7e4adde7fee9b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tylerpaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a3c518dbb752bbf16137d99cab1070c",
+      "md5": "4793fe543162bfd4ef7c19fc14c3adcd",
       "summation": "md5"
     },
     {
@@ -12479,9 +12490,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1205,
-  "item_last_updated": 1667228610,
-  "item_size": 93206550,
+  "files_count": 1206,
+  "item_last_updated": 1667230644,
+  "item_size": 93217104,
   "metadata": {
     "identifier": "tylerpaper-2022",
     "collection": [
@@ -12498,21 +12509,15 @@
     "publicdate": "2022-07-18 00:06:00",
     "addeddate": "2022-07-18 00:06:00"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457852613,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1060737594,
+  "server": "ia801509.us.archive.org",
+  "tylerpaper-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1375593650,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

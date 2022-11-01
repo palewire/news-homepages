@@ -1,5 +1,5 @@
 {
-  "created": 1667260042,
+  "created": 1667261696,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/25/items/fivethirtyeight-2022",
@@ -16235,21 +16235,32 @@
       "format": "JSON"
     },
     {
+      "name": "fivethirtyeight-2022-10-31T19:45:30.095097-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fivethirtyeight-2022-10-31T19:45:30.095097-04:00.jpg",
+      "mtime": "1667261430",
+      "size": "9220",
+      "md5": "7bfeb35afbf6be1a62f2d945e8578cf4",
+      "crc32": "7ee1305d",
+      "sha1": "ba3f02e913777773df5c1c1d3719d0ba245da29c"
+    },
+    {
       "name": "fivethirtyeight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59a7a191038bc389adb66298ffdf55b83f9a8862",
-      "mtime": "1667260031",
-      "size": "340967",
-      "md5": "fb9e35ef1a3a51eea165006909cd677a",
-      "crc32": "91e0aaf2",
-      "sha1": "ddcf1214a31074b32f7ea0f90feb6fb6a70acb0f",
+      "btih": "09a8c699b941e3338718e4fc76239ab97f82bb50",
+      "mtime": "1667261581",
+      "size": "341178",
+      "md5": "91ed28bef31bd1fd086c1497b38afb45",
+      "crc32": "9c4d504c",
+      "sha1": "fa4442028e157e3a6011762d24347eb8f18d744f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fivethirtyeight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8b55998f82e8a28b757274d8bd766c4f",
+      "md5": "863585608127fb6c9b5151625772f122",
       "summation": "md5"
     },
     {
@@ -16273,9 +16284,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1568,
-  "item_last_updated": 1667260031,
-  "item_size": 100711992,
+  "files_count": 1569,
+  "item_last_updated": 1667261581,
+  "item_size": 100721423,
   "metadata": {
     "identifier": "fivethirtyeight-2022",
     "collection": [
@@ -16292,21 +16303,10 @@
     "publicdate": "2022-06-19 23:24:21",
     "addeddate": "2022-06-19 23:24:21"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458249179,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 889289895,
+  "server": "ia801501.us.archive.org",
+  "uniq": 812642516,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

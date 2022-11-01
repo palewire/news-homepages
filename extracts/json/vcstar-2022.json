@@ -1,6 +1,5 @@
 {
-  "conflict": 1667246603,
-  "created": 1667246603,
+  "created": 1667268488,
   "d1": "ia904708.us.archive.org",
   "d2": "ia804708.us.archive.org",
   "dir": "/23/items/vcstar-2022",
@@ -28003,24 +28002,29 @@
       "name": "vcstar-2022-10-31T12:54:49.431152-07:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "vcstar-2022-10-31T12:54:49.431152-07:00.jpg"
+      "original": "vcstar-2022-10-31T12:54:49.431152-07:00.jpg",
+      "mtime": "1667246596",
+      "size": "9352",
+      "md5": "1597a0738758687da590acde83c3c082",
+      "crc32": "fe4fa83e",
+      "sha1": "1c05c711d468a4f7624c0715b45d0e9ecda28280"
     },
     {
       "name": "vcstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1622dc392b1fa285f4af1ea0dee42eb9ab7c7574",
-      "mtime": "1667246197",
-      "size": "561485",
-      "md5": "2001b8cc710b004c1928ddac3543d71a",
-      "crc32": "85625cf7",
-      "sha1": "413a2820ec8630445741b5c1bda2aa6744a4b58e",
+      "btih": "a09649a8ab4b47c0a3aee09a2bb775a7ee4d1d39",
+      "mtime": "1667247229",
+      "size": "561687",
+      "md5": "ff762819e8c016e1658bc45edefd8f41",
+      "crc32": "dc4fffb2",
+      "sha1": "7da4a6c67a440b086c298e84e7b7cebed8272cba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vcstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52d3a0c3f54bb498b563f4183ced2f7b",
+      "md5": "4760cc7c0abefa4eaf03ca2108d95df9",
       "summation": "md5"
     },
     {
@@ -28045,8 +28049,8 @@
     }
   ],
   "files_count": 2694,
-  "item_last_updated": 1667246197,
-  "item_size": 198387721,
+  "item_last_updated": 1667247229,
+  "item_size": 198397275,
   "metadata": {
     "identifier": "vcstar-2022",
     "collection": [
@@ -28063,21 +28067,15 @@
     "publicdate": "2022-03-23 02:10:28",
     "addeddate": "2022-03-23 02:10:28"
   },
-  "pending_tasks": true,
   "server": "ia904708.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458057454,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 512936421,
+  "uniq": 209250107,
+  "vcstar-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia904708.us.archive.org"
+    "ia904708.us.archive.org",
+    "ia804708.us.archive.org"
   ]
 }

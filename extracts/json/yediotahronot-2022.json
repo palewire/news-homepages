@@ -1,5 +1,5 @@
 {
-  "created": 1667232545,
+  "created": 1667269117,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/26/items/yediotahronot-2022",
@@ -9647,21 +9647,32 @@
       "format": "JSON"
     },
     {
+      "name": "yediotahronot-2022-10-31T18:07:49.260868+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yediotahronot-2022-10-31T18:07:49.260868+02:00.jpg",
+      "mtime": "1667233309",
+      "size": "10490",
+      "md5": "8c8090a8466a85005eb09e9a4b7c8bc3",
+      "crc32": "f4f6da02",
+      "sha1": "a02060dfc26321a6d708e75fd8b761ccaacae79c"
+    },
+    {
       "name": "yediotahronot-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ba3810325ec53852e908e4958517906147556bb7",
-      "mtime": "1667232539",
-      "size": "202226",
-      "md5": "ed3bdb5aa682eadab4d2172bd011d23b",
-      "crc32": "ff7506e3",
-      "sha1": "05432d70ee91662fdc14ae3bcedad797e3dfba5f",
+      "btih": "8df1e28a5c31c602823d8a01541d36d0f315a34e",
+      "mtime": "1667233332",
+      "size": "202436",
+      "md5": "32bb27a2cb8c931c3d664fc62f6a8448",
+      "crc32": "67ff9ace",
+      "sha1": "99f1a3b79e3a942241514929dbb42c0356e4f0f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yediotahronot-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2e018a3d09c35790b77e30857f4a061",
+      "md5": "e25b16865e6796519be163e01210f0cf",
       "summation": "md5"
     },
     {
@@ -9685,9 +9696,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 937,
-  "item_last_updated": 1667232539,
-  "item_size": 60181174,
+  "files_count": 938,
+  "item_last_updated": 1667233332,
+  "item_size": 60191874,
   "metadata": {
     "identifier": "yediotahronot-2022",
     "collection": [
@@ -9704,21 +9715,15 @@
     "publicdate": "2022-08-14 05:14:33",
     "addeddate": "2022-08-14 05:14:33"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457893796,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1158044248,
+  "server": "ia801505.us.archive.org",
+  "uniq": 188749624,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
-  ]
+  ],
+  "yediotahronot-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  }
 }

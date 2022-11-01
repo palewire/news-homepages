@@ -1,5 +1,5 @@
 {
-  "created": 1667260036,
+  "created": 1667261506,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/21/items/discovermag-2022",
@@ -13731,21 +13731,32 @@
       "format": "JSON"
     },
     {
+      "name": "discovermag-2022-10-31T19:46:05.137807-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovermag-2022-10-31T19:46:05.137807-04:00.jpg",
+      "mtime": "1667261385",
+      "size": "8676",
+      "md5": "2681de35b5db526b17b44b62f63a3cf0",
+      "crc32": "1c286ffe",
+      "sha1": "b5e6e5460a8cafdd03ef9d9240c2df01a6b48663"
+    },
+    {
       "name": "discovermag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f207be7b3eb9520e4d5e734ce3f4782f81561ac3",
-      "mtime": "1667260032",
-      "size": "283724",
-      "md5": "5614f3f2d53b186cc98c3d20b544ef25",
-      "crc32": "10345990",
-      "sha1": "d8a56e56df6da4cb38564219dddca1775ba67d56",
+      "btih": "270bdbd17c4106f94f0214cc5a5a22f33f4831d1",
+      "mtime": "1667261403",
+      "size": "283931",
+      "md5": "c4c924bb0a7bff9852baeb428f260fc9",
+      "crc32": "4e44a5bf",
+      "sha1": "156decfee9da97688733a96ed33fba885c173cdf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "discovermag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c92383a99b993f1d8b16fad914513a3c",
+      "md5": "c429e75a8855b3a81bd2d39876390750",
       "summation": "md5"
     },
     {
@@ -13769,9 +13780,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1328,
-  "item_last_updated": 1667260032,
-  "item_size": 92137286,
+  "files_count": 1329,
+  "item_last_updated": 1667261403,
+  "item_size": 92146169,
   "metadata": {
     "identifier": "discovermag-2022",
     "collection": [
@@ -13788,21 +13799,10 @@
     "publicdate": "2022-07-04 20:47:27",
     "addeddate": "2022-07-04 20:47:27"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458249119,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 278255678,
+  "server": "ia802506.us.archive.org",
+  "uniq": 1920764193,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

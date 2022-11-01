@@ -1,5 +1,5 @@
 {
-  "created": 1667228587,
+  "created": 1667267833,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/11/items/thestarpress-2022",
@@ -5089,21 +5089,32 @@
       "format": "JSON"
     },
     {
+      "name": "thestarpress-2022-10-31T11:01:34.308489-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thestarpress-2022-10-31T11:01:34.308489-04:00.jpg",
+      "mtime": "1667230552",
+      "size": "8990",
+      "md5": "e7236166070b309e65262896a2934f88",
+      "crc32": "fbc36f51",
+      "sha1": "eca6706c2547e4cd2098ee4dd142efcdaea189f0"
+    },
+    {
       "name": "thestarpress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aa550783dfae3e497805be84f742923e67c2ec1d",
-      "mtime": "1667228549",
-      "size": "106838",
-      "md5": "042df396b70fa10ef691ca4e509e7a32",
-      "crc32": "4bf8989b",
-      "sha1": "26495901b6e36cb380fb5cbb6724af0d81a1eef3",
+      "btih": "86e479be2f265c3becbc191115b95dbea1c3e23c",
+      "mtime": "1667230577",
+      "size": "107046",
+      "md5": "017d6859648a531d794dba13d6cba331",
+      "crc32": "2f1d159e",
+      "sha1": "4f301f19c1e5982449206bedc5f6a4a321c631da",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thestarpress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "47884d647baa7ce5ed5504160c0df803",
+      "md5": "badc767d12e243cb5d2e7afa326ad479",
       "summation": "md5"
     },
     {
@@ -5127,9 +5138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 496,
-  "item_last_updated": 1667228549,
-  "item_size": 31850821,
+  "files_count": 497,
+  "item_last_updated": 1667230577,
+  "item_size": 31860019,
   "metadata": {
     "identifier": "thestarpress-2022",
     "collection": [
@@ -5146,21 +5157,15 @@
     "publicdate": "2022-09-21 03:45:24",
     "addeddate": "2022-09-21 03:45:24"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457852090,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1135105820,
+  "server": "ia801405.us.archive.org",
+  "thestarpress-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1232283281,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667228303,
+  "created": 1667267010,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/28/items/tauntontogo-2022",
@@ -5047,21 +5047,32 @@
       "format": "JSON"
     },
     {
+      "name": "tauntontogo-2022-10-31T10:57:29.209444-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tauntontogo-2022-10-31T10:57:29.209444-04:00.jpg",
+      "mtime": "1667230347",
+      "size": "9026",
+      "md5": "47312c7f40006b7757da3fd2375b86bc",
+      "crc32": "34cc9789",
+      "sha1": "a6bea7075ad6024b268afb323bbf3d9675cd073a"
+    },
+    {
       "name": "tauntontogo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8990f89a63f3487701bf86924c539d3077ca1fe0",
-      "mtime": "1667228299",
-      "size": "105540",
-      "md5": "498842165b40d18bd7fca3431165e6e1",
-      "crc32": "04352752",
-      "sha1": "d2fa161fe8fae2c8c2b22c1c9bcd6a92fd7a3126",
+      "btih": "b9f9b3ccfa878662bed51757abac809d7f931f71",
+      "mtime": "1667230374",
+      "size": "105747",
+      "md5": "0c931fddad29019ebfa4d16ba2278951",
+      "crc32": "affeb44f",
+      "sha1": "40c6f20d6cf3d0706eb11d895214fd527dbafcaf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tauntontogo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f0d62af4738824b697c8a421be42c205",
+      "md5": "e584efcf3494e00947ca6273726987d7",
       "summation": "md5"
     },
     {
@@ -5085,9 +5096,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 492,
-  "item_last_updated": 1667228299,
-  "item_size": 32924271,
+  "files_count": 493,
+  "item_last_updated": 1667230374,
+  "item_size": 32933504,
   "metadata": {
     "identifier": "tauntontogo-2022",
     "collection": [
@@ -5104,21 +5115,18 @@
     "publicdate": "2022-09-21 03:43:10",
     "addeddate": "2022-09-21 03:43:10"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848052,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1912270724,
+  "server": "ia801506.us.archive.org",
+  "tauntontogo-2022": {
+    "url": "https://www.tauntongazette.com/",
+    "job_id": "spn2-626474b97fd59c4882dc67fc1c29e89c9ca6f318",
+    "resources": [],
+    "status": "error",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1104.",
+    "status_ext": "WorkerLostError"
+  },
+  "uniq": 232272109,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

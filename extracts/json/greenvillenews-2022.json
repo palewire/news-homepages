@@ -1,5 +1,5 @@
 {
-  "created": 1667260171,
+  "created": 1667262759,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/21/items/greenvillenews-2022",
@@ -5203,21 +5203,32 @@
       "format": "JSON"
     },
     {
+      "name": "greenvillenews-2022-10-31T19:48:28.153228-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "greenvillenews-2022-10-31T19:48:28.153228-04:00.jpg",
+      "mtime": "1667261527",
+      "size": "9198",
+      "md5": "aab83f6ad6b97dd7393196a359add37a",
+      "crc32": "79bcdeb4",
+      "sha1": "914cee612a0e1eaac29f8f2384a89ad70367823c"
+    },
+    {
       "name": "greenvillenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0eb6d0d83fc9f38e213a77824a03b1e21c6e0e14",
-      "mtime": "1667260166",
-      "size": "110272",
-      "md5": "bfd7112a38fae3c33b8824519a7fa1e0",
-      "crc32": "aa41ef7e",
-      "sha1": "c792c577df1e3544b685834b14967caae975ba52",
+      "btih": "006f86bf7182034098fa38eb145bd760b53d15a8",
+      "mtime": "1667261547",
+      "size": "110482",
+      "md5": "f4432318a4740e6c3487dda6fa60243f",
+      "crc32": "24c66899",
+      "sha1": "169b2bc4be92f18647a1444e65227fc080f2cd94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "greenvillenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d446e75465b979eaada39e872b07bb90",
+      "md5": "e85ca5228dd03bcd30f61f65468975b4",
       "summation": "md5"
     },
     {
@@ -5241,9 +5252,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 507,
-  "item_last_updated": 1667260166,
-  "item_size": 33875489,
+  "files_count": 508,
+  "greenvillenews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667261547,
+  "item_size": 33884897,
   "metadata": {
     "identifier": "greenvillenews-2022",
     "collection": [
@@ -5260,21 +5276,10 @@
     "publicdate": "2022-09-20 22:18:26",
     "addeddate": "2022-09-20 22:18:26"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458250728,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1298180982,
+  "uniq": 492176354,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

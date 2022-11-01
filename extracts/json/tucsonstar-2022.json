@@ -1,5 +1,5 @@
 {
-  "created": 1667228704,
+  "created": 1667268200,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/34/items/tucsonstar-2022",
@@ -13615,21 +13615,32 @@
       "format": "JSON"
     },
     {
+      "name": "tucsonstar-2022-10-31T08:03:04.229406-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tucsonstar-2022-10-31T08:03:04.229406-07:00.jpg",
+      "mtime": "1667231015",
+      "size": "12381",
+      "md5": "4fbc9be99ffefdc8bae46faeb21c44c3",
+      "crc32": "1f8d2408",
+      "sha1": "5078d326c0d0077e53fbbf97bbd9944941c87336"
+    },
+    {
       "name": "tucsonstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9c000c885c5b9e530e9ca3e0f4e819e8c342c519",
-      "mtime": "1667228682",
-      "size": "281331",
-      "md5": "368e8f7d3be318fc04d59f67c2d45404",
-      "crc32": "b2b7fa9d",
-      "sha1": "92d27b156964dbf63188b5b50b67b5163481aaf4",
+      "btih": "68faf96fb81949fb53af24aae935230855133379",
+      "mtime": "1667231034",
+      "size": "281558",
+      "md5": "a5e2b2f14a1dfb84c374607c4de60291",
+      "crc32": "6fac93b0",
+      "sha1": "4da482ec48fcbf4bbc0e3faa147bad6293f9956a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "31eb38db77c16af018f2727d776d1581",
+      "md5": "15bf4fa77ec967092f53b90817dc7a2d",
       "summation": "md5"
     },
     {
@@ -13653,9 +13664,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1318,
-  "item_last_updated": 1667228682,
-  "item_size": 109846462,
+  "files_count": 1319,
+  "item_last_updated": 1667231034,
+  "item_size": 109859070,
   "metadata": {
     "identifier": "tucsonstar-2022",
     "collection": [
@@ -13672,21 +13683,15 @@
     "publicdate": "2022-07-04 21:48:03",
     "addeddate": "2022-07-04 21:48:03"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457853706,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2005950839,
+  "server": "ia801403.us.archive.org",
+  "tucsonstar-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 802141010,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

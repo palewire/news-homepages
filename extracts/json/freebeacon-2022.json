@@ -1,5 +1,5 @@
 {
-  "created": 1667260227,
+  "created": 1667261647,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/9/items/freebeacon-2022",
@@ -18723,21 +18723,32 @@
       "format": "JSON"
     },
     {
+      "name": "freebeacon-2022-10-31T19:49:13.073530-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freebeacon-2022-10-31T19:49:13.073530-04:00.jpg",
+      "mtime": "1667261597",
+      "size": "9873",
+      "md5": "6ffb70cd9ca06d53d684adf115a3af02",
+      "crc32": "892a833d",
+      "sha1": "617a4dab22df17a751afada552275a605c8fccf8"
+    },
+    {
       "name": "freebeacon-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53fce9c26321e6c8c74f5fb9075c5cefeb6d24b4",
-      "mtime": "1667260222",
-      "size": "385290",
-      "md5": "75e8fea7506b425fb79a0b79ef676a9b",
-      "crc32": "35cc8e80",
-      "sha1": "62918509acc5f57780b2343728b6a067959a4b71",
+      "btih": "b899838f8027d5881777ed30b2ec0da0d5f59a8d",
+      "mtime": "1667261627",
+      "size": "385496",
+      "md5": "b26de3bb3e837402044f74e9e433a140",
+      "crc32": "a5465bbb",
+      "sha1": "367f2d97dd19d47c9d360b76d401afd6f21cc7e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freebeacon-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eed2f8bd19d4732de011fec79688d536",
+      "md5": "918195358e47069de0fd506302d48e6e",
       "summation": "md5"
     },
     {
@@ -18761,9 +18772,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1813,
-  "item_last_updated": 1667260222,
-  "item_size": 114273155,
+  "files_count": 1814,
+  "item_last_updated": 1667261627,
+  "item_size": 114283234,
   "metadata": {
     "identifier": "freebeacon-2022",
     "collection": [
@@ -18780,21 +18791,10 @@
     "publicdate": "2022-07-17 15:03:23",
     "addeddate": "2022-07-17 15:03:23"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458251204,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2141434205,
+  "server": "ia801406.us.archive.org",
+  "uniq": 1581594104,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

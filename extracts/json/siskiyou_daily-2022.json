@@ -1,5 +1,5 @@
 {
-  "created": 1667228301,
+  "created": 1667266709,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/siskiyou_daily-2022",
@@ -5089,21 +5089,32 @@
       "format": "JSON"
     },
     {
+      "name": "siskiyou_daily-2022-10-31T07:57:22.744382-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "siskiyou_daily-2022-10-31T07:57:22.744382-07:00.jpg",
+      "mtime": "1667230346",
+      "size": "9222",
+      "md5": "3f8933245673c9e9e848bba8fcccd15b",
+      "crc32": "30c49a6a",
+      "sha1": "b71dab2c41603d734a36d7ddeba511c6f0c30bd0"
+    },
+    {
       "name": "siskiyou_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "10ec80e72b862fe70c27909080ce7abecda2dcd2",
-      "mtime": "1667228297",
-      "size": "107976",
-      "md5": "6b9525f4112545ebbcd47f24a3043303",
-      "crc32": "aa6e3187",
-      "sha1": "70606d7b8188f81266ee72988031d07b0bd8b9de",
+      "btih": "dad0d613afa110437850b518d8d625001168e431",
+      "mtime": "1667230353",
+      "size": "108186",
+      "md5": "1a5cdc5de774b1481f2742d8c8f5af88",
+      "crc32": "111422cc",
+      "sha1": "f01cf1aa12736b4d592a484c4d5765a6e4968ba1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "siskiyou_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "89c79a1ec51f84714a0dcd7250354994",
+      "md5": "406acab7f61e19c50362f5f12afdf3ce",
       "summation": "md5"
     },
     {
@@ -5127,9 +5138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 496,
-  "item_last_updated": 1667228297,
-  "item_size": 34343708,
+  "files_count": 497,
+  "item_last_updated": 1667230353,
+  "item_size": 34353140,
   "metadata": {
     "identifier": "siskiyou_daily-2022",
     "collection": [
@@ -5146,21 +5157,18 @@
     "publicdate": "2022-09-21 03:42:55",
     "addeddate": "2022-09-21 03:42:55"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848027,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 703340874,
+  "siskiyou_daily-2022": {
+    "url": "https://www.siskiyoudaily.com/",
+    "job_id": "spn2-c72d250158f938af6f07f6c1637c0b6cfa5f3d4d",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  },
+  "uniq": 638537351,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

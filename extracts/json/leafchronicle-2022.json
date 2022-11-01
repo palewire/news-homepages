@@ -1,5 +1,5 @@
 {
-  "created": 1667265747,
+  "created": 1667264063,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/5/items/leafchronicle-2022",
@@ -5162,82 +5162,31 @@
       "sha1": "ee11c8f164e885250ca43725cece2fe68536800b"
     },
     {
-      "name": "leafchronicle-2022-10-31T20:21:25.571286-05:00.accessibility.json",
-      "source": "original",
-      "mtime": "1667265688",
-      "size": "21337",
-      "md5": "88cec3205fe7ff9d50f667ee2f11cfb0",
-      "crc32": "49e1d08d",
-      "sha1": "32f174b06e96f9a8b646a4dd442a2696ff1adf21",
-      "format": "JSON"
-    },
-    {
-      "name": "leafchronicle-2022-10-31T20:21:25.571286-05:00.hyperlinks.json",
-      "source": "original",
-      "mtime": "1667265691",
-      "size": "36830",
-      "md5": "343fff11539c0e2c1afc89649370aeb6",
-      "crc32": "6b4c0f1f",
-      "sha1": "57b9f3a3da9337ab59e9f00848a842c4c2dbb487",
-      "format": "JSON"
-    },
-    {
-      "name": "leafchronicle-2022-10-31T20:21:25.571286-05:00.jpg",
-      "source": "original",
-      "mtime": "1667265687",
-      "size": "298498",
-      "md5": "9e61f6a3cc5aeacf2434f30b6120aac3",
-      "crc32": "1f855d9d",
-      "sha1": "f5d27a4b1ff93a0c53a393e41acb16c7067f6f97",
-      "format": "JPEG",
-      "rotation": "0"
-    },
-    {
-      "name": "leafchronicle-2022-10-31T20:21:25.571286-05:00.lighthouse.json",
-      "source": "original",
-      "mtime": "1667265693",
-      "size": "1548",
-      "md5": "6bdb9746a449207c17c727196ac91c90",
-      "crc32": "643f3761",
-      "sha1": "97d4dc1c074e5377cd1c5e340713fc99f3a52114",
-      "format": "JSON"
-    },
-    {
-      "name": "leafchronicle-2022-10-31T20:21:25.571286-05:00.wayback.json",
-      "source": "original",
-      "mtime": "1667265695",
-      "size": "202",
-      "md5": "07e452389e857b7334503102fdd2cebf",
-      "crc32": "55525c66",
-      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
-      "format": "JSON"
-    },
-    {
       "name": "leafchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "00295661fecbbc0768ff9d11eddbb7dbb86dde95",
-      "mtime": "1667265739",
-      "size": "109929",
-      "md5": "65a54a60862cd768eebf6054989298c7",
-      "crc32": "f244cbaa",
-      "sha1": "3758b96c3930c3a282046bc97c1931da6ef08dd2",
+      "btih": "79031c33a6667bfa2dc3fad32bb1bc9669823ffe",
+      "mtime": "1667221854",
+      "size": "108863",
+      "md5": "b6d99cab0b7059be8966294fc388ece7",
+      "crc32": "1a13a067",
+      "sha1": "60c761c084593259de6a85284a37e850b68c76c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "leafchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b24c3343ddb7e8f7b04feb6ea57cadb0",
+      "md5": "a39f46220bde2bfe4b6d275e30c0a559",
       "summation": "md5"
     },
     {
       "name": "leafchronicle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667265700",
-      "size": "663552",
-      "md5": "a8d97769c3facba6f1bbb3aafe5d0ee3",
-      "crc32": "8c0b2717",
-      "sha1": "eb2c91d5841e0c380f8abcb29b2df411f94dbd1f",
+      "mtime": "1667220888",
+      "size": "659456",
+      "md5": "35deafeedf94ab65b7a49f5378fb9970",
+      "crc32": "1fa8c695",
+      "sha1": "0e9ef5b199106c19d5e06a526fc86900c1f4c63c",
       "format": "Metadata"
     },
     {
@@ -5251,9 +5200,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 508,
-  "item_last_updated": 1667265739,
-  "item_size": 33061569,
+  "files_count": 503,
+  "item_last_updated": 1667221854,
+  "item_size": 32697992,
+  "leafchronicle-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "leafchronicle-2022",
     "collection": [
@@ -5270,21 +5224,10 @@
     "publicdate": "2022-09-20 22:26:33",
     "addeddate": "2022-09-20 22:26:33"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458321035,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 666934769,
+  "server": "ia801505.us.archive.org",
+  "uniq": 659649139,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

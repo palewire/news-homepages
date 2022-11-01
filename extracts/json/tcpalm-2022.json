@@ -1,5 +1,5 @@
 {
-  "created": 1667228316,
+  "created": 1667267017,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/30/items/tcpalm-2022",
@@ -5057,21 +5057,32 @@
       "format": "JSON"
     },
     {
+      "name": "tcpalm-2022-10-31T10:57:29.279408-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tcpalm-2022-10-31T10:57:29.279408-04:00.jpg",
+      "mtime": "1667230004",
+      "size": "9218",
+      "md5": "627d7438d4c46d49b06fcc1887d55a17",
+      "crc32": "713cec0d",
+      "sha1": "4a15b21de3faacab2b055f69ea8d66d3cf1f98de"
+    },
+    {
       "name": "tcpalm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ad0571b3f03dc74afd09a94c129a2b18e4dc4e5e",
-      "mtime": "1667228312",
-      "size": "103251",
-      "md5": "7aa12a0cfb2ae9cc69f29bbfdd769eeb",
-      "crc32": "a198c201",
-      "sha1": "a718d6878182f161af576d53ac3b152ad5a9a15e",
+      "btih": "3e8535d877b572e87442f68ca2b53ad4ced785a6",
+      "mtime": "1667230067",
+      "size": "103453",
+      "md5": "e51d7d9cd52caa4995c8ce99be966e63",
+      "crc32": "b67cdbce",
+      "sha1": "f371ba5e2a14b00f512f8871a90c92ec60ecd1b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tcpalm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "76dd12430191e59e0613eadc90db643e",
+      "md5": "d9078090e169846e9645ab3265551677",
       "summation": "md5"
     },
     {
@@ -5095,9 +5106,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 493,
-  "item_last_updated": 1667228312,
-  "item_size": 32800779,
+  "files_count": 494,
+  "item_last_updated": 1667230067,
+  "item_size": 32810199,
   "metadata": {
     "identifier": "tcpalm-2022",
     "collection": [
@@ -5114,21 +5125,15 @@
     "publicdate": "2022-09-21 03:42:57",
     "addeddate": "2022-09-21 03:42:57"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848186,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 557143044,
+  "server": "ia801405.us.archive.org",
+  "tcpalm-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1646663087,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

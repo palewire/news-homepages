@@ -1,5 +1,5 @@
 {
-  "created": 1667232491,
+  "created": 1667268757,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/13/items/wdrbnews-2022",
@@ -11197,21 +11197,32 @@
       "format": "JSON"
     },
     {
+      "name": "wdrbnews-2022-10-31T12:05:58.587445-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wdrbnews-2022-10-31T12:05:58.587445-04:00.jpg",
+      "mtime": "1667233351",
+      "size": "11189",
+      "md5": "0df8da1913e6879feaf1f6452fc63336",
+      "crc32": "b72ce752",
+      "sha1": "46c92b197b63cf89151927748b40ee18c3b597e9"
+    },
+    {
       "name": "wdrbnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "86ce2c8f6478cbdb10b5e0cdbb4420b55124ce1a",
-      "mtime": "1667232477",
-      "size": "229912",
-      "md5": "eba26b3af3aa7622be7e6b268efa3ca3",
-      "crc32": "1d8f2145",
-      "sha1": "b0b846d3107bd13b167504ed59a76254a20e403a",
+      "btih": "6d66cafeb8f4e9b927d07f09f266786403a1e489",
+      "mtime": "1667233379",
+      "size": "230117",
+      "md5": "1c15e271cb12da64d838d02d5fe5db7c",
+      "crc32": "16b52322",
+      "sha1": "264d0fa8094a426990ccf0179a227a7234fe1552",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wdrbnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a1c83f4a634c7413e727ec9d124b9ba",
+      "md5": "657ea834d1cbf4e724044ea32c84c4d7",
       "summation": "md5"
     },
     {
@@ -11235,9 +11246,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1087,
-  "item_last_updated": 1667232477,
-  "item_size": 88439662,
+  "files_count": 1088,
+  "item_last_updated": 1667233379,
+  "item_size": 88451056,
   "metadata": {
     "identifier": "wdrbnews-2022",
     "collection": [
@@ -11254,21 +11265,15 @@
     "publicdate": "2022-08-01 06:42:05",
     "addeddate": "2022-08-01 06:42:05"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457893242,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 209280153,
+  "server": "ia801407.us.archive.org",
+  "uniq": 658351539,
+  "wdrbnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

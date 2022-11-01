@@ -1,5 +1,10 @@
 {
-  "created": 1667232247,
+  "baltfishbowl-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261418,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/baltfishbowl-2022",
@@ -13141,21 +13146,32 @@
       "format": "JSON"
     },
     {
+      "name": "baltfishbowl-2022-10-31T12:02:50.452950-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltfishbowl-2022-10-31T12:02:50.452950-04:00.jpg",
+      "mtime": "1667233690",
+      "size": "10447",
+      "md5": "f75f102165088ac24da52163e64dcff2",
+      "crc32": "04806720",
+      "sha1": "2ff8d6e5897a54dd66f94b219910a04f70e32cf3"
+    },
+    {
       "name": "baltfishbowl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c759e23e76fc04fd3b1f075a0405c5b010a934ca",
-      "mtime": "1667232243",
-      "size": "273251",
-      "md5": "c9ee9e9306361157298a5278718b3ba7",
-      "crc32": "3b6b15f4",
-      "sha1": "d37b6c5e128ff386c0d71cea08091ee1c178ac0a",
+      "btih": "a8db076035a7e9fa9a045929f2300cfb28047692",
+      "mtime": "1667233710",
+      "size": "273460",
+      "md5": "ec9cd716e3913f79122cb5ded40b14cb",
+      "crc32": "323ef206",
+      "sha1": "1ac9a3eba8fa8753f8e5889c3373f91cd87eaffd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltfishbowl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "342646e3072fd89426b96d07f7152893",
+      "md5": "bb64fb9f46abf1a2c9357d9bf7147f17",
       "summation": "md5"
     },
     {
@@ -13179,9 +13195,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1273,
-  "item_last_updated": 1667232243,
-  "item_size": 82073624,
+  "files_count": 1274,
+  "item_last_updated": 1667233710,
+  "item_size": 82084280,
   "metadata": {
     "identifier": "baltfishbowl-2022",
     "collection": [
@@ -13198,21 +13214,10 @@
     "publicdate": "2022-07-13 02:24:39",
     "addeddate": "2022-07-13 02:24:39"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457889564,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 437725052,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1124496571,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

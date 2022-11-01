@@ -1,5 +1,5 @@
 {
-  "created": 1667265759,
+  "created": 1667263782,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/25/items/kvoa-2022",
@@ -13392,72 +13392,31 @@
       "sha1": "59e0ce99a58aa4489335f6bdf98152511ebcdb2f"
     },
     {
-      "name": "kvoa-2022-10-31T18:21:19.006514-07:00.accessibility.json",
-      "source": "original",
-      "mtime": "1667265687",
-      "size": "36704",
-      "md5": "8415574cb0cabf21e4223d061f15aa46",
-      "crc32": "9521fa0c",
-      "sha1": "3c3f82e24ee48b95fd7c98018dcf77fc4400c377",
-      "format": "JSON"
-    },
-    {
-      "name": "kvoa-2022-10-31T18:21:19.006514-07:00.hyperlinks.json",
-      "source": "original",
-      "mtime": "1667265689",
-      "size": "63643",
-      "md5": "b24cbe80c98b64bdb3fa01ce2a5eb97b",
-      "crc32": "2d853708",
-      "sha1": "9cad6357cec6f67a7a2e19e3236ad609798f4f78",
-      "format": "JSON"
-    },
-    {
-      "name": "kvoa-2022-10-31T18:21:19.006514-07:00.jpg",
-      "source": "original",
-      "mtime": "1667265680",
-      "size": "273227",
-      "md5": "8cf251162bd03a8751377c9215f678ec",
-      "crc32": "0dff1a10",
-      "sha1": "15ea354da6a9cd2395a95605fb20f1efc4cb7521",
-      "format": "JPEG",
-      "rotation": "0"
-    },
-    {
-      "name": "kvoa-2022-10-31T18:21:19.006514-07:00.wayback.json",
-      "source": "original",
-      "mtime": "1667265691",
-      "size": "202",
-      "md5": "07e452389e857b7334503102fdd2cebf",
-      "crc32": "55525c66",
-      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
-      "format": "JSON"
-    },
-    {
       "name": "kvoa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1397d90c192ef001c1cd52e884e8615d25dbbaf8",
-      "mtime": "1667265752",
-      "size": "269222",
-      "md5": "1114b146daf4d0459e9cc9a26c38c783",
-      "crc32": "57f6bda1",
-      "sha1": "3d4b50f8826193c8cdb1a565bacee7485e048d0e",
+      "btih": "514a48047ff86f72ab5d1e511a89a22f15dbdfed",
+      "mtime": "1667222027",
+      "size": "268387",
+      "md5": "1a66e326b32277493d5c1e52e71af8f4",
+      "crc32": "b3ac925e",
+      "sha1": "114674269afc1b07ce2a9c9a223291e51678731f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvoa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f38aefff3fcc62ac0f27671e8f1b8e8e",
+      "md5": "c5b75f6ac9878907a59be2b4c279caf4",
       "summation": "md5"
     },
     {
       "name": "kvoa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667265698",
-      "size": "1609728",
-      "md5": "8f80cc546d3eaacefb4933ed2c142686",
-      "crc32": "d141bb92",
-      "sha1": "129d193f36fa0c314159d894810fde76b087a7b8",
+      "mtime": "1667221835",
+      "size": "1605632",
+      "md5": "ffd39f2997211d868188736aaa2cd6dd",
+      "crc32": "d3c3caa4",
+      "sha1": "e4f357151948761ad16b7bee6e4663bae2aaf66d",
       "format": "Metadata"
     },
     {
@@ -13471,9 +13430,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1299,
-  "item_last_updated": 1667265752,
-  "item_size": 108053620,
+  "files_count": 1295,
+  "item_last_updated": 1667222027,
+  "item_size": 107674913,
+  "kvoa-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kvoa-2022",
     "collection": [
@@ -13490,21 +13454,10 @@
     "publicdate": "2022-07-04 21:55:29",
     "addeddate": "2022-07-04 21:55:29"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458321177,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1384984539,
+  "uniq": 212661010,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

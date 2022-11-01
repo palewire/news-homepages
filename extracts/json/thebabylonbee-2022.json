@@ -1,5 +1,5 @@
 {
-  "created": 1667228505,
+  "created": 1667267288,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/9/items/thebabylonbee-2022",
@@ -9843,21 +9843,32 @@
       "format": "JSON"
     },
     {
+      "name": "thebabylonbee-2022-10-31T10:59:56.143766-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebabylonbee-2022-10-31T10:59:56.143766-04:00.jpg",
+      "mtime": "1667230793",
+      "size": "10175",
+      "md5": "729e4fe8ab63036ec9c7c3efb227934d",
+      "crc32": "24fdbc06",
+      "sha1": "a9502778a697e4237f0cf47345c65b321a43b05f"
+    },
+    {
       "name": "thebabylonbee-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f2e7e63b25a65ab5c27141166bdf8de1d6407cb",
-      "mtime": "1667228497",
-      "size": "205729",
-      "md5": "452754092d7851bbf8be6a2c51b624e8",
-      "crc32": "4dd8ed8e",
-      "sha1": "0b603be0df5b5539df6fd04e2cc7a27be98a5620",
+      "btih": "3ee2007e9dd6cf623b76bee1d71932b801099493",
+      "mtime": "1667230803",
+      "size": "205939",
+      "md5": "382968e6795766292b95189df3cda94e",
+      "crc32": "cf2e1bc2",
+      "sha1": "271ffd43163434888acc7cf7ae062491b838e9d4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebabylonbee-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "67d695619dc6ad39e07e7ca174c518dc",
+      "md5": "f045d2fbacb598323f6562d4f9922fa5",
       "summation": "md5"
     },
     {
@@ -9881,9 +9892,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 953,
-  "item_last_updated": 1667228497,
-  "item_size": 73479582,
+  "files_count": 954,
+  "item_last_updated": 1667230803,
+  "item_size": 73489967,
   "metadata": {
     "identifier": "thebabylonbee-2022",
     "collection": [
@@ -9900,21 +9911,15 @@
     "publicdate": "2022-08-05 14:11:17",
     "addeddate": "2022-08-05 14:11:17"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457850752,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 116830068,
+  "server": "ia801407.us.archive.org",
+  "thebabylonbee-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 829038834,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

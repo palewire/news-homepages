@@ -1,5 +1,5 @@
 {
-  "created": 1667228339,
+  "created": 1667266870,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/26/items/spotlightpa-2022",
@@ -13377,21 +13377,32 @@
       "format": "JSON"
     },
     {
+      "name": "spotlightpa-2022-10-31T10:57:19.567558-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "spotlightpa-2022-10-31T10:57:19.567558-04:00.jpg",
+      "mtime": "1667230129",
+      "size": "10747",
+      "md5": "7e9238457d3d721e04a705bcd5616b33",
+      "crc32": "7d7bfb3a",
+      "sha1": "48362271e6cc0cbf1d25e9765934cd21870f3a9d"
+    },
+    {
       "name": "spotlightpa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fac87b31b02d1b22e34e5218edf6cb89b2ea2945",
-      "mtime": "1667228324",
-      "size": "276693",
-      "md5": "d1073faf12c6197a69e4b959414643ad",
-      "crc32": "233679ea",
-      "sha1": "3c32e3c9a1103c2475e0bb3b3b852bba83c55f86",
+      "btih": "857be525d801d11acf1b90e0aaccee08e621e6d2",
+      "mtime": "1667230224",
+      "size": "276901",
+      "md5": "80075d78b9665c7db212adce64bfd38b",
+      "crc32": "af631a6e",
+      "sha1": "c22de7a805d68690da4b7e11c0a956f672d77578",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spotlightpa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4e65ea1a63389bcf9d613e10dfb5af28",
+      "md5": "b882f7dd3a473823c5f39127d0ae8763",
       "summation": "md5"
     },
     {
@@ -13415,9 +13426,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1295,
-  "item_last_updated": 1667228324,
-  "item_size": 83979203,
+  "files_count": 1296,
+  "item_last_updated": 1667230224,
+  "item_size": 83990158,
   "metadata": {
     "identifier": "spotlightpa-2022",
     "collection": [
@@ -13434,21 +13445,15 @@
     "publicdate": "2022-07-09 04:04:28",
     "addeddate": "2022-07-09 04:04:28"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457848447,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 532881457,
+  "spotlightpa-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 644557830,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

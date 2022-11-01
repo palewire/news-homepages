@@ -1,5 +1,5 @@
 {
-  "created": 1667257084,
+  "created": 1667257806,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/bulwarkonline-2022",
@@ -18661,21 +18661,32 @@
       "format": "JSON"
     },
     {
+      "name": "bulwarkonline-2022-10-31T18:56:40.861730-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bulwarkonline-2022-10-31T18:56:40.861730-04:00.jpg",
+      "mtime": "1667257699",
+      "size": "10505",
+      "md5": "4755999a9157cb87660a7245f035bd80",
+      "crc32": "8865cd9c",
+      "sha1": "20168d477c9df5f5fa756e76df350502bedb6125"
+    },
+    {
       "name": "bulwarkonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d06ab84e1a83a5085a36e2952224d8b083fc58e0",
-      "mtime": "1667257077",
-      "size": "388995",
-      "md5": "4c829f5d1ad7229b4e0f388f04c21ca7",
-      "crc32": "817939bb",
-      "sha1": "1ac7f09f5f65a934861433d41f27a2b0da4053d6",
+      "btih": "349bd659024f5e34e521bdbb1157c08f0c89233e",
+      "mtime": "1667257728",
+      "size": "389205",
+      "md5": "0e5633daf7f02dc5561aff070ff10ab5",
+      "crc32": "3023db5b",
+      "sha1": "2a2196c3529818ef9a1a1cad3230f711f4849417",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bulwarkonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "04ae7f90f8661711ff042ca88bbc6da0",
+      "md5": "1cab67bec957a69c251adbe56c03849b",
       "summation": "md5"
     },
     {
@@ -18699,9 +18710,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1807,
-  "item_last_updated": 1667257077,
-  "item_size": 106929604,
+  "files_count": 1808,
+  "item_last_updated": 1667257728,
+  "item_size": 106940319,
   "metadata": {
     "identifier": "bulwarkonline-2022",
     "collection": [
@@ -18718,21 +18729,10 @@
     "publicdate": "2022-07-17 15:03:06",
     "addeddate": "2022-07-17 15:03:06"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458214765,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 17066703,
+  "uniq": 1262983726,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667228467,
+  "created": 1667267606,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/20/items/thejaxtrib-2022",
@@ -8149,21 +8149,32 @@
       "format": "JSON"
     },
     {
+      "name": "thejaxtrib-2022-10-31T10:59:58.558365-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thejaxtrib-2022-10-31T10:59:58.558365-04:00.jpg",
+      "mtime": "1667230189",
+      "size": "10769",
+      "md5": "a4b2ddd7d30f6cb6b60242fc20587b13",
+      "crc32": "2025034f",
+      "sha1": "f0685011460a5705eaf754821c0623a38e336956"
+    },
+    {
       "name": "thejaxtrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59f2dbdb1e036ac7480a408d658a4d7ebc29353f",
-      "mtime": "1667228461",
-      "size": "168207",
-      "md5": "41720499115b56ab660137d59bf09690",
-      "crc32": "30188d24",
-      "sha1": "96044ecabd58a738ae294c47fc41a54558241de6",
+      "btih": "81fb8efc0232628a353633596082da4aa97e59f4",
+      "mtime": "1667230196",
+      "size": "168414",
+      "md5": "f23c8d9c0b8e44b81a81386ea36a878d",
+      "crc32": "1fbd89df",
+      "sha1": "ac2e0580937e3722b555671bb18578027f22c13c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thejaxtrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ec6b80fc132ffa33691e7e7b59a9464c",
+      "md5": "25aecebb2114c98042980dcb463e7ec2",
       "summation": "md5"
     },
     {
@@ -8187,9 +8198,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 792,
-  "item_last_updated": 1667228461,
-  "item_size": 37204554,
+  "files_count": 793,
+  "item_last_updated": 1667230196,
+  "item_size": 37215530,
   "metadata": {
     "identifier": "thejaxtrib-2022",
     "collection": [
@@ -8206,21 +8217,15 @@
     "publicdate": "2022-08-26 13:03:02",
     "addeddate": "2022-08-26 13:03:02"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457850047,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1159627930,
+  "thejaxtrib-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 336437122,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

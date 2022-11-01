@@ -1,5 +1,6 @@
 {
-  "created": 1667259927,
+  "conflict": 1667261682,
+  "created": 1667261682,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/dailycaller-2022",
@@ -26303,6 +26304,12 @@
       "format": "JSON"
     },
     {
+      "name": "dailycaller-2022-10-31T19:43:06.404602-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycaller-2022-10-31T19:43:06.404602-04:00.jpg"
+    },
+    {
       "name": "dailycaller-2022_archive.torrent",
       "source": "metadata",
       "btih": "c7e23f136e1ef9ab150584cc68155d8e9afdaba7",
@@ -26341,7 +26348,7 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2534,
+  "files_count": 2535,
   "item_last_updated": 1667259910,
   "item_size": 201262401,
   "metadata": {
@@ -26368,12 +26375,12 @@
       "task_id": 3458248005,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 4192660,
+  "uniq": 913593734,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

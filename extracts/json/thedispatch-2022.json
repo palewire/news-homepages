@@ -1,6 +1,5 @@
 {
-  "conflict": 1667246846,
-  "created": 1667246846,
+  "created": 1667267449,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/14/items/thedispatch-2022",
@@ -16688,21 +16687,15 @@
     "publicdate": "2022-07-17 15:04:01",
     "addeddate": "2022-07-17 15:04:01"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458068390,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1167971921,
+  "server": "ia801505.us.archive.org",
+  "thedispatch-2022": {
+    "url": "https://thedispatch.com/",
+    "job_id": "spn2-d2e3b256be6f50af75b210e7576a0975e170a8b5",
+    "message": "The same snapshot had been made 25 minutes, 57 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "uniq": 1217801787,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

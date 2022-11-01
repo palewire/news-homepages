@@ -1,5 +1,10 @@
 {
-  "created": 1667256920,
+  "berkshireeagle-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667261483,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/18/items/berkshireeagle-2022",
@@ -11549,21 +11554,32 @@
       "format": "JSON"
     },
     {
+      "name": "berkshireeagle-2022-10-31T18:54:09.717880-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkshireeagle-2022-10-31T18:54:09.717880-04:00.jpg",
+      "mtime": "1667257706",
+      "size": "9188",
+      "md5": "fb56078fb7ea16a726800f101a4d28a3",
+      "crc32": "ebb228f6",
+      "sha1": "232248f8b56ebf4a6d1de66490d315f970eeaf77"
+    },
+    {
       "name": "berkshireeagle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f67f3a13efc16dc3f395715cca749dda899034e",
-      "mtime": "1667256917",
-      "size": "244416",
-      "md5": "2737b2be698851a56c19faed89dfedaa",
-      "crc32": "fd62ebd5",
-      "sha1": "f998f58cb9b87c9a16450035b064c52a1781286c",
+      "btih": "94db90dcbd3e08d7209b2c5ed51ffaae59e8b169",
+      "mtime": "1667257721",
+      "size": "244626",
+      "md5": "67c252d452bcbe729ead5f749e64011e",
+      "crc32": "3de69531",
+      "sha1": "a31d359fc7baef387869a55c6142bda04fe3cce2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkshireeagle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "29e2e19f986a4a0fc2bbb53dcba5db4d",
+      "md5": "724d2921718735b16f32374a2dbeaa7f",
       "summation": "md5"
     },
     {
@@ -11587,9 +11603,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1120,
-  "item_last_updated": 1667256917,
-  "item_size": 114257213,
+  "files_count": 1121,
+  "item_last_updated": 1667257721,
+  "item_size": 114266611,
   "metadata": {
     "identifier": "berkshireeagle-2022",
     "collection": [
@@ -11606,21 +11622,10 @@
     "publicdate": "2022-07-28 23:07:44",
     "addeddate": "2022-07-28 23:07:44"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212832,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 666457768,
+  "server": "ia802506.us.archive.org",
+  "uniq": 1455343522,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

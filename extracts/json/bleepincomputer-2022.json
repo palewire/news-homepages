@@ -1,5 +1,5 @@
 {
-  "created": 1667256907,
+  "created": 1667258348,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/15/items/bleepincomputer-2022",
@@ -12147,21 +12147,32 @@
       "format": "JSON"
     },
     {
+      "name": "bleepincomputer-2022-10-31T18:53:54.825445-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bleepincomputer-2022-10-31T18:53:54.825445-04:00.jpg",
+      "mtime": "1667257534",
+      "size": "10262",
+      "md5": "1aa7460ceb08a2fe0e9385466783df2c",
+      "crc32": "9d6841b7",
+      "sha1": "4bfa7b3efdccbd01da18645620e2667ca79268bf"
+    },
+    {
       "name": "bleepincomputer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ac1193e2feccdb130675afc791ea0f165763f459",
-      "mtime": "1667256901",
-      "size": "256721",
-      "md5": "44ff2d79572348d472b2d81a47e4b3ee",
-      "crc32": "5dd33b68",
-      "sha1": "c8c0b3aa0e36486ea5178f9c1bbca0ee365f0a73",
+      "btih": "565eb4a8a79272bba0b69641d63b0980ef73bdf6",
+      "mtime": "1667257717",
+      "size": "256933",
+      "md5": "0587ae8781884499d1e48c0de2df799b",
+      "crc32": "884ab1bb",
+      "sha1": "9dd13ec0d70723636a59d57ecabb1f3b1e3f93ff",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bleepincomputer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1bf1238f3e6d6e81eed713e9be17fb6",
+      "md5": "bdd178d0739012b2ddf43915ebb130ae",
       "summation": "md5"
     },
     {
@@ -12185,9 +12196,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1178,
-  "item_last_updated": 1667256901,
-  "item_size": 79397616,
+  "files_count": 1179,
+  "item_last_updated": 1667257717,
+  "item_size": 79408090,
   "metadata": {
     "identifier": "bleepincomputer-2022",
     "collection": [
@@ -12204,21 +12215,10 @@
     "publicdate": "2022-07-25 06:47:16",
     "addeddate": "2022-07-25 06:47:16"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212679,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1880207800,
+  "server": "ia801405.us.archive.org",
+  "uniq": 400116766,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

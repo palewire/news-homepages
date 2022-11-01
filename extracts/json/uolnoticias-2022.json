@@ -1,5 +1,5 @@
 {
-  "created": 1667228651,
+  "created": 1667268379,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/13/items/uolnoticias-2022",
@@ -16043,21 +16043,32 @@
       "format": "JSON"
     },
     {
+      "name": "uolnoticias-2022-10-31T12:02:39.092233-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "uolnoticias-2022-10-31T12:02:39.092233-03:00.jpg",
+      "mtime": "1667231394",
+      "size": "9191",
+      "md5": "de47280955abefca35c1dd5e6f666166",
+      "crc32": "5f02e541",
+      "sha1": "b76e70be5e3b7f80455e5c15294304e562f23397"
+    },
+    {
       "name": "uolnoticias-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ecbfec1594e0fecf0ac051ab3f6740419e77e7dd",
-      "mtime": "1667228644",
-      "size": "331645",
-      "md5": "54c96ca53466ae6b2bf11a1b2f8b2feb",
-      "crc32": "ecda2d2a",
-      "sha1": "5c5f542a7af0e77a831d3f965d2b4690a58084a5",
+      "btih": "a9daabd11af414bab5b735e7c60ae6ecd406134b",
+      "mtime": "1667231416",
+      "size": "331852",
+      "md5": "5e5c58c6190047b4d6e5b06bc2a5d7ac",
+      "crc32": "ebd25580",
+      "sha1": "c80074e97badf8de69ee13bded02bc9a80fbcc73",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uolnoticias-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1d55309ca59e17b46ba9ae79ad52e8cf",
+      "md5": "4e3dc4ac6236616d45574af0ed47f6e9",
       "summation": "md5"
     },
     {
@@ -16081,9 +16092,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1556,
-  "item_last_updated": 1667228644,
-  "item_size": 83491793,
+  "files_count": 1557,
+  "item_last_updated": 1667231416,
+  "item_size": 83501191,
   "metadata": {
     "identifier": "uolnoticias-2022",
     "collection": [
@@ -16100,21 +16111,15 @@
     "publicdate": "2022-08-03 02:00:23",
     "addeddate": "2022-08-03 02:00:23"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457853091,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1654789141,
+  "server": "ia801509.us.archive.org",
+  "uniq": 441334041,
+  "uolnoticias-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

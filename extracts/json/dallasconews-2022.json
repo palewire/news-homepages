@@ -1,5 +1,5 @@
 {
-  "created": 1667259848,
+  "created": 1667261296,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/dallasconews-2022",
@@ -6297,21 +6297,32 @@
       "format": "JSON"
     },
     {
+      "name": "dallasconews-2022-10-31T18:43:07.436558-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasconews-2022-10-31T18:43:07.436558-05:00.jpg",
+      "mtime": "1667261203",
+      "size": "8865",
+      "md5": "b53ab171c217c3913433e524ab01774e",
+      "crc32": "61826f51",
+      "sha1": "8640b426a38f36a68f73691ebb5f498fc15030b4"
+    },
+    {
       "name": "dallasconews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "46c68d9f10ed12dc756348dcae7a2e1c79814f46",
-      "mtime": "1667259844",
-      "size": "131894",
-      "md5": "409016e16da692cb4acf826bf179cdbd",
-      "crc32": "bc93ad52",
-      "sha1": "775fcd889650d53bfe76b1a8f17b1fbb66279a12",
+      "btih": "b1aa22cb932dda4d2a15db78c25e145f42ad7dc6",
+      "mtime": "1667261211",
+      "size": "132102",
+      "md5": "abd86da66934f8365d33b539e9d394ef",
+      "crc32": "e0c51f59",
+      "sha1": "ab7cfad76ee1f446224ffb89a7e64a44095310b4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasconews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f030c993b8aa5aba219c2b067fefc947",
+      "md5": "0c35f70838403389aaa9cda252355a1b",
       "summation": "md5"
     },
     {
@@ -6335,9 +6346,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 613,
-  "item_last_updated": 1667259844,
-  "item_size": 39155672,
+  "files_count": 614,
+  "item_last_updated": 1667261211,
+  "item_size": 39164745,
   "metadata": {
     "identifier": "dallasconews-2022",
     "collection": [
@@ -6354,21 +6365,10 @@
     "publicdate": "2022-09-20 22:14:50",
     "addeddate": "2022-09-20 22:14:50"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458247116,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1363784642,
+  "server": "ia801503.us.archive.org",
+  "uniq": 35008846,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

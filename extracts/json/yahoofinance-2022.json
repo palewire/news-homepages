@@ -1,5 +1,5 @@
 {
-  "created": 1667232426,
+  "created": 1667269079,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/14/items/yahoofinance-2022",
@@ -8479,21 +8479,32 @@
       "format": "JSON"
     },
     {
+      "name": "yahoofinance-2022-10-31T12:05:57.645505-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yahoofinance-2022-10-31T12:05:57.645505-04:00.jpg",
+      "mtime": "1667233151",
+      "size": "9215",
+      "md5": "b6f6c95a64ef69d6a80527e19139086e",
+      "crc32": "15d87e5b",
+      "sha1": "9983598b4860fcc8d014affdc968056b21a25319"
+    },
+    {
       "name": "yahoofinance-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2fef50fd04c60d9e25fefa43fe7cedb99b193ff7",
-      "mtime": "1667232420",
-      "size": "177265",
-      "md5": "80fa97c796d35dbf6af93e731d3644b4",
-      "crc32": "f5cc06df",
-      "sha1": "43563c50daa1e476c9ad56f09726faa39ee11927",
+      "btih": "78c2e198031a1a4f7fd14aef2c5cd9b3677390c8",
+      "mtime": "1667233222",
+      "size": "177473",
+      "md5": "c2f11b2afcc3678a02b66e15d4941cab",
+      "crc32": "e7d8fec6",
+      "sha1": "f9e7f800d3250e72036609c14c23cb1321d9879c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yahoofinance-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ba0a3832a3af01eee6839a3a92a4b6d5",
+      "md5": "97be417dd47c3130fcb4b987e3e61d41",
       "summation": "md5"
     },
     {
@@ -8517,9 +8528,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 824,
-  "item_last_updated": 1667232420,
-  "item_size": 57873705,
+  "files_count": 825,
+  "item_last_updated": 1667233222,
+  "item_size": 57883128,
   "metadata": {
     "identifier": "yahoofinance-2022",
     "collection": [
@@ -8536,21 +8547,15 @@
     "publicdate": "2022-08-23 14:05:03",
     "addeddate": "2022-08-23 14:05:03"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3457892491,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2106567875,
+  "uniq": 2052205158,
   "workable_servers": [
-    "ia601401.us.archive.org"
-  ]
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
+  ],
+  "yahoofinance-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667256896,
+  "created": 1667257777,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/2/items/austinchronicle-2022",
@@ -12763,21 +12763,32 @@
       "format": "JSON"
     },
     {
+      "name": "austinchronicle-2022-10-31T17:53:33.761775-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinchronicle-2022-10-31T17:53:33.761775-05:00.jpg",
+      "mtime": "1667257374",
+      "size": "10669",
+      "md5": "23ca7fffde3ccd176f27be31b26dfa3d",
+      "crc32": "5bbca347",
+      "sha1": "217be597fe804188c387f360cce4deacb20d9074"
+    },
+    {
       "name": "austinchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ea69dc46f32b798b6724f5a76b5271828a8775d9",
-      "mtime": "1667256892",
-      "size": "269810",
-      "md5": "121d7e529823c4dc1d016fa0236eb690",
-      "crc32": "57f40dc6",
-      "sha1": "020129bc66d903f7378732beff3aa6516bf407b2",
+      "btih": "b2640f8a52a38377359df5c90dc167bb2596f634",
+      "mtime": "1667257475",
+      "size": "270022",
+      "md5": "61cef359f810535a566013a400d14eb2",
+      "crc32": "49ddb898",
+      "sha1": "feee9fce5d420db4fe1a793f1298b77bc36741f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "austinchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eb9a3ef7bc4e8208b9e238232a3900a9",
+      "md5": "6c28ff63a09f5e8baa42449053d7b350",
       "summation": "md5"
     },
     {
@@ -12801,9 +12812,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1237,
-  "item_last_updated": 1667256892,
-  "item_size": 89465191,
+  "files_count": 1238,
+  "item_last_updated": 1667257475,
+  "item_size": 89476072,
   "metadata": {
     "identifier": "austinchronicle-2022",
     "collection": [
@@ -12820,21 +12831,10 @@
     "publicdate": "2022-07-18 00:04:18",
     "addeddate": "2022-07-18 00:04:18"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3458212552,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1238887266,
+  "server": "ia802505.us.archive.org",
+  "uniq": 617533359,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }
