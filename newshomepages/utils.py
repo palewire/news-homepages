@@ -585,6 +585,15 @@ def _get_common_blocking_javascript() -> str:
 def _execute_on_ready(
     js_code_to_execute: str, page: Page, add_return: bool = False
 ) -> typing.Union[int, float]:
+    """
+    Make sure we execute JS code only when the page is finished loading. Gracefully wait/repeat if it's not ready.
+
+    Args:
+        :param js_code_to_execute (str): The JS code we wish to execute.
+        :param page (Playwright Page object): The page to execute this code on.
+        :param add_return: Whether we expect a return value from the JS code, or not.
+        :return:
+    """
     if add_return:
         js_code_to_execute = "return " + js_code_to_execute
     js = """(function(){{
