@@ -582,6 +582,26 @@ def _get_common_blocking_javascript() -> str:
      """
 
 
+def _execute_on_ready(js_code_to_execute, page, add_return=False):
+    if add_return:
+        js_code_to_execute = "return " + js_code_to_execute
+    js = """(function(){{
+                if(document.readyState === 'ready' || document.readyState === 'complete') {{
+                    {js_code}
+                }} else {{
+                    return 'not ready'
+                    }}
+        }})()
+    """.format(
+        js_code=js_code_to_execute
+    )
+    res = page.evaluate(js)
+    while res == "not ready":
+        time.sleep(1)
+        res = page.evaluate(js)
+    return res
+
+
 def _load_new_page_disable_javascript(
     context: BrowserContext,
     url: str,
@@ -610,42 +630,56 @@ def _load_new_page_disable_javascript(
     if custom_javascript:
         print("Executing custom JavaScript")
         page.evaluate(custom_javascript)
-        print("Waiting another 5 seconds..")
-        time.sleep(5)
 
     # Hide the scrollbars
     print("Hiding scrollbars with CSS")
-    css = """window.addEventListener('load', function () {
-          document.body.style.overflow = 'hidden';
-    })"""
-
-    page.evaluate(css)
+    _execute_on_ready("document.body.style.overflow = 'hidden';", page)
 
     # If we're saving full-page content, we need to scroll to the bottom to make sure all the images get fetched.
     if full_page:
         print("scrolling to bottom")
-        scroll_height = page.evaluate("document.body.scrollHeight")
+        scroll_height = _execute_on_ready(
+            "document.body.scrollHeight", page, add_return=True
+        )
         current_pos = 0
         current_iter = 0
         max_iterations = 200
         amount_to_scroll = 200
         while (current_pos < scroll_height) or (current_iter > max_iterations):
             current_pos += amount_to_scroll
-            page.evaluate(f"scroll(0, {current_pos})")
+            _execute_on_ready(f"scroll(0, {current_pos})", page)
             time.sleep(1)
-            scroll_height = page.evaluate("document.body.scrollHeight")
+            scroll_height = _execute_on_ready(
+                "document.body.scrollHeight", page, add_return=True
+            )
             current_iter += 1
 
     # Prevent Playwright from hovering over a link and highlighting it
     print("Preventing mouse hovers")
-    css = """
-    const style = document.createElement("style");
-    style.innerHTML = "a:hover, a:focus { color: initial; text-decoration: initial; }";
-    document.head.appendChild(style);
-    """
-    page.evaluate(css)
+    _execute_on_ready(
+        """
+        const style = document.createElement("style");
+        style.innerHTML = "a:hover, a:focus { color: initial; text-decoration: initial; }";
+        document.head.appendChild(style);
+    """,
+        page,
+    )
 
     # Give it another beat
     print(f"Waiting {wait_seconds} seconds")
     time.sleep(wait_seconds)
     return page
+
+
+#
+# (function(){
+#                 if(document.readyState === 'ready' || document.readyState === 'complete') {
+#                   return document.body.scrollHeight
+#                 } else {
+#                   document.onreadystatechange = function () {
+#                     if (document.readyState == "complete") {
+#                       return document.body.scrollHeight
+#                     }
+#                   }
+#                 }
+#         })()
