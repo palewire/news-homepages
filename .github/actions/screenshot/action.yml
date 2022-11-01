@@ -5,6 +5,10 @@ inputs:
   source:
     description: “The site handle to screenshot”
     required: true
+  options:
+    description: “Options on the screenshot command”
+    required: false
+    default: ""
 
 runs:
   using: "composite"
@@ -27,7 +31,7 @@ runs:
 
     - id: shoot
       name: Take screenshot
-      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot ${{ inputs.source }} -o _dist
+      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot ${{ inputs.source }} -o _dist ${{ inputs.options }}
       shell: bash
       env:
         DEBUG: 'pw:api'
