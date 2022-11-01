@@ -1,5 +1,5 @@
 {
-  "created": 1667261722,
+  "created": 1667304255,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/28/items/gainesvillesun-2022",
@@ -12470,31 +12470,82 @@
       "sha1": "f1cb4151961ad9d7cc1d17c95d464e49ce61ac09"
     },
     {
+      "name": "gainesvillesun-2022-11-01T08:03:09.315266-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667304197",
+      "size": "22641",
+      "md5": "6ab059805a954d141e05b0e0d409269f",
+      "crc32": "3bab860c",
+      "sha1": "d325333e4c137f67c827945d03f5d8a073de6d7c",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-11-01T08:03:09.315266-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667304198",
+      "size": "29984",
+      "md5": "b4a12bd514a1a75ceca76d8751cc73b1",
+      "crc32": "9bb7e295",
+      "sha1": "9c81acd1999bf4a3672fa6a52eb6579482d44079",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-11-01T08:03:09.315266-04:00.jpg",
+      "source": "original",
+      "mtime": "1667304195",
+      "size": "269318",
+      "md5": "f156f1a5136dbd71c90174b07953257b",
+      "crc32": "8ea8f35e",
+      "sha1": "9d49b2f821acf3c915f075b7e83738f3622a9b04",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gainesvillesun-2022-11-01T08:03:09.315266-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667304200",
+      "size": "1504",
+      "md5": "681a50dd351c4858e501bba8b1526895",
+      "crc32": "1adba3fb",
+      "sha1": "18c27a9633ea1481ed856d8ae915bccf913fc264",
+      "format": "JSON"
+    },
+    {
+      "name": "gainesvillesun-2022-11-01T08:03:09.315266-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667304201",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "gainesvillesun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c23261c3010d2683bf3d8ebfee2fb53702f101a7",
-      "mtime": "1667261654",
-      "size": "262169",
-      "md5": "c082fedf0c8862f89f3c76333ccf8824",
-      "crc32": "09c352b1",
-      "sha1": "e9313ca0f81b4aee8d8af73e77aed7c5d4009cab",
+      "btih": "195e84e424f0aabdf476f013683bbc6ffa2f8f11",
+      "mtime": "1667304249",
+      "size": "263240",
+      "md5": "9ee5f13f53710b53c251307e63d78385",
+      "crc32": "7fcde221",
+      "sha1": "72f7a1e3047ef7ebc39319630f7f98d785f03c4e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gainesvillesun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7aeafff215b03dba15a9342d4b9387c7",
+      "md5": "aa56cc74918bd61e98d8f8926117343d",
       "summation": "md5"
     },
     {
       "name": "gainesvillesun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667260106",
-      "size": "1548288",
-      "md5": "075f081b25d87dd67c7913df3d3d64ce",
-      "crc32": "144719bc",
-      "sha1": "b23e41082c0be3146a41bd417e81326a642db0cd",
+      "mtime": "1667304204",
+      "size": "1552384",
+      "md5": "fd629b0e8578fae2fe60b49f932fb767",
+      "crc32": "aae49cd5",
+      "sha1": "0d79b74ac007628064f26fdc581152433f3017a1",
       "format": "Metadata"
     },
     {
@@ -12508,9 +12559,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1209,
-  "item_last_updated": 1667261654,
-  "item_size": 82122729,
+  "files_count": 1214,
+  "item_last_updated": 1667304249,
+  "item_size": 82451545,
   "metadata": {
     "identifier": "gainesvillesun-2022",
     "collection": [
@@ -12527,10 +12578,21 @@
     "publicdate": "2022-07-21 02:23:50",
     "addeddate": "2022-07-21 02:23:50"
   },
+  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "uniq": 354180394,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458727913,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 992030437,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia601509.us.archive.org"
   ]
 }

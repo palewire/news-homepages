@@ -1,5 +1,6 @@
 {
-  "created": 1667261380,
+  "conflict": 1667304619,
+  "created": 1667304619,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/chieftainnews-2022",
@@ -5204,31 +5205,93 @@
       "sha1": "a9cb1be02d1d86aa4808a1bc77a0eb8a6288d13f"
     },
     {
+      "name": "chieftainnews-2022-11-01T05:57:46.803334-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667303878",
+      "size": "23595",
+      "md5": "d8fe202cc7c654b4e2453ed2e89be8a8",
+      "crc32": "d025cf59",
+      "sha1": "5d13ab7140c9f5411b2f90a3063de65a5b9cbb80",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-11-01T05:57:46.803334-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667303880",
+      "size": "17188",
+      "md5": "a161457caedac288ef5c505ce89805c9",
+      "crc32": "0d55649e",
+      "sha1": "49ab0fbdc7a78cf58b41e553a571e10bc3c82a35",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-11-01T05:57:46.803334-06:00.jpg",
+      "source": "original",
+      "mtime": "1667303877",
+      "size": "245567",
+      "md5": "6dc4c4452eb4ccbccf533597b60235b4",
+      "crc32": "22f48aaa",
+      "sha1": "df88f1a34a373c7b83da4815a0ececf96634cc8b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chieftainnews-2022-11-01T05:57:46.803334-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667303882",
+      "size": "1486",
+      "md5": "e676a7bfcd04649dff5f6e3f14964191",
+      "crc32": "2e4f2f77",
+      "sha1": "956a0f92fac641d6356995cdb02cfc01f68f810e",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-11-01T05:57:46.803334-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667303883",
+      "size": "103747",
+      "md5": "205eb6f475b11502a6fb63356860a318",
+      "crc32": "3d99f621",
+      "sha1": "95dba6916c80024df2b3115cfb7aa97e904ff382",
+      "format": "JSON"
+    },
+    {
+      "name": "chieftainnews-2022-11-01T05:57:46.803334-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chieftainnews-2022-11-01T05:57:46.803334-06:00.jpg",
+      "mtime": "1667304609",
+      "size": "9130",
+      "md5": "ba194b96598200ee697288989a1bc664",
+      "crc32": "19c2ec69",
+      "sha1": "7b1113c706cbbf3bd89d0ca9d638e7b444d4129a"
+    },
+    {
       "name": "chieftainnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "00b428555bf25ae6ec16c609a6bb594d6995ad6c",
-      "mtime": "1667261304",
-      "size": "109871",
-      "md5": "d9ada8708d7556e9d3ae762333d10e10",
-      "crc32": "688c7285",
-      "sha1": "115b896cfb9899d93c8a4f0f60a8c2111e0f7739",
+      "btih": "4473406b37ca557c1a9921bf03e75efcdfafdb8f",
+      "mtime": "1667304617",
+      "size": "111169",
+      "md5": "65d55b4060402e034515ac22540d971d",
+      "crc32": "1f9fc745",
+      "sha1": "c628036a03c43a9d8c7e27e80de5ebaa15276b52",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chieftainnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6fe2b7ed7ee1428b88e194b090ce3963",
+      "md5": "f7d167a3428c1ecd6182b8a047a12952",
       "summation": "md5"
     },
     {
       "name": "chieftainnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667259845",
-      "size": "663552",
-      "md5": "fe73be0d58a0a2167de210d88df67183",
-      "crc32": "184f756e",
-      "sha1": "2de039e18a3f1bd1c71bbac8d5296d55b745ca24",
+      "mtime": "1667303887",
+      "size": "667648",
+      "md5": "b29ce5ecd1958582d22757a1e3a00525",
+      "crc32": "7649deb6",
+      "sha1": "2022a12bcf2a98e3118a087eedf1f6018cfc366f",
       "format": "Metadata"
     },
     {
@@ -5242,9 +5305,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 507,
-  "item_last_updated": 1667261304,
-  "item_size": 36109235,
+  "files_count": 513,
+  "item_last_updated": 1667304617,
+  "item_size": 36515342,
   "metadata": {
     "identifier": "chieftainnews-2022",
     "collection": [
@@ -5261,10 +5324,29 @@
     "publicdate": "2022-09-20 22:13:16",
     "addeddate": "2022-09-20 22:13:16"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 838532341,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458723281,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458732541,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 89593620,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

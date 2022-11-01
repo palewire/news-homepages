@@ -1,6 +1,5 @@
 {
-  "conflict": 1667261682,
-  "created": 1667261682,
+  "created": 1667304137,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/9/items/dailycaller-2022",
@@ -26307,34 +26306,90 @@
       "name": "dailycaller-2022-10-31T19:43:06.404602-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "dailycaller-2022-10-31T19:43:06.404602-04:00.jpg"
+      "original": "dailycaller-2022-10-31T19:43:06.404602-04:00.jpg",
+      "mtime": "1667261363",
+      "size": "10006",
+      "md5": "b8abcbf2de284f71d94698b53f79d4c9",
+      "crc32": "e0752173",
+      "sha1": "6e13c276203c549be76d4e0e363a8057d9f83824"
+    },
+    {
+      "name": "dailycaller-2022-11-01T07:59:19.280092-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667303996",
+      "size": "34175",
+      "md5": "653e200c48400c19dd35b1b66b9b17dc",
+      "crc32": "40fc5c7c",
+      "sha1": "f6d1b9c9341796f413080dcb2e8ca7365508a204",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycaller-2022-11-01T07:59:19.280092-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667303998",
+      "size": "31471",
+      "md5": "321db94ad36f22ae87462b2bd508e860",
+      "crc32": "153e5bab",
+      "sha1": "be61bb4e3c2201b8381565e2a77be22db00f7205",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycaller-2022-11-01T07:59:19.280092-04:00.jpg",
+      "source": "original",
+      "mtime": "1667303994",
+      "size": "277014",
+      "md5": "8270ee21d51699f0bbcf9aeb9017bb13",
+      "crc32": "edde66e1",
+      "sha1": "10b93ee6e019c9614d24f853cd97f248f10f3fc3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycaller-2022-11-01T07:59:19.280092-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667303999",
+      "size": "1468",
+      "md5": "85fa13a2b68c4bbe30de467968e3ec55",
+      "crc32": "77bd4d3c",
+      "sha1": "316e028cd9aea097693bea05c8de12827a9994b7",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycaller-2022-11-01T07:59:19.280092-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667304001",
+      "size": "157967",
+      "md5": "aa0dc7264bf8680c40bfe2c532904310",
+      "crc32": "182658e6",
+      "sha1": "32343487289faea7edc740581ac443b57d4e7fa1",
+      "format": "JSON"
     },
     {
       "name": "dailycaller-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c7e23f136e1ef9ab150584cc68155d8e9afdaba7",
-      "mtime": "1667259910",
-      "size": "542374",
-      "md5": "eb8d610bea1c15735cb6e6d7aeb82da9",
-      "crc32": "2d9c31cb",
-      "sha1": "a65971cfae3bc4cf0dfb6b09413bb9061f5dacfb",
+      "btih": "bc9fffdb4a3fcda3d13059d09eb5f87d8cafc6c8",
+      "mtime": "1667304122",
+      "size": "543661",
+      "md5": "fb02e879537a0384f4612d00e1021ae8",
+      "crc32": "ec09d2ff",
+      "sha1": "22f7a758f0a2cd0ff61f38d5724f9ec483211b27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycaller-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "054e82a35550cba7bf095f6486c8f8ab",
+      "md5": "5a7f530fdcb14987e9f6a58f9468ed0d",
       "summation": "md5"
     },
     {
       "name": "dailycaller-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667259808",
-      "size": "3121152",
-      "md5": "706c0f4367223204111ff44befb08574",
-      "crc32": "34d447c5",
-      "sha1": "85ec339261562933d1089e2a541e3a10a79bee1b",
+      "mtime": "1667304011",
+      "size": "3129344",
+      "md5": "561d932120ac1a40dc8610c09a8768a3",
+      "crc32": "a5d23f57",
+      "sha1": "01feb3e9e33a6ca77bc221a768647ff55a8b01e4",
       "format": "Metadata"
     },
     {
@@ -26348,9 +26403,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2535,
-  "item_last_updated": 1667259910,
-  "item_size": 201262401,
+  "files_count": 2540,
+  "item_last_updated": 1667304122,
+  "item_size": 201783981,
   "metadata": {
     "identifier": "dailycaller-2022",
     "collection": [
@@ -26372,7 +26427,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3458248005,
+      "task_id": 3458726334,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -26380,7 +26435,7 @@
       "status": "running"
     }
   ],
-  "uniq": 913593734,
+  "uniq": 338330243,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]
