@@ -158,7 +158,7 @@ jobs:
     name: Publish
     runs-on: ubuntu-latest
     timeout-minutes: 60
-    needs: [archive]
+    needs: [jpg]
     steps:
       - id: checkout
         name: Checkout
