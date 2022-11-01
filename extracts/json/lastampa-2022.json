@@ -1,5 +1,5 @@
 {
-  "created": 1667221365,
+  "created": 1667265755,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/27/items/lastampa-2022",
@@ -10278,31 +10278,82 @@
       "sha1": "166a83e81e98da704b5cfe7d456f2ffd5fe7d950"
     },
     {
+      "name": "lastampa-2022-11-01T02:21:16.214564+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667265680",
+      "size": "71610",
+      "md5": "d3ef9219873a6f864ea76d7c72dcaf0a",
+      "crc32": "6235fe34",
+      "sha1": "529522443cbf09bd743d54a275df53c3ce87272e",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-11-01T02:21:16.214564+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667265681",
+      "size": "132777",
+      "md5": "a87b684dffcab84bee9fc6399ecad9af",
+      "crc32": "4edaaaf1",
+      "sha1": "d5800e38ddc0b1641cfb5a0841bb61f2bfca8fce",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-11-01T02:21:16.214564+01:00.jpg",
+      "source": "original",
+      "mtime": "1667265678",
+      "size": "181312",
+      "md5": "2a4773b1b6c8f092e76317876efe5065",
+      "crc32": "ceffef63",
+      "sha1": "21dceb1a074fea431ccebdc816b9879e33558f66",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lastampa-2022-11-01T02:21:16.214564+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667265684",
+      "size": "1467",
+      "md5": "452c2e2d07189b78e12439526200a7b2",
+      "crc32": "1599ada9",
+      "sha1": "a65802aba278aaf1bc6608c9f44cd2b0c5e5987b",
+      "format": "JSON"
+    },
+    {
+      "name": "lastampa-2022-11-01T02:21:16.214564+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667265685",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lastampa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "831c867f051a8d9c77f217bef5bbee69b3cd74c0",
-      "mtime": "1667221321",
-      "size": "211182",
-      "md5": "6efa1d7bb781b8aeb8a7ba56b02b77fa",
-      "crc32": "a7a109ec",
-      "sha1": "d32750fd1780e3c84a17e99159bda3ee5ef195fe",
+      "btih": "eb09282d721aa94e632c01d6e73949c86ee467cd",
+      "mtime": "1667265749",
+      "size": "212244",
+      "md5": "0a8514a8e4b74e8b6d60b70cd8db93b0",
+      "crc32": "dde0b284",
+      "sha1": "4e624a3df99c8587ac67abcf7fc174d04c993470",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lastampa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ce07266135d3a4a296373132caf82033",
+      "md5": "408e1c628c9f950882957615eeb490af",
       "summation": "md5"
     },
     {
       "name": "lastampa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667220820",
-      "size": "1273856",
-      "md5": "469d3767b0e319b3f2b0ab8652357253",
-      "crc32": "8a55e3df",
-      "sha1": "fc2905167e7a6133e75bc4855ad9cd372b4d427c",
+      "mtime": "1667265700",
+      "size": "1282048",
+      "md5": "7524575c756feb7a0d05dca6f5e5b8c6",
+      "crc32": "a53c2d78",
+      "sha1": "23e9573f50894a5670843e2149ab899800556b63",
       "format": "Metadata"
     },
     {
@@ -10316,9 +10367,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 998,
-  "item_last_updated": 1667221321,
-  "item_size": 82881945,
+  "files_count": 1003,
+  "item_last_updated": 1667265749,
+  "item_size": 83278567,
   "metadata": {
     "identifier": "lastampa-2022",
     "collection": [
@@ -10335,10 +10386,21 @@
     "publicdate": "2022-08-11 00:51:00",
     "addeddate": "2022-08-11 00:51:00"
   },
+  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "uniq": 922010092,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458321128,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1342925340,
   "workable_servers": [
-    "ia902504.us.archive.org",
-    "ia802504.us.archive.org"
+    "ia902504.us.archive.org"
   ]
 }

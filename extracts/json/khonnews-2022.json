@@ -1,5 +1,5 @@
 {
-  "created": 1667221095,
+  "created": 1667265735,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/8/items/khonnews-2022",
@@ -5948,31 +5948,72 @@
       "sha1": "a8696f87e1c5446fa3d9df8ec676c32c4f005c3b"
     },
     {
+      "name": "khonnews-2022-10-31T15:21:20.259246-10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667265683",
+      "size": "57300",
+      "md5": "0136128fa5edbfce3a95ff0656b5f495",
+      "crc32": "ab59cdf4",
+      "sha1": "4fb1824d003954c3db6608dde7b50eed03b582e8",
+      "format": "JSON"
+    },
+    {
+      "name": "khonnews-2022-10-31T15:21:20.259246-10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667265685",
+      "size": "100746",
+      "md5": "ad5a9bdbec10319e3ace66310e12e56a",
+      "crc32": "70dfa640",
+      "sha1": "fabc98e1381377cff93ef47f33a7e5818049e379",
+      "format": "JSON"
+    },
+    {
+      "name": "khonnews-2022-10-31T15:21:20.259246-10:00.jpg",
+      "source": "original",
+      "mtime": "1667265681",
+      "size": "36392",
+      "md5": "8985f375882d06722513ee0f39238369",
+      "crc32": "e645b81f",
+      "sha1": "3436e8e2a5784a955763721e3632daff1e49034d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "khonnews-2022-10-31T15:21:20.259246-10:00.wayback.json",
+      "source": "original",
+      "mtime": "1667265687",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "khonnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5542b52af45a7e35a11c2f18ecbe7be2eeac0b98",
-      "mtime": "1667221022",
-      "size": "122761",
-      "md5": "550674ab96950df71e4538cc112ba30e",
-      "crc32": "8953214a",
-      "sha1": "40212a6ae079090fda327a4b1cf7b439fc2712e3",
+      "btih": "f8b9ee896eb7a50fcdc01ba574870aca286f0960",
+      "mtime": "1667265732",
+      "size": "123592",
+      "md5": "b6313d7eb4ac9e27fdf131a85f5713d5",
+      "crc32": "6bc67321",
+      "sha1": "3afe00a08d6463b74deabcd4e556e7e4b6ea353d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "khonnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7832d2fb5b313e50e518fb1409a04caf",
+      "md5": "4ea75e52c9fd0a6ffcb35411d676cf04",
       "summation": "md5"
     },
     {
       "name": "khonnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667220760",
-      "size": "745472",
-      "md5": "9d7b16029a5cd86008cb294f8bb9897e",
-      "crc32": "32c8480c",
-      "sha1": "fa485e998ab4aa6328d83d7fafde84dae0374551",
+      "mtime": "1667265693",
+      "size": "753664",
+      "md5": "880fee76c48abb9781ffd0a8c04a29f6",
+      "crc32": "44302f5c",
+      "sha1": "b913ea3ab62fe6fdcd3eeb78718ed2d474c075c5",
       "format": "Metadata"
     },
     {
@@ -5986,9 +6027,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 579,
-  "item_last_updated": 1667221022,
-  "item_size": 47991399,
+  "files_count": 583,
+  "item_last_updated": 1667265732,
+  "item_size": 48195062,
   "metadata": {
     "identifier": "khonnews-2022",
     "collection": [
@@ -6005,10 +6046,21 @@
     "publicdate": "2022-09-14 12:04:03",
     "addeddate": "2022-09-14 12:04:03"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1563773298,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458320903,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1290452746,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

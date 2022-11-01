@@ -1,6 +1,5 @@
 {
-  "conflict": 1667221444,
-  "created": 1667221444,
+  "created": 1667266278,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/8/items/king5seattle-2022",
@@ -13827,34 +13826,90 @@
       "name": "king5seattle-2022-10-31T05:52:23.504485-07:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "king5seattle-2022-10-31T05:52:23.504485-07:00.jpg"
+      "original": "king5seattle-2022-10-31T05:52:23.504485-07:00.jpg",
+      "mtime": "1667221442",
+      "size": "9305",
+      "md5": "154e373f973f95e108ac8fb30fc70e4e",
+      "crc32": "470944c3",
+      "sha1": "1e56596f60d71dbef9fb4fec28f6a31ca89ebb6f"
+    },
+    {
+      "name": "king5seattle-2022-10-31T18:21:21.013336-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667265684",
+      "size": "6205",
+      "md5": "5b577049d3f64dd9a34f287e265cca37",
+      "crc32": "22f87202",
+      "sha1": "824bd23744cf9455995542f90f03abde29764ab8",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-10-31T18:21:21.013336-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667265685",
+      "size": "111728",
+      "md5": "8f58b55cdde38429f3cbde1b67d91d00",
+      "crc32": "50325e1f",
+      "sha1": "e639994732f24055c96a32dc236f9f4357db9e63",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-10-31T18:21:21.013336-07:00.jpg",
+      "source": "original",
+      "mtime": "1667265682",
+      "size": "245393",
+      "md5": "fbe6ad678796649bd931a6624fc2cd54",
+      "crc32": "85ea166f",
+      "sha1": "f9d0ca0b5de782e10a34b55a0fe93a2ab6e3dab5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "king5seattle-2022-10-31T18:21:21.013336-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667265687",
+      "size": "1450",
+      "md5": "34726e037e9914a7455d9a9283ce0414",
+      "crc32": "608358fa",
+      "sha1": "d04936271d365b9e9516e80ed73e66948a791ac1",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-10-31T18:21:21.013336-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667265690",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
     },
     {
       "name": "king5seattle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e4b7a20eecb08573ca3f67c816b69f90767fc8d",
-      "mtime": "1667220826",
-      "size": "287110",
-      "md5": "ab5d3b9f33cbf73218a5ac0eaab6e7ad",
-      "crc32": "97ace404",
-      "sha1": "5d01ea8e0318dd15b3fac9a808225407a117abc7",
+      "btih": "16bfd56b42172a3b5daef58f35ce658a82d68e70",
+      "mtime": "1667265748",
+      "size": "288399",
+      "md5": "14da3354dcd575a62c786956a9d56bc8",
+      "crc32": "597fa90d",
+      "sha1": "80ada2041359fb06e2fd153b19950f8aafc381ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "king5seattle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7ea37fa400d38ac2c397ed7cebca7c8b",
+      "md5": "75713e50570095827fb6ab12dadcb9d1",
       "summation": "md5"
     },
     {
       "name": "king5seattle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667220777",
-      "size": "1687552",
-      "md5": "363da0db7668d13f4d4784f9de7ee3e8",
-      "crc32": "cc001cb0",
-      "sha1": "23df72823775047f9689d4ee3594f0cf9dfb88c1",
+      "mtime": "1667265695",
+      "size": "1695744",
+      "md5": "f83a78c834f116aac6952ae6564aeee4",
+      "crc32": "f981467d",
+      "sha1": "a08c2ebde7c81a1fddb3801d5f87fe789e432ab8",
       "format": "Metadata"
     },
     {
@@ -13868,9 +13923,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1339,
-  "item_last_updated": 1667220826,
-  "item_size": 90697109,
+  "files_count": 1344,
+  "item_last_updated": 1667265748,
+  "item_size": 91080873,
+  "king5seattle-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "king5seattle-2022",
     "collection": [
@@ -13892,15 +13952,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3457782127,
+      "task_id": 3458321080,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 960971346,
+  "uniq": 1351467214,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
