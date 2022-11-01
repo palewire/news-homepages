@@ -1,5 +1,5 @@
 {
-  "created": 1667244898,
+  "created": 1667294366,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/presscitizen-2022",
@@ -22132,31 +22132,93 @@
       "sha1": "9d9618e2967183210ae41510cdfa872f0626a3f6"
     },
     {
+      "name": "presscitizen-2022-11-01T03:53:29.502072-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667292822",
+      "size": "18934",
+      "md5": "7e9400f9a6c5585a520112a10e340aab",
+      "crc32": "a7eab067",
+      "sha1": "85149a32610af0872314a4a5d306ec892a94b998",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-11-01T03:53:29.502072-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667292824",
+      "size": "46678",
+      "md5": "d69042ac71baccd24d969f4d8dd381a6",
+      "crc32": "b7c83aa8",
+      "sha1": "111df6e5f2ea31cffe2b4c8c1d8bc3b749c4f3b6",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-11-01T03:53:29.502072-05:00.jpg",
+      "source": "original",
+      "mtime": "1667292820",
+      "size": "264652",
+      "md5": "3371694718c886382a10bd3b6e8cc926",
+      "crc32": "fa4ffaed",
+      "sha1": "d07003807ead777d4cde1edb33563a807e63f772",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "presscitizen-2022-11-01T03:53:29.502072-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667292826",
+      "size": "1521",
+      "md5": "032c73630ff5f76cf8e0150ac5154db5",
+      "crc32": "69f3c8e9",
+      "sha1": "93add6f0db11bac20c70009005fbcd5ae47ea793",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-11-01T03:53:29.502072-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667292827",
+      "size": "210",
+      "md5": "bff12eab29c0835365854f7b24c43f2a",
+      "crc32": "9d52b572",
+      "sha1": "5a19b2208603f3718485ad86b89f08e65a899432",
+      "format": "JSON"
+    },
+    {
+      "name": "presscitizen-2022-11-01T03:53:29.502072-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "presscitizen-2022-11-01T03:53:29.502072-05:00.jpg",
+      "mtime": "1667293044",
+      "size": "9451",
+      "md5": "d2121baba015e4cc3b52269a02a24bed",
+      "crc32": "5f2507da",
+      "sha1": "abf249a35ebf2ad55f27be3618c2b7528ff0e22e"
+    },
+    {
       "name": "presscitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "06c6bffa4fd130e3275714d11c488c1cded3f7f9",
-      "mtime": "1667244853",
-      "size": "457608",
-      "md5": "fd9ba65507e92863349b15846fe55778",
-      "crc32": "e94923a8",
-      "sha1": "73f01a1760a9740d9b0867985858cc5ec67478b9",
+      "btih": "a292533bfaaf1e5a38be083be5f87f192819dfcc",
+      "mtime": "1667293080",
+      "size": "458897",
+      "md5": "7bf5f38b1845416cfb0ed1bce95239a8",
+      "crc32": "d3722583",
+      "sha1": "139d4ffb0801d5db2ff324549bbc5390f0678689",
       "format": "Archive BitTorrent"
     },
     {
       "name": "presscitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "198db53151731228a1e31aa9643133b7",
+      "md5": "6afa5402c3f218fcd13daca32e0833ea",
       "summation": "md5"
     },
     {
       "name": "presscitizen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667244202",
-      "size": "2625536",
-      "md5": "00f1471062835736a808f01f4eb11839",
-      "crc32": "a13094de",
-      "sha1": "7d68d551809dce3acf48c30f809ffb113c42a5f9",
+      "mtime": "1667292835",
+      "size": "2633728",
+      "md5": "5653325ec1543f81196d7f6098aeedaf",
+      "crc32": "8a499a16",
+      "sha1": "c41312835224c40862bedd3351fa3c6dcc506619",
       "format": "Metadata"
     },
     {
@@ -22170,9 +22232,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2132,
-  "item_last_updated": 1667244853,
-  "item_size": 155621774,
+  "files_count": 2138,
+  "item_last_updated": 1667293080,
+  "item_size": 155972701,
   "metadata": {
     "identifier": "presscitizen-2022",
     "collection": [
@@ -22189,8 +22251,16 @@
     "publicdate": "2022-03-25 03:35:38",
     "addeddate": "2022-03-25 03:35:38"
   },
+  "presscitizen-2022": {
+    "url": "https://www.press-citizen.com/",
+    "job_id": "spn2-128d4758581f3a3fab6dd90215c4fe02d617cd31",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
   "server": "ia601509.us.archive.org",
-  "uniq": 143593948,
+  "uniq": 548312010,
   "workable_servers": [
     "ia601509.us.archive.org",
     "ia801509.us.archive.org"

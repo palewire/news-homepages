@@ -1,5 +1,6 @@
 {
-  "created": 1667266233,
+  "conflict": 1667293847,
+  "created": 1667293847,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/13/items/recordonline-2022",
@@ -5140,31 +5141,93 @@
       "sha1": "1dadc5d7cf1bc277ce7bf4000e446ef9c982caac"
     },
     {
+      "name": "recordonline-2022-11-01T04:56:55.802713-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667293027",
+      "size": "20954",
+      "md5": "17531c19be3284941a13e69bfdc206ea",
+      "crc32": "95605c11",
+      "sha1": "14b674df7e23a786747ca4ceb848061681dab2eb",
+      "format": "JSON"
+    },
+    {
+      "name": "recordonline-2022-11-01T04:56:55.802713-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667293029",
+      "size": "39519",
+      "md5": "e1eb1b7425931461b907f9444f93a13f",
+      "crc32": "7fc8feb2",
+      "sha1": "3455b340731f758741a81c09681c802fdcbde547",
+      "format": "JSON"
+    },
+    {
+      "name": "recordonline-2022-11-01T04:56:55.802713-04:00.jpg",
+      "source": "original",
+      "mtime": "1667293025",
+      "size": "297113",
+      "md5": "23d929c87a377edf1e770beddc56d8d7",
+      "crc32": "f29ec2c0",
+      "sha1": "3cd6ff520fa8ddaeb3fbebeccac43196fb0c10d9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "recordonline-2022-11-01T04:56:55.802713-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667293031",
+      "size": "1513",
+      "md5": "19c0fb7372a4b2157ea013887b872480",
+      "crc32": "3ba6bb40",
+      "sha1": "9d7e53d119a9c9d4b54edc628a7d258aa391cc19",
+      "format": "JSON"
+    },
+    {
+      "name": "recordonline-2022-11-01T04:56:55.802713-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667293033",
+      "size": "86279",
+      "md5": "d4feae3a5fd24a123874cd5fa1644500",
+      "crc32": "ee2d9508",
+      "sha1": "6e61f430428b705cea1c47108e68bf4b85b3f9ca",
+      "format": "JSON"
+    },
+    {
+      "name": "recordonline-2022-11-01T04:56:55.802713-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "recordonline-2022-11-01T04:56:55.802713-04:00.jpg",
+      "mtime": "1667293837",
+      "size": "9137",
+      "md5": "040ba0b929929c7219603043ef99c835",
+      "crc32": "4f8ea216",
+      "sha1": "295ad36d012fa1e6d759dc4c762fc3896d7eaba1"
+    },
+    {
       "name": "recordonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8ec8569d55bcea79432b4ba59faf7aba8bdf0edf",
-      "mtime": "1667244860",
-      "size": "107948",
-      "md5": "d9eac986ddd62e5bd8b4bd22b14ac76f",
-      "crc32": "5ca78c6c",
-      "sha1": "d5472d15c41b386721f7adc08532748324deb96b",
+      "btih": "f139855da53fbdc57455939fafc310bc23c890cc",
+      "mtime": "1667293845",
+      "size": "109239",
+      "md5": "acb57c76e183bd70b845ba8f88f715ba",
+      "crc32": "168b127e",
+      "sha1": "1c871d2a4afa33f4cc8071abc03d0b6094a3d34e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "recordonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e29f23ee23308de3beabea13a77a8333",
+      "md5": "0235e751fa0d511c9a5b71a395e9c715",
       "summation": "md5"
     },
     {
       "name": "recordonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667244253",
-      "size": "655360",
-      "md5": "070ed1bd1bdf33d89a41238c46f70e60",
-      "crc32": "153fa09a",
-      "sha1": "8203540c8b1cda6f51bb0b4122f50df44132bd0b",
+      "mtime": "1667293042",
+      "size": "663552",
+      "md5": "1fffd31c739d1a7a75648c2d9af1c653",
+      "crc32": "fdf059b7",
+      "sha1": "5616a8af0ed41fea4e0f954ae68bd3d61e37f4ab",
       "format": "Metadata"
     },
     {
@@ -5178,9 +5241,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 501,
-  "item_last_updated": 1667244860,
-  "item_size": 33026095,
+  "files_count": 507,
+  "item_last_updated": 1667293845,
+  "item_size": 33490093,
   "metadata": {
     "identifier": "recordonline-2022",
     "collection": [
@@ -5197,15 +5260,29 @@
     "publicdate": "2022-09-20 19:21:54",
     "addeddate": "2022-09-20 19:21:54"
   },
-  "recordonline-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 75540530,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458609803,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458622251,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 716674810,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

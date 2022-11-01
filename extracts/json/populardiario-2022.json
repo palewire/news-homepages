@@ -1,5 +1,5 @@
 {
-  "created": 1667265941,
+  "created": 1667293192,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/28/items/populardiario-2022",
@@ -10226,31 +10226,93 @@
       "sha1": "325c4021ab4e91ccbf1f8df4c98f6c686d998804"
     },
     {
+      "name": "populardiario-2022-11-01T05:54:01.777914-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667292854",
+      "size": "56363",
+      "md5": "d6ddd052ba9b39741161ed6798a20303",
+      "crc32": "7fe5c225",
+      "sha1": "f0b8fd850be5380ab16165f454e1b6eea04dc948",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-11-01T05:54:01.777914-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667292856",
+      "size": "93082",
+      "md5": "469df625f6014172fcf41d9c5028e16d",
+      "crc32": "d419edde",
+      "sha1": "12fa2f09734d0a418c686ee0e2016beb953022ec",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-11-01T05:54:01.777914-03:00.jpg",
+      "source": "original",
+      "mtime": "1667292852",
+      "size": "316946",
+      "md5": "9e48c17da1f2f36797a173d66c76bf72",
+      "crc32": "c82b70bd",
+      "sha1": "73e4b27aaa9d0fe39a7661e736e0e4ff072df274",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-11-01T05:54:01.777914-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667292857",
+      "size": "1549",
+      "md5": "ec42309c1176668b85c74fafdd8fe322",
+      "crc32": "bb789d8e",
+      "sha1": "4f183035865abd10ee1e32abeac0e4b72930062a",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-11-01T05:54:01.777914-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667292859",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-11-01T05:54:01.777914-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "populardiario-2022-11-01T05:54:01.777914-03:00.jpg",
+      "mtime": "1667293078",
+      "size": "10791",
+      "md5": "b0dec84bc30c3f626b68da8036574a6c",
+      "crc32": "3543d39d",
+      "sha1": "34a2429f4c28b4155f5df7dd2bddb2fdec2057a6"
+    },
+    {
       "name": "populardiario-2022_archive.torrent",
       "source": "metadata",
-      "btih": "42fa34811b25ac8db34b2dcbeb1f8bb7886face9",
-      "mtime": "1667244747",
-      "size": "215357",
-      "md5": "2812c757cc13db609f3d2ae633ed6891",
-      "crc32": "280e7cf5",
-      "sha1": "cf4bc0dc3b204fc95dbcca1f82fd53f8349efffd",
+      "btih": "fd606b3ac8911e4afa258bc9be08cc7a0a05d657",
+      "mtime": "1667293139",
+      "size": "216653",
+      "md5": "61b7001cdb2810cd5e714efa7cf7461f",
+      "crc32": "352dd237",
+      "sha1": "9b70d7aa6e43ae28438864bc3635ece378525826",
       "format": "Archive BitTorrent"
     },
     {
       "name": "populardiario-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dcd0b026170d40fe1b80de832e418d4c",
+      "md5": "ee23b263a5e722e3c97d51a340e9d8d4",
       "summation": "md5"
     },
     {
       "name": "populardiario-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667244209",
-      "size": "1277952",
-      "md5": "d04ece15fd60daaf77548b22482863ff",
-      "crc32": "a152916c",
-      "sha1": "8fe0d80d1d715794c1073575b2e07f18db46925c",
+      "mtime": "1667292863",
+      "size": "1286144",
+      "md5": "3b6d6a16646262b0f4092860fe4e832d",
+      "crc32": "b30f55d9",
+      "sha1": "150569ddaf45a7242ad7e42ca4a7f135f3851b37",
       "format": "Metadata"
     },
     {
@@ -10264,9 +10326,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 993,
-  "item_last_updated": 1667244747,
-  "item_size": 88002675,
+  "files_count": 999,
+  "item_last_updated": 1667293139,
+  "item_size": 88491096,
   "metadata": {
     "identifier": "populardiario-2022",
     "collection": [
@@ -10283,13 +10345,8 @@
     "publicdate": "2022-08-09 17:48:48",
     "addeddate": "2022-08-09 17:48:48"
   },
-  "populardiario-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia601403.us.archive.org",
-  "uniq": 904976384,
+  "uniq": 1441099756,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

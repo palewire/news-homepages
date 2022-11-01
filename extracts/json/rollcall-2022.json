@@ -1,5 +1,5 @@
 {
-  "created": 1667266386,
+  "created": 1667293115,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/rollcall-2022",
@@ -13358,31 +13358,82 @@
       "sha1": "9720788951cec1130d0d5c2bbb00d3def38c3766"
     },
     {
+      "name": "rollcall-2022-11-01T04:56:43.445672-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667293021",
+      "size": "37500",
+      "md5": "394a839b8a71f6b3a17c1898a95e06c0",
+      "crc32": "0a2b85fe",
+      "sha1": "b7d00cbbcdb0de6da24425138285e81e0d3401dc",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-11-01T04:56:43.445672-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667293023",
+      "size": "27410",
+      "md5": "09141fef0dc3bf33a0ed9ec35e05fa91",
+      "crc32": "d768fc07",
+      "sha1": "e050fd3b676b163c71de4bfb3995ba35fab30b66",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-11-01T04:56:43.445672-04:00.jpg",
+      "source": "original",
+      "mtime": "1667293019",
+      "size": "284965",
+      "md5": "6cf790787aeef7123db60dd294d87d56",
+      "crc32": "53029932",
+      "sha1": "6177ab4ae49f675d78700962c93657dcc1ee1467",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollcall-2022-11-01T04:56:43.445672-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667293024",
+      "size": "1441",
+      "md5": "e9f8dc1327f8fca54cad58ada37d0536",
+      "crc32": "6b8b5684",
+      "sha1": "e67bb2bd2f79a5aa85a7a79240479cf7d175d46c",
+      "format": "JSON"
+    },
+    {
+      "name": "rollcall-2022-11-01T04:56:43.445672-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667293026",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "rollcall-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e4089318b833bac7cc7cce3056b7ff7c74666ed",
-      "mtime": "1667247495",
-      "size": "272257",
-      "md5": "311926b0c1da965509c39fd3a7955702",
-      "crc32": "3b9d4214",
-      "sha1": "c6288d464cc933c2b3dadbdd70c7956be05d6d9e",
+      "btih": "766c15bf6cbf574d3983f5ffd4065890063a2307",
+      "mtime": "1667293106",
+      "size": "273298",
+      "md5": "9c95283d142e16acdcabf6cd1d725415",
+      "crc32": "b8016fbf",
+      "sha1": "a9613282f27e1fd82c9e30f51ea74b9ebeab10f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollcall-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4897341ef6eccf60a243c133f9eb7d73",
+      "md5": "f568104d29f04bccf4819938e6d2e884",
       "summation": "md5"
     },
     {
       "name": "rollcall-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667244303",
-      "size": "1613824",
-      "md5": "d4a51e40d60ceef04ea9cf51179a8173",
-      "crc32": "061930ce",
-      "sha1": "b8c4beb970bc18f9a4e9c381dbc2517bf734f802",
+      "mtime": "1667293041",
+      "size": "1617920",
+      "md5": "6f5df27439dea03372f37ecf4c76047e",
+      "crc32": "84119975",
+      "sha1": "854c8f5e234041d824cdc60ede7f7d49c3097f1a",
       "format": "Metadata"
     },
     {
@@ -13396,9 +13447,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1292,
-  "item_last_updated": 1667247495,
-  "item_size": 84685048,
+  "files_count": 1297,
+  "item_last_updated": 1667293106,
+  "item_size": 85041703,
   "metadata": {
     "identifier": "rollcall-2022",
     "collection": [
@@ -13415,15 +13466,21 @@
     "publicdate": "2022-07-04 21:52:31",
     "addeddate": "2022-07-04 21:52:31"
   },
-  "rollcall-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801407.us.archive.org",
-  "uniq": 1765065533,
+  "pending_tasks": true,
+  "server": "ia601407.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458609955,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1781802913,
   "workable_servers": [
-    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }
