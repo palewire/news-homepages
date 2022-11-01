@@ -1,5 +1,5 @@
 {
-  "created": 1667269133,
+  "created": 1667294244,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/zeitonline-2022",
@@ -11822,31 +11822,93 @@
       "sha1": "61da5495e86c40a2a724659968397c6e643e971b"
     },
     {
+      "name": "zeitonline-2022-11-01T10:08:04.256540+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667293691",
+      "size": "3963",
+      "md5": "c1317fbbdfa9839aba4b1d8ce0b9fec9",
+      "crc32": "e4bf5e33",
+      "sha1": "f6a2a4f207dc4626f4add01bb9398516a993f808",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-11-01T10:08:04.256540+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667293692",
+      "size": "1374",
+      "md5": "aff8ff9299df9917a208506e685d8df0",
+      "crc32": "2c897965",
+      "sha1": "e7c3d8b03d1834a65fa2f745c81397730ea500bf",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-11-01T10:08:04.256540+01:00.jpg",
+      "source": "original",
+      "mtime": "1667293689",
+      "size": "117323",
+      "md5": "9e107f62acb1027fe0a29386d41040fb",
+      "crc32": "067c3baa",
+      "sha1": "5fc48d1e954cc818bd0896044c977895242c8739",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zeitonline-2022-11-01T10:08:04.256540+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667293694",
+      "size": "1476",
+      "md5": "ea01089adf5a2cab2a2b60946990aeb3",
+      "crc32": "7e5f75c0",
+      "sha1": "532c3b4f7c0f62cc4affe96dc5f11104f1b17ead",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-11-01T10:08:04.256540+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667293696",
+      "size": "5156",
+      "md5": "81af76b3cb2db9a9a84f99420b457fb8",
+      "crc32": "b22ff0e5",
+      "sha1": "0b974519de645d9fe079d5288b0810bad48fad0e",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-11-01T10:08:04.256540+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zeitonline-2022-11-01T10:08:04.256540+01:00.jpg",
+      "mtime": "1667294062",
+      "size": "7299",
+      "md5": "351b7d500e186fa09ec883fa4fc53847",
+      "crc32": "84dc35e0",
+      "sha1": "61da5495e86c40a2a724659968397c6e643e971b"
+    },
+    {
       "name": "zeitonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9a8a8f1614ea9ee0f75f34b2c11bd836bd2fb9f1",
-      "mtime": "1667246721",
-      "size": "241728",
-      "md5": "201aed0802702dac034173f27e76f468",
-      "crc32": "957dae51",
-      "sha1": "ce0231366d7bae72a2a4f46780074f2f0c1cc4d6",
+      "btih": "4fe8d91d1848912ef876f69dc4dbaf3e42069e5b",
+      "mtime": "1667294081",
+      "size": "242984",
+      "md5": "580bf2fedd9af186a49893588dc9ce3a",
+      "crc32": "e3b1bbe3",
+      "sha1": "b994baedd7c16492416ec4936b7a19b41b98e3a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zeitonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6427bdd62a175142ec101e6c0f50295b",
+      "md5": "dd650347a0675b81e8c1438c829c00f0",
       "summation": "md5"
     },
     {
       "name": "zeitonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667246264",
-      "size": "1466368",
-      "md5": "d0e16afdefab40a0e13eac48ace740b9",
-      "crc32": "1238e9d0",
-      "sha1": "c36171aa3e9ca9ad5660e72c06256c3fe5fe8668",
+      "mtime": "1667293707",
+      "size": "1470464",
+      "md5": "eefa68cf30be97f84fa66989677bc2c0",
+      "crc32": "3fa2b491",
+      "sha1": "1f4e375a24c7529030b6e42decc1e18651c2a892",
       "format": "Metadata"
     },
     {
@@ -11860,9 +11922,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1147,
-  "item_last_updated": 1667246721,
-  "item_size": 27523303,
+  "files_count": 1153,
+  "item_last_updated": 1667294081,
+  "item_size": 27665246,
   "metadata": {
     "identifier": "zeitonline-2022",
     "collection": [
@@ -11879,26 +11941,10 @@
     "publicdate": "2022-07-26 04:02:52",
     "addeddate": "2022-07-26 04:02:52"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1126103134,
+  "server": "ia601408.us.archive.org",
+  "uniq": 1746100536,
   "workable_servers": [
-    "ia801408.us.archive.org",
-    "ia601408.us.archive.org"
-  ],
-  "zeitonline-2022": {
-    "url": "https://www.zeit.de/",
-    "job_id": "spn2-66ed2f0e3c0da5e221f25e2b8bb187fc21422a8f",
-    "original_url": "https://www.zeit.de/favicon.ico",
-    "http_status": 500,
-    "status": "success",
-    "counters": {
-      "embeds": 1,
-      "outlinks": 0
-    },
-    "resources": [
-      "https://www.zeit.de/favicon.ico"
-    ],
-    "duration_sec": 4.614,
-    "timestamp": "20221031191800"
-  }
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
+  ]
 }

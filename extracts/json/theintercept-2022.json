@@ -1,5 +1,6 @@
 {
-  "created": 1667247418,
+  "conflict": 1667294282,
+  "created": 1667294282,
   "d1": "ia904701.us.archive.org",
   "d2": "ia804701.us.archive.org",
   "dir": "/0/items/theintercept-2022",
@@ -21908,31 +21909,93 @@
       "sha1": "f96355610e84432212f6a7567ffed2cbe0daf3fd"
     },
     {
+      "name": "theintercept-2022-11-01T05:04:11.122699-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667293455",
+      "size": "5849",
+      "md5": "1706a1d9447aff83b67b8982a90ed833",
+      "crc32": "33f66813",
+      "sha1": "bf7041a37ad57d85058f677315eef4813edea47d",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-11-01T05:04:11.122699-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667293457",
+      "size": "6341",
+      "md5": "03856c7156eee2448c10c4f8551459af",
+      "crc32": "ebba9cc5",
+      "sha1": "8a8eed17a8e1d0e82262445c5fa9ae4288926d75",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-11-01T05:04:11.122699-04:00.jpg",
+      "source": "original",
+      "mtime": "1667293453",
+      "size": "235882",
+      "md5": "7c6e81c7368ef02af94810b8642fed48",
+      "crc32": "a7a3fdca",
+      "sha1": "4d05b8c5723b71627131af6590fc1404f35d8ace",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theintercept-2022-11-01T05:04:11.122699-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667293459",
+      "size": "1477",
+      "md5": "e1eca0c48bf451ee92dd756b4df69d23",
+      "crc32": "16677416",
+      "sha1": "a9f6231cfc64020642f6b1c52fe82a7ff9d04c96",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-11-01T05:04:11.122699-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667293460",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theintercept-2022-11-01T05:04:11.122699-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theintercept-2022-11-01T05:04:11.122699-04:00.jpg",
+      "mtime": "1667294025",
+      "size": "9967",
+      "md5": "68fc748a23b643a892b947596dbb8299",
+      "crc32": "913670fc",
+      "sha1": "5291065e1d6ecd9088535014dc44a3a69d159ed4"
+    },
+    {
       "name": "theintercept-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5ce211e7fd303ee818afeb7b463717b02b536b06",
-      "mtime": "1667247236",
-      "size": "452052",
-      "md5": "5217768cdc30984250f29b5898bb03b9",
-      "crc32": "86b91102",
-      "sha1": "369df08d688a044c381c55ec5572f28b66f4f9b8",
+      "btih": "f996ad388711cbcd10945597cb40aa2df77a3814",
+      "mtime": "1667294278",
+      "size": "453339",
+      "md5": "f31befc038e4aa2f6b0e57d6d9494bc6",
+      "crc32": "9eb75488",
+      "sha1": "6b6a0b0b7b942dc3ce6e99b2278de65631499f8c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theintercept-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9dc391e7333695fd16a676c16edbe938",
+      "md5": "7acb9f434c34bbd95fa8a11c761ce4eb",
       "summation": "md5"
     },
     {
       "name": "theintercept-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667246596",
-      "size": "2654208",
-      "md5": "abf24935b6685fc9acc54734304e66a3",
-      "crc32": "d8166b3e",
-      "sha1": "15ad7cba4961c352680bc671d087fd03606bfaf6",
+      "mtime": "1667293465",
+      "size": "2658304",
+      "md5": "7446f7e0a76d8a1f64ef731588fa5adc",
+      "crc32": "48d1ef53",
+      "sha1": "7ff4405426103a16d7952bbc9a8c5764acaeabc5",
       "format": "Metadata"
     },
     {
@@ -21946,9 +22009,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2116,
-  "item_last_updated": 1667247236,
-  "item_size": 113055868,
+  "files_count": 2122,
+  "item_last_updated": 1667294278,
+  "item_size": 113320969,
   "metadata": {
     "identifier": "theintercept-2022",
     "collection": [
@@ -21965,10 +22028,29 @@
     "publicdate": "2022-06-19 23:28:41",
     "addeddate": "2022-06-19 23:28:41"
   },
-  "server": "ia804701.us.archive.org",
-  "uniq": 573197658,
+  "pending_tasks": true,
+  "server": "ia904701.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458616755,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458627420,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 214591752,
   "workable_servers": [
-    "ia804701.us.archive.org",
     "ia904701.us.archive.org"
   ]
 }

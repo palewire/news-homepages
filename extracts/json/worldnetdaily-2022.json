@@ -1,5 +1,5 @@
 {
-  "created": 1667250619,
+  "created": 1667293984,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/13/items/worldnetdaily-2022",
@@ -18396,31 +18396,93 @@
       "sha1": "b0dcf35c06c44363f5183b5387914e336e8f79cf"
     },
     {
+      "name": "worldnetdaily-2022-11-01T05:08:13.961948-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667293697",
+      "size": "26055",
+      "md5": "17df6192570bfa10045d215b059ec773",
+      "crc32": "335fd8ff",
+      "sha1": "6ff8d70c2b1ff4cc3f50597a9ac41c716e50e7f4",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-11-01T05:08:13.961948-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667293699",
+      "size": "47401",
+      "md5": "6a70611ed9d0d53a158ea63d5297e01b",
+      "crc32": "eee38850",
+      "sha1": "0a140d1271e81e0178e90f9f6246d0f209ba21c5",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-11-01T05:08:13.961948-04:00.jpg",
+      "source": "original",
+      "mtime": "1667293695",
+      "size": "315142",
+      "md5": "47f6283534cb44ac77e5b564451a5151",
+      "crc32": "de838b26",
+      "sha1": "c7c4cf0e1e8376a424da7a5d82a26faa03a250a5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "worldnetdaily-2022-11-01T05:08:13.961948-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667293701",
+      "size": "1432",
+      "md5": "36afd80ecf830ff7a91b968934f48efa",
+      "crc32": "4ea372ef",
+      "sha1": "d3382c366da213cc78aeb1828c30b47b08fc4c84",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-11-01T05:08:13.961948-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667293702",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "worldnetdaily-2022-11-01T05:08:13.961948-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "worldnetdaily-2022-11-01T05:08:13.961948-04:00.jpg",
+      "mtime": "1667293941",
+      "size": "11653",
+      "md5": "b440beca151fb26f1503da2c0a40529e",
+      "crc32": "73c4c903",
+      "sha1": "e51760b272bae5647f6c0e2a64b0ec2f93203ec7"
+    },
+    {
       "name": "worldnetdaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "97fcf77884d8ffa980c78f68f98c1c7b0ca28ef7",
-      "mtime": "1667247522",
-      "size": "384952",
-      "md5": "e2a95d22f139ff6dadb451576767ae90",
-      "crc32": "ee9a1e6f",
-      "sha1": "755f2e8d6afd6e784ec1b9bee17316e2530deee3",
+      "btih": "fa4d31ae6db1416e1a43e82d66b39b8d53678644",
+      "mtime": "1667293966",
+      "size": "386248",
+      "md5": "ca2c57aab2f4bd61340b21dd39425d16",
+      "crc32": "ba046baf",
+      "sha1": "4d3b43a6a9266b427a9bbf29c699b1d0805b5945",
       "format": "Archive BitTorrent"
     },
     {
       "name": "worldnetdaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d84df3fd0380c5ae7defd2b366209c6c",
+      "md5": "b77c132bba6d0781e3d3ef929956d8d2",
       "summation": "md5"
     },
     {
       "name": "worldnetdaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667247151",
-      "size": "2256896",
-      "md5": "cb01c1e6615ecb476f131cd029aa97e3",
-      "crc32": "046f7a63",
-      "sha1": "6645e0eb31b65ddb87e4f75d6b9ed06094249194",
+      "mtime": "1667293711",
+      "size": "2269184",
+      "md5": "cb39bebd8167f1c3ee0a0be1ba8d13e8",
+      "crc32": "5f7647f2",
+      "sha1": "66c17861aaf635e956e10939d80e46f04d53d928",
       "format": "Metadata"
     },
     {
@@ -18434,9 +18496,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1781,
-  "item_last_updated": 1667247522,
-  "item_size": 138462865,
+  "files_count": 1787,
+  "item_last_updated": 1667293966,
+  "item_size": 138878334,
   "metadata": {
     "identifier": "worldnetdaily-2022",
     "collection": [
@@ -18453,10 +18515,10 @@
     "publicdate": "2022-07-17 15:04:09",
     "addeddate": "2022-07-17 15:04:09"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 931246801,
+  "server": "ia902500.us.archive.org",
+  "uniq": 1280292886,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

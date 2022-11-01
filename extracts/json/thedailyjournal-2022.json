@@ -1,5 +1,5 @@
 {
-  "created": 1667246486,
+  "created": 1667293707,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/6/items/thedailyjournal-2022",
@@ -5130,31 +5130,93 @@
       "sha1": "9aff7bcfadc371a9eaa994625c5eb2efb2848479"
     },
     {
+      "name": "thedailyjournal-2022-11-01T05:00:57.416742-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667293260",
+      "size": "22521",
+      "md5": "434d73e9687bfe0ab148c3fcb257b110",
+      "crc32": "802b7b4a",
+      "sha1": "4abdccf8756626e76eb9714b8984bc3d4370fc47",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-11-01T05:00:57.416742-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667293262",
+      "size": "56437",
+      "md5": "4d76459075c23ca04471a08269e171bb",
+      "crc32": "b31afa81",
+      "sha1": "4e26bda76cbb3ad41c4b61292e3a7b955aa608e0",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-11-01T05:00:57.416742-04:00.jpg",
+      "source": "original",
+      "mtime": "1667293259",
+      "size": "263498",
+      "md5": "35730305782e5a355777fb2bf4d8aff2",
+      "crc32": "f17c316e",
+      "sha1": "ac34fd9587bca564e24b05f5649d6488dbb241f8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyjournal-2022-11-01T05:00:57.416742-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667293264",
+      "size": "1540",
+      "md5": "7f2b271094a69d861399a033eeee5ab2",
+      "crc32": "bff047e6",
+      "sha1": "c6ea7bcba883ec77337c9173de72da8637e42358",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-11-01T05:00:57.416742-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667293266",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-11-01T05:00:57.416742-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyjournal-2022-11-01T05:00:57.416742-04:00.jpg",
+      "mtime": "1667293581",
+      "size": "9200",
+      "md5": "7f37110c5abe8199314c0c8356615548",
+      "crc32": "3ae3e871",
+      "sha1": "1e0021b1a7b47f1c31298b638d5ad3d16a4ad167"
+    },
+    {
       "name": "thedailyjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5e7db4edf2627f1d12102386ad4bc2968513eecf",
-      "mtime": "1667246138",
-      "size": "109265",
-      "md5": "73077f1bfed423ccb124e791ed8c8aa4",
-      "crc32": "a0ea32b9",
-      "sha1": "e565c61d202c8b73aa1cbdba80eb425de5dab7c7",
+      "btih": "12c282679deb37f8d9a16ac1be25e56d6a51bab1",
+      "mtime": "1667293670",
+      "size": "110552",
+      "md5": "5e9e6b115159561f0188dc09d16b8b60",
+      "crc32": "d1226ec9",
+      "sha1": "c281dbfbb80f72c6b2a550527236cb01ef1ebdcc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e0da90f72eadedccb0367ae3ae56f53d",
+      "md5": "a9d1df59d46edf43e076f6f1d526c48b",
       "summation": "md5"
     },
     {
       "name": "thedailyjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667245914",
-      "size": "655360",
-      "md5": "f3daf4719363cfcb7dd2895c7906de72",
-      "crc32": "ca85fb20",
-      "sha1": "57d0fce758b55c4a8360770aad58fe3352a5ea1c",
+      "mtime": "1667293270",
+      "size": "663552",
+      "md5": "e99343eb18f57029a192752ac1201c4e",
+      "crc32": "78ea82d0",
+      "sha1": "464d373263d4a589015980e25b2efe6f95bbf221",
       "format": "Metadata"
     },
     {
@@ -5168,9 +5230,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 500,
-  "item_last_updated": 1667246138,
-  "item_size": 33146239,
+  "files_count": 506,
+  "item_last_updated": 1667293670,
+  "item_size": 33509116,
   "metadata": {
     "identifier": "thedailyjournal-2022",
     "collection": [
@@ -5188,7 +5250,7 @@
     "addeddate": "2022-09-20 19:28:47"
   },
   "server": "ia801500.us.archive.org",
-  "uniq": 960391118,
+  "uniq": 1542292327,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

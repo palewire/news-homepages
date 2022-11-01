@@ -1,5 +1,5 @@
 {
-  "created": 1667246649,
+  "created": 1667293848,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/statesman-2022",
@@ -12580,31 +12580,93 @@
       "sha1": "e18b0acd58145d86776ce46f2c9fa74194990ac3"
     },
     {
+      "name": "statesman-2022-11-01T04:01:00.076922-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667293270",
+      "size": "22862",
+      "md5": "3bc7c07a68e6b001617adcb4a4e15e13",
+      "crc32": "a293c5c4",
+      "sha1": "70ed283bd6bcbeee91389ff17c8e9eaef943e610",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-11-01T04:01:00.076922-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667293272",
+      "size": "31102",
+      "md5": "77e616183ab415b4fb04e9c981e6e70d",
+      "crc32": "0c231607",
+      "sha1": "e44b219d8dbae3b0f8dd7ae28fe9117c9e4d97a9",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-11-01T04:01:00.076922-05:00.jpg",
+      "source": "original",
+      "mtime": "1667293268",
+      "size": "250570",
+      "md5": "14978da41581e09609469ea21d624728",
+      "crc32": "28b93929",
+      "sha1": "f3b56a542e798d62283146fc77fc67c107910b2d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statesman-2022-11-01T04:01:00.076922-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667293274",
+      "size": "1486",
+      "md5": "cb0138658385da789a4fae3972bfdd09",
+      "crc32": "554bef8f",
+      "sha1": "daf1e153b717240f4d21f76a523bfec95c72d3aa",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-11-01T04:01:00.076922-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667293276",
+      "size": "106032",
+      "md5": "c46bf94706e5f08cdcff851ea85cbf34",
+      "crc32": "7c7d3ace",
+      "sha1": "535a7c00102dbf0df560dba63889c4d2e873ab64",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-11-01T04:01:00.076922-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "statesman-2022-11-01T04:01:00.076922-05:00.jpg",
+      "mtime": "1667293734",
+      "size": "8909",
+      "md5": "4a6552d7ea19c312fa8a352d9ee1ad6d",
+      "crc32": "7aec4178",
+      "sha1": "0e0eaf3c55c127210cafdf0a83df2e32d3f92c90"
+    },
+    {
       "name": "statesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e5fc9ca30a6ff3382c2d6fb937d3bbe8ea840dc6",
-      "mtime": "1667246268",
-      "size": "258271",
-      "md5": "e6cbc1d95c62f72ac62299b8b4ea33d1",
-      "crc32": "d086ab96",
-      "sha1": "fdd5a677e4a04317aa9543c0df05a0d245b26b9b",
+      "btih": "40d7dde7ea2559f3a101dfb1b7a7ef4d1c62e7d5",
+      "mtime": "1667293783",
+      "size": "259545",
+      "md5": "3c640434246ceea107b8ebd76cde2369",
+      "crc32": "810ef837",
+      "sha1": "5328fc1b32eb2c14ec43fc5e73e65e936d9b4790",
       "format": "Archive BitTorrent"
     },
     {
       "name": "statesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "282d45134fb0427b33b6180632006fde",
+      "md5": "826b373e80afa6cd5e4193e7c504ab73",
       "summation": "md5"
     },
     {
       "name": "statesman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667245752",
-      "size": "1544192",
-      "md5": "70a9514a64960ab478747ded9b24e80f",
-      "crc32": "73ba2dcc",
-      "sha1": "84ee6cf3e39fd8f303f6de6ba4ae28ce97437d2f",
+      "mtime": "1667293280",
+      "size": "1552384",
+      "md5": "c4465b06fa71258d06b638791073a627",
+      "crc32": "ae34dad7",
+      "sha1": "91fa6f8f42a41574ac7fe4cb22f855f925d80641",
       "format": "Metadata"
     },
     {
@@ -12618,9 +12680,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1219,
-  "item_last_updated": 1667246268,
-  "item_size": 83399012,
+  "files_count": 1225,
+  "item_last_updated": 1667293783,
+  "item_size": 83829439,
   "metadata": {
     "identifier": "statesman-2022",
     "collection": [
@@ -12638,7 +12700,7 @@
     "addeddate": "2022-07-18 00:05:33"
   },
   "server": "ia902502.us.archive.org",
-  "uniq": 1582689836,
+  "uniq": 1190174123,
   "workable_servers": [
     "ia902502.us.archive.org",
     "ia802502.us.archive.org"

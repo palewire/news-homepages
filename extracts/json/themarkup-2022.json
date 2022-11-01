@@ -1,5 +1,5 @@
 {
-  "created": 1667267652,
+  "created": 1667294079,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/33/items/themarkup-2022",
@@ -16028,31 +16028,93 @@
       "sha1": "8093596a258e9e4730d65ce8428e49e9be9bd346"
     },
     {
+      "name": "themarkup-2022-11-01T05:04:05.812176-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667293459",
+      "size": "7119",
+      "md5": "e61e165a91491f65f2736f965f621278",
+      "crc32": "cc41f758",
+      "sha1": "99dfd7db17ccf51a270a653349195d6974ad6ace",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-11-01T05:04:05.812176-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667293461",
+      "size": "9671",
+      "md5": "3aba547b61dab3128e4b135e0dc02467",
+      "crc32": "4265ade3",
+      "sha1": "109fca53b7af5b6e2824c064b929657a009998ce",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-11-01T05:04:05.812176-04:00.jpg",
+      "source": "original",
+      "mtime": "1667293457",
+      "size": "242844",
+      "md5": "c49922b9e48c1ea192b474068f61bf15",
+      "crc32": "cb2d6bd6",
+      "sha1": "0aee5c8eb8d45a063d9d1847db8cdb816003b0a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "themarkup-2022-11-01T05:04:05.812176-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667293463",
+      "size": "1441",
+      "md5": "2d02cd624a49277958979b81f0083691",
+      "crc32": "547bf8b3",
+      "sha1": "054c69e546271ad653f6e4f3946fa77d842e0028",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-11-01T05:04:05.812176-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667293465",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "themarkup-2022-11-01T05:04:05.812176-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "themarkup-2022-11-01T05:04:05.812176-04:00.jpg",
+      "mtime": "1667293969",
+      "size": "9404",
+      "md5": "80fba45544b984e89e1b840acc7fe4e3",
+      "crc32": "97bd2627",
+      "sha1": "8093596a258e9e4730d65ce8428e49e9be9bd346"
+    },
+    {
       "name": "themarkup-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b0260f9a907052be651aeaaaa4c2c5cffcf077d",
-      "mtime": "1667246162",
-      "size": "325942",
-      "md5": "2347d2a2d08374d538be0f4dfb5df45a",
-      "crc32": "a135929b",
-      "sha1": "596af80351770f260507727bd84f2b0afa82f938",
+      "btih": "96b9295ee7964727ea97c8cfa2fee40dc30ea872",
+      "mtime": "1667293988",
+      "size": "327211",
+      "md5": "58f59b27d1eacd1600ebaa330378f2ac",
+      "crc32": "a9dc7a85",
+      "sha1": "072ab66d0c987c78f14a93217130f774a55e6828",
       "format": "Archive BitTorrent"
     },
     {
       "name": "themarkup-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "df6b8284acb2781d410d0ecb8c05a4f1",
+      "md5": "618fda2241010e74778c0fe8c2a6c978",
       "summation": "md5"
     },
     {
       "name": "themarkup-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667245897",
-      "size": "1925120",
-      "md5": "df93bc1c5e54c41ea80d1c2f861abad0",
-      "crc32": "edc01a5d",
-      "sha1": "a5bd646d1d73de7c5d622dba6f43a0845dabf239",
+      "mtime": "1667293469",
+      "size": "1929216",
+      "md5": "869ccc43ac696070b604275c2070eb86",
+      "crc32": "c6c35ad4",
+      "sha1": "8bafb7a0ee5f74e64aac996a49005a724d5d07ec",
       "format": "Metadata"
     },
     {
@@ -16066,9 +16128,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1548,
-  "item_last_updated": 1667246162,
-  "item_size": 81432844,
+  "files_count": 1554,
+  "item_last_updated": 1667293988,
+  "item_size": 81708890,
   "metadata": {
     "identifier": "themarkup-2022",
     "collection": [
@@ -16085,84 +16147,10 @@
     "publicdate": "2022-06-19 23:29:00",
     "addeddate": "2022-06-19 23:29:00"
   },
-  "server": "ia601401.us.archive.org",
-  "themarkup-2022": {
-    "url": "https://themarkup.org/",
-    "job_id": "spn2-900ef7828f2a62c166cd09556b6b5192b59d8a9d",
-    "resources": [
-      "https://themarkup.org/",
-      "https://mrkp-static-production.themarkup.org/static/dist/main.28a298cc.css",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/05/3200x1800_hello-world-reduced-841x473.jpg",
-      "https://mrkp-static-production.themarkup.org/static/dist/main.0e42aa98.js",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/10/smol-links-final-image_reduced-360x203.jpg",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/10/isp_main-360x203.jpg",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/10/GettyImages-1242145426_reduced-360x203.jpg",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/05/data-is-plural-3200x1800-final-360x203.png",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/10/recipe-card-blue-final_size_reduced-360x203.jpg",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/10/isp_syw-360x203.jpg",
-      "https://mrkp-static-production.themarkup.org/uploads/2022/10/adweek-art-3200x1800_reduced-360x203.jpg",
-      "https://mrkp-static-production.themarkup.org/static/fonts/Messina/MessinaSansWeb-Regular.woff",
-      "https://mrkp-static-production.themarkup.org/static/fonts/Messina/MessinaSansWeb-Bold.woff",
-      "https://mrkp-static-production.themarkup.org/static/fonts/Ivar/IvarDisplay-Bold.woff2",
-      "https://mrkp-static-production.themarkup.org/static/img/social-icons/favicon.png"
-    ],
-    "timestamp": "20221031191353",
-    "http_status": 200,
-    "outlinks": [
-      "https://themarkup.org/data-is-plural/2022/10/19/carbon-pricing-unicef-community-moderated-tweets-u-k-museums-and-cattle-brands",
-      "https://themarkup.org/donate",
-      "https://themarkup.org/2020/02/25/editor-letter-julia-angwin",
-      "https://themarkup.org/privacy",
-      "https://themarkup.org/announcements",
-      "https://www.facebook.com/teammarkup/",
-      "https://themarkup.org/still-loading/2022/10/19/dollars-to-megabits-you-may-be-paying-400-times-as-much-as-your-neighbor-for-internet-service",
-      "https://themarkup.org/inside-the-markup/2022/10/25/the-markup-receives-honors-from-adweek-and-the-national-edward-r-murrow-awards",
-      "https://themarkup.org/donors",
-      "https://www.twitter.com/themarkup/",
-      "https://themarkup.org/2020/02/25/president-letter-nabiha-syed",
-      "https://www.instagram.com/the.markup/",
-      "https://themarkup.org/newsletter",
-      "https://themarkup.org/series/machine-learning",
-      "https://themarkup.org/series/pixel-hunt/",
-      "https://themarkup.org/series/google-the-giant",
-      "https://themarkup.org/team",
-      "https://boards.greenhouse.io/themarkup",
-      "https://themarkup.org/series/citizen-browser",
-      "https://themarkup.org/events/",
-      "https://themarkup.org/series/amazons-advantage",
-      "https://themarkup.org/series/denied",
-      "https://themarkup.org/show-your-work/2022/10/19/how-we-uncovered-disparities-in-internet-deals",
-      "https://themarkup.org/series/locked-out",
-      "https://www.hcaptcha.com/accessibility",
-      "https://themarkup.org/data-is-plural/2022/10/26/from-strategic-petroleum-to-gargantuan-gourds",
-      "https://themarkup.org/series/working-for-an-algorithm",
-      "https://themarkup.org/board-of-directors",
-      "https://themarkup.org/about",
-      "https://themarkup.org/newsletter/hello-world/when-you-pay-for-the-product-but-still-are-the-product",
-      "https://themarkup.org/feeds/rss.xml",
-      "https://themarkup.org/terms",
-      "https://themarkup.org/series/prediction-bias",
-      "https://themarkup.org/series/show-your-work",
-      "https://themarkup.org/archive",
-      "https://themarkup.org/pixel-hunt/2022/10/20/senator-questions-zuckerberg-about-facebooks-collection-of-sensitive-health-information",
-      "https://themarkup.org/story-recipes/2022/10/19/journalists-investigate-which-neighborhoods-in-your-city-are-offered-the-worst-internet-deals",
-      "https://themarkup.org/levelup/2022/10/27/introducing-smol-links-shorten-urls-without-tracking",
-      "https://themarkup.org/ethics",
-      "https://themarkup.org/series/blacklight",
-      "https://themarkup.org/tips"
-    ],
-    "status": "success",
-    "counters": {
-      "outlinks": 47,
-      "embeds": 15
-    },
-    "original_url": "https://themarkup.org/",
-    "duration_sec": 7.394,
-    "screenshot": "http://web.archive.org/screenshot/https://themarkup.org/"
-  },
-  "uniq": 283001539,
+  "server": "ia801401.us.archive.org",
+  "uniq": 45468287,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }

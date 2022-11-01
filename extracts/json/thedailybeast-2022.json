@@ -1,5 +1,6 @@
 {
-  "created": 1667267387,
+  "conflict": 1667294140,
+  "created": 1667294140,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/thedailybeast-2022",
@@ -11962,31 +11963,93 @@
       "sha1": "e0fa9c13f5ead5f92c55027427952a455f6cb4b8"
     },
     {
+      "name": "thedailybeast-2022-11-01T05:00:18.221542-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667293229",
+      "size": "21665",
+      "md5": "0f10760fa0c834f898b98bc97d3bfcf7",
+      "crc32": "cd1e1e39",
+      "sha1": "b7859024086efb219665a97274f3588e9621f181",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-11-01T05:00:18.221542-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667293231",
+      "size": "19193",
+      "md5": "e2fb7f4402c71cc17efda0849f0fc643",
+      "crc32": "42b0c2f8",
+      "sha1": "265430b0b8455ccb1114c885984eeb23c58751c3",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-11-01T05:00:18.221542-04:00.jpg",
+      "source": "original",
+      "mtime": "1667293226",
+      "size": "314381",
+      "md5": "efe55c917db684028f7f27dbee61a764",
+      "crc32": "78de42f1",
+      "sha1": "0bcdf5b25cf602a5b4a9d4121e3cc9120f945fe2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailybeast-2022-11-01T05:00:18.221542-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667293232",
+      "size": "1522",
+      "md5": "2dc15a38c8802f611db6951a9e45de5e",
+      "crc32": "49d2c0eb",
+      "sha1": "053b6ba2b14db4d716ef06bf645a9ba62470f3c0",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-11-01T05:00:18.221542-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667293234",
+      "size": "72715",
+      "md5": "40aeb2534d98a98c10a835c652a26df4",
+      "crc32": "b87f8637",
+      "sha1": "5b14cc7d722ab6e5266989bf0b24d46de26eb810",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailybeast-2022-11-01T05:00:18.221542-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailybeast-2022-11-01T05:00:18.221542-04:00.jpg",
+      "mtime": "1667294124",
+      "size": "10784",
+      "md5": "6295434648f9f0cdd14b616c105f4c47",
+      "crc32": "8af3c277",
+      "sha1": "060fc5ed01930cc490dbc9966d2de21fc7640f4e"
+    },
+    {
       "name": "thedailybeast-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cd0b40cf1d3aeaa70974b07fe3a5b5444afb3b77",
-      "mtime": "1667246037",
-      "size": "250732",
-      "md5": "929e85295b6b70ed7a51929c201f470a",
-      "crc32": "745a586f",
-      "sha1": "4a325d054e42fdadabd62eaa8ce37f3cad3a6150",
+      "btih": "99388d8d25b7afe8c112178f934b79d3b23bac33",
+      "mtime": "1667294138",
+      "size": "252010",
+      "md5": "f8a891826a7845fe4dc6f3ab18de5a8c",
+      "crc32": "5fd004dd",
+      "sha1": "388561a4350eb0086f96f3fb847c774170f03817",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailybeast-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c96b7b679981632bd9219433ac9c1b09",
+      "md5": "04b573d14ea1dc313282c6ccc118159d",
       "summation": "md5"
     },
     {
       "name": "thedailybeast-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667245901",
-      "size": "1482752",
-      "md5": "a6fef42d150a622c6f418df359d1e8cb",
-      "crc32": "bed367dc",
-      "sha1": "a0a795df41bac1707ab10740d12447d79cadf219",
+      "mtime": "1667293238",
+      "size": "1490944",
+      "md5": "e848a3d6d57a325a8cd0a74d65d3f983",
+      "crc32": "aaafb459",
+      "sha1": "d3b5ff5518a5852fe6c50065fb18cd1190aef5d7",
       "format": "Metadata"
     },
     {
@@ -12000,9 +12063,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1160,
-  "item_last_updated": 1667246037,
-  "item_size": 83135180,
+  "files_count": 1166,
+  "item_last_updated": 1667294138,
+  "item_size": 83584910,
   "metadata": {
     "identifier": "thedailybeast-2022",
     "collection": [
@@ -12019,15 +12082,29 @@
     "publicdate": "2022-07-23 16:04:26",
     "addeddate": "2022-07-23 16:04:26"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "thedailybeast-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 549810873,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458612466,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458625674,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1443166493,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }

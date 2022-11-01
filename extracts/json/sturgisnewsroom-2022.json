@@ -1,5 +1,6 @@
 {
-  "created": 1667249315,
+  "conflict": 1667294130,
+  "created": 1667294130,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/15/items/sturgisnewsroom-2022",
@@ -5162,31 +5163,93 @@
       "sha1": "0ee2363abecfcbbd1777f3d318c5b4ea6940117d"
     },
     {
+      "name": "sturgisnewsroom-2022-11-01T05:00:31.845421-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667293242",
+      "size": "24330",
+      "md5": "358181704e5b1215c95e8cdf2010fa2d",
+      "crc32": "1e4c7147",
+      "sha1": "635f358f7632c7fe3aafac19f5e6d9703c354eb6",
+      "format": "JSON"
+    },
+    {
+      "name": "sturgisnewsroom-2022-11-01T05:00:31.845421-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667293244",
+      "size": "48005",
+      "md5": "dbeb7591ee2973d352e09cd861975948",
+      "crc32": "57cbf3e4",
+      "sha1": "f150336b39975b5773d90477eeb8e3edb859ec4f",
+      "format": "JSON"
+    },
+    {
+      "name": "sturgisnewsroom-2022-11-01T05:00:31.845421-04:00.jpg",
+      "source": "original",
+      "mtime": "1667293241",
+      "size": "281258",
+      "md5": "895f21b7b6249f6eb978957f17c805a5",
+      "crc32": "0bbfe916",
+      "sha1": "f58ca31e5348b8cf13d574cf49bc58ade8bb9874",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sturgisnewsroom-2022-11-01T05:00:31.845421-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667293245",
+      "size": "1531",
+      "md5": "2413d2f397d8e696f34e4aadc986dc4e",
+      "crc32": "694e0c61",
+      "sha1": "21a2bf18991e79f9a47f023eab6774ded08e7b50",
+      "format": "JSON"
+    },
+    {
+      "name": "sturgisnewsroom-2022-11-01T05:00:31.845421-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667293247",
+      "size": "107",
+      "md5": "61489dda620d152e8d171e55eab6966a",
+      "crc32": "267639d2",
+      "sha1": "e4cc8009a1b1d7ab0877af0c86560a056f966e55",
+      "format": "JSON"
+    },
+    {
+      "name": "sturgisnewsroom-2022-11-01T05:00:31.845421-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sturgisnewsroom-2022-11-01T05:00:31.845421-04:00.jpg",
+      "mtime": "1667294121",
+      "size": "9577",
+      "md5": "df0e8f2f47ad98132fa6d4f06262e1b1",
+      "crc32": "2c8b7527",
+      "sha1": "ab4cfaad4222b8a8e0367786f686f3398a092a76"
+    },
+    {
       "name": "sturgisnewsroom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f29bfcc6d94e4892ad4316cf0fe20bd1e052d6b2",
-      "mtime": "1667246124",
-      "size": "110031",
-      "md5": "18a3a758cb559594427cf1628c568764",
-      "crc32": "1caf6f54",
-      "sha1": "e54d473edd4f9d357ab2c5098f0be65f64ab1fc5",
+      "btih": "2e3d6b2313163b36c7e23e3c58462c0a78fa39d5",
+      "mtime": "1667294128",
+      "size": "111338",
+      "md5": "ac30fd5de349bfaf36b185d64cd4c231",
+      "crc32": "2f632a1d",
+      "sha1": "b425b0c63cc20cf72b72287c011f65cf3e9baac6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sturgisnewsroom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6fce58e0a56518c1c4863dc4d87020bd",
+      "md5": "b335a5fdf51658e3f22911ecfd70f754",
       "summation": "md5"
     },
     {
       "name": "sturgisnewsroom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667245744",
-      "size": "659456",
-      "md5": "16cbe84c2250cd7a233c0f5812171db8",
-      "crc32": "1c51f15e",
-      "sha1": "cdeecb439690fc8b85c93a6f91ab6b040d3e6cdc",
+      "mtime": "1667293251",
+      "size": "663552",
+      "md5": "19ec9f2a05544138722e62cfa26d3a6e",
+      "crc32": "5e672741",
+      "sha1": "22e78508d1ad20edda39209ccc4df74131ee7e20",
       "format": "Metadata"
     },
     {
@@ -5200,9 +5263,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 503,
-  "item_last_updated": 1667246124,
-  "item_size": 35671638,
+  "files_count": 509,
+  "item_last_updated": 1667294128,
+  "item_size": 36041849,
   "metadata": {
     "identifier": "sturgisnewsroom-2022",
     "collection": [
@@ -5219,10 +5282,29 @@
     "publicdate": "2022-09-20 19:31:47",
     "addeddate": "2022-09-20 19:31:47"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 667470112,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458612675,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458625538,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 956706880,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

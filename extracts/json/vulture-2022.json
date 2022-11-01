@@ -1,5 +1,5 @@
 {
-  "created": 1667268637,
+  "created": 1667293897,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/10/items/vulture-2022",
@@ -11022,31 +11022,93 @@
       "sha1": "f45cc2bb5fb5ee66a31560ac5396fb97a15d99ba"
     },
     {
+      "name": "vulture-2022-11-01T05:07:50.469234-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667293683",
+      "size": "31036",
+      "md5": "6bbd3c9da97590eb99a6b605e7549ffb",
+      "crc32": "a037d0bb",
+      "sha1": "bc92a4fed90a9dc1b6a78fe5d5587688314a6b88",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-11-01T05:07:50.469234-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667293685",
+      "size": "30639",
+      "md5": "915163318f95af69e05a7d7863763d24",
+      "crc32": "b710a55d",
+      "sha1": "62e7709620e720dcabcf316a3f763c98bd792b92",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-11-01T05:07:50.469234-04:00.jpg",
+      "source": "original",
+      "mtime": "1667293681",
+      "size": "340190",
+      "md5": "2ff8448513558e059b955edcdcd84db8",
+      "crc32": "46999647",
+      "sha1": "b30af7c3ed99fadb1a078aee5d674ce12e5f19f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vulture-2022-11-01T05:07:50.469234-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667293687",
+      "size": "1468",
+      "md5": "da4778908f92dbcc3dcc65305fd23ff6",
+      "crc32": "0e358b61",
+      "sha1": "8d1bc3c0fe3769ecd5164ce2f939a736b79a161a",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-11-01T05:07:50.469234-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667293688",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "vulture-2022-11-01T05:07:50.469234-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vulture-2022-11-01T05:07:50.469234-04:00.jpg",
+      "mtime": "1667293876",
+      "size": "10158",
+      "md5": "7db39ff91dfa778fa78d21c486b66a14",
+      "crc32": "5485f5cf",
+      "sha1": "2e08ddb2bd052f755c986b5272ca678d2d0a4c04"
+    },
+    {
       "name": "vulture-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f682c3f77bd385f625926cdf758cb7c1ad93a6a",
-      "mtime": "1667246340",
-      "size": "224550",
-      "md5": "2e704965627c0c787b5fa7d74053eb21",
-      "crc32": "4cde6a54",
-      "sha1": "2297a9145d24323eeee084cbd806f8f7f1e1c382",
+      "btih": "05f2dff0482d59913feae2c36fe69af955128b7b",
+      "mtime": "1667293888",
+      "size": "225790",
+      "md5": "5011178a5296f043f9bece79738f2d00",
+      "crc32": "bab1066b",
+      "sha1": "43077d39cedf7fe94aed405ace25a6aa9936a212",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vulture-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "06e30cb527920e1a105ad233f4fa03da",
+      "md5": "877c234e4b0b537eb098194908806977",
       "summation": "md5"
     },
     {
       "name": "vulture-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667246090",
-      "size": "1363968",
-      "md5": "a24414814a718e3d9251d496bafddf1f",
-      "crc32": "939b78ae",
-      "sha1": "c928aee8ac26a1701a2e692f54d0bb4edf4e087a",
+      "mtime": "1667293692",
+      "size": "1372160",
+      "md5": "c7532c56330de796c7c5113f323d2abb",
+      "crc32": "d838292e",
+      "sha1": "4e544e51939f8786d53c548a7349bb1926e262aa",
       "format": "Metadata"
     },
     {
@@ -11060,9 +11122,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1070,
-  "item_last_updated": 1667246340,
-  "item_size": 72096386,
+  "files_count": 1076,
+  "item_last_updated": 1667293888,
+  "item_size": 72519511,
   "metadata": {
     "identifier": "vulture-2022",
     "collection": [
@@ -11080,12 +11142,7 @@
     "addeddate": "2022-08-02 16:24:28"
   },
   "server": "ia801505.us.archive.org",
-  "uniq": 1333191112,
-  "vulture-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "uniq": 1504739802,
   "workable_servers": [
     "ia801505.us.archive.org",
     "ia601505.us.archive.org"
