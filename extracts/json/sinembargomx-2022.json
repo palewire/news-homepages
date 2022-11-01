@@ -1,5 +1,5 @@
 {
-  "created": 1667278524,
+  "created": 1667316142,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/sinembargomx-2022",
@@ -9402,31 +9402,82 @@
       "sha1": "9be0de344a6af2a0113d2266dbe7b3b0b086bfe5"
     },
     {
+      "name": "sinembargomx-2022-11-01T09:01:21.558553-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667314890",
+      "size": "46691",
+      "md5": "7dd9c440fd8440e2db930bd9fefbbb42",
+      "crc32": "64a35669",
+      "sha1": "ac22a3cb7184a0a6151159c9cb994f8a2b5e56fc",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-11-01T09:01:21.558553-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667314892",
+      "size": "113",
+      "md5": "18dc96ac0074bdf3191ff778c56b9ad6",
+      "crc32": "b72e0a97",
+      "sha1": "778291407fcc7719d443ed3658264fde7f15c4cc",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-11-01T09:01:21.558553-06:00.jpg",
+      "source": "original",
+      "mtime": "1667314888",
+      "size": "251849",
+      "md5": "955d01659dd5b8671a2abcf6303612c7",
+      "crc32": "859655a9",
+      "sha1": "99c2478f6c2c8cfb397189f7105701c2ed25c84c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sinembargomx-2022-11-01T09:01:21.558553-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667314893",
+      "size": "1483",
+      "md5": "980502aa8bb538d3727153e74d43a96b",
+      "crc32": "1ee8c012",
+      "sha1": "8d1b9f1f2bb2a0600397154fcf25da28b8cb3c2e",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-11-01T09:01:21.558553-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667314895",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "sinembargomx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e638b5401aaa6549c56f7f34453034afc71de0a6",
-      "mtime": "1667278503",
-      "size": "197409",
-      "md5": "ff69261ad77a3bfadd7032028c08b59a",
-      "crc32": "10af9720",
-      "sha1": "e18a9fe70b02d436d279353fdd5259b6efc28efb",
+      "btih": "cb13ab3b0fe109a29ccae23072f60a74349e67bd",
+      "mtime": "1667314950",
+      "size": "198468",
+      "md5": "db495552b612b86ab405ac2be102e8b8",
+      "crc32": "64f16de7",
+      "sha1": "0b79f2db069d1954200d3485e65a19ba3b6bb8f7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sinembargomx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1187f91218218f431223048b07615b8",
+      "md5": "fe4499411ef263f0aae1bebe63fd89fa",
       "summation": "md5"
     },
     {
       "name": "sinembargomx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667277935",
-      "size": "1175552",
-      "md5": "5e9fab41e2154898bb70bb7fec349772",
-      "crc32": "65a21b55",
-      "sha1": "102ccdbca2d34f06f229522cc817fef455297f15",
+      "mtime": "1667314903",
+      "size": "1183744",
+      "md5": "eaa580f1b65d2f85e53b3aeb3044c445",
+      "crc32": "7e237121",
+      "sha1": "62421b0a605b91cd6c05d89758ea6d473e862491",
       "format": "Metadata"
     },
     {
@@ -9440,9 +9491,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 913,
-  "item_last_updated": 1667278503,
-  "item_size": 89334748,
+  "files_count": 918,
+  "item_last_updated": 1667314950,
+  "item_size": 89644337,
   "metadata": {
     "identifier": "sinembargomx-2022",
     "collection": [
@@ -9459,10 +9510,26 @@
     "publicdate": "2022-08-16 17:12:18",
     "addeddate": "2022-08-16 17:12:18"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1273404324,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "sinembargomx-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "tasks": [
+    {
+      "task_id": 3458840055,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1231250762,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

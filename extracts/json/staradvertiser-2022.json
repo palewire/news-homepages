@@ -1,5 +1,6 @@
 {
-  "created": 1667278968,
+  "conflict": 1667316219,
+  "created": 1667316219,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/6/items/staradvertiser-2022",
@@ -5886,31 +5887,93 @@
       "sha1": "ce796f2e83a47ba5c31c787e3acf54874c629174"
     },
     {
+      "name": "staradvertiser-2022-11-01T05:01:08.276975-10:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667314872",
+      "size": "82328",
+      "md5": "01c2ae121123e945c9f31d7f2fdd401b",
+      "crc32": "a5cf825c",
+      "sha1": "f32d486749f1672473588646b05ff5641218fd00",
+      "format": "JSON"
+    },
+    {
+      "name": "staradvertiser-2022-11-01T05:01:08.276975-10:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667314874",
+      "size": "87948",
+      "md5": "d6d961ea87ecc2da402c2e029a65d9f0",
+      "crc32": "fbcb91c7",
+      "sha1": "4eb8c0e3a61a92d8420a9138a6f2f667112e522b",
+      "format": "JSON"
+    },
+    {
+      "name": "staradvertiser-2022-11-01T05:01:08.276975-10:00.jpg",
+      "source": "original",
+      "mtime": "1667314869",
+      "size": "362348",
+      "md5": "0739a10818e3ba4f92fe7a13982dbd21",
+      "crc32": "fb244d14",
+      "sha1": "09d4bab0fbef01a133fe960bfe134ab8bd14a48e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "staradvertiser-2022-11-01T05:01:08.276975-10:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667314878",
+      "size": "1531",
+      "md5": "c99d70edd89da861aea051ae7ada0146",
+      "crc32": "d5482618",
+      "sha1": "044ad2aeec26347e810cf81e6bf408eb67da8a90",
+      "format": "JSON"
+    },
+    {
+      "name": "staradvertiser-2022-11-01T05:01:08.276975-10:00.wayback.json",
+      "source": "original",
+      "mtime": "1667314880",
+      "size": "162081",
+      "md5": "b15998f65cf8f35595ce54b8343f85db",
+      "crc32": "22cdda10",
+      "sha1": "c20b344afb512a1378fb444400d6841e04474c61",
+      "format": "JSON"
+    },
+    {
+      "name": "staradvertiser-2022-11-01T05:01:08.276975-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "staradvertiser-2022-11-01T05:01:08.276975-10:00.jpg",
+      "mtime": "1667316211",
+      "size": "9577",
+      "md5": "eccd31950649aa7cead3e557de743afc",
+      "crc32": "818c7778",
+      "sha1": "1baa833e7af52c8a6eb193bd26963d9ae1d1a8d8"
+    },
+    {
       "name": "staradvertiser-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f5ca07aac3519d23c1cc9de2d2c959004b5f8c91",
-      "mtime": "1667278868",
-      "size": "125280",
-      "md5": "482303f615a12a9c2e070efd8ff514e5",
-      "crc32": "1cda8e56",
-      "sha1": "58af24c06d2333c33e381d9edff389f7ebbed0ad",
+      "btih": "33b465c9ee945223d7680717850c5fc5ce26d672",
+      "mtime": "1667316217",
+      "size": "126604",
+      "md5": "8f8eba50b03e1c86a47900b91a2ada42",
+      "crc32": "745bed6a",
+      "sha1": "619a9625587ae704df5d68997e7bed8687d1ae6b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "staradvertiser-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5d49efd8916564b7d9e62b5b8ce28ca8",
+      "md5": "83ec0cf78e85414721f739b7185cdb0d",
       "summation": "md5"
     },
     {
       "name": "staradvertiser-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667277929",
-      "size": "745472",
-      "md5": "c471d14763713ae281546ba5e422d959",
-      "crc32": "f35e9a3b",
-      "sha1": "14d60d98c9a5c874b07bc078b15c870ad72534dd",
+      "mtime": "1667314885",
+      "size": "753664",
+      "md5": "30c58305a0b3078fb3a3939543afa4bb",
+      "crc32": "d8bc7cee",
+      "sha1": "ac7ccf6a6c5d063e23d07b34b7602adfa058b8a2",
       "format": "Metadata"
     },
     {
@@ -5924,9 +5987,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 573,
-  "item_last_updated": 1667278868,
-  "item_size": 57760419,
+  "files_count": 579,
+  "item_last_updated": 1667316217,
+  "item_size": 58475748,
   "metadata": {
     "identifier": "staradvertiser-2022",
     "collection": [
@@ -5943,10 +6006,29 @@
     "publicdate": "2022-09-14 13:12:34",
     "addeddate": "2022-09-14 13:12:34"
   },
-  "server": "ia801507.us.archive.org",
-  "uniq": 979407871,
+  "pending_tasks": true,
+  "server": "ia601507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458839645,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458856339,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1721269124,
   "workable_servers": [
-    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

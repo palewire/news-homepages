@@ -1,5 +1,5 @@
 {
-  "created": 1667285207,
+  "created": 1667316554,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/13/items/thesanews-2022",
@@ -8686,31 +8686,93 @@
       "sha1": "a003300e64b98bf729507cbe97aa190749fe2ee0"
     },
     {
+      "name": "thesanews-2022-11-01T17:06:43.255615+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667315207",
+      "size": "53122",
+      "md5": "cd239f3bac670d2fc2d7c6ecc6132ea0",
+      "crc32": "7b84a5d8",
+      "sha1": "3f212ea3bba208a14e1dccd27d8d93a16492ce31",
+      "format": "JSON"
+    },
+    {
+      "name": "thesanews-2022-11-01T17:06:43.255615+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667315210",
+      "size": "47299",
+      "md5": "357b4db2eefe28588028255492138d49",
+      "crc32": "d624ca54",
+      "sha1": "d20ff9a114c63cfe1960bbed375d59dfb3e7b7cc",
+      "format": "JSON"
+    },
+    {
+      "name": "thesanews-2022-11-01T17:06:43.255615+02:00.jpg",
+      "source": "original",
+      "mtime": "1667315206",
+      "size": "344158",
+      "md5": "aab007b590aa65f11572b32bf3fdb0d7",
+      "crc32": "9062fe33",
+      "sha1": "5fa7409ccb1076dad91aa800b542d26171d50e8d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thesanews-2022-11-01T17:06:43.255615+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667315212",
+      "size": "1539",
+      "md5": "8716ca02fc3c505120d10c7352602ce5",
+      "crc32": "35cb97fc",
+      "sha1": "fa1023c71a2758934461da802c4261376d56244e",
+      "format": "JSON"
+    },
+    {
+      "name": "thesanews-2022-11-01T17:06:43.255615+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667315214",
+      "size": "256",
+      "md5": "30a51c14d3c5e94594580674c594a0ba",
+      "crc32": "84e5e7b0",
+      "sha1": "c547725453aec260f03ec72c7072051132995910",
+      "format": "JSON"
+    },
+    {
+      "name": "thesanews-2022-11-01T17:06:43.255615+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thesanews-2022-11-01T17:06:43.255615+02:00.jpg",
+      "mtime": "1667316470",
+      "size": "11521",
+      "md5": "d2aa67c95de382a4c7d0a6d8a1b8088b",
+      "crc32": "0ff68502",
+      "sha1": "f5f62a0a599bff66b6f69abe81c7a5cd6eebe42b"
+    },
+    {
       "name": "thesanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c99c6c2c87bf0bcad7e54b426c14c5cc388ec837",
-      "mtime": "1667279360",
-      "size": "179220",
-      "md5": "ed14677000e1fb543225fdf704c3d6df",
-      "crc32": "324d8d3a",
-      "sha1": "d74d30c331b4aa3e40c34268b11b10f639976400",
+      "btih": "7ec75d19e6bb5b442037ce1c0e7f645c55df3e93",
+      "mtime": "1667316494",
+      "size": "180492",
+      "md5": "32fba5e988f6e1bf60cf728e1c705f6d",
+      "crc32": "26b03c92",
+      "sha1": "371a28dc9d04a27140443334fb79c0fac5d9e873",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thesanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5959543c7a0956fa2fb2e9b65bbf020c",
+      "md5": "27df3c50220092b346bc594e42090ca0",
       "summation": "md5"
     },
     {
       "name": "thesanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667278342",
-      "size": "1081344",
-      "md5": "a8a9d34d92244cd5117efb32d7c85ba5",
-      "crc32": "885f8903",
-      "sha1": "d2c539e68ab755be89f01f26d9b7b273291e38b9",
+      "mtime": "1667315779",
+      "size": "1089536",
+      "md5": "069e44826425ee6aabf534ebec92a6d7",
+      "crc32": "1e78f8b3",
+      "sha1": "746c5e014e0f83dee6b872f1ff2ea83b5dd9cf1c",
       "format": "Metadata"
     },
     {
@@ -8724,9 +8786,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 844,
-  "item_last_updated": 1667279360,
-  "item_size": 62108708,
+  "files_count": 850,
+  "item_last_updated": 1667316494,
+  "item_size": 62576067,
   "metadata": {
     "identifier": "thesanews-2022",
     "collection": [
@@ -8744,12 +8806,7 @@
     "addeddate": "2022-08-22 22:03:24"
   },
   "server": "ia601403.us.archive.org",
-  "thesanews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 232327316,
+  "uniq": 1613804837,
   "workable_servers": [
     "ia601403.us.archive.org",
     "ia801403.us.archive.org"

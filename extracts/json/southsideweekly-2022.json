@@ -1,5 +1,5 @@
 {
-  "created": 1667278669,
+  "created": 1667314981,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/18/items/southsideweekly-2022",
@@ -22682,31 +22682,82 @@
       "sha1": "fc8beacf547a338e215104844798da8cccc55538"
     },
     {
+      "name": "southsideweekly-2022-11-01T10:01:03.456002-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667314893",
+      "size": "15529",
+      "md5": "546d121b8f93a3ee838815dd9d2738cb",
+      "crc32": "cea2ef15",
+      "sha1": "02653f9e8603ac8f5520d6353a114d2e154fb323",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-11-01T10:01:03.456002-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667314899",
+      "size": "29526",
+      "md5": "906d63c3a2793f22476a34351201730d",
+      "crc32": "79d7ad93",
+      "sha1": "8dad16fc793214894a501a20c63f101eab7f4f04",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-11-01T10:01:03.456002-05:00.jpg",
+      "source": "original",
+      "mtime": "1667314889",
+      "size": "352220",
+      "md5": "f4dc9999a55b5fadc7462191387bf211",
+      "crc32": "9079197b",
+      "sha1": "b5ec6c50b4135ac3d63457266107a73a0a929d6f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "southsideweekly-2022-11-01T10:01:03.456002-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667314901",
+      "size": "1503",
+      "md5": "64ace9462aca0a63e59334045215645e",
+      "crc32": "ad4fbc6c",
+      "sha1": "ad582abf1f71d0c3d6d70fedf19bd4a85c1e315e",
+      "format": "JSON"
+    },
+    {
+      "name": "southsideweekly-2022-11-01T10:01:03.456002-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667314903",
+      "size": "20498",
+      "md5": "587a4883811f1db7207eb31eae67dc37",
+      "crc32": "57fc0e66",
+      "sha1": "322518bbe342845af452251a157db30bf232b037",
+      "format": "JSON"
+    },
+    {
       "name": "southsideweekly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ddb2d1a4a4e94cac930f84098b5f2d3c2d22fe1e",
-      "mtime": "1667278642",
-      "size": "476601",
-      "md5": "e1378f013daa0a00adc1cd89217940a4",
-      "crc32": "5b959224",
-      "sha1": "e5fe531881eb5dcf3c293a675c1b91acc1879f80",
+      "btih": "1e75482a536729bbc6a6c2a8e5e68f440affc55b",
+      "mtime": "1667314976",
+      "size": "477699",
+      "md5": "4d77219eabfa21bd5d964d4403ca1352",
+      "crc32": "9c44eb08",
+      "sha1": "a2489149efe62b0bdcbb3979a6c4995c2423a467",
       "format": "Archive BitTorrent"
     },
     {
       "name": "southsideweekly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5450019f753c0b8ae236ac52f77eabf5",
+      "md5": "e39c0fccbbee4e7bbd07e9248163d3e8",
       "summation": "md5"
     },
     {
       "name": "southsideweekly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667277917",
-      "size": "2748416",
-      "md5": "2f18394af0f8d598f34a2d2b18dcc538",
-      "crc32": "e4763739",
-      "sha1": "34e785ded2522235cf486be4c10fc8617bf02c86",
+      "mtime": "1667314906",
+      "size": "2756608",
+      "md5": "7e951cd25dd53ec86490299b178c8bf6",
+      "crc32": "61a6f556",
+      "sha1": "3713c31f03fa5f48131b8e49db0dbee05d1ec451",
       "format": "Metadata"
     },
     {
@@ -22720,9 +22771,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2190,
-  "item_last_updated": 1667278642,
-  "item_size": 149272719,
+  "files_count": 2195,
+  "item_last_updated": 1667314976,
+  "item_size": 149701285,
   "metadata": {
     "identifier": "southsideweekly-2022",
     "collection": [
@@ -22739,10 +22790,21 @@
     "publicdate": "2022-06-19 23:28:17",
     "addeddate": "2022-06-19 23:28:17"
   },
+  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "uniq": 371529423,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458840469,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 50015154,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia902502.us.archive.org"
   ]
 }
