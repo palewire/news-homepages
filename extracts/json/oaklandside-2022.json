@@ -1,5 +1,5 @@
 {
-  "created": 1667265575,
+  "created": 1667269428,
   "d1": "ia904705.us.archive.org",
   "d2": "ia804705.us.archive.org",
   "dir": "/8/items/oaklandside-2022",
@@ -21050,31 +21050,82 @@
       "sha1": "e56b4b8e24fd9bf7abeec26b42607c2810ca16d3"
     },
     {
+      "name": "oaklandside-2022-10-31T19:22:26.622974-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667269351",
+      "size": "35331",
+      "md5": "bd22499827307678e1ad6b12d6718868",
+      "crc32": "7983c624",
+      "sha1": "8a94b69ffb0ed11727eba3044499e79cd9832240",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-10-31T19:22:26.622974-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667269353",
+      "size": "32444",
+      "md5": "daf2c81d0686c4452ec97601dba45334",
+      "crc32": "93d0d910",
+      "sha1": "ae4e049d077ddb572e958d671c3c0f857cc767c9",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-10-31T19:22:26.622974-07:00.jpg",
+      "source": "original",
+      "mtime": "1667269349",
+      "size": "347655",
+      "md5": "5fcbc9cb48df2f517f5240f232c6aad5",
+      "crc32": "d292103c",
+      "sha1": "8d4592ae8e35c3cca8a678dc54f598bcf3998c34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-10-31T19:22:26.622974-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667269354",
+      "size": "1465",
+      "md5": "0e64a90e027e48626fb3f2901cebd1df",
+      "crc32": "8a515c96",
+      "sha1": "f926ae88681be33858744a34d8a9b985e2f341a1",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-10-31T19:22:26.622974-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667269356",
+      "size": "46388",
+      "md5": "43b7152ad2a27ce292ac2a39884c8aed",
+      "crc32": "9e386399",
+      "sha1": "d0f358f8441640ad23e56d64fac09ca6a03e3f9c",
+      "format": "JSON"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7a65aca348cc1bbfe50bb0d358e3e7cce0879842",
-      "mtime": "1667228027",
-      "size": "433764",
-      "md5": "a6d40d343880b30b151b2fd4f96cd5ff",
-      "crc32": "06cc89c2",
-      "sha1": "79e590de0e9e4ed729254ad5e727db0f68168c78",
+      "btih": "aa0f274c1339c2959739834855232bb7eec84a02",
+      "mtime": "1667269423",
+      "size": "434842",
+      "md5": "1588d1490e430ccdc51dc64fd76f06b5",
+      "crc32": "1d390857",
+      "sha1": "686b1d74531562526e983539540c86570d3a7041",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8e0973305b28999cfbb08c3512a7a29c",
+      "md5": "c74521177927ee5963e76bc5acd60730",
       "summation": "md5"
     },
     {
       "name": "oaklandside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667225693",
-      "size": "2469888",
-      "md5": "97cf4a7d8faf0a0dae05af90b39e5078",
-      "crc32": "646b88da",
-      "sha1": "033d17f0ee97c88a426f781399dd801c85d4248e",
+      "mtime": "1667269360",
+      "size": "2473984",
+      "md5": "14c00a7a1f3c8839fc0b3b88d0003f7a",
+      "crc32": "ecc802c7",
+      "sha1": "9420fe4146ef581eb4d36d6dc97d3178df043b4f",
       "format": "Metadata"
     },
     {
@@ -21088,9 +21139,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2025,
-  "item_last_updated": 1667228027,
-  "item_size": 174899835,
+  "files_count": 2030,
+  "item_last_updated": 1667269423,
+  "item_size": 175368292,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -21107,15 +21158,21 @@
     "publicdate": "2022-03-23 02:09:27",
     "addeddate": "2022-03-23 02:09:27"
   },
-  "oaklandside-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia804705.us.archive.org",
-  "uniq": 225691067,
+  "pending_tasks": true,
+  "server": "ia904705.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458366298,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1277424785,
   "workable_servers": [
-    "ia804705.us.archive.org",
     "ia904705.us.archive.org"
   ]
 }

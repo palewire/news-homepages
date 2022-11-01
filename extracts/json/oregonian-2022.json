@@ -1,5 +1,5 @@
 {
-  "created": 1667265711,
+  "created": 1667269446,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/33/items/oregonian-2022",
@@ -13774,31 +13774,82 @@
       "sha1": "962495f7e81b28ea4931922a37d36ae33f8a584c"
     },
     {
+      "name": "oregonian-2022-10-31T19:22:52.055699-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667269378",
+      "size": "44744",
+      "md5": "aa385440db355e3aa083e979dfdc93fe",
+      "crc32": "fb19619f",
+      "sha1": "92e93dfd1b0559dacabb4c46b9e2e7f388633be4",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-10-31T19:22:52.055699-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667269379",
+      "size": "45497",
+      "md5": "d572aef64f0c5b33c924c43fc5517205",
+      "crc32": "879adfeb",
+      "sha1": "ddc8ea928697a91561318088eabe11b07c623e22",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-10-31T19:22:52.055699-07:00.jpg",
+      "source": "original",
+      "mtime": "1667269373",
+      "size": "253814",
+      "md5": "5dd0afc874abff463c716a2921c98c01",
+      "crc32": "153e3024",
+      "sha1": "7bfd10a2d60230e4be1ea2b014cadc80192f8cfd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oregonian-2022-10-31T19:22:52.055699-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667269382",
+      "size": "1495",
+      "md5": "4749aabca1f6a35859403c1ba3a7ccbd",
+      "crc32": "53e9552c",
+      "sha1": "16ef12b5c737280406a5bd938671a00ed40e512b",
+      "format": "JSON"
+    },
+    {
+      "name": "oregonian-2022-10-31T19:22:52.055699-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667269383",
+      "size": "121606",
+      "md5": "6318f0cc5cedafee6eb777db533983b0",
+      "crc32": "cb2426b2",
+      "sha1": "c51f5b2aa6d303a2ac2c55b1f09af78fa7dad2e9",
+      "format": "JSON"
+    },
+    {
       "name": "oregonian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "47b50db873158bb6f55a17d21ac1d13fa01c76c6",
-      "mtime": "1667226968",
-      "size": "282737",
-      "md5": "b16d057779053b8b5b2b49f49daa23c4",
-      "crc32": "23b7a72e",
-      "sha1": "0f1ebc7aeeeb8c2b30419574644fb40160171f48",
+      "btih": "4ae9d14c840c072b04ff48435d20a6f24f91f2ac",
+      "mtime": "1667269440",
+      "size": "283806",
+      "md5": "ad595a122c9ce20fee1265e72399349f",
+      "crc32": "1cd9325b",
+      "sha1": "85647e1628eb7a3e828aae16c8c37e792b4fcc09",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oregonian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a63a39d68bbb9b6129eede0bd28b6d33",
+      "md5": "3e67627f3f9355cf645342de288f1201",
       "summation": "md5"
     },
     {
       "name": "oregonian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667225747",
-      "size": "1671168",
-      "md5": "9608d6acd9b9d6c3df32def705353090",
-      "crc32": "4e349cf2",
-      "sha1": "5c46e80213e37a6903cee993ab984ce2d2a0a0a1",
+      "mtime": "1667269390",
+      "size": "1679360",
+      "md5": "25c6e726b0e4640a3127b14cd97001a0",
+      "crc32": "f1e40bfe",
+      "sha1": "9d1083e0e1f9945fbcec50b776778fba314c5890",
       "format": "Metadata"
     },
     {
@@ -13812,9 +13863,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1333,
-  "item_last_updated": 1667226968,
-  "item_size": 102217360,
+  "files_count": 1338,
+  "item_last_updated": 1667269440,
+  "item_size": 102693777,
   "metadata": {
     "identifier": "oregonian-2022",
     "collection": [
@@ -13831,15 +13882,21 @@
     "publicdate": "2022-07-04 21:50:57",
     "addeddate": "2022-07-04 21:50:57"
   },
-  "oregonian-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1694553526,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458366520,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 475540598,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

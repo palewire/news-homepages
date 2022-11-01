@@ -1,5 +1,5 @@
 {
-  "created": 1667227148,
+  "created": 1667269416,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/1/items/pinjnews-2022",
@@ -8180,31 +8180,82 @@
       "sha1": "baeacba319d9c2051f6e043c4adc3c6d03757382"
     },
     {
+      "name": "pinjnews-2022-10-31T22:22:38.617409-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667269362",
+      "size": "20543",
+      "md5": "9dfb2d7f4e1480af80eda90cf0608b65",
+      "crc32": "1a9d0382",
+      "sha1": "21eabd3cdfec3a721560572a18514db77bc72af8",
+      "format": "JSON"
+    },
+    {
+      "name": "pinjnews-2022-10-31T22:22:38.617409-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667269363",
+      "size": "15279",
+      "md5": "12d9dc8432dc0b196f85b281b2faafcd",
+      "crc32": "812b0e63",
+      "sha1": "64f3c054cfacd30a7b7dcc644a930001f932ab8a",
+      "format": "JSON"
+    },
+    {
+      "name": "pinjnews-2022-10-31T22:22:38.617409-04:00.jpg",
+      "source": "original",
+      "mtime": "1667269360",
+      "size": "233772",
+      "md5": "229668ed9c90ca4b37532553e782a924",
+      "crc32": "927ec81f",
+      "sha1": "95c508add26b901a12794244868acc617590a758",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pinjnews-2022-10-31T22:22:38.617409-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667269365",
+      "size": "1441",
+      "md5": "413e9815625d5946f1a4a6e4e8eac6fe",
+      "crc32": "1f23731e",
+      "sha1": "cb4714f70408ec50fdd7df43a5d5f0d80038b8a6",
+      "format": "JSON"
+    },
+    {
+      "name": "pinjnews-2022-10-31T22:22:38.617409-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667269366",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "pinjnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eade237d32d3c15f82a629db08bb546c37710721",
-      "mtime": "1667226801",
-      "size": "167000",
-      "md5": "723dac305f5d14a9ebc4053c562ad865",
-      "crc32": "4b41b1f0",
-      "sha1": "a0a9385f62bdc587f9ceeacb1717015424d106f9",
+      "btih": "767fa814d0d1fdea7f84b265ac77734d2e762bc7",
+      "mtime": "1667269412",
+      "size": "168061",
+      "md5": "af79ab5fd9e1a18178d4de06cacff310",
+      "crc32": "cbb7333c",
+      "sha1": "32ed03b80e7661e6334f3fe86a6f4cd29b706603",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pinjnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd12c3f646a4205224b4be656588b365",
+      "md5": "153a71d5097f5f5505da2321415b1206",
       "summation": "md5"
     },
     {
       "name": "pinjnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667225725",
-      "size": "1019904",
-      "md5": "d8f71675d6dc0d2e7fc8f8a8148a6d17",
-      "crc32": "63280367",
-      "sha1": "de153116e705a0cdb77bec7a64bc8bae108cc7eb",
+      "mtime": "1667269372",
+      "size": "1024000",
+      "md5": "cba5ed2c41bbcaa53c15a5b333987763",
+      "crc32": "707a498d",
+      "sha1": "b3306d1dd5ed18a80bbc78ba1bc5b9dfc6099c09",
       "format": "Metadata"
     },
     {
@@ -8218,9 +8269,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 795,
-  "item_last_updated": 1667226801,
-  "item_size": 35574563,
+  "files_count": 800,
+  "item_last_updated": 1667269412,
+  "item_size": 35850957,
   "metadata": {
     "identifier": "pinjnews-2022",
     "collection": [
@@ -8237,10 +8288,21 @@
     "publicdate": "2022-08-26 12:59:42",
     "addeddate": "2022-08-26 12:59:42"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 897025855,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458366103,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 461946361,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

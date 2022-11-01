@@ -1,5 +1,5 @@
 {
-  "created": 1667265932,
+  "created": 1667269427,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/9/items/ponews-2022",
@@ -5080,31 +5080,82 @@
       "sha1": "82967c390dc2edfeeef2726022186ede805bdace"
     },
     {
+      "name": "ponews-2022-10-31T22:22:52.780373-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667269376",
+      "size": "21495",
+      "md5": "e8dcbf3872c2e4ef132112b3ba89bc4a",
+      "crc32": "263b3674",
+      "sha1": "2125ac6c17314aae98e5548ad982518d2b43e4f1",
+      "format": "JSON"
+    },
+    {
+      "name": "ponews-2022-10-31T22:22:52.780373-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667269378",
+      "size": "43479",
+      "md5": "f0422e8e2a6b15e7525509ebb5489777",
+      "crc32": "1b41402d",
+      "sha1": "56871c181c1da83cd8f1c0658ab7f086fecf06b6",
+      "format": "JSON"
+    },
+    {
+      "name": "ponews-2022-10-31T22:22:52.780373-04:00.jpg",
+      "source": "original",
+      "mtime": "1667269374",
+      "size": "247915",
+      "md5": "1ebca2674aa4d706fe531a3d442b27a8",
+      "crc32": "74d8b974",
+      "sha1": "6a9375c744b3a93882d0e518a7cab4e7572204b7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ponews-2022-10-31T22:22:52.780373-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667269380",
+      "size": "1576",
+      "md5": "ba9ac305da0ac9444d237ec980c5c244",
+      "crc32": "936d0620",
+      "sha1": "9b52a02e7c70aa5b89a95cfce7768a89ee448a31",
+      "format": "JSON"
+    },
+    {
+      "name": "ponews-2022-10-31T22:22:52.780373-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667269382",
+      "size": "95028",
+      "md5": "212b9880cf2db4e00aeb3689b0601a28",
+      "crc32": "29754390",
+      "sha1": "e38c69a25139a5dba88e27e5ec674e66b1cb8865",
+      "format": "JSON"
+    },
+    {
       "name": "ponews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "076948e28ca1110ef451df828d7e40f5eb0a1fed",
-      "mtime": "1667228356",
-      "size": "103572",
-      "md5": "39ec2321036fad9e71564e205c755e9c",
-      "crc32": "701bb3c6",
-      "sha1": "358ca1ac9efe146e29da61df206c72ccaf08f9fe",
+      "btih": "9ade20064b2974d1f20f5a82a2fe89d2d774f22b",
+      "mtime": "1667269424",
+      "size": "104625",
+      "md5": "c81b5d3960d58d8883e819aba2d78500",
+      "crc32": "d8783091",
+      "sha1": "fa4a401bbac15b9b7f5fe495bc64dd4e7cd6b411",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ponews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5f3ad83108496bb9a8e72188cef7e639",
+      "md5": "207d0fc0db73aa080f11052824448b50",
       "summation": "md5"
     },
     {
       "name": "ponews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667225692",
-      "size": "638976",
-      "md5": "c3f9e930aae38e99bf7548955933adba",
-      "crc32": "d31fbf19",
-      "sha1": "77c008734e6c415cd8c1103bd22166d0464d0ded",
+      "mtime": "1667269386",
+      "size": "647168",
+      "md5": "f65216cba9adc4eeb9106abef71bc47f",
+      "crc32": "225e1a05",
+      "sha1": "c0e635d637ae3970bc1b4ed4b7d358fcb06c0a42",
       "format": "Metadata"
     },
     {
@@ -5118,9 +5169,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 495,
-  "item_last_updated": 1667228356,
-  "item_size": 31209616,
+  "files_count": 500,
+  "item_last_updated": 1667269424,
+  "item_size": 31628354,
   "metadata": {
     "identifier": "ponews-2022",
     "collection": [
@@ -5137,15 +5188,21 @@
     "publicdate": "2022-09-21 02:22:41",
     "addeddate": "2022-09-21 02:22:41"
   },
-  "ponews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801504.us.archive.org",
-  "uniq": 519209153,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458366276,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1518351071,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

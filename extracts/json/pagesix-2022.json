@@ -1,5 +1,5 @@
 {
-  "created": 1667265759,
+  "created": 1667269449,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/8/items/pagesix-2022",
@@ -7332,31 +7332,82 @@
       "sha1": "e1883e7db976a537d7b14dbc5622373ce0175f23"
     },
     {
+      "name": "pagesix-2022-10-31T22:23:07.270793-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667269389",
+      "size": "25293",
+      "md5": "5eb3dc724d935a653c555d98fc04e36d",
+      "crc32": "11b4c1d3",
+      "sha1": "0446ad8a0e309db47741f637ac31da144260f2b1",
+      "format": "JSON"
+    },
+    {
+      "name": "pagesix-2022-10-31T22:23:07.270793-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667269391",
+      "size": "28658",
+      "md5": "801c86699f18545b02a1e6f9cf75c3fb",
+      "crc32": "44337c08",
+      "sha1": "3f7735bced1f849fb70756eeb068fdc5c779eea2",
+      "format": "JSON"
+    },
+    {
+      "name": "pagesix-2022-10-31T22:23:07.270793-04:00.jpg",
+      "source": "original",
+      "mtime": "1667269388",
+      "size": "321900",
+      "md5": "a252e7c884da6036691c7e4edbda30bf",
+      "crc32": "4115ca99",
+      "sha1": "41fa39f28e4016b1601096c9130a4daa4bdd11e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pagesix-2022-10-31T22:23:07.270793-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667269392",
+      "size": "1432",
+      "md5": "c4b8364604329b8e2847975d1a951033",
+      "crc32": "a2ad779f",
+      "sha1": "ab0214f94b6ab69cf80311c8d249e22767809bf0",
+      "format": "JSON"
+    },
+    {
+      "name": "pagesix-2022-10-31T22:23:07.270793-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667269394",
+      "size": "37205",
+      "md5": "c855b4d3ea41c9a348be439dc59f7bb4",
+      "crc32": "235e10fd",
+      "sha1": "869e2f633626ae16848ffc4029ba1e5789b48852",
+      "format": "JSON"
+    },
+    {
       "name": "pagesix-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bfd6fbbe200d5e7750ed0fbd1e3070651458d3bd",
-      "mtime": "1667226794",
-      "size": "149891",
-      "md5": "3982be8c668af6b602797dc4ad85d0c7",
-      "crc32": "f8b71f1d",
-      "sha1": "e601bc781e665f52df64f0785a82821c4caaaeaf",
+      "btih": "961a30d726e139b070986c2af566d16993a1d189",
+      "mtime": "1667269445",
+      "size": "150949",
+      "md5": "0e51add2e44a05bf3b9a444852ae3000",
+      "crc32": "99be69b0",
+      "sha1": "a3fb356149f38e1e3146e044065a9ec7458f3eab",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pagesix-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7d7ea282a7790534e7a195dab865602b",
+      "md5": "058ba57ea9a66261316070d220553466",
       "summation": "md5"
     },
     {
       "name": "pagesix-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667225714",
-      "size": "917504",
-      "md5": "5617a793f392dd93ed1a919923ea9ffe",
-      "crc32": "2f43a626",
-      "sha1": "37417d108d5bea4f972ba897f060bf51e7813997",
+      "mtime": "1667269400",
+      "size": "925696",
+      "md5": "1aad4698c9c18294caa935c503f0e70e",
+      "crc32": "7e114599",
+      "sha1": "d4134124a1820f22f881dc4d93b74839e8b38cd4",
       "format": "Metadata"
     },
     {
@@ -7370,9 +7421,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 713,
-  "item_last_updated": 1667226794,
-  "item_size": 48095024,
+  "files_count": 718,
+  "item_last_updated": 1667269445,
+  "item_size": 48518762,
   "metadata": {
     "identifier": "pagesix-2022",
     "collection": [
@@ -7389,15 +7440,21 @@
     "publicdate": "2022-09-03 00:04:04",
     "addeddate": "2022-09-03 00:04:04"
   },
-  "pagesix-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "uniq": 1806237207,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458366567,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 188968919,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia601504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667265837,
+  "created": 1667269482,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/22/items/phillyinquirer-2022",
@@ -13998,31 +13998,82 @@
       "sha1": "ccfe040d77b1a48f22a3cac08d181aae867da02a"
     },
     {
+      "name": "phillyinquirer-2022-10-31T22:23:10.741286-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667269394",
+      "size": "17784",
+      "md5": "9713ea7bf244bb6948ae8fd6f261b4fe",
+      "crc32": "2017b703",
+      "sha1": "2f5b03e9930963f8426e34f39a5b1febba9d1d7e",
+      "format": "JSON"
+    },
+    {
+      "name": "phillyinquirer-2022-10-31T22:23:10.741286-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667269395",
+      "size": "12166",
+      "md5": "acecacf9af4c1c36e232b89fc3f6bb68",
+      "crc32": "f7e64260",
+      "sha1": "e1c9f9886d509d6f7ef44c1cc9e06285b347a18a",
+      "format": "JSON"
+    },
+    {
+      "name": "phillyinquirer-2022-10-31T22:23:10.741286-04:00.jpg",
+      "source": "original",
+      "mtime": "1667269392",
+      "size": "324515",
+      "md5": "577176d5227bf314d03ef7ea8de2855e",
+      "crc32": "1c004e30",
+      "sha1": "a23b3dd8e0f2ff2f6cd576ce766c49907fff111b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "phillyinquirer-2022-10-31T22:23:10.741286-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667269397",
+      "size": "1477",
+      "md5": "80815b6c1968d8e56d2ea00155ea55c7",
+      "crc32": "e1ee560b",
+      "sha1": "65f2e96e10b7e860b63d66386d2a2b2e37b2e618",
+      "format": "JSON"
+    },
+    {
+      "name": "phillyinquirer-2022-10-31T22:23:10.741286-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667269398",
+      "size": "183173",
+      "md5": "8305ae838e9b017517ef0f8d9d35b5f9",
+      "crc32": "48886d2f",
+      "sha1": "07c2dcfa2e9c952c07a348df7f0e53659158275e",
+      "format": "JSON"
+    },
+    {
       "name": "phillyinquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2174ff873974e06d6bc4ad2b25ac9f54e48f817a",
-      "mtime": "1667226820",
-      "size": "294226",
-      "md5": "b3bd957ad0718c03c5ab1f64bbe82d04",
-      "crc32": "b621a40b",
-      "sha1": "66a17d3b496f0c6171fb01b5be161448ef417e14",
+      "btih": "6b26a843ed13a63179969760901c8a81d1002487",
+      "mtime": "1667269468",
+      "size": "295320",
+      "md5": "d7350a81f3cd30e3d587df283d291871",
+      "crc32": "510f4b0a",
+      "sha1": "f5400d7c28150705510d3f236f542fc344d31cb9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillyinquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f9434b3f2d5215bfcd95a6cda03a23b7",
+      "md5": "10f84d1b451bea9412f09f879ee05ceb",
       "summation": "md5"
     },
     {
       "name": "phillyinquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667225698",
-      "size": "1708032",
-      "md5": "5f23b2217c2f4dbc75dd7e96fcb4d7a3",
-      "crc32": "8d414d41",
-      "sha1": "6b24dce50108202cc26cb2b1451ae94142f3cabc",
+      "mtime": "1667269405",
+      "size": "1716224",
+      "md5": "04e41e5bdc54757b6645aefd48477b89",
+      "crc32": "5f0fc4e7",
+      "sha1": "a9db567bcf2a7b7e0a54b13bdcfdc8f21f50326f",
       "format": "Metadata"
     },
     {
@@ -14036,9 +14087,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1354,
-  "item_last_updated": 1667226820,
-  "item_size": 109551045,
+  "files_count": 1359,
+  "item_last_updated": 1667269468,
+  "item_size": 110099446,
   "metadata": {
     "identifier": "phillyinquirer-2022",
     "collection": [
@@ -14055,15 +14106,21 @@
     "publicdate": "2022-07-03 15:52:44",
     "addeddate": "2022-07-03 15:52:44"
   },
-  "phillyinquirer-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 2104611115,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458367021,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 950474345,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }
