@@ -25,7 +25,7 @@ jobs:
       site-list: ${{ steps.get-site-list.outputs.site-list }}
 
   jpg:
-    name: JPG
+    name: JPG (Cropped)
     runs-on: ubuntu-20.04
     timeout-minutes: 15
     needs: sources
@@ -44,6 +44,28 @@ jobs:
         uses: ./.github/actions/screenshot
         with:
           source: ${{ matrix.source }}
+
+  jpg-full:
+    name: JPG (Full screen)
+    runs-on: ubuntu-20.04
+    timeout-minutes: 15
+    needs: sources
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: screenshot
+        name: Screenshot
+        uses: ./.github/actions/screenshot
+        with:
+          source: "${{ matrix.source }} --full-page"
+          artifact: full-page-screenshots
 
   accessibility:
     name: a11y
