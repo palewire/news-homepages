@@ -1,5 +1,5 @@
 {
-  "created": 1667268933,
+  "created": 1667320353,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/wnyt-2022",
@@ -11096,31 +11096,145 @@
       "sha1": "dea4787ec1f4b85d61ccc9e3775d66c67bae17a2"
     },
     {
+      "name": "wnyt-2022-11-01T01:03:15.936732-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667278999",
+      "size": "18829",
+      "md5": "8fa52843fd32e708a8de77d61393b5a0",
+      "crc32": "7533ab3b",
+      "sha1": "7dc9abdf2d18e671717bbeb4cb00fe0f3e5c75a8",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-11-01T01:03:15.936732-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667279001",
+      "size": "27774",
+      "md5": "f2375ad4d6f796697862625962b799c3",
+      "crc32": "6e301774",
+      "sha1": "3428c6a41abda2b7dd763d3689fce4a9aab7486d",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-11-01T01:03:15.936732-04:00.jpg",
+      "source": "original",
+      "mtime": "1667278997",
+      "size": "240918",
+      "md5": "fd2baddbf5c12ca050066bc92ae964cf",
+      "crc32": "4c4dc0ea",
+      "sha1": "7d1473eeeb8f02d24f235235cc12947e2c842484",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyt-2022-11-01T01:03:15.936732-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667279003",
+      "size": "1405",
+      "md5": "06bd207203fd3c4b76bf9a8526c69626",
+      "crc32": "bcda1ff0",
+      "sha1": "16cfbc4f1a9756b2114889bd4d184bf3b8cfa5f2",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-11-01T01:03:15.936732-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667279005",
+      "size": "73818",
+      "md5": "4460510f01c8e328dbaa4534cda8d1f6",
+      "crc32": "ca661a61",
+      "sha1": "ac62de4d019e2c015718c7c8fe593ccfbb1040e7",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-11-01T01:03:15.936732-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyt-2022-11-01T01:03:15.936732-04:00.jpg",
+      "mtime": "1667279592",
+      "size": "9184",
+      "md5": "24cf733cb69d2a23a8ed68556658516c",
+      "crc32": "00befc3b",
+      "sha1": "c0a59ee2c5aed0940604168fdc70b40d9d9b47a2"
+    },
+    {
+      "name": "wnyt-2022-11-01T12:11:06.838859-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667319070",
+      "size": "18811",
+      "md5": "75e7d23338a497a4a5d2f9a115ceaf52",
+      "crc32": "58b7f54d",
+      "sha1": "5f247ae4b3faf02ea5670f82862bb13e4e3b3782",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-11-01T12:11:06.838859-04:00.jpg",
+      "source": "original",
+      "mtime": "1667319068",
+      "size": "237862",
+      "md5": "eb0898d644699c77a2f8cf0ea50a977d",
+      "crc32": "10eb52c1",
+      "sha1": "8988c851f4a7c1112dc2d20a0cd0c2f19ca69552",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wnyt-2022-11-01T12:11:06.838859-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667319072",
+      "size": "1405",
+      "md5": "d0cc7fe54350c845e64b9a443b3ab3c9",
+      "crc32": "9904940e",
+      "sha1": "faab8d1382efd687123fd09865e22ddcccf05b52",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-11-01T12:11:06.838859-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667319074",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wnyt-2022-11-01T12:11:06.838859-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wnyt-2022-11-01T12:11:06.838859-04:00.jpg",
+      "mtime": "1667320110",
+      "size": "9080",
+      "md5": "97078fa597ef12c81462c38133f0d9dc",
+      "crc32": "9b23e16f",
+      "sha1": "d1484973e60ae0e29efa4ce898515cb9d9656893"
+    },
+    {
       "name": "wnyt-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ddd0a0486a9eb65a3db68ea5c25524c7bf3a23fa",
-      "mtime": "1667233337",
-      "size": "222294",
-      "md5": "f27c374208915be99d967aefdb640dc0",
-      "crc32": "d49c846e",
-      "sha1": "e23173623d1909a3a3a2e576a26b003228df85f7",
+      "btih": "c368809a7e85f7dd4ac0c4fe5235258de8138f46",
+      "mtime": "1667320131",
+      "size": "224551",
+      "md5": "454b15f236313999d09ba99bae0ffe46",
+      "crc32": "b5d79a10",
+      "sha1": "100a447e75ea44061e4267c6b74f29b945010b88",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wnyt-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2ae0965c362357b11b7e63a81cf40b56",
+      "md5": "ff2a639c15588637350d4ca0770f5a9c",
       "summation": "md5"
     },
     {
       "name": "wnyt-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667232378",
-      "size": "1363968",
-      "md5": "33105140cdd06d29134016a9251bacb1",
-      "crc32": "5d023551",
-      "sha1": "e9491e5ec406f5c64ccfab684763ccf7ec266102",
+      "mtime": "1667319145",
+      "size": "1384448",
+      "md5": "61f907ff74dc03732125cff826d50ab2",
+      "crc32": "cccae340",
+      "sha1": "1650b24ac2e4bc27b573ecc80e45f9a942a4e086",
       "format": "Metadata"
     },
     {
@@ -11134,9 +11248,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1077,
-  "item_last_updated": 1667233337,
-  "item_size": 62238513,
+  "files_count": 1088,
+  "item_last_updated": 1667320131,
+  "item_size": 62900538,
   "metadata": {
     "identifier": "wnyt-2022",
     "collection": [
@@ -11154,12 +11268,7 @@
     "addeddate": "2022-08-02 02:04:24"
   },
   "server": "ia601508.us.archive.org",
-  "uniq": 726482842,
-  "wnyt-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "uniq": 519507456,
   "workable_servers": [
     "ia601508.us.archive.org",
     "ia801508.us.archive.org"

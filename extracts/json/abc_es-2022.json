@@ -1,13 +1,5 @@
 {
-  "abc_es-2022": {
-    "url": "https://www.abc.es/",
-    "job_id": "spn2-c42ae28dd632ae9e329fa661d97d13a6367d7896",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
-  "created": 1667261090,
+  "created": 1667319384,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/2/items/abc_es-2022",
@@ -5694,31 +5686,91 @@
       "format": "JSON"
     },
     {
+      "name": "abc_es-2022-11-01T05:55:55.649105+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667278557",
+      "size": "128880",
+      "md5": "6da8a293d0aa4f3ba2d8ab2cee9b7534",
+      "crc32": "0cf8e850",
+      "sha1": "26d12e05d8fd4dba3bf937b4276f8bffb5db000f",
+      "format": "JSON"
+    },
+    {
+      "name": "abc_es-2022-11-01T05:55:55.649105+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667278559",
+      "size": "1422",
+      "md5": "1e7a8480f4184848d8cd2b519ce4e90f",
+      "crc32": "0a560a3f",
+      "sha1": "0dcbf6cd0f98ac09c0e141c5da6eadfbb1dff47b",
+      "format": "JSON"
+    },
+    {
+      "name": "abc_es-2022-11-01T05:55:55.649105+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667278561",
+      "size": "36151",
+      "md5": "cf4d69c9660826ef86c12adceb6612e5",
+      "crc32": "f875871e",
+      "sha1": "ba59f670e955686905b807a3a84602fbc1dd945d",
+      "format": "JSON"
+    },
+    {
+      "name": "abc_es-2022-11-01T17:05:03.209798+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667318717",
+      "size": "128643",
+      "md5": "5c0987d100079a830ca71d805a25824d",
+      "crc32": "76fe39d3",
+      "sha1": "df3311102f03558eb4148c189f9028b31d917984",
+      "format": "JSON"
+    },
+    {
+      "name": "abc_es-2022-11-01T17:05:03.209798+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667318719",
+      "size": "1423",
+      "md5": "a62a43ef6aa1944385872115d26aecc8",
+      "crc32": "b0c6d78f",
+      "sha1": "933f6ec1e8bb620a3d03b878ba2959674f4b3c3d",
+      "format": "JSON"
+    },
+    {
+      "name": "abc_es-2022-11-01T17:05:03.209798+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667318721",
+      "size": "39728",
+      "md5": "20aa8cb66f646a3ee59797dfad42ebf1",
+      "crc32": "c6fe2115",
+      "sha1": "965ab508ab034546804262685e62875a066c5fbc",
+      "format": "JSON"
+    },
+    {
       "name": "abc_es-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e7789720422c0c9496b5eadd07e1f1852486d256",
-      "mtime": "1667232128",
-      "size": "120495",
-      "md5": "40866a6dd3662b95b6679103ab1246b8",
-      "crc32": "fa53f204",
-      "sha1": "f043ba3fbadc1b0e5c6201f33b36f6869b8f7435",
+      "btih": "e4cdc62e94476fe6d288b26f41403a451c27fd69",
+      "mtime": "1667318771",
+      "size": "121763",
+      "md5": "3c4ba2d5ba49f597afeef5a2f4764b19",
+      "crc32": "42f8d4d0",
+      "sha1": "03af3de5b0449f481888e4ed1803fe776a537557",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc_es-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "892079e7fb0dfac6eed5ba49f1b47141",
+      "md5": "8aeaeedf34ef166518e293f9990645bb",
       "summation": "md5"
     },
     {
       "name": "abc_es-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667232057",
-      "size": "872448",
-      "md5": "9813c388f959c3b0953ea17110cbf03b",
-      "crc32": "c7a44bec",
-      "sha1": "c3fa2650f8037c5b858bfcb75cca9bfbb0170ad7",
+      "mtime": "1667318729",
+      "size": "880640",
+      "md5": "500e6aaf7a2c389d1360e64532500eb6",
+      "crc32": "8a062560",
+      "sha1": "849e7a174c208838344cf6549cf479952fe6f641",
       "format": "Metadata"
     },
     {
@@ -5732,9 +5784,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 571,
-  "item_last_updated": 1667232128,
-  "item_size": 33035360,
+  "files_count": 577,
+  "item_last_updated": 1667318771,
+  "item_size": 33381067,
   "metadata": {
     "identifier": "abc_es-2022",
     "collection": [
@@ -5751,10 +5803,10 @@
     "publicdate": "2022-07-28 18:53:56",
     "addeddate": "2022-07-28 18:53:56"
   },
-  "server": "ia801400.us.archive.org",
-  "servers_unavailable": true,
-  "uniq": 2011795198,
+  "server": "ia601400.us.archive.org",
+  "uniq": 2030341449,
   "workable_servers": [
+    "ia601400.us.archive.org",
     "ia801400.us.archive.org"
   ]
 }
