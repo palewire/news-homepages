@@ -12,7 +12,7 @@ import iso3166
 import pandas as pd
 import pytz
 import tldextract
-from playwright.sync_api._generated import BrowserContext, Page, Playwright
+from playwright.sync_api._generated import BrowserContext, Playwright
 
 # Set paths for key files
 THIS_DIR = Path(__file__).parent.absolute()
@@ -582,37 +582,6 @@ def _get_common_blocking_javascript() -> str:
      """
 
 
-def _execute_on_ready(
-    js_code_to_execute: str, page: Page, add_return: bool = False
-) -> typing.Union[int, float]:
-    """
-    Make sure we execute JS code only when the page is finished loading. Gracefully wait/repeat if it's not ready.
-
-    Args:
-        :param js_code_to_execute (str): The JS code we wish to execute.
-        :param page (Playwright Page object): The page to execute this code on.
-        :param add_return: Whether we expect a return value from the JS code, or not.
-        :return:
-    """
-    if add_return:
-        js_code_to_execute = "return " + js_code_to_execute
-    js = """(function(){{
-                if(document.readyState === 'ready' || document.readyState === 'complete') {{
-                    {js_code}
-                }} else {{
-                    return 'not ready'
-                    }}
-        }})()
-    """.format(
-        js_code=js_code_to_execute
-    )
-    res = page.evaluate(js)
-    while res == "not ready":
-        time.sleep(1)
-        res = page.evaluate(js)
-    return res or 0
-
-
 def _load_new_page_disable_javascript(
     context: BrowserContext,
     url: str,
@@ -623,7 +592,6 @@ def _load_new_page_disable_javascript(
     """Load the page with javascript blocking."""
     # Create an empty tab
     page = context.new_page()
-
     # Open the page
     print(f"Opening {url}")
     page.goto(url, timeout=60000)
@@ -641,40 +609,37 @@ def _load_new_page_disable_javascript(
     if custom_javascript:
         print("Executing custom JavaScript")
         page.evaluate(custom_javascript)
+        print("Waiting another 5 seconds..")
+        time.sleep(5)
 
     # Hide the scrollbars
     print("Hiding scrollbars with CSS")
-    _execute_on_ready("document.body.style.overflow = 'hidden';", page)
+    css = """document.body.style.overflow = 'hidden';"""
+    page.evaluate(css)
 
     # If we're saving full-page content, we need to scroll to the bottom to make sure all the images get fetched.
     if full_page:
         print("scrolling to bottom")
-        scroll_height = _execute_on_ready(
-            "document.body.scrollHeight", page, add_return=True
-        )
+        scroll_height = page.evaluate("document.body.scrollHeight")
         current_pos = 0
         current_iter = 0
         max_iterations = 200
         amount_to_scroll = 200
         while (current_pos < scroll_height) or (current_iter > max_iterations):
             current_pos += amount_to_scroll
-            _execute_on_ready(f"scroll(0, {current_pos})", page)
+            page.evaluate(f"scroll(0, {current_pos})")
             time.sleep(1)
-            scroll_height = _execute_on_ready(
-                "document.body.scrollHeight", page, add_return=True
-            )
+            scroll_height = page.evaluate("document.body.scrollHeight")
             current_iter += 1
 
     # Prevent Playwright from hovering over a link and highlighting it
     print("Preventing mouse hovers")
-    _execute_on_ready(
-        """
-        const style = document.createElement("style");
-        style.innerHTML = "a:hover, a:focus { color: initial; text-decoration: initial; }";
-        document.head.appendChild(style);
-    """,
-        page,
-    )
+    css = """
+    const style = document.createElement("style");
+    style.innerHTML = "a:hover, a:focus { color: initial; text-decoration: initial; }";
+    document.head.appendChild(style);
+    """
+    page.evaluate(css)
 
     # Give it another beat
     print(f"Waiting {wait_seconds} seconds")
