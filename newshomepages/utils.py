@@ -12,7 +12,7 @@ import iso3166
 import pandas as pd
 import pytz
 import tldextract
-from playwright.sync_api._generated import BrowserContext, Playwright
+from playwright.sync_api._generated import BrowserContext, Page, Playwright
 
 # Set paths for key files
 THIS_DIR = Path(__file__).parent.absolute()
@@ -582,7 +582,9 @@ def _get_common_blocking_javascript() -> str:
      """
 
 
-def _execute_on_ready(js_code_to_execute, page, add_return=False):
+def _execute_on_ready(
+    js_code_to_execute: str, page: Page, add_return: bool = False
+) -> typing.Union[int, float]:
     if add_return:
         js_code_to_execute = "return " + js_code_to_execute
     js = """(function(){{
@@ -599,7 +601,7 @@ def _execute_on_ready(js_code_to_execute, page, add_return=False):
     while res == "not ready":
         time.sleep(1)
         res = page.evaluate(js)
-    return res
+    return res or 0
 
 
 def _load_new_page_disable_javascript(
@@ -669,17 +671,3 @@ def _load_new_page_disable_javascript(
     print(f"Waiting {wait_seconds} seconds")
     time.sleep(wait_seconds)
     return page
-
-
-#
-# (function(){
-#                 if(document.readyState === 'ready' || document.readyState === 'complete') {
-#                   return document.body.scrollHeight
-#                 } else {
-#                   document.onreadystatechange = function () {
-#                     if (document.readyState == "complete") {
-#                       return document.body.scrollHeight
-#                     }
-#                   }
-#                 }
-#         })()
