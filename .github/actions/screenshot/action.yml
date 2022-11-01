@@ -3,12 +3,12 @@ description: Snap a JPG of the provided site
 
 inputs:
   source:
-    description: “The site handle to screenshot”
+    description: “The command config spelling out what to screenshot”
     required: true
-  options:
-    description: “Options on the screenshot command”
+  artifact:
+    description: “The name of the artifact to upload”
     required: false
-    default: ""
+    default: "screenshots"
 
 runs:
   using: "composite"
@@ -31,7 +31,7 @@ runs:
 
     - id: shoot
       name: Take screenshot
-      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot ${{ inputs.source }} -o _dist ${{ inputs.options }}
+      run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.screenshot ${{ inputs.source }} -o _dist
       shell: bash
       env:
         DEBUG: 'pw:api'
@@ -41,6 +41,6 @@ runs:
       name: Save artifact
       uses: actions/upload-artifact@v2
       with:
-        name: screenshots
+        name: ${{ inputs.artifact }}
         path: _dist
         if-no-files-found: error
