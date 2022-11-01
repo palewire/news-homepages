@@ -664,6 +664,8 @@ def _load_new_page_disable_javascript(
                 "document.body.scrollHeight", page, add_return=True
             )
             current_iter += 1
+        print("scrolling to top...")
+        _execute_on_ready("scroll(0, 0)", page)
 
     # Prevent Playwright from hovering over a link and highlighting it
     print("Preventing mouse hovers")
