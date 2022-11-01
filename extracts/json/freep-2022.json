@@ -1,5 +1,5 @@
 {
-  "created": 1667257926,
+  "created": 1667293145,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/freep-2022",
@@ -5182,31 +5182,93 @@
       "sha1": "3a3c219ae7c96b89076736cff9ca8d93e6719fea"
     },
     {
+      "name": "freep-2022-11-01T02:52:38.546394-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667285564",
+      "size": "24464",
+      "md5": "c413cc1c05cde40d81ee561cbb6733bf",
+      "crc32": "5f723822",
+      "sha1": "09a0efee32c56b18c02f406d2b361cb7e1286cb2",
+      "format": "JSON"
+    },
+    {
+      "name": "freep-2022-11-01T02:52:38.546394-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667285565",
+      "size": "41766",
+      "md5": "ebeb913156692fb09009a31fa5a50f32",
+      "crc32": "683b7c60",
+      "sha1": "93e2d14042149f5cd24e11f8cbde48d35ab7fb05",
+      "format": "JSON"
+    },
+    {
+      "name": "freep-2022-11-01T02:52:38.546394-04:00.jpg",
+      "source": "original",
+      "mtime": "1667285562",
+      "size": "277770",
+      "md5": "4d150bd77c9e9d0b4917391aced4cf51",
+      "crc32": "1fdb3725",
+      "sha1": "ad781700b7a8567642eacbb0b609aa78cc561e19",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freep-2022-11-01T02:52:38.546394-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667285568",
+      "size": "1450",
+      "md5": "9d3d74d85f3fa193bede3c5dba09a2ee",
+      "crc32": "9e53caf7",
+      "sha1": "67e1aab3883de4968789330b5b6ea6161d7e1b27",
+      "format": "JSON"
+    },
+    {
+      "name": "freep-2022-11-01T02:52:38.546394-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667285569",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "freep-2022-11-01T02:52:38.546394-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "freep-2022-11-01T02:52:38.546394-04:00.jpg",
+      "mtime": "1667287271",
+      "size": "9541",
+      "md5": "6dd7a8b22ac0345e37bba6b9899ae2c7",
+      "crc32": "1921ba8e",
+      "sha1": "f0371c1728c8bac49db846a79b2155513db4b86a"
+    },
+    {
       "name": "freep-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c8489a2a5b89a1ef2b8ef110de161347fa3a1cc0",
-      "mtime": "1667239404",
-      "size": "105292",
-      "md5": "21ff258bcd592560bee6fd42a1e8c5a3",
-      "crc32": "5d163495",
-      "sha1": "ed34937df2748a64d629aa823e85b4edb433cdde",
+      "btih": "eb00a58b3faf2d7d46478149bdfb2a206468b001",
+      "mtime": "1667287275",
+      "size": "106539",
+      "md5": "feeb7aaad7ded49a3a531087b6f502c3",
+      "crc32": "cd496e59",
+      "sha1": "a4701d4b391d01f9c93537ab53f3a708b3f1a841",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freep-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f8e18787d8b870071e0514f9f84e2dcd",
+      "md5": "b362775494aedf2198bbbb7b25eaa481",
       "summation": "md5"
     },
     {
       "name": "freep-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667238546",
-      "size": "651264",
-      "md5": "12a13b5e0dee02a4bbbc6db05e15efeb",
-      "crc32": "c6618996",
-      "sha1": "adb7ee32396d74784b95cba71922b2437e9e33c2",
+      "mtime": "1667285574",
+      "size": "659456",
+      "md5": "1024bb750816e53b91e1a0bc15200943",
+      "crc32": "2d767085",
+      "sha1": "ead147d31f9fa19f1c97dbe5d1c6c7de19589b73",
       "format": "Metadata"
     },
     {
@@ -5220,9 +5282,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 505,
-  "item_last_updated": 1667239404,
-  "item_size": 34654416,
+  "files_count": 511,
+  "freep-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667287275,
+  "item_size": 35019048,
   "metadata": {
     "identifier": "freep-2022",
     "collection": [
@@ -5240,7 +5307,7 @@
     "addeddate": "2022-09-20 17:51:49"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 2144668240,
+  "uniq": 1847511136,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

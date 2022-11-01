@@ -1,5 +1,5 @@
 {
-  "created": 1667241124,
+  "created": 1667287223,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/13/items/dainik_online-2022",
@@ -12000,31 +12000,93 @@
       "sha1": "aa192611019ec08012cafe1efb6cb2c6ab9abc6e"
     },
     {
+      "name": "dainik_online-2022-11-01T12:34:26.779755+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667285370",
+      "size": "72779",
+      "md5": "b7900b52475cd4a48ddb7bc8d8c80e56",
+      "crc32": "9c44dfc2",
+      "sha1": "047fcc16a647279f14e0d9c4e0d05e793978967f",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-11-01T12:34:26.779755+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667285371",
+      "size": "54255",
+      "md5": "67a7b03c158a5e4c80a8aeacbee351b1",
+      "crc32": "e5fb316b",
+      "sha1": "34da1675a255f4aef618d6e2e51c020056720778",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-11-01T12:34:26.779755+05:45.jpg",
+      "source": "original",
+      "mtime": "1667285368",
+      "size": "243535",
+      "md5": "06146bbb1f102b69b9d0162edac103b3",
+      "crc32": "efe0e129",
+      "sha1": "5f28c8830884ca61d1069f6a9bf6a1fbed4f9d57",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dainik_online-2022-11-01T12:34:26.779755+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667285373",
+      "size": "1512",
+      "md5": "d1f04f21f92d9211415aeea117879c12",
+      "crc32": "038ff579",
+      "sha1": "4e4f72dfe4d879a68e6faf0db8bc21ba162f9e2e",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-11-01T12:34:26.779755+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667285375",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dainik_online-2022-11-01T12:34:26.779755+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dainik_online-2022-11-01T12:34:26.779755+05:45.jpg",
+      "mtime": "1667287157",
+      "size": "10646",
+      "md5": "bd655e7fb2520b352d5da79822a21d39",
+      "crc32": "65a45e1a",
+      "sha1": "3d778264cbbf217f09d1c5ffb794e8ec543235bd"
+    },
+    {
       "name": "dainik_online-2022_archive.torrent",
       "source": "metadata",
-      "btih": "817d1ca0181f6219f158dfcc5ca4af2314bc9a03",
-      "mtime": "1667240548",
-      "size": "251426",
-      "md5": "23d0723707cfb527d0f3f83da78c4d26",
-      "crc32": "6be9e13f",
-      "sha1": "2ae8e73d14dc3097276458ba8e38466fecd0610b",
+      "btih": "5a850abf91f28ddf7b714fa89088f109dc63bab8",
+      "mtime": "1667287195",
+      "size": "252722",
+      "md5": "4b9faa337afa0f601b1431c00f9ec67b",
+      "crc32": "d32c7cf5",
+      "sha1": "e4a1dfaf46740c916d8ae18697c71f61f0a61c90",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dainik_online-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b0686b09b9643e17adb987a87a10da24",
+      "md5": "17749c170cd41e028d02261051eb01f5",
       "summation": "md5"
     },
     {
       "name": "dainik_online-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667238299",
-      "size": "1490944",
-      "md5": "7556c955745a7dec0c10696032a50143",
-      "crc32": "1f774565",
-      "sha1": "2c20f78b94b55ed06a5cd5b954d59fab2e144c8c",
+      "mtime": "1667285380",
+      "size": "1499136",
+      "md5": "30b96dc4ee465da3d04fc989a39048e2",
+      "crc32": "fa6fd615",
+      "sha1": "cf591d4430ae851f0ca924d99384ace9e149d347",
       "format": "Metadata"
     },
     {
@@ -12038,9 +12100,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1164,
-  "item_last_updated": 1667240548,
-  "item_size": 80215436,
+  "files_count": 1170,
+  "item_last_updated": 1667287195,
+  "item_size": 80607853,
   "metadata": {
     "identifier": "dainik_online-2022",
     "collection": [
@@ -12058,7 +12120,7 @@
     "addeddate": "2022-07-24 20:37:14"
   },
   "server": "ia801401.us.archive.org",
-  "uniq": 1924599782,
+  "uniq": 608718734,
   "workable_servers": [
     "ia801401.us.archive.org",
     "ia601401.us.archive.org"

@@ -1,5 +1,5 @@
 {
-  "created": 1667246865,
+  "created": 1667293054,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/35/items/firstthingsmag-2022",
@@ -18496,31 +18496,93 @@
       "sha1": "285f24f2f71afabef4443bbcb6ecd07d152648a7"
     },
     {
+      "name": "firstthingsmag-2022-11-01T02:52:47.810707-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667285571",
+      "size": "34479",
+      "md5": "778e522f7d9aa1f529c46c7ece51ba6c",
+      "crc32": "5024cf7b",
+      "sha1": "1e3e734bb721a71ae305806873014b8af04f6de4",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-11-01T02:52:47.810707-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667285573",
+      "size": "20229",
+      "md5": "c2545a13bafcfd242752b64e9ade7e2c",
+      "crc32": "bf809bd9",
+      "sha1": "528eae02d10557c8ecc4ceb7f192672ddd12053b",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-11-01T02:52:47.810707-04:00.jpg",
+      "source": "original",
+      "mtime": "1667285569",
+      "size": "262566",
+      "md5": "dbf09114fd733ad84f8eaad7cdce3c29",
+      "crc32": "39c16345",
+      "sha1": "f418a0ae3305486d3ff307712c9edfe00c147461",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "firstthingsmag-2022-11-01T02:52:47.810707-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667285574",
+      "size": "1504",
+      "md5": "6ade143ce2467dfabbb95f5a40d63cac",
+      "crc32": "bb0afa43",
+      "sha1": "b932eeb2d925ae7224087117c8799814e4267d31",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-11-01T02:52:47.810707-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667285576",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "firstthingsmag-2022-11-01T02:52:47.810707-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "firstthingsmag-2022-11-01T02:52:47.810707-04:00.jpg",
+      "mtime": "1667291985",
+      "size": "9353",
+      "md5": "ad5eddd4e998c0a20ee35edc3198783a",
+      "crc32": "be84f8ea",
+      "sha1": "8c50b85e9a8499b5e0bc21b819609e878a5a9ea8"
+    },
+    {
       "name": "firstthingsmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d14f143aac69708492e2adf357682abba7b94493",
-      "mtime": "1667246817",
-      "size": "387176",
-      "md5": "afeb75340644a0618430fff72d5d6bbc",
-      "crc32": "7c0e1cfd",
-      "sha1": "ed6c700bc45a5c1d4bdbfd2221a622e17a4ebe49",
+      "btih": "e4fd696c97ab85aca1c6c2d3babd72e8e077fa51",
+      "mtime": "1667292183",
+      "size": "388477",
+      "md5": "cb07ddfa6c6d10cee35f957190363787",
+      "crc32": "cc5e714c",
+      "sha1": "6683073791786c6950858851245a67828107723a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "firstthingsmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1ed411808af307ade8e659b5e4259c79",
+      "md5": "86fe404de418a4e1eaeb24c7f2150ecc",
       "summation": "md5"
     },
     {
       "name": "firstthingsmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667246259",
-      "size": "2277376",
-      "md5": "f7532ea2a87c8746511ac2379a8b2f4a",
-      "crc32": "7079d4e3",
-      "sha1": "456005956a8a149656831293bf7775303dbf4e96",
+      "mtime": "1667285582",
+      "size": "2285568",
+      "md5": "650e830e9eb6907ae266c76ea1f657bd",
+      "crc32": "b9abd474",
+      "sha1": "b7978fcf96753b706e49e5f7791fee5f3ee7dfd0",
       "format": "Metadata"
     },
     {
@@ -18534,9 +18596,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1791,
-  "item_last_updated": 1667246817,
-  "item_size": 100421193,
+  "files_count": 1797,
+  "firstthingsmag-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667292183,
+  "item_size": 100759019,
   "metadata": {
     "identifier": "firstthingsmag-2022",
     "collection": [
@@ -18553,10 +18620,29 @@
     "publicdate": "2022-07-17 15:03:04",
     "addeddate": "2022-07-17 15:03:04"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1348878711,
+  "pending_tasks": true,
+  "server": "ia601406.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3458545142,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458602830,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1855071576,
   "workable_servers": [
-    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }
