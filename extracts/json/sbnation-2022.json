@@ -1,5 +1,6 @@
 {
-  "created": 1667269682,
+  "conflict": 1667315764,
+  "created": 1667314715,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/4/items/sbnation-2022",
@@ -15223,21 +15224,32 @@
       "format": "JSON"
     },
     {
+      "name": "sbnation-2022-10-31T22:26:05.520879-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sbnation-2022-10-31T22:26:05.520879-04:00.jpg",
+      "mtime": "1667270925",
+      "size": "10873",
+      "md5": "68633546f8963a1de7dc5986b44335b7",
+      "crc32": "261fbf6e",
+      "sha1": "278797b1e649372e5af64a7b3697605c0808d23e"
+    },
+    {
       "name": "sbnation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cde33a24f30939cce6580252d14d5f32f2e5a937",
-      "mtime": "1667269673",
-      "size": "311815",
-      "md5": "e54f35e75ba37b714f2340e174ee9579",
-      "crc32": "14966f30",
-      "sha1": "b012b1f71c832824306b4f6cc5a6bd98dccb1fbd",
+      "btih": "46054c19e16732ae09227a8ea934f2fd57288a1b",
+      "mtime": "1667270952",
+      "size": "312020",
+      "md5": "06da51da64e6d8d087975e8c96e12950",
+      "crc32": "97770b53",
+      "sha1": "422d757730c2b053383a55dc45e49bb1d3ba7054",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sbnation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f9f3fa558ebc7f3fa1682f7758cee70c",
+      "md5": "d1f9167075ad85566619b7b5112b58e4",
       "summation": "md5"
     },
     {
@@ -15261,9 +15273,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1471,
-  "item_last_updated": 1667269673,
-  "item_size": 143277590,
+  "files_count": 1472,
+  "item_last_updated": 1667270952,
+  "item_size": 143288668,
   "metadata": {
     "identifier": "sbnation-2022",
     "collection": [
@@ -15281,20 +15293,52 @@
     "addeddate": "2022-06-24 23:01:08"
   },
   "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
+  "server": "ia801403.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3458369511,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3458836177,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3458836211,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3458836231,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3458836254,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3458836274,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1842265295,
+  "uniq": 1253965254,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia801403.us.archive.org"
   ]
 }

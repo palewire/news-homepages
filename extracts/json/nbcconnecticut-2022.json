@@ -1,5 +1,6 @@
 {
-  "created": 1667269311,
+  "conflict": 1667315314,
+  "created": 1667307574,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/nbcconnecticut-2022",
@@ -6019,21 +6020,32 @@
       "format": "JSON"
     },
     {
+      "name": "nbcconnecticut-2022-10-31T22:20:47.205005-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcconnecticut-2022-10-31T22:20:47.205005-04:00.jpg",
+      "mtime": "1667270517",
+      "size": "9820",
+      "md5": "b0cc8517f3a7fe5221bea5bf2f5fc1c5",
+      "crc32": "bc00a2f3",
+      "sha1": "4375480a0f76358fd4ed5b238ddd328311689294"
+    },
+    {
       "name": "nbcconnecticut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e3c4fdd4f869a286faf9b427428ac748476e6b6b",
-      "mtime": "1667269306",
-      "size": "127847",
-      "md5": "d97a18846cca3f8d27ed8ce7cda8fc1f",
-      "crc32": "dc84be86",
-      "sha1": "c5ac89df19612179a84d4ee15a3ce316f3ef529e",
+      "btih": "331d8eb7e39b1f1cf2ee4f466cdaa9c2e9ada066",
+      "mtime": "1667270524",
+      "size": "128057",
+      "md5": "a91c3b53ce54696d3b46d0327ab143d3",
+      "crc32": "05558e85",
+      "sha1": "9ba7dd077db363ce647fe9d52b7ea10aaeeb9242",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcconnecticut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e3872e7876f20daa8d2113ada71dd602",
+      "md5": "dbb7620e7c76bfe87bb29c66e7fd93e4",
       "summation": "md5"
     },
     {
@@ -6057,9 +6069,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 586,
-  "item_last_updated": 1667269306,
-  "item_size": 49170967,
+  "files_count": 587,
+  "item_last_updated": 1667270524,
+  "item_size": 49180997,
   "metadata": {
     "identifier": "nbcconnecticut-2022",
     "collection": [
@@ -6077,20 +6089,52 @@
     "addeddate": "2022-09-14 01:20:27"
   },
   "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
+  "server": "ia801403.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3458364656,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3458832750,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3458832766,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3458832783,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3458832803,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3458832829,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 406794015,
+  "uniq": 2012703746,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia801403.us.archive.org"
   ]
 }

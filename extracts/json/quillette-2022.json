@@ -1,5 +1,6 @@
 {
-  "created": 1667269573,
+  "conflict": 1667315661,
+  "created": 1667315661,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/31/items/quillette-2022",
@@ -17455,31 +17456,155 @@
       "format": "JSON"
     },
     {
+      "name": "quillette-2022-11-01T02:24:42.199610+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quillette-2022-11-01T02:24:42.199610+00:00.jpg",
+      "mtime": "1667270711",
+      "size": "9676",
+      "md5": "b4b7540e13ca4e7e9d4aa20039971113",
+      "crc32": "2bc40dc3",
+      "sha1": "32324623b46477b63707412327b16a98425a06e8"
+    },
+    {
+      "name": "quillette-2022-11-01T09:34:27.580634+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667295279",
+      "size": "16726",
+      "md5": "52bba28a5e7f0bd577f13ab3754fd29b",
+      "crc32": "7fb002f2",
+      "sha1": "874727a77dd9bd277d1b75f96fb7ca98b7224aa1",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-11-01T09:34:27.580634+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667295280",
+      "size": "12464",
+      "md5": "3915485135e7b957f342192a1972f002",
+      "crc32": "0f1201b7",
+      "sha1": "c11798a79313554d3c37946793e0580dd1ce3562",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-11-01T09:34:27.580634+00:00.jpg",
+      "source": "original",
+      "mtime": "1667295277",
+      "size": "215055",
+      "md5": "1e186c2d896dc69f2f457dfc31ab3394",
+      "crc32": "9893f213",
+      "sha1": "5c61b0d02ba59b4a6a8ec7af11fb8d5ef1c4cf34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quillette-2022-11-01T09:34:27.580634+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667295282",
+      "size": "1449",
+      "md5": "31bf4a216bb20b1ef0cca341e0460800",
+      "crc32": "5415f206",
+      "sha1": "b08136e03d90e1157b0a29a75229ceb3e79c85df",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-11-01T09:34:27.580634+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667295283",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-11-01T09:34:27.580634+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quillette-2022-11-01T09:34:27.580634+00:00.jpg",
+      "mtime": "1667295695",
+      "size": "9676",
+      "md5": "b4b7540e13ca4e7e9d4aa20039971113",
+      "crc32": "2bc40dc3",
+      "sha1": "32324623b46477b63707412327b16a98425a06e8"
+    },
+    {
+      "name": "quillette-2022-11-01T14:58:18.180816+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667314708",
+      "size": "16726",
+      "md5": "52bba28a5e7f0bd577f13ab3754fd29b",
+      "crc32": "7fb002f2",
+      "sha1": "874727a77dd9bd277d1b75f96fb7ca98b7224aa1",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-11-01T14:58:18.180816+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667314710",
+      "size": "12464",
+      "md5": "3915485135e7b957f342192a1972f002",
+      "crc32": "0f1201b7",
+      "sha1": "c11798a79313554d3c37946793e0580dd1ce3562",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-11-01T14:58:18.180816+00:00.jpg",
+      "source": "original",
+      "mtime": "1667314706",
+      "size": "215055",
+      "md5": "1e186c2d896dc69f2f457dfc31ab3394",
+      "crc32": "9893f213",
+      "sha1": "5c61b0d02ba59b4a6a8ec7af11fb8d5ef1c4cf34",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "quillette-2022-11-01T14:58:18.180816+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667314712",
+      "size": "1450",
+      "md5": "4bb1a09e76eb7be9c920c8c6cc676626",
+      "crc32": "623a3a73",
+      "sha1": "e246b947e02bb64e957f86a9f7cf1cc39ab4d11e",
+      "format": "JSON"
+    },
+    {
+      "name": "quillette-2022-11-01T14:58:18.180816+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667314714",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "quillette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5466e9f68b86c77589bc5984a71cc83f5c33ddb7",
-      "mtime": "1667269563",
-      "size": "355856",
-      "md5": "fbf1699a03b508d0e2750ccf0eb1758b",
-      "crc32": "2cc6fec4",
-      "sha1": "35303e23149322998ed81ea71486e01a255024c9",
+      "btih": "24b715054f8473685ded73d031b8683890245c0a",
+      "mtime": "1667314787",
+      "size": "358378",
+      "md5": "1cac2a8583a53bdc77fa83800587c569",
+      "crc32": "2726561b",
+      "sha1": "74b4b2f16ce09628af99256985c9d51a25ffbedd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quillette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "220cf1f3519be886463ea48339ce9a69",
+      "md5": "20bbb3f3676b86517edb46232d540371",
       "summation": "md5"
     },
     {
       "name": "quillette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667269499",
-      "size": "2142208",
-      "md5": "c415dd4b83863096b9f3aa3e41b25960",
-      "crc32": "d49a49c7",
-      "sha1": "bf1ffa160c457701d26c456ec4d5aa9fd7a871d1",
+      "mtime": "1667314719",
+      "size": "2158592",
+      "md5": "14e9723aba4659b4cf0e03c62b043dc4",
+      "crc32": "0eb9bddc",
+      "sha1": "8d49b4bb4ef9f1538d5a7bd5a10ff7afa7feee88",
       "format": "Metadata"
     },
     {
@@ -17493,9 +17618,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1691,
-  "item_last_updated": 1667269563,
-  "item_size": 74002351,
+  "files_count": 1703,
+  "item_last_updated": 1667314787,
+  "item_size": 74532402,
   "metadata": {
     "identifier": "quillette-2022",
     "collection": [
@@ -17517,15 +17642,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3458368112,
+      "task_id": 3458837115,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 961651833,
+  "uniq": 708233438,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]
