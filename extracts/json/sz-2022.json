@@ -1,6 +1,5 @@
 {
-  "conflict": 1667315818,
-  "created": 1667315818,
+  "created": 1667355951,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/19/items/sz-2022",
@@ -10217,31 +10216,82 @@
       "sha1": "e3cce9a05f1349fc8d8ed2e2c08eefe23ce09ddd"
     },
     {
+      "name": "sz-2022-11-02T03:24:25.525013+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667355869",
+      "size": "105052",
+      "md5": "3a439b44b4fc142d7f88dfc1526998b0",
+      "crc32": "d00f5fca",
+      "sha1": "45067396be0ac0158aa97bde39b428503cfcd8ac",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-11-02T03:24:25.525013+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667355871",
+      "size": "179738",
+      "md5": "eda6f7d15eb2e910a19141ccf8788158",
+      "crc32": "a7925b9c",
+      "sha1": "47c42970465c11aefdd830abdf14c579d6daa794",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-11-02T03:24:25.525013+01:00.jpg",
+      "source": "original",
+      "mtime": "1667355867",
+      "size": "231079",
+      "md5": "5c817ba9605c92848ad6f1f2c9618f7b",
+      "crc32": "f32d2669",
+      "sha1": "2f821303a6d8302586df535e0008748e0a8d69fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sz-2022-11-02T03:24:25.525013+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667355873",
+      "size": "1493",
+      "md5": "27f66a39ad6a10683389538b99e25a49",
+      "crc32": "60645455",
+      "sha1": "d33a5249e3eef6fcb42f9de428765a15585385b2",
+      "format": "JSON"
+    },
+    {
+      "name": "sz-2022-11-02T03:24:25.525013+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667355875",
+      "size": "29836",
+      "md5": "a9acbbf412cfe78990ae53efb12dc848",
+      "crc32": "cef71c53",
+      "sha1": "84743e0a8c53b92aec6d6e18f0d61a237acf16bc",
+      "format": "JSON"
+    },
+    {
       "name": "sz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8837e1023ead2680dc8e33482830da3778234a7a",
-      "mtime": "1667315785",
-      "size": "204352",
-      "md5": "d8d25add44ced9334207badb6bee98a5",
-      "crc32": "e48a3d21",
-      "sha1": "c7ad4eb48ef8b68785ee42a1873413c09329982c",
+      "btih": "a6c0b3d8838463e48f18667bffd6be62a6a63be0",
+      "mtime": "1667355941",
+      "size": "205387",
+      "md5": "b96763d8854ddcad5cb109351bfcbe15",
+      "crc32": "5c6f832b",
+      "sha1": "ee59b4d5f3593b1a902235b0c60d831e39a7a8b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "953aa9945478e2c4f6f0084f55257b3a",
+      "md5": "b83acadaf1929f3584d1878407c7cea9",
       "summation": "md5"
     },
     {
       "name": "sz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667314895",
-      "size": "1257472",
-      "md5": "414c557902652a2d1546dad619b18c26",
-      "crc32": "d8a75c2f",
-      "sha1": "3024535aa9f8a0c9094acb4eafea0fad1db5c400",
+      "mtime": "1667355886",
+      "size": "1265664",
+      "md5": "25d66d8a7d6ac4f3a0314df89b57c137",
+      "crc32": "6d2c4ccb",
+      "sha1": "24bf4ab272b6604f33773af3fa0c4b6cd7c0e603",
       "format": "Metadata"
     },
     {
@@ -10255,9 +10305,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 992,
-  "item_last_updated": 1667315785,
-  "item_size": 89774272,
+  "files_count": 997,
+  "item_last_updated": 1667355941,
+  "item_size": 90330697,
   "metadata": {
     "identifier": "sz-2022",
     "collection": [
@@ -10279,15 +10329,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3458850994,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "task_id": 3459318575,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 685392585,
+  "uniq": 1743581868,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

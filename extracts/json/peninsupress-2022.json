@@ -1,5 +1,5 @@
 {
-  "created": 1667314626,
+  "created": 1667355883,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/peninsupress-2022",
@@ -15009,31 +15009,93 @@
       "format": "JSON"
     },
     {
+      "name": "peninsupress-2022-11-01T07:55:17.967642-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "peninsupress-2022-11-01T07:55:17.967642-07:00.jpg",
+      "mtime": "1667315985",
+      "size": "8909",
+      "md5": "7924e6ced4ae164698b04e233ebdd7f6",
+      "crc32": "aabc6641",
+      "sha1": "45d448bba44c025be00aed753c27e4f42d805c7f"
+    },
+    {
+      "name": "peninsupress-2022-11-01T19:23:03.628187-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667355786",
+      "size": "19432",
+      "md5": "959c6297d33e2e062f9edbcde745a3c7",
+      "crc32": "5a37f941",
+      "sha1": "c1a91315145e0242f514ad741331b8033b04a9b2",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-11-01T19:23:03.628187-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667355788",
+      "size": "17949",
+      "md5": "d45f96b1bdcd57a18a9f8d7e3c16ec51",
+      "crc32": "14d9760d",
+      "sha1": "5475dd31e26bfe398777a6d0380ec2d00346be5b",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-11-01T19:23:03.628187-07:00.jpg",
+      "source": "original",
+      "mtime": "1667355785",
+      "size": "154316",
+      "md5": "87a9bf3b0dd05161fb0e22ee0aa01cdf",
+      "crc32": "6a79d896",
+      "sha1": "426160a9353656d55b3547e6451af789c83f8492",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "peninsupress-2022-11-01T19:23:03.628187-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667355789",
+      "size": "1495",
+      "md5": "c44b991e7edbc0b2acbc7bcba108c520",
+      "crc32": "5d4f1e23",
+      "sha1": "f5b886adc8fe4d2eda4f450bfb4219669de7bd50",
+      "format": "JSON"
+    },
+    {
+      "name": "peninsupress-2022-11-01T19:23:03.628187-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667355791",
+      "size": "9834",
+      "md5": "a0fc07432d23626a456f423a0fb83323",
+      "crc32": "b70e8aa6",
+      "sha1": "272136c59a5ca539f5d75d5d7ff98d485859114d",
+      "format": "JSON"
+    },
+    {
       "name": "peninsupress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "049ec9cf4da09f656ff2a0faedf23ba0554ed636",
-      "mtime": "1667314614",
-      "size": "309697",
-      "md5": "3e27d83e4d653a864bb659db0cd50e81",
-      "crc32": "91308f8f",
-      "sha1": "37bd21a8243111c618f22d445d5741f2fc7aa61a",
+      "btih": "7bb2750ff1914d740247aa91542d9c3eb399f94d",
+      "mtime": "1667355870",
+      "size": "310967",
+      "md5": "f17fe9461d14040aeec7d066b8cfd220",
+      "crc32": "addfb168",
+      "sha1": "b21300e2b5762f41fbb7b7127a7f609f3b13a814",
       "format": "Archive BitTorrent"
     },
     {
       "name": "peninsupress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb671dc18298dcc482f0dd4986a8d5a7",
+      "md5": "3d522fb0698aa9ee13d00f505b802ce0",
       "summation": "md5"
     },
     {
       "name": "peninsupress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667314553",
-      "size": "1822720",
-      "md5": "e0a4e52660bf07cbc62fcf2bd2b63107",
-      "crc32": "1d88a306",
-      "sha1": "0614a15ccc7d6729dc555a94d37552edd5501fe4",
+      "mtime": "1667355804",
+      "size": "1826816",
+      "md5": "8d603b7da0a7088f5e090698a89d4f53",
+      "crc32": "14afbe2a",
+      "sha1": "f6cc6d3390ec14ade83c333209e540884c62060c",
       "format": "Metadata"
     },
     {
@@ -15047,9 +15109,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1451,
-  "item_last_updated": 1667314614,
-  "item_size": 58132947,
+  "files_count": 1457,
+  "item_last_updated": 1667355870,
+  "item_size": 58350248,
   "metadata": {
     "identifier": "peninsupress-2022",
     "collection": [
@@ -15071,15 +15133,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3458835146,
+      "task_id": 3459317727,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 518892864,
+  "uniq": 768749004,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

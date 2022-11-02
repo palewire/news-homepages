@@ -1,6 +1,5 @@
 {
-  "conflict": 1667315601,
-  "created": 1667315601,
+  "created": 1667355770,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/poconorecord-2022",
@@ -5225,31 +5224,82 @@
       "sha1": "68c9111b3015540cbee464d23b2cfeb6fb2871d3"
     },
     {
+      "name": "poconorecord-2022-11-01T22:21:54.608116-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667355718",
+      "size": "21529",
+      "md5": "c2e6c1ab6a2511948848e3897b0d1d7b",
+      "crc32": "b8f94951",
+      "sha1": "09ddcfd51b327eae50073c97016ed9f799c79fc7",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-11-01T22:21:54.608116-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667355719",
+      "size": "35226",
+      "md5": "931f6e002f29df0e4f1f9525cb5a60eb",
+      "crc32": "37b42a72",
+      "sha1": "f9fcab2bc677c3d2e160b4fc5a305e44223dd15f",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-11-01T22:21:54.608116-04:00.jpg",
+      "source": "original",
+      "mtime": "1667355716",
+      "size": "234813",
+      "md5": "2ac8cf0c8c66a4a2b8ee0561f136e63d",
+      "crc32": "80c25069",
+      "sha1": "310d2827e10e0d4a84b85132721083ef810b6d86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "poconorecord-2022-11-01T22:21:54.608116-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667355721",
+      "size": "1513",
+      "md5": "6e750d5d58e03318367917fda14aaf7c",
+      "crc32": "8cd6d244",
+      "sha1": "edf79beb2aebbb7609a6f62d32ed7ba2ae8ad664",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-11-01T22:21:54.608116-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667355723",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "poconorecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e55888302f928950ac9be92aa6acfad5de3e91e1",
-      "mtime": "1667315599",
-      "size": "109625",
-      "md5": "5e28f2bb99615956b060f0de31216665",
-      "crc32": "95942e93",
-      "sha1": "4c1b406fdc7dadb3ce0d916dbd069f5128121a06",
+      "btih": "b67e49db574f7ca9256dbbb1769f5ec3bd7db720",
+      "mtime": "1667355766",
+      "size": "110706",
+      "md5": "f1fa204ddda2ee44ed5d21556d4474cd",
+      "crc32": "75121def",
+      "sha1": "ca49d09be850d564a2fc01cc3f8309f0b3700dcf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "poconorecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6afceedf8f14dd9370d595ca23727ccc",
+      "md5": "0984ad38176942bbc4d42eb00a729e03",
       "summation": "md5"
     },
     {
       "name": "poconorecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667314651",
-      "size": "663552",
-      "md5": "eda4175d60606b69c4f0fbe751f07402",
-      "crc32": "bb7d89d3",
-      "sha1": "7de077c156f24d83926a00f4ff4f8774133a758a",
+      "mtime": "1667355727",
+      "size": "671744",
+      "md5": "4871a1c7095479085058ae57ff5694a2",
+      "crc32": "af198ceb",
+      "sha1": "7e759ee76e0a9c5fe82a8bf63f047a271c032e63",
       "format": "Metadata"
     },
     {
@@ -5263,9 +5313,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 509,
-  "item_last_updated": 1667315599,
-  "item_size": 33370537,
+  "files_count": 514,
+  "item_last_updated": 1667355766,
+  "item_size": 33673093,
   "metadata": {
     "identifier": "poconorecord-2022",
     "collection": [
@@ -5287,15 +5337,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3458835870,
+      "task_id": 3459316228,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1767244385,
+  "uniq": 1588120389,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

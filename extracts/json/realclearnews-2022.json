@@ -1,5 +1,5 @@
 {
-  "created": 1667314803,
+  "created": 1667355900,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/6/items/realclearnews-2022",
@@ -9169,31 +9169,83 @@
       "format": "JSON"
     },
     {
+      "name": "realclearnews-2022-11-01T10:58:43.709535-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "realclearnews-2022-11-01T10:58:43.709535-04:00.jpg",
+      "mtime": "1667315723",
+      "size": "10498",
+      "md5": "7d13c5a64c57edf1fed6d06863dba9d1",
+      "crc32": "56ea329f",
+      "sha1": "f643142a6787f61820c30c8878a877639c38e3bb"
+    },
+    {
+      "name": "realclearnews-2022-11-01T22:23:44.317312-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667355828",
+      "size": "161",
+      "md5": "b3fc1ae5b5a7028736d79c1ef50ce6eb",
+      "crc32": "837fa67e",
+      "sha1": "fc80bdf0e3eb433f99a11f1e02a7c22401d714b9",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-11-01T22:23:44.317312-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667355829",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-11-01T22:23:44.317312-04:00.jpg",
+      "source": "original",
+      "mtime": "1667355826",
+      "size": "474377",
+      "md5": "8079a0bf938ebe55b16c63ef4f8a033f",
+      "crc32": "2d6dc5bb",
+      "sha1": "c464fc9b0cd7ec97957025535f2939fda0cfaf27",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "realclearnews-2022-11-01T22:23:44.317312-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667355831",
+      "size": "131457",
+      "md5": "b3f96ddfc61051e7983d9e733f8be4bd",
+      "crc32": "f8a37933",
+      "sha1": "aa632357a206bc65606a94b0af2402d46b0d1af4",
+      "format": "JSON"
+    },
+    {
       "name": "realclearnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "243b52c6d17da0ef978314d3503252d0153b8fb4",
-      "mtime": "1667314796",
-      "size": "191389",
-      "md5": "caf7e39d7c56832454cecc6fda3bf07f",
-      "crc32": "58d31f48",
-      "sha1": "681fbfeca0b6a97dc5000bfd618d3f764b694643",
+      "btih": "bf319fe5c91c024c7cddeb3fbaf8f32a777115f5",
+      "mtime": "1667355888",
+      "size": "192467",
+      "md5": "190295a8c263f39b158fa47ab3b34286",
+      "crc32": "ae507861",
+      "sha1": "a61bba3df0551af6b969b3d7587376de97e750bf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "realclearnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "918e204f0205a731a9e0ddf317baf30a",
+      "md5": "94b52d22aea0e5d35397c0f22b042cfd",
       "summation": "md5"
     },
     {
       "name": "realclearnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667314743",
-      "size": "1097728",
-      "md5": "6fe3bf5ec6608ffd4071fe4924988ac7",
-      "crc32": "56882141",
-      "sha1": "4e942f57b46f929a95ad855401ef51c3eb39bb19",
+      "mtime": "1667355836",
+      "size": "1101824",
+      "md5": "c4e46853244907f7290ca373acd0da15",
+      "crc32": "0e05cb02",
+      "sha1": "b6fb531fdbfd30a5199cce92257424990014ddd6",
       "format": "Metadata"
     },
     {
@@ -9207,9 +9259,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 885,
-  "item_last_updated": 1667314796,
-  "item_size": 98603658,
+  "files_count": 890,
+  "item_last_updated": 1667355888,
+  "item_size": 99225327,
   "metadata": {
     "identifier": "realclearnews-2022",
     "collection": [
@@ -9231,15 +9283,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3458837193,
+      "task_id": 3459317927,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1318638363,
+  "uniq": 1712258699,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]

@@ -1,6 +1,5 @@
 {
-  "conflict": 1667315484,
-  "created": 1667315484,
+  "created": 1667355796,
   "d1": "ia904705.us.archive.org",
   "d2": "ia804705.us.archive.org",
   "dir": "/1/items/openvallejo-2022",
@@ -13859,34 +13858,90 @@
       "name": "openvallejo-2022-11-01T07:54:57.500531-07:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "openvallejo-2022-11-01T07:54:57.500531-07:00.jpg"
+      "original": "openvallejo-2022-11-01T07:54:57.500531-07:00.jpg",
+      "mtime": "1667315479",
+      "size": "10620",
+      "md5": "829bbb8a5908e23ddb4eddd093c633c5",
+      "crc32": "4570c784",
+      "sha1": "93a3f0a27c21bb0f96b48272a41b857742c789c1"
+    },
+    {
+      "name": "openvallejo-2022-11-01T19:22:07.894450-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667355731",
+      "size": "23595",
+      "md5": "8e156e862b3114afd50ddfc1409bf7ad",
+      "crc32": "74cb3c51",
+      "sha1": "902cdcce7696f9194f92a4e8e27bd5af8fb5e498",
+      "format": "JSON"
+    },
+    {
+      "name": "openvallejo-2022-11-01T19:22:07.894450-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667355733",
+      "size": "22480",
+      "md5": "c5d6538d41df520666ce82b9b6136430",
+      "crc32": "10149356",
+      "sha1": "1eee8f03d0c004358dd1498354b94c5bbe64b245",
+      "format": "JSON"
+    },
+    {
+      "name": "openvallejo-2022-11-01T19:22:07.894450-07:00.jpg",
+      "source": "original",
+      "mtime": "1667355729",
+      "size": "288384",
+      "md5": "b2f194af9044a51e632ee460e83776a3",
+      "crc32": "9e3f4aff",
+      "sha1": "457eb6804f13c970c0f69ad2840f49abe5a1caac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "openvallejo-2022-11-01T19:22:07.894450-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667355735",
+      "size": "1468",
+      "md5": "913a5c41aaeb98fa7ad451e2edea2065",
+      "crc32": "4ec7cd0b",
+      "sha1": "7ec5251f2f6bd1305635423fa189e613b4923054",
+      "format": "JSON"
+    },
+    {
+      "name": "openvallejo-2022-11-01T19:22:07.894450-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667355737",
+      "size": "18778",
+      "md5": "9647a6a6ec74f4d22fee5aba6773fbf1",
+      "crc32": "bc4cca96",
+      "sha1": "9a7184fd45a83a83d7caa3cb892821ac18ba3b70",
+      "format": "JSON"
     },
     {
       "name": "openvallejo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3677be7beeb6f40ef521a785c635d536de6c129e",
-      "mtime": "1667314576",
-      "size": "286536",
-      "md5": "9f73b75e5d0421f3d17056af26263cc1",
-      "crc32": "f7d4edd9",
-      "sha1": "be957bf026c71ac1af2711c4828d35fa252c8053",
+      "btih": "96927376b7176c36c16fe7b717f4da377ea19ab1",
+      "mtime": "1667355790",
+      "size": "287822",
+      "md5": "570feec6b10c98c164e431faa4ea3f35",
+      "crc32": "bca6b089",
+      "sha1": "8e15c5ef74664a6e5c30029d859c858743c3c1e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "openvallejo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1ef140d9493a9b3ba3c7b8882e2c4f45",
+      "md5": "f8b615ff677677d8f066152786dba8e4",
       "summation": "md5"
     },
     {
       "name": "openvallejo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667314528",
-      "size": "1691648",
-      "md5": "727a2754b64b4a35ff83abcc3762aaf2",
-      "crc32": "eae56b07",
-      "sha1": "80191ef11c8d99a986616ba7ad108b2b5e87a504",
+      "mtime": "1667355743",
+      "size": "1699840",
+      "md5": "48e73593cc19bb022610659e8fa42ead",
+      "crc32": "f0b1828b",
+      "sha1": "605b97bffc293a5f7b1ebb6015ccf8a742e2412b",
       "format": "Metadata"
     },
     {
@@ -13900,9 +13955,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1342,
-  "item_last_updated": 1667314576,
-  "item_size": 83628815,
+  "files_count": 1347,
+  "item_last_updated": 1667355790,
+  "item_size": 84003618,
   "metadata": {
     "identifier": "openvallejo-2022",
     "collection": [
@@ -13924,15 +13979,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3458834720,
+      "task_id": 3459316678,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 2076640667,
+  "uniq": 2018021338,
   "workable_servers": [
     "ia904705.us.archive.org"
   ]
