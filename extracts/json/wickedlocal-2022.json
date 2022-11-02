@@ -1,5 +1,5 @@
 {
-  "created": 1667321884,
+  "created": 1667365276,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/3/items/wickedlocal-2022",
@@ -5204,31 +5204,82 @@
       "sha1": "1b44564040e64254df517176a1615cb92f1b4976"
     },
     {
+      "name": "wickedlocal-2022-11-02T00:26:36.481793-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667363199",
+      "size": "18150",
+      "md5": "52c0763cdc4981eea9d35d2d82d8aad4",
+      "crc32": "14edc9d1",
+      "sha1": "46fb14734ee57a8bf2783d7e96bb942bf6e82ef0",
+      "format": "JSON"
+    },
+    {
+      "name": "wickedlocal-2022-11-02T00:26:36.481793-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667363201",
+      "size": "34198",
+      "md5": "09d909ed9cf251d116c535e321b83e3d",
+      "crc32": "0e845d9e",
+      "sha1": "67bcb1c228535cbd5d7cca3327b0f9116fd2b428",
+      "format": "JSON"
+    },
+    {
+      "name": "wickedlocal-2022-11-02T00:26:36.481793-04:00.jpg",
+      "source": "original",
+      "mtime": "1667363198",
+      "size": "247844",
+      "md5": "08c4f2797355b51c8e43fa92212d17be",
+      "crc32": "c8f1b851",
+      "sha1": "8d0e8d736527da98a3795c77ac95ee03108e46ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wickedlocal-2022-11-02T00:26:36.481793-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667363203",
+      "size": "1504",
+      "md5": "2cbb124536153ae1cee76d78346ee7c4",
+      "crc32": "c7f3de0c",
+      "sha1": "dba1f228d7038ca543e0194a42f428ac56f1a10b",
+      "format": "JSON"
+    },
+    {
+      "name": "wickedlocal-2022-11-02T00:26:36.481793-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667363205",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "wickedlocal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6d708b391a1d0a09fa75da0912b36e1f191c0651",
-      "mtime": "1667319890",
-      "size": "108677",
-      "md5": "c9fa6250b0f8476854a6d27a6f53e10e",
-      "crc32": "5359a99e",
-      "sha1": "b982f8cd966fa8dfbf9f4c736315b4a25c9dca33",
+      "btih": "c98cf9762d971bc35926a01329b8bedbd034defa",
+      "mtime": "1667363247",
+      "size": "109753",
+      "md5": "5867ea0d1e6dc5e979b6fa906faaf05e",
+      "crc32": "5f3d3a9d",
+      "sha1": "c4daf8d3b99f145734a6b01971dbb019cc61d80d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wickedlocal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1d7900aa4dcd0a26d75f2c07b081efd4",
+      "md5": "c2937ca4e3ddb3a0bf09095b839611cb",
       "summation": "md5"
     },
     {
       "name": "wickedlocal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667319074",
-      "size": "663552",
-      "md5": "cbdb8925b5e4bc897edb72305cc7cfe6",
-      "crc32": "a575a878",
-      "sha1": "8326fe28389886ea8bd11fdc79e1816adaba0958",
+      "mtime": "1667363209",
+      "size": "667648",
+      "md5": "c5bba3da950d927232a5a74e28b2cb84",
+      "crc32": "b0ce2047",
+      "sha1": "afe9f6abf5e386b13d63ae8a43dcd6f1c64a79b0",
       "format": "Metadata"
     },
     {
@@ -5242,9 +5293,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 507,
-  "item_last_updated": 1667319890,
-  "item_size": 33626794,
+  "files_count": 512,
+  "item_last_updated": 1667363247,
+  "item_size": 33933864,
   "metadata": {
     "identifier": "wickedlocal-2022",
     "collection": [
@@ -5261,18 +5312,26 @@
     "publicdate": "2022-09-21 04:40:34",
     "addeddate": "2022-09-21 04:40:34"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1259775640,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459399276,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 398751743,
   "wickedlocal-2022": {
-    "url": "https://www.wickedlocal.com/",
-    "job_id": "spn2-176be1c5bc210ee2b09784d8970ad5c5971aeda5",
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
-    "status_ext": "WorkerLostError",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1189.",
-    "resources": []
+    "status_ext": "error:user-session-limit"
   },
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

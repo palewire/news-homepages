@@ -1,10 +1,5 @@
 {
-  "capgaznews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667322353,
+  "created": 1667363185,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/30/items/capgaznews-2022",
@@ -15557,31 +15552,82 @@
       "sha1": "a302078b7a18c0951404fb665c229805c735b5bb"
     },
     {
+      "name": "capgaznews-2022-11-02T00:25:00.311181-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667363111",
+      "size": "33781",
+      "md5": "b1dd2ec8281778648fa13022d9f54b82",
+      "crc32": "252d4c7c",
+      "sha1": "0f25c52014b01e1862bf96a32725bd6ce0a6b15b",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-11-02T00:25:00.311181-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667363112",
+      "size": "29252",
+      "md5": "532d70df2f3b9a638334a3184f2454fe",
+      "crc32": "bab20113",
+      "sha1": "bdb13595def73ae2895fa59ba30634d789c96b2a",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-11-02T00:25:00.311181-04:00.jpg",
+      "source": "original",
+      "mtime": "1667363109",
+      "size": "264006",
+      "md5": "a8a7c15da2b9679e0c8cdde8feb2d157",
+      "crc32": "6cd5ea74",
+      "sha1": "4b477e2ac2636932b4681aa76bd2e2f323e16776",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capgaznews-2022-11-02T00:25:00.311181-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667363113",
+      "size": "1528",
+      "md5": "40907c3bf16f4b19b1aa70642a8a6309",
+      "crc32": "7131c634",
+      "sha1": "9fd42ab3dc4ca525a417c99191e590ec868e5766",
+      "format": "JSON"
+    },
+    {
+      "name": "capgaznews-2022-11-02T00:25:00.311181-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667363115",
+      "size": "63229",
+      "md5": "c9f71c639d22cc0c31b1d9d8a2783136",
+      "crc32": "326d179e",
+      "sha1": "687653aa1aabbab85139dadfe8d16b122bf8ebac",
+      "format": "JSON"
+    },
+    {
       "name": "capgaznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4878cb1dafc9f7cb9d9edd1186e91ead2d676625",
-      "mtime": "1667319954",
-      "size": "319661",
-      "md5": "17c7090e0a865c376e9f8189aad99f2e",
-      "crc32": "2e9c2c3b",
-      "sha1": "4e489f8baf799ee46e543025a0c9687b3e0f54b5",
+      "btih": "bcc17d41e15912d0fa849f11fb09248e5d62637c",
+      "mtime": "1667363178",
+      "size": "320734",
+      "md5": "d0219810cfc6b200bc6726c0c2f81c2c",
+      "crc32": "46e6e3e2",
+      "sha1": "552d7eee98295ead076887e0ee0eeb054bb8161f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capgaznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83fca075c6af9596f6e78bda185d364f",
+      "md5": "87c9a868ccdd014c7ceaa1760df28174",
       "summation": "md5"
     },
     {
       "name": "capgaznews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667318922",
-      "size": "1875968",
-      "md5": "53b2e50105ecaec25509d19fc935afb4",
-      "crc32": "efec872d",
-      "sha1": "3dc24716125a9b2936b12a6a5ac21aab2e323d73",
+      "mtime": "1667363120",
+      "size": "1884160",
+      "md5": "b2d944b46edc50a78e7c14c936f742c8",
+      "crc32": "a065e031",
+      "sha1": "56eb5be51d318b9b3dd520c74d9e806204955af0",
       "format": "Metadata"
     },
     {
@@ -15595,9 +15641,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1503,
-  "item_last_updated": 1667319954,
-  "item_size": 103976343,
+  "files_count": 1508,
+  "item_last_updated": 1667363178,
+  "item_size": 104377404,
   "metadata": {
     "identifier": "capgaznews-2022",
     "collection": [
@@ -15614,10 +15660,21 @@
     "publicdate": "2022-06-24 22:54:14",
     "addeddate": "2022-06-24 22:54:14"
   },
+  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "uniq": 1916861701,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459398630,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1619956170,
   "workable_servers": [
-    "ia601406.us.archive.org",
-    "ia801406.us.archive.org"
+    "ia601406.us.archive.org"
   ]
 }

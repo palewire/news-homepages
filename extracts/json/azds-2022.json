@@ -1,5 +1,10 @@
 {
-  "created": 1667319380,
+  "azds-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667365439,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/24/items/azds-2022",
@@ -13732,31 +13737,93 @@
       "sha1": "ff052250c5b67cb26ec61cf17d5d704ce8e23912"
     },
     {
+      "name": "azds-2022-11-01T21:22:35.900535-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667362966",
+      "size": "26707",
+      "md5": "f175a8a42ced04887a344f5a98c677cc",
+      "crc32": "9bcc30d1",
+      "sha1": "0eb444cd4d657a49570a18934d42d9642a7c60cf",
+      "format": "JSON"
+    },
+    {
+      "name": "azds-2022-11-01T21:22:35.900535-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667362968",
+      "size": "76533",
+      "md5": "2d6c530d287cb6d15bdb8974627d2ac2",
+      "crc32": "2fed2c60",
+      "sha1": "9165786dcdf60d8d652eea15a004a5b7c4da2d15",
+      "format": "JSON"
+    },
+    {
+      "name": "azds-2022-11-01T21:22:35.900535-07:00.jpg",
+      "source": "original",
+      "mtime": "1667362964",
+      "size": "314419",
+      "md5": "1ac7baf1e06e325a8a22651ca8bdddd2",
+      "crc32": "71f7f386",
+      "sha1": "03897f054338f29083281ea73c66333a2a772ff5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "azds-2022-11-01T21:22:35.900535-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667362969",
+      "size": "1459",
+      "md5": "a38021d6293e6c189d38d2f9bf382324",
+      "crc32": "bfad141b",
+      "sha1": "abc88fcbe5e8107ae0acbb1c132315bc9a0526de",
+      "format": "JSON"
+    },
+    {
+      "name": "azds-2022-11-01T21:22:35.900535-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667362972",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "azds-2022-11-01T21:22:35.900535-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "azds-2022-11-01T21:22:35.900535-07:00.jpg",
+      "mtime": "1667364161",
+      "size": "11479",
+      "md5": "2a1463aebd294958564342145024ed43",
+      "crc32": "5b7cb0ea",
+      "sha1": "66432ae8812f99ed369607123f30106eb9c4b99e"
+    },
+    {
       "name": "azds-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dadbe1cb887d9bdf05b48e1087a52ca334dcde2d",
-      "mtime": "1667319351",
-      "size": "275702",
-      "md5": "c00d086ecf007b03c863d885fe11628c",
-      "crc32": "a962e84f",
-      "sha1": "f45e99b9217949afbc7a99b17cd01648a984ee53",
+      "btih": "d9bc96cdc34d400bc30538647ef4527b77278f6c",
+      "mtime": "1667364187",
+      "size": "276944",
+      "md5": "15cba60d970e90f24c443b04a6db4ce7",
+      "crc32": "d246dfe3",
+      "sha1": "3eea97116132d4be69bd377ac7396d5a0df56394",
       "format": "Archive BitTorrent"
     },
     {
       "name": "azds-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "019edcb1301844d134a22d134ddebaeb",
+      "md5": "d5c6a6b839017f5c83ef6dc9fcc18245",
       "summation": "md5"
     },
     {
       "name": "azds-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667318735",
-      "size": "1658880",
-      "md5": "c2cfa5c74cc462299e680f445de7d0d3",
-      "crc32": "46cf5fcd",
-      "sha1": "9b4fde0c9f53247fd0023e236c0293dfbd6f2c8e",
+      "mtime": "1667362978",
+      "size": "1667072",
+      "md5": "eeeea43f67d92e929bf3c8f1b3990060",
+      "crc32": "c6d3a901",
+      "sha1": "72982a5d05622df6cc2cdd9e509d01d14f1509a1",
       "format": "Metadata"
     },
     {
@@ -13770,9 +13837,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1329,
-  "item_last_updated": 1667319351,
-  "item_size": 110579947,
+  "files_count": 1335,
+  "item_last_updated": 1667364187,
+  "item_size": 111020180,
   "metadata": {
     "identifier": "azds-2022",
     "collection": [
@@ -13789,10 +13856,10 @@
     "publicdate": "2022-07-04 20:45:18",
     "addeddate": "2022-07-04 20:45:18"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 276241728,
+  "server": "ia601506.us.archive.org",
+  "uniq": 2136040866,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

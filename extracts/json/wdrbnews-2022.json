@@ -1,5 +1,5 @@
 {
-  "created": 1667320067,
+  "created": 1667365144,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/13/items/wdrbnews-2022",
@@ -11332,31 +11332,83 @@
       "sha1": "9c117c35a58d9d7642a9e71a9f2b7bb193d0a4a9"
     },
     {
+      "name": "wdrbnews-2022-11-02T00:26:30.014783-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667363209",
+      "size": "56179",
+      "md5": "7750149b7c9eee14b05190c110c540d0",
+      "crc32": "24e71803",
+      "sha1": "54ffe22f1d84e0ee778d872357d66aa337f3f102",
+      "format": "JSON"
+    },
+    {
+      "name": "wdrbnews-2022-11-02T00:26:30.014783-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667363211",
+      "size": "43880",
+      "md5": "14da3aaf9093318a7f408efa9952b227",
+      "crc32": "d827316a",
+      "sha1": "8894b82e482fb067bc272ad394ce7653ab71f30f",
+      "format": "JSON"
+    },
+    {
+      "name": "wdrbnews-2022-11-02T00:26:30.014783-04:00.jpg",
+      "source": "original",
+      "mtime": "1667363207",
+      "size": "362264",
+      "md5": "5ccae051dd6a4a731c72b0741fe989b5",
+      "crc32": "4328745e",
+      "sha1": "ff4e9ff862ccf30a39e0a4b199cad3db0729ce06",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wdrbnews-2022-11-02T00:26:30.014783-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667363213",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wdrbnews-2022-11-02T00:26:30.014783-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wdrbnews-2022-11-02T00:26:30.014783-04:00.jpg",
+      "mtime": "1667365053",
+      "size": "10344",
+      "md5": "a201f0940be634e4d0505153946a1b9a",
+      "crc32": "dfa191c8",
+      "sha1": "15f242544a8634b93cb4bd206ad9d2157394707c"
+    },
+    {
       "name": "wdrbnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f15c02bd43c6fd9539f95e27ee05a4761108ad96",
-      "mtime": "1667319892",
-      "size": "232648",
-      "md5": "5ebe69f88db7f81753fbb5fed123f13d",
-      "crc32": "68af22ce",
-      "sha1": "1f4e04302c6027cad80e75570f88ebc54103293b",
+      "btih": "8d72fd595ef0dc34c1edc3df39034752dfd71564",
+      "mtime": "1667365067",
+      "size": "233684",
+      "md5": "93cc823f69a1df1e57cd88d21ae3e302",
+      "crc32": "800fc9d6",
+      "sha1": "f3bf7b062f3d072363e168a7ca476ec9cdb95dbc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wdrbnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d9c8a49d8aaeb04b2d67e1a29c01fa4",
+      "md5": "2636cbbb884c09d9cb69e1cf1008fcb0",
       "summation": "md5"
     },
     {
       "name": "wdrbnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667319095",
-      "size": "1404928",
-      "md5": "c05962f4ffb762ce9bc1784ea3f92951",
-      "crc32": "1645109c",
-      "sha1": "a93bdd3e8cd1d279681ced813f3f0c4691db6f27",
+      "mtime": "1667363226",
+      "size": "1413120",
+      "md5": "6baa0325266cdbf5f4d6f8369488b856",
+      "crc32": "63166ef7",
+      "sha1": "8bfcab2b0d8c6b85ab734042e56f2e6dbc29900a",
       "format": "Metadata"
     },
     {
@@ -11370,9 +11422,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1100,
-  "item_last_updated": 1667319892,
-  "item_size": 89396153,
+  "files_count": 1105,
+  "item_last_updated": 1667365067,
+  "item_size": 89878250,
   "metadata": {
     "identifier": "wdrbnews-2022",
     "collection": [
@@ -11389,10 +11441,10 @@
     "publicdate": "2022-08-01 06:42:05",
     "addeddate": "2022-08-01 06:42:05"
   },
-  "server": "ia601407.us.archive.org",
-  "uniq": 385634495,
+  "server": "ia801407.us.archive.org",
+  "uniq": 250069661,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia801407.us.archive.org",
+    "ia601407.us.archive.org"
   ]
 }
