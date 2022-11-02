@@ -49,7 +49,32 @@ jobs:
 
       - id: test
         name: Run tests
-        run: pipenv run xvfb-run pytest tests
+        run: pipenv run xvfb-run pytest --junit-xml=.test_report.xml tests
+
+      - id: generate-summary
+      - uses: test-summary/action@v1
+        with:
+          paths: .test_report.xml
+          output: test-summary.md
+          show: all
+        if: always()
+
+      - name: Upload test summary
+        uses: actions/upload-artifact@v3
+        with:
+          name: test-summary
+          path: test-summary.md
+        if: always()
+
+      - name: Comment PR
+        uses: shellingford330/pr-comment-action@v0.0.6
+        with:
+          owner: ${{ github.event.repository.owner.login }}
+          repo: ${{ github.event.repository.name }}
+          pr_number: ${{ github.event.issue.number }}
+          filepath: test-summary.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   static-type-check:
     name: Static type check
