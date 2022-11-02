@@ -66,15 +66,12 @@ jobs:
           path: test-summary.md
         if: always()
 
-      - name: Comment PR
-        uses: shellingford330/pr-comment-action@v0.0.6
-        with:
-          owner: ${{ github.event.repository.owner.login }}
-          repo: ${{ github.event.repository.name }}
-          pr_number: ${{ github.event.issue.number }}
-          filepath: test-summary.md
+      - name: comment PR
+        uses: machine-learning-apps/pr-comment@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          path: test-summary.md
 
   static-type-check:
     name: Static type check
