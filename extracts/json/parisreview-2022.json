@@ -1,5 +1,5 @@
 {
-  "created": 1667293179,
+  "created": 1667371901,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/15/items/parisreview-2022",
@@ -18318,31 +18318,206 @@
       "sha1": "ebb95f8b0797fd1a5046d9225c122c12f6f4d01e"
     },
     {
+      "name": "parisreview-2022-11-01T10:28:42.307449+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667294926",
+      "size": "7099",
+      "md5": "186a57c42b3397d038025f211ad657a5",
+      "crc32": "34dd766a",
+      "sha1": "506459917ce327d7ffa7d790800ce9aba881efdf",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-11-01T10:28:42.307449+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667294928",
+      "size": "13575",
+      "md5": "6c5ea0df340b2ca4cfc67b4bd656ded2",
+      "crc32": "c47678ef",
+      "sha1": "4f54bd926a082b840bfb88db3cedfabb4590209e",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-11-01T10:28:42.307449+01:00.jpg",
+      "source": "original",
+      "mtime": "1667294924",
+      "size": "252913",
+      "md5": "f6dd1c01f73258d4b4a086cab46b8c10",
+      "crc32": "a93a8482",
+      "sha1": "a421d6f61e5c7ddc540393dbabd4b9150528c860",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "parisreview-2022-11-01T10:28:42.307449+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667294935",
+      "size": "1531",
+      "md5": "04022074c461816182f85bf87ddfacc7",
+      "crc32": "e8ecc506",
+      "sha1": "b3f9217bc2d75ee0d44204e28cb996da294e77c8",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-11-01T10:28:42.307449+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667294941",
+      "size": "13224",
+      "md5": "791818636fb0c96b896a76ec5a1a9536",
+      "crc32": "0870f041",
+      "sha1": "909f819a62c6424f7391fa3ffd96981d94b411ee",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-11-01T10:28:42.307449+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "parisreview-2022-11-01T10:28:42.307449+01:00.jpg",
+      "mtime": "1667295374",
+      "size": "10073",
+      "md5": "5c7286d0ce4fe746a1f0fc29a86c2c2c",
+      "crc32": "30c98580",
+      "sha1": "8f2ac160e50a36b8db838b95daf39283b0b5dc81"
+    },
+    {
+      "name": "parisreview-2022-11-01T20:30:05.929260+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667331018",
+      "size": "7056",
+      "md5": "5c2838fd7ee6dde0281e77f1e73a5f33",
+      "crc32": "1a08e05a",
+      "sha1": "10359bde2624638194d3d6d3f95b05124f39a7dd",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-11-01T20:30:05.929260+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667331020",
+      "size": "13552",
+      "md5": "9d2ad254a3649c5ec009c077c348777a",
+      "crc32": "4c2f69a4",
+      "sha1": "e2aa3d56bf7c1e6591efde5057c5b615c78a8e25",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-11-01T20:30:05.929260+01:00.jpg",
+      "source": "original",
+      "mtime": "1667331015",
+      "size": "249063",
+      "md5": "b7058ecbca4c3cb2b437ceb18e3486b5",
+      "crc32": "f13b80cc",
+      "sha1": "09bc9d49f75016a621d27caf810a6b101dd8e5ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "parisreview-2022-11-01T20:30:05.929260+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667331022",
+      "size": "1531",
+      "md5": "2dbb542be90ac7302bfd2bb7ca8f1e0d",
+      "crc32": "4b1fbb27",
+      "sha1": "7c6f38fe673d868625314f41cd4ec104952219a3",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-11-01T20:30:05.929260+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667331024",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-11-01T20:30:05.929260+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "parisreview-2022-11-01T20:30:05.929260+01:00.jpg",
+      "mtime": "1667331512",
+      "size": "9908",
+      "md5": "05db1c1c290d7bf523ee26d0921a17df",
+      "crc32": "9e89798b",
+      "sha1": "3d13ecce3ff7fbfa4539e6ce5a09778d63981413"
+    },
+    {
+      "name": "parisreview-2022-11-02T07:50:16.638743+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667371820",
+      "size": "7056",
+      "md5": "5c2838fd7ee6dde0281e77f1e73a5f33",
+      "crc32": "1a08e05a",
+      "sha1": "10359bde2624638194d3d6d3f95b05124f39a7dd",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-11-02T07:50:16.638743+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667371822",
+      "size": "13552",
+      "md5": "9d2ad254a3649c5ec009c077c348777a",
+      "crc32": "4c2f69a4",
+      "sha1": "e2aa3d56bf7c1e6591efde5057c5b615c78a8e25",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-11-02T07:50:16.638743+01:00.jpg",
+      "source": "original",
+      "mtime": "1667371818",
+      "size": "240357",
+      "md5": "42e22b18d47741883b56c7d642763d39",
+      "crc32": "952cde10",
+      "sha1": "355a438d0beb84ab8694ffff6b05b278ebb23d54",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "parisreview-2022-11-02T07:50:16.638743+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667371824",
+      "size": "1531",
+      "md5": "eefb1d2d107053031abb8e3bb465c7d3",
+      "crc32": "ad91bbf3",
+      "sha1": "4f23b60734d5b1307df8d2b66e45006e0158dfcb",
+      "format": "JSON"
+    },
+    {
+      "name": "parisreview-2022-11-02T07:50:16.638743+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667371825",
+      "size": "13679",
+      "md5": "55f47461679097f57c1bc0cbf466e891",
+      "crc32": "181f227c",
+      "sha1": "cfae4daef22ceb2ba636d37bbda5f4d4dd417142",
+      "format": "JSON"
+    },
+    {
       "name": "parisreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3383838c66a6ff22424f993fea9efdd78a5807d6",
-      "mtime": "1667293120",
-      "size": "377713",
-      "md5": "4e8f363ec8c01262f78271aaba9c8644",
-      "crc32": "b586ca67",
-      "sha1": "80a8c2ee93e59b7a982c52a55600080d45810953",
+      "btih": "2ce31eeae8f81d1bc68e69f0d51719a01f64a36c",
+      "mtime": "1667371894",
+      "size": "381337",
+      "md5": "7a8c2a3a2808e983d02c57207bfcafa4",
+      "crc32": "78b0f249",
+      "sha1": "a113ff595c27901b99d0e70430661b3ea860fb8c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "parisreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "34b8b28d7ac2a73a854d9547ce79aef8",
+      "md5": "ee15d37214b1004ef516504b5e8ad4e8",
       "summation": "md5"
     },
     {
       "name": "parisreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667292836",
-      "size": "2244608",
-      "md5": "4ec14d23c2f2a9537d2f6bc04e3f7e6a",
-      "crc32": "5c9b8c0b",
-      "sha1": "e0b46044a64d86af3f16d50c91f66f81fbefabee",
+      "mtime": "1667371831",
+      "size": "2265088",
+      "md5": "c9bfdf64c3380a22782e879140430d9b",
+      "crc32": "0050d85a",
+      "sha1": "c5325fc2706fd73593e747e94ac2a461b913e850",
       "format": "Metadata"
     },
     {
@@ -18356,9 +18531,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1773,
-  "item_last_updated": 1667293120,
-  "item_size": 98637033,
+  "files_count": 1790,
+  "item_last_updated": 1667371894,
+  "item_size": 99517039,
   "metadata": {
     "identifier": "parisreview-2022",
     "collection": [
@@ -18375,10 +18550,21 @@
     "publicdate": "2022-07-04 21:51:06",
     "addeddate": "2022-07-04 21:51:06"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 1662329401,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459490933,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1623064134,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }
