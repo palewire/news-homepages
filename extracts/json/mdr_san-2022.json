@@ -1,5 +1,5 @@
 {
-  "created": 1667308894,
+  "created": 1667352335,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/mdr_san-2022",
@@ -12217,31 +12217,83 @@
       "format": "JSON"
     },
     {
+      "name": "mdr_san-2022-11-01T14:20:20.074383+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mdr_san-2022-11-01T14:20:20.074383+01:00.jpg",
+      "mtime": "1667310852",
+      "size": "10348",
+      "md5": "595b6c9a8405514d3be6ae29f73cbc01",
+      "crc32": "dc75ee84",
+      "sha1": "a2e6ac790ce9af9acb7c3611ef79bc15c887e990"
+    },
+    {
+      "name": "mdr_san-2022-11-02T02:24:28.284516+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667352271",
+      "size": "33846",
+      "md5": "f74f061f6912ccb8062ba4e2ed604f7c",
+      "crc32": "6194c4f2",
+      "sha1": "9c0fade67b2688a0c40072ae74617f69abb8bd57",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-11-02T02:24:28.284516+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667352272",
+      "size": "55763",
+      "md5": "1ae6605c27c997b941fcf7d409fe05a6",
+      "crc32": "c7438bd4",
+      "sha1": "1e5db0ac6893ad1052d183e077dffa761cdd1160",
+      "format": "JSON"
+    },
+    {
+      "name": "mdr_san-2022-11-02T02:24:28.284516+01:00.jpg",
+      "source": "original",
+      "mtime": "1667352269",
+      "size": "231629",
+      "md5": "81a432d4cf9d058940814bfad1d8dc14",
+      "crc32": "97b28c54",
+      "sha1": "899bd4ef6950a263daaa2007bbf6ebeefb8ea046",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mdr_san-2022-11-02T02:24:28.284516+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667352274",
+      "size": "1611",
+      "md5": "b09ca4147dadb73509f6ee744dc818e2",
+      "crc32": "d62fa339",
+      "sha1": "fcd6e01beb20a6bb1a19f19fb02a7d1ad26dedc1",
+      "format": "JSON"
+    },
+    {
       "name": "mdr_san-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a7904b4665b3b4b0478ef838d3235a4ad93035a3",
-      "mtime": "1667308888",
-      "size": "248563",
-      "md5": "e179052ffcfbbcfbdff5db43b72e96b9",
-      "crc32": "d680bbea",
-      "sha1": "47eda9ea83a66e557926c39d9aab0e04c6208805",
+      "btih": "0a3ecd73cc878ebe11e83a3904d883309b14e62c",
+      "mtime": "1667352330",
+      "size": "249618",
+      "md5": "07e055e25662bd31c23102fb16c9c0a1",
+      "crc32": "46bd6c4f",
+      "sha1": "ea1b5729c74a9697acc4849d8e7a35a96d06810a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mdr_san-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "36104677e9eca4fce6b88fa39aa17681",
+      "md5": "408f315f850b72583ad4d18202fd3459",
       "summation": "md5"
     },
     {
       "name": "mdr_san-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667308840",
-      "size": "1507328",
-      "md5": "b7eb9bab6174a35f9d27214f0b6a2303",
-      "crc32": "0fb89c6c",
-      "sha1": "3fce12fee09fdbfa05041b15e387d26212b68a84",
+      "mtime": "1667352279",
+      "size": "1511424",
+      "md5": "ff5b2dd5be305c5217bd594827ae8b19",
+      "crc32": "2623217b",
+      "sha1": "f7faf79bb11b9f6fadfc2438d8173bbb6f9c6e0c",
       "format": "Metadata"
     },
     {
@@ -12255,9 +12307,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1185,
-  "item_last_updated": 1667308888,
-  "item_size": 78633973,
+  "files_count": 1190,
+  "item_last_updated": 1667352330,
+  "item_size": 78972321,
   "metadata": {
     "identifier": "mdr_san-2022",
     "collection": [
@@ -12279,15 +12331,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3458774153,
+      "task_id": 3459276460,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 94643083,
+  "uniq": 1378613896,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

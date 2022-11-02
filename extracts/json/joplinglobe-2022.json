@@ -1,5 +1,5 @@
 {
-  "created": 1667309253,
+  "created": 1667351999,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/8/items/joplinglobe-2022",
@@ -12908,31 +12908,82 @@
       "sha1": "9cefe5efc37af3b95e65afd48a6d7c3eea239514"
     },
     {
+      "name": "joplinglobe-2022-11-01T20:17:41.389750-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667351865",
+      "size": "64418",
+      "md5": "8092bfb279566dc0a66e635982db65f8",
+      "crc32": "323e225c",
+      "sha1": "e50179b5252fae5ceab0c9f84fce83427ca5696f",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-11-01T20:17:41.389750-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667351868",
+      "size": "89032",
+      "md5": "65808e59714e785dc43e51086374a27a",
+      "crc32": "458b1d0b",
+      "sha1": "cb84a891e9306b297142e0724a5d8b45efa527f9",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-11-01T20:17:41.389750-05:00.jpg",
+      "source": "original",
+      "mtime": "1667351863",
+      "size": "48131",
+      "md5": "b4abb6f25911d5c029868b8035a76668",
+      "crc32": "d80b26d6",
+      "sha1": "a53e0b43c97b95771e07ceba52669ad2091dc180",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "joplinglobe-2022-11-01T20:17:41.389750-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667351870",
+      "size": "1501",
+      "md5": "1d89326d01b43d2cd564a7a87330eb36",
+      "crc32": "38fe4eb6",
+      "sha1": "447877d3edc1c50c7ec5a9a1cb9feec2e7adfe1d",
+      "format": "JSON"
+    },
+    {
+      "name": "joplinglobe-2022-11-01T20:17:41.389750-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667351873",
+      "size": "91902",
+      "md5": "27a69260773a7662827984d89cab4aad",
+      "crc32": "81b0e7a9",
+      "sha1": "7b1b4ab9d9853a9d0c78efaea666a9e3eadba42d",
+      "format": "JSON"
+    },
+    {
       "name": "joplinglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "477d37e965d6aa3777d12834c3f6b02aafcf02da",
-      "mtime": "1667309188",
-      "size": "267305",
-      "md5": "b58552588a854fe43dcbc1acbe1c0a32",
-      "crc32": "25012541",
-      "sha1": "197eded9982e490cced761ccab334a72b7353cbb",
+      "btih": "2a7d079028623e6be43082329bfc9ce10799045b",
+      "mtime": "1667351983",
+      "size": "268382",
+      "md5": "42c82a234091a55b8e98543bf5958c00",
+      "crc32": "bcdfdad2",
+      "sha1": "9ca1f4f564cfe47669d70c043d29cb2b4f02553d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "joplinglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cfe0514565892583d019d09070c98136",
+      "md5": "b2ad9b39193c6081631b1f97d04247c9",
       "summation": "md5"
     },
     {
       "name": "joplinglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667308515",
-      "size": "1552384",
-      "md5": "e3db0b8bfbe84802c39538963120af91",
-      "crc32": "580a9547",
-      "sha1": "3fd0ae8155e1908d3c4d1048320357a04188f2e6",
+      "mtime": "1667351902",
+      "size": "1560576",
+      "md5": "4978d19811280be4ff0319d65375292f",
+      "crc32": "c279a47d",
+      "sha1": "b95a06a913b856bf250cf97e7f622ca053177303",
       "format": "Metadata"
     },
     {
@@ -12946,9 +12997,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1247,
-  "item_last_updated": 1667309188,
-  "item_size": 115063217,
+  "files_count": 1252,
+  "item_last_updated": 1667351983,
+  "item_size": 115367470,
   "metadata": {
     "identifier": "joplinglobe-2022",
     "collection": [
@@ -12965,10 +13016,21 @@
     "publicdate": "2022-07-04 21:54:35",
     "addeddate": "2022-07-04 21:54:35"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1768510819,
+  "pending_tasks": true,
+  "server": "ia902500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459272485,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1250546060,
   "workable_servers": [
-    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }
