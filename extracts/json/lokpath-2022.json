@@ -1,5 +1,5 @@
 {
-  "created": 1667372023,
+  "created": 1667409333,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/23/items/lokpath-2022",
@@ -12094,31 +12094,72 @@
       "sha1": "4782040a2f4b302ebc3e76b5c838b38d2a60ff5b"
     },
     {
+      "name": "lokpath-2022-11-02T22:59:21.793444+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667409272",
+      "size": "61236",
+      "md5": "7c34af7e3b3ae15f8e3b7a495fdc04de",
+      "crc32": "2776b6d8",
+      "sha1": "ef5f05ce371c22281bac585fa651dd5a950aab5d",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-11-02T22:59:21.793444+05:45.jpg",
+      "source": "original",
+      "mtime": "1667409270",
+      "size": "284837",
+      "md5": "5add33523410083c71015616c74d0372",
+      "crc32": "d47a4c3e",
+      "sha1": "e91d7a0fccfa1c217625857e37d33160fb545a65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lokpath-2022-11-02T22:59:21.793444+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409274",
+      "size": "1468",
+      "md5": "512a96b08b75323f86fb49de368a18f9",
+      "crc32": "44611b69",
+      "sha1": "7aefe0338a344d43e32eecc18d8279cda8741bb8",
+      "format": "JSON"
+    },
+    {
+      "name": "lokpath-2022-11-02T22:59:21.793444+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667409276",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lokpath-2022_archive.torrent",
       "source": "metadata",
-      "btih": "227295ad5d17ffa2e054a1d0accbdf4d330b6fd5",
-      "mtime": "1667368329",
-      "size": "245942",
-      "md5": "acd81e91f38dce2e300feec4b24e582e",
-      "crc32": "50bc6f6d",
-      "sha1": "0e78c9dc71d6b4c93f5d88a56eef6dc3218b6aee",
+      "btih": "b34db8675f298cf5fdbd22d11b67ce817eb9c990",
+      "mtime": "1667409329",
+      "size": "246788",
+      "md5": "0e4ab3ba85904e86687fcf1e3955a936",
+      "crc32": "a85ec686",
+      "sha1": "68c0aed37c98bbc0262be5434c2a42a3676b788e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lokpath-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5d0940ea047813b1c8905b8365080be8",
+      "md5": "ce13256d109d09aff00ff1dae249dc46",
       "summation": "md5"
     },
     {
       "name": "lokpath-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367273",
-      "size": "1486848",
-      "md5": "dd4bcc49ee8cbfb4ed48c09008460f82",
-      "crc32": "1ae81d10",
-      "sha1": "80e6010b17c0875af08823edd5bebab8326fac0c",
+      "mtime": "1667409279",
+      "size": "1495040",
+      "md5": "3e719507375fa870e0407091e194818a",
+      "crc32": "4912a68b",
+      "sha1": "fa58448cf74b2c503ae437b22164b21da6bfff79",
       "format": "Metadata"
     },
     {
@@ -12132,17 +12173,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1173,
-  "item_last_updated": 1667368329,
-  "item_size": 73892242,
-  "lokpath-2022": {
-    "url": "https://www.lokpath.com/",
-    "job_id": "spn2-5d88958c59d7e3c144ddd1189f7b4e17fecdadd5",
-    "status": "error",
-    "status_ext": "WorkerLostError",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1094.",
-    "resources": []
-  },
+  "files_count": 1177,
+  "item_last_updated": 1667409329,
+  "item_size": 74249023,
   "metadata": {
     "identifier": "lokpath-2022",
     "collection": [
@@ -12159,10 +12192,21 @@
     "publicdate": "2022-07-24 20:38:13",
     "addeddate": "2022-07-24 20:38:13"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 957942648,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459897698,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1919731747,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

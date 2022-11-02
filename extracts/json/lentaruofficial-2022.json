@@ -1,5 +1,5 @@
 {
-  "created": 1667371751,
+  "created": 1667409461,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/6/items/lentaruofficial-2022",
@@ -19137,31 +19137,93 @@
       "format": "JSON"
     },
     {
+      "name": "lentaruofficial-2022-11-02T09:47:30.930446+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lentaruofficial-2022-11-02T09:47:30.930446+03:00.jpg",
+      "mtime": "1667373344",
+      "size": "8551",
+      "md5": "8f88d13357f539e81b7ee9169e8e11f3",
+      "crc32": "0c210643",
+      "sha1": "279e2eb408c202f80077901f79f52a51546f55dc"
+    },
+    {
+      "name": "lentaruofficial-2022-11-02T20:14:20.429045+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409288",
+      "size": "79311",
+      "md5": "4821020291b2e22f46b78a0a32940085",
+      "crc32": "2c0f8d2b",
+      "sha1": "3dea71472f3729c1f847e29f2bea5649390a6b2c",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-11-02T20:14:20.429045+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409289",
+      "size": "74725",
+      "md5": "dbd2f7d0d5e2640913ae03e9d431e35f",
+      "crc32": "5eb3ddb4",
+      "sha1": "d9247707029fdd64ef429b600ae23c90f05511c6",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-11-02T20:14:20.429045+03:00.jpg",
+      "source": "original",
+      "mtime": "1667409286",
+      "size": "226608",
+      "md5": "bd07d8036c0f3e520636c62753684b29",
+      "crc32": "a44e12e6",
+      "sha1": "05ceb3857aecd6bc47ed8dfc1b37e99e90814088",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lentaruofficial-2022-11-02T20:14:20.429045+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409291",
+      "size": "1407",
+      "md5": "c0bde88a7b0ede0f33d7912a4a051397",
+      "crc32": "abbf93bf",
+      "sha1": "f6b3cdcd984479287b5f781921391bd27a404f18",
+      "format": "JSON"
+    },
+    {
+      "name": "lentaruofficial-2022-11-02T20:14:20.429045+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409294",
+      "size": "359",
+      "md5": "f7d758e4847b658bfb29c8ec6d7a78df",
+      "crc32": "fe26442a",
+      "sha1": "2cd7c75975b4276269ddafe64a5db944d016ec84",
+      "format": "JSON"
+    },
+    {
       "name": "lentaruofficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "adcd7b97ee76a433c78e116ca847781aa3fc4615",
-      "mtime": "1667371738",
-      "size": "403851",
-      "md5": "c44635a52309640c81ca9dfe19a76cda",
-      "crc32": "ffe18457",
-      "sha1": "f00741ec467d4c5332f0d5c1e774aedcb6e3b5a8",
+      "btih": "d4cc0aa434fd696bc1464995fa57633764019c85",
+      "mtime": "1667409447",
+      "size": "405158",
+      "md5": "2f5b0edd9632129e826c69e7d3ec1b22",
+      "crc32": "b4bcf387",
+      "sha1": "d522b94580f9d7217d93aaf4ea8f475fd603a663",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lentaruofficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eab5b92b99367c0eed210b17cf150397",
+      "md5": "975caa2aa825cde378923534b926ebf0",
       "summation": "md5"
     },
     {
       "name": "lentaruofficial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667371665",
-      "size": "2359296",
-      "md5": "050744e9141f035d6f96a22ba5eab88e",
-      "crc32": "d746c091",
-      "sha1": "5305a6a0e7bba0c57685ab6ecbd0aa2adb4cfb9b",
+      "mtime": "1667409328",
+      "size": "2363392",
+      "md5": "4ac5233011b6bb0733d57f97ca0f7496",
+      "crc32": "a96282fa",
+      "sha1": "4739a88415cc8c2b726aa5e5c3ed98bd24f21074",
       "format": "Metadata"
     },
     {
@@ -19175,9 +19237,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1853,
-  "item_last_updated": 1667371738,
-  "item_size": 144461703,
+  "files_count": 1859,
+  "item_last_updated": 1667409447,
+  "item_size": 144858067,
   "metadata": {
     "identifier": "lentaruofficial-2022",
     "collection": [
@@ -19199,7 +19261,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459489489,
+      "task_id": 3459899237,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -19207,7 +19269,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1362329828,
+  "uniq": 600527481,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

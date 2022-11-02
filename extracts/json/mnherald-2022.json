@@ -1,5 +1,5 @@
 {
-  "created": 1667368715,
+  "created": 1667409371,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/34/items/mnherald-2022",
@@ -5348,31 +5348,82 @@
       "sha1": "f3915845543dd19a4da46e621b88cba810ac5bde"
     },
     {
+      "name": "mnherald-2022-11-02T12:14:57.015154-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409305",
+      "size": "22105",
+      "md5": "ca8471d142d48961e599b98c7b3f876b",
+      "crc32": "402fe710",
+      "sha1": "2ff0dd91d865372036f8685a7b3ff193c9733aa9",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-11-02T12:14:57.015154-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409307",
+      "size": "37994",
+      "md5": "6be46cc39640786b6c8b4783cad6bef3",
+      "crc32": "e5b34d42",
+      "sha1": "c3261e5bcca161c46c6c31d694c7bcd27190279f",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-11-02T12:14:57.015154-05:00.jpg",
+      "source": "original",
+      "mtime": "1667409302",
+      "size": "236784",
+      "md5": "ccfd1bbb059c14266fb6554d4507bc8d",
+      "crc32": "acb24d00",
+      "sha1": "675765e059e47e02f26a617566d4b9c29a905ade",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mnherald-2022-11-02T12:14:57.015154-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409309",
+      "size": "1584",
+      "md5": "dffdf38c73ceca161273fdbc137a5f7b",
+      "crc32": "1431224f",
+      "sha1": "bce3829b7f8ee3e06b7c4296d46ccc9f379d1db1",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-11-02T12:14:57.015154-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409311",
+      "size": "86893",
+      "md5": "9745f0858651de26f3d69e25c01b3108",
+      "crc32": "8b11b683",
+      "sha1": "a0e63c9aae3c8a2a51b82bfd0de25b95404ab1a4",
+      "format": "JSON"
+    },
+    {
       "name": "mnherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "85c0c20f1e310ff985ccef1e9343a415204bad16",
-      "mtime": "1667368420",
-      "size": "110124",
-      "md5": "fe3903a7da237bee2524a1da77fbf462",
-      "crc32": "58836177",
-      "sha1": "fbba0fe1032214b0ef7559c8089f97087d8aec62",
+      "btih": "1e5f5f98c100b2ecf079644513e554a75288353f",
+      "mtime": "1667409363",
+      "size": "111187",
+      "md5": "79105bfe5fa10bd030268675babc05a6",
+      "crc32": "f7c13891",
+      "sha1": "91c53e12200ab1c5e2761eb566fbfc69ced44ae6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mnherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a687eb7a3e0e1da26ee283001355da52",
+      "md5": "07072887abb76fec3851325fd1444d63",
       "summation": "md5"
     },
     {
       "name": "mnherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367388",
-      "size": "675840",
-      "md5": "82314421fe5c0c4c8e960d72dd53e4fb",
-      "crc32": "cbd66c07",
-      "sha1": "b4743779e305cff8a2d6f368ba6c2412c2539018",
+      "mtime": "1667409317",
+      "size": "684032",
+      "md5": "2d0dd46c2f157147c98a0b562ab94fae",
+      "crc32": "907c54a5",
+      "sha1": "205a86c7b0d01fac3be66c0c3a214eb993e22097",
       "format": "Metadata"
     },
     {
@@ -5386,9 +5437,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 521,
-  "item_last_updated": 1667368420,
-  "item_size": 34432987,
+  "files_count": 526,
+  "item_last_updated": 1667409363,
+  "item_size": 34827602,
   "metadata": {
     "identifier": "mnherald-2022",
     "collection": [
@@ -5405,10 +5456,21 @@
     "publicdate": "2022-09-20 17:36:08",
     "addeddate": "2022-09-20 17:36:08"
   },
+  "pending_tasks": true,
   "server": "ia601402.us.archive.org",
-  "uniq": 66650898,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459898126,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 854213833,
   "workable_servers": [
-    "ia601402.us.archive.org",
-    "ia801402.us.archive.org"
+    "ia601402.us.archive.org"
   ]
 }

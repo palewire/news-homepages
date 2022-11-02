@@ -1,5 +1,5 @@
 {
-  "created": 1667372203,
+  "created": 1667409420,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/24/items/mtnstspotlight-2022",
@@ -16336,31 +16336,82 @@
       "sha1": "7b31fea8289ae56d4164744b8e7cddf7f8c18264"
     },
     {
+      "name": "mtnstspotlight-2022-11-02T13:15:37.658660-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409347",
+      "size": "9935",
+      "md5": "73b5e24f9d18fa1112045accbeeab50a",
+      "crc32": "ca4c3f25",
+      "sha1": "7bc5547c54770f613a28a3c09323bcc7b5102475",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-11-02T13:15:37.658660-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409349",
+      "size": "10982",
+      "md5": "e13a673a3f1ce7fa48870c9b9731dd86",
+      "crc32": "c83fefc2",
+      "sha1": "21633e2a6277b90bd4a16b0d3ca9fc46f730729c",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-11-02T13:15:37.658660-04:00.jpg",
+      "source": "original",
+      "mtime": "1667409346",
+      "size": "286842",
+      "md5": "dfb087af169769d59455d058ac206a04",
+      "crc32": "ea075770",
+      "sha1": "9916726e0787c5a76a5927ea7f25c22fa8d99088",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtnstspotlight-2022-11-02T13:15:37.658660-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409351",
+      "size": "1558",
+      "md5": "105986ed3654a5a4621ee280c266c390",
+      "crc32": "21ea1fa6",
+      "sha1": "c55f19e16b4419b3cda4f399144df124833a9b69",
+      "format": "JSON"
+    },
+    {
+      "name": "mtnstspotlight-2022-11-02T13:15:37.658660-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409355",
+      "size": "12553",
+      "md5": "9d40f16feca04aa2ee8b761be4e6c9c1",
+      "crc32": "cefbe3a3",
+      "sha1": "367e05d2245202bd32c9fde9c2e3c3a39fa6575a",
+      "format": "JSON"
+    },
+    {
       "name": "mtnstspotlight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a46869e8f0a25b736e2c9cfed5d3fa692a76d492",
-      "mtime": "1667368150",
-      "size": "340572",
-      "md5": "db1b3fa3ac78b924dcd2b7db1d067d19",
-      "crc32": "42dfd0c0",
-      "sha1": "8e674c051143ee8ff632ea9f4add7c46a9539e9d",
+      "btih": "6c71db4b21ca3af6a15761b0c59acbdc1a9beaaf",
+      "mtime": "1667409416",
+      "size": "341664",
+      "md5": "23faeb2aec66eaa2ea4548313b54504e",
+      "crc32": "f5e9bd95",
+      "sha1": "9c1cb6ab6367592765e640c4d5eb781831ef98ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtnstspotlight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e9d0a9aee93864abbe6b6f3d11b2a6f8",
+      "md5": "ef9d0f2f8ed353a659faa98d2d07fe49",
       "summation": "md5"
     },
     {
       "name": "mtnstspotlight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367349",
-      "size": "1966080",
-      "md5": "b11c8979f4ded56ad18b75042a08c211",
-      "crc32": "f1654954",
-      "sha1": "ce247f54cd51b85176b3f01b031b5fdaf9472ca3",
+      "mtime": "1667409360",
+      "size": "1974272",
+      "md5": "65e3a5b9082b9b6742d00bf92d6ee418",
+      "crc32": "becdc7a6",
+      "sha1": "0b9ae6000f4966510fb46589f5881cab7fbf62b0",
       "format": "Metadata"
     },
     {
@@ -16374,9 +16425,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1577,
-  "item_last_updated": 1667368150,
-  "item_size": 87248654,
+  "files_count": 1582,
+  "item_last_updated": 1667409416,
+  "item_size": 87579808,
   "metadata": {
     "identifier": "mtnstspotlight-2022",
     "collection": [
@@ -16393,15 +16444,21 @@
     "publicdate": "2022-06-18 21:04:13",
     "addeddate": "2022-06-18 21:04:13"
   },
-  "mtnstspotlight-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801408.us.archive.org",
-  "uniq": 8077958,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459898752,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2055505760,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

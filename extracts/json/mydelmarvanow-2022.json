@@ -1,5 +1,5 @@
 {
-  "created": 1667372213,
+  "created": 1667409403,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/mydelmarvanow-2022",
@@ -5264,31 +5264,82 @@
       "sha1": "90b7cbefa12f5c333d3328a77f40e979cee5c988"
     },
     {
+      "name": "mydelmarvanow-2022-11-02T13:15:43.539813-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409354",
+      "size": "22632",
+      "md5": "2a4072bbf5a5be6f0e2b552ec5c0b00c",
+      "crc32": "824cacd9",
+      "sha1": "670f4b26a86f543c43c155fa3cd194a9783c94b2",
+      "format": "JSON"
+    },
+    {
+      "name": "mydelmarvanow-2022-11-02T13:15:43.539813-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409356",
+      "size": "34217",
+      "md5": "88f9b4addb068355e86acda4ad6ffb7e",
+      "crc32": "5ec87dbe",
+      "sha1": "b1c62e0fed764bdbbd067a06dc2890c1e280c585",
+      "format": "JSON"
+    },
+    {
+      "name": "mydelmarvanow-2022-11-02T13:15:43.539813-04:00.jpg",
+      "source": "original",
+      "mtime": "1667409353",
+      "size": "277603",
+      "md5": "c9277946ab86ec9ede467d4f14c2d648",
+      "crc32": "ad1e48ba",
+      "sha1": "c195491628548d6d044623fddc6bde44b5f8d18f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mydelmarvanow-2022-11-02T13:15:43.539813-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409358",
+      "size": "1504",
+      "md5": "38e308daf4b91a7480344095f701d0e3",
+      "crc32": "a5a43bcf",
+      "sha1": "1f63bfa13f4424e8e313639e8d7f421e22344f47",
+      "format": "JSON"
+    },
+    {
+      "name": "mydelmarvanow-2022-11-02T13:15:43.539813-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409360",
+      "size": "91076",
+      "md5": "de8ddf768c7ef38a80d702d384a541dc",
+      "crc32": "67d088aa",
+      "sha1": "c22ffa9da90658e6adc858a72e88072ec4f9849b",
+      "format": "JSON"
+    },
+    {
       "name": "mydelmarvanow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2233431c269176a98409f52f475eab5d6bcfc2ba",
-      "mtime": "1667368255",
-      "size": "111126",
-      "md5": "6e2be3abf525589e23fd6fce26b1f97f",
-      "crc32": "8868a9c0",
-      "sha1": "0565791984b1d9d6f55621c50af348008b076273",
+      "btih": "3cef0b372930fbaeebe114f16573261efaf37060",
+      "mtime": "1667409400",
+      "size": "112214",
+      "md5": "17924fada544e8fe456830fc9aafe571",
+      "crc32": "4e941c2d",
+      "sha1": "243a17fee7c2b678d21e170253130f6deb80da7a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mydelmarvanow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e62891eb2c0210a2ffddad8b4f173a5e",
+      "md5": "6d8ff861576c751af7377fecdc340fb1",
       "summation": "md5"
     },
     {
       "name": "mydelmarvanow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367345",
-      "size": "671744",
-      "md5": "0e282a7f156ee673afa254e14355a3cf",
-      "crc32": "677a9782",
-      "sha1": "48b0810bda0bf460324fd1be2fdc022db5419dc7",
+      "mtime": "1667409363",
+      "size": "675840",
+      "md5": "af1cddf040c6c4ff596210d262fadcf3",
+      "crc32": "383f9880",
+      "sha1": "0955f571962206a87e719a003f72086254883137",
       "format": "Metadata"
     },
     {
@@ -5302,9 +5353,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 513,
-  "item_last_updated": 1667368255,
-  "item_size": 35756424,
+  "files_count": 518,
+  "item_last_updated": 1667409400,
+  "item_size": 36188640,
   "metadata": {
     "identifier": "mydelmarvanow-2022",
     "collection": [
@@ -5321,15 +5372,21 @@
     "publicdate": "2022-09-20 17:37:12",
     "addeddate": "2022-09-20 17:37:12"
   },
-  "mydelmarvanow-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 1873132567,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459898516,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 14186467,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }

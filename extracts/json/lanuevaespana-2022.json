@@ -1,5 +1,5 @@
 {
-  "created": 1667368043,
+  "created": 1667409302,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/lanuevaespana-2022",
@@ -11762,31 +11762,82 @@
       "sha1": "f1da8a4ad9f405c1bb1670914b6df1fbfa30d9e7"
     },
     {
+      "name": "lanuevaespana-2022-11-02T18:12:59.021974+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409190",
+      "size": "127706",
+      "md5": "0a275faeca5b59aae5001b2b40718d99",
+      "crc32": "5f9e7aeb",
+      "sha1": "96b49fff3e603bf7b3923d3e84c7988096e3eb35",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-11-02T18:12:59.021974+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409192",
+      "size": "192441",
+      "md5": "04861c021baa25e70e2f75464549e590",
+      "crc32": "aa4e9def",
+      "sha1": "d3ea7b4201c2bbf46730e663755bb6e4d11939cf",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-11-02T18:12:59.021974+01:00.jpg",
+      "source": "original",
+      "mtime": "1667409188",
+      "size": "276163",
+      "md5": "544d109e90c5abb27e86bfff503c3f67",
+      "crc32": "2276b8e4",
+      "sha1": "ad67c1d7c93b9f0351ccc90ee3409889eba65353",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lanuevaespana-2022-11-02T18:12:59.021974+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409194",
+      "size": "1422",
+      "md5": "cc688788fd5b92dfb973b9f5123c3af4",
+      "crc32": "47c48396",
+      "sha1": "d195382f4e66fb17e027ee8c9d98d2fa864f5e77",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-11-02T18:12:59.021974+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409196",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lanuevaespana-2022_archive.torrent",
       "source": "metadata",
-      "btih": "20ac72dce662621cc880d1f1ce916ab7b91b1762",
-      "mtime": "1667368017",
-      "size": "248346",
-      "md5": "6830526dc3ad28cfa9171401ca3172d4",
-      "crc32": "5242d868",
-      "sha1": "64d56b26bf27efa4bc58ce61d4eb00304547682c",
+      "btih": "59659b9192507c7af4f2c235bbba03f80c200b14",
+      "mtime": "1667409294",
+      "size": "249434",
+      "md5": "1aa0155a67122818f2d3d6779e263ad9",
+      "crc32": "cca5b72d",
+      "sha1": "ce075ce134d493655d8d4f05d8f7045b49ab1eb5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lanuevaespana-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "562181c6aa0a47bb8a26cbbbdd57806e",
+      "md5": "58578e1cd2104809643758ef44cad68e",
       "summation": "md5"
     },
     {
       "name": "lanuevaespana-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367215",
-      "size": "1466368",
-      "md5": "7e596d4ec64a1c1cf2ce3fb75e4d9530",
-      "crc32": "5dc216e2",
-      "sha1": "fc862de2ca37b67fcfd505b8eeea1e0d0cf24f0b",
+      "mtime": "1667409220",
+      "size": "1470464",
+      "md5": "ebc8c285d6af7b16cf51600e6ca3bf51",
+      "crc32": "66062827",
+      "sha1": "f50632bb7112be30829f9a61ba117be4f34405ba",
       "format": "Metadata"
     },
     {
@@ -11800,9 +11851,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1141,
-  "item_last_updated": 1667368017,
-  "item_size": 121705057,
+  "files_count": 1146,
+  "item_last_updated": 1667409294,
+  "item_size": 122308175,
   "metadata": {
     "identifier": "lanuevaespana-2022",
     "collection": [
@@ -11819,10 +11870,21 @@
     "publicdate": "2022-07-28 18:53:55",
     "addeddate": "2022-07-28 18:53:55"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1171036846,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459897369,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1381063751,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

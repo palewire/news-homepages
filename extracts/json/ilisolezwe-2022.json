@@ -1,5 +1,5 @@
 {
-  "created": 1667367754,
+  "created": 1667409149,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/4/items/ilisolezwe-2022",
@@ -8822,31 +8822,82 @@
       "sha1": "5a3d3d390c5229ae3c17da5feec7a9fa2eb1c7d7"
     },
     {
+      "name": "ilisolezwe-2022-11-02T19:11:21.481872+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409087",
+      "size": "22955",
+      "md5": "3a73dd967a14d7d8db9f46ff7071c52e",
+      "crc32": "7675e1ad",
+      "sha1": "133f49ea000b4e483f1e56e6775ebc58bf148f6b",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-11-02T19:11:21.481872+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409089",
+      "size": "19567",
+      "md5": "03c94d1b52d22640b5c980e5a1d5db03",
+      "crc32": "4ab29c9d",
+      "sha1": "d1668d3d487667c0e8233f708415f25ceff8293f",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-11-02T19:11:21.481872+02:00.jpg",
+      "source": "original",
+      "mtime": "1667409085",
+      "size": "238336",
+      "md5": "fa85e6552c728bec3655de10f30de1ac",
+      "crc32": "0aa9a99b",
+      "sha1": "771c3dc233b7eef568386f55118ac17f8d485007",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ilisolezwe-2022-11-02T19:11:21.481872+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409091",
+      "size": "1576",
+      "md5": "1a34ef3dcc48289f4159b72b649191d3",
+      "crc32": "ad75f503",
+      "sha1": "3d89edb68aae7eb047f6d7ba54fd10ae6bdfb256",
+      "format": "JSON"
+    },
+    {
+      "name": "ilisolezwe-2022-11-02T19:11:21.481872+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409093",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "ilisolezwe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2abc38ac02977f7cca3cd3790fc680b594f8f46e",
-      "mtime": "1667367726",
-      "size": "182268",
-      "md5": "63eaa538236910bc2a344b7c6ef1b765",
-      "crc32": "d5118716",
-      "sha1": "140291d0cc183897d62e09b82f3640068d18577a",
+      "btih": "f602783549c58cc6bdf6298748c482ddbf144614",
+      "mtime": "1667409142",
+      "size": "183339",
+      "md5": "7beaa58c2cb74a55c44fdac7cbfb6c8e",
+      "crc32": "d8bcda85",
+      "sha1": "73bd9700cdb905a338a3163208a0207b30733bb6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ilisolezwe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f2bc0d7e93be97420b1ccb6e98f622cc",
+      "md5": "9d4507bb6b27dad2d458baf0f3f896e0",
       "summation": "md5"
     },
     {
       "name": "ilisolezwe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367104",
-      "size": "1101824",
-      "md5": "858b5edc3bdbf9cfec64b1be6e4f4c71",
-      "crc32": "3ad6621e",
-      "sha1": "92ee4f30f4959a164d7d621f142ec4276958380f",
+      "mtime": "1667409098",
+      "size": "1105920",
+      "md5": "ccc91684057fa08c6a26b04b6b5211f1",
+      "crc32": "83cfb557",
+      "sha1": "e6ceb0fb9a4623753e573b279e7e6c6efffb1f15",
       "format": "Metadata"
     },
     {
@@ -8860,9 +8911,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 857,
-  "item_last_updated": 1667367726,
-  "item_size": 47712837,
+  "files_count": 862,
+  "item_last_updated": 1667409142,
+  "item_size": 48000640,
   "metadata": {
     "identifier": "ilisolezwe-2022",
     "collection": [
@@ -8879,10 +8930,21 @@
     "publicdate": "2022-08-22 22:03:21",
     "addeddate": "2022-08-22 22:03:21"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 639416310,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459895447,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 381754731,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

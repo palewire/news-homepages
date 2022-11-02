@@ -1,5 +1,5 @@
 {
-  "created": 1667367809,
+  "created": 1667409194,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/5/items/inthesetimesmag-2022",
@@ -19440,31 +19440,82 @@
       "sha1": "26010d49f5660359086fb7b56a018705cf067492"
     },
     {
+      "name": "inthesetimesmag-2022-11-02T12:11:47.392698-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409117",
+      "size": "11750",
+      "md5": "13ec3cd818ffb8e9c6d0309e6d3fac90",
+      "crc32": "714d90a9",
+      "sha1": "94c26377de86ee8ab067c23d6421429c67026d9b",
+      "format": "JSON"
+    },
+    {
+      "name": "inthesetimesmag-2022-11-02T12:11:47.392698-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409119",
+      "size": "10518",
+      "md5": "aeb69f505db722c75c93d9de0268f27b",
+      "crc32": "1bc4adb2",
+      "sha1": "756a135b20dfa62360313126ee000c1f37cd3f5a",
+      "format": "JSON"
+    },
+    {
+      "name": "inthesetimesmag-2022-11-02T12:11:47.392698-05:00.jpg",
+      "source": "original",
+      "mtime": "1667409116",
+      "size": "280356",
+      "md5": "59e3d27b131ef39f7d3b23a7e8a520d0",
+      "crc32": "4b8bc4ef",
+      "sha1": "fe62cd5d9b50343e5efe09ee47ebeaf436a5fc46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "inthesetimesmag-2022-11-02T12:11:47.392698-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409121",
+      "size": "1476",
+      "md5": "4d086d6542f4bd881ee0b39ccc0138ee",
+      "crc32": "104d1a63",
+      "sha1": "ed44c8195978ce2f5d3f2d54be1e4f4c55502994",
+      "format": "JSON"
+    },
+    {
+      "name": "inthesetimesmag-2022-11-02T12:11:47.392698-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409123",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "inthesetimesmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f99e6c089dce6269da43c5978e31be2b5ae8da1",
-      "mtime": "1667367794",
-      "size": "408238",
-      "md5": "8dd51f055d2279dc3054c936042874e2",
-      "crc32": "0aeb8acb",
-      "sha1": "94439d64eaaa5407dfbd0bdb6ec4a01a34946f47",
+      "btih": "7926208e3f107429b22645bf66e15c529065fc9c",
+      "mtime": "1667409187",
+      "size": "409334",
+      "md5": "f3185dfd9f2612fe2eca4da54064ae3e",
+      "crc32": "b145b56d",
+      "sha1": "5ad8ad3d42d9a0d425acf8ecdd5f4b9325439870",
       "format": "Archive BitTorrent"
     },
     {
       "name": "inthesetimesmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "82664b4c74ea5cb9eae61cef24a9d4cd",
+      "md5": "428095303c0eec8824deada85df484ef",
       "summation": "md5"
     },
     {
       "name": "inthesetimesmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367120",
-      "size": "2387968",
-      "md5": "81fe6473954c3ed7c3453900914a1674",
-      "crc32": "37e9e156",
-      "sha1": "5c0b8311d9c0e397b0d8a987666edc6ed7f0d3dc",
+      "mtime": "1667409127",
+      "size": "2404352",
+      "md5": "192241307014b16f62df8d30d62a5db2",
+      "crc32": "468cacc9",
+      "sha1": "056b776a20817b11b81a21a7a749886eb384d0bf",
       "format": "Metadata"
     },
     {
@@ -19478,9 +19529,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1881,
-  "item_last_updated": 1667367794,
-  "item_size": 103375151,
+  "files_count": 1886,
+  "item_last_updated": 1667409187,
+  "item_size": 103696933,
   "metadata": {
     "identifier": "inthesetimesmag-2022",
     "collection": [
@@ -19497,10 +19548,21 @@
     "publicdate": "2022-07-09 04:00:31",
     "addeddate": "2022-07-09 04:00:31"
   },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 1045165118,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459895942,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1774513292,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }

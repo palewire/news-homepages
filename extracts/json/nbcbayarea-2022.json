@@ -1,5 +1,5 @@
 {
-  "created": 1667372222,
+  "created": 1667409471,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/5/items/nbcbayarea-2022",
@@ -14960,31 +14960,82 @@
       "sha1": "1b10c89039f4d22e46400ff85100159205a4f11c"
     },
     {
+      "name": "nbcbayarea-2022-11-02T10:16:21.965637-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409394",
+      "size": "49059",
+      "md5": "f2953aaddc7f62a9c8e3e66583ac6580",
+      "crc32": "031a0724",
+      "sha1": "1f6b66556142018a766e827a36fd955dc28b1422",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-11-02T10:16:21.965637-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409397",
+      "size": "55538",
+      "md5": "7977a50ab004175b9bf03f9bd7e62ef8",
+      "crc32": "518e357c",
+      "sha1": "0c3e1ff4147b6c8786a723554e7a7dba0a562f50",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-11-02T10:16:21.965637-07:00.jpg",
+      "source": "original",
+      "mtime": "1667409392",
+      "size": "276759",
+      "md5": "b53cfc2dae3e84bb6d1f2abeb2982507",
+      "crc32": "4804730a",
+      "sha1": "bb7d184745a38d74c42017b32438445a33108933",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcbayarea-2022-11-02T10:16:21.965637-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409399",
+      "size": "1495",
+      "md5": "8e7b959a02eff26b6015158cf7def2b3",
+      "crc32": "d7a0c2dd",
+      "sha1": "e9c3058bfeef9c9ab1397f216a65f561a2a82ade",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcbayarea-2022-11-02T10:16:21.965637-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409401",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "nbcbayarea-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4739a24154ec840339a5e57189b1e0bb3427ca5f",
-      "mtime": "1667368277",
-      "size": "308358",
-      "md5": "bbddd3727a8ec5efdb1aec9f35feca44",
-      "crc32": "de0eaee2",
-      "sha1": "0291519449c290bdb8e393f41d4412141b4bb6cf",
+      "btih": "f9ca1d651070b3cdcf1c51bc4c3f0b51ca6674fe",
+      "mtime": "1667409464",
+      "size": "309429",
+      "md5": "e30eff38311ec50e89ca447d789f7240",
+      "crc32": "d5826214",
+      "sha1": "713fa91039559dbab0fe3deb4d334d7c40ebdbf5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcbayarea-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "759a63d41bb7e24cc6fc86b127610582",
+      "md5": "66d745781993b5bc9417e7c46b4b6761",
       "summation": "md5"
     },
     {
       "name": "nbcbayarea-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367344",
-      "size": "1806336",
-      "md5": "7ea25572ead5e389d5adcf5bc9138cbf",
-      "crc32": "73e06f65",
-      "sha1": "df03566ecb6b88167f32cee457aaccbf003c6789",
+      "mtime": "1667409408",
+      "size": "1814528",
+      "md5": "b5d06b935443cdc63952f1d561fd93ba",
+      "crc32": "e5fc6d07",
+      "sha1": "69cbc75c0d48e3138fbd5e3302f7bb97288ead9d",
       "format": "Metadata"
     },
     {
@@ -14998,9 +15049,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1446,
-  "item_last_updated": 1667368277,
-  "item_size": 119534894,
+  "files_count": 1451,
+  "item_last_updated": 1667409464,
+  "item_size": 119927210,
   "metadata": {
     "identifier": "nbcbayarea-2022",
     "collection": [
@@ -15017,15 +15068,21 @@
     "publicdate": "2022-06-30 20:48:27",
     "addeddate": "2022-06-30 20:48:27"
   },
-  "nbcbayarea-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1991055804,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459899324,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 400424921,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

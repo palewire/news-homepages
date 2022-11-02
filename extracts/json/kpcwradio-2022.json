@@ -1,5 +1,5 @@
 {
-  "created": 1667368903,
+  "created": 1667409291,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/0/items/kpcwradio-2022",
@@ -13518,31 +13518,82 @@
       "sha1": "f3a649c29109992496e4e9fc275569399ad77036"
     },
     {
+      "name": "kpcwradio-2022-11-02T11:13:04.719877-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409219",
+      "size": "19677",
+      "md5": "2c6a695c0ab3b0575b915ae550cd5818",
+      "crc32": "48d7ed8d",
+      "sha1": "c680550ab483f90e8bc821c96a756ec2b5fe08ba",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-11-02T11:13:04.719877-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409221",
+      "size": "37323",
+      "md5": "e2b7080219cfb09f8c340e055bc116b1",
+      "crc32": "fa98f8fc",
+      "sha1": "123594fc4c8d36df3884c789a556b0cb7444141f",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-11-02T11:13:04.719877-06:00.jpg",
+      "source": "original",
+      "mtime": "1667409218",
+      "size": "281539",
+      "md5": "c06cfe0dcef8e6815d6a7860b285e522",
+      "crc32": "cd6a461b",
+      "sha1": "aaaf0c019aaf70af6903c625bb05e8ed0b161748",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpcwradio-2022-11-02T11:13:04.719877-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409224",
+      "size": "1440",
+      "md5": "265a31817afec7c5afdc09c7d6c5ae7e",
+      "crc32": "d8b10e1a",
+      "sha1": "1b9b8efeb289fa484858eec3b6147e3544e3044f",
+      "format": "JSON"
+    },
+    {
+      "name": "kpcwradio-2022-11-02T11:13:04.719877-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409226",
+      "size": "14531",
+      "md5": "4d8f24c9d614afa2d0f483b540398874",
+      "crc32": "eb00139a",
+      "sha1": "9184e13dca7720096cafe5cb9bcd9ebe4e534e51",
+      "format": "JSON"
+    },
+    {
       "name": "kpcwradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2eb39a24f620e85a3b16f831d39858d510669ee1",
-      "mtime": "1667368730",
-      "size": "277137",
-      "md5": "6761314e148213d7045be930da7550d0",
-      "crc32": "8ec01072",
-      "sha1": "1c0cb30e81185169d3987ffe3bece85eb0b5b4d9",
+      "btih": "3f1e2362b27cd940e99ccdd8182a75617d7d8d66",
+      "mtime": "1667409284",
+      "size": "278205",
+      "md5": "964e96ed547684a745cddbd0fa13a8b7",
+      "crc32": "aa1d0a37",
+      "sha1": "27220138ab13d66486c1e86730a41bcb3d3c3212",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpcwradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e6a49156887157caa096304039ea4d5",
+      "md5": "788f2a02314a3a8a2a7df34c32e4d8af",
       "summation": "md5"
     },
     {
       "name": "kpcwradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367228",
-      "size": "1650688",
-      "md5": "45516ac400828f4bca33bf1eabc97b29",
-      "crc32": "4065dcc1",
-      "sha1": "25509c6703f4becec1a01ca3f27af4a856a03ecb",
+      "mtime": "1667409228",
+      "size": "1658880",
+      "md5": "0a903264295d80827308a0458a00dcf4",
+      "crc32": "204fb598",
+      "sha1": "f6f2a067e7ce391d0eea88fccf2d6fd4454c1029",
       "format": "Metadata"
     },
     {
@@ -13556,9 +13607,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1309,
-  "item_last_updated": 1667368730,
-  "item_size": 83008577,
+  "files_count": 1314,
+  "item_last_updated": 1667409284,
+  "item_size": 83372347,
   "metadata": {
     "identifier": "kpcwradio-2022",
     "collection": [
@@ -13575,10 +13626,21 @@
     "publicdate": "2022-07-09 04:00:05",
     "addeddate": "2022-07-09 04:00:05"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 778638705,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459897199,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1399709269,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }

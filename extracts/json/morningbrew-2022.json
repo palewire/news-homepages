@@ -1,5 +1,5 @@
 {
-  "created": 1667368496,
+  "created": 1667409410,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/4/items/morningbrew-2022",
@@ -11118,31 +11118,82 @@
       "sha1": "3f86c7124aabc420384b1f3d3f16f35b4714b94a"
     },
     {
+      "name": "morningbrew-2022-11-02T13:15:36.707213-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409349",
+      "size": "10630",
+      "md5": "9640894bc5e2e16c18ac1cc88e917e7c",
+      "crc32": "8803823d",
+      "sha1": "e7eca7a456272394759205e45e99d6e12dff4da7",
+      "format": "JSON"
+    },
+    {
+      "name": "morningbrew-2022-11-02T13:15:36.707213-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409351",
+      "size": "9263",
+      "md5": "ac5934814ab9238409ab73084eef4363",
+      "crc32": "c68d35a2",
+      "sha1": "9f0490799470b1672298fdb7b2236277e88a558d",
+      "format": "JSON"
+    },
+    {
+      "name": "morningbrew-2022-11-02T13:15:36.707213-04:00.jpg",
+      "source": "original",
+      "mtime": "1667409347",
+      "size": "278509",
+      "md5": "6bdf0cec5b4c67d1ef6ad59411f3fb73",
+      "crc32": "e8c9bed6",
+      "sha1": "6e1f22aecf13c6985978752eb9969e0e92fdae9a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "morningbrew-2022-11-02T13:15:36.707213-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409353",
+      "size": "1549",
+      "md5": "c90ebeb598d434e49b7c3ede9baeefb0",
+      "crc32": "3180f681",
+      "sha1": "c134292100190c6db652c6a0f5980548c856c207",
+      "format": "JSON"
+    },
+    {
+      "name": "morningbrew-2022-11-02T13:15:36.707213-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409355",
+      "size": "208",
+      "md5": "72f487de5e20f6f45eeb76c0ee6be319",
+      "crc32": "ab9433fb",
+      "sha1": "2b5bcbf3daad872fca1c1ed7e419bab5ae858006",
+      "format": "JSON"
+    },
+    {
       "name": "morningbrew-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c759c96db0555bf3353dbfaacbef81de1d8bac10",
-      "mtime": "1667368459",
-      "size": "230156",
-      "md5": "3ba140f9a818028b1c86f54bd3bc905a",
-      "crc32": "0ac88586",
-      "sha1": "8e7b071b235b0dd22972b3e24b73d20940f80b78",
+      "btih": "03405152f56f019d4ae2ff2cde68a9dee420f8d8",
+      "mtime": "1667409406",
+      "size": "231211",
+      "md5": "1a3e6df85961a94a3282bd3e5ba8ad63",
+      "crc32": "a7694ead",
+      "sha1": "aea9acd6bb15ca1ba49950e2b3f1109f27924a26",
       "format": "Archive BitTorrent"
     },
     {
       "name": "morningbrew-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3dfcfb31d47cdf07ef911b2e1f33b862",
+      "md5": "f08d2ff430d4186ef8a78d41bd5b1b1d",
       "summation": "md5"
     },
     {
       "name": "morningbrew-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367347",
-      "size": "1380352",
-      "md5": "bad29719a22866f8302c0c4ea40c0881",
-      "crc32": "ce8b088e",
-      "sha1": "c72099bd215d44a761281fa34ce5fe076f2a49a5",
+      "mtime": "1667409361",
+      "size": "1388544",
+      "md5": "bd3b4a348cbef537f3687631165056c3",
+      "crc32": "02fd9feb",
+      "sha1": "3d03b29f2a1699ed1283bcaa847d369024ed2312",
       "format": "Metadata"
     },
     {
@@ -11156,9 +11207,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1079,
-  "item_last_updated": 1667368459,
-  "item_size": 58462947,
+  "files_count": 1084,
+  "item_last_updated": 1667409406,
+  "item_size": 58772353,
   "metadata": {
     "identifier": "morningbrew-2022",
     "collection": [
@@ -11175,10 +11226,21 @@
     "publicdate": "2022-08-02 14:59:20",
     "addeddate": "2022-08-02 14:59:20"
   },
+  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "uniq": 1090590874,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459898603,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1186432405,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia601407.us.archive.org"
   ]
 }

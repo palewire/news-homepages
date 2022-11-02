@@ -1,5 +1,5 @@
 {
-  "created": 1667368147,
+  "created": 1667409582,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/26/items/nationaljournal-2022",
@@ -13774,31 +13774,82 @@
       "sha1": "95f20406b6731aaeeceeb0e1f99dab4b912727b2"
     },
     {
+      "name": "nationaljournal-2022-11-02T13:16:47.191502-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409452",
+      "size": "8827",
+      "md5": "42c35c2f5f35258fa6721c6c410cffe0",
+      "crc32": "daec5026",
+      "sha1": "504927d70ece0730e953edf216fbf719a5a2f297",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-11-02T13:16:47.191502-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409454",
+      "size": "6223",
+      "md5": "a86fc79cf7a3f2bf3e0f74f87c0f5754",
+      "crc32": "d87ee6ed",
+      "sha1": "1aab17193c7f5881456dd27b9d0209b65ad0e18f",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-11-02T13:16:47.191502-04:00.jpg",
+      "source": "original",
+      "mtime": "1667409451",
+      "size": "208692",
+      "md5": "30df68042960639d8f37a2b6485842ea",
+      "crc32": "d7fa69a3",
+      "sha1": "6e9d1a0023c169440b31b3140aa03b0a53ebc736",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nationaljournal-2022-11-02T13:16:47.191502-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409455",
+      "size": "1534",
+      "md5": "022277be1ce0c533bba5732b8ba3de40",
+      "crc32": "a62145f8",
+      "sha1": "dd97b11921c2d589504742d580cfafa033923abc",
+      "format": "JSON"
+    },
+    {
+      "name": "nationaljournal-2022-11-02T13:16:47.191502-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409457",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "nationaljournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "42e2db472697ed4b58464e1ba8e8381037bdfca2",
-      "mtime": "1667368116",
-      "size": "288407",
-      "md5": "05692a392e00a8f8a523ddb9fb1e81e1",
-      "crc32": "9e0a7f98",
-      "sha1": "a3cf68c00f23dcaa6d1fb00cbfc7067854cb835f",
+      "btih": "1acb0b4b1863f2d331e79eb48cdc5087ce16d3a1",
+      "mtime": "1667409565",
+      "size": "289481",
+      "md5": "67e08cd8d0a6822ad3bfed6b6289016b",
+      "crc32": "0bd15051",
+      "sha1": "134c0f8d403cce90605dfc1106013281787c7010",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nationaljournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4d7efaf27bba0402c6165615cf10c9ae",
+      "md5": "59e1c5a0ba4ffc2cb0639738b90119c8",
       "summation": "md5"
     },
     {
       "name": "nationaljournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367349",
-      "size": "1687552",
-      "md5": "ecd2484e6d212b174a65f1bf08a74d60",
-      "crc32": "6fd8d7e3",
-      "sha1": "f8131d425924f26790eb4f35f3e193f1e5d2f10b",
+      "mtime": "1667409486",
+      "size": "1695744",
+      "md5": "8674aebd926179f636dde2770acd6f34",
+      "crc32": "61ded046",
+      "sha1": "df22382c6f24fdc1340b71bf290f80f857869037",
       "format": "Metadata"
     },
     {
@@ -13812,9 +13863,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1333,
-  "item_last_updated": 1667368116,
-  "item_size": 58621689,
+  "files_count": 1338,
+  "item_last_updated": 1667409565,
+  "item_size": 58856433,
   "metadata": {
     "identifier": "nationaljournal-2022",
     "collection": [
@@ -13831,10 +13882,21 @@
     "publicdate": "2022-07-04 21:49:06",
     "addeddate": "2022-07-04 21:49:06"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 1127192321,
+  "pending_tasks": true,
+  "server": "ia601406.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459900730,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 621144033,
   "workable_servers": [
-    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

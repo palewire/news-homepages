@@ -1,5 +1,5 @@
 {
-  "created": 1667368464,
+  "created": 1667409306,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/24/items/kyivindependent-2022",
@@ -22936,31 +22936,82 @@
       "sha1": "ead108ea113a2bb97783261d14f2a7647d2b22ab"
     },
     {
+      "name": "kyivindependent-2022-11-02T19:13:13.034822+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409206",
+      "size": "46920",
+      "md5": "b0ccd3b0b9715284524af8cf9ac1bf85",
+      "crc32": "f726f78e",
+      "sha1": "d9b4731af362d86faf2b0eb1df09437f80eba19b",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-11-02T19:13:13.034822+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409208",
+      "size": "32756",
+      "md5": "24e48100dd9dec8ed9b16d8c1ae11dd6",
+      "crc32": "d487ae87",
+      "sha1": "3cfb4b1ff13b61040d96ef06f5f0b3f0e6c93353",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-11-02T19:13:13.034822+02:00.jpg",
+      "source": "original",
+      "mtime": "1667409202",
+      "size": "341552",
+      "md5": "ae9d06110cb4c43fef3d0b5c3fd1116a",
+      "crc32": "0a634c77",
+      "sha1": "d2ada31b2f0eedc2c382d25b14df224cf0796ca0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivindependent-2022-11-02T19:13:13.034822+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409211",
+      "size": "1504",
+      "md5": "5e3f8626fab718b2c91040ac4913c853",
+      "crc32": "ac8f6ee1",
+      "sha1": "57c3e21bca1d8e7c957d80ed3541bca2445d2245",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-11-02T19:13:13.034822+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409213",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "kyivindependent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2419faaad6cce71f7d25535de649cb67eb10909b",
-      "mtime": "1667368381",
-      "size": "478461",
-      "md5": "a3f30c9058269a7c7cab5f1c9ea1dfd3",
-      "crc32": "ea8c7b49",
-      "sha1": "cf85d419fc5b7055d7414dfc241d3ab22f22695e",
+      "btih": "4cce30a45bf79193227f94a4372a75d41aa98ff5",
+      "mtime": "1667409294",
+      "size": "479557",
+      "md5": "21527723937e07565ab68a4692de397b",
+      "crc32": "d2f30110",
+      "sha1": "8cd3b554bb4e42bc5e3e83a8f5fd52547d43e98b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kyivindependent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "febd2eed100bbfacd3302b2dc8966acb",
+      "md5": "d0078216a621e1a35638b44c6ff84dcd",
       "summation": "md5"
     },
     {
       "name": "kyivindependent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367227",
-      "size": "2682880",
-      "md5": "cf040f16182b0fd8475f39532ad13408",
-      "crc32": "75557eaa",
-      "sha1": "76a9c2e6e17f3c0abd30cb3afa1275f90037cdbe",
+      "mtime": "1667409218",
+      "size": "2691072",
+      "md5": "60921a402e29b8c4d6eaa91dfa0bc9dc",
+      "crc32": "dc30d996",
+      "sha1": "586c8e3abe9b351c33ade596b9061936c29d7c33",
       "format": "Metadata"
     },
     {
@@ -22974,9 +23025,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2204,
-  "item_last_updated": 1667368381,
-  "item_size": 154542484,
+  "files_count": 2209,
+  "item_last_updated": 1667409294,
+  "item_size": 154974706,
   "metadata": {
     "identifier": "kyivindependent-2022",
     "collection": [
@@ -22993,10 +23044,21 @@
     "publicdate": "2022-03-23 02:08:42",
     "addeddate": "2022-03-23 02:08:42"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1799027894,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459897408,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1510450256,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

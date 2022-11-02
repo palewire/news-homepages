@@ -1,5 +1,5 @@
 {
-  "created": 1667367862,
+  "created": 1667409107,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/hartfordcourant-2022",
@@ -11776,31 +11776,82 @@
       "sha1": "009001af53c7148688645cb866da587b0598baca"
     },
     {
+      "name": "hartfordcourant-2022-11-02T13:10:12.690303-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409039",
+      "size": "33927",
+      "md5": "bde41ebbee03ead9ffc5543f18adac16",
+      "crc32": "59bc3bed",
+      "sha1": "a6fb4807d570ee9ced2814c89b5884fef409c942",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-11-02T13:10:12.690303-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409041",
+      "size": "36112",
+      "md5": "ac692ed0525644629f6637f6dfe46d13",
+      "crc32": "98b7ec47",
+      "sha1": "c81ea2b148340da06cf5200ba2cb6fc9a8064437",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-11-02T13:10:12.690303-04:00.jpg",
+      "source": "original",
+      "mtime": "1667409038",
+      "size": "266654",
+      "md5": "422f19c9f14818ed828061327350fedf",
+      "crc32": "bf39c8e5",
+      "sha1": "07954ba62ceb3cce3f187f56a05134b9202fd048",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hartfordcourant-2022-11-02T13:10:12.690303-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409043",
+      "size": "1459",
+      "md5": "23d1396a3d73d0bb6f3690d1d0a8bfe6",
+      "crc32": "fa555c3c",
+      "sha1": "b4fa1d617c37b539dc58117f4d40fb5b6bb5b64e",
+      "format": "JSON"
+    },
+    {
+      "name": "hartfordcourant-2022-11-02T13:10:12.690303-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409045",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "hartfordcourant-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fe639b2127ac04b7e65134eb6c7bb83fb2bd83dd",
-      "mtime": "1667367774",
-      "size": "248974",
-      "md5": "d80bb7346a2fe11a0916213c255d8d22",
-      "crc32": "e8d08cfc",
-      "sha1": "9956f726430838060f2d89156db5b177be856eac",
+      "btih": "5a9be5d384df8991ebcf12fe568f8d727d03ee42",
+      "mtime": "1667409101",
+      "size": "250070",
+      "md5": "58630cb2a3258c192aca6c24e3550f37",
+      "crc32": "17235698",
+      "sha1": "ed792d607ef8cbd1f10ba834ad65be78fe95b1bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hartfordcourant-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1441341470f604f9e0293edb8e7e0917",
+      "md5": "c1d01735ca9e3b723fec3d11b6d86b3d",
       "summation": "md5"
     },
     {
       "name": "hartfordcourant-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367063",
-      "size": "1462272",
-      "md5": "9e79ff858ccc9e0cd8969b88f7fa133f",
-      "crc32": "f850eae4",
-      "sha1": "2ec9d39e8775866b5bf267400f043b3d89830368",
+      "mtime": "1667409050",
+      "size": "1470464",
+      "md5": "2ab23ab789cdead12406ced6612fb44e",
+      "crc32": "689317f5",
+      "sha1": "a0c5d353224894c8e56c32bae7d02e01a54faf56",
       "format": "Metadata"
     },
     {
@@ -11814,9 +11865,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1142,
-  "item_last_updated": 1667367774,
-  "item_size": 82871277,
+  "files_count": 1147,
+  "item_last_updated": 1667409101,
+  "item_size": 83218919,
   "metadata": {
     "identifier": "hartfordcourant-2022",
     "collection": [
@@ -11833,10 +11884,21 @@
     "publicdate": "2022-07-27 02:38:23",
     "addeddate": "2022-07-27 02:38:23"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 2027616274,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459894922,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1645843306,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }
