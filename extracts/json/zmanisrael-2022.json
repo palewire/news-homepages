@@ -1,5 +1,5 @@
 {
-  "created": 1667364310,
+  "created": 1667405000,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/zmanisrael-2022",
@@ -130,31 +130,82 @@
       "sha1": "f9ee0a3c9d8f786ca411c22c01f21b1a469a4b60"
     },
     {
+      "name": "zmanisrael-2022-11-02T18:02:25.140784+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667404950",
+      "size": "292027",
+      "md5": "4ec4a26987e97bf0484d094db9d7df36",
+      "crc32": "6a29df1c",
+      "sha1": "5677507768bc3f21affd1d988ad4ac008cbb1c62",
+      "format": "JSON"
+    },
+    {
+      "name": "zmanisrael-2022-11-02T18:02:25.140784+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667404952",
+      "size": "249749",
+      "md5": "047e82b1cf168670f26fdd57efa5e8b9",
+      "crc32": "5705669c",
+      "sha1": "7b81cba8e1d66f5c0db08bc3dbe4a67e3c441405",
+      "format": "JSON"
+    },
+    {
+      "name": "zmanisrael-2022-11-02T18:02:25.140784+02:00.jpg",
+      "source": "original",
+      "mtime": "1667404947",
+      "size": "192904",
+      "md5": "1eb99745dee55f3385e5aa423cb7a61c",
+      "crc32": "b70bd58a",
+      "sha1": "241cf3d6918d59a5079e3309f2f9edcfda1d67d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zmanisrael-2022-11-02T18:02:25.140784+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667404955",
+      "size": "1459",
+      "md5": "f74fa5039c52283f23049c35440853cb",
+      "crc32": "575031fa",
+      "sha1": "0d2071a58f43cbefbbb0a6291d649b8154aa7fbe",
+      "format": "JSON"
+    },
+    {
+      "name": "zmanisrael-2022-11-02T18:02:25.140784+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667404958",
+      "size": "15321",
+      "md5": "72bffa1db52f6e42806ba32f77179b79",
+      "crc32": "05b60d28",
+      "sha1": "481097fead04cb1135fda3dc308b665515537403",
+      "format": "JSON"
+    },
+    {
       "name": "zmanisrael-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e8d6686c779c0a2233f8d543272ed5aeafa2ec7",
-      "mtime": "1667364304",
-      "size": "4012",
-      "md5": "82f7ff53201cb28ac572a3625f163cc1",
-      "crc32": "6ce659fe",
-      "sha1": "9974ae5c7258cf5b61bebb3a0b274e1084cda2b2",
+      "btih": "b20ee8f3afe266999d789d6c235fb1fc46a6aa0e",
+      "mtime": "1667404997",
+      "size": "5088",
+      "md5": "da7165145e5a1f36264f078833beb68b",
+      "crc32": "6cb10b36",
+      "sha1": "c5a2336a3d3f9d4167e6ff9c4a484bd43ae172fb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zmanisrael-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8ff7d68c63146dc34eaa504c1f8a974f",
+      "md5": "02f9005009838a04a801cc0554f54af5",
       "summation": "md5"
     },
     {
       "name": "zmanisrael-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667363178",
-      "size": "32768",
-      "md5": "265b5cb810a31244a57ea00bf3f2cdca",
-      "crc32": "1ebfa4c0",
-      "sha1": "1560ec487c97160b40c60356867e8f3e9d50e583",
+      "mtime": "1667404963",
+      "size": "40960",
+      "md5": "6f6a8c571e519d7be9a370248c3892f9",
+      "crc32": "c53ad14d",
+      "sha1": "ed68f0d893267839aa64ab6dd712a48db432870d",
       "format": "Metadata"
     },
     {
@@ -168,9 +219,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 16,
-  "item_last_updated": 1667364304,
-  "item_size": 1596718,
+  "files_count": 21,
+  "item_last_updated": 1667404997,
+  "item_size": 2357446,
   "metadata": {
     "identifier": "zmanisrael-2022",
     "collection": [
@@ -187,10 +238,21 @@
     "publicdate": "2022-11-01 21:20:36",
     "addeddate": "2022-11-01 21:20:36"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1061783845,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459848456,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 361450395,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

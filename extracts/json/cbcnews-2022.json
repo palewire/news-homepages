@@ -1,5 +1,5 @@
 {
-  "created": 1667364299,
+  "created": 1667404975,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/8/items/cbcnews-2022",
@@ -14808,31 +14808,82 @@
       "sha1": "3aca96cbaea7741fc03fbf60c9b4741c1c879662"
     },
     {
+      "name": "cbcnews-2022-11-02T12:01:00.482980-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667404880",
+      "size": "454",
+      "md5": "e02a442dedd6d7c51b3281b3e15ee153",
+      "crc32": "365441cb",
+      "sha1": "d4a7f834a753857f0483abe7292370eddb0cf7dd",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-11-02T12:01:00.482980-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667404882",
+      "size": "24307",
+      "md5": "f1efb53b9cec7c4b6a570fa70430616f",
+      "crc32": "509df004",
+      "sha1": "70fc55b5f733086aff5d6048b70eab1b0a00f592",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-11-02T12:01:00.482980-04:00.jpg",
+      "source": "original",
+      "mtime": "1667404878",
+      "size": "336860",
+      "md5": "13aa6d61c0abe829e063067e5646c83d",
+      "crc32": "85fb5827",
+      "sha1": "1c3b267d55f1666fdebb29ec09777d94c7094947",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cbcnews-2022-11-02T12:01:00.482980-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667404884",
+      "size": "1456",
+      "md5": "33a53b1e3b9416e3ca1febb89fc5f70d",
+      "crc32": "c01c0b43",
+      "sha1": "b6acfc953850202af7fdcaf0b0790cd92ae79d08",
+      "format": "JSON"
+    },
+    {
+      "name": "cbcnews-2022-11-02T12:01:00.482980-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667404887",
+      "size": "27643",
+      "md5": "075ef040ae2a5d17cd84e3fd7c5e3228",
+      "crc32": "69b87713",
+      "sha1": "5ece386575e5d4a0cb68f278fda8f1cb70e6b32d",
+      "format": "JSON"
+    },
+    {
       "name": "cbcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c02e669d1ac43cb41dc0873c55fd140f788d7476",
-      "mtime": "1667364282",
-      "size": "299719",
-      "md5": "c02b8469d1cd73224783443cfd7d8cd9",
-      "crc32": "3bc5b723",
-      "sha1": "d310bb6a0da9c9a092057c001e4e250e59250049",
+      "btih": "c94155881ad9c7b2ebc883761c5407ff282c29e9",
+      "mtime": "1667404964",
+      "size": "300775",
+      "md5": "a289d36e280c31b9730946adee4c3644",
+      "crc32": "319911bc",
+      "sha1": "c34c99f5b3408f462a11df08940259fbfb18e642",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cbcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e884d42a8b7ac3a725eaad167d8d4609",
+      "md5": "a9cefeae91a970de4b1c7d10914c173a",
       "summation": "md5"
     },
     {
       "name": "cbcnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667363088",
-      "size": "1785856",
-      "md5": "31611eba2065c880c85553ec9b8c51c8",
-      "crc32": "89dff748",
-      "sha1": "e4630747c8e14fe1ecbec2dacb371163194ece67",
+      "mtime": "1667404899",
+      "size": "1794048",
+      "md5": "15035dd5dfcf0dcaf2f8a067c7c81323",
+      "crc32": "65efe7a3",
+      "sha1": "7ddd1ccb97ab9d76b7447c7ddff4fc862c199392",
       "format": "Metadata"
     },
     {
@@ -14846,9 +14897,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1432,
-  "item_last_updated": 1667364282,
-  "item_size": 96095350,
+  "files_count": 1437,
+  "item_last_updated": 1667404964,
+  "item_size": 96495318,
   "metadata": {
     "identifier": "cbcnews-2022",
     "collection": [
@@ -14865,10 +14916,21 @@
     "publicdate": "2022-06-30 22:35:35",
     "addeddate": "2022-06-30 22:35:35"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 1550523765,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459847940,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 88741853,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667364201,
+  "created": 1667404777,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/1/items/amarilloglobe-2022",
@@ -5286,31 +5286,82 @@
       "sha1": "248af02a3449a4a31ec68d3e5599b8b5e869ef17"
     },
     {
+      "name": "amarilloglobe-2022-11-02T10:58:09.845853-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667404713",
+      "size": "23632",
+      "md5": "88b10aba5002cab20b8cec800661aa67",
+      "crc32": "337522e7",
+      "sha1": "b0718fdcd4d9b2831334a2e8392f9d95d1bc39a1",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-11-02T10:58:09.845853-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667404715",
+      "size": "32282",
+      "md5": "8d16178512430d810eb04b236f1b6e52",
+      "crc32": "3bfbf998",
+      "sha1": "d874db1cd89ed801705a4f7eb54ed93e7108ecf4",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-11-02T10:58:09.845853-05:00.jpg",
+      "source": "original",
+      "mtime": "1667404708",
+      "size": "263746",
+      "md5": "a573cb0e6bdb3f932d26be1bbfc0fdd7",
+      "crc32": "42ba3e82",
+      "sha1": "2027350adf44b42f0eb1f8666cf910af387a52b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amarilloglobe-2022-11-02T10:58:09.845853-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667404716",
+      "size": "1477",
+      "md5": "c460736b990b92274c7853fbedfacd7e",
+      "crc32": "2d598859",
+      "sha1": "62116eae58f27d1eae04fca77cb29ce1c8e5008c",
+      "format": "JSON"
+    },
+    {
+      "name": "amarilloglobe-2022-11-02T10:58:09.845853-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667404718",
+      "size": "99652",
+      "md5": "4bb33fe780cb8780a544626d7d4609fc",
+      "crc32": "d70288e4",
+      "sha1": "60a34754749f71943de7702c1e8a73b3ae761104",
+      "format": "JSON"
+    },
+    {
       "name": "amarilloglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f94b59fa3da6f182bfd608a6c62bdfb1fc06d0b2",
-      "mtime": "1667364122",
-      "size": "111481",
-      "md5": "f8c90e5350a83b7b3b36af9a8159b3bf",
-      "crc32": "464abfd3",
-      "sha1": "cdb086e52e3198bb749ba72b3aa0254373294bc4",
+      "btih": "bc6118ed1b1693caf98c7c4cc8266ac355dd6c3d",
+      "mtime": "1667404768",
+      "size": "112569",
+      "md5": "d5aae049190d74812f7f3bc00069a374",
+      "crc32": "cec2fcd5",
+      "sha1": "eaae79306efb9c42ff220eff49a6ba579037981f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amarilloglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "24f67006ad7d0c338703acc9f5845f57",
+      "md5": "5d6f6b516ad1122dab257fd5dd27f343",
       "summation": "md5"
     },
     {
       "name": "amarilloglobe-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667362955",
-      "size": "671744",
-      "md5": "e996c193d2f6e57243da697daae4cdc4",
-      "crc32": "028f0a29",
-      "sha1": "3581518137b702fa183a373fc66cdcc2cb37aaee",
+      "mtime": "1667404725",
+      "size": "679936",
+      "md5": "6ed17a4d65eb97c1e558a2cc0b461596",
+      "crc32": "703798ba",
+      "sha1": "9050e4e91ebac348d440916dc1b8e37adb30fc98",
       "format": "Metadata"
     },
     {
@@ -5324,9 +5375,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 515,
-  "item_last_updated": 1667364122,
-  "item_size": 34685923,
+  "files_count": 520,
+  "item_last_updated": 1667404768,
+  "item_size": 35115992,
   "metadata": {
     "identifier": "amarilloglobe-2022",
     "collection": [
@@ -5343,10 +5394,21 @@
     "publicdate": "2022-09-21 04:37:30",
     "addeddate": "2022-09-21 04:37:30"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 327099665,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459844059,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2081711280,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

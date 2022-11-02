@@ -1,10 +1,5 @@
 {
-  "clarionledger-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667365624,
+  "created": 1667404999,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/30/items/clarionledger-2022",
@@ -15559,31 +15554,82 @@
       "sha1": "a6d992b8e36688e0dc182078d125a18fb20b64ad"
     },
     {
+      "name": "clarionledger-2022-11-02T12:00:31.574282-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667404853",
+      "size": "20427",
+      "md5": "5d4c0b155f297f5ea1d8eaf317071493",
+      "crc32": "627cc7f3",
+      "sha1": "215d4b6d8b855253c4a8e50844ea0a4c082b60c7",
+      "format": "JSON"
+    },
+    {
+      "name": "clarionledger-2022-11-02T12:00:31.574282-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667404856",
+      "size": "27992",
+      "md5": "fa05d3f6ea119d6d7a66bbab8eaeb7e4",
+      "crc32": "6db90c55",
+      "sha1": "99e09ed22aae45459b82eebd6ab84839e1d895e3",
+      "format": "JSON"
+    },
+    {
+      "name": "clarionledger-2022-11-02T12:00:31.574282-04:00.jpg",
+      "source": "original",
+      "mtime": "1667404850",
+      "size": "302932",
+      "md5": "077591b43137b8cc85f989f52dd77ca2",
+      "crc32": "d1804323",
+      "sha1": "6fa1117371df0177f88f1be88ec71c8088d6e2bb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "clarionledger-2022-11-02T12:00:31.574282-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667404858",
+      "size": "1522",
+      "md5": "6be6b6fbd1681d6d567471cd56a4e04d",
+      "crc32": "5063a4fe",
+      "sha1": "a844a7410be62baa71a6d20e410079b544855251",
+      "format": "JSON"
+    },
+    {
+      "name": "clarionledger-2022-11-02T12:00:31.574282-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667404860",
+      "size": "97706",
+      "md5": "a9ba7d874c03a8ea74f7e12857766465",
+      "crc32": "5c4bd4e0",
+      "sha1": "7a6b7e26b8282b4807dd71ca2f4ee6ba25b08736",
+      "format": "JSON"
+    },
+    {
       "name": "clarionledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c43eb845df84a8a6e58ee6839397976a5ef6dc73",
-      "mtime": "1667364555",
-      "size": "324302",
-      "md5": "206750a5dab52b525201bee602a4d09e",
-      "crc32": "a4134b10",
-      "sha1": "1dffe4c80bd542624be07df3b2ac5588949166ac",
+      "btih": "b1d91def02d86805cf91445a6c1a7809cfd3258f",
+      "mtime": "1667404987",
+      "size": "325390",
+      "md5": "a37918dc8559ae84ef5cff10a1998116",
+      "crc32": "3060e038",
+      "sha1": "099586609084333dda7b0d8d74ea6e4030c36b00",
       "format": "Archive BitTorrent"
     },
     {
       "name": "clarionledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ef6d4a50e84997ef586e1a90dc37f100",
+      "md5": "8dab6e563c54c31703254a8d55f905a8",
       "summation": "md5"
     },
     {
       "name": "clarionledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667363102",
-      "size": "1884160",
-      "md5": "7aa89df1b2345cd2a7e7c504616a8a64",
-      "crc32": "b781a83b",
-      "sha1": "5c0912e12f103dd57e1deef923baf257c8204853",
+      "mtime": "1667404907",
+      "size": "1888256",
+      "md5": "8d9c0501ef0501beb1a76316cdb166cf",
+      "crc32": "638f2694",
+      "sha1": "20ea7236f8ee813dd4dc5ec55710c95b96fde41c",
       "format": "Metadata"
     },
     {
@@ -15597,9 +15643,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1503,
-  "item_last_updated": 1667364555,
-  "item_size": 105931689,
+  "files_count": 1508,
+  "item_last_updated": 1667404987,
+  "item_size": 106387452,
   "metadata": {
     "identifier": "clarionledger-2022",
     "collection": [
@@ -15616,10 +15662,21 @@
     "publicdate": "2022-06-24 22:53:49",
     "addeddate": "2022-06-24 22:53:49"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 2130167164,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459848443,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1981426265,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }

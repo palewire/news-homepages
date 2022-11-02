@@ -1,5 +1,5 @@
 {
-  "created": 1667365268,
+  "created": 1667405025,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/18/items/wtvm-2022",
@@ -12676,31 +12676,82 @@
       "sha1": "67382fedaff8c3e61181b408e8ed085386f34fe2"
     },
     {
+      "name": "wtvm-2022-11-02T12:02:21.968233-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667404956",
+      "size": "34792",
+      "md5": "a74b3042cee61c24e5673403f4343012",
+      "crc32": "210c01a1",
+      "sha1": "d14898dd238353e55ee93be3df477c1e18c7b97a",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-11-02T12:02:21.968233-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667404959",
+      "size": "22103",
+      "md5": "e5907007b47ecfca056191ce1c094bbe",
+      "crc32": "d8ba63fa",
+      "sha1": "abf801ecc2787ad9f078d12c71dbb586019aff29",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-11-02T12:02:21.968233-04:00.jpg",
+      "source": "original",
+      "mtime": "1667404953",
+      "size": "351579",
+      "md5": "159cc17c2d7e3cbcebac06cec41e3b38",
+      "crc32": "f3d43911",
+      "sha1": "2f58802c15b605c6c3ba31b2aa491d273b2463fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wtvm-2022-11-02T12:02:21.968233-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667404961",
+      "size": "1441",
+      "md5": "81d997a9217cd752cb32377fa16ba69d",
+      "crc32": "9854ab01",
+      "sha1": "50db69480cdb5446d984febbc7cf1d334af4e98b",
+      "format": "JSON"
+    },
+    {
+      "name": "wtvm-2022-11-02T12:02:21.968233-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667404963",
+      "size": "62760",
+      "md5": "63006b487d90738a7c196fec44ab11d7",
+      "crc32": "f5c8085c",
+      "sha1": "cd76642033e2c3a59a766d54bcd1bbcb3bf69b7c",
+      "format": "JSON"
+    },
+    {
       "name": "wtvm-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f7abc169969fc45942c10a50ead5a7469554bd4",
-      "mtime": "1667364690",
-      "size": "254970",
-      "md5": "94d52b935cba5a577093d69beb340ca8",
-      "crc32": "7a58a492",
-      "sha1": "e4106412723f89d813fdc8efb7600639a9e53a65",
+      "btih": "cca7a939488a00ccf1b18924c776cd0d792c1faa",
+      "mtime": "1667405020",
+      "size": "256013",
+      "md5": "fde36cf542150d67948a1bbe236e4e57",
+      "crc32": "b6fbe539",
+      "sha1": "1b48785adfc1d75ad827a5a5cedef0d43376bef2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wtvm-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "289280f3d5d27cc42f5e26c6d5a6811f",
+      "md5": "9583d6ca3025e75adf39222d96625330",
       "summation": "md5"
     },
     {
       "name": "wtvm-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667363245",
-      "size": "1548288",
-      "md5": "0a936df812e832b15f25afbab25cc072",
-      "crc32": "c43fb4b1",
-      "sha1": "2efab17df760172a6ccd0777fc4e1589d9c2536e",
+      "mtime": "1667404970",
+      "size": "1556480",
+      "md5": "8763c2713ec31f81d83655975848881d",
+      "crc32": "8407abae",
+      "sha1": "219e5194d86970c7f8ab7bb44cc90893dc6195bc",
       "format": "Metadata"
     },
     {
@@ -12714,9 +12765,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1229,
-  "item_last_updated": 1667364690,
-  "item_size": 100551933,
+  "files_count": 1234,
+  "item_last_updated": 1667405020,
+  "item_size": 101033843,
   "metadata": {
     "identifier": "wtvm-2022",
     "collection": [
@@ -12738,32 +12789,16 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459399881,
+      "task_id": 3459848905,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3459414212,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 115065312,
+  "uniq": 1028651529,
   "workable_servers": [
     "ia902500.us.archive.org"
-  ],
-  "wtvm-2022": {
-    "url": "https://www.wtvm.com",
-    "job_id": "spn2-5b0682e9c7a8fe06056e73a193fd5caf72f4752c",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667364274,
+  "created": 1667404791,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/30/items/baltbeat-2022",
@@ -13318,31 +13318,82 @@
       "sha1": "6b50a23cadd983b277a364462c772d9e12c2bd7b"
     },
     {
+      "name": "baltbeat-2022-11-02T11:58:43.519663-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667404730",
+      "size": "14850",
+      "md5": "79d42ce4441e022adfbbf78f13428d0e",
+      "crc32": "e67d3ae2",
+      "sha1": "9a2b13ee55e2e00bf5f102311a02278545ee0ff1",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbeat-2022-11-02T11:58:43.519663-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667404731",
+      "size": "7469",
+      "md5": "0e5077b98ce7516f567cc8a7e4bca4bf",
+      "crc32": "cff834ad",
+      "sha1": "669c7fa3ac290c737270d462648527f535713319",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbeat-2022-11-02T11:58:43.519663-04:00.jpg",
+      "source": "original",
+      "mtime": "1667404728",
+      "size": "284000",
+      "md5": "82989cb7eb99158bf991cdf195e2e639",
+      "crc32": "f8e315de",
+      "sha1": "1a6de1f91c4569eb04a5d2fb1c458adb5bb9b0ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "baltbeat-2022-11-02T11:58:43.519663-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667404733",
+      "size": "1476",
+      "md5": "c26b155ffa5a2227ac1a412e7d9aa69d",
+      "crc32": "677b02cf",
+      "sha1": "e906313ec468252ef661c4a1737c3226dc0fcaa9",
+      "format": "JSON"
+    },
+    {
+      "name": "baltbeat-2022-11-02T11:58:43.519663-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667404734",
+      "size": "11175",
+      "md5": "806b6569d24460af135907673b78be86",
+      "crc32": "932746be",
+      "sha1": "1f383fc96c6f67012ac41b4602ed57ae2c18f5a6",
+      "format": "JSON"
+    },
+    {
       "name": "baltbeat-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fb6447dd0476edf251d9308a8e633e4e9f9b7c63",
-      "mtime": "1667364189",
-      "size": "271136",
-      "md5": "14d781ec76275799737caf73d8e1877b",
-      "crc32": "28c9d6fc",
-      "sha1": "0b322ed025208536e8d4dfce41406d12cef3d68f",
+      "btih": "faa41a0761c9458982e44582d307a86082e69849",
+      "mtime": "1667404788",
+      "size": "272198",
+      "md5": "37ee2fca63dbe8aeb8f0730cc3e75b49",
+      "crc32": "9272b3d2",
+      "sha1": "587f69c2f7fd7fdaecee856a3b2a05869740d127",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltbeat-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "982b35c313989c8a4551a69fb387d8a8",
+      "md5": "0a2babc45ee4c5e536d8b64658591359",
       "summation": "md5"
     },
     {
       "name": "baltbeat-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667362969",
-      "size": "1622016",
-      "md5": "6365efb0b37e3b63aee5936ac0cedec1",
-      "crc32": "7dc62e46",
-      "sha1": "9460ba54c6982cc64e8fe500941e3a9f2016931c",
+      "mtime": "1667404739",
+      "size": "1634304",
+      "md5": "ff4f1008c10bc453f237c370a36aa12b",
+      "crc32": "58b844fd",
+      "sha1": "0d2f4f32623199046b0b132eff8c252a36693087",
       "format": "Metadata"
     },
     {
@@ -13356,9 +13407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1290,
-  "item_last_updated": 1667364189,
-  "item_size": 73492828,
+  "files_count": 1295,
+  "item_last_updated": 1667404788,
+  "item_size": 73825148,
   "metadata": {
     "identifier": "baltbeat-2022",
     "collection": [
@@ -13375,10 +13426,21 @@
     "publicdate": "2022-07-13 02:24:28",
     "addeddate": "2022-07-13 02:24:28"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 879076674,
+  "pending_tasks": true,
+  "server": "ia902500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459844214,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 339889529,
   "workable_servers": [
-    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

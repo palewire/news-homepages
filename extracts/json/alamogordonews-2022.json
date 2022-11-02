@@ -1,5 +1,6 @@
 {
-  "created": 1667364126,
+  "conflict": 1667407291,
+  "created": 1667407291,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/8/items/alamogordonews-2022",
@@ -5224,31 +5225,93 @@
       "sha1": "9a247f474d2020d2c4c4a4eb52c30e7795f5af8f"
     },
     {
+      "name": "alamogordonews-2022-11-02T09:56:55.728183-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667404619",
+      "size": "20829",
+      "md5": "e9ea184d156df75da917a0d43afb00d0",
+      "crc32": "5d6d0361",
+      "sha1": "1d8cd65820e5c866df7d0f500b38943398c27a36",
+      "format": "JSON"
+    },
+    {
+      "name": "alamogordonews-2022-11-02T09:56:55.728183-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667404620",
+      "size": "33230",
+      "md5": "c50eb8e3ceea2a7ca942329aff98339d",
+      "crc32": "60c72549",
+      "sha1": "441c4ba2e2a6c6c2b9fe1341a3f89664331d2b0c",
+      "format": "JSON"
+    },
+    {
+      "name": "alamogordonews-2022-11-02T09:56:55.728183-06:00.jpg",
+      "source": "original",
+      "mtime": "1667404617",
+      "size": "251927",
+      "md5": "1a4dec2a3ba9f59b808fd073cbd9efe6",
+      "crc32": "2a1df09a",
+      "sha1": "81b9975d1fd6e04f876c9dadab1d2fefd8848c4d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alamogordonews-2022-11-02T09:56:55.728183-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667404622",
+      "size": "1531",
+      "md5": "25243aff099bf55c938fb4b2e781adbf",
+      "crc32": "48bed617",
+      "sha1": "d96f5c5196e16e6f60ae04101843cdf52ac50fb4",
+      "format": "JSON"
+    },
+    {
+      "name": "alamogordonews-2022-11-02T09:56:55.728183-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667404625",
+      "size": "82966",
+      "md5": "9533e5b84fea6f6bab9055b9bb9f1cb2",
+      "crc32": "93d7fa59",
+      "sha1": "1617fca34af838b90c79b7a439fd1c0e693405e0",
+      "format": "JSON"
+    },
+    {
+      "name": "alamogordonews-2022-11-02T09:56:55.728183-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alamogordonews-2022-11-02T09:56:55.728183-06:00.jpg",
+      "mtime": "1667407282",
+      "size": "8900",
+      "md5": "2adc147c433ee59d7b24b56dd397c4db",
+      "crc32": "010fc139",
+      "sha1": "58383fe314378380842997051b233d659065e988"
+    },
+    {
       "name": "alamogordonews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3abc13fb9c63da7ad46b72b58fa9daec60cf146e",
-      "mtime": "1667364117",
-      "size": "110698",
-      "md5": "5e36e9f5286fe4d4b2dcfa93401481f9",
-      "crc32": "fca860d8",
-      "sha1": "5013f31d040e9f32482a4d7d811d4c0bf3385e96",
+      "btih": "1dd8240df1d2690f491631c3282ea4c27a699503",
+      "mtime": "1667407289",
+      "size": "112001",
+      "md5": "d87bc598bfd73ee7ab4ef371985627a9",
+      "crc32": "700cdf6e",
+      "sha1": "b8972f33e0b8908ce77b9264863ae72f347dc88b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alamogordonews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b1f2d2e30bc66b572dff8c89e9da6644",
+      "md5": "58d9b104b94d6ce2d4287e396a61095b",
       "summation": "md5"
     },
     {
       "name": "alamogordonews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667363027",
-      "size": "663552",
-      "md5": "c370b86ce2e657380441c17445c1708c",
-      "crc32": "28fd90e9",
-      "sha1": "d0e5320c119a8414ab2f3e0082b0b1b80b6f906d",
+      "mtime": "1667404633",
+      "size": "671744",
+      "md5": "ff6b6a61ef4e4c53fac55fe1ffe032f0",
+      "crc32": "0c95ae46",
+      "sha1": "e8ff46e0959d9da0d31a955222a86283c14462da",
       "format": "Metadata"
     },
     {
@@ -5262,9 +5325,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 509,
-  "item_last_updated": 1667364117,
-  "item_size": 33331955,
+  "files_count": 515,
+  "item_last_updated": 1667407289,
+  "item_size": 33740833,
   "metadata": {
     "identifier": "alamogordonews-2022",
     "collection": [
@@ -5281,10 +5344,29 @@
     "publicdate": "2022-09-21 04:37:44",
     "addeddate": "2022-09-21 04:37:44"
   },
+  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "uniq": 681319702,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459842937,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3459872966,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 767499220,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia601507.us.archive.org"
   ]
 }

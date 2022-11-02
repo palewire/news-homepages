@@ -1,5 +1,10 @@
 {
-  "created": 1667364182,
+  "atlciviccircle-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667407525,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/atlciviccircle-2022",
@@ -13644,31 +13649,82 @@
       "sha1": "28d3071c94a82b114fa3976bd604a9752ac53291"
     },
     {
+      "name": "atlciviccircle-2022-11-02T11:58:23.062482-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667404725",
+      "size": "14001",
+      "md5": "6727d7d0697ec7ce5421c8bfa6fb5f82",
+      "crc32": "2e65d496",
+      "sha1": "d1477bc5331925f52b352009fb32521f1c338873",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-11-02T11:58:23.062482-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667404727",
+      "size": "14023",
+      "md5": "b8ac0b80f06ee2d3e00b5029e6f2cb9a",
+      "crc32": "23742e3a",
+      "sha1": "fa4d422697ac707ea24f8ef4daa70d3695d54292",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-11-02T11:58:23.062482-04:00.jpg",
+      "source": "original",
+      "mtime": "1667404723",
+      "size": "228154",
+      "md5": "3dc65c0581c3fdbe97bf958933f56e27",
+      "crc32": "6f20d848",
+      "sha1": "1eb8c9850ec8ed2aae70b00ff1347eb85b192d52",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-11-02T11:58:23.062482-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667404729",
+      "size": "1531",
+      "md5": "d064043f5a28e425ba2244e95e410cef",
+      "crc32": "220b13fe",
+      "sha1": "3268314f83df32249b1820b24e1ac7f8589bec01",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-11-02T11:58:23.062482-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667404731",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "atlciviccircle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e0af4b83b5567da7084c72c13f2be3fa4c36d6b6",
-      "mtime": "1667364166",
-      "size": "286038",
-      "md5": "4d4f7764ff0578d8db102a01e8d8827b",
-      "crc32": "6819fa0f",
-      "sha1": "09cb2ae1659d861eb92769e8081360fda2bb581a",
+      "btih": "7f98fb1b5a0579a939c35c6f69f83d641dbcb0b3",
+      "mtime": "1667404783",
+      "size": "287109",
+      "md5": "145a0aba1becc6cb31ff3aeec59c4163",
+      "crc32": "59b02868",
+      "sha1": "c24ce3fbc61b30590afa08175f27468289dea22f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlciviccircle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e21cdc134f5c3a5e4f6458a062660ded",
+      "md5": "43642ae3fc7e5201b56fa7bc52174246",
       "summation": "md5"
     },
     {
       "name": "atlciviccircle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667362965",
-      "size": "1679360",
-      "md5": "753cdda60ebb293d3232a64c544ca6d7",
-      "crc32": "acdfe076",
-      "sha1": "ff22fa1514ada61319cbdf64f02a08fbc654e162",
+      "mtime": "1667404734",
+      "size": "1687552",
+      "md5": "1737b8dd358b12b32a7b6e8a25d3ac4d",
+      "crc32": "e5009ae7",
+      "sha1": "ae864f77470a89d6c9732598906ee7350af76ebd",
       "format": "Metadata"
     },
     {
@@ -13682,9 +13738,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1321,
-  "item_last_updated": 1667364166,
-  "item_size": 79000118,
+  "files_count": 1326,
+  "item_last_updated": 1667404783,
+  "item_size": 79267292,
   "metadata": {
     "identifier": "atlciviccircle-2022",
     "collection": [
@@ -13701,10 +13757,21 @@
     "publicdate": "2022-07-09 03:55:48",
     "addeddate": "2022-07-09 03:55:48"
   },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 1691555883,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459844168,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1457185148,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }

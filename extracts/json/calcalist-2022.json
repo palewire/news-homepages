@@ -1,5 +1,6 @@
 {
-  "created": 1667364202,
+  "conflict": 1667407812,
+  "created": 1667407812,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/17/items/calcalist-2022",
@@ -78,31 +79,93 @@
       "sha1": "f95794d601298544bd4cf3b6c930a48261ff11a0"
     },
     {
+      "name": "calcalist-2022-11-02T17:59:54.891517+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667404797",
+      "size": "177272",
+      "md5": "4e3426515a3a7187d4b907ae420a29cb",
+      "crc32": "9225192c",
+      "sha1": "fba7673ead7d831b5413bd56fbbcd8144f05d42f",
+      "format": "JSON"
+    },
+    {
+      "name": "calcalist-2022-11-02T17:59:54.891517+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667404799",
+      "size": "138490",
+      "md5": "48fd1d2cf60d3b487f4ad0f4b3c0049e",
+      "crc32": "950ab31a",
+      "sha1": "891dec1097e27a6e7b665a5ff25827e8ccbaab73",
+      "format": "JSON"
+    },
+    {
+      "name": "calcalist-2022-11-02T17:59:54.891517+02:00.jpg",
+      "source": "original",
+      "mtime": "1667404796",
+      "size": "351657",
+      "md5": "f9c320605d7e089d484fe0705976be9b",
+      "crc32": "12d227aa",
+      "sha1": "ce161d052aed3be9dbdf3d363911239af40f0059",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "calcalist-2022-11-02T17:59:54.891517+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667404801",
+      "size": "1564",
+      "md5": "b128d003abf2bf70a0a5ad0129ecba97",
+      "crc32": "66b1f556",
+      "sha1": "8c3ccd91fe47d372881863de1bf4f4a72c14aa3b",
+      "format": "JSON"
+    },
+    {
+      "name": "calcalist-2022-11-02T17:59:54.891517+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667404806",
+      "size": "140171",
+      "md5": "75ddfacd7d53dffbd61af6b1976861f0",
+      "crc32": "504c6bfc",
+      "sha1": "a28d21cf4678daf82c8296877728b3333783b524",
+      "format": "JSON"
+    },
+    {
+      "name": "calcalist-2022-11-02T17:59:54.891517+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "calcalist-2022-11-02T17:59:54.891517+02:00.jpg",
+      "mtime": "1667407789",
+      "size": "10069",
+      "md5": "ee541dd1b919f456d00059017d52c1b7",
+      "crc32": "295ff420",
+      "sha1": "1d5842d124bfa38e7e457c5c52c0ce2658514b6f"
+    },
+    {
       "name": "calcalist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ca7d69473cbd20bb96812a7cf24f7caf07c605d5",
-      "mtime": "1667364193",
-      "size": "2908",
-      "md5": "1a49259ad1a86aa9c8637c2c909051d3",
-      "crc32": "dd0510fa",
-      "sha1": "29fa23731b2cf9cf621255cec20a576e981c5ed6",
+      "btih": "47649d111e3e5890c27f0c43b44b1a2a18560b61",
+      "mtime": "1667407811",
+      "size": "4185",
+      "md5": "7f5a6e64acc5e703a91224fb5574263d",
+      "crc32": "546f27e0",
+      "sha1": "fb4f18f6dc86b5ee28ab55ef0f7d4acf5361b848",
       "format": "Archive BitTorrent"
     },
     {
       "name": "calcalist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "29b9f10579bd0070e8a255ac4d8c615a",
+      "md5": "45d0d83b8e15348979dd01768479913d",
       "summation": "md5"
     },
     {
       "name": "calcalist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667363091",
-      "size": "28672",
-      "md5": "c5cc829b2dff9a08e4ca46963a474ce6",
-      "crc32": "e7ecb90a",
-      "sha1": "4d5af3bbbf4dab805a3f569d74966b4b155179ac",
+      "mtime": "1667404811",
+      "size": "36864",
+      "md5": "6478c661aa07cff626ec50b5e2a9f507",
+      "crc32": "0a600c7a",
+      "sha1": "2fa4423da7bf1555c487a430d27a77d0f5641835",
       "format": "Metadata"
     },
     {
@@ -116,9 +179,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 11,
-  "item_last_updated": 1667364193,
-  "item_size": 686861,
+  "files_count": 17,
+  "item_last_updated": 1667407811,
+  "item_size": 1515553,
   "metadata": {
     "identifier": "calcalist-2022",
     "collection": [
@@ -135,10 +198,29 @@
     "publicdate": "2022-11-02 04:24:41",
     "addeddate": "2022-11-02 04:24:41"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 869903552,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459845196,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3459878054,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 425789270,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }
