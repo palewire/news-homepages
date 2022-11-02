@@ -1,5 +1,6 @@
 {
-  "created": 1667360641,
+  "conflict": 1667401070,
+  "created": 1667401070,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/2/items/studyfindsorg-2022",
@@ -8614,31 +8615,93 @@
       "sha1": "a24389c0abdb6fe8fa600f02e9284ca24e0649c0"
     },
     {
+      "name": "studyfindsorg-2022-11-02T10:49:38.196794-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667400586",
+      "size": "29679",
+      "md5": "fef97543fd2210e1f1e49ca79c0f83bc",
+      "crc32": "4bad12fc",
+      "sha1": "6f53fb9d900d9170c62eba0a8b1d4fb3d175319e",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-11-02T10:49:38.196794-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667400588",
+      "size": "33654",
+      "md5": "01a91e8e64cbd534dea71c77d8d9be62",
+      "crc32": "30afeb59",
+      "sha1": "bec9608ed7d0ff3226a4e80bdf4573c0af888476",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-11-02T10:49:38.196794-04:00.jpg",
+      "source": "original",
+      "mtime": "1667400584",
+      "size": "257666",
+      "md5": "646c35c70fb06c2d5cfd914753a84eb7",
+      "crc32": "1c52c0b5",
+      "sha1": "a9bc884c34249e52c34d2f242b0ea0d818746728",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "studyfindsorg-2022-11-02T10:49:38.196794-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667400589",
+      "size": "1457",
+      "md5": "be3801f37e8f9ef523820fd38ff0f08d",
+      "crc32": "835fa199",
+      "sha1": "92aa7950099d84b9023524b667dc032b6205b1f6",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-11-02T10:49:38.196794-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667400591",
+      "size": "33678",
+      "md5": "046ebbdc3a2084006b82162afcf37a22",
+      "crc32": "379be3ef",
+      "sha1": "ed55d16b311b8880329c572266ad2ac11706c257",
+      "format": "JSON"
+    },
+    {
+      "name": "studyfindsorg-2022-11-02T10:49:38.196794-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "studyfindsorg-2022-11-02T10:49:38.196794-04:00.jpg",
+      "mtime": "1667401052",
+      "size": "9484",
+      "md5": "404d56e9ad4b4f2403827c1af2eff606",
+      "crc32": "18f7eb70",
+      "sha1": "66ed099832b81becd66c258afead621cad39a0ef"
+    },
+    {
       "name": "studyfindsorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "79bd65bb1cee980bbeea3b3fbfbdf2f92f1830fb",
-      "mtime": "1667360627",
-      "size": "180766",
-      "md5": "1c2d050ad14f94a06ff7e79775ad78f4",
-      "crc32": "26ffd0dd",
-      "sha1": "360b233a426f1c32bb7e0e3cbdc24aea01ab8164",
+      "btih": "9385347a6e915ae836eb9627bed280be8250f208",
+      "mtime": "1667401067",
+      "size": "182063",
+      "md5": "7f1ffd36dd2b867401a27b2d00150053",
+      "crc32": "6252f54b",
+      "sha1": "029475fa0afbdffad0923511d671de1031c5f629",
       "format": "Archive BitTorrent"
     },
     {
       "name": "studyfindsorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ecdd9e59afe904432691890a9f00134",
+      "md5": "b0431791d2a4075ea762dcff44448a91",
       "summation": "md5"
     },
     {
       "name": "studyfindsorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667360310",
-      "size": "1081344",
-      "md5": "3ed0136ed4f815bbd57516797dde1a30",
-      "crc32": "6d301900",
-      "sha1": "5ca1108cab50086abac805168bd703e55131fd98",
+      "mtime": "1667400596",
+      "size": "1089536",
+      "md5": "f5123dce13eed5fafb288e88397cc2b9",
+      "crc32": "5b36561b",
+      "sha1": "3ff0b617572b0301187d79b8de3695000c639e01",
       "format": "Metadata"
     },
     {
@@ -8652,9 +8715,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 837,
-  "item_last_updated": 1667360627,
-  "item_size": 54609814,
+  "files_count": 843,
+  "item_last_updated": 1667401067,
+  "item_size": 54984921,
   "metadata": {
     "identifier": "studyfindsorg-2022",
     "collection": [
@@ -8671,10 +8734,29 @@
     "publicdate": "2022-08-23 12:58:38",
     "addeddate": "2022-08-23 12:58:38"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 1832094757,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459799619,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3459804098,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 999003762,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

@@ -1,6 +1,5 @@
 {
-  "conflict": 1667360750,
-  "created": 1667360750,
+  "created": 1667400668,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/7/items/texasmonthly-2022",
@@ -13991,31 +13990,82 @@
       "sha1": "3fd8bbeb4ea73d158d8220d4971df4bbe3b8755a"
     },
     {
+      "name": "texasmonthly-2022-11-02T09:49:52.378460-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667400605",
+      "size": "55147",
+      "md5": "70f206848d16af9884f30ab3e95cc679",
+      "crc32": "c1f271e8",
+      "sha1": "1b70cb0e1c805d428b9da5cf6455563c9864d446",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-11-02T09:49:52.378460-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667400606",
+      "size": "85860",
+      "md5": "31abb10626511378f72dfad92c87f7a3",
+      "crc32": "40af8c81",
+      "sha1": "b6f7b27b8698a057a8d82cb12e91230531ec0425",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-11-02T09:49:52.378460-05:00.jpg",
+      "source": "original",
+      "mtime": "1667400603",
+      "size": "356247",
+      "md5": "f7f67ae3d58d08a8a2c22106c62ef276",
+      "crc32": "2d73370c",
+      "sha1": "6d8276cfb1f10559a15000403541456d96d74af5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "texasmonthly-2022-11-02T09:49:52.378460-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667400608",
+      "size": "1504",
+      "md5": "db85015ad984af6128994b1514f50de0",
+      "crc32": "05fd4d6d",
+      "sha1": "2137690e883db00db5d0f33371b4140265d13e7a",
+      "format": "JSON"
+    },
+    {
+      "name": "texasmonthly-2022-11-02T09:49:52.378460-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667400610",
+      "size": "412832",
+      "md5": "f8160b31e1e877e5b079f8952b48dbc4",
+      "crc32": "b14dbc3f",
+      "sha1": "9af11239cbbdec1c7d4d175b4e9e0f531c13ea69",
+      "format": "JSON"
+    },
+    {
       "name": "texasmonthly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "29c938fd2e5b930787b425ef87ce1bd1c104c755",
-      "mtime": "1667360746",
-      "size": "292927",
-      "md5": "9bcd316ead52cca5b4751cff26cbdd57",
-      "crc32": "4cc62e0f",
-      "sha1": "c894e2b1c1c37e6040fa4a6f117e3add1165b193",
+      "btih": "9519ef537a6a3adf5ea2c07c94cca2494caba68f",
+      "mtime": "1667400664",
+      "size": "294031",
+      "md5": "03d6caf70cc9aa838a953dcd8524f2f4",
+      "crc32": "79184212",
+      "sha1": "f774ea48861a484d21bff9eca4fb533ee4bd2e33",
       "format": "Archive BitTorrent"
     },
     {
       "name": "texasmonthly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "829fa81704ed9d1abfa8bab9ff55ff89",
+      "md5": "9b9a0c6a12c96196cc07c44e56516c92",
       "summation": "md5"
     },
     {
       "name": "texasmonthly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667360321",
-      "size": "1708032",
-      "md5": "bc4505b6d01adbf2492380bbee6bfc38",
-      "crc32": "57de9eee",
-      "sha1": "204f6fbcbc328fb8ce827fc8ef57ed07ae050647",
+      "mtime": "1667400616",
+      "size": "1720320",
+      "md5": "0a862c895db3eeec526986f244eb79ab",
+      "crc32": "46f07906",
+      "sha1": "1bb30246efa571aabe4b8c0179ef36f479559fd7",
       "format": "Metadata"
     },
     {
@@ -14029,9 +14079,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1354,
-  "item_last_updated": 1667360746,
-  "item_size": 142894403,
+  "files_count": 1359,
+  "item_last_updated": 1667400664,
+  "item_size": 143819385,
   "metadata": {
     "identifier": "texasmonthly-2022",
     "collection": [
@@ -14053,23 +14103,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459368686,
+      "task_id": 3459799773,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3459372415,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 192790908,
+  "uniq": 1243157583,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667360757,
+  "created": 1667400637,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/31/items/theathletic-2022",
@@ -12594,31 +12594,82 @@
       "sha1": "94e8b67b61b2e856b4b8669df5c859ff6df4bc37"
     },
     {
+      "name": "theathletic-2022-11-02T10:49:24.973361-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667400575",
+      "size": "42179",
+      "md5": "a860742c84b20179615bd757232078c1",
+      "crc32": "d0278920",
+      "sha1": "c9dea93b12e55f3b967b9e13c672afcb1476b7bf",
+      "format": "JSON"
+    },
+    {
+      "name": "theathletic-2022-11-02T10:49:24.973361-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667400577",
+      "size": "39731",
+      "md5": "66e8a26875a5b3b067769e2412036462",
+      "crc32": "f00d9eb4",
+      "sha1": "1b3525498bdf8225379910d3a2362e8eb9c7bd74",
+      "format": "JSON"
+    },
+    {
+      "name": "theathletic-2022-11-02T10:49:24.973361-04:00.jpg",
+      "source": "original",
+      "mtime": "1667400573",
+      "size": "267118",
+      "md5": "7ff965f378056c0a6f5f97e874a27867",
+      "crc32": "59d08852",
+      "sha1": "90db01697cad2b43b0d82ce005a137bd5bdd2efd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theathletic-2022-11-02T10:49:24.973361-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667400578",
+      "size": "1468",
+      "md5": "8918565299b83047bddd5d77c6b9ac06",
+      "crc32": "86ee8217",
+      "sha1": "f708458935364386ee166486904d48236e3c0300",
+      "format": "JSON"
+    },
+    {
+      "name": "theathletic-2022-11-02T10:49:24.973361-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667400581",
+      "size": "31834",
+      "md5": "fb6930233faaae97146a094590847232",
+      "crc32": "972d1de9",
+      "sha1": "86fb74aeccf91d39e94c93a6b7dd672d32c27dd2",
+      "format": "JSON"
+    },
+    {
       "name": "theathletic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "548e81b924836361614300e90df5170cab608d6c",
-      "mtime": "1667360750",
-      "size": "260933",
-      "md5": "20124ce6ed46805d3c2ceb60fdf260a0",
-      "crc32": "035a5226",
-      "sha1": "e3454f895614850be905ccee8e5f405f83579f3c",
+      "btih": "7989d0d7d306fd1340960d397f368d3d1c4fd544",
+      "mtime": "1667400634",
+      "size": "262011",
+      "md5": "72291d760ae4d9634150c06aad640e81",
+      "crc32": "484d2aa0",
+      "sha1": "5a5bdcc2dbb8d3e4244e2147e9b55c0a3e7e1c9d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theathletic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "50b83ac4c70b6ff2a2f1934686c9a209",
+      "md5": "ffd5ffe55e9d8b6cf053f2e3e8b1ab42",
       "summation": "md5"
     },
     {
       "name": "theathletic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667360406",
-      "size": "1556480",
-      "md5": "4eb53e2d78af19255d12aa39af8ece61",
-      "crc32": "50ecff6c",
-      "sha1": "d64a0001412b8ccdfca9bc2cfe2dae82b1d2bde9",
+      "mtime": "1667400586",
+      "size": "1564672",
+      "md5": "f74c6483fcf33ceca087252d2de5d60b",
+      "crc32": "85b2e069",
+      "sha1": "4b11a3997772d9ccba15d51ba062ccff45b29ced",
       "format": "Metadata"
     },
     {
@@ -12632,9 +12683,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1221,
-  "item_last_updated": 1667360750,
-  "item_size": 78657531,
+  "files_count": 1226,
+  "item_last_updated": 1667400634,
+  "item_size": 79049131,
   "metadata": {
     "identifier": "theathletic-2022",
     "collection": [
@@ -12651,10 +12702,21 @@
     "publicdate": "2022-07-21 04:28:48",
     "addeddate": "2022-07-21 04:28:48"
   },
+  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "uniq": 1869519517,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459799511,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1647500303,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia902502.us.archive.org"
   ]
 }

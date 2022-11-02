@@ -1,5 +1,6 @@
 {
-  "created": 1667360624,
+  "conflict": 1667400712,
+  "created": 1667400712,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/23/items/shinysheet-2022",
@@ -5343,10 +5344,21 @@
     "publicdate": "2022-09-21 03:43:38",
     "addeddate": "2022-09-21 03:43:38"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 1686219569,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459798704,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 16337850,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

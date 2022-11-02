@@ -1,5 +1,5 @@
 {
-  "created": 1667360457,
+  "created": 1667400825,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/18/items/thedailyrecord-2022",
@@ -5243,31 +5243,93 @@
       "format": "JSON"
     },
     {
+      "name": "thedailyrecord-2022-11-01T23:40:04.089387-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyrecord-2022-11-01T23:40:04.089387-04:00.jpg",
+      "mtime": "1667360832",
+      "size": "9513",
+      "md5": "7d7a93da63e3915e8b33824e90b5bd40",
+      "crc32": "976a9d6f",
+      "sha1": "c74f615539b7b62e84fda709502743f23e73cabb"
+    },
+    {
+      "name": "thedailyrecord-2022-11-02T10:52:33.985277-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667400764",
+      "size": "23745",
+      "md5": "6972bf504ca52c72b135892b36302cb0",
+      "crc32": "e10a8293",
+      "sha1": "63c65e92f577d96cc4db4e9825adf34f634969e2",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyrecord-2022-11-02T10:52:33.985277-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667400766",
+      "size": "27794",
+      "md5": "0546235249893dd357f3a1a869c9d820",
+      "crc32": "3766084b",
+      "sha1": "e02d29cda467ed5999babdf9ecc0c20cd81a32d4",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyrecord-2022-11-02T10:52:33.985277-04:00.jpg",
+      "source": "original",
+      "mtime": "1667400762",
+      "size": "254939",
+      "md5": "048aeebe0eb5b2f47982fdc34d6b0588",
+      "crc32": "7c0ac3b7",
+      "sha1": "b845e531ced868771adca14ddb4894cd3d87d987",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyrecord-2022-11-02T10:52:33.985277-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667400768",
+      "size": "1549",
+      "md5": "1ce720cf035fb364ee52b7bdfdbc6184",
+      "crc32": "d2a46962",
+      "sha1": "9a2a0b7d8a6c5b9415549df07370192a65507225",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyrecord-2022-11-02T10:52:33.985277-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667400769",
+      "size": "94696",
+      "md5": "921d343d4b8bffd85dfa6b20a0effa52",
+      "crc32": "a0d4b22e",
+      "sha1": "9994ca4fabe2d50f8d049db5f0848621128a2946",
+      "format": "JSON"
+    },
+    {
       "name": "thedailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4ec33c9f2c7685ee7582c2c8e741f040f15190e3",
-      "mtime": "1667360455",
-      "size": "111150",
-      "md5": "9bf96f649011cc1664044da0f3b989c8",
-      "crc32": "b3f113c6",
-      "sha1": "00290ac0a5018e6333ffc6d55c553526db715959",
+      "btih": "f48f75603f935c1b08416fbd37f5d91227f63e7c",
+      "mtime": "1667400818",
+      "size": "112433",
+      "md5": "af3963f6027abfc69422b73014c2a3e5",
+      "crc32": "e76ebf6d",
+      "sha1": "ead98c061213cf6f64d551e1aca6fe7fe312bfd4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e9b880a2adeca7f7b2718d7d2cfa73e4",
+      "md5": "622ec4287ca7e609a3e927ca9dc35222",
       "summation": "md5"
     },
     {
       "name": "thedailyrecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667360417",
-      "size": "667648",
-      "md5": "c9a2c82cf8f9ed555901f7346ebf036d",
-      "crc32": "947a700b",
-      "sha1": "7feeea38780603b0e2f5193046b10261db3f9155",
+      "mtime": "1667400776",
+      "size": "675840",
+      "md5": "f5c41d54c12ce293aaa8952302858484",
+      "crc32": "209a884b",
+      "sha1": "e84dabe0d10e52437a162ff578b29dc1c3da8a3d",
       "format": "Metadata"
     },
     {
@@ -5281,9 +5343,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 511,
-  "item_last_updated": 1667360455,
-  "item_size": 34205752,
+  "files_count": 517,
+  "item_last_updated": 1667400818,
+  "item_size": 34627463,
   "metadata": {
     "identifier": "thedailyrecord-2022",
     "collection": [
@@ -5305,7 +5367,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459369553,
+      "task_id": 3459801601,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -5313,7 +5375,7 @@
       "status": "running"
     }
   ],
-  "uniq": 341143400,
+  "uniq": 408658984,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]
