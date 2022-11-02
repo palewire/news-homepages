@@ -1,5 +1,5 @@
 {
-  "created": 1667343582,
+  "created": 1667385852,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/30/items/bleacherreport-2022",
@@ -14044,31 +14044,82 @@
       "sha1": "ab62453f28dee1e9080415723afe2174b13c6bf3"
     },
     {
+      "name": "bleacherreport-2022-11-02T06:42:47.575326-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667385785",
+      "size": "15576",
+      "md5": "dc57eb51c9b35766e97a1d34c40d1a53",
+      "crc32": "3404e9df",
+      "sha1": "4d1c77fef1cdc6b34469cb2f09e44ee707e1f833",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-11-02T06:42:47.575326-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667385787",
+      "size": "14737",
+      "md5": "41dd18ef195c1b92a2ebaf02c199bfd9",
+      "crc32": "939d4ed4",
+      "sha1": "e7cfbe9b6af5a0ad3d978b76ef21770986787e08",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-11-02T06:42:47.575326-04:00.jpg",
+      "source": "original",
+      "mtime": "1667385784",
+      "size": "342350",
+      "md5": "cceebeff6f162213c49c13d183cabec4",
+      "crc32": "871c14ac",
+      "sha1": "e3d8ef3923a67934236780d8ccb2344811594c84",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bleacherreport-2022-11-02T06:42:47.575326-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667385789",
+      "size": "1494",
+      "md5": "f2c407b0ef03cb6b9315369daaadab37",
+      "crc32": "6364a201",
+      "sha1": "086362ac56b07367004019823eb91c0bf9b9ee3a",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-11-02T06:42:47.575326-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667385791",
+      "size": "73413",
+      "md5": "32125d3e587d35286b4c21aaa85510bc",
+      "crc32": "ffbe5632",
+      "sha1": "633166380491746125ee4d2f95083cccd17105d2",
+      "format": "JSON"
+    },
+    {
       "name": "bleacherreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e2e022d14718087fcbc37ad44c699ef8e205be8c",
-      "mtime": "1667343529",
-      "size": "294042",
-      "md5": "0fed64e0f94659bb8cb981113550f10f",
-      "crc32": "812ee20e",
-      "sha1": "c9cd187e4bf490dcab36b72bf8de4eb88a59755c",
+      "btih": "bb3beae48893da9248cbc65a9b0cdf1c8cc668be",
+      "mtime": "1667385848",
+      "size": "295135",
+      "md5": "2818bf8ce088f0bfc01740fd0bb6a129",
+      "crc32": "4c360022",
+      "sha1": "03fc21128b1583df2ddc79b5c488f348e2fed0b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bleacherreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c8437cc3f3bc98fca3130b780c5297a",
+      "md5": "521c319882e66af4484ca45b1f177ecd",
       "summation": "md5"
     },
     {
       "name": "bleacherreport-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667343241",
-      "size": "1716224",
-      "md5": "ac49d55556513ecea7fc95324db74c6c",
-      "crc32": "5c852272",
-      "sha1": "ed5d18f9e6481f9c1601a512e6cb2ffdd1878b90",
+      "mtime": "1667385795",
+      "size": "1724416",
+      "md5": "199ea2a8040ab6d3b055a81ca1ceac5b",
+      "crc32": "bde6080c",
+      "sha1": "7429decb524c3488be4ab8d5d6cb92ad22ec5cf1",
       "format": "Metadata"
     },
     {
@@ -14082,9 +14133,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1359,
-  "item_last_updated": 1667343529,
-  "item_size": 74967061,
+  "files_count": 1364,
+  "item_last_updated": 1667385848,
+  "item_size": 75423916,
   "metadata": {
     "identifier": "bleacherreport-2022",
     "collection": [
@@ -14101,10 +14152,21 @@
     "publicdate": "2022-07-04 20:45:29",
     "addeddate": "2022-07-04 20:45:29"
   },
-  "server": "ia802506.us.archive.org",
-  "uniq": 1171370089,
+  "pending_tasks": true,
+  "server": "ia902506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459640347,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1335491572,
   "workable_servers": [
-    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

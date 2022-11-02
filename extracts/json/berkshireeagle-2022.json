@@ -1,5 +1,5 @@
 {
-  "created": 1667343719,
+  "created": 1667385855,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/18/items/berkshireeagle-2022",
@@ -11684,31 +11684,82 @@
       "sha1": "aa4cfcd3ac99ca7ba23e7bafe7f95114461d60f1"
     },
     {
+      "name": "berkshireeagle-2022-11-02T06:42:26.638534-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667385771",
+      "size": "67764",
+      "md5": "e4e0c1a154710ba626d9bf48ab167fc9",
+      "crc32": "7121dc46",
+      "sha1": "e2477c4e10eb8a87e1f63d93c8fb1460a9340388",
+      "format": "JSON"
+    },
+    {
+      "name": "berkshireeagle-2022-11-02T06:42:26.638534-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667385773",
+      "size": "112681",
+      "md5": "87700215abca534147d8b30f0c1630c0",
+      "crc32": "e12d4d09",
+      "sha1": "dcf8fd953cdc292a5836c5343f2064c61fd93a41",
+      "format": "JSON"
+    },
+    {
+      "name": "berkshireeagle-2022-11-02T06:42:26.638534-04:00.jpg",
+      "source": "original",
+      "mtime": "1667385769",
+      "size": "349829",
+      "md5": "54c7f92b812744ab8256f52d74e06830",
+      "crc32": "b2f1e645",
+      "sha1": "67a492c3d77eb2a92790ff51e82195559a89f0ab",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkshireeagle-2022-11-02T06:42:26.638534-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667385774",
+      "size": "1531",
+      "md5": "a734bc4d95143fdd388ca919653a5d7d",
+      "crc32": "7241a0b5",
+      "sha1": "ebedf1f4e2b9b9bf9421c08b6c1101824df5cb74",
+      "format": "JSON"
+    },
+    {
+      "name": "berkshireeagle-2022-11-02T06:42:26.638534-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667385776",
+      "size": "63291",
+      "md5": "c1ef0719dde0238a14e1e7727171388c",
+      "crc32": "fbffef53",
+      "sha1": "3021af2f8c4e3ef59d2fb92235b6fe745328f60d",
+      "format": "JSON"
+    },
+    {
       "name": "berkshireeagle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9bf04a110b3c06bb3f2f8a30abe3e6802f927115",
-      "mtime": "1667343671",
-      "size": "247232",
-      "md5": "72582686dee9582cdeda17cf72ab575a",
-      "crc32": "d4f99859",
-      "sha1": "af85292196cd0a0da08bfb40120750b8f8953899",
+      "btih": "d6f842b3e50015332a30860c99210fe2fa44e588",
+      "mtime": "1667385851",
+      "size": "248326",
+      "md5": "d8e2d70dba65d6a2bba41693829dca0a",
+      "crc32": "bf2a2f98",
+      "sha1": "2343edca34fc7f7764c8f585534ef9ed75c890a8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkshireeagle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a1bdafceb7da821c76762529fce5f21e",
+      "md5": "a993f68f9f34f5b4486fb47e59e29e0f",
       "summation": "md5"
     },
     {
       "name": "berkshireeagle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667343223",
-      "size": "1454080",
-      "md5": "3295986f3bd6dbfa276916443f99df73",
-      "crc32": "ba98aa59",
-      "sha1": "efde53a48a897c7f4605121a321ae3ad6bcb1484",
+      "mtime": "1667385788",
+      "size": "1458176",
+      "md5": "5abdeb0d6491ba8a058f004356c701ed",
+      "crc32": "d25131e4",
+      "sha1": "0e41090e5e9d5a3cc6e9e09602fbdb66ceecd80b",
       "format": "Metadata"
     },
     {
@@ -11722,9 +11773,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1133,
-  "item_last_updated": 1667343671,
-  "item_size": 115456574,
+  "files_count": 1138,
+  "item_last_updated": 1667385851,
+  "item_size": 116056860,
   "metadata": {
     "identifier": "berkshireeagle-2022",
     "collection": [
@@ -11741,10 +11792,21 @@
     "publicdate": "2022-07-28 23:07:44",
     "addeddate": "2022-07-28 23:07:44"
   },
+  "pending_tasks": true,
   "server": "ia902506.us.archive.org",
-  "uniq": 1150841018,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459640381,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 745041536,
   "workable_servers": [
-    "ia902506.us.archive.org",
-    "ia802506.us.archive.org"
+    "ia902506.us.archive.org"
   ]
 }
