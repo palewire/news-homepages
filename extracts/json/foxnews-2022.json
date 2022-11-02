@@ -1,5 +1,5 @@
 {
-  "created": 1667293121,
+  "created": 1667369283,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/14/items/foxnews-2022",
@@ -48132,31 +48132,331 @@
       "sha1": "c5d78c50bcce7ff737c6eac76e1af22f3124061a"
     },
     {
+      "name": "foxnews-2022-11-01T09:10:47.375879-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667308278",
+      "size": "82339",
+      "md5": "b6be4cafb4f510c8a34dfe078e15a870",
+      "crc32": "d36ee0ff",
+      "sha1": "2fe8c3312f706b79238eabd7dc18e6ae058872c2",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T09:10:47.375879-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667308280",
+      "size": "103848",
+      "md5": "f63ae18dc57ce117d09347565fa4cd36",
+      "crc32": "c0551e37",
+      "sha1": "36874b2931b697a9fc6171ecc91b5eb0f1324494",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T09:10:47.375879-04:00.jpg",
+      "source": "original",
+      "mtime": "1667308276",
+      "size": "440487",
+      "md5": "7958726fcbabb4b18338eb3595511f68",
+      "crc32": "dbde88a8",
+      "sha1": "857d92ffc25958db2d4fcf14f0b36185a5e0df5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-11-01T09:10:47.375879-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667308282",
+      "size": "1468",
+      "md5": "848a1ddd307072540e339f4a46738772",
+      "crc32": "ea6c0694",
+      "sha1": "965faecc267af0487f10df967a73f3395138a56e",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T09:10:47.375879-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667308284",
+      "size": "347",
+      "md5": "4ae3ff3ce73cba2ea5d091d7b9a7eb34",
+      "crc32": "8f02b563",
+      "sha1": "6c3a3c9f8d238538f4cc12930cb5bb6cb788a86c",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T09:10:47.375879-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-11-01T09:10:47.375879-04:00.jpg",
+      "mtime": "1667309441",
+      "size": "12375",
+      "md5": "04114d2ca4ec44a6a36f8da7882d96ca",
+      "crc32": "083548d5",
+      "sha1": "94a24e263abf89a2d946b0a4cf82dba420b516bc"
+    },
+    {
+      "name": "foxnews-2022-11-01T15:24:14.106732-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667330705",
+      "size": "85025",
+      "md5": "c4498b49aa4eb86683159efffcf4b9fa",
+      "crc32": "45a3a806",
+      "sha1": "bf54541f67518b8a3ec89a3a4d63e4cbc33a5e32",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T15:24:14.106732-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667330707",
+      "size": "104246",
+      "md5": "2d02af07b8d846ec1c581f9f3850da3e",
+      "crc32": "4108be05",
+      "sha1": "3921d96e8b06e042c9948d3dc0507e92ca54c1c3",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T15:24:14.106732-04:00.jpg",
+      "source": "original",
+      "mtime": "1667330703",
+      "size": "419232",
+      "md5": "9d23bd4f0c69fa6ab9be4bb21984f088",
+      "crc32": "cd8cd684",
+      "sha1": "4f94278512c0f8e273a1236d4d78e29a2f78b8d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-11-01T15:24:14.106732-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667330709",
+      "size": "1465",
+      "md5": "4719de81025b602d92f545399f674aa3",
+      "crc32": "647dda9b",
+      "sha1": "5a292bc4909f936b4edb91bdba4294816b82cad1",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T15:24:14.106732-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-11-01T15:24:14.106732-04:00.jpg",
+      "mtime": "1667331394",
+      "size": "11972",
+      "md5": "23fcb4ba19fc01658496cdc73a2b1b82",
+      "crc32": "1e6b2533",
+      "sha1": "39957aa0f165aeb13800227fa0a05d8280b85c0e"
+    },
+    {
+      "name": "foxnews-2022-11-01T16:06:46.569515-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667333217",
+      "size": "77437",
+      "md5": "b55bf30ecef9fd5d09048e2fe111491f",
+      "crc32": "f89382d2",
+      "sha1": "8a6d1b2664b376390094879f1f6d59d942e8539c",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T16:06:46.569515-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667333219",
+      "size": "98090",
+      "md5": "7cff4489fe40328387518c455997da26",
+      "crc32": "e1a27ea3",
+      "sha1": "f7c9ec0b6725a090d4e063202bde6d992e50c2b0",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T16:06:46.569515-04:00.jpg",
+      "source": "original",
+      "mtime": "1667333216",
+      "size": "442660",
+      "md5": "bba0ad0bcedd44ed4f43304d52112dc4",
+      "crc32": "459a3647",
+      "sha1": "baed7cacf563292c9f29008a210c9da7b5e5c621",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-11-01T16:06:46.569515-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667333221",
+      "size": "1466",
+      "md5": "23d298a5c70a2ac76ce2564604b318aa",
+      "crc32": "8001d258",
+      "sha1": "3b5d76f42fb1afc622b2f11fbfd190beb5febd8c",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T16:06:46.569515-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667333223",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T16:06:46.569515-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-11-01T16:06:46.569515-04:00.jpg",
+      "mtime": "1667333713",
+      "size": "12136",
+      "md5": "860919b0483420490727407827efb882",
+      "crc32": "42d1c315",
+      "sha1": "ca867e4855af7b1827a4e0b8cdc1c4ad3768b3ba"
+    },
+    {
+      "name": "foxnews-2022-11-01T17:19:55.598956-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667337599",
+      "size": "79701",
+      "md5": "525f6505e28859825d427b1c5c69f598",
+      "crc32": "e44e8eb2",
+      "sha1": "494f0ce22116e582039ae6af3498198cc2449834",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T17:19:55.598956-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667337601",
+      "size": "100316",
+      "md5": "6c16f9b423cf60ae4ccfb6e1fe36e1ea",
+      "crc32": "b915d926",
+      "sha1": "1b3d010cbdb7d9d771accafb356115da3ea4325a",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T17:19:55.598956-04:00.jpg",
+      "source": "original",
+      "mtime": "1667337597",
+      "size": "412621",
+      "md5": "7b7600b4c90712e9b1ea22df0f292426",
+      "crc32": "ee6b4514",
+      "sha1": "c4d11b554d62f9d742682e32bde144354ca343a8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-11-01T17:19:55.598956-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667337602",
+      "size": "1467",
+      "md5": "564b2f434f969f87e565022fdc531b4f",
+      "crc32": "daf732b3",
+      "sha1": "dca449df8043f57f1573ccce230cb518d87f2edf",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T17:19:55.598956-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667337605",
+      "size": "136501",
+      "md5": "1ebfadb0450b40140895d1b6747e2461",
+      "crc32": "a74519b0",
+      "sha1": "4a47f89bb169e300e56651c11b20fb2fc69aa14d",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-01T17:19:55.598956-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-11-01T17:19:55.598956-04:00.jpg",
+      "mtime": "1667338946",
+      "size": "12139",
+      "md5": "83847d8b4404f2f3d34d406aeba67337",
+      "crc32": "771f2acd",
+      "sha1": "3161f956b2bd77d8d9cbe5eb481c722b30e05165"
+    },
+    {
+      "name": "foxnews-2022-11-02T01:41:57.296299-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667367762",
+      "size": "75744",
+      "md5": "c3278ccd8809d56552bd364d263de99b",
+      "crc32": "5be719e0",
+      "sha1": "84f15f2f17c950abb8bae2cd4407daec38d19c28",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-02T01:41:57.296299-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667367764",
+      "size": "95646",
+      "md5": "055248a652d34bd04745db09a1242a6e",
+      "crc32": "c3ab3466",
+      "sha1": "75db58a9cc300f1d7a7bf453de83733313a6c0ce",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-02T01:41:57.296299-04:00.jpg",
+      "source": "original",
+      "mtime": "1667367760",
+      "size": "411419",
+      "md5": "124b15102e43bead3922fddb34173968",
+      "crc32": "533f4722",
+      "sha1": "41139b3424a4ff682c86c1396b4eedab5428906e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "foxnews-2022-11-02T01:41:57.296299-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667367766",
+      "size": "1466",
+      "md5": "0883abe8dde83e7c78a93aa0851694b2",
+      "crc32": "369f3603",
+      "sha1": "ea3e8c6bca5f24adc10327ad864d33ef1b03c2a4",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-02T01:41:57.296299-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667367768",
+      "size": "142022",
+      "md5": "0c3c3ed0fadee2812dcc271653286371",
+      "crc32": "b559e738",
+      "sha1": "e893760754a8732590ce520e9155d88c0e477430",
+      "format": "JSON"
+    },
+    {
+      "name": "foxnews-2022-11-02T01:41:57.296299-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "foxnews-2022-11-02T01:41:57.296299-04:00.jpg",
+      "mtime": "1667368783",
+      "size": "12323",
+      "md5": "e071e4d513c1f5c46674fb4129da6c0e",
+      "crc32": "7dcd625b",
+      "sha1": "3b373c974dc4acb6e82594a07213a23d58776f8f"
+    },
+    {
       "name": "foxnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c3f44ccfa6d296a1098a8dade2ad147b223792cf",
-      "mtime": "1667287962",
-      "size": "978957",
-      "md5": "2ac891ab9e2a229f24a45a37329816de",
-      "crc32": "4cfd0aab",
-      "sha1": "284b149ddf4e5f0404bad835e45dcf820d2d8ac3",
+      "btih": "116c6b4bf3949f436647bbff97c91a46300b4631",
+      "mtime": "1667369165",
+      "size": "985081",
+      "md5": "42b843e7a80161924d9930603ec94541",
+      "crc32": "88be9466",
+      "sha1": "955cba41f16eb77d6cfeb7f8d3d14b7f01e304bf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "foxnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be9f18d2b75c906d4bad5cb9fba675b8",
+      "md5": "ac6ebf4b1855c8c9611393a8eb7a6cb6",
       "summation": "md5"
     },
     {
       "name": "foxnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667285622",
-      "size": "5566464",
-      "md5": "448977e474f502a650d1c6abce23ee20",
-      "crc32": "115a7ae9",
-      "sha1": "21d65c18350ca1669725f1886af6c07fdcbfc8bd",
+      "mtime": "1667367774",
+      "size": "5603328",
+      "md5": "c6cadb1b2492edc75bbdbb1a3d6c854c",
+      "crc32": "34b4ae90",
+      "sha1": "6baedae5daf84ff04616a88b6c451e3b811de73e",
       "format": "Metadata"
     },
     {
@@ -48170,9 +48470,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 4625,
-  "item_last_updated": 1667287962,
-  "item_size": 586697058,
+  "files_count": 4654,
+  "item_last_updated": 1667369165,
+  "item_size": 590116206,
   "metadata": {
     "identifier": "foxnews-2022",
     "collection": [
@@ -48190,7 +48490,7 @@
     "addeddate": "2022-03-23 01:45:55"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 621956278,
+  "uniq": 2065405665,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"
