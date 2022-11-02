@@ -1,5 +1,5 @@
 {
-  "created": 1667372198,
+  "created": 1667413667,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/tass_agency-2022",
@@ -18355,31 +18355,93 @@
       "format": "JSON"
     },
     {
+      "name": "tass_agency-2022-11-02T09:55:05.975073+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tass_agency-2022-11-02T09:55:05.975073+03:00.jpg",
+      "mtime": "1667373992",
+      "size": "8691",
+      "md5": "9104cfcc1e8a188ddb83e7f29fe0f1e8",
+      "crc32": "a5b9709b",
+      "sha1": "87ce434ab43d3a2ed7f2bf8022fed8456f389a95"
+    },
+    {
+      "name": "tass_agency-2022-11-02T21:21:35.653355+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667413323",
+      "size": "43842",
+      "md5": "4b5e744202444f8a6291edbc8ccbceb0",
+      "crc32": "3586ee8f",
+      "sha1": "1f1bcc07a20d21087545bed2ae89999e17bc106f",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-11-02T21:21:35.653355+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667413331",
+      "size": "30628",
+      "md5": "c88b779ebf9c3c08ae52db944751b987",
+      "crc32": "8b3c0dd4",
+      "sha1": "963a947e8e5b7a171f081d6552db5740f2984ca6",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-11-02T21:21:35.653355+03:00.jpg",
+      "source": "original",
+      "mtime": "1667413317",
+      "size": "219496",
+      "md5": "9ee2dda4d8950139ff41cad0a56ed464",
+      "crc32": "cc24791f",
+      "sha1": "cc29bc623919dca55fc74d17d3ea06922fc7829a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tass_agency-2022-11-02T21:21:35.653355+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667413338",
+      "size": "1396",
+      "md5": "5c5ba821b7802f894b7044ba9527406d",
+      "crc32": "4ef2d501",
+      "sha1": "eb64b86b1b9e15c1aca2e19b46ebab3aac801d83",
+      "format": "JSON"
+    },
+    {
+      "name": "tass_agency-2022-11-02T21:21:35.653355+03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667413347",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "tass_agency-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f1fc2dcfebb38442d27bf83416eebfbbf4da50b4",
-      "mtime": "1667372164",
-      "size": "374438",
-      "md5": "0d32f6e3d6b496cec48a63c822ef19da",
-      "crc32": "ce6b159f",
-      "sha1": "ce69f8aae620bf4c5a9e9013b3a3e3ff1123a076",
+      "btih": "9d8ab3c80b956d2e63eb9898dae51f787c249799",
+      "mtime": "1667413650",
+      "size": "375721",
+      "md5": "4249cdd01c3ea7062e061bcfac756234",
+      "crc32": "d0c85e2a",
+      "sha1": "2516fcdad969dc3c29381ac11112f5c170d7b6b1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tass_agency-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1bb2352847a50193ebfd7851f80cd76d",
+      "md5": "7cde7c14595f128833c05330174e2c31",
       "summation": "md5"
     },
     {
       "name": "tass_agency-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667372140",
-      "size": "2220032",
-      "md5": "353316869b1f6be34448bd439989c3ca",
-      "crc32": "92160657",
-      "sha1": "827f45daeee4faae117b6a292b0b9d9ae07c2ef2",
+      "mtime": "1667413588",
+      "size": "2228224",
+      "md5": "2a387aa019695a86956f7949c83e297f",
+      "crc32": "923934c0",
+      "sha1": "26ca0bb913b4efb420fe67a08d71635ac0c34fc5",
       "format": "Metadata"
     },
     {
@@ -18393,9 +18455,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1774,
-  "item_last_updated": 1667372164,
-  "item_size": 60513413,
+  "files_count": 1780,
+  "item_last_updated": 1667413650,
+  "item_size": 60827143,
   "metadata": {
     "identifier": "tass_agency-2022",
     "collection": [
@@ -18417,7 +18479,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459493821,
+      "task_id": 3459941046,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -18425,7 +18487,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2089902274,
+  "uniq": 1888937234,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

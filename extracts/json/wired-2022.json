@@ -1,5 +1,5 @@
 {
-  "created": 1667372483,
+  "created": 1667413871,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/33/items/wired-2022",
@@ -14379,31 +14379,93 @@
       "format": "JSON"
     },
     {
+      "name": "wired-2022-11-01T23:59:45.424964-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-11-01T23:59:45.424964-07:00.jpg",
+      "mtime": "1667374028",
+      "size": "10087",
+      "md5": "d616e0673251d20d061ad1b013cd100b",
+      "crc32": "bf12461f",
+      "sha1": "79e283dacb7d80b8351fea9d8b80fcfca53c4af3"
+    },
+    {
+      "name": "wired-2022-11-02T11:27:14.259081-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667413655",
+      "size": "35404",
+      "md5": "357990e51b0533d0f0902c3c9018051f",
+      "crc32": "ff18e6e9",
+      "sha1": "ae523946be97f3e665ad90bc6f36cebecbe0c0f1",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-11-02T11:27:14.259081-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667413657",
+      "size": "22810",
+      "md5": "8f26000902e393757facd2d8cd8a29a3",
+      "crc32": "7f956539",
+      "sha1": "be09b9978bf4aadcc5f339b3bb5d8f813da959f0",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-11-02T11:27:14.259081-07:00.jpg",
+      "source": "original",
+      "mtime": "1667413653",
+      "size": "246648",
+      "md5": "ae064e70645466c89db6fe1c49696b97",
+      "crc32": "e13bc50f",
+      "sha1": "e57abb77fbe0526a4a3fbc5a10c66994a012b38e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wired-2022-11-02T11:27:14.259081-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667413659",
+      "size": "1448",
+      "md5": "689c85d29a3f21deb969350ae9603d0c",
+      "crc32": "43dd17e7",
+      "sha1": "5c5219715dd1bf690e1f41d38b7170c17d189a34",
+      "format": "JSON"
+    },
+    {
+      "name": "wired-2022-11-02T11:27:14.259081-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667413661",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "wired-2022_archive.torrent",
       "source": "metadata",
-      "btih": "059e6f9bc6b1f81bd4ad382205a1da02ea9a461a",
-      "mtime": "1667372474",
-      "size": "289355",
-      "md5": "2a0879c05af61aff3a2b6b84440058cf",
-      "crc32": "27cfa368",
-      "sha1": "ef6abfc3b63306a746b0d952f59e451836037a27",
+      "btih": "bd56fef6efbed2c9195c70cf1583b9f09467d5d4",
+      "mtime": "1667413763",
+      "size": "290603",
+      "md5": "089b84ddebd867dd4862209d0e6ab760",
+      "crc32": "9e30875a",
+      "sha1": "bbf9345d851b4430e1de41484c2c50962fe6f96a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wired-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8123d4bdee1594a7f13d354d713829d3",
+      "md5": "cb077aee3fd5b627a93a5dfca9168b3d",
       "summation": "md5"
     },
     {
       "name": "wired-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667372409",
-      "size": "1736704",
-      "md5": "fd78e04d0070e87af9d7000675399d60",
-      "crc32": "a2f516e2",
-      "sha1": "e2504f9bd6f883958609d61b358a0cc39cc9c77e",
+      "mtime": "1667413687",
+      "size": "1740800",
+      "md5": "59226762755e84327d3a27f96bd46764",
+      "crc32": "b1b21ed0",
+      "sha1": "15e334b1873b196eb99a9a1e8b54abee31df4110",
       "format": "Metadata"
     },
     {
@@ -14417,9 +14479,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1391,
-  "item_last_updated": 1667372474,
-  "item_size": 101738895,
+  "files_count": 1397,
+  "item_last_updated": 1667413763,
+  "item_size": 102060838,
   "metadata": {
     "identifier": "wired-2022",
     "collection": [
@@ -14441,7 +14503,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459497741,
+      "task_id": 3459944217,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14449,7 +14511,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 142357009,
+  "uniq": 1280562124,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

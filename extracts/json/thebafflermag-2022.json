@@ -1,5 +1,5 @@
 {
-  "created": 1667372265,
+  "created": 1667413701,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/5/items/thebafflermag-2022",
@@ -18693,31 +18693,93 @@
       "format": "JSON"
     },
     {
+      "name": "thebafflermag-2022-11-02T02:55:59.804698-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thebafflermag-2022-11-02T02:55:59.804698-04:00.jpg",
+      "mtime": "1667373790",
+      "size": "9609",
+      "md5": "a087b1bfd20449e43d783e6e26038d52",
+      "crc32": "0d827411",
+      "sha1": "6f48fdf823ce73bc5c106ce037c6f10879212f42"
+    },
+    {
+      "name": "thebafflermag-2022-11-02T14:22:50.885675-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667413391",
+      "size": "14788",
+      "md5": "eac519c79b2defe525ec7afd84fa33e1",
+      "crc32": "59032de1",
+      "sha1": "57b7820dda2d66272ed7470c033e647d57788952",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-11-02T14:22:50.885675-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667413401",
+      "size": "18660",
+      "md5": "891bd689ae79611b90104ca5c2bc1f4c",
+      "crc32": "e136165b",
+      "sha1": "5202669f5aa0235e3f05f9ab654701e9bf55861f",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-11-02T14:22:50.885675-04:00.jpg",
+      "source": "original",
+      "mtime": "1667413383",
+      "size": "259466",
+      "md5": "4f2461a9043261d39445f1094e4008bb",
+      "crc32": "b32f1d9d",
+      "sha1": "8c8137bd983bc3adea4fcf9668607f97d08ad8f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thebafflermag-2022-11-02T14:22:50.885675-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667413409",
+      "size": "1456",
+      "md5": "12954fa97565a9d230a597ad26692e11",
+      "crc32": "67c2c6f0",
+      "sha1": "088a447884714fafdd72152560fc2735d940cc89",
+      "format": "JSON"
+    },
+    {
+      "name": "thebafflermag-2022-11-02T14:22:50.885675-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667413418",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thebafflermag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "48b0aa7edf1ed0f58309e82ee9ed8757e43e8b1a",
-      "mtime": "1667372252",
-      "size": "389289",
-      "md5": "0b5e04ceeadc948c76db1daebd2c948a",
-      "crc32": "50771f8e",
-      "sha1": "b373b04a1485bbae7282a7a2079b31a16c3ec462",
+      "btih": "95bf6b5b61653224d8e74695f9ed3d18ffce951f",
+      "mtime": "1667413676",
+      "size": "390564",
+      "md5": "d64e9f348d47efb4de9a1b2ca2851059",
+      "crc32": "74be1d59",
+      "sha1": "56d38580e77f2d1039e0317fd14cfe4c107c408a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thebafflermag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a2fc1104ebb0665d70844c7a0863f51f",
+      "md5": "23b43eba98c95e3df1af403a087189c9",
       "summation": "md5"
     },
     {
       "name": "thebafflermag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667372176",
-      "size": "2301952",
-      "md5": "5d749865abdf10fb144a5395ae4c3f76",
-      "crc32": "2d3bade3",
-      "sha1": "792d4c1c0c6afcc980b8872f3fdeeb9a42ddd587",
+      "mtime": "1667413606",
+      "size": "2306048",
+      "md5": "fad279a17931827547491a7c5b940449",
+      "crc32": "8ce79937",
+      "sha1": "2a721244247cdf257db5cd4bc3e8e9e12de12250",
       "format": "Metadata"
     },
     {
@@ -18731,9 +18793,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1810,
-  "item_last_updated": 1667372252,
-  "item_size": 99532884,
+  "files_count": 1816,
+  "item_last_updated": 1667413676,
+  "item_size": 99842436,
   "metadata": {
     "identifier": "thebafflermag-2022",
     "collection": [
@@ -18755,7 +18817,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459494737,
+      "task_id": 3459941587,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -18763,7 +18825,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 678214051,
+  "uniq": 358200539,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

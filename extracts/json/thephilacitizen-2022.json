@@ -1,5 +1,5 @@
 {
-  "created": 1667372317,
+  "created": 1667415881,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/15/items/thephilacitizen-2022",
@@ -14243,21 +14243,32 @@
       "format": "JSON"
     },
     {
+      "name": "thephilacitizen-2022-11-02T02:57:22.844840-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thephilacitizen-2022-11-02T02:57:22.844840-04:00.jpg",
+      "mtime": "1667373823",
+      "size": "11131",
+      "md5": "fbbb0818d9a39efbee2312ccdb60534b",
+      "crc32": "70609b38",
+      "sha1": "9561dd7213b4ae95656e1dac1b88e95817b3d194"
+    },
+    {
       "name": "thephilacitizen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1112bfdcc983557dc6a3aa7ac795a113318b0904",
-      "mtime": "1667372308",
-      "size": "299905",
-      "md5": "cd89aa7f5f6d48c7f2e1ac7336461924",
-      "crc32": "34f31dbe",
-      "sha1": "a627cb387edcd4a1b5533520a20cbf98ec86ed79",
+      "btih": "0afb49ed83e6c8c17394711aa4000f208de165ca",
+      "mtime": "1667373865",
+      "size": "300117",
+      "md5": "55b570f4c6273071ff9d96417d01835e",
+      "crc32": "f805a794",
+      "sha1": "00d28c875d893df79c37f40fb287a2bed519d9c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thephilacitizen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b0aa9e3e77581715e2f54a4f68041ecf",
+      "md5": "f964c68aa8eba539b12fe60ef499b2b9",
       "summation": "md5"
     },
     {
@@ -14281,9 +14292,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1378,
-  "item_last_updated": 1667372308,
-  "item_size": 85322548,
+  "files_count": 1379,
+  "item_last_updated": 1667373865,
+  "item_size": 85333891,
   "metadata": {
     "identifier": "thephilacitizen-2022",
     "collection": [
@@ -14305,15 +14316,52 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459495316,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3459939993,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3459940028,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3459940060,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3459940143,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3459940161,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1843665060,
+  "thephilacitizen-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 149360807,
   "workable_servers": [
     "ia601504.us.archive.org"
   ]

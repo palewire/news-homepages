@@ -1,5 +1,5 @@
 {
-  "created": 1667372222,
+  "created": 1667415714,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/12/items/thedailyherald-2022",
@@ -5317,31 +5317,93 @@
       "format": "JSON"
     },
     {
+      "name": "thedailyherald-2022-11-02T01:55:55.905890-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyherald-2022-11-02T01:55:55.905890-05:00.jpg",
+      "mtime": "1667373706",
+      "size": "9476",
+      "md5": "3f9f9c15d434e3b915ceacf257159522",
+      "crc32": "cb6dddba",
+      "sha1": "5b2754c52b477446e8ce9aa02a436a7e13d0bdcb"
+    },
+    {
+      "name": "thedailyherald-2022-11-02T13:22:51.945602-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667413385",
+      "size": "23175",
+      "md5": "e1015ac67cd82c0a0e2a0841ab0828b7",
+      "crc32": "38f4e321",
+      "sha1": "8f65e44b25a2aca5625022eef6712ab4f28d7e84",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyherald-2022-11-02T13:22:51.945602-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667413395",
+      "size": "36673",
+      "md5": "7d85c4b1c25ac877ed5fa1fc9f840ac5",
+      "crc32": "5423bd27",
+      "sha1": "ab87a98c6c77d9f13dc7a4643fe919dad44e6037",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyherald-2022-11-02T13:22:51.945602-05:00.jpg",
+      "source": "original",
+      "mtime": "1667413378",
+      "size": "307104",
+      "md5": "f0fd3e121c3fd6ab1dee7709956aa9be",
+      "crc32": "600a345e",
+      "sha1": "c190415cdb13514a8ed1d58e3f80659d9d199d49",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyherald-2022-11-02T13:22:51.945602-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667413403",
+      "size": "1576",
+      "md5": "a7abbec64c9ecd8b996020513217d85a",
+      "crc32": "00bef0e8",
+      "sha1": "4df448689ca86075aa9de164b5b370b73e9c697e",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyherald-2022-11-02T13:22:51.945602-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667413412",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thedailyherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e8636548a416b2c3cf0957489371be2882417a38",
-      "mtime": "1667372214",
-      "size": "112706",
-      "md5": "13060c033ccc284e1607b4080e4aa1f9",
-      "crc32": "e41bebf3",
-      "sha1": "9ae147da6617c82b8ded22229ba0d068063f7af7",
+      "btih": "e93a4597bcad9e669555a99b79e3076fdd147317",
+      "mtime": "1667413653",
+      "size": "113987",
+      "md5": "5f2467863f0a4069d1c8a8778cc6075e",
+      "crc32": "8941decf",
+      "sha1": "2a49d7565ae7a4d3fdd2ad2a382981a367112bed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7b1628b3193e0e86b02ea381345afefe",
+      "md5": "6b3e6049f21ce418af289baa953f3312",
       "summation": "md5"
     },
     {
       "name": "thedailyherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667372170",
-      "size": "675840",
-      "md5": "78d29408e431413a9d23b5baa9cbe027",
-      "crc32": "f5e6a704",
-      "sha1": "802d6ab1d3cfcab5796e6646e8343c422e238028",
+      "mtime": "1667413604",
+      "size": "684032",
+      "md5": "d2ed2cf81bcd0024bfdb6c4a66270075",
+      "crc32": "aa0dd9e7",
+      "sha1": "8757b7d178b6323d4e0d7b026b01483337dce095",
       "format": "Metadata"
     },
     {
@@ -5355,9 +5417,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 518,
-  "item_last_updated": 1667372214,
-  "item_size": 35881750,
+  "files_count": 524,
+  "item_last_updated": 1667413653,
+  "item_size": 36269429,
   "metadata": {
     "identifier": "thedailyherald-2022",
     "collection": [
@@ -5379,7 +5441,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459494297,
+      "task_id": 3459941149,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5387,7 +5449,12 @@
       "status": "queued"
     }
   ],
-  "uniq": 367965613,
+  "thedailyherald-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 2142732933,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]
