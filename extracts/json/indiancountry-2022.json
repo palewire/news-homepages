@@ -1,5 +1,5 @@
 {
-  "created": 1667352049,
+  "created": 1667393374,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/10/items/indiancountry-2022",
@@ -13663,21 +13663,32 @@
       "format": "JSON"
     },
     {
+      "name": "indiancountry-2022-11-01T18:19:22.420459-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indiancountry-2022-11-01T18:19:22.420459-07:00.jpg",
+      "mtime": "1667353070",
+      "size": "9469",
+      "md5": "ac20a2aba9f7835ed789eef3aa12fd29",
+      "crc32": "0e059c35",
+      "sha1": "e9ec8500a33c0047e14ff2051a5bea6e5d7dc9b7"
+    },
+    {
       "name": "indiancountry-2022_archive.torrent",
       "source": "metadata",
-      "btih": "643c8eda7354823c93983f8f0f6fbc59ff787fbc",
-      "mtime": "1667352041",
-      "size": "285094",
-      "md5": "c16a318d38c7f892c513b347ccc5a88a",
-      "crc32": "8d7d7fe8",
-      "sha1": "04d5707f0b1412ca832d3559219c3e087f2ce949",
+      "btih": "bccf430bd8a6408d04ac438e66ea4c97f6d3cbef",
+      "mtime": "1667353150",
+      "size": "285303",
+      "md5": "7d16182a21770644fd32c784e7a64a4b",
+      "crc32": "e61c20fb",
+      "sha1": "5a2a4100fdcdc4f5e48103fb65918bff709beb28",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiancountry-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fa7ee2aabaf82f11e7a0602a7290f058",
+      "md5": "59d22053e586caccbd1fd0256b1f1e27",
       "summation": "md5"
     },
     {
@@ -13701,9 +13712,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1323,
-  "item_last_updated": 1667352041,
-  "item_size": 80434210,
+  "files_count": 1324,
+  "item_last_updated": 1667353150,
+  "item_size": 80443888,
   "metadata": {
     "identifier": "indiancountry-2022",
     "collection": [
@@ -13725,15 +13736,47 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459273030,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3459722114,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3459722130,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3459722146,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3459722162,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3459722184,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1542983728,
+  "uniq": 1574388838,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

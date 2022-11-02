@@ -1,5 +1,5 @@
 {
-  "created": 1667352285,
+  "created": 1667393673,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/15/items/mtvnews-2022",
@@ -12835,31 +12835,93 @@
       "format": "JSON"
     },
     {
+      "name": "mtvnews-2022-11-01T21:23:30.078626-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtvnews-2022-11-01T21:23:30.078626-04:00.jpg",
+      "mtime": "1667353750",
+      "size": "11352",
+      "md5": "cac95a34f1df221bc0bdfd6206f083ea",
+      "crc32": "e15be10e",
+      "sha1": "3bf750a3502e3987c3b7ca68e8fbef186c634bdd"
+    },
+    {
+      "name": "mtvnews-2022-11-02T08:53:00.650866-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667393589",
+      "size": "7137",
+      "md5": "42ee1b0b6dc254742cc83bc7c040b890",
+      "crc32": "880245d4",
+      "sha1": "fa5a78be103a6259b66025236299bd23279706b2",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-11-02T08:53:00.650866-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667393592",
+      "size": "9126",
+      "md5": "c3f07a0366a24f616ee6b50370dc953c",
+      "crc32": "c140b2a9",
+      "sha1": "c4214dda1a963e220ec57625106f6d775b4f1a49",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-11-02T08:53:00.650866-04:00.jpg",
+      "source": "original",
+      "mtime": "1667393587",
+      "size": "271942",
+      "md5": "df2faf985e0c416df02b2855c7ccd6bf",
+      "crc32": "200a6672",
+      "sha1": "8fbde5f2076c6015f396a1091cce1684737b8434",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtvnews-2022-11-02T08:53:00.650866-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667393594",
+      "size": "1468",
+      "md5": "c2c17141c8f2a839ff7f18c406a7018a",
+      "crc32": "742b8c6c",
+      "sha1": "d849c4bfcfaeb92eef525a57abff55edf117bae4",
+      "format": "JSON"
+    },
+    {
+      "name": "mtvnews-2022-11-02T08:53:00.650866-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667393596",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "mtvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8818e65521a69a3dd123861ea2f4744464175aa6",
-      "mtime": "1667352277",
-      "size": "260032",
-      "md5": "76af0be25720e22f09566b8e6bb605cd",
-      "crc32": "a2f66a54",
-      "sha1": "d0b12ec9218cdf5043a3ef5aa71000a9d156a8c6",
+      "btih": "db3681eaae2bc05448ee4b517dbeb3994ae4eca1",
+      "mtime": "1667393662",
+      "size": "261290",
+      "md5": "d1e71dcebd5e6181984f9ee470337e2a",
+      "crc32": "dcd82963",
+      "sha1": "a93e2eac74ba450a7b717fe088551644d2acd430",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "843ef98f82b36fb1730b78aa39f57c92",
+      "md5": "b209ba97ff16029613858db58fa8797b",
       "summation": "md5"
     },
     {
       "name": "mtvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667352227",
-      "size": "1572864",
-      "md5": "9c3c5730ddb9cf2c62bdbfa3b073ef5a",
-      "crc32": "38ba5028",
-      "sha1": "4d1d06ae1d3919122f28f1897de19c8ba909cd2f",
+      "mtime": "1667393610",
+      "size": "1581056",
+      "md5": "49574c58d010bf49cba49e83b0e06bbc",
+      "crc32": "5d9c1997",
+      "sha1": "1bab9217d0fabe33bd4094da74f95f2c711dbaaa",
       "format": "Metadata"
     },
     {
@@ -12873,9 +12935,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1244,
-  "item_last_updated": 1667352277,
-  "item_size": 67882589,
+  "files_count": 1250,
+  "item_last_updated": 1667393662,
+  "item_size": 68193266,
   "metadata": {
     "identifier": "mtvnews-2022",
     "collection": [
@@ -12897,7 +12959,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459275916,
+      "task_id": 3459725421,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12905,7 +12967,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 581984209,
+  "uniq": 1850959256,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]
