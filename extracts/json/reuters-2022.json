@@ -1,5 +1,5 @@
 {
-  "created": 1667356031,
+  "created": 1667397740,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/1/items/reuters-2022",
@@ -15349,31 +15349,93 @@
       "format": "JSON"
     },
     {
+      "name": "reuters-2022-11-01T22:24:25.343921-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reuters-2022-11-01T22:24:25.343921-04:00.jpg",
+      "mtime": "1667357096",
+      "size": "8097",
+      "md5": "61de1279f31c8147e3558900a3e67122",
+      "crc32": "c92bd480",
+      "sha1": "af82873d5ed8e9f626236029a034c77d5973fa04"
+    },
+    {
+      "name": "reuters-2022-11-02T10:00:13.599621-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667397644",
+      "size": "32548",
+      "md5": "e1fb18f3b63bd87c81b2843364a6df3b",
+      "crc32": "4bb69a64",
+      "sha1": "fe8c878fc09ceb283667da4efa22a1ce77bf6b5c",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-11-02T10:00:13.599621-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667397646",
+      "size": "28027",
+      "md5": "e52049ef4bff9fbd96837ac9da0f3485",
+      "crc32": "ed2ad954",
+      "sha1": "9d1a07e55c56ea03eb8daea250e640f400adcefc",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-11-02T10:00:13.599621-04:00.jpg",
+      "source": "original",
+      "mtime": "1667397642",
+      "size": "217077",
+      "md5": "5348344d21e475bd3db6607704df8d31",
+      "crc32": "b6f96d44",
+      "sha1": "2268ece84faae2a0dc7c4ac65dc04847ced8af83",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reuters-2022-11-02T10:00:13.599621-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667397648",
+      "size": "1459",
+      "md5": "66d336d4ba9dc2d3fbb79e55e97420d2",
+      "crc32": "749aefb4",
+      "sha1": "d17754c0736fe09c9364d43cc8b476b6825df184",
+      "format": "JSON"
+    },
+    {
+      "name": "reuters-2022-11-02T10:00:13.599621-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667397650",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "reuters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0bef76238aa07dcd19dfe0c3564e669d44848b53",
-      "mtime": "1667356023",
-      "size": "310218",
-      "md5": "17fb499536cd8fb515bbe6c2f22433fd",
-      "crc32": "4ca843f7",
-      "sha1": "045fb439c0aa129ca2e1141ac908966cf1fac8ef",
+      "btih": "3b96af0a2aa3f12f7812280d8a3f5b847418108d",
+      "mtime": "1667397729",
+      "size": "311477",
+      "md5": "d5c9a49c64e2ede998de52d649d407b3",
+      "crc32": "741ab0e9",
+      "sha1": "fd7426c4971bd8181c789408086ebb3aaa34b43b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reuters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "34c18ced288d23d286be6927a52bfbf9",
+      "md5": "ce911be2f79ad5a568816c0daf220b80",
       "summation": "md5"
     },
     {
       "name": "reuters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667355905",
-      "size": "1839104",
-      "md5": "945ed5b676f2c6562b54f5e6595af784",
-      "crc32": "76f8aa06",
-      "sha1": "659cc43174119fdd89077d56177add1b380af043",
+      "mtime": "1667397658",
+      "size": "1847296",
+      "md5": "edc56f804e0947f90aa6a2a2a5f8155b",
+      "crc32": "76379f2c",
+      "sha1": "3587505d73c168ecf9c30d97b060c3c7a73f843a",
       "format": "Metadata"
     },
     {
@@ -15387,9 +15449,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1483,
-  "item_last_updated": 1667356023,
-  "item_size": 86684672,
+  "files_count": 1489,
+  "item_last_updated": 1667397729,
+  "item_size": 86981533,
   "metadata": {
     "identifier": "reuters-2022",
     "collection": [
@@ -15411,7 +15473,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459319635,
+      "task_id": 3459769515,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15419,7 +15481,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1230392433,
+  "uniq": 392803149,
   "workable_servers": [
     "ia902504.us.archive.org"
   ]

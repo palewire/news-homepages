@@ -1,5 +1,5 @@
 {
-  "created": 1667355837,
+  "created": 1667397540,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/18/items/pekindailytimes-2022",
@@ -5275,31 +5275,93 @@
       "format": "JSON"
     },
     {
+      "name": "pekindailytimes-2022-11-01T21:23:02.130935-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pekindailytimes-2022-11-01T21:23:02.130935-05:00.jpg",
+      "mtime": "1667356861",
+      "size": "9417",
+      "md5": "fe1f66b9a09c4c77b68cb713459cf337",
+      "crc32": "9542f72c",
+      "sha1": "896f5e80b924fa513a2d2003a02b7c8fb982110b"
+    },
+    {
+      "name": "pekindailytimes-2022-11-02T08:58:00.867735-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667397484",
+      "size": "22195",
+      "md5": "ab648e14636804fe7c7a0f3d5d174884",
+      "crc32": "bd075a19",
+      "sha1": "82dd323fb0ea106bc30141011679371fe0d9ea0d",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-11-02T08:58:00.867735-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667397486",
+      "size": "30831",
+      "md5": "b68711fec8620c4e226ae3808fd21ed0",
+      "crc32": "00e89264",
+      "sha1": "f7a4046da9f637adf83bb35ac7401791d2502b36",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-11-02T08:58:00.867735-05:00.jpg",
+      "source": "original",
+      "mtime": "1667397482",
+      "size": "258514",
+      "md5": "dca582ca83fb33411eb6029fabf19b10",
+      "crc32": "c8f8f7e4",
+      "sha1": "b3bdc37882b1b51b70e831dd8bd6eb319d4ad2d2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pekindailytimes-2022-11-02T08:58:00.867735-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667397488",
+      "size": "1495",
+      "md5": "da0de2fef6a98b1c33262fa03094f259",
+      "crc32": "5d4ef859",
+      "sha1": "65616e0a45858c3ac1158c7471908668c40e81f4",
+      "format": "JSON"
+    },
+    {
+      "name": "pekindailytimes-2022-11-02T08:58:00.867735-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667397489",
+      "size": "91306",
+      "md5": "684e62c0c67225eed535721155584308",
+      "crc32": "e171a627",
+      "sha1": "abb85884d551277f05f4792edf9199d9823522a5",
+      "format": "JSON"
+    },
+    {
       "name": "pekindailytimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "47a935b377eeaae6503bb6ff64e41f63022fe7a1",
-      "mtime": "1667355833",
-      "size": "112266",
-      "md5": "fedb4bd598b91fc63df3db8bead8eb13",
-      "crc32": "b5495753",
-      "sha1": "070fd4c3fa6628695671ca829c93a91cc7daee5a",
+      "btih": "bde62fd3ba353a3e24135b39b17e5008b159daef",
+      "mtime": "1667397536",
+      "size": "113575",
+      "md5": "397e229109d6ae86116f040b8c40e169",
+      "crc32": "f01af98f",
+      "sha1": "b24d827ef9593fdeee48476b3be3fc10ca103642",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pekindailytimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c211570ca0561aeadff5d30f05294c07",
+      "md5": "83d8617f014b5377e5fed2b7ebf534fa",
       "summation": "md5"
     },
     {
       "name": "pekindailytimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667355794",
-      "size": "671744",
-      "md5": "45669108daa9e3d0e5d7fac37fafa21f",
-      "crc32": "faa71e1f",
-      "sha1": "8ed019d4a354dc9d287d36e0826c62ccc2de4439",
+      "mtime": "1667397496",
+      "size": "679936",
+      "md5": "a74e6e01eb47358d0f82eca38e358d00",
+      "crc32": "ffa03034",
+      "sha1": "98af1b5160742849535800885e527a69d9424174",
       "format": "Metadata"
     },
     {
@@ -5313,9 +5375,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 514,
-  "item_last_updated": 1667355833,
-  "item_size": 33857636,
+  "files_count": 520,
+  "item_last_updated": 1667397536,
+  "item_size": 34280895,
   "metadata": {
     "identifier": "pekindailytimes-2022",
     "collection": [
@@ -5337,7 +5399,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459317220,
+      "task_id": 3459766490,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5345,7 +5407,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2140262304,
+  "uniq": 1592746546,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

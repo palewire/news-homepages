@@ -1,5 +1,5 @@
 {
-  "created": 1667355782,
+  "created": 1667397567,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/21/items/ocalastarbanner-2022",
@@ -5265,31 +5265,93 @@
       "format": "JSON"
     },
     {
+      "name": "ocalastarbanner-2022-11-01T22:22:00.907266-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-11-01T22:22:00.907266-04:00.jpg",
+      "mtime": "1667356943",
+      "size": "8997",
+      "md5": "78b4359b8d7bb944e090221252f64a36",
+      "crc32": "4fb5793c",
+      "sha1": "ecc8399d4ab7b88e01408f4f55d46137756eb475"
+    },
+    {
+      "name": "ocalastarbanner-2022-11-02T09:58:19.037263-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667397508",
+      "size": "23677",
+      "md5": "9e150dd800fcbd23f2b096d856c39140",
+      "crc32": "10091619",
+      "sha1": "bf79c2a963adca175662ff48978a32dd40b87862",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-11-02T09:58:19.037263-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667397511",
+      "size": "33455",
+      "md5": "89156153bc6dca0e90083c4c40e1d506",
+      "crc32": "f1580e89",
+      "sha1": "6495360208b0d1a610fe8d2aa016971bbb17cd79",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-11-02T09:58:19.037263-04:00.jpg",
+      "source": "original",
+      "mtime": "1667397506",
+      "size": "280366",
+      "md5": "8e64d3d71530cfc72e56618c0073748d",
+      "crc32": "4b28b83c",
+      "sha1": "c8553416d131c37d4b5ab7ebbc2ba70a5a5f2de0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-11-02T09:58:19.037263-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667397513",
+      "size": "1450",
+      "md5": "c689a6a0b8c5266e4d669b5d9a48d9a3",
+      "crc32": "db0af353",
+      "sha1": "6678f6dec790c4a53eee33c7cd3102c74a7af232",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-11-02T09:58:19.037263-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667397514",
+      "size": "238",
+      "md5": "5a3b044e4d18bede250244fab071f9ad",
+      "crc32": "f6187dca",
+      "sha1": "3da686aa00781572bb7f94caea9409d6c46bce91",
+      "format": "JSON"
+    },
+    {
       "name": "ocalastarbanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f13fc259f8609a7f8ba17b13bf5a72c1e46caaa2",
-      "mtime": "1667355777",
-      "size": "111977",
-      "md5": "2dbd8ee77ffe2e3c156122ace151e6a3",
-      "crc32": "d28ab23a",
-      "sha1": "2ee38b3dc4ec9379795a12fdf0f977070031b29c",
+      "btih": "ce2b9d1233bf4370f14b0aeea64f1eb82bf92740",
+      "mtime": "1667397561",
+      "size": "113284",
+      "md5": "33f39bd15eeeeb24e532cd819a727267",
+      "crc32": "816fce8e",
+      "sha1": "702b7c06eb3996b45ffb80480e85cdf2f9da6caa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocalastarbanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "88a1ce57a371b1bf62c8d2438a6e464c",
+      "md5": "ca2034d53a8b43870d05be6245031eea",
       "summation": "md5"
     },
     {
       "name": "ocalastarbanner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667355738",
-      "size": "671744",
-      "md5": "bf3db3aa6de9aab446ebbbe8a57afbbc",
-      "crc32": "4cd2c08a",
-      "sha1": "acc57353a711e6388234ba4076725aa46fedf787",
+      "mtime": "1667397520",
+      "size": "675840",
+      "md5": "691e1c5b87f062c49d62c80c96669e75",
+      "crc32": "4cfb1328",
+      "sha1": "e551d8e276151f2ba42b9e6251b2978c02a7777b",
       "format": "Metadata"
     },
     {
@@ -5303,9 +5365,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 513,
-  "item_last_updated": 1667355777,
-  "item_size": 32929020,
+  "files_count": 519,
+  "item_last_updated": 1667397561,
+  "item_size": 33282606,
   "metadata": {
     "identifier": "ocalastarbanner-2022",
     "collection": [
@@ -5327,7 +5389,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459316415,
+      "task_id": 3459766751,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5335,7 +5397,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 11551417,
+  "uniq": 1151237832,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]
