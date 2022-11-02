@@ -1,5 +1,10 @@
 {
-  "created": 1667368381,
+  "coloradoan-2022": {
+    "url": "https://www.coloradoan.com/",
+    "job_id": "spn2-88e8cdada51d717e492d231a65fc10e986111b5d",
+    "message": "The same snapshot had been made 36 minutes, 10 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "created": 1667413371,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/17/items/coloradoan-2022",
@@ -5390,31 +5395,82 @@
       "sha1": "b41348771a6dd5ba63a29a126bf933a7471e77ae"
     },
     {
+      "name": "coloradoan-2022-11-02T11:16:30.011922-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409396",
+      "size": "21679",
+      "md5": "fd52622f714e55a023da565713af6057",
+      "crc32": "d07df0bb",
+      "sha1": "0cb7294a23acb70aa90b9fcd49232c69445cf590",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-11-02T11:16:30.011922-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409398",
+      "size": "29852",
+      "md5": "63e889699302d826a225b9bd9100668e",
+      "crc32": "564b7d43",
+      "sha1": "6f95cf189073fc077d9bb28a34f7ddb99385185e",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-11-02T11:16:30.011922-06:00.jpg",
+      "source": "original",
+      "mtime": "1667409394",
+      "size": "254502",
+      "md5": "f1f6b8a9acd4829630d232febaabfe9e",
+      "crc32": "fead11f9",
+      "sha1": "e4904738a14094395c0d270b4c20940b36117e45",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "coloradoan-2022-11-02T11:16:30.011922-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409400",
+      "size": "1495",
+      "md5": "a791d61eb7e2770f5398564874e7c1aa",
+      "crc32": "e9901942",
+      "sha1": "0a11b6696156b0c371f2f0d68fc8e2eca0db382a",
+      "format": "JSON"
+    },
+    {
+      "name": "coloradoan-2022-11-02T11:16:30.011922-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409402",
+      "size": "234",
+      "md5": "31f274999dddfadc1d311aeb30784dcb",
+      "crc32": "9ae46a2a",
+      "sha1": "9f550e88103834cc325107f8d4833a4bac4b748c",
+      "format": "JSON"
+    },
+    {
       "name": "coloradoan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e06d8bff16543aa3d2c235f7fca83e981a59dc8",
-      "mtime": "1667368331",
-      "size": "112131",
-      "md5": "f09984357cb68813e6dc5075d271e417",
-      "crc32": "f528150b",
-      "sha1": "5f1f1c3085f6dd516102e32ee1891bb1d2e0ba71",
+      "btih": "46e243c9ed8e94aaa63b0a1bc6d1a16568e3af19",
+      "mtime": "1667409449",
+      "size": "113182",
+      "md5": "d116debe56aba5140e60524f9e89510c",
+      "crc32": "c8eb0d0a",
+      "sha1": "8ceefc1bcd898654b890677ca1e0e8cfac919287",
       "format": "Archive BitTorrent"
     },
     {
       "name": "coloradoan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "48acbf0a7f190cbc93125e9365461ed3",
+      "md5": "313d9a1f93a0c14c97f087bd7b8894f5",
       "summation": "md5"
     },
     {
       "name": "coloradoan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367444",
-      "size": "684032",
-      "md5": "e60ffe9a1b4130608e422f2a95545da7",
-      "crc32": "ce0fe10b",
-      "sha1": "5036f74b966744fc22d781c840fd178a6d7fbc12",
+      "mtime": "1667409405",
+      "size": "688128",
+      "md5": "3e009518cb38e3ca850bb7a4c53102d1",
+      "crc32": "239dd2f4",
+      "sha1": "1fa3c7d0759c267d33e0291d51bb564fd791d7d0",
       "format": "Metadata"
     },
     {
@@ -5428,9 +5484,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 525,
-  "item_last_updated": 1667368331,
-  "item_size": 36458949,
+  "files_count": 530,
+  "item_last_updated": 1667409449,
+  "item_size": 36771858,
   "metadata": {
     "identifier": "coloradoan-2022",
     "collection": [
@@ -5447,10 +5503,21 @@
     "publicdate": "2022-09-20 17:40:50",
     "addeddate": "2022-09-20 17:40:50"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1441155322,
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459899199,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 532902680,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

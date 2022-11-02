@@ -1,21 +1,5 @@
 {
-  "courierjournal-2022": {
-    "url": "https://www.courier-journal.com/",
-    "job_id": "spn2-01b4d159e7ed6da2fa28004232e1b2ceef15dba0",
-    "outlinks": [],
-    "screenshot": "http://web.archive.org/screenshot/https://www.courier-journal.com/",
-    "original_url": "https://www.courier-journal.com/",
-    "http_status": 200,
-    "status": "success",
-    "counters": {
-      "embeds": 369,
-      "outlinks": 124
-    },
-    "resources": [],
-    "duration_sec": 22.736,
-    "timestamp": "20221102034731"
-  },
-  "created": 1667371780,
+  "created": 1667409471,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/34/items/courierjournal-2022",
@@ -11576,31 +11560,82 @@
       "sha1": "5512b9a4b22b9b39e165cd4bce117f746e181e3b"
     },
     {
+      "name": "courierjournal-2022-11-02T13:16:36.898807-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409408",
+      "size": "22293",
+      "md5": "5978d6a11e229c9980f718ef122cef2d",
+      "crc32": "d509ae2c",
+      "sha1": "ce0c410e7aa3934480ca95b1ebda4cfb116ace50",
+      "format": "JSON"
+    },
+    {
+      "name": "courierjournal-2022-11-02T13:16:36.898807-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409409",
+      "size": "34336",
+      "md5": "2cc4aaf4e300ac5ef14002e8ae75eac6",
+      "crc32": "b1c4ca41",
+      "sha1": "b072f80deed2b965d230cba6b7638452800f5213",
+      "format": "JSON"
+    },
+    {
+      "name": "courierjournal-2022-11-02T13:16:36.898807-04:00.jpg",
+      "source": "original",
+      "mtime": "1667409406",
+      "size": "275264",
+      "md5": "6d3af1ad355ad7797abae287a5024b40",
+      "crc32": "1a61dd5f",
+      "sha1": "177d627e909b04c3ed49bbb32b6c97ed281f1fe7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "courierjournal-2022-11-02T13:16:36.898807-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409412",
+      "size": "1540",
+      "md5": "6ab0194153fee8bb54d10936cd647b2c",
+      "crc32": "27ebab50",
+      "sha1": "82cae74c7f68dc6da11c8180d9d1a670e99538d4",
+      "format": "JSON"
+    },
+    {
+      "name": "courierjournal-2022-11-02T13:16:36.898807-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409414",
+      "size": "98693",
+      "md5": "930ee8b27d5d82be29052a372be9bbfb",
+      "crc32": "4e233b05",
+      "sha1": "2dc31d1ff0f9a2874ace83938e61fa5df3f019d4",
+      "format": "JSON"
+    },
+    {
       "name": "courierjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d8c0409e39e1b5326037787afc38424dec657f8e",
-      "mtime": "1667368501",
-      "size": "243421",
-      "md5": "04cc923aaad7912118187c2725f42d16",
-      "crc32": "210f4a2a",
-      "sha1": "2b29a781284ff92cb531457b7b6df3d059ecfbe2",
+      "btih": "aca03a975809c95b920bd75385773335f02dbdf2",
+      "mtime": "1667409466",
+      "size": "244514",
+      "md5": "c880f3d9f88d5cf3a8bc07a1028ca413",
+      "crc32": "cafbe42d",
+      "sha1": "4d448075a2e94c4f61f0c654181d4a09e7e8a91f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "courierjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1a4d1d7b96bb97054cd550bbc92afaa9",
+      "md5": "ef088b9a151de37d79af67669ad8663b",
       "summation": "md5"
     },
     {
       "name": "courierjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367442",
-      "size": "1445888",
-      "md5": "1f8b80c3b5d27d4e67746f546c324fe7",
-      "crc32": "798ae49a",
-      "sha1": "a7c17577e13d8d4ee7367c91d1c155619c3a6ff6",
+      "mtime": "1667409417",
+      "size": "1454080",
+      "md5": "dc5347e17d223481da8778f6173c0197",
+      "crc32": "d1cf11fc",
+      "sha1": "46351963688b87e086b440d3a3618bf2c3102980",
       "format": "Metadata"
     },
     {
@@ -11614,9 +11649,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1122,
-  "item_last_updated": 1667368501,
-  "item_size": 76639993,
+  "files_count": 1127,
+  "item_last_updated": 1667409466,
+  "item_size": 77081404,
   "metadata": {
     "identifier": "courierjournal-2022",
     "collection": [
@@ -11633,10 +11668,21 @@
     "publicdate": "2022-08-01 06:42:01",
     "addeddate": "2022-08-01 06:42:01"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1529771829,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459899329,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 844660069,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

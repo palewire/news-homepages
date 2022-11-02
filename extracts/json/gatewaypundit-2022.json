@@ -1,5 +1,6 @@
 {
-  "created": 1667368788,
+  "conflict": 1667414198,
+  "created": 1667414198,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/2/items/gatewaypundit-2022",
@@ -20586,31 +20587,88 @@
       "sha1": "a52d0ac4b4d9d2d199ac5d817181cc6c3d552af3"
     },
     {
+      "name": "gatewaypundit-2022-11-02T12:21:53.514809-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409731",
+      "size": "37919",
+      "md5": "4de86b72c489e1cb46342aea52a17b6b",
+      "crc32": "30ff68e8",
+      "sha1": "1e94bfbc1391adba5e275625531cdf8d4feece93",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-11-02T12:21:53.514809-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409736",
+      "size": "106591",
+      "md5": "4c8ece2d01f2783c3004d8ca348afc3d",
+      "crc32": "a8f910ab",
+      "sha1": "4f94cfe617d14197f48971546a5e0769e7b0824e",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-11-02T12:21:53.514809-05:00.jpg",
+      "source": "original",
+      "mtime": "1667409727",
+      "size": "354045",
+      "md5": "979031f888c522646da958dac825027b",
+      "crc32": "06e09e40",
+      "sha1": "b2977d4b973c7d19e3655f931a894659cbfc75d7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gatewaypundit-2022-11-02T12:21:53.514809-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409739",
+      "size": "1549",
+      "md5": "f394bb924e408fcc74dfbf690b10b900",
+      "crc32": "a481dcd5",
+      "sha1": "df58fdd2e315c7e14583cc7c0d447121e2862d08",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-11-02T12:21:53.514809-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409741",
+      "size": "40479",
+      "md5": "c26b3eae4834a704ff1bc04277cfcfad",
+      "crc32": "2bdd8671",
+      "sha1": "4c18a7fdaa80880b1e22139fd2b46d36494849b1",
+      "format": "JSON"
+    },
+    {
+      "name": "gatewaypundit-2022-11-02T12:21:53.514809-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gatewaypundit-2022-11-02T12:21:53.514809-05:00.jpg"
+    },
+    {
       "name": "gatewaypundit-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9b55f42633b3bb60c064814f2a83309e78c493be",
-      "mtime": "1667368739",
-      "size": "430644",
-      "md5": "7d08b05df1a4f7e96c2027bbd555120f",
-      "crc32": "abe14aec",
-      "sha1": "4f545a078f14933163b32bcf1222605cb2c1962d",
+      "btih": "e0563892faf74758b77696c3eeff88b0617ec470",
+      "mtime": "1667409856",
+      "size": "431733",
+      "md5": "2d18429ff14613000a6d08557871ec6b",
+      "crc32": "6be4f08c",
+      "sha1": "09e8a6805a27325b26d67be39685eb20c193f833",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gatewaypundit-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3e0137cf7d887adc3d832994a3771c2c",
+      "md5": "63d772e95545c95795519ed521a0ea2a",
       "summation": "md5"
     },
     {
       "name": "gatewaypundit-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367726",
-      "size": "2510848",
-      "md5": "c55a7081e6c1d1abd583c4d433f21606",
-      "crc32": "e35ae0fe",
-      "sha1": "4e248d4367cd369e19b7a9148bd1a84652f3c8ec",
+      "mtime": "1667409756",
+      "size": "2523136",
+      "md5": "10f479af62581ac752f8b713a96b0d78",
+      "crc32": "b448a55b",
+      "sha1": "0c16bc370853d88f1ace5e09192d45edaa24f172",
       "format": "Metadata"
     },
     {
@@ -20624,9 +20682,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1990,
-  "item_last_updated": 1667368739,
-  "item_size": 172203179,
+  "files_count": 1996,
+  "item_last_updated": 1667409856,
+  "item_size": 172757139,
   "metadata": {
     "identifier": "gatewaypundit-2022",
     "collection": [
@@ -20643,10 +20701,21 @@
     "publicdate": "2022-07-02 15:24:15",
     "addeddate": "2022-07-02 15:24:15"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 220887061,
+  "pending_tasks": true,
+  "server": "ia601500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459903643,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1952131035,
   "workable_servers": [
-    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

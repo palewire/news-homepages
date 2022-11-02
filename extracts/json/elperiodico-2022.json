@@ -1,5 +1,5 @@
 {
-  "created": 1667368530,
+  "created": 1667409751,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/1/items/elperiodico-2022",
@@ -12074,31 +12074,82 @@
       "sha1": "d72bfaff17242a1c963baf6323558287bd7675f4"
     },
     {
+      "name": "elperiodico-2022-11-02T18:20:34.777791+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409645",
+      "size": "109368",
+      "md5": "6be33040ce06414d23efb494ec155048",
+      "crc32": "1dba5715",
+      "sha1": "bef0668a5d26120d3cc13badebe0767eb6c55ac4",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-11-02T18:20:34.777791+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409646",
+      "size": "162180",
+      "md5": "9692b5e917ed9b6b2af54a522dd5b4ad",
+      "crc32": "ac557846",
+      "sha1": "46ae22de049e068a13ffbaec92286b0d1bcdcbb8",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-11-02T18:20:34.777791+01:00.jpg",
+      "source": "original",
+      "mtime": "1667409643",
+      "size": "246500",
+      "md5": "cc1f01cda3e0296c4dd7d86490a5ca24",
+      "crc32": "c0519df7",
+      "sha1": "9ca6c6b422799ecc4a1a9bbd9b0a9ec2b6018512",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elperiodico-2022-11-02T18:20:34.777791+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409648",
+      "size": "1528",
+      "md5": "c29359eba9a33244eb3a3432217f74bd",
+      "crc32": "2dac6c41",
+      "sha1": "a59654d60f46fc8fccb224730b02aae390476a04",
+      "format": "JSON"
+    },
+    {
+      "name": "elperiodico-2022-11-02T18:20:34.777791+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409649",
+      "size": "33263",
+      "md5": "2c3428eeb025ee0cf241bde5b51b4b42",
+      "crc32": "5dc6190c",
+      "sha1": "cfad8eb83e01ca9c1de04dd9eb55b83aa0117e3a",
+      "format": "JSON"
+    },
+    {
       "name": "elperiodico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "593e64f0ce4988ce6f6e2f0e7a21d98b342969d4",
-      "mtime": "1667368497",
-      "size": "252123",
-      "md5": "d47777fb74fceb8d4f88d28b756be35b",
-      "crc32": "07845638",
-      "sha1": "8201c887d7a90e609357a1049eeb5116daf8da1b",
+      "btih": "32540c7f02b213f34908308d46f8ff6c01b36143",
+      "mtime": "1667409726",
+      "size": "253203",
+      "md5": "9fe197d1a8dc968a2e0ee48f956fc47d",
+      "crc32": "ba4320b5",
+      "sha1": "2499293cff835a9ad9a10c46b443c35ced0dd354",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elperiodico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac28e8fcaf1204735b47f345dc20d7ca",
+      "md5": "41a567cd0e3b50defeb649470775952a",
       "summation": "md5"
     },
     {
       "name": "elperiodico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367658",
-      "size": "1499136",
-      "md5": "cd61febf4ab7376b43a526eff8a571b2",
-      "crc32": "061c35fd",
-      "sha1": "91df727c549b806017fb7351c0d84013a957c6d3",
+      "mtime": "1667409663",
+      "size": "1503232",
+      "md5": "334646aeeb60c8fca7fcdae2ef4635be",
+      "crc32": "da243017",
+      "sha1": "ff055ad7242aeec50ea5bf56763bb3cf045be0b6",
       "format": "Metadata"
     },
     {
@@ -12112,9 +12163,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1171,
-  "item_last_updated": 1667368497,
-  "item_size": 115778236,
+  "files_count": 1176,
+  "item_last_updated": 1667409726,
+  "item_size": 116336251,
   "metadata": {
     "identifier": "elperiodico-2022",
     "collection": [
@@ -12131,10 +12182,21 @@
     "publicdate": "2022-07-26 02:42:00",
     "addeddate": "2022-07-26 02:42:00"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 371506374,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459902516,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1529251985,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667371758,
+  "created": 1667409909,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/15/items/gazetaru-2022",
@@ -19231,31 +19231,83 @@
       "format": "JSON"
     },
     {
+      "name": "gazetaru-2022-11-02T09:47:31.800397+03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gazetaru-2022-11-02T09:47:31.800397+03:00.jpg",
+      "mtime": "1667378719",
+      "size": "9135",
+      "md5": "a3220ae4ed16a4d849eb3a092a9b701c",
+      "crc32": "f6a11652",
+      "sha1": "3f4bf60f3582f3214dd45a63cf5655d34e9366df"
+    },
+    {
+      "name": "gazetaru-2022-11-02T20:21:37.313150+03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409748",
+      "size": "53211",
+      "md5": "acbea2fc8eafd527b41cc341105412e1",
+      "crc32": "6ccbf713",
+      "sha1": "28fa0930ab28b402a4d8bbbc6c9efb236d96be7a",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-11-02T20:21:37.313150+03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409752",
+      "size": "62434",
+      "md5": "fb5a6fad5324461ad0495d8614d14d3a",
+      "crc32": "29ff349c",
+      "sha1": "6e97e4c5b96ce0e304e1de8f03869c2c4eae64dd",
+      "format": "JSON"
+    },
+    {
+      "name": "gazetaru-2022-11-02T20:21:37.313150+03:00.jpg",
+      "source": "original",
+      "mtime": "1667409742",
+      "size": "281127",
+      "md5": "e6fd049d570f14df601f5c45e88a002f",
+      "crc32": "1b56470f",
+      "sha1": "491ff766a5eb3468cb06184318172fcb9e93ff40",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gazetaru-2022-11-02T20:21:37.313150+03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409759",
+      "size": "1423",
+      "md5": "8f0b694eae5e3adbce62cf7942393869",
+      "crc32": "0d78ff05",
+      "sha1": "8d6cc43a150c905cef8c003c16552302610604dc",
+      "format": "JSON"
+    },
+    {
       "name": "gazetaru-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c8aac8aa96fa25a87e95b72cfc289fc225031ec1",
-      "mtime": "1667371744",
-      "size": "392635",
-      "md5": "4e5691e45a1e00aad9b391a4c15ce409",
-      "crc32": "99f55ccf",
-      "sha1": "1140c47f4729abf94292b22ae78990ff43c993f6",
+      "btih": "f4d459f17c9710ca47466be9968f2fd3affddffa",
+      "mtime": "1667409888",
+      "size": "393694",
+      "md5": "90ccb69d6d3ad04902c73fd14bd8a1e4",
+      "crc32": "66a2e47a",
+      "sha1": "60ef546a831f5d51d94406ab569cbab16dd9d3b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gazetaru-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "35b8144e33eebf5654c37e2ca437a3ec",
+      "md5": "5dca20c916d623b3241218d738590008",
       "summation": "md5"
     },
     {
       "name": "gazetaru-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667371667",
-      "size": "2342912",
-      "md5": "d373180844e7e326dcdc63e47feff024",
-      "crc32": "d7d3320f",
-      "sha1": "4dbe4634ae9122fa217b1d6fc68c8a906960d474",
+      "mtime": "1667409779",
+      "size": "2351104",
+      "md5": "22752f310ebe83c5c261e94831f4fc5c",
+      "crc32": "f79df7b9",
+      "sha1": "3b583cc8809af13a095376d8588d95061592f9a9",
       "format": "Metadata"
     },
     {
@@ -19269,9 +19321,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1862,
-  "item_last_updated": 1667371744,
-  "item_size": 140355100,
+  "files_count": 1867,
+  "item_last_updated": 1667409888,
+  "item_size": 140771681,
   "metadata": {
     "identifier": "gazetaru-2022",
     "collection": [
@@ -19293,15 +19345,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459489559,
+      "task_id": 3459904202,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1926146662,
+  "uniq": 221110854,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

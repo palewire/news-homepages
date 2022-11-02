@@ -1,5 +1,5 @@
 {
-  "created": 1667368444,
+  "created": 1667409686,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/2/items/dcnepal-2022",
@@ -12280,31 +12280,82 @@
       "sha1": "08380605be6e649482e4046bdd2291827e870d3e"
     },
     {
+      "name": "dcnepal-2022-11-02T23:03:38.699159+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667409557",
+      "size": "118134",
+      "md5": "2aaf0ffde8113e6f7357c7e678e28a83",
+      "crc32": "c1d4422f",
+      "sha1": "00d0a36a0fdac45330aa42632dcb9d2e1d738e2a",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-11-02T23:03:38.699159+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409559",
+      "size": "81801",
+      "md5": "e37d03b634786efdff5d5e41191cd500",
+      "crc32": "0ca66c1c",
+      "sha1": "8db57193d80034538cd535cacdfd8707ba8dc179",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-11-02T23:03:38.699159+05:45.jpg",
+      "source": "original",
+      "mtime": "1667409555",
+      "size": "255569",
+      "md5": "572d986075c7563b53ec82ad73e49431",
+      "crc32": "213916a3",
+      "sha1": "2d4e37892c371b0a20c5d9e7f0fded9e26441880",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dcnepal-2022-11-02T23:03:38.699159+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409562",
+      "size": "1467",
+      "md5": "7d0810209cc52ae8a97e8417811a0b3b",
+      "crc32": "98430302",
+      "sha1": "0d121324fb0f564a8b0f2addaca7135f306cdd8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dcnepal-2022-11-02T23:03:38.699159+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667409563",
+      "size": "18595",
+      "md5": "4d3f196b8645752631bf0614d0ca133e",
+      "crc32": "42d8e840",
+      "sha1": "4ec073c257e5da50f6ce070e982a6372fbecf96a",
+      "format": "JSON"
+    },
+    {
       "name": "dcnepal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0fb9e6e6fbebe04dbb82c2e5064b0624feb1b22a",
-      "mtime": "1667368421",
-      "size": "250843",
-      "md5": "8e5fdf7992a5370be5c59501fc474026",
-      "crc32": "ce329bae",
-      "sha1": "f0dad9a0eff92ab563ebe1ff3a84c1298d93b1c3",
+      "btih": "fbc907b4a7caa456885e28d20c30eaf2bf0b643a",
+      "mtime": "1667409659",
+      "size": "251902",
+      "md5": "6b5962e5db1c694c5dd2afe94dcdef24",
+      "crc32": "67ca5878",
+      "sha1": "b232189e44992c285cd00bf8c71c3d28ad2cfb27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dcnepal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6bd87790e5c3a487d545092a6f26d0d8",
+      "md5": "3c918e069af0e2b0cf2c7259f0538b78",
       "summation": "md5"
     },
     {
       "name": "dcnepal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367561",
-      "size": "1511424",
-      "md5": "63c7ea916301b6e2692d31a2e994598f",
-      "crc32": "4db8d4e1",
-      "sha1": "d49907aac18c9356ac7034861e0893eaa0bed698",
+      "mtime": "1667409580",
+      "size": "1519616",
+      "md5": "22086c3d621825c31e51f843811db6fc",
+      "crc32": "469834b4",
+      "sha1": "bdc03adba93da1ec87cf4f10c539db66a0bf6e16",
       "format": "Metadata"
     },
     {
@@ -12318,9 +12369,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1191,
-  "item_last_updated": 1667368421,
-  "item_size": 98187854,
+  "files_count": 1196,
+  "item_last_updated": 1667409659,
+  "item_size": 98672671,
   "metadata": {
     "identifier": "dcnepal-2022",
     "collection": [
@@ -12337,10 +12388,21 @@
     "publicdate": "2022-07-24 20:37:41",
     "addeddate": "2022-07-24 20:37:41"
   },
+  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "uniq": 163808592,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459901835,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 437516051,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia601508.us.archive.org"
   ]
 }

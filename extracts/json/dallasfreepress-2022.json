@@ -1,7 +1,12 @@
 {
-  "created": 1667369869,
+  "created": 1667413720,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
+  "dallasfreepress-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/15/items/dallasfreepress-2022",
   "files": [
     {
@@ -13570,31 +13575,82 @@
       "sha1": "cb84ab6f696f3c8ae0f66278927a3225a7381365"
     },
     {
+      "name": "dallasfreepress-2022-11-02T12:18:39.542935-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409545",
+      "size": "11233",
+      "md5": "fa634c91d5a79bb19c46dbcac811c82d",
+      "crc32": "0f049de7",
+      "sha1": "b5c1c680e7ff35bb7fb212955b1abd5c99e33be6",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-11-02T12:18:39.542935-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409548",
+      "size": "4794",
+      "md5": "28dd64e05edfc716958523f0b40ee3a9",
+      "crc32": "cbd63be7",
+      "sha1": "aca4d83a9924482c7cab05d7243390200107e8b1",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-11-02T12:18:39.542935-05:00.jpg",
+      "source": "original",
+      "mtime": "1667409543",
+      "size": "264573",
+      "md5": "919f809ddd8bab09c5c4d14884a7f1b9",
+      "crc32": "5d984595",
+      "sha1": "d96309b535d1c6764c860ce8e8b1ba420677f6e1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dallasfreepress-2022-11-02T12:18:39.542935-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409551",
+      "size": "1495",
+      "md5": "c10045afb862f7f2069d6d3cf96e1448",
+      "crc32": "23933a9a",
+      "sha1": "e37a643dfc905ad25a2f74742ee69e8e936cf111",
+      "format": "JSON"
+    },
+    {
+      "name": "dallasfreepress-2022-11-02T12:18:39.542935-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409553",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "dallasfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "72adbbbbca60d3ce3a25b0b1f94655f925ae5463",
-      "mtime": "1667369647",
-      "size": "285030",
-      "md5": "f9aa266c9afe9c0d3a7fd961d4a8b0a1",
-      "crc32": "d5e5b0e9",
-      "sha1": "2117130f47f85695ccb29dcbc9bbc02dc7db0c71",
+      "btih": "8ce826e797ae78ff4f5d24ee5bbccbb5abcf06ea",
+      "mtime": "1667409609",
+      "size": "286125",
+      "md5": "92e9ba8ac6932ae794f5a859fc9a74a2",
+      "crc32": "007b7811",
+      "sha1": "99c1f779ed19428ec9ba8f39136a4eedd8b95f12",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "258a4ced0342fa628d4036153ac79591",
+      "md5": "f4c8e986f25c9933ac6cca0983c384de",
       "summation": "md5"
     },
     {
       "name": "dallasfreepress-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367552",
-      "size": "1671168",
-      "md5": "86121ba3ec3938cd2bb0a75fe2d5c0c9",
-      "crc32": "5aed2dcd",
-      "sha1": "96ae833e811553e287bc6e69fb4336975d525035",
+      "mtime": "1667409557",
+      "size": "1679360",
+      "md5": "2e9b2475c8702c28246e747e435c1701",
+      "crc32": "761f0d1b",
+      "sha1": "210bf53ef27ab4a64dcc194f00319f4ac7efc057",
       "format": "Metadata"
     },
     {
@@ -13608,9 +13664,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1314,
-  "item_last_updated": 1667369647,
-  "item_size": 70340769,
+  "files_count": 1319,
+  "item_last_updated": 1667409609,
+  "item_size": 70632353,
   "metadata": {
     "identifier": "dallasfreepress-2022",
     "collection": [
@@ -13627,10 +13683,21 @@
     "publicdate": "2022-07-09 03:57:39",
     "addeddate": "2022-07-09 03:57:39"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 781524668,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459901070,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 357609403,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

@@ -1,11 +1,7 @@
 {
-  "created": 1667371810,
+  "created": 1667409563,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
-  "dailykos-2022": {
-    "url": "https://www.dailykos.com/",
-    "job_id": "spn2-480c9423d00d12b23eeefc99a20798f240518dc8"
-  },
   "dir": "/25/items/dailykos-2022",
   "files": [
     {
@@ -18768,31 +18764,82 @@
       "sha1": "2fc087082eebb6bae49d9c0d282111b069e6200b"
     },
     {
+      "name": "dailykos-2022-11-02T13:17:57.467909-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409492",
+      "size": "122675",
+      "md5": "5b21ad0a8627c47f1e8f29b9efbe9b3f",
+      "crc32": "f0b41b35",
+      "sha1": "0069dd7cc2cac7bc971e400af975fe0631829f98",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-11-02T13:17:57.467909-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409494",
+      "size": "89725",
+      "md5": "f543091067d56269921c7504c1aebff4",
+      "crc32": "e8491754",
+      "sha1": "a5d2ac1e89a9306fe9725e2c58a75f296d3eee46",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-11-02T13:17:57.467909-04:00.jpg",
+      "source": "original",
+      "mtime": "1667409490",
+      "size": "245012",
+      "md5": "f491deed3413248f33b76eb198efb192",
+      "crc32": "05b2cd38",
+      "sha1": "8bf21abd0a80790d7d87c5c0bb08a9e81843174b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailykos-2022-11-02T13:17:57.467909-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409495",
+      "size": "1453",
+      "md5": "88eb4f8c6bf0051e9e89fb8decd5a758",
+      "crc32": "40643093",
+      "sha1": "9eeed22de3e7b2b4877985c859966374e25ec4b5",
+      "format": "JSON"
+    },
+    {
+      "name": "dailykos-2022-11-02T13:17:57.467909-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409496",
+      "size": "43741",
+      "md5": "bfc21f040c0b47cdf1a38b241eb1b6df",
+      "crc32": "50aae902",
+      "sha1": "ed35ba0dd3b54865ce7cb0d2413d9d9ee996f05d",
+      "format": "JSON"
+    },
+    {
       "name": "dailykos-2022_archive.torrent",
       "source": "metadata",
-      "btih": "54c6846e7a30e7a92bd64da0a98c671fc37528b5",
-      "mtime": "1667369514",
-      "size": "384265",
-      "md5": "7381924e1e8b1748f9778ef01eff9f7e",
-      "crc32": "b0fd0308",
-      "sha1": "6090d5c7d20e464decf1c87a16e77d10b532301e",
+      "btih": "28bbcb48cfcafafcf13448004d7b3170c2cacd3c",
+      "mtime": "1667409557",
+      "size": "385329",
+      "md5": "26cdcccc6aa8a05a3f91129c8a89c5bf",
+      "crc32": "d08bd61e",
+      "sha1": "c1f7a6fee9ba73632195842a0003b6f77f36ccc7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailykos-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3e38abf5f9286f1cbcbc53ba8ce96561",
+      "md5": "3cbe40f6e29dc09c529fe67aa8e28205",
       "summation": "md5"
     },
     {
       "name": "dailykos-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367472",
-      "size": "2293760",
-      "md5": "e69269130f65cd9855be24f1aac704df",
-      "crc32": "3ca4e971",
-      "sha1": "7c6676ae14c05565797001f16a166b97d2a0c27b",
+      "mtime": "1667409501",
+      "size": "2297856",
+      "md5": "d285b2123661b28928417c21abf64e06",
+      "crc32": "4856f226",
+      "sha1": "78617148c65bc805c8aee223d796adf509686714",
       "format": "Metadata"
     },
     {
@@ -18806,9 +18853,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1817,
-  "item_last_updated": 1667369514,
-  "item_size": 156116985,
+  "files_count": 1822,
+  "item_last_updated": 1667409557,
+  "item_size": 156624751,
   "metadata": {
     "identifier": "dailykos-2022",
     "collection": [
@@ -18825,10 +18872,21 @@
     "publicdate": "2022-07-17 16:00:03",
     "addeddate": "2022-07-17 16:00:03"
   },
+  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "uniq": 905479221,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459900348,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1986421239,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia601504.us.archive.org"
   ]
 }

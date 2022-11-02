@@ -1,13 +1,9 @@
 {
-  "created": 1667371955,
+  "conflict": 1667414035,
+  "created": 1667414035,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/4/items/fayobserver-2022",
-  "fayobserver-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -5343,31 +5339,88 @@
       "sha1": "d5f7aaf60e8c29a2726a99e80641b272cbd53655"
     },
     {
+      "name": "fayobserver-2022-11-02T13:21:05.257757-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409672",
+      "size": "21061",
+      "md5": "ef35488f668e74775e1caf9d4fa537af",
+      "crc32": "f2e68f03",
+      "sha1": "7ad371bf02238c1f494e661153e556f44eb49d73",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-11-02T13:21:05.257757-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409674",
+      "size": "27685",
+      "md5": "91455cce79847db4af5b4b1c102a9a5f",
+      "crc32": "55367204",
+      "sha1": "89c7bfd3c874a50e806ebf69fa306de6ebbc70b1",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-11-02T13:21:05.257757-04:00.jpg",
+      "source": "original",
+      "mtime": "1667409670",
+      "size": "243115",
+      "md5": "3fe6a9d599d67a87e6ef8b61ad414814",
+      "crc32": "bd473248",
+      "sha1": "696de93cbf1e99b0fc769875f397925c05b4d84b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fayobserver-2022-11-02T13:21:05.257757-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409676",
+      "size": "1504",
+      "md5": "bf8afabab32acb79621df51088ce2fe5",
+      "crc32": "b6348886",
+      "sha1": "01ad715d270487dbac2c9bb37453c256bac5476a",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-11-02T13:21:05.257757-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409678",
+      "size": "77552",
+      "md5": "a2847c19804bb82e3a30eca0558703a8",
+      "crc32": "7b5b29fe",
+      "sha1": "5730381528646bcd74718073da05714687128ee2",
+      "format": "JSON"
+    },
+    {
+      "name": "fayobserver-2022-11-02T13:21:05.257757-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fayobserver-2022-11-02T13:21:05.257757-04:00.jpg"
+    },
+    {
       "name": "fayobserver-2022_archive.torrent",
       "source": "metadata",
-      "btih": "276cf414de9dcb598bcfd1a350350ad3ed891f98",
-      "mtime": "1667368594",
-      "size": "111405",
-      "md5": "bcf79e71739710e0553e9a49eb700960",
-      "crc32": "0209ca8d",
-      "sha1": "033010676dce39372054af1a40cb4931114c1779",
+      "btih": "119c54af927a5306a195be264d2b95295e2f6ed2",
+      "mtime": "1667409734",
+      "size": "112483",
+      "md5": "3392f7517fe842b7890056e68a6a2b37",
+      "crc32": "0ba8dd8b",
+      "sha1": "3c9fcfb8c8cda8de2cf4b341373f2787c93a1ccc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fayobserver-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f1adf8e73a507a4438afa443cd8fe92d",
+      "md5": "aaba11deb24b6bdf2d4c6e4daf4fd42a",
       "summation": "md5"
     },
     {
       "name": "fayobserver-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367737",
-      "size": "675840",
-      "md5": "c3c1ffb4656e014066cb3959a1b378fb",
-      "crc32": "0c42f75a",
-      "sha1": "7a2fa87eefd68e6eef8f129f85328e8eff9f97d4",
+      "mtime": "1667409690",
+      "size": "684032",
+      "md5": "73b41204500109de5903e4342fd8260c",
+      "crc32": "81fbe63b",
+      "sha1": "ce21855bd628355e38f9cc460a2eab491f6572a7",
       "format": "Metadata"
     },
     {
@@ -5381,9 +5434,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 520,
-  "item_last_updated": 1667368594,
-  "item_size": 32953168,
+  "files_count": 526,
+  "item_last_updated": 1667409734,
+  "item_size": 33333355,
   "metadata": {
     "identifier": "fayobserver-2022",
     "collection": [
@@ -5400,10 +5453,21 @@
     "publicdate": "2022-09-20 17:50:17",
     "addeddate": "2022-09-20 17:50:17"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 466336334,
+  "pending_tasks": true,
+  "server": "ia601402.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459902399,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1816450300,
   "workable_servers": [
-    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667369814,
+  "created": 1667409681,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/elpasotimes-2022",
@@ -11938,31 +11938,82 @@
       "sha1": "342a3a724ca48025c2a5512557bdec298e8820fb"
     },
     {
+      "name": "elpasotimes-2022-11-02T11:19:57.733492-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409608",
+      "size": "21987",
+      "md5": "70dd789b948377909d30d5fc25c8b6a3",
+      "crc32": "092a6b3a",
+      "sha1": "231fe3c7f2148d79d1920676feae3868c7ef894e",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-11-02T11:19:57.733492-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409610",
+      "size": "30145",
+      "md5": "c30fcc42977cb29dedeff11a5fc595b7",
+      "crc32": "c68ecca7",
+      "sha1": "07ce90364aca2ef8ea7fe9ab0385495b84954d04",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-11-02T11:19:57.733492-06:00.jpg",
+      "source": "original",
+      "mtime": "1667409607",
+      "size": "258305",
+      "md5": "91cd60eb99be48a4ff8438a9b6983b6a",
+      "crc32": "12d27086",
+      "sha1": "576974ef464d99121c07ca745848ba1124e4527d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elpasotimes-2022-11-02T11:19:57.733492-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409612",
+      "size": "1504",
+      "md5": "8314bd52b94454a9ab14434adc036c55",
+      "crc32": "2575396b",
+      "sha1": "1b7fd47498e07e4bddaf3a3438b1c9e336f3838f",
+      "format": "JSON"
+    },
+    {
+      "name": "elpasotimes-2022-11-02T11:19:57.733492-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409617",
+      "size": "92820",
+      "md5": "36f111dec5bdd244b20ad8290d318a9a",
+      "crc32": "7ad6d79b",
+      "sha1": "0f184e93bf5afc88e53c4e1d060e59cd37022f7b",
+      "format": "JSON"
+    },
+    {
       "name": "elpasotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "19509da93cdfa2954234dd68348c5b27c70f459c",
-      "mtime": "1667369596",
-      "size": "247486",
-      "md5": "d5c777714a7b66ef636eb59094ff6db3",
-      "crc32": "ef657cf3",
-      "sha1": "9cabcb1c62f6858d424fcd31d5d1e35f5b00a916",
+      "btih": "fa1ec3d7fc5aba767addba1f38b5838a83d661a1",
+      "mtime": "1667409675",
+      "size": "248564",
+      "md5": "7ae21d97aec5f7d981ef428f5e05434e",
+      "crc32": "66822a36",
+      "sha1": "8b64dac6e4fff4339590d363f680f16c1f0121bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elpasotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6cda852d49a2fa14730913e27c0c6364",
+      "md5": "55eb54c6f0983e9b1658fa65afe057be",
       "summation": "md5"
     },
     {
       "name": "elpasotimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367644",
-      "size": "1478656",
-      "md5": "e52384fb92e2903090c54c98e4463954",
-      "crc32": "ed01a3dc",
-      "sha1": "e92b209eca98c352eda9e8ee8c9f50b1e3399fd5",
+      "mtime": "1667409626",
+      "size": "1490944",
+      "md5": "24a29df6e969ceb75a99e732a168d1e7",
+      "crc32": "61722990",
+      "sha1": "e34c973409507133a7e88508663d2448c30601a4",
       "format": "Metadata"
     },
     {
@@ -11976,9 +12027,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1158,
-  "item_last_updated": 1667369596,
-  "item_size": 74514352,
+  "files_count": 1163,
+  "item_last_updated": 1667409675,
+  "item_size": 74932479,
   "metadata": {
     "identifier": "elpasotimes-2022",
     "collection": [
@@ -11995,10 +12046,21 @@
     "publicdate": "2022-07-26 14:34:01",
     "addeddate": "2022-07-26 14:34:01"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1309048595,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459901659,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 2058786105,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

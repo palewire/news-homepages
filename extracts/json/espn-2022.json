@@ -1,5 +1,5 @@
 {
-  "created": 1667368553,
+  "created": 1667409764,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/24/items/espn-2022",
@@ -13888,31 +13888,82 @@
       "sha1": "43ac57bdac6426b2d0c8628b1aef262a81330b8a"
     },
     {
+      "name": "espn-2022-11-02T13:20:55.463190-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409686",
+      "size": "41205",
+      "md5": "41072dcbdf4f32e2b6a7fa364ee30fb5",
+      "crc32": "cd532f13",
+      "sha1": "0dc8e9665ed1f1b6127a2e569008ee4c71db3074",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-11-02T13:20:55.463190-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409688",
+      "size": "133978",
+      "md5": "84c60f8fc3ca49a98ba6dc77041ab56f",
+      "crc32": "1def8e1c",
+      "sha1": "e4124e6bb91a6cad90d81b0b7cf5a0ab50e9b923",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-11-02T13:20:55.463190-04:00.jpg",
+      "source": "original",
+      "mtime": "1667409683",
+      "size": "329032",
+      "md5": "29859fc153c24c06e6ae49d1005fd896",
+      "crc32": "a9cf1f55",
+      "sha1": "7ae0301c5a1ce370bca43a0941182671daf1a14a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "espn-2022-11-02T13:20:55.463190-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409690",
+      "size": "1441",
+      "md5": "b56bdc401c3d7a7f6017c517a8d88693",
+      "crc32": "1ca70c5f",
+      "sha1": "474be78bd27c01305f12e95b4ad3f6bc0b098975",
+      "format": "JSON"
+    },
+    {
+      "name": "espn-2022-11-02T13:20:55.463190-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409692",
+      "size": "58073",
+      "md5": "56bfcdcddb79f3d3cb83e5f684ba25ae",
+      "crc32": "f3d5a0e3",
+      "sha1": "8192fae88cc0139d96c0e99d97c03147ebffdf2d",
+      "format": "JSON"
+    },
+    {
       "name": "espn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b586b5b44e512e18b0af458ad24ec2e4baa44464",
-      "mtime": "1667368538",
-      "size": "279887",
-      "md5": "76d6839b428c8218a9e5879907f9ea9c",
-      "crc32": "4997e15b",
-      "sha1": "96c383558ac41ff90cea1754283ce576948085a4",
+      "btih": "9a3186c75340dbfd7977210afbf7d78c6efd40fa",
+      "mtime": "1667409755",
+      "size": "280931",
+      "md5": "133ebf651033c89ac5072f70df29901f",
+      "crc32": "09d5fa57",
+      "sha1": "2458e58dacc2720846a62064754b763ffe4cb113",
       "format": "Archive BitTorrent"
     },
     {
       "name": "espn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed1b43229952969c9805b112d208a14c",
+      "md5": "7d909afad6bb93d414f0cc06e936c03e",
       "summation": "md5"
     },
     {
       "name": "espn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367703",
-      "size": "1675264",
-      "md5": "fdb7420c5aacfd200b1f8788c925e74f",
-      "crc32": "6a73fd0b",
-      "sha1": "b2506f3270ee4a3d1bf1841a3cb48f08513bc000",
+      "mtime": "1667409697",
+      "size": "1683456",
+      "md5": "a823938a44e175d109a48473c659c1a2",
+      "crc32": "9fd3cd36",
+      "sha1": "deb463192b0723c83438204ca54be6d8ba23ef8f",
       "format": "Metadata"
     },
     {
@@ -13926,9 +13977,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1344,
-  "item_last_updated": 1667368538,
-  "item_size": 135303992,
+  "files_count": 1349,
+  "item_last_updated": 1667409755,
+  "item_size": 135876957,
   "metadata": {
     "identifier": "espn-2022",
     "collection": [
@@ -13945,10 +13996,21 @@
     "publicdate": "2022-07-04 20:48:15",
     "addeddate": "2022-07-04 20:48:15"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 1065905717,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459902641,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 591986690,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }

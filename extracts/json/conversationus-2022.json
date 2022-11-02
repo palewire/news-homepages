@@ -1,5 +1,5 @@
 {
-  "created": 1667368320,
+  "created": 1667409558,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/23/items/conversationus-2022",
@@ -13776,31 +13776,82 @@
       "sha1": "a1befad1f5f1cec53f3015c606f82f8c0a101bcb"
     },
     {
+      "name": "conversationus-2022-11-02T13:17:56.385990-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409491",
+      "size": "50783",
+      "md5": "adef8a03bd0c18e928fbdf196dc0e023",
+      "crc32": "64b84c28",
+      "sha1": "b14b842687d4758b355ccfacc88ca744d805d514",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-11-02T13:17:56.385990-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409493",
+      "size": "40410",
+      "md5": "ba620cca531d5f7e6344744797d3a966",
+      "crc32": "4a2bd039",
+      "sha1": "2d59f4e68f4a41e41fe573a9c0aa27c29a3120e9",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-11-02T13:17:56.385990-04:00.jpg",
+      "source": "original",
+      "mtime": "1667409489",
+      "size": "316971",
+      "md5": "5ce35b489d6a46be9f4632370fd25141",
+      "crc32": "b67029ac",
+      "sha1": "173a16ebeaab0517b195b469a2b0956eca5d1011",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "conversationus-2022-11-02T13:17:56.385990-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409494",
+      "size": "1504",
+      "md5": "bafbc9d16fc545c4185e512069086950",
+      "crc32": "e6b41e08",
+      "sha1": "684fd0cd44e39fb72d602c091df8feffde62df2f",
+      "format": "JSON"
+    },
+    {
+      "name": "conversationus-2022-11-02T13:17:56.385990-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409496",
+      "size": "25045",
+      "md5": "0d0bf2a426390784d5fe99e5963f7f23",
+      "crc32": "1b4fb30e",
+      "sha1": "9986af3c9e5c8d540d227330bdcdcffa707fbaa8",
+      "format": "JSON"
+    },
+    {
       "name": "conversationus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc45bd8117da5d82501915cfcfc217a0416f9a52",
-      "mtime": "1667368300",
-      "size": "289558",
-      "md5": "f8465afe0002257b6261456b27e84291",
-      "crc32": "1a9a9191",
-      "sha1": "6daffdc6856a2ff4947bdfccffec2b6d4a62261d",
+      "btih": "0429b9d6910ef78a26c3069b33a340c861733cdd",
+      "mtime": "1667409550",
+      "size": "290651",
+      "md5": "feeaf29fac9865fed6ca6a0401f8d241",
+      "crc32": "8d862db8",
+      "sha1": "f37ab05c036d5d913e5c734f5ee2c499cedffa82",
       "format": "Archive BitTorrent"
     },
     {
       "name": "conversationus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "07478995be6c5a28fcac67a2b252dfa4",
+      "md5": "7d0d91ce1ed2279d1b9e35a21f16ceef",
       "summation": "md5"
     },
     {
       "name": "conversationus-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367431",
-      "size": "1695744",
-      "md5": "1c99f057f52676345b013772a7d52135",
-      "crc32": "1907531a",
-      "sha1": "8c920af621f3ecbb95450a6afd21c61935976c8a",
+      "mtime": "1667409501",
+      "size": "1703936",
+      "md5": "dd6fcc23318edcb7433ba3b0663ede55",
+      "crc32": "1dfc718c",
+      "sha1": "0ee4300437ef4e5cbacb2cee5196d8e366adc006",
       "format": "Metadata"
     },
     {
@@ -13814,9 +13865,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1334,
-  "item_last_updated": 1667368300,
-  "item_size": 97181063,
+  "files_count": 1339,
+  "item_last_updated": 1667409550,
+  "item_size": 97625061,
   "metadata": {
     "identifier": "conversationus-2022",
     "collection": [
@@ -13833,10 +13884,21 @@
     "publicdate": "2022-07-09 03:57:31",
     "addeddate": "2022-07-09 03:57:31"
   },
+  "pending_tasks": true,
   "server": "ia601504.us.archive.org",
-  "uniq": 2043734213,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459900285,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 100330622,
   "workable_servers": [
-    "ia601504.us.archive.org",
-    "ia801504.us.archive.org"
+    "ia601504.us.archive.org"
   ]
 }

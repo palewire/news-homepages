@@ -1,5 +1,5 @@
 {
-  "created": 1667368493,
+  "created": 1667409525,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/31/items/dailyamerican-2022",
@@ -5348,31 +5348,82 @@
       "sha1": "cb43b3085cf98e1b3891fae5be335fa77c21fc74"
     },
     {
+      "name": "dailyamerican-2022-11-02T13:17:25.475426-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667409455",
+      "size": "24226",
+      "md5": "679c588c2469ccd4e59b832d826d6f6f",
+      "crc32": "94a3e055",
+      "sha1": "9188ae45f1f06bb6df67e413d8c80469ba96ca2d",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-11-02T13:17:25.475426-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667409457",
+      "size": "35520",
+      "md5": "774a5d3c5c30fdd3a3a40a7a49b6ce8d",
+      "crc32": "87fbea67",
+      "sha1": "74da2fced5349abbfdb21a6778b0cb52b44920b1",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-11-02T13:17:25.475426-04:00.jpg",
+      "source": "original",
+      "mtime": "1667409454",
+      "size": "248527",
+      "md5": "51a474858ad26546ecaba407885456b2",
+      "crc32": "1b2732ba",
+      "sha1": "f8b0c8f626d6820e573ae3dbc1c949dcb7a6a3d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyamerican-2022-11-02T13:17:25.475426-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667409461",
+      "size": "1522",
+      "md5": "7c9b79c55a992465cf43a6587f3b4996",
+      "crc32": "cb624925",
+      "sha1": "7a1d7fab476bbb3eb29989e177718cc98f89a449",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyamerican-2022-11-02T13:17:25.475426-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667409464",
+      "size": "93377",
+      "md5": "9450236294264da933bf64d71f9e803e",
+      "crc32": "dc236767",
+      "sha1": "219521d7c825a0982b41ddcc4d1b5bded9a6d9ca",
+      "format": "JSON"
+    },
+    {
       "name": "dailyamerican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4773b64aba821526c4ab5f2a8cb925f8b1228de1",
-      "mtime": "1667368446",
-      "size": "112890",
-      "md5": "72c2f1016ae32addaf6c05a9b84d78f7",
-      "crc32": "436b79a1",
-      "sha1": "f1e5d468d91cbbb49aeabe60e41ee555b0ce646f",
+      "btih": "0b4c83c3081d7b78842c91d4fa4abf6a7c2e2fad",
+      "mtime": "1667409508",
+      "size": "113978",
+      "md5": "dbdafd4586ed7526d882516d4306f74c",
+      "crc32": "988e3440",
+      "sha1": "9e7ebf891251d3e70206faaac521950e4d7ec254",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyamerican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "11c050db011947587079bd273e97e354",
+      "md5": "cc7e0a91444468eb8ffea2724263f528",
       "summation": "md5"
     },
     {
       "name": "dailyamerican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667367510",
-      "size": "679936",
-      "md5": "19f7d2695211b1f15a03aafeb3c6833c",
-      "crc32": "5ba946ac",
-      "sha1": "699d6080b51b46634f39accc6abe383fb2b71a84",
+      "mtime": "1667409468",
+      "size": "684032",
+      "md5": "8ee5170ce2967269aae03b340e6b3f80",
+      "crc32": "30f74527",
+      "sha1": "9c0575af347e1077d4b9d45f6c2b966367181fa6",
       "format": "Metadata"
     },
     {
@@ -5386,9 +5437,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 521,
-  "item_last_updated": 1667368446,
-  "item_size": 37076453,
+  "files_count": 526,
+  "item_last_updated": 1667409508,
+  "item_size": 37484809,
   "metadata": {
     "identifier": "dailyamerican-2022",
     "collection": [
@@ -5405,10 +5456,21 @@
     "publicdate": "2022-09-20 17:43:40",
     "addeddate": "2022-09-20 17:43:40"
   },
+  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "uniq": 446353875,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459899905,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 770964578,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia601407.us.archive.org"
   ]
 }
