@@ -1,5 +1,5 @@
 {
-  "created": 1667385888,
+  "created": 1667429679,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/26/items/amestribnews-2022",
@@ -19179,31 +19179,155 @@
       "format": "JSON"
     },
     {
+      "name": "amestribnews-2022-11-02T05:40:26.291566-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amestribnews-2022-11-02T05:40:26.291566-05:00.jpg",
+      "mtime": "1667387739",
+      "size": "9232",
+      "md5": "572fd167ff314980abf4ac97208448f3",
+      "crc32": "37c7abb0",
+      "sha1": "86afd07db73938be5e87a7589e25f99db64a8267"
+    },
+    {
+      "name": "amestribnews-2022-11-02T10:55:19.840433-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667404535",
+      "size": "23618",
+      "md5": "d01c66ee901a039dffb2c665917e7b2a",
+      "crc32": "9a1a9df1",
+      "sha1": "ab3508ee3302e00c4046d15dd57163331e18fa2d",
+      "format": "JSON"
+    },
+    {
+      "name": "amestribnews-2022-11-02T10:55:19.840433-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667404537",
+      "size": "33964",
+      "md5": "52ed781b2e2ff8fd3ccd3824b4912021",
+      "crc32": "5a03815d",
+      "sha1": "49ef63a2cbd3f3cbd5156a771924184bfc50a99f",
+      "format": "JSON"
+    },
+    {
+      "name": "amestribnews-2022-11-02T10:55:19.840433-05:00.jpg",
+      "source": "original",
+      "mtime": "1667404533",
+      "size": "281397",
+      "md5": "a662d9696db6ebddaa4bf60c8a76ea1c",
+      "crc32": "93386fd7",
+      "sha1": "b6173e673c8c997203eb327036e2f1525d75e42a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amestribnews-2022-11-02T10:55:19.840433-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667404539",
+      "size": "1477",
+      "md5": "a278650d977e79578fbacd1beea0699f",
+      "crc32": "75de3a6a",
+      "sha1": "99c48ef902f2aa66784166e08d092731dc8f02f5",
+      "format": "JSON"
+    },
+    {
+      "name": "amestribnews-2022-11-02T10:55:19.840433-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667404541",
+      "size": "108681",
+      "md5": "51527473086f2fa7f6d2cb7a4369dfad",
+      "crc32": "86da2888",
+      "sha1": "423135fd8fe0992a376508f6d547a53caccd79fc",
+      "format": "JSON"
+    },
+    {
+      "name": "amestribnews-2022-11-02T10:55:19.840433-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amestribnews-2022-11-02T10:55:19.840433-05:00.jpg",
+      "mtime": "1667407069",
+      "size": "9851",
+      "md5": "a2cc35df8b49b5094b9736fc53f39d7f",
+      "crc32": "968c1bf9",
+      "sha1": "ff306ccaee2d3f7d225d7de831b990537c96127f"
+    },
+    {
+      "name": "amestribnews-2022-11-02T17:52:21.555893-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667429553",
+      "size": "24691",
+      "md5": "b7ca921cd8fde76c6ca1d8c6eaf57fe4",
+      "crc32": "6ad652c0",
+      "sha1": "07a00580289e9ea85973b3db94788500488e6fd9",
+      "format": "JSON"
+    },
+    {
+      "name": "amestribnews-2022-11-02T17:52:21.555893-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667429555",
+      "size": "33902",
+      "md5": "f10ebeda6a186720731b1a1cd2c466c3",
+      "crc32": "b4c7453b",
+      "sha1": "e3bed426a186d7e50aaa495a27d8caf3a4bb0647",
+      "format": "JSON"
+    },
+    {
+      "name": "amestribnews-2022-11-02T17:52:21.555893-05:00.jpg",
+      "source": "original",
+      "mtime": "1667429551",
+      "size": "289531",
+      "md5": "a53cbc3cf51289ea20d4cc443f812fcf",
+      "crc32": "454e7233",
+      "sha1": "42e33f5d685f7a96c9068c860e6138a22ce7c096",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "amestribnews-2022-11-02T17:52:21.555893-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667429557",
+      "size": "1476",
+      "md5": "76be77fb977eb2cd686db51902c68416",
+      "crc32": "6780c971",
+      "sha1": "479849f56a87c67b5ee0190d854ede5bc3ca1acf",
+      "format": "JSON"
+    },
+    {
+      "name": "amestribnews-2022-11-02T17:52:21.555893-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667429558",
+      "size": "111880",
+      "md5": "440f5cf7771da40dd824ebd646806703",
+      "crc32": "c3e2e924",
+      "sha1": "f5c7df849cf6fc7039e6afe87b087b7ee7191170",
+      "format": "JSON"
+    },
+    {
       "name": "amestribnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d805c7f91e86dcea34ade9113200109180ef47a8",
-      "mtime": "1667385811",
-      "size": "397780",
-      "md5": "ff364c2962c5c388856398e76cb0d036",
-      "crc32": "57646f3d",
-      "sha1": "4c5725eef858732a0f29975aab5828849b3ee9da",
+      "btih": "8afc50a433fe70c9065a429ad97297aec5bee219",
+      "mtime": "1667429663",
+      "size": "400344",
+      "md5": "2ed9fe6c3c7bf21ea4e8c0e50ff92e74",
+      "crc32": "e7ab8b81",
+      "sha1": "3fde28504a443680a5da040e52a5de9edd89165a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amestribnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e9cb8b8fdd4e124693ac6bc357af4f36",
+      "md5": "e7ec31416efaf7a9897efc68ead97a04",
       "summation": "md5"
     },
     {
       "name": "amestribnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667385654",
-      "size": "2310144",
-      "md5": "ec19a7df1771bd66d31a3e89980448ce",
-      "crc32": "b8b8d9b9",
-      "sha1": "9e50dddd76b00d6e5c78a0165933f44d51d94f9e",
+      "mtime": "1667429580",
+      "size": "2326528",
+      "md5": "c514ac0a7fe4766b3d58b8cabcc4428b",
+      "crc32": "11aa40d5",
+      "sha1": "2d9f28e69ff06afd7b9c2f142098afc9e57f5043",
       "format": "Metadata"
     },
     {
@@ -19217,9 +19341,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1852,
-  "item_last_updated": 1667385811,
-  "item_size": 134171056,
+  "files_count": 1864,
+  "item_last_updated": 1667429663,
+  "item_size": 135119704,
   "metadata": {
     "identifier": "amestribnews-2022",
     "collection": [
@@ -19241,7 +19365,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459641234,
+      "task_id": 3460115207,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -19249,7 +19373,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1808021774,
+  "uniq": 353134538,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

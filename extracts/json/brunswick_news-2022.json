@@ -1,5 +1,5 @@
 {
-  "created": 1667385907,
+  "created": 1667429961,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/brunswick_news-2022",
@@ -12749,31 +12749,93 @@
       "format": "JSON"
     },
     {
+      "name": "brunswick_news-2022-11-02T06:43:39.827318-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brunswick_news-2022-11-02T06:43:39.827318-04:00.jpg",
+      "mtime": "1667387923",
+      "size": "8922",
+      "md5": "f69d3296dc9248a3944207e6a368a9bd",
+      "crc32": "ac4fdf59",
+      "sha1": "3a6f36add010a422541ba88f8f022d3f81d05cfe"
+    },
+    {
+      "name": "brunswick_news-2022-11-02T18:57:48.764938-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667429875",
+      "size": "24978",
+      "md5": "adcc8b8044cbd6b4881d8d76bad42da3",
+      "crc32": "a754396e",
+      "sha1": "7dd39b4574a24c6e2616a853088cbe3ec9bca6e5",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-11-02T18:57:48.764938-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667429876",
+      "size": "73189",
+      "md5": "6031188debf2d538f47675f218f431ba",
+      "crc32": "e0c286a5",
+      "sha1": "f606849076d2823fd1cc6066486c96505df83ba5",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-11-02T18:57:48.764938-04:00.jpg",
+      "source": "original",
+      "mtime": "1667429874",
+      "size": "294091",
+      "md5": "1429539ec2a8eba497e123b77b272d51",
+      "crc32": "efe47c32",
+      "sha1": "51d9e62484e986c7964711ecef9375e4739acfa1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brunswick_news-2022-11-02T18:57:48.764938-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667429878",
+      "size": "1513",
+      "md5": "8574ae8c89df8636680e14b7efb631d0",
+      "crc32": "899b1a87",
+      "sha1": "93bb6703dc1d4d76c6b8829e72ef875b97f9083e",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-11-02T18:57:48.764938-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667429880",
+      "size": "37577",
+      "md5": "a9ebd66d8f3447c8ae42d1d59640b3b1",
+      "crc32": "c6f2cb03",
+      "sha1": "a4052c47fc316f5bac0ab311e8c70afed4a9be62",
+      "format": "JSON"
+    },
+    {
       "name": "brunswick_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b0f95da3a5625f8463f6e44336830333b662392a",
-      "mtime": "1667385897",
-      "size": "268163",
-      "md5": "b0dcdd85d1f54e6d4d68b88cad866e97",
-      "crc32": "06f93bd5",
-      "sha1": "50ccaf162399406f9421e333e0d132c7d2e50d83",
+      "btih": "e6fc270d2eb22f7519b7f8c16fba42593e2e8096",
+      "mtime": "1667429949",
+      "size": "269466",
+      "md5": "a93854655195bacf335e87ced7413c30",
+      "crc32": "f0040ff3",
+      "sha1": "ba711a8f535edbb214ed2e0f2156863aef100bd1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brunswick_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c3bc62d00b2b0bbe1973066126a04c2f",
+      "md5": "731dbf692b41cde58f960f0651f77244",
       "summation": "md5"
     },
     {
       "name": "brunswick_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667385842",
-      "size": "1576960",
-      "md5": "33cc75d9324a097296d92873af23571b",
-      "crc32": "8be27b1a",
-      "sha1": "08e3bd7ae456e288a4f39cbdaf2360998885e03e",
+      "mtime": "1667429897",
+      "size": "1589248",
+      "md5": "483bd3a84f79b18a65a9d33583c69cbd",
+      "crc32": "9c8396e7",
+      "sha1": "580c3cc0b6887a901626a3f2cf72956dc85fe991",
       "format": "Metadata"
     },
     {
@@ -12787,9 +12849,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1236,
-  "item_last_updated": 1667385897,
-  "item_size": 90310115,
+  "files_count": 1242,
+  "item_last_updated": 1667429949,
+  "item_size": 90763976,
   "metadata": {
     "identifier": "brunswick_news-2022",
     "collection": [
@@ -12811,7 +12873,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459640993,
+      "task_id": 3460117844,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12819,7 +12881,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1298303785,
+  "uniq": 1891109360,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

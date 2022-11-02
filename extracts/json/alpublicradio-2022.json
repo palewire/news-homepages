@@ -1,5 +1,5 @@
 {
-  "created": 1667385749,
+  "created": 1667429567,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/2/items/alpublicradio-2022",
@@ -6379,31 +6379,93 @@
       "format": "JSON"
     },
     {
+      "name": "alpublicradio-2022-11-02T05:41:02.354174-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-11-02T05:41:02.354174-05:00.jpg",
+      "mtime": "1667387593",
+      "size": "10241",
+      "md5": "66494a19222a47634e6a5ae6bf841814",
+      "crc32": "bd5bcf91",
+      "sha1": "98090697a643e6cdbbb3987b183fd57ee4f0f645"
+    },
+    {
+      "name": "alpublicradio-2022-11-02T17:51:47.536388-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667429512",
+      "size": "25184",
+      "md5": "151b40d54f2f4217433a018391497843",
+      "crc32": "c9370eeb",
+      "sha1": "a2aea892505fb47003a7fc4537d4ad84b8ab6dc1",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-11-02T17:51:47.536388-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667429514",
+      "size": "40815",
+      "md5": "82e388874d2c3674d7dc08ef1a1c4009",
+      "crc32": "a1225f5d",
+      "sha1": "70048af9ca3181f5aa7f2e4ed4a34213aec643e8",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-11-02T17:51:47.536388-05:00.jpg",
+      "source": "original",
+      "mtime": "1667429510",
+      "size": "285312",
+      "md5": "6a7981201b2b795af1ba175e1e3ea5ee",
+      "crc32": "446bd487",
+      "sha1": "86e0e54bc676a0a259db5e6249325e6e34897aaf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alpublicradio-2022-11-02T17:51:47.536388-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667429517",
+      "size": "1423",
+      "md5": "2977be1c39276ebb264f53c05189d4f3",
+      "crc32": "2ab1b9a9",
+      "sha1": "d049ef2e2374fb128f406dbb568351ea0877d7e5",
+      "format": "JSON"
+    },
+    {
+      "name": "alpublicradio-2022-11-02T17:51:47.536388-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667429518",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "alpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1274ce6ac0ccb54f3aa6f66b1c5541d2e6221617",
-      "mtime": "1667385745",
-      "size": "134240",
-      "md5": "5f0338f32cac6dc3bbc579bd6aac7cf9",
-      "crc32": "736e68d0",
-      "sha1": "a2d7850d310e5e553fdd79e0182036b4d3fe7f8b",
+      "btih": "0393564ee0bcfd1f8b98a5fb8936ed3a7a1ba160",
+      "mtime": "1667429562",
+      "size": "135516",
+      "md5": "bee6d0452772bf6a3d31d0c5408df391",
+      "crc32": "b22938df",
+      "sha1": "90fb27fd61477798c6ca9692dee9f1b22fcb481f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "991b9abd527d0f5f753195285a9bb523",
+      "md5": "d151e34b60a450283479cb2e15664b03",
       "summation": "md5"
     },
     {
       "name": "alpublicradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667385705",
-      "size": "811008",
-      "md5": "f71afe59c8a553f5670d17e028265e13",
-      "crc32": "439a6777",
-      "sha1": "605db6eea13155944f15ef45d5af063816f88bda",
+      "mtime": "1667429521",
+      "size": "819200",
+      "md5": "be481ca20a08394c64eb754d1440700c",
+      "crc32": "29a4a96b",
+      "sha1": "39eb02331502afd3157571bb0c0072fef9c1e679",
       "format": "Metadata"
     },
     {
@@ -6417,9 +6479,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 621,
-  "item_last_updated": 1667385745,
-  "item_size": 37915856,
+  "files_count": 627,
+  "item_last_updated": 1667429562,
+  "item_size": 38288501,
   "metadata": {
     "identifier": "alpublicradio-2022",
     "collection": [
@@ -6441,7 +6503,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459639034,
+      "task_id": 3460114097,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6449,7 +6511,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 302753816,
+  "uniq": 532717135,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]
