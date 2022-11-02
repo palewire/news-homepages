@@ -1,5 +1,5 @@
 {
-  "created": 1667316072,
+  "created": 1667360387,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/19/items/thealligator-2022",
@@ -15288,31 +15288,82 @@
       "sha1": "579706472256791c7e7aefcc732ace329adf340e"
     },
     {
+      "name": "thealligator-2022-11-01T23:38:30.041222-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667360313",
+      "size": "32178",
+      "md5": "cb9e5ee1acfd67bfc7a3f61b080472d6",
+      "crc32": "9280305b",
+      "sha1": "072768049a2d4ea1d28fbc654127f48cd35bcdad",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-11-01T23:38:30.041222-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667360314",
+      "size": "23461",
+      "md5": "335ebe8ebb1fa6712de6623634ffadbc",
+      "crc32": "44329019",
+      "sha1": "9a59951804b83ebc961b3f05b4e2d68da5b9c3bc",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-11-01T23:38:30.041222-04:00.jpg",
+      "source": "original",
+      "mtime": "1667360311",
+      "size": "284922",
+      "md5": "8cea94abac5a35552b40d277dbabd627",
+      "crc32": "c027adae",
+      "sha1": "3aa55909462a8f3eb8d9eac5ae59557839339a86",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thealligator-2022-11-01T23:38:30.041222-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667360316",
+      "size": "1483",
+      "md5": "3f4f0afd837059a02d3fbc1989bd46e2",
+      "crc32": "6c855cfa",
+      "sha1": "9c048d5ec15ec41aa7a3886bd9e03dcadd4eaea1",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-11-01T23:38:30.041222-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667360317",
+      "size": "63438",
+      "md5": "375874134059856399ea7fceaa2d038d",
+      "crc32": "5f8fa61c",
+      "sha1": "871567f3415f9fd01e8d65c3c6e11370f2e14081",
+      "format": "JSON"
+    },
+    {
       "name": "thealligator-2022_archive.torrent",
       "source": "metadata",
-      "btih": "37128d9093bd60640e84926a40cfdd1541b7ae87",
-      "mtime": "1667316030",
-      "size": "317699",
-      "md5": "4e5c8a58612c8f55e625258a216dca91",
-      "crc32": "2e405585",
-      "sha1": "df6fd88777742674e03cf6dbe7cea41fb9995f03",
+      "btih": "1556661ab587b3b17e51e9b0e793d88c3b846f60",
+      "mtime": "1667360380",
+      "size": "318782",
+      "md5": "ffbb52bc5e15605098ef7251188ffb1a",
+      "crc32": "623b3e81",
+      "sha1": "d8a1420f7fb4d9c4ee4934a0233dda59205cf6a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thealligator-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a036ab87dec9b75bb9370f3c93b17fb9",
+      "md5": "997335decf13eaa53a305c52ceb87084",
       "summation": "md5"
     },
     {
       "name": "thealligator-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667315047",
-      "size": "1843200",
-      "md5": "3ef0ce9040cde3dd383be2f4fd4abbdd",
-      "crc32": "84ffb80f",
-      "sha1": "44d99b26edde77953d4a5f813d05deeec3c02430",
+      "mtime": "1667360323",
+      "size": "1851392",
+      "md5": "8ea01e37ed7ef20767f17467fc543d9f",
+      "crc32": "32e0b611",
+      "sha1": "64a5d5a67cddcacc03bc49a48a1b6655ed581e02",
       "format": "Metadata"
     },
     {
@@ -15326,9 +15377,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1477,
-  "item_last_updated": 1667316030,
-  "item_size": 113947278,
+  "files_count": 1482,
+  "item_last_updated": 1667360380,
+  "item_size": 114362035,
   "metadata": {
     "identifier": "thealligator-2022",
     "collection": [
@@ -15345,10 +15396,21 @@
     "publicdate": "2022-06-24 23:02:17",
     "addeddate": "2022-06-24 23:02:17"
   },
-  "server": "ia801509.us.archive.org",
-  "uniq": 1595558826,
+  "pending_tasks": true,
+  "server": "ia601509.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459368801,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 230538490,
   "workable_servers": [
-    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

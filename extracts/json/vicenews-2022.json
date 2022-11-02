@@ -1,5 +1,5 @@
 {
-  "created": 1667320384,
+  "created": 1667360658,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/16/items/vicenews-2022",
@@ -16258,31 +16258,82 @@
       "sha1": "1c3ec5b01946d63ea3d0326ff19e5718fb1238cf"
     },
     {
+      "name": "vicenews-2022-11-01T23:42:21.144331-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667360552",
+      "size": "12238",
+      "md5": "4a109c78353f160fbd8dc473897d55d9",
+      "crc32": "f2829a25",
+      "sha1": "b76cc133f4e1ae1cc0a0c6e85e4ea079e13662b8",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-11-01T23:42:21.144331-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667360553",
+      "size": "7062",
+      "md5": "0b91497247a9b6a6388dce2ff6409749",
+      "crc32": "42eba609",
+      "sha1": "07845dfe6f926d26618ee2f12c7122fdc084f949",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-11-01T23:42:21.144331-04:00.jpg",
+      "source": "original",
+      "mtime": "1667360550",
+      "size": "192866",
+      "md5": "4598631b0f6ca8f2f454ba89d60a5c69",
+      "crc32": "6a12d9c7",
+      "sha1": "dd755992774f2bdb9a5489421164299e9046744f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vicenews-2022-11-01T23:42:21.144331-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667360555",
+      "size": "1566",
+      "md5": "e8d2a0036762734a0dd39f717e7f546f",
+      "crc32": "36fdbf30",
+      "sha1": "edf5fa0b91957e36fab85c9b9683e3f589c37d0c",
+      "format": "JSON"
+    },
+    {
+      "name": "vicenews-2022-11-01T23:42:21.144331-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667360557",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "vicenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "436d902c44c5da232f6f1635946c9f5d7266107a",
-      "mtime": "1667320151",
-      "size": "329250",
-      "md5": "e0af558593aacc5849565f99a477f4c8",
-      "crc32": "5eadd192",
-      "sha1": "62aefdaea790b049e178ce7f4c2ba6af265de007",
+      "btih": "5bd5080c437f1d8c184ffd74bf1272acec4a2741",
+      "mtime": "1667360646",
+      "size": "330290",
+      "md5": "96423365f68653e7dacaad724ddb1141",
+      "crc32": "4ec186b3",
+      "sha1": "d5545b158a1b11d9e7fc0479b5cc77aadfe65e36",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vicenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58056892cfa702b3222a3b96ecef049d",
+      "md5": "6ce80f277699c39898b30968ccbb6520",
       "summation": "md5"
     },
     {
       "name": "vicenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667319132",
-      "size": "1941504",
-      "md5": "0de6c9d18a003cf6a5cfbfd76cc3c48c",
-      "crc32": "b3159901",
-      "sha1": "f5d0ee9ad2a4fad85417bf9592525cf2efe39daa",
+      "mtime": "1667360578",
+      "size": "1949696",
+      "md5": "112438b0074702883890fa46c2ba3421",
+      "crc32": "d6447606",
+      "sha1": "acdbd177a021b71b02f66217c0e55938dfc862d6",
       "format": "Metadata"
     },
     {
@@ -16296,9 +16347,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1570,
-  "item_last_updated": 1667320151,
-  "item_size": 78539436,
+  "files_count": 1575,
+  "item_last_updated": 1667360646,
+  "item_size": 78762602,
   "metadata": {
     "identifier": "vicenews-2022",
     "collection": [
@@ -16315,10 +16366,21 @@
     "publicdate": "2022-06-19 23:29:15",
     "addeddate": "2022-06-19 23:29:15"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 434383874,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459371568,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1534381243,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667316187,
+  "created": 1667360485,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/16/items/thecityny-2022",
@@ -16428,31 +16428,82 @@
       "sha1": "86580f77603c2ca444adc95c96a25d49779f47c1"
     },
     {
+      "name": "thecityny-2022-11-01T23:40:15.175129-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667360419",
+      "size": "30929",
+      "md5": "974da0b4e1908d7ad852e4b0b820b9ea",
+      "crc32": "385198e2",
+      "sha1": "1faafbf75219396606fc8d851c66f532cc4857d5",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-11-01T23:40:15.175129-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667360420",
+      "size": "39034",
+      "md5": "4cd1bce8a04e16b919e23eb255f233ce",
+      "crc32": "866d4452",
+      "sha1": "722fbadca0ff2fedcb1b51e7bd6abfda32a2d578",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-11-01T23:40:15.175129-04:00.jpg",
+      "source": "original",
+      "mtime": "1667360417",
+      "size": "199668",
+      "md5": "695f58ee07d4389e5be4c5d25a706bd2",
+      "crc32": "3d1835a4",
+      "sha1": "94d33122c9da3dcc13b6ee589556fcc1fc314041",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-11-01T23:40:15.175129-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667360422",
+      "size": "1456",
+      "md5": "fe64b57923b52e977e8be0d25482efbf",
+      "crc32": "2ce2894f",
+      "sha1": "d5eea3d56310017634354a1527323a9bd07a30bb",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-11-01T23:40:15.175129-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667360423",
+      "size": "22403",
+      "md5": "abfbef8ed7437e74838e3f9abeab0ff3",
+      "crc32": "1f9f6a23",
+      "sha1": "fc66c299cbb9c1620c413cffda41cc8c81bf79f8",
+      "format": "JSON"
+    },
+    {
       "name": "thecityny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b5997d9d6b97e8f7746ab86af564f234facd82a8",
-      "mtime": "1667316072",
-      "size": "335242",
-      "md5": "5738120d9eebe2d0a39fbc6944686a07",
-      "crc32": "1f4fe220",
-      "sha1": "c5af0e23dc24f49f35218dd5d4b9aff1e85286a1",
+      "btih": "15505a8f2441967202aeeb23963de3be4e19bf5b",
+      "mtime": "1667360479",
+      "size": "336310",
+      "md5": "3349151fa24c526c15ad0ac63e916f42",
+      "crc32": "2e01fd3d",
+      "sha1": "53b6289c1fc6075409e0789a3f9837798cc230df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecityny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "959a76cc28bebed2836beb09b6af2367",
+      "md5": "be21eff6d1e2e33e16c14ab2d967e9b6",
       "summation": "md5"
     },
     {
       "name": "thecityny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667315062",
-      "size": "1961984",
-      "md5": "e68b828601d42be6652b0d4f77d05ce3",
-      "crc32": "5f0ebe31",
-      "sha1": "ad4e07a70cf9401ae848e4b0f96af6ca093d9ee6",
+      "mtime": "1667360427",
+      "size": "1974272",
+      "md5": "0c1c095042c07cfccd0deeff57330abb",
+      "crc32": "41b0cdaa",
+      "sha1": "c162f72d7cbc4669168ada92f96b8558de14dd26",
       "format": "Metadata"
     },
     {
@@ -16466,9 +16517,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1586,
-  "item_last_updated": 1667316072,
-  "item_size": 100222858,
+  "files_count": 1591,
+  "item_last_updated": 1667360479,
+  "item_size": 100529704,
   "metadata": {
     "identifier": "thecityny-2022",
     "collection": [
@@ -16485,10 +16536,21 @@
     "publicdate": "2022-06-19 23:28:39",
     "addeddate": "2022-06-19 23:28:39"
   },
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "uniq": 1578382363,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459369788,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 244782419,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601502.us.archive.org"
   ]
 }

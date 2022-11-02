@@ -1,5 +1,5 @@
 {
-  "created": 1667319669,
+  "created": 1667360632,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/4/items/vanityfair-2022",
@@ -13906,31 +13906,82 @@
       "sha1": "091881836e86a2def9ace1edbf98ff9ea0f66623"
     },
     {
+      "name": "vanityfair-2022-11-01T23:42:34.974989-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667360566",
+      "size": "33906",
+      "md5": "d55a5210ed4d93533126472fff795758",
+      "crc32": "a0ff719d",
+      "sha1": "dde4d1c45bbc78a828b35ce78c3a3ff6b71e36c9",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-11-01T23:42:34.974989-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667360568",
+      "size": "19455",
+      "md5": "0058edf98fe6f53eb03518a15c0eae5f",
+      "crc32": "22eb55b6",
+      "sha1": "599f0352c005c61fc1e5fed3183d8253112133a5",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-11-01T23:42:34.974989-04:00.jpg",
+      "source": "original",
+      "mtime": "1667360565",
+      "size": "249689",
+      "md5": "da4006cdacf19c82799aecaacd9c2dc4",
+      "crc32": "8180d202",
+      "sha1": "4a1689596e8dbabea455813642f2a1c986f216e4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vanityfair-2022-11-01T23:42:34.974989-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667360569",
+      "size": "1486",
+      "md5": "f0444ca1fceab1c48854b50fbc72ac01",
+      "crc32": "fdb68b7b",
+      "sha1": "0e5dedfb9165a6cb6042e13d0f84bcdad66ced30",
+      "format": "JSON"
+    },
+    {
+      "name": "vanityfair-2022-11-01T23:42:34.974989-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667360571",
+      "size": "88125",
+      "md5": "e22858d34220fc0ddf23d88ff6c5a8a2",
+      "crc32": "e72ba977",
+      "sha1": "a44d990132cb6720ffda65b46411d03eefe488d6",
+      "format": "JSON"
+    },
+    {
       "name": "vanityfair-2022_archive.torrent",
       "source": "metadata",
-      "btih": "252a7769f8d4a5e397f5cc7356e9cef4707cfdfd",
-      "mtime": "1667319626",
-      "size": "286337",
-      "md5": "28eb9c0d8c10f3dc4138846efeaa9e30",
-      "crc32": "1f544e68",
-      "sha1": "425fea2af516b325cf4d43113188f75f3b2117b3",
+      "btih": "3addcbfce392162563d2ab31b72b4392963a742e",
+      "mtime": "1667360626",
+      "size": "287410",
+      "md5": "391c6b8e303876ef67138fd433760fd7",
+      "crc32": "796a4b53",
+      "sha1": "f03f94ae1b15487fe7a65895b5e6f4956ae13275",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vanityfair-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "265b3499b654c8fd9ce370e0de79b40d",
+      "md5": "e0303ca3dba379d97f610273305858d1",
       "summation": "md5"
     },
     {
       "name": "vanityfair-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667319052",
-      "size": "1695744",
-      "md5": "c03745f0c2d9b749fb46770096c3231c",
-      "crc32": "4212bf35",
-      "sha1": "79beede60132b8b1837ce2ac8fde16adbd21ae70",
+      "mtime": "1667360576",
+      "size": "1703936",
+      "md5": "b20255d3c95fe67bc52fc87974c490ea",
+      "crc32": "6059b86a",
+      "sha1": "a5513a6f879c8f5e2c02a12d51cf2da075e9a7be",
       "format": "Metadata"
     },
     {
@@ -13944,9 +13995,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1346,
-  "item_last_updated": 1667319626,
-  "item_size": 91951532,
+  "files_count": 1351,
+  "item_last_updated": 1667360626,
+  "item_size": 92353458,
   "metadata": {
     "identifier": "vanityfair-2022",
     "collection": [
@@ -13963,10 +14014,21 @@
     "publicdate": "2022-07-04 21:47:44",
     "addeddate": "2022-07-04 21:47:44"
   },
-  "server": "ia801401.us.archive.org",
-  "uniq": 133874616,
+  "pending_tasks": true,
+  "server": "ia601401.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459371309,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1030315989,
   "workable_servers": [
-    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

@@ -1,6 +1,5 @@
 {
-  "conflict": 1667316198,
-  "created": 1667316198,
+  "created": 1667360371,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/21/items/spotlight4dc-2022",
@@ -8265,31 +8264,82 @@
       "sha1": "7407a17d52ae738e191cc3a3093fb084330741f7"
     },
     {
+      "name": "spotlight4dc-2022-11-01T23:38:24.441742-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667360307",
+      "size": "19291",
+      "md5": "a7a5c7dadc8ade1ff6ee3c6d4235f0fb",
+      "crc32": "934e758e",
+      "sha1": "6d9be45a09c3494acd96e9150ceb170ef1b7f1d8",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlight4dc-2022-11-01T23:38:24.441742-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667360308",
+      "size": "11008",
+      "md5": "c31a66829d6211f56b74b1c32aa6903d",
+      "crc32": "2d4c3823",
+      "sha1": "7768f53cec18047a88bedce6ff38d18364a22772",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlight4dc-2022-11-01T23:38:24.441742-04:00.jpg",
+      "source": "original",
+      "mtime": "1667360306",
+      "size": "210206",
+      "md5": "6f97d7c9adf886a160152afcd4c6347e",
+      "crc32": "d2bcae25",
+      "sha1": "4ec06f7839ec08ea4743c3cb70983554c36a834f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spotlight4dc-2022-11-01T23:38:24.441742-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667360310",
+      "size": "1467",
+      "md5": "68c47f0386dbf28f18400451fd89d523",
+      "crc32": "26885039",
+      "sha1": "f55484d7eef2c50f2be7aa6c706fdddbc2747bb3",
+      "format": "JSON"
+    },
+    {
+      "name": "spotlight4dc-2022-11-01T23:38:24.441742-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667360312",
+      "size": "16275",
+      "md5": "37395c20dd9ab046a98136a2456438a3",
+      "crc32": "eaa86367",
+      "sha1": "8b83dbefc3add59fa4b890ba0baf5fea0713e566",
+      "format": "JSON"
+    },
+    {
       "name": "spotlight4dc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eac69b1a123282a1d644e001bbce3db052bd133e",
-      "mtime": "1667316190",
-      "size": "171830",
-      "md5": "e49036368db333b3c763ca487c6035b1",
-      "crc32": "b6e80ae7",
-      "sha1": "ff36f09a68019d538dc6fa4df0bfed772620b5f5",
+      "btih": "bc8a97cd5c638b6e42c8baedc19f7eaaf433044b",
+      "mtime": "1667360364",
+      "size": "172913",
+      "md5": "8dcda868dc493737840cd0ca21d57323",
+      "crc32": "519c1a11",
+      "sha1": "dc0f29004476b0d0b7ef1467dbeda37a4f89a0d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spotlight4dc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc971dbaf3d4742b1da9e7e528c29a58",
+      "md5": "f8ee88b40c4fccd4d9755af098ad190b",
       "summation": "md5"
     },
     {
       "name": "spotlight4dc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667314912",
-      "size": "1036288",
-      "md5": "7123a2348f2f05c737fc38a18d8679a2",
-      "crc32": "b7baed8c",
-      "sha1": "321449912598dc65d61b692cff993510f564ed53",
+      "mtime": "1667360320",
+      "size": "1040384",
+      "md5": "98c2b2b973aae099d10cc737d1970125",
+      "crc32": "d4e329b0",
+      "sha1": "0f261780576f406a7254e380fa1174b97e355c3d",
       "format": "Metadata"
     },
     {
@@ -8303,9 +8353,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 803,
-  "item_last_updated": 1667316190,
-  "item_size": 35757108,
+  "files_count": 808,
+  "item_last_updated": 1667360364,
+  "item_size": 36020534,
   "metadata": {
     "identifier": "spotlight4dc-2022",
     "collection": [
@@ -8327,23 +8377,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3458840144,
+      "task_id": 3459368657,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3458856087,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 420300528,
+  "uniq": 1036169366,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667316163,
+  "created": 1667360599,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/7/items/uhmallorca-2022",
@@ -11718,31 +11718,82 @@
       "sha1": "589ed660f947573b94b6e6912b7e8ee5895ed350"
     },
     {
+      "name": "uhmallorca-2022-11-02T04:42:09.224683+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667360532",
+      "size": "106690",
+      "md5": "ad969c148b0c7a8d6ee4f72d120133fa",
+      "crc32": "f6d95e84",
+      "sha1": "c65b329a8885cf0fe0876953e9d2cb3aaf704983",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-11-02T04:42:09.224683+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667360534",
+      "size": "77314",
+      "md5": "7a89fd670c4b5fbf21f03c792933c2a7",
+      "crc32": "4aedc7fd",
+      "sha1": "b1c347a81a516197ff634b689fbcc8ff65d58a92",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-11-02T04:42:09.224683+01:00.jpg",
+      "source": "original",
+      "mtime": "1667360531",
+      "size": "227646",
+      "md5": "014f5eb127160f45a2a1044eefaa7e69",
+      "crc32": "6a2255c5",
+      "sha1": "4ed6af8347550b549701dd5aaa0fe22e47241240",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "uhmallorca-2022-11-02T04:42:09.224683+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667360536",
+      "size": "1486",
+      "md5": "2fb187b48a9cf8bbf75506022f8e7f2a",
+      "crc32": "8627d4bf",
+      "sha1": "f4cb753128ed7a2321edaae71060cfa2a8ec19e5",
+      "format": "JSON"
+    },
+    {
+      "name": "uhmallorca-2022-11-02T04:42:09.224683+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667360538",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "uhmallorca-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0608ba449db2f925f4815106ca676299b66373a5",
-      "mtime": "1667316120",
-      "size": "242772",
-      "md5": "4d75dc3ad02a6df7f518fc870494121d",
-      "crc32": "635caa02",
-      "sha1": "6bde7417bfda7d71150f6b5976cc53651b118374",
+      "btih": "e26738259868de6f90246ee62a605c3835b99136",
+      "mtime": "1667360593",
+      "size": "243844",
+      "md5": "ce991cce26ccd897a18b58c87b48b3b4",
+      "crc32": "af1412c3",
+      "sha1": "f7c8ca5f254f65b0c610c0927c38f5ac2a4eac53",
       "format": "Archive BitTorrent"
     },
     {
       "name": "uhmallorca-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a544c331c9dfd4550636b3a105cdd243",
+      "md5": "97eafbf217e1e02cee70d0803f423ff9",
       "summation": "md5"
     },
     {
       "name": "uhmallorca-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667315223",
-      "size": "1454080",
-      "md5": "32c6ebd6703e70b5f4889c54fa322273",
-      "crc32": "4c41d273",
-      "sha1": "ec3a7a6203edbc865f236fb18bed25dd17ebd043",
+      "mtime": "1667360543",
+      "size": "1462272",
+      "md5": "011dc9d4a870dece3a1d5bce4224d02b",
+      "crc32": "e26ef2d6",
+      "sha1": "d1298baa04f9dae142353ba649b5a17cb6f6093f",
       "format": "Metadata"
     },
     {
@@ -11756,9 +11807,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1137,
-  "item_last_updated": 1667316120,
-  "item_size": 92789021,
+  "files_count": 1142,
+  "item_last_updated": 1667360593,
+  "item_size": 93211623,
   "metadata": {
     "identifier": "uhmallorca-2022",
     "collection": [
@@ -11775,10 +11826,21 @@
     "publicdate": "2022-07-28 18:53:58",
     "addeddate": "2022-07-28 18:53:58"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 46223944,
+  "pending_tasks": true,
+  "server": "ia601502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459370984,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1595283672,
   "workable_servers": [
-    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }
