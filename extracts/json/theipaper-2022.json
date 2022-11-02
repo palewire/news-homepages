@@ -1,5 +1,5 @@
 {
-  "created": 1667293573,
+  "created": 1667372291,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/7/items/theipaper-2022",
@@ -14359,31 +14359,217 @@
       "format": "JSON"
     },
     {
+      "name": "theipaper-2022-11-01T09:04:48.824599+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theipaper-2022-11-01T09:04:48.824599+00:00.jpg",
+      "mtime": "1667297566",
+      "size": "10569",
+      "md5": "c13e3337babf8571c9e59e66701f950f",
+      "crc32": "869330be",
+      "sha1": "56cfee3e2ce1e1dae58f8c36ad0ffe31371e796b"
+    },
+    {
+      "name": "theipaper-2022-11-01T09:34:17.050748+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667295260",
+      "size": "80853",
+      "md5": "ac3b8d41f335985eccb102ba463c5e3d",
+      "crc32": "7260a732",
+      "sha1": "12a95ebbdc3bf5336100c4f8017b00d5a3781d07",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-11-01T09:34:17.050748+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667295262",
+      "size": "66227",
+      "md5": "7852a5b3cdeb5876a9d5048b0a36f631",
+      "crc32": "0feb89cf",
+      "sha1": "9b0668c87500bb6039a0b5a11a964b03b5c9b3ae",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-11-01T09:34:17.050748+00:00.jpg",
+      "source": "original",
+      "mtime": "1667295258",
+      "size": "307776",
+      "md5": "c349b81dfac82f811a5f2594c97ad2ab",
+      "crc32": "ec2bb584",
+      "sha1": "c2b07fad87ad69514f9e7d878824260c15330b8d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theipaper-2022-11-01T09:34:17.050748+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667295264",
+      "size": "1429",
+      "md5": "be1860558d7f1caf92eaea3ff65fbfb6",
+      "crc32": "c44bf71c",
+      "sha1": "daeb05904b7a2ce95075bd8f662fd832b6774cda",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-11-01T09:34:17.050748+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667295266",
+      "size": "96",
+      "md5": "6620cf1fa94eb4f8c997ae4daeda6c7c",
+      "crc32": "de969bdf",
+      "sha1": "8207498352711f46c84e19f565fe2d6dc78e879b",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-11-01T09:34:17.050748+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theipaper-2022-11-01T09:34:17.050748+00:00.jpg",
+      "mtime": "1667298474",
+      "size": "10496",
+      "md5": "9cb7c917dc284515ac542725804ac4d3",
+      "crc32": "0da6b31b",
+      "sha1": "0434a12af3567350fbc2aacd52e9a0125fd56ca5"
+    },
+    {
+      "name": "theipaper-2022-11-01T19:38:13.724189+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667331502",
+      "size": "77036",
+      "md5": "838466a2d8371e59cfa93f3ef7beec3a",
+      "crc32": "56ea787b",
+      "sha1": "2bbb3ba403f9d688326152824939753f5c761ef8",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-11-01T19:38:13.724189+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667331503",
+      "size": "62972",
+      "md5": "8bd2ce09610bd8966c828842b34a2f42",
+      "crc32": "d37e3a37",
+      "sha1": "cd25478d9555f8542cffa66efa48a2732a1165c2",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-11-01T19:38:13.724189+00:00.jpg",
+      "source": "original",
+      "mtime": "1667331500",
+      "size": "296596",
+      "md5": "44e75b5dc5db68220a57f4c19d7824c9",
+      "crc32": "c1fae2b7",
+      "sha1": "4be84a1eebc3808d6024d0d1a6ff919b6cb1f7da",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theipaper-2022-11-01T19:38:13.724189+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667331505",
+      "size": "1429",
+      "md5": "b3cc61b10fc7b82d53f05420f38dcc3d",
+      "crc32": "2bac7651",
+      "sha1": "f3ff9bc1070ad885bf10e7be7a7f87f1e911abf1",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-11-01T19:38:13.724189+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667331506",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-11-01T19:38:13.724189+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theipaper-2022-11-01T19:38:13.724189+00:00.jpg",
+      "mtime": "1667331989",
+      "size": "10546",
+      "md5": "99cba0d4dfc96de9e760b90bfee4806b",
+      "crc32": "51679100",
+      "sha1": "abe3b7daaa4ea45b0295fc3a367c020677c5c977"
+    },
+    {
+      "name": "theipaper-2022-11-02T06:56:46.349449+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667372218",
+      "size": "83968",
+      "md5": "ee7764c0ffc75a94da8566d8f9b22a1f",
+      "crc32": "ba70201b",
+      "sha1": "ddeefb1c39e64a281cc52df341b0c22062bfbd6a",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-11-02T06:56:46.349449+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667372219",
+      "size": "65671",
+      "md5": "22044fc32031a324653a53585aa24ba1",
+      "crc32": "7fa8a262",
+      "sha1": "2f0e21ad31870d79977f1eb57c5d60109f060e5a",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-11-02T06:56:46.349449+00:00.jpg",
+      "source": "original",
+      "mtime": "1667372216",
+      "size": "293468",
+      "md5": "7f54cd09730d71fd4bc844f0fd082eda",
+      "crc32": "255c021b",
+      "sha1": "28fa56e3ee2981a34c068842f0ad2f7612d281ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theipaper-2022-11-02T06:56:46.349449+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667372221",
+      "size": "1429",
+      "md5": "d0efe7abe0deb6f1d3a2811075e7f094",
+      "crc32": "f90d54d0",
+      "sha1": "966164b32fc684e6fe2df5ce8edf90ce62d6e784",
+      "format": "JSON"
+    },
+    {
+      "name": "theipaper-2022-11-02T06:56:46.349449+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667372222",
+      "size": "27291",
+      "md5": "1d78d3cdc98d622f278113982965f8b1",
+      "crc32": "37e00f1b",
+      "sha1": "a8c316dd3b80dca8c200f3604929be0a0a4cc441",
+      "format": "JSON"
+    },
+    {
       "name": "theipaper-2022_archive.torrent",
       "source": "metadata",
-      "btih": "109d1f848825d69f71431a6be7d98e35937c2a0d",
-      "mtime": "1667293566",
-      "size": "295850",
-      "md5": "7c58ab1145e4f9a7185e32cf759941f9",
-      "crc32": "7648e923",
-      "sha1": "7e34a11a41849c190d48ca4c4857eeb0704b3180",
+      "btih": "117982c977b5afe3f406b2857995513f2884ad5b",
+      "mtime": "1667372284",
+      "size": "299667",
+      "md5": "af27eb4a4e983ddbe6f939a1b66d9d4e",
+      "crc32": "9d4b1a75",
+      "sha1": "b022cc331ada5fa0abe3f908361e67efe9c83f1b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theipaper-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5e62b8d3fa0c259a4d970fd267ea647b",
+      "md5": "07ec3eefb27e717530dead1f548e785c",
       "summation": "md5"
     },
     {
       "name": "theipaper-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667293513",
-      "size": "1777664",
-      "md5": "3c9d10d4690054e45bf43aa111b7dc55",
-      "crc32": "073a66c1",
-      "sha1": "89375c9b81ec34e614c331f5073c0932b622a837",
+      "mtime": "1667372228",
+      "size": "1802240",
+      "md5": "a8fd1abd98edee25d5d2d3d03c44cdd1",
+      "crc32": "affe18c1",
+      "sha1": "c0c969b15f82cc81c87d245a6b067ac260b1902b",
       "format": "Metadata"
     },
     {
@@ -14397,9 +14583,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1393,
-  "item_last_updated": 1667293566,
-  "item_size": 113415886,
+  "files_count": 1411,
+  "item_last_updated": 1667372284,
+  "item_size": 114842333,
   "metadata": {
     "identifier": "theipaper-2022",
     "collection": [
@@ -14421,15 +14607,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3458617460,
+      "task_id": 3459495025,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1055239801,
+  "uniq": 429574217,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

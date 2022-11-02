@@ -1,5 +1,5 @@
 {
-  "created": 1667293567,
+  "created": 1667372041,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/0/items/stargazette-2022",
@@ -5194,31 +5194,93 @@
       "sha1": "2cec035e9f8a4bf05a119cf69c737995f3fa24d1"
     },
     {
+      "name": "stargazette-2022-11-01T15:34:31.032530-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667331274",
+      "size": "23042",
+      "md5": "3d5720c006eff905215b76f83f311859",
+      "crc32": "c9c2f3db",
+      "sha1": "270a0554c44094e60d664edec2a15e44afb365f1",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-11-01T15:34:31.032530-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667331275",
+      "size": "41912",
+      "md5": "981e7acf8f618607f6256e32617654c9",
+      "crc32": "999b2b68",
+      "sha1": "401751f286fda44f78fee7fe7f96f5782e864037",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-11-01T15:34:31.032530-04:00.jpg",
+      "source": "original",
+      "mtime": "1667331272",
+      "size": "235656",
+      "md5": "857345fff599f4c3185826e074c41cda",
+      "crc32": "17a64436",
+      "sha1": "e8eaed515fbc4dd0c2970999d91abb70797bbf81",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "stargazette-2022-11-01T15:34:31.032530-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667331277",
+      "size": "1504",
+      "md5": "4f46c71ad1b9595214b2ba43d6ec70e2",
+      "crc32": "5c963023",
+      "sha1": "26d589a114cc5a581ddb59c0042fcfc1a376de5c",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-11-01T15:34:31.032530-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667331279",
+      "size": "255071",
+      "md5": "abb29561df6a943bd6b83b2c12258a95",
+      "crc32": "18c71852",
+      "sha1": "ca347ea8d8427031e57713f9cb701be4665d5f1f",
+      "format": "JSON"
+    },
+    {
+      "name": "stargazette-2022-11-01T15:34:31.032530-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stargazette-2022-11-01T15:34:31.032530-04:00.jpg",
+      "mtime": "1667331792",
+      "size": "9141",
+      "md5": "ca7fdad817bb05d208bd5db0b39525c5",
+      "crc32": "e4e0fa62",
+      "sha1": "8892ecde75f73790fbcf68d62e895b75afa1a221"
+    },
+    {
       "name": "stargazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b25d03385c57b5fe7af775c51724415e6e4d368c",
-      "mtime": "1667293553",
-      "size": "108611",
-      "md5": "4060c808451628d17aa5cb419e15c12b",
-      "crc32": "44277c94",
-      "sha1": "87187ae0f2c2b05a882a6ca95e977de3112e4f6b",
+      "btih": "77cacf3f91666605f24b798a4bfac88acf28c325",
+      "mtime": "1667331797",
+      "size": "109897",
+      "md5": "6a7344c4ceb4f8cfdf54ebd57ff0bc7c",
+      "crc32": "28fbffef",
+      "sha1": "88c191eae9aff480e34ab04d92bfda3e96244495",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stargazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c5f55673d86ef8f2e39a197577aaa39a",
+      "md5": "4543eeae72a96656f230ec76e5ed0cd0",
       "summation": "md5"
     },
     {
       "name": "stargazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667293283",
-      "size": "659456",
-      "md5": "d7b41af0b859f5485ecf80caeaffb9df",
-      "crc32": "fe65592d",
-      "sha1": "95187cfc8de3f8a06f8156dfe04e87c27412f8e3",
+      "mtime": "1667331429",
+      "size": "667648",
+      "md5": "db78aafada96687cb4e98d823d02808c",
+      "crc32": "3ea58d12",
+      "sha1": "2b17d58f8dadc124ae54836861badbfa786b77b0",
       "format": "Metadata"
     },
     {
@@ -5232,9 +5294,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 506,
-  "item_last_updated": 1667293553,
-  "item_size": 35506253,
+  "files_count": 512,
+  "item_last_updated": 1667331797,
+  "item_size": 36082057,
   "metadata": {
     "identifier": "stargazette-2022",
     "collection": [
@@ -5251,10 +5313,53 @@
     "publicdate": "2022-09-20 19:28:41",
     "addeddate": "2022-09-20 19:28:41"
   },
+  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "uniq": 2087586700,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3459492458,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3459492472,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3459492496,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3459492516,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3459492539,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 43897635,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia601401.us.archive.org"
   ]
 }
