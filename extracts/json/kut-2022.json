@@ -1,5 +1,5 @@
 {
-  "created": 1667439619,
+  "created": 1667485274,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/5/items/kut-2022",
@@ -13125,31 +13125,93 @@
       "format": "JSON"
     },
     {
+      "name": "kut-2022-11-02T20:28:01.949128-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kut-2022-11-02T20:28:01.949128-05:00.jpg",
+      "mtime": "1667440011",
+      "size": "10330",
+      "md5": "f50112d0e681d2d4877d80995a86f429",
+      "crc32": "e770e4ba",
+      "sha1": "cd9c49e20fd9a85fae9cfef4f445c5c25bcf7310"
+    },
+    {
+      "name": "kut-2022-11-03T08:19:13.096107-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667481565",
+      "size": "24008",
+      "md5": "02caf3e7ab6367c4eb1ef185585a9dcf",
+      "crc32": "ede8d1ca",
+      "sha1": "b482b6fcba6719478ceee86f979cc5f47133b9ee",
+      "format": "JSON"
+    },
+    {
+      "name": "kut-2022-11-03T08:19:13.096107-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667481568",
+      "size": "46875",
+      "md5": "6ac2a9b88d5996bf2b73af8b71c1c763",
+      "crc32": "0a6ae464",
+      "sha1": "3218b7913c4a4e055826f0325c2a3d15bbe0cd9d",
+      "format": "JSON"
+    },
+    {
+      "name": "kut-2022-11-03T08:19:13.096107-05:00.jpg",
+      "source": "original",
+      "mtime": "1667481561",
+      "size": "296086",
+      "md5": "417960a78d05bb21255e4633c79ecb69",
+      "crc32": "0f7060ca",
+      "sha1": "e358ed6f0e9113c18a431b8aa1c6f266de2334d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kut-2022-11-03T08:19:13.096107-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667481571",
+      "size": "1429",
+      "md5": "e8b7fcb942caadcb76aaae640de694ec",
+      "crc32": "0d1c0e5d",
+      "sha1": "9cfb977949a76f412532ee23a926fb85c9b26911",
+      "format": "JSON"
+    },
+    {
+      "name": "kut-2022-11-03T08:19:13.096107-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667481573",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "kut-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1da01573261f720e7a03ee70340ebbc8bfb6e72d",
-      "mtime": "1667438954",
-      "size": "262014",
-      "md5": "941e52e0dd052f8b500182daca7d0e94",
-      "crc32": "5697f7eb",
-      "sha1": "553ee562f2f1efe0cfbd05d15c0d08d338e7e4cc",
+      "btih": "b0906bf9907071073bd6dd8d75704a7c66871467",
+      "mtime": "1667481629",
+      "size": "263230",
+      "md5": "71d04213209a3ce2440183598a78921d",
+      "crc32": "0b1a0566",
+      "sha1": "434bd7a02b7af3cb3456e6e1659e8f65523421ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kut-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a3e115fae8e82fdd84b6c8f406441f5",
+      "md5": "5285408acb51564b41894fa722ae9f4a",
       "summation": "md5"
     },
     {
       "name": "kut-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667438905",
-      "size": "1601536",
-      "md5": "3fdff9f38ae01b13039c67998555e474",
-      "crc32": "655b2103",
-      "sha1": "227c6bcc53c68e6c7daf973b890e5f06129be2aa",
+      "mtime": "1667481578",
+      "size": "1605632",
+      "md5": "e9a460b03fcb330448ae68b5874bf19c",
+      "crc32": "4511aa2a",
+      "sha1": "975992c9c89b8417f531b4be1fdf3a7721d12d7f",
       "format": "Metadata"
     },
     {
@@ -13163,16 +13225,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1272,
-  "item_last_updated": 1667438954,
-  "item_size": 89405772,
+  "files_count": 1278,
+  "item_last_updated": 1667481629,
+  "item_size": 89790014,
   "kut-2022": {
-    "url": "https://www.kut.org/",
-    "job_id": "spn2-bec6a96ce96766b494e0b6710b8d60bebd422619",
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
-    "status_ext": "error:job-failed",
-    "message": "Job failed.",
-    "resources": []
+    "status_ext": "error:user-session-limit"
   },
   "metadata": {
     "identifier": "kut-2022",
@@ -13195,7 +13254,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460216729,
+      "task_id": 3460690584,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13203,7 +13262,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1183402760,
+  "uniq": 691959858,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

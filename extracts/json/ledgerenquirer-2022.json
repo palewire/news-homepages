@@ -1,5 +1,5 @@
 {
-  "created": 1667439045,
+  "created": 1667485396,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -12769,31 +12769,93 @@
       "format": "JSON"
     },
     {
+      "name": "ledgerenquirer-2022-11-02T21:28:58.045328-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-11-02T21:28:58.045328-04:00.jpg",
+      "mtime": "1667440150",
+      "size": "9682",
+      "md5": "0ee53e5b41b200dc320995be42b3531c",
+      "crc32": "205fd0fa",
+      "sha1": "b70ef87156751510a66e39650e196f07b8acdfc0"
+    },
+    {
+      "name": "ledgerenquirer-2022-11-03T09:19:18.987786-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667481573",
+      "size": "464",
+      "md5": "eb6323f5a49ab001ac63436484ee5ab6",
+      "crc32": "a293968b",
+      "sha1": "a84aab870b0e71dfa90f37fd93d2baad727daece",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-11-03T09:19:18.987786-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667481575",
+      "size": "36072",
+      "md5": "6c224a5df7a3529b623b88b5d7d41b16",
+      "crc32": "0fe91090",
+      "sha1": "4f68efc0f31d4565131a8b9a6dccb433f10ac229",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-11-03T09:19:18.987786-04:00.jpg",
+      "source": "original",
+      "mtime": "1667481571",
+      "size": "257037",
+      "md5": "b207b1fc9f4d2895eaae5a345572353e",
+      "crc32": "be34b8e7",
+      "sha1": "b64ebfe7aeda76bc149fc286125627149870fd46",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ledgerenquirer-2022-11-03T09:19:18.987786-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667481577",
+      "size": "1540",
+      "md5": "011e589ac6d2e91fb37b9323ddd56333",
+      "crc32": "eb5092ee",
+      "sha1": "ec1b49f6d93e23852a41d1cf9ac13a0e6cc2b088",
+      "format": "JSON"
+    },
+    {
+      "name": "ledgerenquirer-2022-11-03T09:19:18.987786-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667481579",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e2f1cec6faee673ce403c311d3274f821a927487",
-      "mtime": "1667439032",
-      "size": "267638",
-      "md5": "6cb6d137af3db27ffc9b7c56bb5a7608",
-      "crc32": "627e3b53",
-      "sha1": "693ccc61f520ae418c1df59b44c50e9b3bcbb00b",
+      "btih": "1592d4070e885d5c22cd27e0b45a01e2c28e344e",
+      "mtime": "1667481653",
+      "size": "268917",
+      "md5": "03a5ab8daa721332399764f6bfd343f7",
+      "crc32": "28aded96",
+      "sha1": "242412a0e935a4511500c1387a29c7f11e743582",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0fc438ab7a600528f3dd3d14e9b87bf7",
+      "md5": "9940317d03058887a32361368df0143d",
       "summation": "md5"
     },
     {
       "name": "ledgerenquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667438977",
-      "size": "1585152",
-      "md5": "53735620ae1a1dcc4c1ac66d368bcb29",
-      "crc32": "d1575aa4",
-      "sha1": "b9e9926f41177f5615a19f19d2498e585f3ca19a",
+      "mtime": "1667481588",
+      "size": "1597440",
+      "md5": "5bc4730890320bb71c9546b977943472",
+      "crc32": "06537051",
+      "sha1": "b1c67299e70d305879d9f9e0dd24cf00f6e25ab3",
       "format": "Metadata"
     },
     {
@@ -12807,9 +12869,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1238,
-  "item_last_updated": 1667439032,
-  "item_size": 75396852,
+  "files_count": 1244,
+  "item_last_updated": 1667481653,
+  "item_size": 75715416,
+  "ledgerenquirer-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -12831,7 +12898,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460217405,
+      "task_id": 3460690987,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12839,7 +12906,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 865663059,
+  "uniq": 1091756818,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

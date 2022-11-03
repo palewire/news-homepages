@@ -1,5 +1,5 @@
 {
-  "created": 1667438757,
+  "created": 1667485092,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/10/items/independent_ie-2022",
@@ -13053,31 +13053,93 @@
       "format": "JSON"
     },
     {
+      "name": "independent_ie-2022-11-03T01:24:46.127766+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "independent_ie-2022-11-03T01:24:46.127766+00:00.jpg",
+      "mtime": "1667439912",
+      "size": "8948",
+      "md5": "098860c39b7dca1a561b5d2aca9f2a83",
+      "crc32": "d7550d49",
+      "sha1": "981385f318910a0c1203eb8dc0b0bfe8a32eed94"
+    },
+    {
+      "name": "independent_ie-2022-11-03T13:15:54.823699+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667481400",
+      "size": "50069",
+      "md5": "03257f8a6a3e2a17cfe9bdb8933a099b",
+      "crc32": "d5ff69c0",
+      "sha1": "3079eea730eac7d59ad5f2597953ee2df2a9383a",
+      "format": "JSON"
+    },
+    {
+      "name": "independent_ie-2022-11-03T13:15:54.823699+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667481402",
+      "size": "109415",
+      "md5": "bc11c145e3491e08d971b2525e086c2b",
+      "crc32": "025ba9ae",
+      "sha1": "95b43edd8c83ab24d994b73468edeb541b671f08",
+      "format": "JSON"
+    },
+    {
+      "name": "independent_ie-2022-11-03T13:15:54.823699+00:00.jpg",
+      "source": "original",
+      "mtime": "1667481398",
+      "size": "250456",
+      "md5": "5c87cd75fcbcc6cbfae1214de924eab9",
+      "crc32": "e2a3b9a5",
+      "sha1": "852dcebb8dbaed9362350d4c739a0614676491e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "independent_ie-2022-11-03T13:15:54.823699+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667481403",
+      "size": "1477",
+      "md5": "25787bbf0f7f402f6a5fc8948e3fcfab",
+      "crc32": "9e019660",
+      "sha1": "042d40b772b3f38a5b6b42f0922f1ec3176a3d20",
+      "format": "JSON"
+    },
+    {
+      "name": "independent_ie-2022-11-03T13:15:54.823699+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667481404",
+      "size": "207",
+      "md5": "beb150071114103c0a137c34cb4b6cc7",
+      "crc32": "2069084d",
+      "sha1": "b873d4349d819093c5aa4bbbdb063f6a74ec95e6",
+      "format": "JSON"
+    },
+    {
       "name": "independent_ie-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e2de7c282ac4d76ff442c9745d2f661bdb6c6b2a",
-      "mtime": "1667438751",
-      "size": "274797",
-      "md5": "f48c2cdf2e810462ef0b8cb6f94c8921",
-      "crc32": "273bfe27",
-      "sha1": "63ba808655018b53580c6c4c4f19541abed60575",
+      "btih": "c7f8191d53d05c62014efe404ac02f8ee7acd32d",
+      "mtime": "1667481501",
+      "size": "276099",
+      "md5": "53f62d36482ea47bceab7d2cfb1dc832",
+      "crc32": "87e06385",
+      "sha1": "762fdc07e0750e2c41be23170df8da8186a46478",
       "format": "Archive BitTorrent"
     },
     {
       "name": "independent_ie-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "441f555a4b4492337369cbfde304b4df",
+      "md5": "3c2b1381399c26170bf9db8c92eb3028",
       "summation": "md5"
     },
     {
       "name": "independent_ie-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667438699",
-      "size": "1617920",
-      "md5": "61401000ddf7bddd5493bb1ae580af72",
-      "crc32": "98bed6b9",
-      "sha1": "dd89560f7703cd78c1b7b8dd8da2556da269fb26",
+      "mtime": "1667481421",
+      "size": "1622016",
+      "md5": "4f6f86931d0a05cc94dab8ac5b3e49eb",
+      "crc32": "f937abaf",
+      "sha1": "c49a8ecf4618a7940c514864aebd980a5424759e",
       "format": "Metadata"
     },
     {
@@ -13091,9 +13153,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1265,
-  "item_last_updated": 1667438751,
-  "item_size": 96071333,
+  "files_count": 1271,
+  "independent_ie-2022": {
+    "url": "https://www.independent.ie/",
+    "job_id": "spn2-8912fee7f089b60be79f67f94a1a54a3a9afee16",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "item_last_updated": 1667481501,
+  "item_size": 96497303,
   "metadata": {
     "identifier": "independent_ie-2022",
     "collection": [
@@ -13115,7 +13185,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460214944,
+      "task_id": 3460689342,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13123,7 +13193,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1264008068,
+  "uniq": 2097229545,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

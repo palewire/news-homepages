@@ -1,5 +1,5 @@
 {
-  "created": 1667438955,
+  "created": 1667485370,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/12/items/lasvegassun-2022",
@@ -14153,31 +14153,93 @@
       "format": "JSON"
     },
     {
+      "name": "lasvegassun-2022-11-02T18:27:54.905014-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lasvegassun-2022-11-02T18:27:54.905014-07:00.jpg",
+      "mtime": "1667439861",
+      "size": "10113",
+      "md5": "b6a3c7259ba702225a697d9cd62f9084",
+      "crc32": "a798b044",
+      "sha1": "5f2f88788f49fca7805900a78407c7dd8ef6abfa"
+    },
+    {
+      "name": "lasvegassun-2022-11-03T06:19:00.633137-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667481572",
+      "size": "19959",
+      "md5": "f43cded53bfc3840159cc6d0244d97c0",
+      "crc32": "0a9ff49c",
+      "sha1": "492b578cdc6a0aaafcd595d41b2ace2533d6d5ad",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-11-03T06:19:00.633137-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667481579",
+      "size": "13124",
+      "md5": "0ad39f819a15aa95cf965ee730b0a9ad",
+      "crc32": "c388a000",
+      "sha1": "41b0c8bdb0861a34e8632afe6a17acf9759fca3c",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-11-03T06:19:00.633137-07:00.jpg",
+      "source": "original",
+      "mtime": "1667481569",
+      "size": "329720",
+      "md5": "05bb91589aadbfba854cde1989a0aa88",
+      "crc32": "a31b17c8",
+      "sha1": "e60de0327891d24478c30b7f1d85ccb32dbb0ec6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lasvegassun-2022-11-03T06:19:00.633137-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667481582",
+      "size": "1483",
+      "md5": "fb08d9b45a5d9a96e9028956670413ea",
+      "crc32": "288f97fb",
+      "sha1": "fe4d946f0f7b52ffd8a2f405151454aefc3dfc9e",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-11-03T06:19:00.633137-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667481584",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lasvegassun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "37575d142b507257a2bb9ae1075710aae7c3af16",
-      "mtime": "1667438950",
-      "size": "293101",
-      "md5": "4b29c3dcd8cbfff951ff4c18de964ea9",
-      "crc32": "a2a82358",
-      "sha1": "30c774c5d27711f0536ae3ea9e4ae383be6f6a30",
+      "btih": "05f2d0e061f6796fed11e2e686f58475bc4620cd",
+      "mtime": "1667481680",
+      "size": "294385",
+      "md5": "f36a4bde4e12e015e1f8142a95cd913c",
+      "crc32": "7a62e712",
+      "sha1": "e38b996e5acc9e57875526bfccbf88aaf7d854dc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lasvegassun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "35bace09371f739b7ca28e343d3cb5a4",
+      "md5": "c1dc3940d02387d36aa2c8eb8b0d7944",
       "summation": "md5"
     },
     {
       "name": "lasvegassun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667438897",
-      "size": "1728512",
-      "md5": "b3fdaa0219a3142f1748edce5fdc6628",
-      "crc32": "e983cf7c",
-      "sha1": "ddadb3836b2baa15ae74a2cc93057537838ac1ac",
+      "mtime": "1667481588",
+      "size": "1740800",
+      "md5": "d71d0f1e1b36dd4ec4e54485bf2596c7",
+      "crc32": "2477d527",
+      "sha1": "3f070f8b81b5f5a175bc57c40700517c8352c4e2",
       "format": "Metadata"
     },
     {
@@ -14191,9 +14253,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1370,
-  "item_last_updated": 1667438950,
-  "item_size": 100309794,
+  "files_count": 1376,
+  "item_last_updated": 1667481680,
+  "item_size": 100697967,
+  "lasvegassun-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lasvegassun-2022",
     "collection": [
@@ -14215,7 +14282,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460216696,
+      "task_id": 3460691065,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14223,7 +14290,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1418387029,
+  "uniq": 502253108,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

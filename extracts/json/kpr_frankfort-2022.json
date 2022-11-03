@@ -1,5 +1,5 @@
 {
-  "created": 1667438950,
+  "created": 1667481610,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/31/items/kpr_frankfort-2022",
@@ -11695,31 +11695,93 @@
       "format": "JSON"
     },
     {
+      "name": "kpr_frankfort-2022-11-02T21:27:54.357081-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpr_frankfort-2022-11-02T21:27:54.357081-04:00.jpg",
+      "mtime": "1667439856",
+      "size": "10821",
+      "md5": "bbf8cdbb24ff8d6343db21b2fc8d9981",
+      "crc32": "e4489af2",
+      "sha1": "fadf01c4cdf141cd12c1a0854b15d07b893d7a57"
+    },
+    {
+      "name": "kpr_frankfort-2022-11-03T09:18:52.200904-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667481540",
+      "size": "12057",
+      "md5": "875dc11dd497e5fcc8b9089a4497e7d5",
+      "crc32": "f239dba4",
+      "sha1": "7b1dccbbe0a9d4bb06115fc26570a22fd82f876d",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-11-03T09:18:52.200904-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667481542",
+      "size": "20676",
+      "md5": "91a1844fa2c6689af8422423ca9bedfe",
+      "crc32": "80058dde",
+      "sha1": "c5091fc02aeb92ffe97631c6a586e747467a8863",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-11-03T09:18:52.200904-04:00.jpg",
+      "source": "original",
+      "mtime": "1667481537",
+      "size": "329196",
+      "md5": "9c063572f7ee670906ed4b71d5860aef",
+      "crc32": "35decdc6",
+      "sha1": "20b9238ebc0843bd7a34479ba78d099a35a3dc7b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpr_frankfort-2022-11-03T09:18:52.200904-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667481544",
+      "size": "1404",
+      "md5": "9b7977f1a1bbb975f19450bf4d213afa",
+      "crc32": "38c385d7",
+      "sha1": "d72f2842d9073fe1824e53528fbea44997996931",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-11-03T09:18:52.200904-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667481547",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "kpr_frankfort-2022_archive.torrent",
       "source": "metadata",
-      "btih": "daf9a4cb729ff9e9574482ab549b70a014aaa72a",
-      "mtime": "1667438943",
-      "size": "245035",
-      "md5": "32a42a8ab1b3c4211acf0148c3314b47",
-      "crc32": "c5276aed",
-      "sha1": "d4025b71208e6ddd7eddfe0b42403fa9a6030bd3",
+      "btih": "f190275c6f7857d665b26c3b3d43e3cab008c648",
+      "mtime": "1667481604",
+      "size": "246331",
+      "md5": "d6e5aaf391d8732896ea9aae54ead21e",
+      "crc32": "07a59297",
+      "sha1": "cfda73fba3583c2f836ecf9ab46f6f847ee7c1c5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpr_frankfort-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "feb23fdaee9a564ea8c3462b47b15ee2",
+      "md5": "8006f9a76d929f0d2de1bd6b791b2b1c",
       "summation": "md5"
     },
     {
       "name": "kpr_frankfort-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667438894",
-      "size": "1462272",
-      "md5": "973e9bf5775f9f39d6b047be8c7fdba1",
-      "crc32": "bd965f02",
-      "sha1": "2a8b8c41a20e9e88ba4f90b6d5e88da941eadc13",
+      "mtime": "1667481554",
+      "size": "1470464",
+      "md5": "00becc7bb61fb2265694b38b7f6efaa0",
+      "crc32": "f1fe3f50",
+      "sha1": "556d8039f1707b1e39e0a4a53fe49101b12c0b3c",
       "format": "Metadata"
     },
     {
@@ -11733,9 +11795,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1135,
-  "item_last_updated": 1667438943,
-  "item_size": 73870596,
+  "files_count": 1141,
+  "item_last_updated": 1667481604,
+  "item_size": 74254440,
   "metadata": {
     "identifier": "kpr_frankfort-2022",
     "collection": [
@@ -11757,7 +11819,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460216640,
+      "task_id": 3460690344,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11765,7 +11827,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1058274176,
+  "uniq": 922517265,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

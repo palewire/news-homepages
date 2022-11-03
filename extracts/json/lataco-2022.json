@@ -1,5 +1,5 @@
 {
-  "created": 1667438970,
+  "created": 1667481622,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/35/items/lataco-2022",
@@ -19185,31 +19185,93 @@
       "format": "JSON"
     },
     {
+      "name": "lataco-2022-11-02T18:28:11.902446-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lataco-2022-11-02T18:28:11.902446-07:00.jpg",
+      "mtime": "1667439943",
+      "size": "10107",
+      "md5": "23458a5fda179c8bfd117da4d1b64a27",
+      "crc32": "184c9a78",
+      "sha1": "7c36cc40eb2ad0c64a36ebe96d2d962dbaa705b5"
+    },
+    {
+      "name": "lataco-2022-11-03T06:19:00.044229-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667481549",
+      "size": "14352",
+      "md5": "9648a8cc831a3074b31119ba39116d5d",
+      "crc32": "1fb5c992",
+      "sha1": "7ad4f1233fa655eb6b6979931e909b2ada982dcb",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-11-03T06:19:00.044229-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667481551",
+      "size": "10982",
+      "md5": "9fc3cafac056ca5a61e8cf73fcb8416c",
+      "crc32": "ee0977d5",
+      "sha1": "20790b0000d38b12489310de10aff34fb7af30cb",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-11-03T06:19:00.044229-07:00.jpg",
+      "source": "original",
+      "mtime": "1667481547",
+      "size": "293100",
+      "md5": "c31c7b54c7d3fb3793e91e76d863f7bb",
+      "crc32": "dd23f443",
+      "sha1": "44da3c9b67e213a692569a89ad67d29c88963395",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lataco-2022-11-03T06:19:00.044229-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667481553",
+      "size": "1459",
+      "md5": "9b1a8356c5bdeb5ea378ff8eb9c6e324",
+      "crc32": "0ef9b8b2",
+      "sha1": "d6a9f6442970b16ce02708f09517c888f43b3fe8",
+      "format": "JSON"
+    },
+    {
+      "name": "lataco-2022-11-03T06:19:00.044229-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667481555",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lataco-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3dbe09d3b3a00756dac6ebc29880b1ecfd2ee7f7",
-      "mtime": "1667438965",
-      "size": "386767",
-      "md5": "4574829c61f05580027742bdc5cd0a99",
-      "crc32": "8f138433",
-      "sha1": "83a1a1c5aaabb1a83770861222e186ea428ebe7f",
+      "btih": "fcb2e94e55d7b25504240c525806523667f793d2",
+      "mtime": "1667481618",
+      "size": "388021",
+      "md5": "b3c7aa8fc89aca1915b47d91ab1af8d6",
+      "crc32": "39bf1f0c",
+      "sha1": "5bf4da426da0875d95d1dbc384634e931eca618a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lataco-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c28061d8d29e09a132b4c6370978e50",
+      "md5": "c1061e11c64fc1c041d7dd7e754e5ef0",
       "summation": "md5"
     },
     {
       "name": "lataco-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667438906",
-      "size": "2322432",
-      "md5": "fca8b934d734a8f002a76bd085fe43fa",
-      "crc32": "acdea783",
-      "sha1": "fb5d58e5e236ff6a4c862176d3b30cc9712da20d",
+      "mtime": "1667481558",
+      "size": "2326528",
+      "md5": "e4ac28471bc91f265e245b81e208cda6",
+      "crc32": "cdb71b34",
+      "sha1": "65419471fa2349271d398b88ac04800006fbb385",
       "format": "Metadata"
     },
     {
@@ -19223,9 +19285,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1856,
-  "item_last_updated": 1667438965,
-  "item_size": 112927411,
+  "files_count": 1862,
+  "item_last_updated": 1667481618,
+  "item_size": 113262963,
   "metadata": {
     "identifier": "lataco-2022",
     "collection": [
@@ -19247,7 +19309,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460216808,
+      "task_id": 3460690471,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -19255,7 +19317,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1505395501,
+  "uniq": 1094098831,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]

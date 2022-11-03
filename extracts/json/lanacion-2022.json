@@ -1,5 +1,5 @@
 {
-  "created": 1667439023,
+  "created": 1667485323,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/19/items/lanacion-2022",
@@ -10629,31 +10629,93 @@
       "format": "JSON"
     },
     {
+      "name": "lanacion-2022-11-02T22:28:02.157563-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lanacion-2022-11-02T22:28:02.157563-03:00.jpg",
+      "mtime": "1667440117",
+      "size": "8838",
+      "md5": "61e9202d44509cea5940fa57b0f25f51",
+      "crc32": "8912a4b2",
+      "sha1": "3e8b179b20e65ae9c63f2eca5cb3a8a9f394ac93"
+    },
+    {
+      "name": "lanacion-2022-11-03T10:19:32.654041-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667481601",
+      "size": "129487",
+      "md5": "be5d60e2838d03443b829d2c78cc85da",
+      "crc32": "278d25a9",
+      "sha1": "9ac91eb9d5bf51fb305bc4cd7560ee503ca10982",
+      "format": "JSON"
+    },
+    {
+      "name": "lanacion-2022-11-03T10:19:32.654041-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667481605",
+      "size": "68434",
+      "md5": "ed6e74696f4e52eac253cc894bf751e1",
+      "crc32": "bb614499",
+      "sha1": "d0f5848aa68d2366d7380daf68f99c5e0d5c9d31",
+      "format": "JSON"
+    },
+    {
+      "name": "lanacion-2022-11-03T10:19:32.654041-03:00.jpg",
+      "source": "original",
+      "mtime": "1667481599",
+      "size": "375440",
+      "md5": "fa8885fbdbda4aadc7ab7c40777b6252",
+      "crc32": "8f112e75",
+      "sha1": "3b82f9c4f7190cd0f8c1b43ac31818c663774aaf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lanacion-2022-11-03T10:19:32.654041-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667481607",
+      "size": "1504",
+      "md5": "af8fceb9bd54770f23ea91261b3598f6",
+      "crc32": "91cf9e1d",
+      "sha1": "b8a33634c9cfde5cbc0cf45acb21fe8f5a60b407",
+      "format": "JSON"
+    },
+    {
+      "name": "lanacion-2022-11-03T10:19:32.654041-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667481610",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lanacion-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3042972e578c1bb853e20c454ef29242e43a449f",
-      "mtime": "1667439013",
-      "size": "218553",
-      "md5": "08df7518f281e35bb087db6d33af6ac6",
-      "crc32": "78b9b18a",
-      "sha1": "82daddd2fe59c551ffeeb219afb3fed3c227cb71",
+      "btih": "1284a674e624e5b6e923958168f29967d04580b4",
+      "mtime": "1667481663",
+      "size": "219839",
+      "md5": "97c5401d24ce8e50e7282a67db877670",
+      "crc32": "a9abb12e",
+      "sha1": "93bd5d9fea62b5240fd4f2f3c364fcaefeb979d0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lanacion-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe482ee4b0e1efee2a268176baca1444",
+      "md5": "c8f0eeff8735fd0a520d1bd0200dfd80",
       "summation": "md5"
     },
     {
       "name": "lanacion-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667438938",
-      "size": "1323008",
-      "md5": "61381ca7791c9352281f597981485b9f",
-      "crc32": "e1e5de44",
-      "sha1": "756c938a7c2ce03e342bcd1b6a3b1a077cd6f66a",
+      "mtime": "1667481615",
+      "size": "1327104",
+      "md5": "b47146b9f1ed4abb5e0afb4a7afe846a",
+      "crc32": "7c71e297",
+      "sha1": "b7facf275f6ef01eb6bfcad7d424cfa0baaad1a1",
       "format": "Metadata"
     },
     {
@@ -10667,9 +10729,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1032,
-  "item_last_updated": 1667439013,
-  "item_size": 92445423,
+  "files_count": 1038,
+  "item_last_updated": 1667481663,
+  "item_size": 93034710,
+  "lanacion-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lanacion-2022",
     "collection": [
@@ -10691,7 +10758,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460217227,
+      "task_id": 3460690928,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10699,7 +10766,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 130517358,
+  "uniq": 1192666095,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]
