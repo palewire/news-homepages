@@ -1,5 +1,5 @@
 {
-  "created": 1667448963,
+  "created": 1667489351,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/3/items/umd_sbs-2022",
@@ -13506,31 +13506,82 @@
       "sha1": "3db4cda8e1d872931574a708d0b3050c69ff323b"
     },
     {
+      "name": "umd_sbs-2022-11-03T11:27:35.427698-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667489282",
+      "size": "17337",
+      "md5": "4a51e8b66649c09efa2a1ebc34e1c2fe",
+      "crc32": "cde33270",
+      "sha1": "39f601a27c1f1641fa9b73c3f2383b1923c0b301",
+      "format": "JSON"
+    },
+    {
+      "name": "umd_sbs-2022-11-03T11:27:35.427698-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667489285",
+      "size": "17196",
+      "md5": "f6164d413e272324e8c40af0d98c8552",
+      "crc32": "dc2a6283",
+      "sha1": "6b2fca554d0e5b9e66b0a787c1e8382cac5323b2",
+      "format": "JSON"
+    },
+    {
+      "name": "umd_sbs-2022-11-03T11:27:35.427698-04:00.jpg",
+      "source": "original",
+      "mtime": "1667489279",
+      "size": "277036",
+      "md5": "91082b326c81758dcf60e4213b87b1ca",
+      "crc32": "27e228c7",
+      "sha1": "94da016c1db843371b163ac37ed6d6c7c2742dbc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "umd_sbs-2022-11-03T11:27:35.427698-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667489288",
+      "size": "1504",
+      "md5": "b8c5f0fbe79e9040582282892d631009",
+      "crc32": "29d62852",
+      "sha1": "5d00a8f0a66c3d865eb08f8e96ce3444ccab4b4d",
+      "format": "JSON"
+    },
+    {
+      "name": "umd_sbs-2022-11-03T11:27:35.427698-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667489291",
+      "size": "11640",
+      "md5": "2c03c358e71942e2229411767104080a",
+      "crc32": "047dbe26",
+      "sha1": "0b9a678d837da771e13cb779aa7990162ada8908",
+      "format": "JSON"
+    },
+    {
       "name": "umd_sbs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bf2b638111973b9883acedb0fb485305cd595983",
-      "mtime": "1667448886",
-      "size": "273427",
-      "md5": "8214f71a802ca0ecf60269409eed11ea",
-      "crc32": "76174113",
-      "sha1": "fe3c4679ff5f6e048bbb70181cd27a028442fe02",
+      "btih": "7955ed765c0d9177f549a60c1e324e2c1a050da4",
+      "mtime": "1667489346",
+      "size": "274485",
+      "md5": "ff41518eb74e93664d6aeecf6957751f",
+      "crc32": "01a52d3f",
+      "sha1": "79eab4a05ea8bf2bfb4d067c14774647016a364e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "umd_sbs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d3b2282715a370697b798846e361d83b",
+      "md5": "2a235335a87a6f54d76c6b55e4c405ad",
       "summation": "md5"
     },
     {
       "name": "umd_sbs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667446594",
-      "size": "1646592",
-      "md5": "3425c74a4bc7bdf83ceb0c99fd77154a",
-      "crc32": "124e21c4",
-      "sha1": "9c828c87ec3c1df6045615284780684bcb594b92",
+      "mtime": "1667489296",
+      "size": "1654784",
+      "md5": "21e20269f3f8abce144e8c5d336a1138",
+      "crc32": "a344d114",
+      "sha1": "25cb32123780890bf199b91cc34cf7151f4063e3",
       "format": "Metadata"
     },
     {
@@ -13544,9 +13595,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1308,
-  "item_last_updated": 1667448886,
-  "item_size": 68422403,
+  "files_count": 1313,
+  "item_last_updated": 1667489346,
+  "item_size": 68756366,
   "metadata": {
     "identifier": "umd_sbs-2022",
     "collection": [
@@ -13563,10 +13614,21 @@
     "publicdate": "2022-07-12 20:46:23",
     "addeddate": "2022-07-12 20:46:23"
   },
+  "pending_tasks": true,
   "server": "ia902508.us.archive.org",
-  "uniq": 961889971,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3460768416,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 19491863,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia902508.us.archive.org"
   ]
 }

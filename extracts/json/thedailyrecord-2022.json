@@ -1,5 +1,5 @@
 {
-  "created": 1667448704,
+  "created": 1667493738,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/18/items/thedailyrecord-2022",
@@ -5378,31 +5378,82 @@
       "sha1": "aa068426b30a43a664982e058fc0bf7ad2d4cc79"
     },
     {
+      "name": "thedailyrecord-2022-11-03T11:24:12.928472-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667489065",
+      "size": "21991",
+      "md5": "95e600576ab76124b95d2e500ccaa953",
+      "crc32": "a2c187f7",
+      "sha1": "79c4e1bd0e9a1952b889f996eeac65a3a75b65cf",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyrecord-2022-11-03T11:24:12.928472-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667489068",
+      "size": "35417",
+      "md5": "d54c90edd89f26e9a83877723cb255bc",
+      "crc32": "ad1c9a9b",
+      "sha1": "2ad681eade6bff8538f96cb010ad39c66b4e200d",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyrecord-2022-11-03T11:24:12.928472-04:00.jpg",
+      "source": "original",
+      "mtime": "1667489061",
+      "size": "320277",
+      "md5": "739f9d8f67bd9882c5236684174380c9",
+      "crc32": "2350d397",
+      "sha1": "921ccdf009ab0407736253aa05d0a057017637ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyrecord-2022-11-03T11:24:12.928472-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667489072",
+      "size": "1549",
+      "md5": "f06566254b7c4ce467ebb37474f10c26",
+      "crc32": "1cae1de7",
+      "sha1": "856aa67408a211be12c8e8854c5e9ed6595a49ea",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyrecord-2022-11-03T11:24:12.928472-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667489077",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thedailyrecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3182863b5567a0f89c9ab1b7560556d195f4d16f",
-      "mtime": "1667448620",
-      "size": "113944",
-      "md5": "5d405b37aa4b477dbf15123475e37d4d",
-      "crc32": "14cda29b",
-      "sha1": "1305b0fe99abe40da53e8eaf550028bf53e6c352",
+      "btih": "c3fcad040e6c651b5f5cb224e6df692fc3105750",
+      "mtime": "1667489127",
+      "size": "115035",
+      "md5": "66c97e30b4fb299988f6f42253446c78",
+      "crc32": "e9947003",
+      "sha1": "0f7ac6e3189d409ab94c4bde351bc089f6bf81c5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyrecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "94e8b1c9eca79ca3c8a4f61395a3a41e",
+      "md5": "e020dd711a87b3785e34828ad531e805",
       "summation": "md5"
     },
     {
       "name": "thedailyrecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667446441",
-      "size": "684032",
-      "md5": "3276477ba4616781e16eb050b92ff374",
-      "crc32": "df1ddbbd",
-      "sha1": "58abba2ef53931602cbd6045bb9763592966afc4",
+      "mtime": "1667489082",
+      "size": "688128",
+      "md5": "735208c4ec8f9790f0807926f5fb99ff",
+      "crc32": "40228bbb",
+      "sha1": "22fff819e5accfd341a0955c50d82d74a09b9cbe",
       "format": "Metadata"
     },
     {
@@ -5416,9 +5467,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 524,
-  "item_last_updated": 1667448620,
-  "item_size": 34985801,
+  "files_count": 529,
+  "item_last_updated": 1667489127,
+  "item_size": 35370424,
   "metadata": {
     "identifier": "thedailyrecord-2022",
     "collection": [
@@ -5435,10 +5486,26 @@
     "publicdate": "2022-09-21 03:45:15",
     "addeddate": "2022-09-21 03:45:15"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 84963472,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3460766420,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "thedailyrecord-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1164990585,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }

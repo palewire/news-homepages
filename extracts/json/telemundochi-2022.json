@@ -1,5 +1,5 @@
 {
-  "created": 1667448668,
+  "created": 1667493570,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/20/items/telemundochi-2022",
@@ -17454,31 +17454,82 @@
       "sha1": "15082b0f8e0fb8e17c901ea87e49916e4c0358ff"
     },
     {
+      "name": "telemundochi-2022-11-03T10:20:08.095787-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667488839",
+      "size": "48193",
+      "md5": "bcea7b77a891c76c0495b1452d20f019",
+      "crc32": "ae66865e",
+      "sha1": "9751cceb65947fa5374bc8c846837f77bef3b832",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-11-03T10:20:08.095787-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667488843",
+      "size": "55457",
+      "md5": "734be6cf1b5fe9262bfbfcbe7c48b46c",
+      "crc32": "75a19ef9",
+      "sha1": "d526de72edc6968bf0433ddd112c2aeb013d2f86",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-11-03T10:20:08.095787-05:00.jpg",
+      "source": "original",
+      "mtime": "1667488836",
+      "size": "294524",
+      "md5": "29a721cc9cc1cd388f376745a11da637",
+      "crc32": "68a4d1bb",
+      "sha1": "4a3c7d546fa18d8499adc5ccd9ae56fb2ce37f92",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telemundochi-2022-11-03T10:20:08.095787-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667488845",
+      "size": "1540",
+      "md5": "752942b547dae6f81a9b1eaa6bfff636",
+      "crc32": "dc1dfd89",
+      "sha1": "188114d6911022b56756454165b289b4a9fd0590",
+      "format": "JSON"
+    },
+    {
+      "name": "telemundochi-2022-11-03T10:20:08.095787-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667488848",
+      "size": "257",
+      "md5": "907b0be54d1a6cc514fbab8577071d42",
+      "crc32": "e3de4771",
+      "sha1": "aa7afc918ef79cbc9700b200127a5d7c90dcd830",
+      "format": "JSON"
+    },
+    {
       "name": "telemundochi-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf678b706d6ee621e80aa66ecc2fd62afcb41b75",
-      "mtime": "1667448632",
-      "size": "364111",
-      "md5": "47a62af1b9cc24149b43d8354aa1009f",
-      "crc32": "b9def8cd",
-      "sha1": "bd3f6e261a6be607330b764be117035b06bf67fe",
+      "btih": "3978197612434e3aeb0e2ef8f2b3e85730efca28",
+      "mtime": "1667488917",
+      "size": "365192",
+      "md5": "c862a4e3f8ee552244ca8f9a121d116d",
+      "crc32": "ea95422e",
+      "sha1": "b6005e6c9faa6b0b5145a93cca4b85f8925d8ad4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telemundochi-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "42d9545acb8c885e2d9b1a7dffbe2c44",
+      "md5": "46dd3a745c18ff287ab821319d56c064",
       "summation": "md5"
     },
     {
       "name": "telemundochi-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667446355",
-      "size": "2162688",
-      "md5": "5c1fae8283fe15d4d49e2089124d6f65",
-      "crc32": "9d2a1489",
-      "sha1": "9daa7f1fe9630ebf4f6a7f80f10da79065ba88bf",
+      "mtime": "1667488855",
+      "size": "2170880",
+      "md5": "a8e7c7acf5f30da47302225e4115a213",
+      "crc32": "f916f229",
+      "sha1": "ef45316396f6afd2e4e0c21e05bd6d972b78b12b",
       "format": "Metadata"
     },
     {
@@ -17492,9 +17543,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1692,
-  "item_last_updated": 1667448632,
-  "item_size": 136061745,
+  "files_count": 1697,
+  "item_last_updated": 1667488917,
+  "item_size": 136470989,
   "metadata": {
     "identifier": "telemundochi-2022",
     "collection": [
@@ -17511,10 +17562,29 @@
     "publicdate": "2022-07-28 20:04:16",
     "addeddate": "2022-07-28 20:04:16"
   },
-  "server": "ia802504.us.archive.org",
-  "uniq": 1567168343,
+  "pending_tasks": true,
+  "server": "ia902504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3460764683,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "telemundochi-2022": {
+    "url": "https://www.telemundochicago.com/",
+    "job_id": "spn2-15f970e86903f3c226cdf2c1289db30e9aa35b35",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 854.",
+    "resources": []
+  },
+  "uniq": 721493946,
   "workable_servers": [
-    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

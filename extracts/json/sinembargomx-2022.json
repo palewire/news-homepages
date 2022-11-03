@@ -1,5 +1,5 @@
 {
-  "created": 1667448721,
+  "created": 1667493234,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/34/items/sinembargomx-2022",
@@ -9650,31 +9650,71 @@
       "sha1": "458fa6ee4e1bd5da6a0848d311d22a12bbc3c164"
     },
     {
+      "name": "sinembargomx-2022-11-03T09:20:28.377376-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667488848",
+      "size": "44642",
+      "md5": "a626e220f81aaf828a8a870c805f1ab4",
+      "crc32": "1475d170",
+      "sha1": "6e0aa32ec45d94f688d248e4d68e047f6e14cf30",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-11-03T09:20:28.377376-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667488850",
+      "size": "55079",
+      "md5": "c98440afa16685c5e9620b04630a19a5",
+      "crc32": "1b265917",
+      "sha1": "938436ac762bda7e37255eff53657da861913b32",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-11-03T09:20:28.377376-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667488852",
+      "size": "1486",
+      "md5": "9b4ee75f52eb2a74d38db5ebc4dcf28d",
+      "crc32": "47caa6d0",
+      "sha1": "07d669c7e3f08e211bf74dbcf41d0de0db5f1385",
+      "format": "JSON"
+    },
+    {
+      "name": "sinembargomx-2022-11-03T09:20:28.377376-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667488854",
+      "size": "102",
+      "md5": "9103b36d830c29c6f45ca24f49ab0040",
+      "crc32": "a4ec0fa6",
+      "sha1": "f2268c016a08eca69a3f206945ae242007fc5775",
+      "format": "JSON"
+    },
+    {
       "name": "sinembargomx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "65c2e7ab0ffc8d1fb0c4adfdabfef386cc7ff140",
-      "mtime": "1667448666",
-      "size": "202571",
-      "md5": "d7b4ef1889db0983523c6962a411b1d3",
-      "crc32": "4e205e77",
-      "sha1": "88d38ad05f45af9335350501cbdf414a5be9a22f",
+      "btih": "dc20ce3ef0bee6bcf38015d569e1fe146fd1fef1",
+      "mtime": "1667488906",
+      "size": "203428",
+      "md5": "6aee0d411d5233e006a465f26ee39bd4",
+      "crc32": "981d7542",
+      "sha1": "18be3d7798ade8fe260a705f80e411a24f4fdf9d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sinembargomx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db9a3bc99418f7a70a2dd6b344255ad9",
+      "md5": "d717607d5ea83a5c76263f29fad6b1de",
       "summation": "md5"
     },
     {
       "name": "sinembargomx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667446304",
-      "size": "1204224",
-      "md5": "6695c0e67dd9b6741fd34b8e0b4d2200",
-      "crc32": "a5a4c1e8",
-      "sha1": "f7e588a1f1b854a5715cc22d68469986cf66a38a",
+      "mtime": "1667488861",
+      "size": "1208320",
+      "md5": "5bdf7be81e8fc45c8ee42b41f06f87cd",
+      "crc32": "e102535d",
+      "sha1": "1d23dba62f13214c01d6877cfafc9db3bb37e882",
       "format": "Metadata"
     },
     {
@@ -9688,9 +9728,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 937,
-  "item_last_updated": 1667448666,
-  "item_size": 91700685,
+  "files_count": 941,
+  "item_last_updated": 1667488906,
+  "item_size": 91806947,
   "metadata": {
     "identifier": "sinembargomx-2022",
     "collection": [
@@ -9707,10 +9747,25 @@
     "publicdate": "2022-08-16 17:12:18",
     "addeddate": "2022-08-16 17:12:18"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 1349020019,
+  "servers_unavailable": true,
+  "sinembargomx-2022": {
+    "url": "https://www.sinembargo.mx/",
+    "job_id": "spn2-e42198cfc2c862429e5d095921cbfbcf9c883177"
+  },
+  "tasks": [
+    {
+      "task_id": 3460764604,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 552567638,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }

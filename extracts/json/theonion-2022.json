@@ -1,6 +1,5 @@
 {
-  "conflict": 1667448833,
-  "created": 1667448833,
+  "created": 1667493851,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/8/items/theonion-2022",
@@ -17313,31 +17312,82 @@
       "sha1": "29b96156d160c02032c1d8af1a254b6928c94a38"
     },
     {
+      "name": "theonion-2022-11-03T10:23:51.320037-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667489047",
+      "size": "29356",
+      "md5": "3a8bedf1170675c32c764b7648e9e6e0",
+      "crc32": "b9a05b5a",
+      "sha1": "772063e4c26b1c32238aa21c49e50a977d0f657d",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-11-03T10:23:51.320037-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667489050",
+      "size": "18533",
+      "md5": "29d5b016a0dbdeb5b6c7d7cc523a32f1",
+      "crc32": "081cea34",
+      "sha1": "8fdd2de4d7167b4d2b8099ca40ee793288f6ff42",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-11-03T10:23:51.320037-05:00.jpg",
+      "source": "original",
+      "mtime": "1667489045",
+      "size": "282316",
+      "md5": "235a9207312de2c6ad03141c343f9620",
+      "crc32": "53678752",
+      "sha1": "b603c4cb4e6b39c0487d1995542ec52ae37648dd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theonion-2022-11-03T10:23:51.320037-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667489053",
+      "size": "1474",
+      "md5": "23e306dd203f94e0469df171b07b1457",
+      "crc32": "eb03a88b",
+      "sha1": "5b801345cfba569d24515bb5f20bd19347881b43",
+      "format": "JSON"
+    },
+    {
+      "name": "theonion-2022-11-03T10:23:51.320037-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667489056",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "theonion-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c6786ed7e3b1ffe3064492b88043179b2236a97f",
-      "mtime": "1667448745",
-      "size": "351162",
-      "md5": "17e2444efb2b7fbbdefd1e244b6a2da4",
-      "crc32": "d3527b1e",
-      "sha1": "45b8bc35fed3c920a3f8d5a3d368b6e0003fe5ec",
+      "btih": "29965f07b59b688a8e24f53b55edd8c276a1e8d0",
+      "mtime": "1667489127",
+      "size": "352223",
+      "md5": "a82bba3a41800788bcc1df61eecf241a",
+      "crc32": "473e7376",
+      "sha1": "4ec61e76725ab2eed9375069ad9830b51eb3e91c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theonion-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e1b3bfa7d015a344fcbe9b907b349c14",
+      "md5": "46678799a2a95e863f784d6b5bc08c0a",
       "summation": "md5"
     },
     {
       "name": "theonion-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667446441",
-      "size": "2027520",
-      "md5": "20c18622718b32248055ed00b31ac619",
-      "crc32": "248ab194",
-      "sha1": "f34bc83df88a26e6d8eab0a90fb012e590d617bb",
+      "mtime": "1667489064",
+      "size": "2031616",
+      "md5": "0a63b73d4c0b8b63fc188588ec7e6b28",
+      "crc32": "836153d1",
+      "sha1": "573156c3b4f0e482e4b6653778e13d7349db5db2",
       "format": "Metadata"
     },
     {
@@ -17351,9 +17401,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1667,
-  "item_last_updated": 1667448745,
-  "item_size": 122729844,
+  "files_count": 1672,
+  "item_last_updated": 1667489127,
+  "item_size": 123066882,
   "metadata": {
     "identifier": "theonion-2022",
     "collection": [
@@ -17375,23 +17425,20 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460295791,
+      "task_id": 3460766408,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3460323900,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 2041050088,
+  "theonion-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 2078399301,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

@@ -1,6 +1,5 @@
 {
-  "conflict": 1667448628,
-  "created": 1667448628,
+  "created": 1667488877,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/17/items/spokesmanreview-2022",
@@ -14001,31 +14000,82 @@
       "sha1": "a2516564b3ef0687b018fde09e0b750ea5fb7231"
     },
     {
+      "name": "spokesmanreview-2022-11-03T08:19:42.265930-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667488801",
+      "size": "1028",
+      "md5": "0c298f7298191590242790d96f64a6dc",
+      "crc32": "bc48f537",
+      "sha1": "9ecc257a86ca24fd6511c95e2646ed6a3c1252b7",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-11-03T08:19:42.265930-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667488805",
+      "size": "49535",
+      "md5": "ea5c8328147912c11e8a5daf22d275a7",
+      "crc32": "e5573fcd",
+      "sha1": "1b5926c1fbd3580b20f480a352fdf8f028bf7463",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-11-03T08:19:42.265930-07:00.jpg",
+      "source": "original",
+      "mtime": "1667488799",
+      "size": "345053",
+      "md5": "8e3dcfd22fff109dd0d00f4cedde093d",
+      "crc32": "9cc5f29b",
+      "sha1": "f308d3b37759490b65ee125ff982c8f32b19b4d4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spokesmanreview-2022-11-03T08:19:42.265930-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667488807",
+      "size": "1480",
+      "md5": "b5cc5b742bef49c9ce67480eb209a6e6",
+      "crc32": "aa753ebd",
+      "sha1": "acdb031dfac7f115a3efbf9e5266a6ee797c5329",
+      "format": "JSON"
+    },
+    {
+      "name": "spokesmanreview-2022-11-03T08:19:42.265930-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667488810",
+      "size": "28630",
+      "md5": "140842c9e0ade91cb3c1ffce1d399cd9",
+      "crc32": "d41855ef",
+      "sha1": "00107e9b07b03467585adb4ada2d2b848ea69a69",
+      "format": "JSON"
+    },
+    {
       "name": "spokesmanreview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "44a1b8821634d9aafdcf6c6d64cd11d508669507",
-      "mtime": "1667448624",
-      "size": "295115",
-      "md5": "a9928501ee35415a68ab62796388531f",
-      "crc32": "5b78b359",
-      "sha1": "81394be74786a456a4c0551fd0911378b5504777",
+      "btih": "e3dae9839e1bdf04c747b3478d6aad86105db701",
+      "mtime": "1667488870",
+      "size": "296212",
+      "md5": "aba1bcf41d2a12078429ecec1011ff27",
+      "crc32": "27224dd4",
+      "sha1": "64bac7f0bbae69c7dd18d16e9444beddd04b6643",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spokesmanreview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a06568371f43b6c9168568414a53329",
+      "md5": "636e4916bc8759ca58b3adc321c0d31d",
       "summation": "md5"
     },
     {
       "name": "spokesmanreview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667446300",
-      "size": "1720320",
-      "md5": "1e115d0a2f17a6e743e03e3622794585",
-      "crc32": "5d4cf5f0",
-      "sha1": "bed4984f83b143bc70d18cb05d02088e285925c5",
+      "mtime": "1667488817",
+      "size": "1724416",
+      "md5": "baa576bfdbff6b54f0a686407923b90c",
+      "crc32": "9391770b",
+      "sha1": "adf5893d6a506e97065ba074ad2c16f7b89fdf4a",
       "format": "Metadata"
     },
     {
@@ -14039,9 +14089,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1355,
-  "item_last_updated": 1667448624,
-  "item_size": 98060826,
+  "files_count": 1360,
+  "item_last_updated": 1667488870,
+  "item_size": 98491745,
   "metadata": {
     "identifier": "spokesmanreview-2022",
     "collection": [
@@ -14063,23 +14113,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460293813,
+      "task_id": 3460764353,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3460321209,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 110553728,
+  "uniq": 1333079939,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

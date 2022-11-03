@@ -1,5 +1,5 @@
 {
-  "created": 1667448580,
+  "created": 1667493313,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/spectrumnews-2022",
@@ -15440,31 +15440,82 @@
       "sha1": "9aeeca1c218b0811fe9e0ea6e0575c97d24f76ee"
     },
     {
+      "name": "spectrumnews-2022-11-03T09:19:53.126652-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667488805",
+      "size": "21412",
+      "md5": "595b88bc037e444b3add155083a50a23",
+      "crc32": "3e39c9b4",
+      "sha1": "472300d87922c163b51c790869375f8dd94d3c8f",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-11-03T09:19:53.126652-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667488808",
+      "size": "48063",
+      "md5": "4277aecf2f5bc745977309a013b51004",
+      "crc32": "b392f733",
+      "sha1": "0b25c07f722fb9b8488dbf04bb65796b8e1a174c",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-11-03T09:19:53.126652-06:00.jpg",
+      "source": "original",
+      "mtime": "1667488801",
+      "size": "252286",
+      "md5": "ebbed5c40841721edbcb013ca7c8c5e9",
+      "crc32": "f9032468",
+      "sha1": "cd3880ad6a6230ba329129cbf341613c1fa5c231",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "spectrumnews-2022-11-03T09:19:53.126652-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667488810",
+      "size": "1504",
+      "md5": "e8d9a90adaf8f45671e4427f8b6461ba",
+      "crc32": "1f760116",
+      "sha1": "82ef5aececdc1722c8f28fdc3a8f21446cda60dc",
+      "format": "JSON"
+    },
+    {
+      "name": "spectrumnews-2022-11-03T09:19:53.126652-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667488813",
+      "size": "252",
+      "md5": "d1a209eccc09efa1a0b01166ee6ac4c5",
+      "crc32": "6a5d23db",
+      "sha1": "26c37baa7e62a5581ed5dbcffb66c894991a9794",
+      "format": "JSON"
+    },
+    {
       "name": "spectrumnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "658844412dea834ab736bea92caa1809f0e6b422",
-      "mtime": "1667448536",
-      "size": "320189",
-      "md5": "68b1b409c8cbab50b4669bbd54188055",
-      "crc32": "abd1619a",
-      "sha1": "4f5ddd73114cba11723a786872a5ebae12f27259",
+      "btih": "178f12284268f1609bbc5d029ac2fb1263dc6e76",
+      "mtime": "1667488875",
+      "size": "321270",
+      "md5": "f08ed005b63d0fb0081d2480b64bd5f4",
+      "crc32": "7baec449",
+      "sha1": "b9185ca89e5d14b9bebe2cab428bb5d3dadfb06a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "spectrumnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0bed34093a99fc3f4702625e367e488d",
+      "md5": "e1a2e90ce2502021244d2f3e08689e9c",
       "summation": "md5"
     },
     {
       "name": "spectrumnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667446289",
-      "size": "1867776",
-      "md5": "f0853831d80b662a0d726ed026c3dad7",
-      "crc32": "9af823f6",
-      "sha1": "9936396bbbee0d7793f8ba80689cf8945d1846f2",
+      "mtime": "1667488817",
+      "size": "1871872",
+      "md5": "6c65e7584485fc1732d90c43f5000316",
+      "crc32": "0fb5853e",
+      "sha1": "3e7fdc3489e4c8fb29e23f5e6182d966469b335f",
       "format": "Metadata"
     },
     {
@@ -15478,9 +15529,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1492,
-  "item_last_updated": 1667448536,
-  "item_size": 100432454,
+  "files_count": 1497,
+  "item_last_updated": 1667488875,
+  "item_size": 100761148,
   "metadata": {
     "identifier": "spectrumnews-2022",
     "collection": [
@@ -15497,10 +15548,29 @@
     "publicdate": "2022-06-24 23:02:15",
     "addeddate": "2022-06-24 23:02:15"
   },
+  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "uniq": 558199088,
+  "servers_unavailable": true,
+  "spectrumnews-2022": {
+    "url": "https://www.thespectrum.com/",
+    "job_id": "spn2-7862712e63b689c763f0c1e8420af4f338fb70e3",
+    "resources": [],
+    "status": "error",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 737.",
+    "status_ext": "WorkerLostError"
+  },
+  "tasks": [
+    {
+      "task_id": 3460764381,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1214479573,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia902507.us.archive.org"
   ]
 }
