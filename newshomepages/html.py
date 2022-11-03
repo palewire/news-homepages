@@ -11,7 +11,8 @@ from . import utils
 
 def _read_script_from_file(filename: typing.Union[str, Path]) -> str:
     """Read and return Javascript code from a file. Convenience function."""
-    with open(filename) as f:
+    ext_dir = utils.EXTENSIONS_PATH / "singlefile" / "javascript"
+    with open(ext_dir / filename) as f:
         return f.read()
 
 
@@ -51,17 +52,15 @@ def _save_html(
             handle=site["handle"],
             full_page=True,
         )
-        SINGLE_FILE_PATH = utils.EXTENSIONS_PATH / "singlefile" / "javascript"
         single_file_pre_load_extensions = [
-            SINGLE_FILE_PATH / "single-file-bootstrap.js",
-            SINGLE_FILE_PATH / "single-file-hooks-frames.js",
-            SINGLE_FILE_PATH / "single-file-frames.js",
+            "single-file-bootstrap.js",
+             "single-file-hooks-frames.js",
+            "single-file-frames.js",
         ]
         for f in single_file_pre_load_extensions:
             page.evaluate(_read_script_from_file(f))
 
-        post_load_script = SINGLE_FILE_PATH / "single-file.js"
-        page.evaluate(_read_script_from_file(post_load_script))
+        page.evaluate(_read_script_from_file("single-file.js"))
         page_html_content = page.evaluate(
             """
                 () => singlefile.getPageData({
