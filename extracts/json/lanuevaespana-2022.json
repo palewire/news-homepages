@@ -1,5 +1,5 @@
 {
-  "created": 1667409302,
+  "created": 1667451787,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/lanuevaespana-2022",
@@ -11813,31 +11813,93 @@
       "format": "JSON"
     },
     {
+      "name": "lanuevaespana-2022-11-02T18:12:59.021974+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lanuevaespana-2022-11-02T18:12:59.021974+01:00.jpg",
+      "mtime": "1667413739",
+      "size": "9746",
+      "md5": "3b8718902e6e32ad9202692c6120bece",
+      "crc32": "bace6712",
+      "sha1": "40f81a715dba7bd5b84bf5b4cebeba4cf214755b"
+    },
+    {
+      "name": "lanuevaespana-2022-11-03T06:00:15.057046+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451642",
+      "size": "126511",
+      "md5": "d63aba51fa121918d6aa1117c151dc08",
+      "crc32": "39bf096c",
+      "sha1": "0e30f0d447c61bb49c53fa348b22caaf6a91a167",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-11-03T06:00:15.057046+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451643",
+      "size": "194471",
+      "md5": "279b3622e30b4f349d2f10ef24467efc",
+      "crc32": "b629f801",
+      "sha1": "2bd0ac750fba78232041b68de3f6bf2d10b7bdd9",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-11-03T06:00:15.057046+01:00.jpg",
+      "source": "original",
+      "mtime": "1667451640",
+      "size": "301606",
+      "md5": "499bb23a4fcebea34b2936d9063302fb",
+      "crc32": "beaded55",
+      "sha1": "f9dd7e21ad9e997be7e5b6cc3283d7dbed051da1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lanuevaespana-2022-11-03T06:00:15.057046+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451645",
+      "size": "1422",
+      "md5": "889c534e6d0ae57b21d3adae3b41c1b7",
+      "crc32": "a4dca470",
+      "sha1": "8609fdf78d822215baf30f30335ee89326f29c3a",
+      "format": "JSON"
+    },
+    {
+      "name": "lanuevaespana-2022-11-03T06:00:15.057046+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451646",
+      "size": "29073",
+      "md5": "fd68172e7914ebaedc0566e584ce16f0",
+      "crc32": "3e8bd0a7",
+      "sha1": "6306495cb2b1a31a18fdf37b05590962937865a0",
+      "format": "JSON"
+    },
+    {
       "name": "lanuevaespana-2022_archive.torrent",
       "source": "metadata",
-      "btih": "59659b9192507c7af4f2c235bbba03f80c200b14",
-      "mtime": "1667409294",
-      "size": "249434",
-      "md5": "1aa0155a67122818f2d3d6779e263ad9",
-      "crc32": "cca5b72d",
-      "sha1": "ce075ce134d493655d8d4f05d8f7045b49ab1eb5",
+      "btih": "c0d165e6f8f7142cb47e7ecc952751d584b338db",
+      "mtime": "1667451769",
+      "size": "250753",
+      "md5": "cd934f4ff7f3f377c6a8a4360773acee",
+      "crc32": "6ab35217",
+      "sha1": "6b6591e28ea00b33f9911d3a972014a20e1b4851",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lanuevaespana-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58578e1cd2104809643758ef44cad68e",
+      "md5": "471a54b49c6f5fb677e3526ea11309a6",
       "summation": "md5"
     },
     {
       "name": "lanuevaespana-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409220",
-      "size": "1470464",
-      "md5": "ebc8c285d6af7b16cf51600e6ca3bf51",
-      "crc32": "66062827",
-      "sha1": "f50632bb7112be30829f9a61ba117be4f34405ba",
+      "mtime": "1667451675",
+      "size": "1478656",
+      "md5": "9bf9f13dee840fdfcd8a81ba036c12e3",
+      "crc32": "92808a4b",
+      "sha1": "4a0573c7c13d0770a99a6cd9662ba51b7eca3763",
       "format": "Metadata"
     },
     {
@@ -11851,9 +11913,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1146,
-  "item_last_updated": 1667409294,
-  "item_size": 122308175,
+  "files_count": 1152,
+  "item_last_updated": 1667451769,
+  "item_size": 122980515,
   "metadata": {
     "identifier": "lanuevaespana-2022",
     "collection": [
@@ -11875,15 +11937,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459897369,
+      "task_id": 3460357266,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1381063751,
+  "uniq": 413922102,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667409178,
+  "created": 1667454025,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/hwherald-2022",
@@ -19207,31 +19207,93 @@
       "format": "JSON"
     },
     {
+      "name": "hwherald-2022-11-02T12:11:01.049080-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hwherald-2022-11-02T12:11:01.049080-05:00.jpg",
+      "mtime": "1667413798",
+      "size": "9225",
+      "md5": "2d9f9b6a42e6bbedc837677b9e53cec0",
+      "crc32": "ad61aefd",
+      "sha1": "140b1e9e499f5eb8dabebef646cf1d582ad78ff9"
+    },
+    {
+      "name": "hwherald-2022-11-02T23:58:18.023152-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451501",
+      "size": "18770",
+      "md5": "e2eb1b267e71bceac84b10d08cb0d971",
+      "crc32": "f373c456",
+      "sha1": "79ac993c34543686fa75cc3981453a97617dacc6",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-11-02T23:58:18.023152-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451502",
+      "size": "7236",
+      "md5": "c7965019467a64b3e9b491bd78d13a1f",
+      "crc32": "8bd1c50e",
+      "sha1": "bf6530119114932822c3cdb1be5e5d18c71ac9ff",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-11-02T23:58:18.023152-05:00.jpg",
+      "source": "original",
+      "mtime": "1667451499",
+      "size": "272789",
+      "md5": "9942bf3f184c2340a6975639ef969d57",
+      "crc32": "a9a02659",
+      "sha1": "b31f62b6bd28eea718e15015f61e39a9e11de7d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "hwherald-2022-11-02T23:58:18.023152-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451504",
+      "size": "1459",
+      "md5": "062cd3c82a34c2139f0234b3235f5b74",
+      "crc32": "dea56081",
+      "sha1": "cbc61114926d30c747e653fe913ec15f07c786fc",
+      "format": "JSON"
+    },
+    {
+      "name": "hwherald-2022-11-02T23:58:18.023152-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451506",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "hwherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "10c1db5760b8206c38f1b66e81171fab704158b7",
-      "mtime": "1667409166",
-      "size": "390363",
-      "md5": "8a12b70b3ae3f83c871eded662571bf6",
-      "crc32": "a21ed0cf",
-      "sha1": "08e868c7949c67047c5b9f6391b514135b218164",
+      "btih": "09f0024714dc1b05cee60ea18b92b425da4cadca",
+      "mtime": "1667451580",
+      "size": "391627",
+      "md5": "89432a67394496043dbd30798571bbb3",
+      "crc32": "f4669463",
+      "sha1": "60501e5d7f9d4065c734a4d5d24fe1d9bd35c817",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hwherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a6a8044abfeaa17afd2283da7c5dda04",
+      "md5": "ca8ae2cb0f31023f09bbf3f5f856ccf7",
       "summation": "md5"
     },
     {
       "name": "hwherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409099",
-      "size": "2334720",
-      "md5": "7b437e76a36160754c76bdb40bae2e5f",
-      "crc32": "9b59e204",
-      "sha1": "51edb4f6acec8574309e77e2e92b3a64b2652086",
+      "mtime": "1667451516",
+      "size": "2342912",
+      "md5": "d205b7c0f10a930304058fdbcb5b7b4c",
+      "crc32": "f4183a67",
+      "sha1": "7d3e25ad1f8e870a7ad206113ce6b32106431cc9",
       "format": "Metadata"
     },
     {
@@ -19245,9 +19307,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1859,
-  "item_last_updated": 1667409166,
-  "item_size": 105713120,
+  "files_count": 1865,
+  "hwherald-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667451580,
+  "item_size": 106032257,
   "metadata": {
     "identifier": "hwherald-2022",
     "collection": [
@@ -19269,15 +19336,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459895754,
+      "task_id": 3460352665,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1133714537,
+  "uniq": 962127169,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

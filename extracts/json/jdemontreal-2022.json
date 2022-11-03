@@ -1,5 +1,5 @@
 {
-  "created": 1667409223,
+  "created": 1667451617,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/22/items/jdemontreal-2022",
@@ -14865,31 +14865,93 @@
       "format": "JSON"
     },
     {
+      "name": "jdemontreal-2022-11-02T13:12:25.279246-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jdemontreal-2022-11-02T13:12:25.279246-04:00.jpg",
+      "mtime": "1667413660",
+      "size": "10057",
+      "md5": "4bc8f5d271b525cfd7e6de0f001ffa8a",
+      "crc32": "1178fad4",
+      "sha1": "6b77e2528180a74a8dd28c62815fdd7fc7437b54"
+    },
+    {
+      "name": "jdemontreal-2022-11-03T00:58:33.877104-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451516",
+      "size": "25511",
+      "md5": "81bffd60faaf10bee142ee8c5611101b",
+      "crc32": "527a14b4",
+      "sha1": "71b567d0831b0754560ce2b60337a331d700483f",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-11-03T00:58:33.877104-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451518",
+      "size": "42223",
+      "md5": "bfb2ba665377f9e351ffec06869a63be",
+      "crc32": "90e0813e",
+      "sha1": "18b59dfa6b5e2777e7fd40fe320e63ace4be7967",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-11-03T00:58:33.877104-04:00.jpg",
+      "source": "original",
+      "mtime": "1667451515",
+      "size": "229847",
+      "md5": "318acb97184139d3e018d2f79e47e01e",
+      "crc32": "13731e07",
+      "sha1": "ee1dbb3bc20a1076aec1cae214705d19f49203e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jdemontreal-2022-11-03T00:58:33.877104-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451519",
+      "size": "1558",
+      "md5": "71e06248dcf7a14db88f4fd032bfd823",
+      "crc32": "8359d4a4",
+      "sha1": "62d0c2fc877697af28ff3b0dd8c41a55300c12ef",
+      "format": "JSON"
+    },
+    {
+      "name": "jdemontreal-2022-11-03T00:58:33.877104-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451521",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "jdemontreal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ec3f100416079218145055646dce6320b10f9605",
-      "mtime": "1667409217",
-      "size": "307080",
-      "md5": "61ad69f2c042de698d6038d80d1865f2",
-      "crc32": "b27df0af",
-      "sha1": "9747d859a18c05d2a0c675dee70599d999e9f767",
+      "btih": "50f174ecb3bd440c78f79b4a68b5c210e7e1631d",
+      "mtime": "1667451609",
+      "size": "308344",
+      "md5": "3cfa053397192ebbd8c9ca8a3078a83c",
+      "crc32": "89e645a3",
+      "sha1": "665d534502d5b1c5f89f8eba107bc5cd31e7e1c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jdemontreal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c1efd46f784c07d2db332ee8690f6a42",
+      "md5": "62cd48406bce4e0354fc23e873510cb0",
       "summation": "md5"
     },
     {
       "name": "jdemontreal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409166",
-      "size": "1802240",
-      "md5": "08ebd9bb5998e40b3c19c182f9aa427f",
-      "crc32": "830b9a3e",
-      "sha1": "bc0c0eac239c4223f2b733110a2927f43e4a7565",
+      "mtime": "1667451537",
+      "size": "1806336",
+      "md5": "fd0553c89c3c3751e0a8937f681fd40f",
+      "crc32": "6274abbc",
+      "sha1": "a2af7342de606b7c22b825e22ec10be65f6706e4",
       "format": "Metadata"
     },
     {
@@ -14903,9 +14965,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1437,
-  "item_last_updated": 1667409217,
-  "item_size": 94223159,
+  "files_count": 1443,
+  "item_last_updated": 1667451609,
+  "item_size": 94537917,
   "metadata": {
     "identifier": "jdemontreal-2022",
     "collection": [
@@ -14927,15 +14989,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459896316,
+      "task_id": 3460353040,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 140383746,
+  "uniq": 79532563,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667409199,
+  "created": 1667451667,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/35/items/jornaloglobo-2022",
@@ -16347,31 +16347,93 @@
       "format": "JSON"
     },
     {
+      "name": "jornaloglobo-2022-11-02T14:11:20.142485-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaloglobo-2022-11-02T14:11:20.142485-03:00.jpg",
+      "mtime": "1667413860",
+      "size": "10065",
+      "md5": "a077a18871d818bde729217a35109b3d",
+      "crc32": "597cdb24",
+      "sha1": "39195b053fe32319c9b30d15ab5803d36c5dd56c"
+    },
+    {
+      "name": "jornaloglobo-2022-11-03T01:58:35.116196-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451538",
+      "size": "39182",
+      "md5": "bcacfcda3741630c89980b6a1f69c0d4",
+      "crc32": "556bf26c",
+      "sha1": "34d9dc6aaf54ce7db8f29b096be98e9d840240a6",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-11-03T01:58:35.116196-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451540",
+      "size": "44994",
+      "md5": "1b8b52406e30b116779a60492b7ac7ec",
+      "crc32": "2fa1a44d",
+      "sha1": "715b765a104e73a4b198ef077013f7a0f483d606",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-11-03T01:58:35.116196-03:00.jpg",
+      "source": "original",
+      "mtime": "1667451537",
+      "size": "301799",
+      "md5": "2ea30bbcd83d77480421c1771a969a3a",
+      "crc32": "2e4fa1b1",
+      "sha1": "617809fb0a6eb759cbb630726e870a903e2b1d58",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaloglobo-2022-11-03T01:58:35.116196-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451541",
+      "size": "1474",
+      "md5": "aff797449426e038cb4abba44b69e769",
+      "crc32": "728b8b6a",
+      "sha1": "a5e220c6066dffd911b9031fe2a2030197069dd4",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaloglobo-2022-11-03T01:58:35.116196-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451543",
+      "size": "114017",
+      "md5": "1a0f3a32aabf4ff5e97bb929ccdff0f3",
+      "crc32": "aa44d8ca",
+      "sha1": "b9f1930cbce8be3fbfbdfe778ee02f73a2092c0c",
+      "format": "JSON"
+    },
+    {
       "name": "jornaloglobo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b8e4996566c30b3b82fdc2b6b1e512759c9960be",
-      "mtime": "1667409190",
-      "size": "341130",
-      "md5": "6cbdf84928662177128a7995bd73cab9",
-      "crc32": "80b203fa",
-      "sha1": "abbe26d43c09778dc130396fba1fbb818689e69a",
+      "btih": "3e2b4641192e9d2feb257dcdecf1c856b11f0531",
+      "mtime": "1667451646",
+      "size": "342423",
+      "md5": "16a4c58a2bdb000f53fcf43730ff5a07",
+      "crc32": "9cd9a9b3",
+      "sha1": "a63755bc1f65b1e4499bff5685bf968183bfd7e7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaloglobo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0597ca163687e9829e0d18e80a28ce6b",
+      "md5": "c1a6d8c62035c2db1a4539133c8c0576",
       "summation": "md5"
     },
     {
       "name": "jornaloglobo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409123",
-      "size": "2027520",
-      "md5": "36b0ec3ef69919f3576a1b93f2ffad2f",
-      "crc32": "073fb731",
-      "sha1": "4db98e9702e720be25dfb8e591b827e6f1baf971",
+      "mtime": "1667451567",
+      "size": "2031616",
+      "md5": "7d45a189234669e339fbecae75617c0a",
+      "crc32": "0d04df96",
+      "sha1": "2d4a151b91d1958f685a1d699d8c3a3e65300691",
       "format": "Metadata"
     },
     {
@@ -16385,9 +16447,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1585,
-  "item_last_updated": 1667409190,
-  "item_size": 124354545,
+  "files_count": 1591,
+  "item_last_updated": 1667451646,
+  "item_size": 124871465,
   "metadata": {
     "identifier": "jornaloglobo-2022",
     "collection": [
@@ -16409,15 +16471,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459895994,
+      "task_id": 3460354282,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1034445435,
+  "uniq": 384546242,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

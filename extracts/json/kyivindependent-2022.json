@@ -1,5 +1,5 @@
 {
-  "created": 1667409306,
+  "created": 1667451726,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/24/items/kyivindependent-2022",
@@ -22987,31 +22987,93 @@
       "format": "JSON"
     },
     {
+      "name": "kyivindependent-2022-11-02T19:13:13.034822+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kyivindependent-2022-11-02T19:13:13.034822+02:00.jpg",
+      "mtime": "1667413698",
+      "size": "9839",
+      "md5": "853bd5138c61033ddc413a8f6cf0ff27",
+      "crc32": "1e4828b9",
+      "sha1": "d5ab94f17602caa532d0936fde4c906823f17768"
+    },
+    {
+      "name": "kyivindependent-2022-11-03T07:00:22.719232+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451634",
+      "size": "47323",
+      "md5": "6ab1e670422b02dc7d58d9baf9ec0384",
+      "crc32": "e766e79f",
+      "sha1": "94632a72ea9a8ebb322472865af109de63b605c7",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-11-03T07:00:22.719232+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451636",
+      "size": "32207",
+      "md5": "e6b8bb987fbb526deb53ba8084d3c518",
+      "crc32": "d8b8218d",
+      "sha1": "1ef1b69887ccce607aec41b94c2625dfc1f8e084",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-11-03T07:00:22.719232+02:00.jpg",
+      "source": "original",
+      "mtime": "1667451631",
+      "size": "327290",
+      "md5": "120466386e714aada80f6c17138a055a",
+      "crc32": "41e65d54",
+      "sha1": "ad5a8bb02107aa055a98b5276391d1d457803eb8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kyivindependent-2022-11-03T07:00:22.719232+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451638",
+      "size": "1504",
+      "md5": "68f28c46f6f9c2c11ecacbc4b16263e5",
+      "crc32": "e2289285",
+      "sha1": "dbec6fa5822888b046d918a57b120f7b40df40b4",
+      "format": "JSON"
+    },
+    {
+      "name": "kyivindependent-2022-11-03T07:00:22.719232+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451640",
+      "size": "15736",
+      "md5": "7a1740a13979b6cea9bab19ee15d5e11",
+      "crc32": "651c7b97",
+      "sha1": "45df30143c3343f1ef3bdce40a1eded7a78ef272",
+      "format": "JSON"
+    },
+    {
       "name": "kyivindependent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4cce30a45bf79193227f94a4372a75d41aa98ff5",
-      "mtime": "1667409294",
-      "size": "479557",
-      "md5": "21527723937e07565ab68a4692de397b",
-      "crc32": "d2f30110",
-      "sha1": "8cd3b554bb4e42bc5e3e83a8f5fd52547d43e98b",
+      "btih": "3b410f744db4d1548286504e0f5c63a41fcc6288",
+      "mtime": "1667451720",
+      "size": "480866",
+      "md5": "7bd94be18a0d4b815775ac28d2e62d46",
+      "crc32": "03ffb652",
+      "sha1": "b8059c9e44bf30c76cdd05bebb7f3e20e8be0de0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kyivindependent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d0078216a621e1a35638b44c6ff84dcd",
+      "md5": "209138aa55920d33504f296c2fb8a851",
       "summation": "md5"
     },
     {
       "name": "kyivindependent-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409218",
-      "size": "2691072",
-      "md5": "60921a402e29b8c4d6eaa91dfa0bc9dc",
-      "crc32": "dc30d996",
-      "sha1": "586c8e3abe9b351c33ade596b9061936c29d7c33",
+      "mtime": "1667451647",
+      "size": "2699264",
+      "md5": "88585cc83183a700fe1f28bab3941f89",
+      "crc32": "2dd8f1ba",
+      "sha1": "0dbcdae0e99ea7256f02fff7c95193d75e65fb78",
       "format": "Metadata"
     },
     {
@@ -23025,9 +23087,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2209,
-  "item_last_updated": 1667409294,
-  "item_size": 154974706,
+  "files_count": 2215,
+  "item_last_updated": 1667451720,
+  "item_size": 155418106,
   "metadata": {
     "identifier": "kyivindependent-2022",
     "collection": [
@@ -23049,15 +23111,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459897408,
+      "task_id": 3460355596,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1510450256,
+  "uniq": 298437283,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

@@ -1,5 +1,6 @@
 {
-  "created": 1667409243,
+  "conflict": 1667454042,
+  "created": 1667454042,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/5/items/kcrw-2022",
@@ -17731,31 +17732,99 @@
       "format": "JSON"
     },
     {
+      "name": "kcrw-2022-11-02T10:12:13.418079-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrw-2022-11-02T10:12:13.418079-07:00.jpg",
+      "mtime": "1667413819",
+      "size": "9737",
+      "md5": "5c780efbcae1c9b9f76319937192e0c9",
+      "crc32": "b8c2c610",
+      "sha1": "951ba777942722fc15109469deba6a9693201d9f"
+    },
+    {
+      "name": "kcrw-2022-11-02T22:00:31.575088-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451635",
+      "size": "56272",
+      "md5": "9795b90ae5e788f74112e33ea62aa22b",
+      "crc32": "55b46f9d",
+      "sha1": "8f00864e5d81c4ced58bf3cbe91acce5f10c6931",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrw-2022-11-02T22:00:31.575088-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451636",
+      "size": "31896",
+      "md5": "b87d87870e40d53e6e8125076811c387",
+      "crc32": "3a83a924",
+      "sha1": "cef724fb934ea769641c593b339dea43a830369e",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrw-2022-11-02T22:00:31.575088-07:00.jpg",
+      "source": "original",
+      "mtime": "1667451633",
+      "size": "259574",
+      "md5": "60d03162ff34bec0d2596340cdf65218",
+      "crc32": "2f0c3c47",
+      "sha1": "f71446bc1e8e41c9ff9a8b46f0ca2e445a422416",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kcrw-2022-11-02T22:00:31.575088-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451638",
+      "size": "1440",
+      "md5": "be68c906a3f1006223994e8743654f93",
+      "crc32": "4e5aef35",
+      "sha1": "fa71e5175293233e9cbbc4a487b05fc6fd6eb14b",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrw-2022-11-02T22:00:31.575088-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451639",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "kcrw-2022-11-02T22:00:31.575088-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kcrw-2022-11-02T22:00:31.575088-07:00.jpg"
+    },
+    {
       "name": "kcrw-2022_archive.torrent",
       "source": "metadata",
-      "btih": "22a5a85cf46c0e8156298f1e7c88843b3cf76783",
-      "mtime": "1667409227",
-      "size": "354525",
-      "md5": "3b0d01142c14c6101db4ae2988fad95e",
-      "crc32": "f9bd8dc9",
-      "sha1": "3dc774f797224bc9c132456ffa60b1e49ace2fcc",
+      "btih": "710173debb36cde775523e04529514bec1593e45",
+      "mtime": "1667451720",
+      "size": "355746",
+      "md5": "298657c261c60ad7a9f6d51882a621a5",
+      "crc32": "57547824",
+      "sha1": "1956426b94b620a1d8fe90060c8de797bb13a5a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kcrw-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "52596e2dd8eb7de63905cf598d350190",
+      "md5": "be8de2565680f9425d87e553f05f2709",
       "summation": "md5"
     },
     {
       "name": "kcrw-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409162",
-      "size": "2154496",
-      "md5": "9936fa3274445848fd6eec64e01c1b49",
-      "crc32": "464e2c62",
-      "sha1": "d576c8aad2ed7707e56942b8e0330f1f4ce5f402",
+      "mtime": "1667451654",
+      "size": "2162688",
+      "md5": "8694fb0e292b7b895ca2b2befde0202e",
+      "crc32": "5495a641",
+      "sha1": "8e172b09597fb8ca0c558e4eae64aa5cb943940f",
       "format": "Metadata"
     },
     {
@@ -17769,9 +17838,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1717,
-  "item_last_updated": 1667409227,
-  "item_size": 106851494,
+  "files_count": 1724,
+  "item_last_updated": 1667451720,
+  "item_size": 107220028,
   "metadata": {
     "identifier": "kcrw-2022",
     "collection": [
@@ -17793,15 +17862,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459896598,
+      "task_id": 3460355709,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1181794101,
+  "uniq": 1592098721,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

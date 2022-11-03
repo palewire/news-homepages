@@ -1,5 +1,5 @@
 {
-  "created": 1667409309,
+  "created": 1667451987,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/1/items/kerrville-2022",
@@ -12827,31 +12827,93 @@
       "format": "JSON"
     },
     {
+      "name": "kerrville-2022-11-02T12:12:30.913361-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kerrville-2022-11-02T12:12:30.913361-05:00.jpg",
+      "mtime": "1667414525",
+      "size": "9918",
+      "md5": "d0b94d841ebc6b1f2329593a7e80b8e2",
+      "crc32": "01044ea4",
+      "sha1": "babe8a9798cc35626910b348126ac0d0bec31e42"
+    },
+    {
+      "name": "kerrville-2022-11-03T00:01:27.925281-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451699",
+      "size": "77268",
+      "md5": "f5f144e4e385a83dbf46efdaab9c98ba",
+      "crc32": "aa115930",
+      "sha1": "57b0246c700712b91cb3f6769fbb3d309f30b40d",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-11-03T00:01:27.925281-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451700",
+      "size": "126732",
+      "md5": "25134e852ad6fc2b0a75c7d9984cf242",
+      "crc32": "cd94fd60",
+      "sha1": "19a850d16729eda010299a1e354f6f26d69f3291",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-11-03T00:01:27.925281-05:00.jpg",
+      "source": "original",
+      "mtime": "1667451697",
+      "size": "318623",
+      "md5": "4f69f35256096a3928a5add09511a5f7",
+      "crc32": "379cfd97",
+      "sha1": "a7355d4db43dcda458017215cfbe8a1d12e12d6f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kerrville-2022-11-03T00:01:27.925281-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451702",
+      "size": "1458",
+      "md5": "fd8149fc5b649db5d41db02207626da4",
+      "crc32": "90c12db7",
+      "sha1": "e82f7bb960003740f7da779c68cf3d43491508d9",
+      "format": "JSON"
+    },
+    {
+      "name": "kerrville-2022-11-03T00:01:27.925281-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451703",
+      "size": "63132",
+      "md5": "11a328494c95eb8f343b786930774039",
+      "crc32": "cf5fb5ed",
+      "sha1": "81062c61cd90bbd60b4a2fd07aa0d40bd43f98a6",
+      "format": "JSON"
+    },
+    {
       "name": "kerrville-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7537762600bbd0517c03aabbb746343e24d67727",
-      "mtime": "1667409286",
-      "size": "264996",
-      "md5": "c84c178d151645b3bea84b56fb39a098",
-      "crc32": "85604db1",
-      "sha1": "4b6d9613cda134f0210f21be680770c5dd88c8c8",
+      "btih": "dcd64c7d93e72702c282fa2be1e0a9453ebdb316",
+      "mtime": "1667451911",
+      "size": "266270",
+      "md5": "845b7fb27a154ee95c427054dd31a697",
+      "crc32": "fead366f",
+      "sha1": "e7b66674045e6fb61371ea5d6a33af89bbc32b7e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kerrville-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a416abb3eef561df7365a93247256c18",
+      "md5": "e41f0f006a7077190ef58c3d5ec91c4e",
       "summation": "md5"
     },
     {
       "name": "kerrville-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409200",
-      "size": "1572864",
-      "md5": "61742669237c150a4d0367bb0694d361",
-      "crc32": "53b5c9a5",
-      "sha1": "e10e495636d466518c70daa085d3f8f86e270268",
+      "mtime": "1667451845",
+      "size": "1581056",
+      "md5": "691ea55e4dd1841de38710cd581046ed",
+      "crc32": "0a41ceeb",
+      "sha1": "9a8342087de06b7c50ddb5480849d426cda3a696",
       "format": "Metadata"
     },
     {
@@ -12865,9 +12927,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1243,
-  "item_last_updated": 1667409286,
-  "item_size": 124581102,
+  "files_count": 1249,
+  "item_last_updated": 1667451911,
+  "item_size": 125187699,
   "metadata": {
     "identifier": "kerrville-2022",
     "collection": [
@@ -12889,7 +12951,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459897614,
+      "task_id": 3460360800,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12897,7 +12959,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1775357349,
+  "uniq": 767962447,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

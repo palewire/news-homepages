@@ -1,5 +1,5 @@
 {
-  "created": 1667409199,
+  "created": 1667451750,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/31/items/karobar_daily-2022",
@@ -12269,31 +12269,93 @@
       "format": "JSON"
     },
     {
+      "name": "karobar_daily-2022-11-02T22:56:22.449707+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "karobar_daily-2022-11-02T22:56:22.449707+05:45.jpg",
+      "mtime": "1667413894",
+      "size": "10057",
+      "md5": "b0eb3072c1dcf6a984c71c57f19a75c4",
+      "crc32": "646c58d1",
+      "sha1": "86037f488975b01848ecb7e2b3f95b31280cee80"
+    },
+    {
+      "name": "karobar_daily-2022-11-03T10:45:26.428300+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667451656",
+      "size": "73033",
+      "md5": "6c1c13db7efb6423c1f54aa570e36386",
+      "crc32": "71bb02ce",
+      "sha1": "4df8baf7e951f9c6a6e50fe6822d21d8ccbc0dab",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-11-03T10:45:26.428300+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451658",
+      "size": "46415",
+      "md5": "74d39a32b2081b087d116b35972ee628",
+      "crc32": "bbe3f5cb",
+      "sha1": "4f5af7318051bc7a23a296371dcc57d3ac840e09",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-11-03T10:45:26.428300+05:45.jpg",
+      "source": "original",
+      "mtime": "1667451654",
+      "size": "171054",
+      "md5": "22685440c9f0d0187d2d94a3a52688cf",
+      "crc32": "29b891be",
+      "sha1": "6df4753f9d2e0172d9e14f76cd26635922863dec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "karobar_daily-2022-11-03T10:45:26.428300+05:45.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451659",
+      "size": "1513",
+      "md5": "29c198012fb2454f717408d66eab1931",
+      "crc32": "a630e57b",
+      "sha1": "5474da0b43c84ca1d6c97f76cd260d0207d717a9",
+      "format": "JSON"
+    },
+    {
+      "name": "karobar_daily-2022-11-03T10:45:26.428300+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667451661",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "karobar_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b9945b3bc9ca7152fafb829fb80785702196e93f",
-      "mtime": "1667409185",
-      "size": "256783",
-      "md5": "3f00c0ba3b8bfc227a4e32823f6f00ea",
-      "crc32": "5c8e4562",
-      "sha1": "e5f5861b6d62dd39234819e6e1071d862235174f",
+      "btih": "6b48bddaac301cdda0dd28e1f7af49bd51380692",
+      "mtime": "1667451741",
+      "size": "258059",
+      "md5": "3a1db4af61be6aeb3af0b8f8398743ce",
+      "crc32": "3b64b983",
+      "sha1": "2bafd1dd2cf0108242300e41de6e6801e0737b5d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "karobar_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2a4221e4eb87a9e536ec5155f5f77b19",
+      "md5": "a40ea625959955a37693d53718e79c46",
       "summation": "md5"
     },
     {
       "name": "karobar_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409118",
-      "size": "1527808",
-      "md5": "ba07d0f07bd6bc1f32def69202e90e7b",
-      "crc32": "d5b1d11d",
-      "sha1": "4cc69e369690897b8375e9d5b25faa7ea6c762a3",
+      "mtime": "1667451674",
+      "size": "1536000",
+      "md5": "e8a264dd1e7d73e030a1d51307b8d938",
+      "crc32": "88726dd5",
+      "sha1": "a60ba5591e9017dba08bf05b1e7f16fc63acce2d",
       "format": "Metadata"
     },
     {
@@ -12307,9 +12369,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1190,
-  "item_last_updated": 1667409185,
-  "item_size": 76402345,
+  "files_count": 1196,
+  "item_last_updated": 1667451741,
+  "item_size": 76714087,
   "metadata": {
     "identifier": "karobar_daily-2022",
     "collection": [
@@ -12331,15 +12393,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459895986,
+      "task_id": 3460356119,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1625418572,
+  "uniq": 1820314528,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

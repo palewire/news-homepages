@@ -1,5 +1,5 @@
 {
-  "created": 1667409371,
+  "created": 1667451848,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/34/items/mnherald-2022",
@@ -5399,31 +5399,93 @@
       "format": "JSON"
     },
     {
+      "name": "mnherald-2022-11-02T12:14:57.015154-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mnherald-2022-11-02T12:14:57.015154-05:00.jpg",
+      "mtime": "1667413997",
+      "size": "8929",
+      "md5": "66b7406334a22c1d06113f02f8b013bc",
+      "crc32": "b06b4b16",
+      "sha1": "48caff2f0f68e8b7fe4a60b0be9240cd856aa5fb"
+    },
+    {
+      "name": "mnherald-2022-11-03T00:03:02.547903-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451785",
+      "size": "15237",
+      "md5": "032fb1947181d4fb212edd896fdf8c85",
+      "crc32": "facb1029",
+      "sha1": "5f66f432ca03e78f43f8fe9faabbbe529cf35ec4",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-11-03T00:03:02.547903-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451787",
+      "size": "31278",
+      "md5": "bd726522dae97753fb942ff067180119",
+      "crc32": "2c5be633",
+      "sha1": "b3971df8580a220f5007f5a7ec42f355abbd3ecf",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-11-03T00:03:02.547903-05:00.jpg",
+      "source": "original",
+      "mtime": "1667451783",
+      "size": "300206",
+      "md5": "323783cbf68d8f33c7db209a9590232c",
+      "crc32": "06bafc95",
+      "sha1": "8358c5c764a97627090f001684b93caab42300d3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mnherald-2022-11-03T00:03:02.547903-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451788",
+      "size": "1585",
+      "md5": "ffc85702407c1f348b8bd0b1476485a9",
+      "crc32": "47621f21",
+      "sha1": "4663eb70286894e2caf865689568a8b7a59b37cb",
+      "format": "JSON"
+    },
+    {
+      "name": "mnherald-2022-11-03T00:03:02.547903-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451790",
+      "size": "76586",
+      "md5": "101eefb9ae75d77336f2e0d9f10ce0e1",
+      "crc32": "d492d9d7",
+      "sha1": "8f2eb9c9cf2455bcc579fbbff7aa2d7fe60c4259",
+      "format": "JSON"
+    },
+    {
       "name": "mnherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e5f5f98c100b2ecf079644513e554a75288353f",
-      "mtime": "1667409363",
-      "size": "111187",
-      "md5": "79105bfe5fa10bd030268675babc05a6",
-      "crc32": "f7c13891",
-      "sha1": "91c53e12200ab1c5e2761eb566fbfc69ced44ae6",
+      "btih": "bad94959b6705c8f4d44ba7530e08b64409d9068",
+      "mtime": "1667451838",
+      "size": "112454",
+      "md5": "6e678b53ef3a621ea0fbfa68f0be612b",
+      "crc32": "36ce3d99",
+      "sha1": "9526d178bf07a4352e5e8bae503fee5f84ff1c37",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mnherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "07072887abb76fec3851325fd1444d63",
+      "md5": "05bafbd210df45ad906fa400828d3712",
       "summation": "md5"
     },
     {
       "name": "mnherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409317",
-      "size": "684032",
-      "md5": "2d0dd46c2f157147c98a0b562ab94fae",
-      "crc32": "907c54a5",
-      "sha1": "205a86c7b0d01fac3be66c0c3a214eb993e22097",
+      "mtime": "1667451796",
+      "size": "692224",
+      "md5": "44ed5dfcff368c11351535581e5cc76d",
+      "crc32": "4a80ec21",
+      "sha1": "eb1f50c2cfebf252fd65888f197f7e1f1a79503d",
       "format": "Metadata"
     },
     {
@@ -5437,9 +5499,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 526,
-  "item_last_updated": 1667409363,
-  "item_size": 34827602,
+  "files_count": 532,
+  "item_last_updated": 1667451838,
+  "item_size": 35270882,
   "metadata": {
     "identifier": "mnherald-2022",
     "collection": [
@@ -5461,15 +5523,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459898126,
+      "task_id": 3460358355,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 854213833,
+  "uniq": 1376385737,
   "workable_servers": [
     "ia601402.us.archive.org"
   ]

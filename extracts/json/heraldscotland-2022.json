@@ -1,5 +1,5 @@
 {
-  "created": 1667409184,
+  "created": 1667451669,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/13/items/heraldscotland-2022",
@@ -18363,31 +18363,93 @@
       "format": "JSON"
     },
     {
+      "name": "heraldscotland-2022-11-02T17:10:37.388061+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldscotland-2022-11-02T17:10:37.388061+00:00.jpg",
+      "mtime": "1667413682",
+      "size": "9641",
+      "md5": "2ee0bbcf6bde5b73a92eaddb3e50d391",
+      "crc32": "8dadfc00",
+      "sha1": "b8eccb818ab9fc3ec34cfbc43f673111c52de2c2"
+    },
+    {
+      "name": "heraldscotland-2022-11-03T04:58:55.427557+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451574",
+      "size": "29188",
+      "md5": "7e4612bf7d141884bfe7a6ad9fe0aac4",
+      "crc32": "fe912093",
+      "sha1": "ca54135ba04f797af5a052ce3a744c0d42c98536",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-11-03T04:58:55.427557+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451576",
+      "size": "49932",
+      "md5": "88cb3449a7d0f224e57078def2203030",
+      "crc32": "6af6185c",
+      "sha1": "c80f35e73e0154f7a7614e706951486e75062a09",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-11-03T04:58:55.427557+00:00.jpg",
+      "source": "original",
+      "mtime": "1667451573",
+      "size": "263844",
+      "md5": "887d527cac407030252e96ed3bdebc8c",
+      "crc32": "4af2e17c",
+      "sha1": "05979ed0ccc6182e40adfa6882f2b0eae3f6294e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "heraldscotland-2022-11-03T04:58:55.427557+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451577",
+      "size": "1531",
+      "md5": "207a0d1344f951c4860263971047397f",
+      "crc32": "6517fae8",
+      "sha1": "b3b7cfa43963554368e915b3715898f1616d4257",
+      "format": "JSON"
+    },
+    {
+      "name": "heraldscotland-2022-11-03T04:58:55.427557+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451579",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "heraldscotland-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9370b3390ecfafae76b5de1bd7e0ac96bc842137",
-      "mtime": "1667409176",
-      "size": "385225",
-      "md5": "95060ddfb338c07a0bee908eeb344e28",
-      "crc32": "fa1c9c07",
-      "sha1": "f9e81e9b1eb1f0f97f76a1c84607c9b2960bffb5",
+      "btih": "c496e4dcd48e54a53007e601e763c882e1ae68f5",
+      "mtime": "1667451661",
+      "size": "386526",
+      "md5": "5cb0fdc4bdfb625a816160550533c519",
+      "crc32": "fad2aa73",
+      "sha1": "2ea417b986be5ffc8300e1ba234f0bc661302f47",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldscotland-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "96e691d822058866e0cd5dfafba7802f",
+      "md5": "8adb803e44bfb66bfdb81c4d4e6374d2",
       "summation": "md5"
     },
     {
       "name": "heraldscotland-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409095",
-      "size": "2252800",
-      "md5": "5c4383d112a6507e239d38541dea23e6",
-      "crc32": "3c46153f",
-      "sha1": "84ff59f2d368094609ac1b18f23d5081ed3e58fe",
+      "mtime": "1667451584",
+      "size": "2256896",
+      "md5": "a8060718b3d61b44974a1166f5bced17",
+      "crc32": "13367a21",
+      "sha1": "642be9762bb06d273e26486c8a34722a0a6e47da",
       "format": "Metadata"
     },
     {
@@ -18401,9 +18463,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1777,
-  "item_last_updated": 1667409176,
-  "item_size": 128293821,
+  "files_count": 1783,
+  "item_last_updated": 1667451661,
+  "item_size": 128653556,
   "metadata": {
     "identifier": "heraldscotland-2022",
     "collection": [
@@ -18425,15 +18487,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459895834,
+      "task_id": 3460354313,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 780349747,
+  "uniq": 1159277872,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

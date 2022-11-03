@@ -1,5 +1,5 @@
 {
-  "created": 1667409368,
+  "created": 1667451850,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/33/items/marylandmatters-2022",
@@ -20239,31 +20239,93 @@
       "format": "JSON"
     },
     {
+      "name": "marylandmatters-2022-11-02T13:14:24.759661-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marylandmatters-2022-11-02T13:14:24.759661-04:00.jpg",
+      "mtime": "1667413881",
+      "size": "10696",
+      "md5": "837f7243de4b0b80ebb94e1c844b35ff",
+      "crc32": "8ef0e2b6",
+      "sha1": "df8ba8e0ef2c44adc4caaf4efbdb802ad464a46f"
+    },
+    {
+      "name": "marylandmatters-2022-11-03T01:02:39.183140-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451771",
+      "size": "16092",
+      "md5": "935fa3f76c4012de56760a359b299a91",
+      "crc32": "ce020728",
+      "sha1": "648edc8c1c408e4739cab7ada6f8a2daa1814744",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-11-03T01:02:39.183140-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451773",
+      "size": "18389",
+      "md5": "70de3a38f68da2850e184f696812455d",
+      "crc32": "4ba718e5",
+      "sha1": "8ef52a2083a0e26cc28ea8a8181653efd955d6e4",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-11-03T01:02:39.183140-04:00.jpg",
+      "source": "original",
+      "mtime": "1667451769",
+      "size": "363100",
+      "md5": "a165198f0c8125b3c9b47b1a8eeeccd4",
+      "crc32": "dde412da",
+      "sha1": "871682c70a5bc76d0543c149cccbb1fcce294716",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marylandmatters-2022-11-03T01:02:39.183140-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451775",
+      "size": "1540",
+      "md5": "953bff366eccd751b0e798c9eff06c13",
+      "crc32": "178b0dd4",
+      "sha1": "25b97905e54868b4597306fc7d2949d8b335eb9e",
+      "format": "JSON"
+    },
+    {
+      "name": "marylandmatters-2022-11-03T01:02:39.183140-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451777",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "marylandmatters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "45f68a1c05c662a0f0cc398afdfc2d6f13e1f9a7",
-      "mtime": "1667409360",
-      "size": "425246",
-      "md5": "77992a552c0d422955f27bc6849eaf3a",
-      "crc32": "04d530ed",
-      "sha1": "e4ea53b4eb6ab10a857ebd3af95530da72f143d4",
+      "btih": "9a6b71e0c9e48abebc73e5abfc81913a754309db",
+      "mtime": "1667451846",
+      "size": "426554",
+      "md5": "1a7c99a1ae53a01da52e2d35025ad78f",
+      "crc32": "7b6fba5c",
+      "sha1": "cf1c70a08741cc9d1acad61e249aea2c298fa40b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marylandmatters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "32d111bde72b8b9100c705b23e09e080",
+      "md5": "75d52be94282f63e36e642fcd3277a52",
       "summation": "md5"
     },
     {
       "name": "marylandmatters-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409296",
-      "size": "2408448",
-      "md5": "e6f182343e8b79b660eefc778fdbd2dc",
-      "crc32": "affb3742",
-      "sha1": "877ef63c4c4020de1c17c25898fac26775439134",
+      "mtime": "1667451783",
+      "size": "2416640",
+      "md5": "c1269aa4dbad688ca07efe57fdb2fb33",
+      "crc32": "70beffff",
+      "sha1": "91e68b2e8e03dd2d7c8072735e5694bdb5aacaad",
       "format": "Metadata"
     },
     {
@@ -20277,9 +20339,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1949,
-  "item_last_updated": 1667409360,
-  "item_size": 163313023,
+  "files_count": 1955,
+  "item_last_updated": 1667451846,
+  "item_size": 163732542,
   "metadata": {
     "identifier": "marylandmatters-2022",
     "collection": [
@@ -20301,15 +20363,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459898096,
+      "task_id": 3460358379,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 122814105,
+  "uniq": 1333822529,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

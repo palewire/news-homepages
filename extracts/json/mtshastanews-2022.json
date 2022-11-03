@@ -1,5 +1,5 @@
 {
-  "created": 1667409402,
+  "created": 1667451877,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/29/items/mtshastanews-2022",
@@ -5317,31 +5317,83 @@
       "format": "JSON"
     },
     {
+      "name": "mtshastanews-2022-11-02T10:15:30.893406-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mtshastanews-2022-11-02T10:15:30.893406-07:00.jpg",
+      "mtime": "1667413742",
+      "size": "8598",
+      "md5": "a640d69211f53cf91c7ff3fee9772f8a",
+      "crc32": "b66b6b85",
+      "sha1": "5b8abba542aeb422d6116f7407d2e2a4f769b7ec"
+    },
+    {
+      "name": "mtshastanews-2022-11-02T22:03:18.580390-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451818",
+      "size": "42942",
+      "md5": "6d59a530863be2dd072d9075ff38b1ab",
+      "crc32": "0f283794",
+      "sha1": "695f97ad443e30ac7d7555620ac339a5c476612d",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-11-02T22:03:18.580390-07:00.jpg",
+      "source": "original",
+      "mtime": "1667451817",
+      "size": "228889",
+      "md5": "39f1f28854d86d265604d7d79355028e",
+      "crc32": "68a08f10",
+      "sha1": "c0464e06b00cb04159e59fc875247750e697d9bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mtshastanews-2022-11-02T22:03:18.580390-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451821",
+      "size": "1513",
+      "md5": "b07f6cb93002870c9466084ba5276280",
+      "crc32": "d38a1c6f",
+      "sha1": "a864a66e0e3b60d822272614fcdc59c699ac400f",
+      "format": "JSON"
+    },
+    {
+      "name": "mtshastanews-2022-11-02T22:03:18.580390-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451823",
+      "size": "98886",
+      "md5": "e311b81973bd14ebfede0f40f8591f15",
+      "crc32": "f22d6d60",
+      "sha1": "e65dc45d7346e44c07dc1eafbfb53ca560933baa",
+      "format": "JSON"
+    },
+    {
       "name": "mtshastanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bb7f1d1cc8092b4f089e15ca5efee35354720c05",
-      "mtime": "1667409395",
-      "size": "111545",
-      "md5": "45b6667e58871b44806a9cd329e45af1",
-      "crc32": "098bfbfb",
-      "sha1": "749e16fa22494c8d4a1bb6d5cb0f31a464f84c69",
+      "btih": "03920fe749fa09a937c5b37aedc5e2a221442842",
+      "mtime": "1667451871",
+      "size": "112618",
+      "md5": "060d31604f4667737366905bb0c8165f",
+      "crc32": "0ba983b4",
+      "sha1": "f62801ce042632b47bc800e4e5d5b47d816fa4dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mtshastanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7867fb21b679278cccec7df65eb92de3",
+      "md5": "310eb42813b5fbde0ae807bdfc26dbdb",
       "summation": "md5"
     },
     {
       "name": "mtshastanews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409353",
-      "size": "675840",
-      "md5": "562932f81ba17028e229b1e7e25a5b89",
-      "crc32": "ac550924",
-      "sha1": "d18f34cc98ea5cfd23113933135ae0ea36f27115",
+      "mtime": "1667451829",
+      "size": "679936",
+      "md5": "c0b4821e2a55ec21da29648caa982c32",
+      "crc32": "98e5b88d",
+      "sha1": "60525ccb4aa8e1e67ac1e827dda82d81c7ec9c93",
       "format": "Metadata"
     },
     {
@@ -5355,9 +5407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 518,
-  "item_last_updated": 1667409395,
-  "item_size": 32844333,
+  "files_count": 523,
+  "item_last_updated": 1667451871,
+  "item_size": 33230330,
   "metadata": {
     "identifier": "mtshastanews-2022",
     "collection": [
@@ -5379,7 +5431,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459898500,
+      "task_id": 3460359011,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5387,7 +5439,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1246586623,
+  "uniq": 275374666,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

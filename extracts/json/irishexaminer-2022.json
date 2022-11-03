@@ -1,5 +1,5 @@
 {
-  "created": 1667409166,
+  "created": 1667451559,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/31/items/irishexaminer-2022",
@@ -12753,31 +12753,93 @@
       "format": "JSON"
     },
     {
+      "name": "irishexaminer-2022-11-02T17:11:14.837033+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishexaminer-2022-11-02T17:11:14.837033+00:00.jpg",
+      "mtime": "1667413746",
+      "size": "10569",
+      "md5": "a6ac237210124f084f4aceaacf1a23ff",
+      "crc32": "98f1a688",
+      "sha1": "0d5259c29197e07a28c1d77993333d18b2dcffad"
+    },
+    {
+      "name": "irishexaminer-2022-11-03T04:58:00.845909+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451484",
+      "size": "33416",
+      "md5": "6c033b0719efa06cfa5eefe232ebc911",
+      "crc32": "f84229ea",
+      "sha1": "fc6a136258dac9d19f08495c76b3ee7b61c27ab1",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-11-03T04:58:00.845909+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451486",
+      "size": "33081",
+      "md5": "1b954aa7ba2a5c84c005dded1874940c",
+      "crc32": "8de27add",
+      "sha1": "8b5b979fd7e4719afa3600c6872abbd6623fb21f",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-11-03T04:58:00.845909+00:00.jpg",
+      "source": "original",
+      "mtime": "1667451483",
+      "size": "322365",
+      "md5": "55906ad16f4cc018960feacd15741f9c",
+      "crc32": "619a52cb",
+      "sha1": "f7b736ef4702bc5ba2d2bdffbc3181f9e95260c3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "irishexaminer-2022-11-03T04:58:00.845909+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451487",
+      "size": "1522",
+      "md5": "49845806531869235ce0d58087ad0316",
+      "crc32": "e4651edd",
+      "sha1": "33fb7d3da7ea1d76e1bf18ff1f14f9988d176355",
+      "format": "JSON"
+    },
+    {
+      "name": "irishexaminer-2022-11-03T04:58:00.845909+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451489",
+      "size": "18349",
+      "md5": "25dfb328c35d7c6e620dec19874da8b5",
+      "crc32": "a9e5da62",
+      "sha1": "7e1caeec3ed473f596cf47c93d4dcc066030dc7d",
+      "format": "JSON"
+    },
+    {
       "name": "irishexaminer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4530787d8d988d83190e4066fe2998124028614d",
-      "mtime": "1667409156",
-      "size": "267101",
-      "md5": "0d0e03f55c695fa64d3f119bee54732f",
-      "crc32": "2bd2461b",
-      "sha1": "564de559c1cbdf9a60d1b31d683c63ce264e91bb",
+      "btih": "cf7566feda332c866022b7188c0eb7524127f2af",
+      "mtime": "1667451550",
+      "size": "268399",
+      "md5": "834d992d2fd6bea5776018f0b7d230f7",
+      "crc32": "8a5c3d3b",
+      "sha1": "29422d2203540637d22576d06812016110871d11",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishexaminer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b287be1847acbb3f133cb92bbf2d9921",
+      "md5": "8946a1d330984184c5068e153871cda1",
       "summation": "md5"
     },
     {
       "name": "irishexaminer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409106",
-      "size": "1576960",
-      "md5": "cb2ff1f91e20eeddb3078fe34741fb50",
-      "crc32": "ca29ac04",
-      "sha1": "028e9eab4db1ca0f557b7404a39a4a7a0ffc0568",
+      "mtime": "1667451495",
+      "size": "1581056",
+      "md5": "a9e763e2f40c793873b4dcb828377291",
+      "crc32": "bf2ede58",
+      "sha1": "adb2618136cef049c7608a0250fa6089a63efae8",
       "format": "Metadata"
     },
     {
@@ -12791,9 +12853,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1236,
-  "item_last_updated": 1667409156,
-  "item_size": 88717377,
+  "files_count": 1242,
+  "item_last_updated": 1667451550,
+  "item_size": 89142073,
   "metadata": {
     "identifier": "irishexaminer-2022",
     "collection": [
@@ -12815,15 +12877,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459895633,
+      "task_id": 3460352388,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1868382298,
+  "uniq": 1794513556,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667409398,
+  "created": 1667451844,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/16/items/mercnews-2022",
@@ -21017,31 +21017,83 @@
       "format": "JSON"
     },
     {
+      "name": "mercnews-2022-11-02T10:14:58.976190-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mercnews-2022-11-02T10:14:58.976190-07:00.jpg",
+      "mtime": "1667413808",
+      "size": "9671",
+      "md5": "8934d767014ef795305d49c6b7b40524",
+      "crc32": "197e4eab",
+      "sha1": "620a7b542265e7f60b1a87636783aa4cb2a47d00"
+    },
+    {
+      "name": "mercnews-2022-11-02T22:02:37.197286-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451766",
+      "size": "53407",
+      "md5": "c2994d47881c9451653cbf7bcd04631f",
+      "crc32": "d3530559",
+      "sha1": "a171be071fef56a7632f11dc57775d724e4f9ff5",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-11-02T22:02:37.197286-07:00.jpg",
+      "source": "original",
+      "mtime": "1667451764",
+      "size": "283540",
+      "md5": "15dbb84e26fb966a452b320bf43dda78",
+      "crc32": "c4942dc1",
+      "sha1": "8666cf6a0554f32f679d36c769a350fd758a3de7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mercnews-2022-11-02T22:02:37.197286-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451768",
+      "size": "1501",
+      "md5": "56f2bc61bed51f9daa8cd8ade343dd28",
+      "crc32": "b756fa98",
+      "sha1": "453b31a0dbb5adf6adc7f0d99c488471d70e98b6",
+      "format": "JSON"
+    },
+    {
+      "name": "mercnews-2022-11-02T22:02:37.197286-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451770",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "mercnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d059b0ff539343a1a4cc2acb7924c40bd2f7e5bd",
-      "mtime": "1667409393",
-      "size": "426732",
-      "md5": "34cd956cc131830f66e2caf8b0a51c44",
-      "crc32": "1d3d2b9b",
-      "sha1": "2cfad2b6973da5b6ff873baf4b6e64135b0e8430",
+      "btih": "80c1069f383f8860278dbeb961c8ef62f913f371",
+      "mtime": "1667451840",
+      "size": "427783",
+      "md5": "6aede7d45fff94f128c7c32995375d5c",
+      "crc32": "221be976",
+      "sha1": "fc31413807eeca66e106845f8bb4458ff9b4ff78",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mercnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb94ce0d82c3f9255fabb9a1aaeee8a3",
+      "md5": "d86049e88c76916596d91897df52c6f1",
       "summation": "md5"
     },
     {
       "name": "mercnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409329",
-      "size": "2453504",
-      "md5": "81f891dec3bf26e99697fee58bcdc624",
-      "crc32": "41a815bb",
-      "sha1": "02ea1418536c80ec4f8164bbc6855b4e6af4cc0b",
+      "mtime": "1667451773",
+      "size": "2465792",
+      "md5": "11c412d98b5470282f86682010695939",
+      "crc32": "071ba986",
+      "sha1": "4a61cdd51b3ccffbba4f107b309ba93f0934211e",
       "format": "Metadata"
     },
     {
@@ -21055,9 +21107,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2022,
-  "item_last_updated": 1667409393,
-  "item_size": 172350179,
+  "files_count": 2027,
+  "item_last_updated": 1667451840,
+  "item_size": 172711839,
   "metadata": {
     "identifier": "mercnews-2022",
     "collection": [
@@ -21079,15 +21131,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459898458,
+      "task_id": 3460358272,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 817519510,
+  "uniq": 1863431626,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]
