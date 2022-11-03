@@ -596,18 +596,19 @@ def _execute_on_ready(
     """
     if add_return:
         js_code_to_execute = "return " + js_code_to_execute
-    js = """(function(){{
+    js = f"""(function(){{
                 if(document.readyState === 'ready' || document.readyState === 'complete') {{
-                    {js_code}
+                    {js_code_to_execute}
                 }} else {{
                     return 'not ready'
                     }}
         }})()
-    """.format(
-        js_code=js_code_to_execute
-    )
+    """
+    NUM_TRIES = 10
     res = page.evaluate(js)
-    while res == "not ready":
+    for _ in range(NUM_TRIES):
+        if res != "not ready":
+            break
         time.sleep(1)
         res = page.evaluate(js)
     return res or 0
