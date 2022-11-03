@@ -153,6 +153,53 @@ jobs:
         with:
           source: ${{ matrix.source }}
 
+  html:
+    name: HTML
+    runs-on: ubuntu-20.04
+    timeout-minutes: 15
+    needs: sources
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      matrix:
+        source: ${{ fromJson(needs.sources.outputs.site-list) }}
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install Python dependencies
+        uses: ./.github/actions/install
+
+      - id: cache-playwright
+        name: Cache Playwright browsers
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/ms-playwright/
+          key: ${{ runner.os }}-browsers
+
+      - id: install-playwright
+        name: Install Playwright dependencies
+        run: pipenv run playwright install --with-deps chromium
+        shell: bash
+
+      - id: html
+        name: Fetch HTML
+        run: xvfb-run --auto-servernum --server-args="-screen 0 1280x960x24" -- pipenv run python -m newshomepages.html ${{ matrix.source }} -o _dist
+        shell: bash
+        env:
+          DEBUG: 'pw:api'
+          CHROME_IPC_LOGGING: 1
+
+      - id: save
+        name: Save artifact
+        uses: actions/upload-artifact@v2
+          with:
+          name: html
+          path: _dist
+          if-no-files-found: error
+
   archive:
     name: Post to archive.org
     needs: [jpg,accessibility,hyperlinks,wayback,lighthouse,sources]
