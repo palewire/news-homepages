@@ -1,5 +1,5 @@
 {
-  "created": 1667413670,
+  "created": 1667459314,
   "d1": "ia904701.us.archive.org",
   "d2": "ia804701.us.archive.org",
   "dir": "/14/items/thenewmexican-2022",
@@ -19445,31 +19445,93 @@
       "format": "JSON"
     },
     {
+      "name": "thenewmexican-2022-11-02T12:25:07.277456-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenewmexican-2022-11-02T12:25:07.277456-06:00.jpg",
+      "mtime": "1667417253",
+      "size": "8997",
+      "md5": "1216d784ef854ca3b9428a1233ec73d9",
+      "crc32": "fe043f74",
+      "sha1": "9fe2245a28abbbf8b3e6c447b813d46eb79f3673"
+    },
+    {
+      "name": "thenewmexican-2022-11-03T01:07:04.893358-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667459236",
+      "size": "29448",
+      "md5": "ada5dc4630daa09a08113c98e8ca3d34",
+      "crc32": "f89c53f4",
+      "sha1": "553d7dadcb41773072d5d25a1b50bb4f6b87bd36",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewmexican-2022-11-03T01:07:04.893358-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667459237",
+      "size": "49584",
+      "md5": "9870f83a130ba9857bcf0d3721848f37",
+      "crc32": "29b43db5",
+      "sha1": "a7bf031140882d5e4fe68c75d7276b9846ca300d",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewmexican-2022-11-03T01:07:04.893358-06:00.jpg",
+      "source": "original",
+      "mtime": "1667459234",
+      "size": "292326",
+      "md5": "4e2ffbf72443cef37fc845b134a4d27a",
+      "crc32": "9f38e0b3",
+      "sha1": "79eb794eca34975a84cbb2a14d9f2b6356f2da2a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenewmexican-2022-11-03T01:07:04.893358-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667459239",
+      "size": "1558",
+      "md5": "bafaeee3879a28b946cbff7c9c3b578e",
+      "crc32": "35b4291b",
+      "sha1": "9a71cd82c18e2eb730f0b24201a90985aa043482",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewmexican-2022-11-03T01:07:04.893358-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667459241",
+      "size": "46823",
+      "md5": "42f6708657d415a802da3b5145d30311",
+      "crc32": "7c07bfe5",
+      "sha1": "de78e29279f2f4ba72372d0d8d83d4803cce67ff",
+      "format": "JSON"
+    },
+    {
       "name": "thenewmexican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dd1386fc27c0370ba9081a96bfaaae0046386cc0",
-      "mtime": "1667413667",
-      "size": "403771",
-      "md5": "5b8ecdc059d4c0c8d6066b883fe440cc",
-      "crc32": "9ce72339",
-      "sha1": "4141040b6f303ecbeb905b782a622a29fa8ee85c",
+      "btih": "feda369497730dda56d7f3772f59f5ac54292488",
+      "mtime": "1667459309",
+      "size": "405068",
+      "md5": "171085a090a0b7bd9c808f00002b5a46",
+      "crc32": "8798dfb0",
+      "sha1": "7171250690d4d993b3abea10a636be4205e61205",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenewmexican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0b7412799c446bf42635a4b83c55ed86",
+      "md5": "3d723fd46bc1cc5ce1681dbfc1e81fe6",
       "summation": "md5"
     },
     {
       "name": "thenewmexican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667413605",
-      "size": "2269184",
-      "md5": "bd36ca25ff5495df20b5e01e7b5b3b41",
-      "crc32": "7c693d9f",
-      "sha1": "c5aeb4a8734105701b4578afc7b17676351f286a",
+      "mtime": "1667459252",
+      "size": "2281472",
+      "md5": "b5ef4eec2a6821c453aaab12886a5780",
+      "crc32": "35d937b0",
+      "sha1": "aab7caf132530b8e265d9a425a9d6d65d4b63085",
       "format": "Metadata"
     },
     {
@@ -19483,9 +19545,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1870,
-  "item_last_updated": 1667413667,
-  "item_size": 159128225,
+  "files_count": 1876,
+  "item_last_updated": 1667459309,
+  "item_size": 159570546,
   "metadata": {
     "identifier": "thenewmexican-2022",
     "collection": [
@@ -19507,7 +19569,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459941106,
+      "task_id": 3460441184,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -19515,7 +19577,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 855961586,
+  "uniq": 234564024,
   "workable_servers": [
     "ia904701.us.archive.org"
   ]

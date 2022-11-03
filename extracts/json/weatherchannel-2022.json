@@ -1,5 +1,5 @@
 {
-  "created": 1667414149,
+  "created": 1667459622,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/weatherchannel-2022",
@@ -11967,31 +11967,93 @@
       "format": "JSON"
     },
     {
+      "name": "weatherchannel-2022-11-02T14:28:55.938661-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weatherchannel-2022-11-02T14:28:55.938661-04:00.jpg",
+      "mtime": "1667417777",
+      "size": "10682",
+      "md5": "0a67ee830e597e4e58f9333d4e8cb72b",
+      "crc32": "0995f4e1",
+      "sha1": "eb35c6450638bbc5f0a004307eec0890a6b5c8c7"
+    },
+    {
+      "name": "weatherchannel-2022-11-03T03:12:21.017036-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667459548",
+      "size": "10381",
+      "md5": "638696dac5a29c8e2b5749314d8eb23e",
+      "crc32": "7ab7aaca",
+      "sha1": "77a5fc87976dd85ddbacd8fa638bcf34c1ecbe6f",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-11-03T03:12:21.017036-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667459550",
+      "size": "20969",
+      "md5": "53c5826f7a0cbf0d1f4d8bd510ad4c8e",
+      "crc32": "ad923d9a",
+      "sha1": "237ac637ac72c158be62d1635eceacd074784dba",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-11-03T03:12:21.017036-04:00.jpg",
+      "source": "original",
+      "mtime": "1667459547",
+      "size": "308565",
+      "md5": "43070f9b282841e9a248d6bc759d6749",
+      "crc32": "755e03c7",
+      "sha1": "d93d3ac23944a249976b5a82e9cd2007d72e76c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "weatherchannel-2022-11-03T03:12:21.017036-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667459551",
+      "size": "1432",
+      "md5": "6905cd9d7c59b341fc73545bbe93d96f",
+      "crc32": "1309b5d7",
+      "sha1": "2e876635620e4bc12a630c7f14c93aacf8fcdfe6",
+      "format": "JSON"
+    },
+    {
+      "name": "weatherchannel-2022-11-03T03:12:21.017036-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667459553",
+      "size": "15982",
+      "md5": "fd537313a0186d660d4c6e49fc40a6cd",
+      "crc32": "cbd1625f",
+      "sha1": "35d8c3e84794a7f7eec2fc5b440fd882dbb9a2fb",
+      "format": "JSON"
+    },
+    {
       "name": "weatherchannel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6cccffb0877545c3dda2dd3939427202cd2750d2",
-      "mtime": "1667413988",
-      "size": "251333",
-      "md5": "2036096408a7ea557ce0accd448722c0",
-      "crc32": "6bfc5fa9",
-      "sha1": "3cb3b3e789668cd442db11edc36322c6a2a5f4a2",
+      "btih": "b32eb8600792954b612b425848e2dec1f62908e0",
+      "mtime": "1667459613",
+      "size": "252617",
+      "md5": "1a99489b907f26cbbfd9327c537222ad",
+      "crc32": "6593cdd2",
+      "sha1": "9e35a9c8033229534daa107cd3fdbd971be18755",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weatherchannel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e5cb92bc93a5cf55c18e5c68d6a20b3b",
+      "md5": "e718fdb5b940dcba27f3c9e17695e308",
       "summation": "md5"
     },
     {
       "name": "weatherchannel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667413908",
-      "size": "1490944",
-      "md5": "cb8ed27dd3b6e4e66b1cd97946dd5eec",
-      "crc32": "a3c17073",
-      "sha1": "6fa98b0598ae9e81c622b5611c560131b84dc637",
+      "mtime": "1667459559",
+      "size": "1495040",
+      "md5": "1ec01a5bf4ab68696a376b33eb2b2244",
+      "crc32": "593a0507",
+      "sha1": "1fe00e2d65fb5e36add8d90cf1bd5ec9a9a8f192",
       "format": "Metadata"
     },
     {
@@ -12005,9 +12067,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1161,
-  "item_last_updated": 1667413988,
-  "item_size": 69566715,
+  "files_count": 1167,
+  "item_last_updated": 1667459613,
+  "item_size": 69940106,
   "metadata": {
     "identifier": "weatherchannel-2022",
     "collection": [
@@ -12029,7 +12091,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459948495,
+      "task_id": 3460444507,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12037,7 +12099,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 424115724,
+  "uniq": 1218718362,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

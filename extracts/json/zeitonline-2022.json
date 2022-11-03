@@ -1,5 +1,5 @@
 {
-  "created": 1667416298,
+  "created": 1667459574,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/zeitonline-2022",
@@ -12059,31 +12059,93 @@
       "format": "JSON"
     },
     {
+      "name": "zeitonline-2022-11-02T19:28:49.568292+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zeitonline-2022-11-02T19:28:49.568292+01:00.jpg",
+      "mtime": "1667417420",
+      "size": "7299",
+      "md5": "351b7d500e186fa09ec883fa4fc53847",
+      "crc32": "84dc35e0",
+      "sha1": "61da5495e86c40a2a724659968397c6e643e971b"
+    },
+    {
+      "name": "zeitonline-2022-11-03T08:11:45.679250+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667459514",
+      "size": "3934",
+      "md5": "52aaa3ce784bc614957de1d8740a4483",
+      "crc32": "38c1f44b",
+      "sha1": "87688696221360480d8418911704acf9d3448534",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-11-03T08:11:45.679250+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667459515",
+      "size": "1374",
+      "md5": "aff8ff9299df9917a208506e685d8df0",
+      "crc32": "2c897965",
+      "sha1": "e7c3d8b03d1834a65fa2f745c81397730ea500bf",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-11-03T08:11:45.679250+01:00.jpg",
+      "source": "original",
+      "mtime": "1667459512",
+      "size": "117323",
+      "md5": "9e107f62acb1027fe0a29386d41040fb",
+      "crc32": "067c3baa",
+      "sha1": "5fc48d1e954cc818bd0896044c977895242c8739",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zeitonline-2022-11-03T08:11:45.679250+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667459517",
+      "size": "1477",
+      "md5": "a0efa3e0b826c701b4162fab9758ad82",
+      "crc32": "594ebff9",
+      "sha1": "89e2665583dd4fdc1c558cca7b26f960564627e8",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-11-03T08:11:45.679250+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667459519",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "zeitonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "80189a0bad260e8c2048c5c663d2b3fcd2ca13bf",
-      "mtime": "1667413802",
-      "size": "246563",
-      "md5": "67e46dae43a3445bbcfaf50d1d329b11",
-      "crc32": "8ae9a6ea",
-      "sha1": "77ab9965a051e2ea57456ee586572368a4d617c5",
+      "btih": "23f7d42347a88dae6ef573d61e8fcbb9dbc22a5c",
+      "mtime": "1667459569",
+      "size": "247818",
+      "md5": "889f71b05aedbd9f3a8ee14cb5fb37ee",
+      "crc32": "5fbe3c87",
+      "sha1": "4ae174418a37c5904518e3614f500d1fffab681e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zeitonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f7f152c1e5c229fc1dcc3f99202183d0",
+      "md5": "bcb5ee2e052f635eeede30632876419a",
       "summation": "md5"
     },
     {
       "name": "zeitonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667413754",
-      "size": "1490944",
-      "md5": "587b5c452f3c015705f5922b7d12aad6",
-      "crc32": "f2b0697c",
-      "sha1": "9c9231a434d76213969f5ca2be652d3d6a6ad6c6",
+      "mtime": "1667459523",
+      "size": "1503232",
+      "md5": "fb3315da06dfb2a06d90aef33cf78e63",
+      "crc32": "458005e6",
+      "sha1": "5f4f0927a57a189192575b3259b69f15ad83c740",
       "format": "Metadata"
     },
     {
@@ -12097,9 +12159,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1170,
-  "item_last_updated": 1667413802,
-  "item_size": 28076951,
+  "files_count": 1176,
+  "item_last_updated": 1667459569,
+  "item_size": 28222103,
   "metadata": {
     "identifier": "zeitonline-2022",
     "collection": [
@@ -12121,7 +12183,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459943206,
+      "task_id": 3460444068,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12129,13 +12191,8 @@
       "status": "queued"
     }
   ],
-  "uniq": 205315018,
+  "uniq": 1268531726,
   "workable_servers": [
     "ia601408.us.archive.org"
-  ],
-  "zeitonline-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  }
+  ]
 }

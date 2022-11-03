@@ -1,5 +1,5 @@
 {
-  "created": 1667413698,
+  "created": 1667459404,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/7/items/thelasentinel-2022",
@@ -28259,31 +28259,93 @@
       "format": "JSON"
     },
     {
+      "name": "thelasentinel-2022-11-02T11:24:51.406178-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-11-02T11:24:51.406178-07:00.jpg",
+      "mtime": "1667417532",
+      "size": "11344",
+      "md5": "8e2cec446c6e5d78ea2369321ae7e8fb",
+      "crc32": "51ad6478",
+      "sha1": "07768c9c88d5d1f8d26e76e34d352892aba7b8ea"
+    },
+    {
+      "name": "thelasentinel-2022-11-03T00:07:49.860844-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667459299",
+      "size": "46316",
+      "md5": "f5bb342648249db25d939996371f15f4",
+      "crc32": "997c76d1",
+      "sha1": "24e15673e3def5b7671912356c9a8815771d1d49",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-11-03T00:07:49.860844-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667459301",
+      "size": "54209",
+      "md5": "43f763b2e77d3fb8fc007918b65c4683",
+      "crc32": "cff7eb62",
+      "sha1": "0f83998ca897844a37a5c75013b99758a723f095",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-11-03T00:07:49.860844-07:00.jpg",
+      "source": "original",
+      "mtime": "1667459297",
+      "size": "303961",
+      "md5": "bb28043d2be62319be7ff6a26257730a",
+      "crc32": "72db236d",
+      "sha1": "0c48f3ca5e1878c69caa1edb88fb46974a6a3af1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-11-03T00:07:49.860844-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667459302",
+      "size": "1458",
+      "md5": "b2284c887e8d549e46ce6822586993da",
+      "crc32": "bce2ec57",
+      "sha1": "45efcbf6dc6d80f9c575ac6d1022bdf7f772cadb",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-11-03T00:07:49.860844-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667459304",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thelasentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b2de93efd657f160d93463a72744f1efee43c0b2",
-      "mtime": "1667413693",
-      "size": "588511",
-      "md5": "8f200c58dd18ee4441451e976a9ab5e6",
-      "crc32": "0744b0e4",
-      "sha1": "1847b11c7ac616eedb9dcd69e922de3f099c406b",
+      "btih": "8f0991fad8bbd98a0e4896ce523076200334cbaa",
+      "mtime": "1667459399",
+      "size": "589807",
+      "md5": "fa1e3caf67da3b17f9b318add9894162",
+      "crc32": "73bbd561",
+      "sha1": "cac517c4c930b609e3b8464cfaf2ecddff97b475",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelasentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9998ee7631b28e3d227ec61fbfdac516",
+      "md5": "40b26868438be357be13755dc26e5170",
       "summation": "md5"
     },
     {
       "name": "thelasentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667413606",
-      "size": "3325952",
-      "md5": "093049d0e88ef8143658dd1a4c82bc8c",
-      "crc32": "fdf61712",
-      "sha1": "5fcd93b0be5f851f2394a98d0654c87416d1749f",
+      "mtime": "1667459309",
+      "size": "3334144",
+      "md5": "f8ec840d78c4460a0d7fda1690a72d52",
+      "crc32": "940d01c7",
+      "sha1": "f5a642167ac16d015df674eae75502e7b793d4fa",
       "format": "Metadata"
     },
     {
@@ -28297,9 +28359,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2719,
-  "item_last_updated": 1667413693,
-  "item_size": 252386707,
+  "files_count": 2725,
+  "item_last_updated": 1667459399,
+  "item_size": 252813685,
   "metadata": {
     "identifier": "thelasentinel-2022",
     "collection": [
@@ -28321,7 +28383,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459941554,
+      "task_id": 3460442160,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -28329,7 +28391,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 955544637,
+  "uniq": 1815719551,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

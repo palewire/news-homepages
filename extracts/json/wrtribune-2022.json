@@ -1,5 +1,5 @@
 {
-  "created": 1667416265,
+  "created": 1667459591,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/30/items/wrtribune-2022",
@@ -5359,31 +5359,93 @@
       "format": "JSON"
     },
     {
+      "name": "wrtribune-2022-11-02T13:28:02.174742-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wrtribune-2022-11-02T13:28:02.174742-05:00.jpg",
+      "mtime": "1667417512",
+      "size": "8934",
+      "md5": "cff7ef2ade4ed8486c230f39c065ccb6",
+      "crc32": "97a7c864",
+      "sha1": "173175727305ebfb3ce33c0adf8d168de6aa6735"
+    },
+    {
+      "name": "wrtribune-2022-11-03T02:12:13.840110-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667459538",
+      "size": "21277",
+      "md5": "23908440992f3be54a53a7348cd08391",
+      "crc32": "13c33a67",
+      "sha1": "9cbbe383d1485cedde21f37161b9fec24145d983",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-11-03T02:12:13.840110-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667459540",
+      "size": "35025",
+      "md5": "17d7b9e5d2585e2e492b7b75db647833",
+      "crc32": "da473fe7",
+      "sha1": "c8b362ad828ddc51844727bfc5cd1800bd9d2309",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-11-03T02:12:13.840110-05:00.jpg",
+      "source": "original",
+      "mtime": "1667459537",
+      "size": "260914",
+      "md5": "dcdd36071b7d73bf9e381facee5cf300",
+      "crc32": "0bcca08c",
+      "sha1": "4638f3b47f9e916562040474fae2220ab12a3024",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wrtribune-2022-11-03T02:12:13.840110-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667459541",
+      "size": "1603",
+      "md5": "5bc918d90f92192749a6dcab574e466a",
+      "crc32": "4db3c9ab",
+      "sha1": "ddd626e83f97fb3dfd9b834120522defee79edcb",
+      "format": "JSON"
+    },
+    {
+      "name": "wrtribune-2022-11-03T02:12:13.840110-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667459543",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "wrtribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f759731814e2ffcc78a9750f64438cf6ebebebb4",
-      "mtime": "1667413866",
-      "size": "110873",
-      "md5": "53e756db57bfbd804ff5f47fa137669c",
-      "crc32": "6daca0f9",
-      "sha1": "5b090deef4e9bfc73c09a20f5511a86677576712",
+      "btih": "d3c89b85ed0bfbf0b9dc3c5c5ce1636a406fba53",
+      "mtime": "1667459587",
+      "size": "112144",
+      "md5": "ac537d66c0956e40cd096c6d6cf0299e",
+      "crc32": "60cacde6",
+      "sha1": "54baf85d468aed3881705e20faf291be0a233a25",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wrtribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "824eb2bf6933d92beabb207464de950c",
+      "md5": "6aca58e70a595d7a81358c50b99e6402",
       "summation": "md5"
     },
     {
       "name": "wrtribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667413815",
-      "size": "679936",
-      "md5": "3ae7b60e8e999d9cbc21c5f3ae488783",
-      "crc32": "0607a512",
-      "sha1": "f35ef2afa104dec32d74c6642676a8ba55565d02",
+      "mtime": "1667459547",
+      "size": "688128",
+      "md5": "6ab009391819e32041ebd1064ff7497a",
+      "crc32": "468d5764",
+      "sha1": "15dbb25cc562ae368f6ff542aaaeb10ca95944d5",
       "format": "Metadata"
     },
     {
@@ -5397,9 +5459,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 522,
-  "item_last_updated": 1667413866,
-  "item_size": 35078496,
+  "files_count": 528,
+  "item_last_updated": 1667459587,
+  "item_size": 35415914,
   "metadata": {
     "identifier": "wrtribune-2022",
     "collection": [
@@ -5421,7 +5483,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459944422,
+      "task_id": 3460444251,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5429,13 +5491,8 @@
       "status": "queued"
     }
   ],
-  "uniq": 1580965910,
+  "uniq": 1869331570,
   "workable_servers": [
     "ia601409.us.archive.org"
-  ],
-  "wrtribune-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  }
+  ]
 }

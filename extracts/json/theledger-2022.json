@@ -1,5 +1,5 @@
 {
-  "created": 1667413642,
+  "created": 1667459301,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/theledger-2022",
@@ -5377,31 +5377,93 @@
       "format": "JSON"
     },
     {
+      "name": "theledger-2022-11-02T14:24:07.651279-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theledger-2022-11-02T14:24:07.651279-04:00.jpg",
+      "mtime": "1667417099",
+      "size": "9370",
+      "md5": "62542e8271a5cc31db927599377b88a5",
+      "crc32": "95515808",
+      "sha1": "abafb8957a617664b6ca72f246348fdef320f5db"
+    },
+    {
+      "name": "theledger-2022-11-03T03:07:22.847218-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667459248",
+      "size": "22738",
+      "md5": "acf2f251a9a5994fe06a60adb2550252",
+      "crc32": "e63493f1",
+      "sha1": "2d8cc7ca8634f881bb045bac5f765486a6f8c064",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-11-03T03:07:22.847218-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667459250",
+      "size": "37552",
+      "md5": "4831c276ab102be3f4e5b6f7d61cf91b",
+      "crc32": "b5eee600",
+      "sha1": "691a606b95033e8aac5ccbeef898b2b47c66b05a",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-11-03T03:07:22.847218-04:00.jpg",
+      "source": "original",
+      "mtime": "1667459246",
+      "size": "281939",
+      "md5": "28a2c686202fb17c2db41d314c7e1d88",
+      "crc32": "2d091ffb",
+      "sha1": "0a5c8bdae1f771b7584d68174ea368a4e3c48c20",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theledger-2022-11-03T03:07:22.847218-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667459251",
+      "size": "1486",
+      "md5": "d37e36fd538d79198612f6f0a79a717c",
+      "crc32": "9f992c8c",
+      "sha1": "1c4993660529d0c0de8e51051d7811fd34238cdc",
+      "format": "JSON"
+    },
+    {
+      "name": "theledger-2022-11-03T03:07:22.847218-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667459253",
+      "size": "111938",
+      "md5": "34c38b64c87e91fb19d913e3a7661991",
+      "crc32": "172900c1",
+      "sha1": "ddd4775cb8785c4d3b5087a8ec76d3a01451a55b",
+      "format": "JSON"
+    },
+    {
       "name": "theledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e522e0442841d701d1995da985a783c31dd01d4c",
-      "mtime": "1667413639",
-      "size": "111314",
-      "md5": "bd108c427ffb456967ca81adb6a8ae25",
-      "crc32": "c74c85fa",
-      "sha1": "b97690cbf082d12971a977249f22d7a38fd9c55d",
+      "btih": "d0623456b41515b9b210a23824b99047cc80912a",
+      "mtime": "1667459297",
+      "size": "112588",
+      "md5": "9697a7b417d08d009b4b3c27a3a4b94b",
+      "crc32": "4f4ea07b",
+      "sha1": "b72c56396efbccf0a9ed73db3fff5de69769fe8d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "402df13fa39ffae84002d27e1ba36b97",
+      "md5": "026caab3292b31241cd316719adcbf93",
       "summation": "md5"
     },
     {
       "name": "theledger-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667413599",
-      "size": "684032",
-      "md5": "5b1d6b42791aa36dfdda2fb837eee2bd",
-      "crc32": "2de6d986",
-      "sha1": "5ddba559b4e9a7e4eb8098c3821713884ebae006",
+      "mtime": "1667459259",
+      "size": "692224",
+      "md5": "fa46a6da787a1583f3bc7d1b418883b6",
+      "crc32": "79498f8b",
+      "sha1": "c9b49429216ccad77af791159c1e1b90047aa459",
       "format": "Metadata"
     },
     {
@@ -5415,9 +5477,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 524,
-  "item_last_updated": 1667413639,
-  "item_size": 35098155,
+  "files_count": 530,
+  "item_last_updated": 1667459297,
+  "item_size": 35572644,
   "metadata": {
     "identifier": "theledger-2022",
     "collection": [
@@ -5439,7 +5501,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459940817,
+      "task_id": 3460441081,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5447,7 +5509,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1329385619,
+  "uniq": 491618719,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

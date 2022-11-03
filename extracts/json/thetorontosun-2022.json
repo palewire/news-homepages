@@ -1,5 +1,5 @@
 {
-  "created": 1667413813,
+  "created": 1667459570,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/thetorontosun-2022",
@@ -14967,31 +14967,93 @@
       "format": "JSON"
     },
     {
+      "name": "thetorontosun-2022-11-02T14:25:33.102817-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thetorontosun-2022-11-02T14:25:33.102817-04:00.jpg",
+      "mtime": "1667417693",
+      "size": "11749",
+      "md5": "a9bc2a0d6d5e56f6f6216b6d26d9999a",
+      "crc32": "2496f95c",
+      "sha1": "631627971d6e8deadf5bb7f5ff6a3b368322266d"
+    },
+    {
+      "name": "thetorontosun-2022-11-03T03:09:41.248048-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667459402",
+      "size": "82426",
+      "md5": "6c19f22e65c8b5dc6a744c3447d790ff",
+      "crc32": "066620cc",
+      "sha1": "ba09d9831848c89af189352d17bf102cdb481a72",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-11-03T03:09:41.248048-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667459404",
+      "size": "55294",
+      "md5": "632b59cf319d40a249c62a9a55b5409e",
+      "crc32": "aeca1a9a",
+      "sha1": "6fecada27e03a1d61218411b0999775b8c7af82a",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-11-03T03:09:41.248048-04:00.jpg",
+      "source": "original",
+      "mtime": "1667459400",
+      "size": "360668",
+      "md5": "ecd7c8a7011541711c6752d32a89101e",
+      "crc32": "de2b91cd",
+      "sha1": "bd4a37451771395de6a69fdaae5ff0cdd576bd7b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thetorontosun-2022-11-03T03:09:41.248048-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667459405",
+      "size": "1459",
+      "md5": "05af4475cceca0acb4287fd3b3224594",
+      "crc32": "6eec484e",
+      "sha1": "802a756cd47dc62c7c6663e2b0915e3578e0f8ab",
+      "format": "JSON"
+    },
+    {
+      "name": "thetorontosun-2022-11-03T03:09:41.248048-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667459407",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "thetorontosun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "893100e47b4595cba140e091acdcda120645e008",
-      "mtime": "1667413770",
-      "size": "313570",
-      "md5": "4266a92e26c2afa2fc0c3c058bea3d25",
-      "crc32": "35fb1617",
-      "sha1": "2ef80d34cce745721551cb43c7a22a5c7139608c",
+      "btih": "a3288fd6402c8041375f7becc78bca662489bc09",
+      "mtime": "1667459538",
+      "size": "314866",
+      "md5": "f4622d7ebc6c8b9af95c07a51bb938af",
+      "crc32": "6359a646",
+      "sha1": "f15df31214c51ee38509b2a1e499487884de1d96",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thetorontosun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "36520e7c8d31a4fc86670771bdc0f29a",
+      "md5": "ef77296c5e9ba326dc7778caaa6c911e",
       "summation": "md5"
     },
     {
       "name": "thetorontosun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667413680",
-      "size": "1818624",
-      "md5": "04cf327f0acb0187a9e49c4be2b3fb0c",
-      "crc32": "93586718",
-      "sha1": "9d661596c09d46c24711a6b13463a10b2f9e2c5a",
+      "mtime": "1667459445",
+      "size": "1826816",
+      "md5": "0cdd00d83887759766c54ccb72aeda61",
+      "crc32": "82145e86",
+      "sha1": "0eeddaefb862a67bac760c4556f9f974f72f75b8",
       "format": "Metadata"
     },
     {
@@ -15005,9 +15067,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1447,
-  "item_last_updated": 1667413770,
-  "item_size": 137383060,
+  "files_count": 1453,
+  "item_last_updated": 1667459538,
+  "item_size": 137904346,
   "metadata": {
     "identifier": "thetorontosun-2022",
     "collection": [
@@ -15029,7 +15091,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459943307,
+      "task_id": 3460444138,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15037,7 +15099,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1395675900,
+  "uniq": 1358741528,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

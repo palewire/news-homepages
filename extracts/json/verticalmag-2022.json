@@ -1,5 +1,5 @@
 {
-  "created": 1667413731,
+  "created": 1667459476,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/9/items/verticalmag-2022",
@@ -8953,31 +8953,93 @@
       "format": "JSON"
     },
     {
+      "name": "verticalmag-2022-11-02T14:26:02.694496-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "verticalmag-2022-11-02T14:26:02.694496-04:00.jpg",
+      "mtime": "1667417345",
+      "size": "9814",
+      "md5": "1cc167af2c2e136dbcfa9ea9b76f74ac",
+      "crc32": "3c7d2650",
+      "sha1": "d36ca03bd16b79a55c8ffdeff80ea5a83cc8d58c"
+    },
+    {
+      "name": "verticalmag-2022-11-03T03:09:48.814498-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667459417",
+      "size": "31427",
+      "md5": "f6c2bb8fcd493e1d698f0daa7b2f4401",
+      "crc32": "5994cb85",
+      "sha1": "b678a17c471be0ea172e78c2e33fec70aef1661d",
+      "format": "JSON"
+    },
+    {
+      "name": "verticalmag-2022-11-03T03:09:48.814498-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667459418",
+      "size": "34054",
+      "md5": "0b84a22d49b892041df5d891d94a7671",
+      "crc32": "b10b43fc",
+      "sha1": "636c1225dfbf9c6f32b9870c4f1572ed4516faff",
+      "format": "JSON"
+    },
+    {
+      "name": "verticalmag-2022-11-03T03:09:48.814498-04:00.jpg",
+      "source": "original",
+      "mtime": "1667459416",
+      "size": "304452",
+      "md5": "b4c0c6728e91cd0096a9839d4995accf",
+      "crc32": "135ec820",
+      "sha1": "dc1034d37aa78af5a619e518628d22a36b6bb6eb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "verticalmag-2022-11-03T03:09:48.814498-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667459420",
+      "size": "1468",
+      "md5": "a6456e620be36575fcf2d09260c7dcba",
+      "crc32": "af2f842a",
+      "sha1": "910ee98f95653755328853f354fbb0275864391b",
+      "format": "JSON"
+    },
+    {
+      "name": "verticalmag-2022-11-03T03:09:48.814498-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667459421",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "verticalmag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4885b35739c2bf5afee2b86891a61b7a386416df",
-      "mtime": "1667413716",
-      "size": "185904",
-      "md5": "2679083952252b8ad9c12236a9054ef2",
-      "crc32": "12339b26",
-      "sha1": "a97c567345d75d983eacd7f628d95b7acab86639",
+      "btih": "57dc771738ef6ad2b99d05b9d9794a722f5a249c",
+      "mtime": "1667459472",
+      "size": "187187",
+      "md5": "51108a5a843acb18e4e9b122ae49682e",
+      "crc32": "01c32c08",
+      "sha1": "c14e195b35195c77482a8141f4305092904c3ecb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "verticalmag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26b1bf29bc6806b05c0cb6ca59d230d1",
+      "md5": "4872f8779b63cdbe335fac9af478394e",
       "summation": "md5"
     },
     {
       "name": "verticalmag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667413658",
-      "size": "1122304",
-      "md5": "0bbcfaddcb039372cc148bf3b811d99b",
-      "crc32": "65acf1a7",
-      "sha1": "31c03d7bd4f40ee7994599da414eaab608f08a55",
+      "mtime": "1667459427",
+      "size": "1130496",
+      "md5": "060f09ff2ab8a3c589210d801829f015",
+      "crc32": "4d8840b6",
+      "sha1": "765d4d250e058543c4923ac48a5c05b3de1078db",
       "format": "Metadata"
     },
     {
@@ -8991,9 +9053,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 870,
-  "item_last_updated": 1667413716,
-  "item_size": 51861822,
+  "files_count": 876,
+  "item_last_updated": 1667459472,
+  "item_size": 52252714,
   "metadata": {
     "identifier": "verticalmag-2022",
     "collection": [
@@ -9015,7 +9077,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459942063,
+      "task_id": 3460442906,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9023,7 +9085,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1681801162,
+  "uniq": 532969227,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

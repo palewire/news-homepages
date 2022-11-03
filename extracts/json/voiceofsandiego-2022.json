@@ -1,5 +1,5 @@
 {
-  "created": 1667413758,
+  "created": 1667459499,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/voiceofsandiego-2022",
@@ -28211,31 +28211,93 @@
       "format": "JSON"
     },
     {
+      "name": "voiceofsandiego-2022-11-02T11:27:02.090295-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voiceofsandiego-2022-11-02T11:27:02.090295-07:00.jpg",
+      "mtime": "1667417361",
+      "size": "11292",
+      "md5": "fbf1c30e8bab57f71242ddabb0d6396d",
+      "crc32": "c1434c5f",
+      "sha1": "309750443fc5708fd4d12da7f9017773dde5af83"
+    },
+    {
+      "name": "voiceofsandiego-2022-11-03T00:09:32.740113-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667459403",
+      "size": "21114",
+      "md5": "486d8ead8c9362023e723d1c2eae08af",
+      "crc32": "38cd167f",
+      "sha1": "d18d824e1fa4c9f7df7c0eb8c86532ab750f4d6b",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofsandiego-2022-11-03T00:09:32.740113-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667459405",
+      "size": "26996",
+      "md5": "8a74ce5398fcaf729c8cb7bacd280453",
+      "crc32": "da005e1c",
+      "sha1": "3c001f6650abfdbe14917a536ec88c362801ba52",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofsandiego-2022-11-03T00:09:32.740113-07:00.jpg",
+      "source": "original",
+      "mtime": "1667459401",
+      "size": "282590",
+      "md5": "12b9fdebdaa6710b2e067592fc2fb17e",
+      "crc32": "957aec6d",
+      "sha1": "60e8f226728d9dde684f9c506e5e484ce9f651d1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voiceofsandiego-2022-11-03T00:09:32.740113-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667459407",
+      "size": "1503",
+      "md5": "d0509c32e02e0fc52fec0f167868f6b0",
+      "crc32": "62355cfe",
+      "sha1": "02638ede58583f41c9d4fadb14bf634bb9008804",
+      "format": "JSON"
+    },
+    {
+      "name": "voiceofsandiego-2022-11-03T00:09:32.740113-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667459409",
+      "size": "18314",
+      "md5": "01397038442f3fdee7d5270432d1e403",
+      "crc32": "214eda5b",
+      "sha1": "34283149fbb5b961b7396d3825f8c4c5dc4b5da9",
+      "format": "JSON"
+    },
+    {
       "name": "voiceofsandiego-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d4f1b6f0d164003365829c02bf284f5da1a8114",
-      "mtime": "1667413752",
-      "size": "591157",
-      "md5": "4c18dab17893625145929d4be2751b29",
-      "crc32": "23624e32",
-      "sha1": "a8820469689cada97be7d3abb215c196644d810f",
+      "btih": "9b16da9cb0fce557245b0aa8cf2a7f09c317b671",
+      "mtime": "1667459494",
+      "size": "592467",
+      "md5": "c5e715b7554f9952954d584a0eebe9c7",
+      "crc32": "59de309b",
+      "sha1": "4469112731e8ea4da128050d7c06a6f271e65718",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voiceofsandiego-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5b7582a99e41cb1ebbecc1d33086aded",
+      "md5": "14b9fda72132feeb0aa4ca30f75e58a4",
       "summation": "md5"
     },
     {
       "name": "voiceofsandiego-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667413669",
-      "size": "3334144",
-      "md5": "d81bc87868f894469c9b2cda9fbd10d5",
-      "crc32": "11d64568",
-      "sha1": "4df8eb77790b1ae12cca48bbe61b9687f5a3e769",
+      "mtime": "1667459413",
+      "size": "3350528",
+      "md5": "ec77e908f5672f0e694be1acd4a887bd",
+      "crc32": "e3c6da68",
+      "sha1": "f1ee50278c56d922a79e093bba6208c741357f67",
       "format": "Metadata"
     },
     {
@@ -28249,9 +28311,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2715,
-  "item_last_updated": 1667413752,
-  "item_size": 199075312,
+  "files_count": 2721,
+  "item_last_updated": 1667459494,
+  "item_size": 199454815,
   "metadata": {
     "identifier": "voiceofsandiego-2022",
     "collection": [
@@ -28273,7 +28335,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459942441,
+      "task_id": 3460443182,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -28281,7 +28343,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 537991752,
+  "uniq": 1649980912,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]
