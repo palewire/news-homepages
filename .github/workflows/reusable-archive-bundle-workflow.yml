@@ -196,9 +196,9 @@ jobs:
         name: Save artifact
         uses: actions/upload-artifact@v2
           with:
-          name: html
-          path: _dist
-          if-no-files-found: error
+            name: html
+            path: _dist
+            if-no-files-found: error
 
   archive:
     name: Post to archive.org
