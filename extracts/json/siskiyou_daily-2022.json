@@ -1,5 +1,5 @@
 {
-  "created": 1667400637,
+  "created": 1667446331,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/siskiyou_daily-2022",
@@ -5337,31 +5337,83 @@
       "format": "JSON"
     },
     {
+      "name": "siskiyou_daily-2022-11-02T07:49:38.391794-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "siskiyou_daily-2022-11-02T07:49:38.391794-07:00.jpg",
+      "mtime": "1667401048",
+      "size": "9689",
+      "md5": "24c3ca72e67af78c128a16e1a96190b1",
+      "crc32": "77c97dd1",
+      "sha1": "582a4972362b219f21a654aac9f1ad5953f78b0e"
+    },
+    {
+      "name": "siskiyou_daily-2022-11-02T20:31:18.328496-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667446284",
+      "size": "34867",
+      "md5": "992e8b2e3cd4a54afad5038d4c6af03b",
+      "crc32": "ea9041be",
+      "sha1": "cf67bc87b2f474c1e77b36d6b083a9e6a68cd49c",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-11-02T20:31:18.328496-07:00.jpg",
+      "source": "original",
+      "mtime": "1667446282",
+      "size": "251218",
+      "md5": "373730e7fc7cf109639968087c10c541",
+      "crc32": "6a69da11",
+      "sha1": "d2d5c4271f0af9d1c63bd80271ad80846d75c090",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "siskiyou_daily-2022-11-02T20:31:18.328496-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667446285",
+      "size": "1522",
+      "md5": "e1e10ac92db458ceadc488202bd2f155",
+      "crc32": "22f11c27",
+      "sha1": "5c75a1ccd7e7838de712507c0f25e6c9e02fcb5f",
+      "format": "JSON"
+    },
+    {
+      "name": "siskiyou_daily-2022-11-02T20:31:18.328496-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667446287",
+      "size": "210",
+      "md5": "190aa11c6e698c8c06459a2fa6c305cc",
+      "crc32": "262da750",
+      "sha1": "eaee90d0f79b3fa72e9948fd7103b45cf1c00f0a",
+      "format": "JSON"
+    },
+    {
       "name": "siskiyou_daily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ccf47c9ddeec4d5b20ec812f47e8db696f3e364d",
-      "mtime": "1667400634",
-      "size": "113169",
-      "md5": "49866f3638f0b8820a08bc5ae8c3080c",
-      "crc32": "da98ed9d",
-      "sha1": "91324458035f56d3cd0079b2d1ea8e636f0f0ee4",
+      "btih": "187640711ac42caaa017d2c6848b03be752432d5",
+      "mtime": "1667446329",
+      "size": "114250",
+      "md5": "b64634cd239c046e28a9f5373d0b7145",
+      "crc32": "3f9ffbd4",
+      "sha1": "adeb9af16e8cce51e19d8687f6c8067a438c22cb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "siskiyou_daily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2cfec1ea702b53a8037f02d4e17b1ac6",
+      "md5": "bffb3d5fbb04a504b8fe8f76a9d9afdf",
       "summation": "md5"
     },
     {
       "name": "siskiyou_daily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667400589",
-      "size": "679936",
-      "md5": "e89584f34d3b8a4c531854380165fd5b",
-      "crc32": "7d77c12f",
-      "sha1": "e7d5dae71d01460b20dba336134e03970061a928",
+      "mtime": "1667446291",
+      "size": "684032",
+      "md5": "ab8fcf385fd2a64f53b55a9471ae9ae9",
+      "crc32": "f3f842cd",
+      "sha1": "b564bca0771a1a8cac17f478f79124e419725680",
       "format": "Metadata"
     },
     {
@@ -5375,9 +5427,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 520,
-  "item_last_updated": 1667400634,
-  "item_size": 36122172,
+  "files_count": 525,
+  "item_last_updated": 1667446329,
+  "item_size": 36424855,
   "metadata": {
     "identifier": "siskiyou_daily-2022",
     "collection": [
@@ -5399,7 +5451,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459799507,
+      "task_id": 3460293573,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -5407,7 +5459,7 @@
       "status": "running"
     }
   ],
-  "uniq": 2091622693,
+  "uniq": 906862449,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

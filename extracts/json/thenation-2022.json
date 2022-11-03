@@ -1,5 +1,6 @@
 {
-  "created": 1667400841,
+  "conflict": 1667448694,
+  "created": 1667448694,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/35/items/thenation-2022",
@@ -19999,31 +20000,161 @@
       "format": "JSON"
     },
     {
+      "name": "thenation-2022-11-02T10:51:54.106880-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenation-2022-11-02T10:51:54.106880-04:00.jpg",
+      "mtime": "1667401470",
+      "size": "9174",
+      "md5": "bde8b5a539042d6c2ec220ae565d87d0",
+      "crc32": "611e18a4",
+      "sha1": "4916b5c2b83d1b79ffde57e31a045d907209edb8"
+    },
+    {
+      "name": "thenation-2022-11-02T15:02:57.049753-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667415786",
+      "size": "24726",
+      "md5": "a89336fca72cc2bacb1591afe01ee251",
+      "crc32": "21f3d3d9",
+      "sha1": "112cb1025b43037bc98879770b354301e42b9c6e",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-11-02T15:02:57.049753-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667415788",
+      "size": "20223",
+      "md5": "e1f491a16c5faba7dc2f9429789eab88",
+      "crc32": "6f22d12c",
+      "sha1": "b357bded62a20b088c681f45f7f981556a8857a7",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-11-02T15:02:57.049753-04:00.jpg",
+      "source": "original",
+      "mtime": "1667415784",
+      "size": "253912",
+      "md5": "7d9d4c9ae44c78c09ce0dd15465c53b3",
+      "crc32": "6ce69772",
+      "sha1": "263e18bb4c4cec3c60ca6d951375de4bc3594157",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenation-2022-11-02T15:02:57.049753-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667415791",
+      "size": "1486",
+      "md5": "677345cf199a4cfea8a062cd3d57c2ea",
+      "crc32": "cee8b9ac",
+      "sha1": "d8063e099e0893ef19ff9498d5b136a5ad2ece4d",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-11-02T15:02:57.049753-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667415794",
+      "size": "43776",
+      "md5": "226381d94bb18354834ca6a2c98a1545",
+      "crc32": "e739fe49",
+      "sha1": "cd38adb188ed7423e058bfecd8efd980e387ef80",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-11-02T15:02:57.049753-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenation-2022-11-02T15:02:57.049753-04:00.jpg",
+      "mtime": "1667419704",
+      "size": "9057",
+      "md5": "b1bbdc68b09e82cd71f8ce9ea7107af7",
+      "crc32": "dcfbb81e",
+      "sha1": "ab1be69a8b61397b4a22c1a656fbd38b3facfd8e"
+    },
+    {
+      "name": "thenation-2022-11-02T23:33:56.344304-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667446450",
+      "size": "25099",
+      "md5": "bb35fc949acfcd2a1398d22fb53a7513",
+      "crc32": "09acea0b",
+      "sha1": "cce03773deab8f40f1be5b0904582d048daf5431",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-11-02T23:33:56.344304-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667446452",
+      "size": "20246",
+      "md5": "d2cf278812db011a873f8773f6935f3e",
+      "crc32": "a59d9676",
+      "sha1": "77ac6558c97d00f94b4c6e29bd5248257b44553b",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-11-02T23:33:56.344304-04:00.jpg",
+      "source": "original",
+      "mtime": "1667446448",
+      "size": "250376",
+      "md5": "050e24c3ef7f1341c3aefcc84a4d0848",
+      "crc32": "dbb2f607",
+      "sha1": "1ac99db920d49846911f4c218067e30d9337aac0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenation-2022-11-02T23:33:56.344304-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667446454",
+      "size": "1486",
+      "md5": "1aadb66dffcd8ba00ebec2dec89c3aa6",
+      "crc32": "343c6592",
+      "sha1": "eb848da036ea613d2a5e40958b4ba4decfc43ed6",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-11-02T23:33:56.344304-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667446456",
+      "size": "54273",
+      "md5": "e26848341e0a31b96aa5b15b794605e6",
+      "crc32": "522a6238",
+      "sha1": "25b463119ebb721e75c7fdf163bb09288a74c6d5",
+      "format": "JSON"
+    },
+    {
+      "name": "thenation-2022-11-02T23:33:56.344304-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenation-2022-11-02T23:33:56.344304-04:00.jpg"
+    },
+    {
       "name": "thenation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b90c14f4ef351810d941538b87b9cb09989f909d",
-      "mtime": "1667400810",
-      "size": "408890",
-      "md5": "13058417bdf62a660f60db4ac2588ac1",
-      "crc32": "b26e7d84",
-      "sha1": "78aef7301954ea2ef55f4c322a552731725f32df",
+      "btih": "2cc5fbbd1836fad91cd8fbead4600de859d40a74",
+      "mtime": "1667446594",
+      "size": "411436",
+      "md5": "2210649c5c335146dc92b59fbb3af2f8",
+      "crc32": "363cb667",
+      "sha1": "f09961e6aa1b9fde9c0a23b60ffe2ce5ef5657d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed956daadf4039e5ccd215678b33e8a1",
+      "md5": "0c5552d4890aae8576a7d5cb6bbcbc91",
       "summation": "md5"
     },
     {
       "name": "thenation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667400734",
-      "size": "2441216",
-      "md5": "90c34c77837b054a5e9c751ebe83816e",
-      "crc32": "df050b1e",
-      "sha1": "767e066e899e72a06d821e867f4cc463cd910eae",
+      "mtime": "1667446524",
+      "size": "2453504",
+      "md5": "0790e2a828bd24159e16591c34b9e57b",
+      "crc32": "200e0d7e",
+      "sha1": "87403d1d6e5b2451a635068de841655c0947a03b",
       "format": "Metadata"
     },
     {
@@ -20037,9 +20168,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1935,
-  "item_last_updated": 1667400810,
-  "item_size": 117286568,
+  "files_count": 1948,
+  "item_last_updated": 1667446594,
+  "item_size": 118015236,
   "metadata": {
     "identifier": "thenation-2022",
     "collection": [
@@ -20061,7 +20192,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459801802,
+      "task_id": 3460296906,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -20069,7 +20200,7 @@
       "status": "running"
     }
   ],
-  "uniq": 1063082237,
+  "uniq": 788896625,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

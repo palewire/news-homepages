@@ -1,6 +1,5 @@
 {
-  "conflict": 1667401167,
-  "created": 1667401167,
+  "created": 1667448676,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/30/items/tennessean-2022",
@@ -5287,31 +5286,93 @@
       "sha1": "8c6c2dd7be51cf16262ed0d1eb89d47fe2c5438d"
     },
     {
+      "name": "tennessean-2022-11-02T22:31:21.805376-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667446287",
+      "size": "22259",
+      "md5": "31702ff9c0df282786bf618254a05bc4",
+      "crc32": "faaf5173",
+      "sha1": "ad0b5b84f6050394fcaec14bbf3d7abc7e7ec2db",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-11-02T22:31:21.805376-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667446288",
+      "size": "40819",
+      "md5": "8a81f1d93a295e18b7e7f23d1d6e5479",
+      "crc32": "ab4dbc60",
+      "sha1": "ae97bb95efaf8fa4de145eefc92ed7c220de56b9",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-11-02T22:31:21.805376-05:00.jpg",
+      "source": "original",
+      "mtime": "1667446285",
+      "size": "248263",
+      "md5": "0fe7215f41cc2e69a6cc5a7442569ca4",
+      "crc32": "8d5fab89",
+      "sha1": "59bcfaf208dae5a25a12bc01099bd84e85cc36ea",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tennessean-2022-11-02T22:31:21.805376-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667446290",
+      "size": "1495",
+      "md5": "87ec089e0ebab204c1389453110653cd",
+      "crc32": "db2da499",
+      "sha1": "a7b571e33c3bc00f9ae93445a96743b685790519",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-11-02T22:31:21.805376-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667446292",
+      "size": "78757",
+      "md5": "be549c5ba340bd87c1b0888dbf65ab29",
+      "crc32": "7896095b",
+      "sha1": "ba6c79b8d9dceeed704daca717adcadf58af333f",
+      "format": "JSON"
+    },
+    {
+      "name": "tennessean-2022-11-02T22:31:21.805376-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tennessean-2022-11-02T22:31:21.805376-05:00.jpg",
+      "mtime": "1667448498",
+      "size": "9205",
+      "md5": "23618459c7e193e2e445cafdca802866",
+      "crc32": "a8a92fed",
+      "sha1": "45be581f47ee61d575cc361f43422b2c7c0aa942"
+    },
+    {
       "name": "tennessean-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3fbf74271add51c56198eea333a8806c861e87b6",
-      "mtime": "1667401163",
-      "size": "109869",
-      "md5": "a373ae139e3ca9ab21f65c4705005afb",
-      "crc32": "54622813",
-      "sha1": "0c853683ef829accb9aba9b9f2530c1af28d18f1",
+      "btih": "ad5289b66f1042e45d60834b270bee5f1d76d4df",
+      "mtime": "1667448504",
+      "size": "111128",
+      "md5": "f3c035ff1ba2e26b5f52aeb94938e194",
+      "crc32": "049d49bc",
+      "sha1": "e8b132f5de66d8841d056be707a04d6f7a80a4f1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tennessean-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5fa1db19a68dbbaa8fdd188ca4c44e81",
+      "md5": "bcbe4481e38df57ed6569d1bb1bb4b43",
       "summation": "md5"
     },
     {
       "name": "tennessean-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667400591",
-      "size": "671744",
-      "md5": "4c9da8dd69872b2fc9df8d63a968866d",
-      "crc32": "6a1e5f80",
-      "sha1": "5464af1f316818827761d8578852216f7186eba0",
+      "mtime": "1667446299",
+      "size": "679936",
+      "md5": "5486e055860dd90161e27f9744429569",
+      "crc32": "729af20c",
+      "sha1": "7ebdc3efeccf784044827ca2db92286c4c36993b",
       "format": "Metadata"
     },
     {
@@ -5325,9 +5386,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 515,
-  "item_last_updated": 1667401163,
-  "item_size": 33210105,
+  "files_count": 521,
+  "item_last_updated": 1667448504,
+  "item_size": 33620354,
   "metadata": {
     "identifier": "tennessean-2022",
     "collection": [
@@ -5344,29 +5405,10 @@
     "publicdate": "2022-09-21 03:43:04",
     "addeddate": "2022-09-21 03:43:04"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3459799498,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3459805040,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1772746221,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1097243449,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }
