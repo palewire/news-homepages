@@ -1,5 +1,5 @@
 {
-  "created": 1667409764,
+  "created": 1667454310,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/enterprisenews-2022",
@@ -5389,31 +5389,93 @@
       "format": "JSON"
     },
     {
+      "name": "enterprisenews-2022-11-02T13:21:26.830441-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enterprisenews-2022-11-02T13:21:26.830441-04:00.jpg",
+      "mtime": "1667414162",
+      "size": "9254",
+      "md5": "8e45458734320b63143d5481447194ad",
+      "crc32": "1791968d",
+      "sha1": "edf4d15a6587133b395a842a41e9735b6acd7f4a"
+    },
+    {
+      "name": "enterprisenews-2022-11-03T01:43:28.874169-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667454215",
+      "size": "21042",
+      "md5": "6c4536088e4687f943ac899c0b1f0ea5",
+      "crc32": "9cbbb5a5",
+      "sha1": "5db9f561dd341d5c0bbc564cc78f66e3b1acd921",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-11-03T01:43:28.874169-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667454216",
+      "size": "45409",
+      "md5": "5803858909b8f9c694c6faa3d143fa44",
+      "crc32": "4545e03f",
+      "sha1": "c113d13ee1a1730918927fb64a4cc050bea4987d",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-11-03T01:43:28.874169-04:00.jpg",
+      "source": "original",
+      "mtime": "1667454213",
+      "size": "256577",
+      "md5": "e90fe63afd7ad64fd066d9223dc620f6",
+      "crc32": "08518c69",
+      "sha1": "43a27822b5b3ea7ca7deedadfbc05d84d6b87d21",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enterprisenews-2022-11-03T01:43:28.874169-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667454218",
+      "size": "1531",
+      "md5": "9227ca429bc7ba8a85aab3586b8a5553",
+      "crc32": "cde43641",
+      "sha1": "731970ef4d80b031b7ab306b5d7fe8f2f2644014",
+      "format": "JSON"
+    },
+    {
+      "name": "enterprisenews-2022-11-03T01:43:28.874169-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667454219",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "enterprisenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5198011673daaeb43b596e104175b3431df44d6d",
-      "mtime": "1667409755",
-      "size": "114174",
-      "md5": "e55342e1d80d00a6ec13e2f3284e0b6a",
-      "crc32": "bfadc99d",
-      "sha1": "0deb98951873f13a25e2ad205f895ae9840edd59",
+      "btih": "3021b63d7363c999ad4357e769923699a644da6a",
+      "mtime": "1667454296",
+      "size": "115475",
+      "md5": "715f70d6ecebc9dd0fa3e8d72768cd77",
+      "crc32": "1352ab83",
+      "sha1": "037adb2cf5dc05d5312361ad19aa1ef44773b292",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enterprisenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "05cecff49b4c9901e4083586c5f330af",
+      "md5": "0f38c52e576e4c92de32ea3c8a75477a",
       "summation": "md5"
     },
     {
       "name": "enterprisenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409711",
-      "size": "684032",
-      "md5": "a791cb1af9ff2152294a3df05f0ed56e",
-      "crc32": "abaa2392",
-      "sha1": "9483543c030d2d97a17241d54706ed77407d2910",
+      "mtime": "1667454248",
+      "size": "692224",
+      "md5": "98d0efa3ef2ed3588489b0e266824bb2",
+      "crc32": "e4ac1632",
+      "sha1": "0e3826721925d3b25b329da8ca6599a897066ab5",
       "format": "Metadata"
     },
     {
@@ -5427,9 +5489,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 525,
-  "item_last_updated": 1667409755,
-  "item_size": 35135801,
+  "files_count": 531,
+  "item_last_updated": 1667454296,
+  "item_size": 35479309,
   "metadata": {
     "identifier": "enterprisenews-2022",
     "collection": [
@@ -5451,15 +5513,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459902630,
+      "task_id": 3460386453,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1657254699,
+  "uniq": 1145844760,
   "workable_servers": [
     "ia601402.us.archive.org"
   ]

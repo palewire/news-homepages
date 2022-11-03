@@ -1,5 +1,5 @@
 {
-  "created": 1667409475,
+  "created": 1667458220,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/17/items/cronica-2022",
@@ -10479,31 +10479,94 @@
       "format": "JSON"
     },
     {
+      "name": "cronica-2022-11-02T14:16:29.518173-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cronica-2022-11-02T14:16:29.518173-03:00.jpg",
+      "mtime": "1667413870",
+      "size": "10720",
+      "md5": "734316b7f86e93985c038a7e57d5df3a",
+      "crc32": "fc93af11",
+      "sha1": "4aff000d6d85839acfeb89d68cdb4381d35b76d2"
+    },
+    {
+      "name": "cronica-2022-11-03T02:40:55.893553-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667454066",
+      "size": "80641",
+      "md5": "e96a4866143ff9b36d0123bf1a089763",
+      "crc32": "1048af47",
+      "sha1": "424f8f74db334c736fca3309a4dca4aa4630fd18",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-11-03T02:40:55.893553-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667454068",
+      "size": "31278",
+      "md5": "cf288d0e9b963315b7d46cb33d8933eb",
+      "crc32": "8f803078",
+      "sha1": "a8e539a213947b222f4abb63974fd7e9bdce480b",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-11-03T02:40:55.893553-03:00.jpg",
+      "source": "original",
+      "mtime": "1667454064",
+      "size": "14925",
+      "md5": "2835710d6430bcbd4fd9d5901cc9b43c",
+      "crc32": "9f05c77e",
+      "sha1": "09675d5cdc9dfc990ae67400fe8ba40218791d93",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cronica-2022-11-03T02:40:55.893553-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667454070",
+      "size": "111500",
+      "md5": "d09a6de328a3c29c141422ce091afa30",
+      "crc32": "9b1956a3",
+      "sha1": "723d7e667c4a7f1e4411a1603cf8a6c4e8210b2c",
+      "format": "JSON"
+    },
+    {
+      "name": "cronica-2022-11-03T02:40:55.893553-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cronica-2022-11-03T02:40:55.893553-03:00.jpg",
+      "mtime": "1667458151",
+      "size": "4900",
+      "md5": "95d22074760967ae411aeee9e244e3d8",
+      "crc32": "0a572267",
+      "sha1": "6005b59487d8ae5a3b006d62feff00016091a835"
+    },
+    {
       "name": "cronica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d4b4f91f6fbd21b4e8a1f36b1f76f24fbcd41b2c",
-      "mtime": "1667409469",
-      "size": "213105",
-      "md5": "4a9fb9f8984c1540b4cb1bc5fc6be9d4",
-      "crc32": "d587d6cb",
-      "sha1": "ba0e00d88f2b96018245fc94f8ea0776523c1356",
+      "btih": "e9130a864cbf584c654c4d465493b469a98471a5",
+      "mtime": "1667458188",
+      "size": "214341",
+      "md5": "b291f343434e99b9a07bc0c1e26c349e",
+      "crc32": "29c0a938",
+      "sha1": "28f3fd1f050bb0c76f7e9e050f416eaac3d647ba",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cronica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "081beb01b64e4d78fefcb25f3c90f8c5",
+      "md5": "2e8967a684b1af4d8d523cf3209185ab",
       "summation": "md5"
     },
     {
       "name": "cronica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409420",
-      "size": "1302528",
-      "md5": "52014676611075378d9a6e1e14e8e0cc",
-      "crc32": "77a99697",
-      "sha1": "b32f75ca1442fe02878970c3f5afdc4f0d3d9336",
+      "mtime": "1667454075",
+      "size": "1306624",
+      "md5": "bc47c44bfa96e1bcb9c7359676f74871",
+      "crc32": "07e4d140",
+      "sha1": "715c66e11090cb0bad11846ec28f5cedbc71c1d8",
       "format": "Metadata"
     },
     {
@@ -10517,9 +10580,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1018,
-  "item_last_updated": 1667409469,
-  "item_size": 56533364,
+  "files_count": 1024,
+  "item_last_updated": 1667458188,
+  "item_size": 56792660,
   "metadata": {
     "identifier": "cronica-2022",
     "collection": [
@@ -10536,21 +10599,10 @@
     "publicdate": "2022-08-09 14:37:36",
     "addeddate": "2022-08-09 14:37:36"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3459899380,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 400835948,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1551251756,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667409777,
+  "created": 1667454335,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/eater-2022",
@@ -13583,31 +13583,93 @@
       "format": "JSON"
     },
     {
+      "name": "eater-2022-11-02T13:19:36.668641-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eater-2022-11-02T13:19:36.668641-04:00.jpg",
+      "mtime": "1667414110",
+      "size": "10593",
+      "md5": "283d59b789291e36d03785b7161f43af",
+      "crc32": "0579be95",
+      "sha1": "fe314a223037624c167873b8d7104fb4dcb9d60d"
+    },
+    {
+      "name": "eater-2022-11-03T01:44:03.464099-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667454246",
+      "size": "31860",
+      "md5": "691151bfd61f5a8d7d44dbb36f8e03b1",
+      "crc32": "44d0a6ce",
+      "sha1": "8aad725c93fd2a71c00335b0e079f7c69af18eb7",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-11-03T01:44:03.464099-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667454247",
+      "size": "45053",
+      "md5": "da71d13ababa076ef36370b54b6f9f82",
+      "crc32": "15a7c7f6",
+      "sha1": "b1bd43de61228a50428589cebf614801deb5018b",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-11-03T01:44:03.464099-04:00.jpg",
+      "source": "original",
+      "mtime": "1667454244",
+      "size": "320606",
+      "md5": "17e24d06e162006d89759bf99a1b5786",
+      "crc32": "912b1385",
+      "sha1": "163949b84cdd764a33418b8a0286c3e37124925f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eater-2022-11-03T01:44:03.464099-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667454249",
+      "size": "1447",
+      "md5": "7223bcb278bff81333b7ef33a8df0a98",
+      "crc32": "9b00a07e",
+      "sha1": "af5123c53c0b24f13f560f94a0851e3e8c929471",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-11-03T01:44:03.464099-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667454250",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "eater-2022_archive.torrent",
       "source": "metadata",
-      "btih": "da01197301f80332a1d6872c7e7cae72c4a02596",
-      "mtime": "1667409766",
-      "size": "274255",
-      "md5": "856d327f2738a49305043ca61d6ec387",
-      "crc32": "93cbe87f",
-      "sha1": "64164f6a34b36e149ffd7c4b448229b3a03d68a0",
+      "btih": "7ad7dc3f7ea7605e35137df779da0047d54db7bd",
+      "mtime": "1667454324",
+      "size": "275503",
+      "md5": "c43fa0801227ee5afceb866e16f60a01",
+      "crc32": "3fa7f325",
+      "sha1": "ca19a8dac21de12927daee6820653e2892c85c98",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eater-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5c53e4aa215b73c6832dc40cff8915d2",
+      "md5": "f5b75e44b35e9f55a76b5d4092265dac",
       "summation": "md5"
     },
     {
       "name": "eater-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409699",
-      "size": "1646592",
-      "md5": "4c9cb3371bc7ff4d2a684f1066a928f5",
-      "crc32": "3f720d6c",
-      "sha1": "08a67665c8721aabb558bc94116b027c7f994184",
+      "mtime": "1667454259",
+      "size": "1654784",
+      "md5": "b1f01bb8a2ae453374aa1436a440d7bf",
+      "crc32": "be03aa43",
+      "sha1": "c080eb8f7ce50ea7a0e7a0a63918cb22f4cf6a5d",
       "format": "Metadata"
     },
     {
@@ -13621,9 +13683,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1315,
-  "item_last_updated": 1667409766,
-  "item_size": 112669693,
+  "files_count": 1321,
+  "item_last_updated": 1667454324,
+  "item_size": 113088894,
   "metadata": {
     "identifier": "eater-2022",
     "collection": [
@@ -13645,15 +13707,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459902806,
+      "task_id": 3460386810,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1446991246,
+  "uniq": 1621912862,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

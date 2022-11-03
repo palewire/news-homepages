@@ -1,6 +1,5 @@
 {
-  "conflict": 1667414134,
-  "created": 1667414134,
+  "created": 1667459005,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/freep-2022",
@@ -5431,31 +5430,82 @@
       "sha1": "e6a2fcfa6bc06be778438e9172548237806f1d68"
     },
     {
+      "name": "freep-2022-11-03T01:45:47.635738-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667454355",
+      "size": "24416",
+      "md5": "67fbfa0e9934757fc6f816c33997bfcb",
+      "crc32": "1430aa6a",
+      "sha1": "d3deb1273ff55af75063b44ccc2003aba09a20f0",
+      "format": "JSON"
+    },
+    {
+      "name": "freep-2022-11-03T01:45:47.635738-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667454357",
+      "size": "39467",
+      "md5": "a639b1926bda7c4178ffd6173b75701e",
+      "crc32": "95087682",
+      "sha1": "29200f9854f5ea35adbd362af70cb718b5891b6f",
+      "format": "JSON"
+    },
+    {
+      "name": "freep-2022-11-03T01:45:47.635738-04:00.jpg",
+      "source": "original",
+      "mtime": "1667454352",
+      "size": "228222",
+      "md5": "8ef31f17ca150e21eca82e75937f3557",
+      "crc32": "8819b05e",
+      "sha1": "ad55183e1da89de7c12124a80af9aa291142b8c1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "freep-2022-11-03T01:45:47.635738-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667454359",
+      "size": "1450",
+      "md5": "d20ac4175400eb7135c52b88a64d1ecd",
+      "crc32": "1278bce7",
+      "sha1": "4b5c0aff71458a7a5e012adea40d4e72a15e9db1",
+      "format": "JSON"
+    },
+    {
+      "name": "freep-2022-11-03T01:45:47.635738-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667454360",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "freep-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ab86ea106db441ca6413e0235d6a5f6c0feb8a1e",
-      "mtime": "1667414101",
-      "size": "110263",
-      "md5": "01ab272d517861066d8aed6a33e095e6",
-      "crc32": "d7b57ed0",
-      "sha1": "3ac77ba0287196dd6d5f61ac1ac12a49dad36451",
+      "btih": "eb462530fc41c388ef79c4113c7aeec5073fc9c2",
+      "mtime": "1667454407",
+      "size": "111309",
+      "md5": "26df254fc6c98b38787064aafc290b48",
+      "crc32": "46067bcd",
+      "sha1": "a36b51a00c46aa44d94863379ba343eb9cf7db8c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "freep-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d31183d999eeb3d398510a6030c59039",
+      "md5": "1096bb0c42fd9dbea0a217dd8698296c",
       "summation": "md5"
     },
     {
       "name": "freep-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409769",
-      "size": "679936",
-      "md5": "264a01828e79b2cf70c6d94f52098f55",
-      "crc32": "ebf224dc",
-      "sha1": "c0dbc299553d78121b34ea84700969adccaaa55b",
+      "mtime": "1667454367",
+      "size": "688128",
+      "md5": "ba01a4b411808b91f284906ba2adcce3",
+      "crc32": "95916dc4",
+      "sha1": "3f0a25c5c9bf17dc23cfb506eb215f66d758388f",
       "format": "Metadata"
     },
     {
@@ -5469,9 +5519,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 529,
-  "item_last_updated": 1667414101,
-  "item_size": 36231420,
+  "files_count": 534,
+  "freep-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667454407,
+  "item_size": 36534415,
   "metadata": {
     "identifier": "freep-2022",
     "collection": [
@@ -5493,15 +5548,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459947287,
-      "cmd": "bup.php",
-      "priority": -5,
+      "task_id": 3460387919,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 1229522284,
+  "uniq": 2044719150,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

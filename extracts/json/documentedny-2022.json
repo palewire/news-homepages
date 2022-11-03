@@ -1,5 +1,5 @@
 {
-  "created": 1667409651,
+  "created": 1667454309,
   "d1": "ia904707.us.archive.org",
   "d2": "ia804707.us.archive.org",
   "dir": "/4/items/documentedny-2022",
@@ -13687,31 +13687,93 @@
       "format": "JSON"
     },
     {
+      "name": "documentedny-2022-11-02T13:19:39.775008-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "documentedny-2022-11-02T13:19:39.775008-04:00.jpg",
+      "mtime": "1667413951",
+      "size": "10989",
+      "md5": "6d4c81af22ad3cc564ff04f86a6470ed",
+      "crc32": "51d17ff7",
+      "sha1": "a3ef9134d759b70d1ccc9388302f27c7ee73d672"
+    },
+    {
+      "name": "documentedny-2022-11-03T01:44:04.534456-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667454247",
+      "size": "16651",
+      "md5": "bf116f9ee2c538d3c4db2317216b6c89",
+      "crc32": "5822753a",
+      "sha1": "a7ca5c1b930a2191b5a2f2ea1ca5f147284256a9",
+      "format": "JSON"
+    },
+    {
+      "name": "documentedny-2022-11-03T01:44:04.534456-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667454248",
+      "size": "19971",
+      "md5": "5249809b0114e5894327aac410ddddad",
+      "crc32": "304cbdc7",
+      "sha1": "bab062170714d1b826fd9bef719283b3877ecf0c",
+      "format": "JSON"
+    },
+    {
+      "name": "documentedny-2022-11-03T01:44:04.534456-04:00.jpg",
+      "source": "original",
+      "mtime": "1667454245",
+      "size": "428459",
+      "md5": "ad417b9a80935c57326e760d2764f356",
+      "crc32": "c3fe771c",
+      "sha1": "fa2dde919a0878077366928b03dde49026e2d0ce",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "documentedny-2022-11-03T01:44:04.534456-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667454250",
+      "size": "1474",
+      "md5": "34907fb803f7f303ca195db9c34acc1f",
+      "crc32": "1d46b6b5",
+      "sha1": "f504e0b8ac2dfcc5e9b3c11f483463a9bfbb702d",
+      "format": "JSON"
+    },
+    {
+      "name": "documentedny-2022-11-03T01:44:04.534456-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667454251",
+      "size": "16489",
+      "md5": "2eca4c82a13dc5b660b8437b66e71c7f",
+      "crc32": "30870662",
+      "sha1": "66814bd6d8b52c46c28ec844c5ff7f5cae92bfb2",
+      "format": "JSON"
+    },
+    {
       "name": "documentedny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cf74977257cc06d97c75128e80711d0ac4d8a132",
-      "mtime": "1667409647",
-      "size": "284719",
-      "md5": "e284f555f4ba3def8959d7b68df90bf6",
-      "crc32": "9dac44e1",
-      "sha1": "b396c9a32210bc8a260836a9f5b160e4c2d95d14",
+      "btih": "ff7ee8e00a500540c0dc6d76dcc4a09ea26e2909",
+      "mtime": "1667454304",
+      "size": "286011",
+      "md5": "dee7cdc26d324f77e111fbc3920bead4",
+      "crc32": "b7853667",
+      "sha1": "efc2efc2b074c69785e1e3cae4292356b7b274c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "documentedny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ccd5d17d13d2a765f654fd37889ce2af",
+      "md5": "c9646af139054c5446a5bb7531999db4",
       "summation": "md5"
     },
     {
       "name": "documentedny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409598",
-      "size": "1675264",
-      "md5": "33e7c87f24af4a73872910cf96431e22",
-      "crc32": "aa8cefe3",
-      "sha1": "10a88f652636b941cd4e1fc1878208620788075f",
+      "mtime": "1667454257",
+      "size": "1683456",
+      "md5": "fbbe76b199be784e07671b7582a7b8d8",
+      "crc32": "d041fb70",
+      "sha1": "49357f6c951fd65ced1bbcb0d9dff1119ff18c30",
       "format": "Metadata"
     },
     {
@@ -13725,9 +13787,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1325,
-  "item_last_updated": 1667409647,
-  "item_size": 89967843,
+  "files_count": 1331,
+  "item_last_updated": 1667454304,
+  "item_size": 90471360,
   "metadata": {
     "identifier": "documentedny-2022",
     "collection": [
@@ -13749,15 +13811,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459901316,
+      "task_id": 3460386426,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 787903806,
+  "uniq": 605384515,
   "workable_servers": [
     "ia904707.us.archive.org"
   ]

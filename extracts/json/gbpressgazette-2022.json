@@ -1,6 +1,5 @@
 {
-  "conflict": 1667414232,
-  "created": 1667414232,
+  "created": 1667454455,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/7/items/gbpressgazette-2022",
@@ -20035,31 +20034,82 @@
       "sha1": "8844a1a3f6fc99b1272520772532f1d4300bfb8f"
     },
     {
+      "name": "gbpressgazette-2022-11-03T00:46:09.328251-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667454373",
+      "size": "19942",
+      "md5": "c74887adb45206a233f68a9d468e173d",
+      "crc32": "604024a5",
+      "sha1": "e9d4505a773f0575c45ae2c55e018722768e86cf",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-11-03T00:46:09.328251-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667454378",
+      "size": "39728",
+      "md5": "0bb3b65294ab136f7b4347feb3d64975",
+      "crc32": "312c1a68",
+      "sha1": "4ff1dcbc51ccfda946c04e8708fe858200eef2e5",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-11-03T00:46:09.328251-05:00.jpg",
+      "source": "original",
+      "mtime": "1667454371",
+      "size": "239081",
+      "md5": "a96843dd79ca5bd49110c697661393a6",
+      "crc32": "c96e11f5",
+      "sha1": "83e8f0453cba773d2317b6674cd78d076323da06",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gbpressgazette-2022-11-03T00:46:09.328251-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667454379",
+      "size": "1584",
+      "md5": "851eb71290a00067ca0f7100c61cacea",
+      "crc32": "52f9c9db",
+      "sha1": "8f38513898f3079e8fe196ba25fd6fdbda738df8",
+      "format": "JSON"
+    },
+    {
+      "name": "gbpressgazette-2022-11-03T00:46:09.328251-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667454381",
+      "size": "137130",
+      "md5": "72850fc50008667efc7da03644fbce82",
+      "crc32": "e434760d",
+      "sha1": "6faaa912674318f1f5f2ce54cd8b46e4fa54bec2",
+      "format": "JSON"
+    },
+    {
       "name": "gbpressgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b43aed419b6bbb819a3aa148b6f8374bcac66bc7",
-      "mtime": "1667414217",
-      "size": "418083",
-      "md5": "5c2ee1ccef243bdab43848559219c4e2",
-      "crc32": "672af40c",
-      "sha1": "380758e2ec25701b5534463c05828b3804894cd8",
+      "btih": "6e084dffd7125e08f10e2db0c8c795f0c3f7dd0a",
+      "mtime": "1667454450",
+      "size": "419177",
+      "md5": "4f3dcf449863ff294a9037c27a611be0",
+      "crc32": "790639aa",
+      "sha1": "346a6681cee154b92d4ffa4c28e8ec447e513ed7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gbpressgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fbbe81650ff2a408259c4681f02ca288",
+      "md5": "8e748e1dcef2eb1635dc0441bbd77af1",
       "summation": "md5"
     },
     {
       "name": "gbpressgazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667409720",
-      "size": "2367488",
-      "md5": "202b88ef667c90730d1b9c5041b922c4",
-      "crc32": "51cd6662",
-      "sha1": "b7f86567a29b0ff4899545b31e107940dded1725",
+      "mtime": "1667454384",
+      "size": "2375680",
+      "md5": "34866b6541805998100cc14c70c90af2",
+      "crc32": "dbc99960",
+      "sha1": "11094a330dcaf32bc0c63a8849b034f1a91c47b8",
       "format": "Metadata"
     },
     {
@@ -20073,9 +20123,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1929,
-  "item_last_updated": 1667414217,
-  "item_size": 145056312,
+  "files_count": 1934,
+  "item_last_updated": 1667454450,
+  "item_size": 145503063,
   "metadata": {
     "identifier": "gbpressgazette-2022",
     "collection": [
@@ -20097,15 +20147,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459948842,
-      "cmd": "bup.php",
-      "priority": -5,
+      "task_id": 3460388397,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 1527819632,
+  "uniq": 660126959,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]
