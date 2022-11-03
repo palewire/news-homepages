@@ -1,5 +1,5 @@
 {
-  "created": 1667393524,
+  "created": 1667438953,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/8/items/king5seattle-2022",
@@ -14071,31 +14071,93 @@
       "format": "JSON"
     },
     {
+      "name": "king5seattle-2022-11-02T05:50:47.775120-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "king5seattle-2022-11-02T05:50:47.775120-07:00.jpg",
+      "mtime": "1667395083",
+      "size": "9172",
+      "md5": "c483a8e2cc3c328bc71cacc91faee358",
+      "crc32": "057d67df",
+      "sha1": "4e7554783176a3c9a9f8c1151641878068b4e65a"
+    },
+    {
+      "name": "king5seattle-2022-11-02T18:27:51.813677-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667438884",
+      "size": "6256",
+      "md5": "fe4d38864b6f7b09ca29019a65ba02f8",
+      "crc32": "48780f21",
+      "sha1": "04988b1d2f3e798fabd1d65a7c2de73d3866c010",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-11-02T18:27:51.813677-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667438886",
+      "size": "87892",
+      "md5": "15cdeb83aae64fd3c5f484eefdbc97fd",
+      "crc32": "3e4cef3b",
+      "sha1": "a998faa475c04c314c22ada6683eec2c2c1c805c",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-11-02T18:27:51.813677-07:00.jpg",
+      "source": "original",
+      "mtime": "1667438882",
+      "size": "243321",
+      "md5": "49e0dce82fa802d7967b5a5422f7f9c8",
+      "crc32": "8e88cfe1",
+      "sha1": "064f1935c3182c76aecaf49fa63d2edda63da23f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "king5seattle-2022-11-02T18:27:51.813677-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667438888",
+      "size": "1449",
+      "md5": "f7d73dc4a034a6e7258018adf480dfe7",
+      "crc32": "09e7dff6",
+      "sha1": "e1c898c6493dffebbaec8348b1b538669e44c106",
+      "format": "JSON"
+    },
+    {
+      "name": "king5seattle-2022-11-02T18:27:51.813677-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667438890",
+      "size": "18365",
+      "md5": "397018f82ae31dc72d1d7e7ce421ca96",
+      "crc32": "fed70f9a",
+      "sha1": "f45ec68331a4f34925f710db59a6c4310b4ab9e9",
+      "format": "JSON"
+    },
+    {
       "name": "king5seattle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aee5063be176c2240db98c7e370c56bc201d2f77",
-      "mtime": "1667393520",
-      "size": "292248",
-      "md5": "d715b3652c57213cda4a3feb20638c1f",
-      "crc32": "f0221db0",
-      "sha1": "4953ddbee7aa9ef49dc2554e0c76337d8652e48e",
+      "btih": "02e92b0e00ec964f2fc0d2dfa83db61a272a08dd",
+      "mtime": "1667438948",
+      "size": "293538",
+      "md5": "3645d6e6796e71e7f3311421a4a08f85",
+      "crc32": "4b6f27b5",
+      "sha1": "2a09c47bc3a782ba0a798641612090ba9f128984",
       "format": "Archive BitTorrent"
     },
     {
       "name": "king5seattle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cf0c6f7c10bddcdef214675c80418982",
+      "md5": "7c437e8d0683972df6ab3939b2912c21",
       "summation": "md5"
     },
     {
       "name": "king5seattle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667393469",
-      "size": "1724416",
-      "md5": "c6ec517157c55348f45e2343b9a40c59",
-      "crc32": "b69225c4",
-      "sha1": "833458de6680ad17ed44a1f35ce17277389115d8",
+      "mtime": "1667438896",
+      "size": "1732608",
+      "md5": "4d56f0c6fd70a5eaf4653038cee21853",
+      "crc32": "88844574",
+      "sha1": "1f7d72cb0c96501191c172257beaf137e205ae48",
       "format": "Metadata"
     },
     {
@@ -14109,9 +14171,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1362,
-  "item_last_updated": 1667393520,
-  "item_size": 92268150,
+  "files_count": 1368,
+  "item_last_updated": 1667438948,
+  "item_size": 92644087,
   "metadata": {
     "identifier": "king5seattle-2022",
     "collection": [
@@ -14133,7 +14195,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459723828,
+      "task_id": 3460216663,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14141,7 +14203,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1444321483,
+  "uniq": 433679848,
   "workable_servers": [
     "ia902505.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667393532,
+  "created": 1667438967,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/3/items/laprensaar-2022",
@@ -10617,31 +10617,93 @@
       "format": "JSON"
     },
     {
+      "name": "laprensaar-2022-11-02T09:50:31.266777-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laprensaar-2022-11-02T09:50:31.266777-03:00.jpg",
+      "mtime": "1667395133",
+      "size": "10771",
+      "md5": "7506fd23a0401b261e6d10aeaca82ae2",
+      "crc32": "5dd42ac5",
+      "sha1": "8ebc3af9198dd45196b7dd6a0606b48559d682da"
+    },
+    {
+      "name": "laprensaar-2022-11-02T22:28:17.877724-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667438906",
+      "size": "34885",
+      "md5": "9cf5b00ea33bbef5e1dcf54b827bbd62",
+      "crc32": "8af8f7ba",
+      "sha1": "99b77231a83fca1e5454a0d3fabda91bef47f52b",
+      "format": "JSON"
+    },
+    {
+      "name": "laprensaar-2022-11-02T22:28:17.877724-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667438908",
+      "size": "12388",
+      "md5": "1987f95c41c7bd9ff1f035468b42b415",
+      "crc32": "25190f2b",
+      "sha1": "50a1482e0dd1eb4a95ca0e3f64bffd1e4ae07692",
+      "format": "JSON"
+    },
+    {
+      "name": "laprensaar-2022-11-02T22:28:17.877724-03:00.jpg",
+      "source": "original",
+      "mtime": "1667438905",
+      "size": "312820",
+      "md5": "a4eedeb4d45650622f21ff10baf5c836",
+      "crc32": "477229dc",
+      "sha1": "ba76cff6d969e69b76e807fc7f6d83c7fc006db1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "laprensaar-2022-11-02T22:28:17.877724-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667438910",
+      "size": "1503",
+      "md5": "a0f7d65037c22cb32c46f0ec8b58927d",
+      "crc32": "23753062",
+      "sha1": "c3d000b33476d0b81a7dc07355bf14a07734ff4b",
+      "format": "JSON"
+    },
+    {
+      "name": "laprensaar-2022-11-02T22:28:17.877724-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667438911",
+      "size": "18855",
+      "md5": "e903a186ada3a2ddacd6eadaa1d65f36",
+      "crc32": "e2569c1b",
+      "sha1": "bed620b8edb2ccc2854b0e87b20cf604f9b1c3ee",
+      "format": "JSON"
+    },
+    {
       "name": "laprensaar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ea5f8b63bb8b4d4d45653bcf9e2183a7e36dbf43",
-      "mtime": "1667393511",
-      "size": "219530",
-      "md5": "0c332fe5dfe7e54e656580781e8dd648",
-      "crc32": "4269dfa1",
-      "sha1": "bf2d36ea4cd0b9eb48350981dee8cf871342c228",
+      "btih": "264937b3d638e2b2f5ce348d5e6ced42ecb50ab6",
+      "mtime": "1667438963",
+      "size": "220810",
+      "md5": "b75e0c64e24a470b82a5bf17f67e61d7",
+      "crc32": "c5b88502",
+      "sha1": "28eb3892f78e2a25fd54005a6e11d836b930e701",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laprensaar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "be5555a15a6fe605d1b6a571d820372b",
+      "md5": "229e87044ef81853b22a17880b1c62d3",
       "summation": "md5"
     },
     {
       "name": "laprensaar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667393453",
-      "size": "1323008",
-      "md5": "cfd22e6fe0da764c574c526f58f545e2",
-      "crc32": "ae6ca3ba",
-      "sha1": "023464ce4b48c7bb5d5a638ad806460d00baa31e",
+      "mtime": "1667438916",
+      "size": "1327104",
+      "md5": "9db17a9a35e776515d007665988e8032",
+      "crc32": "e44368c2",
+      "sha1": "3927040e0019170b0cda96fc22aaef32493495e4",
       "format": "Metadata"
     },
     {
@@ -10655,9 +10717,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1031,
-  "item_last_updated": 1667393511,
-  "item_size": 67276875,
+  "files_count": 1037,
+  "item_last_updated": 1667438963,
+  "item_size": 67673473,
   "metadata": {
     "identifier": "laprensaar-2022",
     "collection": [
@@ -10679,7 +10741,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459723943,
+      "task_id": 3460216785,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10687,7 +10749,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 24717433,
+  "uniq": 1612501986,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]
