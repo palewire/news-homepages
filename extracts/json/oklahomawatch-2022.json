@@ -1,5 +1,5 @@
 {
-  "created": 1667442598,
+  "created": 1667488425,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/12/items/oklahomawatch-2022",
@@ -13715,31 +13715,93 @@
       "format": "JSON"
     },
     {
+      "name": "oklahomawatch-2022-11-02T21:28:19.281873-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oklahomawatch-2022-11-02T21:28:19.281873-05:00.jpg",
+      "mtime": "1667445187",
+      "size": "10487",
+      "md5": "d920a7f8931f646ccd596fbcdaa8059f",
+      "crc32": "d7e54bbc",
+      "sha1": "51bc5b003e09788ba347e00b0d729cf07eefbca0"
+    },
+    {
+      "name": "oklahomawatch-2022-11-03T10:12:26.302866-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667488357",
+      "size": "9936",
+      "md5": "ae70a92e8856d665993e349d641de1e9",
+      "crc32": "5b73b746",
+      "sha1": "92a388993b6559593f57a6a407ef53a834683eb2",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-11-03T10:12:26.302866-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667488360",
+      "size": "24152",
+      "md5": "ef3cf1d2522e28bbd939ed2c55c75cf2",
+      "crc32": "07e82fe1",
+      "sha1": "c8044d4c7ed157b1555e86d58e981529ce35ebd8",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-11-03T10:12:26.302866-05:00.jpg",
+      "source": "original",
+      "mtime": "1667488355",
+      "size": "272272",
+      "md5": "312b8c0ef26aa52aa9ca67bd1cfc040d",
+      "crc32": "9a516126",
+      "sha1": "3d35e54c96f634d99daf062eb4b5e01be4fcdfd9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oklahomawatch-2022-11-03T10:12:26.302866-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667488363",
+      "size": "1477",
+      "md5": "d77a269956e417e83db389e9efe8b90e",
+      "crc32": "6efe4468",
+      "sha1": "e66e078de92909f7821ea1c39ceecb34d4025d3e",
+      "format": "JSON"
+    },
+    {
+      "name": "oklahomawatch-2022-11-03T10:12:26.302866-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667488365",
+      "size": "251",
+      "md5": "fe4f15094772722fcb40f6b0b68d77a9",
+      "crc32": "c0554ec4",
+      "sha1": "49f05168c09dea4aacbcda791d2365e872439172",
+      "format": "JSON"
+    },
+    {
       "name": "oklahomawatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ee0fe16ade62268affe46fae07bdabfcdc493447",
-      "mtime": "1667442576",
-      "size": "286379",
-      "md5": "f352593208af355f4f31e89ffc60fa8d",
-      "crc32": "10d5db42",
-      "sha1": "0653d2cf9af2c2f5dbec28eca9674c3481a74609",
+      "btih": "3648539d527b22abe8c8319f17782886cfb80358",
+      "mtime": "1667488419",
+      "size": "287674",
+      "md5": "1ddc1aec406c8421b832811ac885b81a",
+      "crc32": "30745c66",
+      "sha1": "e87e54a1e25401e722105fef17d40b72dbb1e12c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oklahomawatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "efe0faeefd2fe73f538d4aac2579823a",
+      "md5": "9f2bbdb248ccbd61b413901fc613fc8a",
       "summation": "md5"
     },
     {
       "name": "oklahomawatch-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667442520",
-      "size": "1683456",
-      "md5": "0a08867c00226fb4ee651809ff7a3007",
-      "crc32": "07844601",
-      "sha1": "bec75afc586a9539d5d3a38f4ec3a4681ba7fdfd",
+      "mtime": "1667488369",
+      "size": "1695744",
+      "md5": "ce4932a353a23821d5983786cdc0cde7",
+      "crc32": "d0eb8db3",
+      "sha1": "79787dbfc11db8be0af9dca62a87ded52b660f59",
       "format": "Metadata"
     },
     {
@@ -13753,9 +13815,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1328,
-  "item_last_updated": 1667442576,
-  "item_size": 81858284,
+  "files_count": 1334,
+  "item_last_updated": 1667488419,
+  "item_size": 82190442,
   "metadata": {
     "identifier": "oklahomawatch-2022",
     "collection": [
@@ -13777,7 +13839,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460254774,
+      "task_id": 3460760152,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13785,7 +13847,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1308687107,
+  "uniq": 800236156,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

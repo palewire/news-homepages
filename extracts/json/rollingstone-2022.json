@@ -1,5 +1,5 @@
 {
-  "created": 1667442746,
+  "created": 1667488657,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/32/items/rollingstone-2022",
@@ -15263,31 +15263,93 @@
       "format": "JSON"
     },
     {
+      "name": "rollingstone-2022-11-02T22:31:10.678565-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "rollingstone-2022-11-02T22:31:10.678565-04:00.jpg",
+      "mtime": "1667445438",
+      "size": "7078",
+      "md5": "367813be49f2286eae10a2126eb5aed6",
+      "crc32": "b83aef42",
+      "sha1": "5f12500b85279c8c8d3742dcc54133c36de076f4"
+    },
+    {
+      "name": "rollingstone-2022-11-03T11:16:18.009376-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667488590",
+      "size": "30627",
+      "md5": "72821e51530e11d36589945d13937840",
+      "crc32": "1dc62ca6",
+      "sha1": "70d6308b46a02337b71fd9bb4ce72bed53254b34",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-11-03T11:16:18.009376-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667488592",
+      "size": "41510",
+      "md5": "0ad97ec6468e9d6e53aa88ec171ee2e8",
+      "crc32": "b4e41325",
+      "sha1": "1ee4df559cdd5ffe5b4564a8a18797b579c8c8ac",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-11-03T11:16:18.009376-04:00.jpg",
+      "source": "original",
+      "mtime": "1667488588",
+      "size": "332853",
+      "md5": "619e47e34d73366aba93bf08cbb997ea",
+      "crc32": "b3d66979",
+      "sha1": "6ff6ec1889df0102215b2019bfe8c9ffa4e05180",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollingstone-2022-11-03T11:16:18.009376-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667488594",
+      "size": "1513",
+      "md5": "bced6dbe20957f424815be69b62a89c2",
+      "crc32": "99023907",
+      "sha1": "6aa87d47dd344a3fa8601330e1827db70cddd9d0",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-11-03T11:16:18.009376-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667488597",
+      "size": "127869",
+      "md5": "432abecf6e86b88a08c6a187e5e60632",
+      "crc32": "a5b257e3",
+      "sha1": "f63d1903d7d272e66c3e8ae98fc45c34a86c8e14",
+      "format": "JSON"
+    },
+    {
       "name": "rollingstone-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6665489a9af3da00be6b8972d8f3460cd74a4085",
-      "mtime": "1667442741",
-      "size": "317731",
-      "md5": "240f309fbce79c9cf02d2292a70f69e0",
-      "crc32": "f6648c90",
-      "sha1": "2da9b3e73e0a7543cdf4c391e6bf701335ffb4a0",
+      "btih": "19e230b824c335c725360ea9735d10a713fc1f6e",
+      "mtime": "1667488653",
+      "size": "319023",
+      "md5": "6e9fe739c4ce061aee63355af109489e",
+      "crc32": "4360e5f4",
+      "sha1": "2c0fbeed5e3f8968758877fe22ac23d286f710ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollingstone-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fcf39515af160ec56cc50917cc808f62",
+      "md5": "45637d292f35cb4037a989ea8190c43d",
       "summation": "md5"
     },
     {
       "name": "rollingstone-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667442688",
-      "size": "1835008",
-      "md5": "6a904336b8ec4f5c848806f4d0acb83d",
-      "crc32": "6c60ec51",
-      "sha1": "0282a2341c40e1aa937b2e5a01f3788eb82a7390",
+      "mtime": "1667488602",
+      "size": "1843200",
+      "md5": "e14f83c8e145c41bdc25c65e253786d3",
+      "crc32": "dc229902",
+      "sha1": "ecda579b208d74fda6ead4ce7ce301524596b895",
       "format": "Metadata"
     },
     {
@@ -15301,9 +15363,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1474,
-  "item_last_updated": 1667442741,
-  "item_size": 131732546,
+  "files_count": 1480,
+  "item_last_updated": 1667488653,
+  "item_size": 132283480,
   "metadata": {
     "identifier": "rollingstone-2022",
     "collection": [
@@ -15325,7 +15387,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460256481,
+      "task_id": 3460762463,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15333,7 +15395,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 368733370,
+  "uniq": 1857754500,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

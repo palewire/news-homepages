@@ -1,5 +1,5 @@
 {
-  "created": 1667442574,
+  "created": 1667488494,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/poconorecord-2022",
@@ -5399,31 +5399,93 @@
       "format": "JSON"
     },
     {
+      "name": "poconorecord-2022-11-02T22:28:34.763882-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "poconorecord-2022-11-02T22:28:34.763882-04:00.jpg",
+      "mtime": "1667445265",
+      "size": "9519",
+      "md5": "8fa49fb357f39cc94ae89ebcbe56c27d",
+      "crc32": "9484f808",
+      "sha1": "a102822167d44aa7d240cda107d31a5ddaf2300d"
+    },
+    {
+      "name": "poconorecord-2022-11-03T11:13:51.150076-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667488439",
+      "size": "20537",
+      "md5": "fe2340a3bceea3f8e24375d54515760a",
+      "crc32": "ebd8b7e9",
+      "sha1": "21f9086de685066d30cdc4648a57da9fe11cc88a",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-11-03T11:13:51.150076-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667488441",
+      "size": "41183",
+      "md5": "e7bb89e7bf171c05f2f473e8f3c650e7",
+      "crc32": "6e510d0e",
+      "sha1": "70fcb2eb9e42c223ec9bf2dc14ad99ede232dfbf",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-11-03T11:13:51.150076-04:00.jpg",
+      "source": "original",
+      "mtime": "1667488437",
+      "size": "264236",
+      "md5": "6b50669932693d57a2ae9be3ab1f1bda",
+      "crc32": "3825cfc7",
+      "sha1": "831587c7381481af3ebd8f4ba4b7dbfaf355fe7d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "poconorecord-2022-11-03T11:13:51.150076-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667488443",
+      "size": "1513",
+      "md5": "ef4c235b4cb555af1672649bcde7530c",
+      "crc32": "96f2867a",
+      "sha1": "216f3c03432430686f3427cc883c44a10bde8f24",
+      "format": "JSON"
+    },
+    {
+      "name": "poconorecord-2022-11-03T11:13:51.150076-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667488445",
+      "size": "71778",
+      "md5": "221fcf10ccddfbe354c7e47d400aaeba",
+      "crc32": "7165b085",
+      "sha1": "1083b0d673384d0d8b1ea83c9bcfd23859caeaac",
+      "format": "JSON"
+    },
+    {
       "name": "poconorecord-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0b5b7adca620284a28975ce0274dff6b5c91660d",
-      "mtime": "1667442570",
-      "size": "113264",
-      "md5": "7b0b8145d792a38675fed4ebe873f8fe",
-      "crc32": "ed14b2ee",
-      "sha1": "d98b392af04dae10cf5d3d05098b495df2836b30",
+      "btih": "6d668fb5ec06e0a392b16bcc81072ccaec5dc5c2",
+      "mtime": "1667488490",
+      "size": "114555",
+      "md5": "015191d869b81b1cddf5dc26da8121a0",
+      "crc32": "7ab11273",
+      "sha1": "9eb00c2461740c2687a9a285f425dd486805b712",
       "format": "Archive BitTorrent"
     },
     {
       "name": "poconorecord-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9d0e622c3a7622a2282acb7a46475545",
+      "md5": "9b01344452564be5f88e9671601fbaf8",
       "summation": "md5"
     },
     {
       "name": "poconorecord-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667442529",
-      "size": "684032",
-      "md5": "da5030ae66fa0ee6d1b1ebb5ec93da24",
-      "crc32": "b7a4e2bb",
-      "sha1": "d8399d54fd1db2bee9774029e62aa5302fc0e755",
+      "mtime": "1667488451",
+      "size": "692224",
+      "md5": "188e3a30560f67b149fc5f8bddec32d7",
+      "crc32": "4e856932",
+      "sha1": "075467ee3494819496a9491dc12e704290964bc6",
       "format": "Metadata"
     },
     {
@@ -5437,9 +5499,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 526,
-  "item_last_updated": 1667442570,
-  "item_size": 34382053,
+  "files_count": 532,
+  "item_last_updated": 1667488490,
+  "item_size": 34800302,
   "metadata": {
     "identifier": "poconorecord-2022",
     "collection": [
@@ -5461,7 +5523,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460254543,
+      "task_id": 3460760903,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5469,7 +5531,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1318415904,
+  "uniq": 335334003,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

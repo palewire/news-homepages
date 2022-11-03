@@ -1,5 +1,5 @@
 {
-  "created": 1667442829,
+  "created": 1667489411,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/22/items/oldiemagazine-2022",
@@ -14297,31 +14297,155 @@
       "format": "JSON"
     },
     {
+      "name": "oldiemagazine-2022-11-03T02:28:45.025110+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oldiemagazine-2022-11-03T02:28:45.025110+00:00.jpg",
+      "mtime": "1667445490",
+      "size": "8332",
+      "md5": "204fe87940ab51cd0ca4e8a65e5a06d5",
+      "crc32": "12dce074",
+      "sha1": "52a989a460b3fcd99640cbd73244ffccf9d04322"
+    },
+    {
+      "name": "oldiemagazine-2022-11-03T09:17:49.965057+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667467080",
+      "size": "13021",
+      "md5": "7a88fe3de747f03b890bc496a8be8da7",
+      "crc32": "77e9d14f",
+      "sha1": "7894c24af83cb057337192f38b340892c108c3c0",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-11-03T09:17:49.965057+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667467082",
+      "size": "12451",
+      "md5": "3d0cc29f0bba192067ef0e71db05be82",
+      "crc32": "224b2a03",
+      "sha1": "89599a69015382218ac6d5f5e115552849883578",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-11-03T09:17:49.965057+00:00.jpg",
+      "source": "original",
+      "mtime": "1667467078",
+      "size": "97245",
+      "md5": "f3f39a4cb22e0bec8f5b04d4236fac91",
+      "crc32": "8c9d0cfa",
+      "sha1": "9f79f9f8bf729c30ed05c3b4ea1dca8bb510e239",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oldiemagazine-2022-11-03T09:17:49.965057+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667467084",
+      "size": "1491",
+      "md5": "9243b7364c48059552a28af52fc1b31e",
+      "crc32": "73fae6b9",
+      "sha1": "575d9ddfdd793094af0ef57a529a6f1bf226ab87",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-11-03T09:17:49.965057+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667467085",
+      "size": "7672",
+      "md5": "b7a339071cc10ae0b2542db3130dc4b2",
+      "crc32": "3d046a68",
+      "sha1": "94c312124498ee05051c4840710d70a8669941d2",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-11-03T09:17:49.965057+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oldiemagazine-2022-11-03T09:17:49.965057+00:00.jpg",
+      "mtime": "1667472036",
+      "size": "8332",
+      "md5": "204fe87940ab51cd0ca4e8a65e5a06d5",
+      "crc32": "12dce074",
+      "sha1": "52a989a460b3fcd99640cbd73244ffccf9d04322"
+    },
+    {
+      "name": "oldiemagazine-2022-11-03T15:12:30.028553+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667488376",
+      "size": "12906",
+      "md5": "117ae84dad2712265330fa2d0cc52551",
+      "crc32": "be1787d8",
+      "sha1": "1b8f56f7d82a0aa49ab40b1f7f7359d1feab7782",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-11-03T15:12:30.028553+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667488378",
+      "size": "12224",
+      "md5": "60cf822ecc6ebd37b7ae89843fcaaf4b",
+      "crc32": "a36233fe",
+      "sha1": "086db7698d397f6a46ba60d025b2147fe39386b2",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-11-03T15:12:30.028553+00:00.jpg",
+      "source": "original",
+      "mtime": "1667488374",
+      "size": "97509",
+      "md5": "781db29f56c18c09d9da203b53cdf9a0",
+      "crc32": "17bb8979",
+      "sha1": "e8af9ce7f8bb304a1d0a01bd91c7e48b565e0024",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oldiemagazine-2022-11-03T15:12:30.028553+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667488380",
+      "size": "1492",
+      "md5": "6888d7aaacb6597fc88de7ba461c217b",
+      "crc32": "b54918c4",
+      "sha1": "d44d49138430ce25cb88ce825da177e61818159c",
+      "format": "JSON"
+    },
+    {
+      "name": "oldiemagazine-2022-11-03T15:12:30.028553+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667488383",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "oldiemagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8976637da5f8b94fd20137ab9096075389c58294",
-      "mtime": "1667442826",
-      "size": "296586",
-      "md5": "f1aef19eca07da3cd3b17e99b9a4fdeb",
-      "crc32": "6fc7a4da",
-      "sha1": "116ed78ebffd9e0679aabdbceb48df15e934f037",
+      "btih": "e5e8b2219105571649985a2989bd403aab3d4066",
+      "mtime": "1667488438",
+      "size": "299155",
+      "md5": "850d6e2e58f1eaf5cf278de48a04b6a1",
+      "crc32": "d94a25ce",
+      "sha1": "c781eb83f58daafab77f934412165c6125a89b2b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oldiemagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ce1c4e3054e93b62a4a806564d47d87d",
+      "md5": "3cddae4b7d0a4ffbd48cd4c86e68fb89",
       "summation": "md5"
     },
     {
       "name": "oldiemagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667442777",
-      "size": "1781760",
-      "md5": "8f5bcc8d613cb81c3f657c36dca90e1f",
-      "crc32": "e1999911",
-      "sha1": "ef3958fe5d69196070f9bad76aff89bf984bce77",
+      "mtime": "1667488387",
+      "size": "1798144",
+      "md5": "f0b403f88799652e5af9745e00dfaec9",
+      "crc32": "93f28607",
+      "sha1": "f4c5482e4a088f23fde0b6ee0c81c53231c803e7",
       "format": "Metadata"
     },
     {
@@ -14335,9 +14459,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1387,
-  "item_last_updated": 1667442826,
-  "item_size": 33730216,
+  "files_count": 1399,
+  "item_last_updated": 1667488438,
+  "item_size": 34022046,
   "metadata": {
     "identifier": "oldiemagazine-2022",
     "collection": [
@@ -14354,12 +14478,17 @@
     "publicdate": "2022-08-18 23:58:11",
     "addeddate": "2022-08-18 23:58:11"
   },
+  "oldiemagazine-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "pending_tasks": true,
   "server": "ia601406.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460257543,
+      "task_id": 3460760348,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14367,7 +14496,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 339389359,
+  "uniq": 1399072961,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

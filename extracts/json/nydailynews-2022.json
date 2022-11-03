@@ -1,5 +1,5 @@
 {
-  "created": 1667442444,
+  "created": 1667488537,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/nydailynews-2022",
@@ -14057,31 +14057,93 @@
       "format": "JSON"
     },
     {
+      "name": "nydailynews-2022-11-02T22:25:49.604374-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nydailynews-2022-11-02T22:25:49.604374-04:00.jpg",
+      "mtime": "1667444899",
+      "size": "9516",
+      "md5": "cb5210749a8d7b0bb13c223090de8aec",
+      "crc32": "cbc56a18",
+      "sha1": "35ce5bbc131229f5f9ff0a1325af1bc5e4bcf788"
+    },
+    {
+      "name": "nydailynews-2022-11-03T11:12:48.703248-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667488394",
+      "size": "33748",
+      "md5": "eaf55dd34f38ca8a186d009bd9fed9ba",
+      "crc32": "074db981",
+      "sha1": "a8e5f39faed757ff8a5c52bb7ccbc96f4195716b",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-11-03T11:12:48.703248-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667488396",
+      "size": "42537",
+      "md5": "caa570182ca59166fdc323b4a8ebb3e0",
+      "crc32": "681b5cbb",
+      "sha1": "0d4f1a3b7e15939257f1240e1d713e7000b58629",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-11-03T11:12:48.703248-04:00.jpg",
+      "source": "original",
+      "mtime": "1667488391",
+      "size": "289503",
+      "md5": "b5a74da0ff0991cf55250755009c9f7b",
+      "crc32": "70777feb",
+      "sha1": "1f3fd8836d726679d05a128a98c71c2ce1afd7a6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nydailynews-2022-11-03T11:12:48.703248-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667488398",
+      "size": "1501",
+      "md5": "0aa430e33b5f1f6f158304f3cbae653c",
+      "crc32": "4df1c2cd",
+      "sha1": "f40b06b2b3ab3529d034ab674db8d45594691719",
+      "format": "JSON"
+    },
+    {
+      "name": "nydailynews-2022-11-03T11:12:48.703248-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667488400",
+      "size": "104",
+      "md5": "c611268b37eec5d25eafc89b939e2ec8",
+      "crc32": "f0c727a7",
+      "sha1": "8e2401fdf1c1e3ed402e2cbef9ca1509f2b46363",
+      "format": "JSON"
+    },
+    {
       "name": "nydailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8bfaa7f87efe2bc1b7c10c66a2e1edacf135a652",
-      "mtime": "1667442436",
-      "size": "291386",
-      "md5": "a14ae1ffc7047e0a7271cb2b8f0bc9f2",
-      "crc32": "e8860b80",
-      "sha1": "afbd6b7b7b87258e4e82d619f48232ca3c93b1dc",
+      "btih": "7bd75144e3985056e96755ea55746630c89e9056",
+      "mtime": "1667488519",
+      "size": "292669",
+      "md5": "d71992ea2fb99f039ec16c64ed2bf60f",
+      "crc32": "96d708a7",
+      "sha1": "803c1407de2133424613f795faff825812feb0f0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nydailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f6c98b4fe1101c653e3b1c4ef066d121",
+      "md5": "d11687b4436138395a400e6394104d97",
       "summation": "md5"
     },
     {
       "name": "nydailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667442375",
-      "size": "1712128",
-      "md5": "db041cd40d1fb9b067731f762c6d4322",
-      "crc32": "81a33d13",
-      "sha1": "960d3a8f8f639e1f26b099b14fcfa1cd3a1f49af",
+      "mtime": "1667488423",
+      "size": "1720320",
+      "md5": "0b539c8f9ee5bb386593ea0c51b40a7b",
+      "crc32": "05634db1",
+      "sha1": "0edbd61e17132507ff7c2998b9db21a05b768d18",
       "format": "Metadata"
     },
     {
@@ -14095,9 +14157,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1360,
-  "item_last_updated": 1667442436,
-  "item_size": 109853832,
+  "files_count": 1366,
+  "item_last_updated": 1667488519,
+  "item_size": 110240216,
   "metadata": {
     "identifier": "nydailynews-2022",
     "collection": [
@@ -14119,7 +14181,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460253280,
+      "task_id": 3460761342,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14127,7 +14189,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1214070565,
+  "uniq": 831136855,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

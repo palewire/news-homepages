@@ -1,5 +1,5 @@
 {
-  "created": 1667442622,
+  "created": 1667488647,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/6/items/realclearnews-2022",
@@ -9325,31 +9325,83 @@
       "format": "JSON"
     },
     {
+      "name": "realclearnews-2022-11-02T22:28:44.356458-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "realclearnews-2022-11-02T22:28:44.356458-04:00.jpg",
+      "mtime": "1667445231",
+      "size": "10191",
+      "md5": "ddf8e8d3120c536cf94d26afcdafb169",
+      "crc32": "6f97cb86",
+      "sha1": "30ba73bb14559daff9eba4a8b9b71e7c32932222"
+    },
+    {
+      "name": "realclearnews-2022-11-03T11:15:59.675149-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667488569",
+      "size": "161",
+      "md5": "b3fc1ae5b5a7028736d79c1ef50ce6eb",
+      "crc32": "837fa67e",
+      "sha1": "fc80bdf0e3eb433f99a11f1e02a7c22401d714b9",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-11-03T11:15:59.675149-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667488571",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "realclearnews-2022-11-03T11:15:59.675149-04:00.jpg",
+      "source": "original",
+      "mtime": "1667488566",
+      "size": "435292",
+      "md5": "f31e1fb392ee0b8cc58edf60cf9ffe62",
+      "crc32": "efe31e39",
+      "sha1": "bad3f076730c17b55be88b3be9d46f93b06b7e32",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "realclearnews-2022-11-03T11:15:59.675149-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667488574",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "realclearnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "409fb53af3ec4a298e21ec46c847f362018f524f",
-      "mtime": "1667442606",
-      "size": "194617",
-      "md5": "ef2a570ce5b2763b34d46eb5d056aaae",
-      "crc32": "6a1e8b5f",
-      "sha1": "a6017f9de08f7d6a7006cbfd68965b4cb97035b2",
+      "btih": "8df235193cb6264e3da60665c1f54ea0bc05a96d",
+      "mtime": "1667488639",
+      "size": "195692",
+      "md5": "83bb25fcb7888001e8938d4faea5e29c",
+      "crc32": "cc0dca5e",
+      "sha1": "219bac887f07e65493438fb209e6a26912639c99",
       "format": "Archive BitTorrent"
     },
     {
       "name": "realclearnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "920bb5bfde779cedcbb12c3eea12c44f",
+      "md5": "ab6dd86857b9bf0ed8eb98a831505585",
       "summation": "md5"
     },
     {
       "name": "realclearnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667442548",
-      "size": "1114112",
-      "md5": "5d2fe282001a740fcfb1792396182938",
-      "crc32": "a15ead49",
-      "sha1": "3acd340bdf3929a99db3611aabc70884837a39f0",
+      "mtime": "1667488591",
+      "size": "1118208",
+      "md5": "3375f6a7a8eb8614a5b22730e83c4d38",
+      "crc32": "ee2c1e53",
+      "sha1": "2f6c52b7c521ac0ac5fc17091b238d893c78f462",
       "format": "Metadata"
     },
     {
@@ -9363,9 +9415,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 900,
-  "item_last_updated": 1667442606,
-  "item_size": 100176865,
+  "files_count": 905,
+  "item_last_updated": 1667488639,
+  "item_size": 100627884,
   "metadata": {
     "identifier": "realclearnews-2022",
     "collection": [
@@ -9387,7 +9439,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460255086,
+      "task_id": 3460762390,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9395,7 +9447,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1663955417,
+  "uniq": 1094884522,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]
