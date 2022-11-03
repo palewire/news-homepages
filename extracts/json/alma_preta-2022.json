@@ -1,5 +1,5 @@
 {
-  "created": 1667429690,
+  "created": 1667472370,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/16/items/alma_preta-2022",
@@ -15899,31 +15899,93 @@
       "format": "JSON"
     },
     {
+      "name": "alma_preta-2022-11-02T19:53:24.659358-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alma_preta-2022-11-02T19:53:24.659358-03:00.jpg",
+      "mtime": "1667430461",
+      "size": "10558",
+      "md5": "b5dadb40b1f472dab73fd206eab100db",
+      "crc32": "26b90c57",
+      "sha1": "5e6b2652102c7a8f808f87a282df91c0ac68aaac"
+    },
+    {
+      "name": "alma_preta-2022-11-03T07:44:57.425818-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667472300",
+      "size": "30745",
+      "md5": "83df043493771e37c686ccf174365790",
+      "crc32": "fde49052",
+      "sha1": "d99489fa4ba86722505fe153b1f08e9c4e8d847b",
+      "format": "JSON"
+    },
+    {
+      "name": "alma_preta-2022-11-03T07:44:57.425818-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667472303",
+      "size": "37397",
+      "md5": "9750f48dc18cd2cd50dbb55e2c5e3412",
+      "crc32": "0044bb08",
+      "sha1": "77af598b7ce48e4f18c1f9ad9bf6a39f7066c03b",
+      "format": "JSON"
+    },
+    {
+      "name": "alma_preta-2022-11-03T07:44:57.425818-03:00.jpg",
+      "source": "original",
+      "mtime": "1667472299",
+      "size": "261881",
+      "md5": "8f1b8e92035d38bc02c55f1a6a8da8fd",
+      "crc32": "66161788",
+      "sha1": "ec1136b6815c1863df5dff3c873d099b0da6739a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alma_preta-2022-11-03T07:44:57.425818-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667472305",
+      "size": "1447",
+      "md5": "83a4a5e77acf21753d825f2ade934e99",
+      "crc32": "3abfdfea",
+      "sha1": "701a3e4c5c460c0ca89a863a02ca03882397276c",
+      "format": "JSON"
+    },
+    {
+      "name": "alma_preta-2022-11-03T07:44:57.425818-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667472306",
+      "size": "202",
+      "md5": "a7ecb61b48c03ee92705ae7a48f1df90",
+      "crc32": "4355e1d5",
+      "sha1": "a68276c3c404293aed6b6bb474a65228c33c7683",
+      "format": "JSON"
+    },
+    {
       "name": "alma_preta-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3345dedaceb310a5ed56b93d8bcd3203b7eda911",
-      "mtime": "1667429686",
-      "size": "327699",
-      "md5": "67ddb961b3ebb04442929c150268db62",
-      "crc32": "f860cc1c",
-      "sha1": "899c25a0d0edf4d0145b7401cb63917a0857cd38",
+      "btih": "1a74d73197fdb29a305bec3a1ac9ed318439779e",
+      "mtime": "1667472365",
+      "size": "328977",
+      "md5": "86bce785ac699351fd98703cf4f7e451",
+      "crc32": "bfd27d28",
+      "sha1": "308725682df160e5bff1518bde836b17ef1b6152",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alma_preta-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed24977117dfad43b7d0d5053dfce1bb",
+      "md5": "b5e1cc76c9823ac3051d50a5530864d4",
       "summation": "md5"
     },
     {
       "name": "alma_preta-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667429630",
-      "size": "1970176",
-      "md5": "ba470ab8c4f06bf5959133eb9cce9e83",
-      "crc32": "67a3e23d",
-      "sha1": "013123b06e7eb155f534918a6781339760b8ffd8",
+      "mtime": "1667472312",
+      "size": "1978368",
+      "md5": "cca0c4c10d2c2b71e57a0cf8c4aadf98",
+      "crc32": "619a512c",
+      "sha1": "3efb107fd5f53e9f3776da8befbc6c541c825eba",
       "format": "Metadata"
     },
     {
@@ -15937,9 +15999,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1542,
-  "item_last_updated": 1667429686,
-  "item_size": 93555623,
+  "files_count": 1548,
+  "item_last_updated": 1667472365,
+  "item_size": 93907323,
   "metadata": {
     "identifier": "alma_preta-2022",
     "collection": [
@@ -15961,7 +16023,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460115256,
+      "task_id": 3460587012,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -15969,7 +16031,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 479031485,
+  "uniq": 1003817297,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]

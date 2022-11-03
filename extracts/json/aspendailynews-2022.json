@@ -1,5 +1,5 @@
 {
-  "created": 1667429803,
+  "created": 1667472534,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/14/items/aspendailynews-2022",
@@ -9101,31 +9101,93 @@
       "format": "JSON"
     },
     {
+      "name": "aspendailynews-2022-11-02T16:55:21.049551-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-11-02T16:55:21.049551-06:00.jpg",
+      "mtime": "1667431104",
+      "size": "8099",
+      "md5": "d548278a572944c711265b262799c13f",
+      "crc32": "ad2da95a",
+      "sha1": "a61438fb37796ac3add4bf3dbce1188ddd7f5554"
+    },
+    {
+      "name": "aspendailynews-2022-11-03T04:47:08.388189-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667472438",
+      "size": "49674",
+      "md5": "7d0fd20fabdec862bf0e35caf794c543",
+      "crc32": "ce92b5b5",
+      "sha1": "0f3e5a830db741825b2311e23249df17e0c6d361",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-11-03T04:47:08.388189-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667472439",
+      "size": "56156",
+      "md5": "eee43ab5512dcabf2d64271f6f1687a9",
+      "crc32": "761f8125",
+      "sha1": "0c29b241387191bd78ab667172b94cbd4c5fdd52",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-11-03T04:47:08.388189-06:00.jpg",
+      "source": "original",
+      "mtime": "1667472435",
+      "size": "251203",
+      "md5": "130d4e928ac8c3e72bc5fcdd41b1d9d5",
+      "crc32": "7fc62355",
+      "sha1": "95dee822fa8b7afbb1114feeebf3e8739553280f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aspendailynews-2022-11-03T04:47:08.388189-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667472442",
+      "size": "1531",
+      "md5": "e9250ba9ebd35265f3ff98db538bc38c",
+      "crc32": "e7a49bb9",
+      "sha1": "ee663dc23415d2ecd814ffe3261c1ac0e5b526b8",
+      "format": "JSON"
+    },
+    {
+      "name": "aspendailynews-2022-11-03T04:47:08.388189-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667472443",
+      "size": "54215",
+      "md5": "d695171d66188e089a9f22c3b9525244",
+      "crc32": "a7c83869",
+      "sha1": "d251857daebaff1479d03a209e3f5304d0bfced4",
+      "format": "JSON"
+    },
+    {
       "name": "aspendailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c26bf2dff2066d69119ce942f5f8c35b095fe6e6",
-      "mtime": "1667429798",
-      "size": "191796",
-      "md5": "aaa871a08f9d923d64de6742da73ab32",
-      "crc32": "46ecfc14",
-      "sha1": "a9aa1e82da204f27415f474df832657a6fdb494d",
+      "btih": "f146a0d8f3eb861b5735e6454df5e5e261f91170",
+      "mtime": "1667472530",
+      "size": "193079",
+      "md5": "d22b4a86a4e7e708f86fa2545ab1a8f5",
+      "crc32": "38b319ba",
+      "sha1": "5478279bea7a097ada684e226045e6c4142069b8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspendailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b273d8f035c57199979cf0dd6163153e",
+      "md5": "288197fc0f0dbed0fea7e5f56a3ba911",
       "summation": "md5"
     },
     {
       "name": "aspendailynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667429743",
-      "size": "1138688",
-      "md5": "02905d1da966b364e02ba31d0da8e73e",
-      "crc32": "65a86e78",
-      "sha1": "5e7eac4a8d7ad9392983d132e947ba1bf994d122",
+      "mtime": "1667472477",
+      "size": "1150976",
+      "md5": "4808456ed594e76ea09c813971cd4fc4",
+      "crc32": "fc571835",
+      "sha1": "29e40d4074efe0c55f4cfafb223e468125119230",
       "format": "Metadata"
     },
     {
@@ -9139,9 +9201,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 884,
-  "item_last_updated": 1667429798,
-  "item_size": 59513188,
+  "files_count": 890,
+  "item_last_updated": 1667472530,
+  "item_size": 59947637,
   "metadata": {
     "identifier": "aspendailynews-2022",
     "collection": [
@@ -9163,7 +9225,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460116416,
+      "task_id": 3460588845,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9171,7 +9233,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 428561379,
+  "uniq": 469321582,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667429969,
+  "created": 1667472620,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/cantonrepdotcom-2022",
@@ -5389,31 +5389,93 @@
       "format": "JSON"
     },
     {
+      "name": "cantonrepdotcom-2022-11-02T18:58:30.021334-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonrepdotcom-2022-11-02T18:58:30.021334-04:00.jpg",
+      "mtime": "1667431112",
+      "size": "9379",
+      "md5": "aeaebc5c6393958e359516371ff2748f",
+      "crc32": "28319ff4",
+      "sha1": "06042f1670b9a482e6c2a188dbd449e94ca1ba26"
+    },
+    {
+      "name": "cantonrepdotcom-2022-11-03T06:49:23.628159-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667472567",
+      "size": "21538",
+      "md5": "8b99434dd349f30e284ba0275f1b3d09",
+      "crc32": "90c9181b",
+      "sha1": "83ee2d05f6fef3d897b6418c6b17552bbbe5b8dd",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-11-03T06:49:23.628159-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667472568",
+      "size": "35053",
+      "md5": "ccc6d776256e4cbc28b11e106dd96026",
+      "crc32": "46bff6ed",
+      "sha1": "298892ce41191628c1494d61cb82748a84506df6",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-11-03T06:49:23.628159-04:00.jpg",
+      "source": "original",
+      "mtime": "1667472565",
+      "size": "277212",
+      "md5": "7156594765e4959b851ce950cb68927e",
+      "crc32": "9052b032",
+      "sha1": "537213352076c8ff3ee9c4e31c9e80c759ec896e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cantonrepdotcom-2022-11-03T06:49:23.628159-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667472570",
+      "size": "1486",
+      "md5": "2d396ee576f8fc96cf64bf58d7e33b78",
+      "crc32": "e517f9dc",
+      "sha1": "c22e1f781eec730af4cf5b2dc80607a069ff8f10",
+      "format": "JSON"
+    },
+    {
+      "name": "cantonrepdotcom-2022-11-03T06:49:23.628159-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667472572",
+      "size": "72500",
+      "md5": "dcbeb4e725f9e97478af22f0c6bbf040",
+      "crc32": "2e076aed",
+      "sha1": "03ae628d4625148bdf2d18f4a42af45827e2d638",
+      "format": "JSON"
+    },
+    {
       "name": "cantonrepdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9cce0b83f1fa10b139d63b885c46d3e693ca6cdc",
-      "mtime": "1667429965",
-      "size": "114641",
-      "md5": "25e137fe07d6ed6f5eb66b231372a9ad",
-      "crc32": "c2ad755a",
-      "sha1": "579bfb2d7c36cafb716cc6e236594fc41742030c",
+      "btih": "d27c22e8ee6b83f65d237e3f8684a1fc19abd7c4",
+      "mtime": "1667472615",
+      "size": "115950",
+      "md5": "609b1f5fb1e45a6f1b37c3afe276af2f",
+      "crc32": "14cd97a5",
+      "sha1": "b293c71ee342d120d915099ed9516a826ae271ea",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cantonrepdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "adfc6b9d1100e3dceb7e0afcf48215b0",
+      "md5": "3cfede2b389fb4bf8ccbf6c48c19a1e8",
       "summation": "md5"
     },
     {
       "name": "cantonrepdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667429926",
-      "size": "684032",
-      "md5": "dee6eb509d91335e94fd4d7407f1048d",
-      "crc32": "abd25af9",
-      "sha1": "ccf1f30777c97959d44295bf9f33b0f55c93018c",
+      "mtime": "1667472576",
+      "size": "696320",
+      "md5": "cda6d33c27b370cd4b55188d00ed73ca",
+      "crc32": "3a837f36",
+      "sha1": "85f17124f9f347f2af3cd6c2375eccc7aa7632cf",
       "format": "Metadata"
     },
     {
@@ -5427,9 +5489,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 525,
-  "item_last_updated": 1667429965,
-  "item_size": 34679572,
+  "files_count": 531,
+  "item_last_updated": 1667472615,
+  "item_size": 35110337,
   "metadata": {
     "identifier": "cantonrepdotcom-2022",
     "collection": [
@@ -5451,7 +5513,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460117912,
+      "task_id": 3460589827,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5459,7 +5521,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1347895838,
+  "uniq": 252109794,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

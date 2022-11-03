@@ -1,5 +1,5 @@
 {
-  "created": 1667429790,
+  "created": 1667472516,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/30/items/bleacherreport-2022",
@@ -14157,31 +14157,93 @@
       "format": "JSON"
     },
     {
+      "name": "bleacherreport-2022-11-02T18:55:20.389107-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bleacherreport-2022-11-02T18:55:20.389107-04:00.jpg",
+      "mtime": "1667430629",
+      "size": "10599",
+      "md5": "ec8c01909d47395840beb72119f614ee",
+      "crc32": "c7b3e7b8",
+      "sha1": "8112a1061fbe1bc69fdbe7d89470c5b95e4363f5"
+    },
+    {
+      "name": "bleacherreport-2022-11-03T06:47:21.101679-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667472451",
+      "size": "15559",
+      "md5": "74c7d7dfad034327fc5936f4fc9964e3",
+      "crc32": "42e3f62c",
+      "sha1": "237e3529089595e33a7702094d62cbb648959a21",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-11-03T06:47:21.101679-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667472453",
+      "size": "14407",
+      "md5": "7cd8d29f8ea0724e573d5328cf4a31c7",
+      "crc32": "5ddcd864",
+      "sha1": "af4b9e98352f0c4690c32651a39155c55e68143d",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-11-03T06:47:21.101679-04:00.jpg",
+      "source": "original",
+      "mtime": "1667472449",
+      "size": "224627",
+      "md5": "edc5b00e61418a25ef186fc4cb88f65a",
+      "crc32": "40733d3d",
+      "sha1": "a6899fe06b691f1bbaf5674cda83dba449a79925",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bleacherreport-2022-11-03T06:47:21.101679-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667472456",
+      "size": "1495",
+      "md5": "820172f3dffc43729abacec15cd09532",
+      "crc32": "e32d2f05",
+      "sha1": "1566ed34098224378a26236a25436d152e88b98d",
+      "format": "JSON"
+    },
+    {
+      "name": "bleacherreport-2022-11-03T06:47:21.101679-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667472458",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bleacherreport-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a83ab38cad26f56504f5d657a20650e440c3fdce",
-      "mtime": "1667429786",
-      "size": "296417",
-      "md5": "162e2f834088fe2fd9ee3f6a98b8e387",
-      "crc32": "7ac54292",
-      "sha1": "77a6580c365b907e15e81c94d5f0b08cd17cb9b8",
+      "btih": "e796bcd368db394fc3605302b0b8ba98498ad81d",
+      "mtime": "1667472512",
+      "size": "297719",
+      "md5": "160d2958bd42637553271fcf9c8ed2b5",
+      "crc32": "c4f23205",
+      "sha1": "e178280512856acb06e88b53dc7f3c7308662db3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bleacherreport-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3445290d8a6e2c5d776671a711855f7d",
+      "md5": "781ee5b5a3b8d6c49c2edeb162b657b5",
       "summation": "md5"
     },
     {
       "name": "bleacherreport-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667429736",
-      "size": "1732608",
-      "md5": "b0ba76aa41aa534f7f4e84b27a2d503c",
-      "crc32": "72356cfb",
-      "sha1": "ed36cd3aff2c2f28a1fd1db272e7cb34b1b46d88",
+      "mtime": "1667472462",
+      "size": "1740800",
+      "md5": "61212b43b39958e87ff9ed9ac5ace37d",
+      "crc32": "e2b1bd93",
+      "sha1": "ca11f85f0d7d85f0145ffd12b5a124be3e569b36",
       "format": "Metadata"
     },
     {
@@ -14195,9 +14257,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1370,
-  "item_last_updated": 1667429786,
-  "item_size": 75695905,
+  "files_count": 1376,
+  "item_last_updated": 1667472512,
+  "item_size": 75972288,
   "metadata": {
     "identifier": "bleacherreport-2022",
     "collection": [
@@ -14219,7 +14281,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460116300,
+      "task_id": 3460588696,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14227,7 +14289,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 561764113,
+  "uniq": 2039480038,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]
