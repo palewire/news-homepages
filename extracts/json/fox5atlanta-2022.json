@@ -1,5 +1,5 @@
 {
-  "created": 1667389456,
+  "created": 1667433377,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/35/items/fox5atlanta-2022",
@@ -12707,31 +12707,93 @@
       "format": "JSON"
     },
     {
+      "name": "fox5atlanta-2022-11-02T07:42:46.031959-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5atlanta-2022-11-02T07:42:46.031959-04:00.jpg",
+      "mtime": "1667392382",
+      "size": "10388",
+      "md5": "12a43255d055a23f580ff156c381c3f5",
+      "crc32": "f6228401",
+      "sha1": "7f13164339765191ba58d6af9817b37609f86307"
+    },
+    {
+      "name": "fox5atlanta-2022-11-02T19:54:41.086497-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667433290",
+      "size": "46069",
+      "md5": "655ab96adfd6662223f484cd5d1a1e8c",
+      "crc32": "30b7ad1e",
+      "sha1": "08d1f519f2ac63319d0ef907f86247112d991a83",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-11-02T19:54:41.086497-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667433292",
+      "size": "39167",
+      "md5": "40259dfeaf0bbe8b14b5e1ce732ddde0",
+      "crc32": "8ea39b9d",
+      "sha1": "6878e008579eba05a7d943474bce51f8aa188112",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-11-02T19:54:41.086497-04:00.jpg",
+      "source": "original",
+      "mtime": "1667433288",
+      "size": "317780",
+      "md5": "9fbec63768870d49a8dee7770d175bef",
+      "crc32": "fadaedca",
+      "sha1": "33dbbfd5d0c3a58f16f1651563b20714fe89b2a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5atlanta-2022-11-02T19:54:41.086497-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667433294",
+      "size": "1504",
+      "md5": "e76196629cc319567161b92d4b51a379",
+      "crc32": "99886dd8",
+      "sha1": "9a4d3f6e683f3cead0af59557164b82fb00966d0",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-11-02T19:54:41.086497-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667433296",
+      "size": "67324",
+      "md5": "622d4d01d26bc9b867e8e8245124c494",
+      "crc32": "9674cd04",
+      "sha1": "d043b4bd2f22d38252ece32aaaebd913a8c3aaa9",
+      "format": "JSON"
+    },
+    {
       "name": "fox5atlanta-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c09eb73462192d26d1e2608198e759f85f1e3b23",
-      "mtime": "1667389447",
-      "size": "264270",
-      "md5": "c59fddca92729700920a8c673e1e4cd3",
-      "crc32": "c3cee193",
-      "sha1": "3be7183567c0d2277449e583c379ab514130c9a1",
+      "btih": "abb3103cb17bddbd0a69f759fbd7502b7fcb0c2c",
+      "mtime": "1667433366",
+      "size": "265556",
+      "md5": "d1c2145cbd9c8df4f788208446ed2f35",
+      "crc32": "82403aa5",
+      "sha1": "278ee5ceff6acd02992a6fc9f366ab1deaa9a1f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5atlanta-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fd22a89ab4f87a6aafb80ead133c0efc",
+      "md5": "76860e4ff5c0958e3b85f5b81d0eaf42",
       "summation": "md5"
     },
     {
       "name": "fox5atlanta-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667389386",
-      "size": "1572864",
-      "md5": "cd7fc22f0fb040abbfbbed21f26e9f0a",
-      "crc32": "a22dca7a",
-      "sha1": "319f1642558e9b33c9d5f51b488bb13cb02b4532",
+      "mtime": "1667433311",
+      "size": "1581056",
+      "md5": "2b6e7df2cdd2b0fa3e45bc62f1550ecc",
+      "crc32": "8d3fa776",
+      "sha1": "20c6f310f5a97c71c386cda3c47b7746e1c44716",
       "format": "Metadata"
     },
     {
@@ -12745,9 +12807,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1232,
-  "item_last_updated": 1667389447,
-  "item_size": 101849852,
+  "files_count": 1238,
+  "item_last_updated": 1667433366,
+  "item_size": 102341562,
   "metadata": {
     "identifier": "fox5atlanta-2022",
     "collection": [
@@ -12769,7 +12831,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459680775,
+      "task_id": 3460153597,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12777,7 +12839,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 785598263,
+  "uniq": 795669032,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

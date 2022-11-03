@@ -1,5 +1,5 @@
 {
-  "created": 1667389175,
+  "created": 1667433013,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/35/items/chessbase-2022",
@@ -12823,31 +12823,93 @@
       "format": "JSON"
     },
     {
+      "name": "chessbase-2022-11-02T12:38:16.447820+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chessbase-2022-11-02T12:38:16.447820+01:00.jpg",
+      "mtime": "1667391229",
+      "size": "10718",
+      "md5": "8375b07b8cd18dbcb6d791ff0bcb209c",
+      "crc32": "1a169081",
+      "sha1": "21e9baf78b2781efe05d40d3f5a3451347be60bc"
+    },
+    {
+      "name": "chessbase-2022-11-03T00:48:48.263883+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667432942",
+      "size": "45810",
+      "md5": "35f565a6706c2369edc3000162540782",
+      "crc32": "b4bf3b74",
+      "sha1": "cb3a1e3ecdb4ec573754d0718a91b85086305f77",
+      "format": "JSON"
+    },
+    {
+      "name": "chessbase-2022-11-03T00:48:48.263883+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667432944",
+      "size": "41665",
+      "md5": "05e85f7d4bc32b4bf46c1c6069e08581",
+      "crc32": "7cb28de4",
+      "sha1": "080632d20ce73892b21a0c3682219421d899197d",
+      "format": "JSON"
+    },
+    {
+      "name": "chessbase-2022-11-03T00:48:48.263883+01:00.jpg",
+      "source": "original",
+      "mtime": "1667432936",
+      "size": "386538",
+      "md5": "3138e97f636056367d580e51bf7f53f4",
+      "crc32": "ddf4f317",
+      "sha1": "195727f0f351ef336fa176850f6117fc852bb5b3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chessbase-2022-11-03T00:48:48.263883+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667432946",
+      "size": "1475",
+      "md5": "17dc8fabb4e0236395d78423153da184",
+      "crc32": "ca493e1d",
+      "sha1": "7156f17a52889ba791c8ceb8ad1c358ad5f508a0",
+      "format": "JSON"
+    },
+    {
+      "name": "chessbase-2022-11-03T00:48:48.263883+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667432948",
+      "size": "11846",
+      "md5": "e3712fa2126e79f98b416e1b3c83cef5",
+      "crc32": "311a5ef6",
+      "sha1": "b11996153c0cb56cb790e8fe667882eb87fee689",
+      "format": "JSON"
+    },
+    {
       "name": "chessbase-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e606021594ed6eebfca3879be9dac25f0564d5b6",
-      "mtime": "1667389172",
-      "size": "264105",
-      "md5": "cd01a5667496a4147bbd9f8f4033c19c",
-      "crc32": "10bcbf8b",
-      "sha1": "c06d0771a95ff3592c4b6205c0b0348f9f98bdb8",
+      "btih": "1775e45df8a21f23d386869c1d3509f9e86b4503",
+      "mtime": "1667433007",
+      "size": "265379",
+      "md5": "f074178225bad741bae26cab7566b406",
+      "crc32": "1304254c",
+      "sha1": "259cdea6d7a59f170752548e137ec40b3e8f366c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chessbase-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "88d47ead81fce7cda4617d21fd316251",
+      "md5": "4b5631ff6d3b88b6027636bffcc6eab2",
       "summation": "md5"
     },
     {
       "name": "chessbase-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667389122",
-      "size": "1576960",
-      "md5": "503618568b449eccb9b83fad271593b7",
-      "crc32": "c64e8bfb",
-      "sha1": "5bacc4fae0c768056e08e3776017b648c71cfd42",
+      "mtime": "1667432953",
+      "size": "1585152",
+      "md5": "fafe03ed4f62157896b42679d1399125",
+      "crc32": "b0e82bc2",
+      "sha1": "38f9e52475f922cc6525ec015dd8ffbf151b1c6a",
       "format": "Metadata"
     },
     {
@@ -12861,9 +12923,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1243,
-  "item_last_updated": 1667389172,
-  "item_size": 100857565,
+  "files_count": 1249,
+  "item_last_updated": 1667433007,
+  "item_size": 101365083,
   "metadata": {
     "identifier": "chessbase-2022",
     "collection": [
@@ -12885,7 +12947,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459677506,
+      "task_id": 3460150118,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12893,7 +12955,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1291677394,
+  "uniq": 1283323130,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667389402,
+  "created": 1667433215,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/fla_pol-2022",
@@ -10701,31 +10701,93 @@
       "format": "JSON"
     },
     {
+      "name": "fla_pol-2022-11-02T07:42:01.698645-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-11-02T07:42:01.698645-04:00.jpg",
+      "mtime": "1667392225",
+      "size": "10605",
+      "md5": "7dd2904c9f0b98fdbde7060e0712b52a",
+      "crc32": "321a5359",
+      "sha1": "ba184c59503747c706530a3877cb9750944cb67d"
+    },
+    {
+      "name": "fla_pol-2022-11-02T19:52:12.963751-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667433144",
+      "size": "88856",
+      "md5": "c0bb63c2b82494b4b4b4fdaba07599bc",
+      "crc32": "69f9f441",
+      "sha1": "9dd45f76bc3c4dc464ea32dc9bac35ac29a20d17",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-11-02T19:52:12.963751-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667433147",
+      "size": "86972",
+      "md5": "e38c954fcb1414f950103e73d3c08cfe",
+      "crc32": "e5a0b6c0",
+      "sha1": "6dc98c1eec74fbf5c99298ef23da1ce464383a16",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-11-02T19:52:12.963751-04:00.jpg",
+      "source": "original",
+      "mtime": "1667433142",
+      "size": "260720",
+      "md5": "8282fc3c80b6e2e6c0a4dc1a192f2e2d",
+      "crc32": "35c6c049",
+      "sha1": "19cd81488ed66e80a763b3b3ac7fdc067342c064",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fla_pol-2022-11-02T19:52:12.963751-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667433149",
+      "size": "1504",
+      "md5": "16a86e992188e5524b6df1b85f921ef8",
+      "crc32": "f0e95439",
+      "sha1": "a6528cb83c626e204f297ed71fedcb15d8c77c2e",
+      "format": "JSON"
+    },
+    {
+      "name": "fla_pol-2022-11-02T19:52:12.963751-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667433151",
+      "size": "24142",
+      "md5": "8e19fd98712566b5719e836ea6a18d75",
+      "crc32": "11488faf",
+      "sha1": "73f5e557e5a6db348522586ec76ca97e4d3e0188",
+      "format": "JSON"
+    },
+    {
       "name": "fla_pol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "193659dea0cad40565c02f82b04cb4906db593f5",
-      "mtime": "1667389392",
-      "size": "218581",
-      "md5": "9c6b16973b8bdd2d5d1e2007ee50af9b",
-      "crc32": "d6a43a1b",
-      "sha1": "2ba564fe309e865da8371b2945d45c3f6d43613c",
+      "btih": "63c66ffe2494090f3eb80c58cf2b357f5c1969cf",
+      "mtime": "1667433210",
+      "size": "219843",
+      "md5": "c72fff0a9b493f2fc27b77a8a8dd361f",
+      "crc32": "445c7222",
+      "sha1": "ee15be11b536aaac0d4df2ecc02cd8cc96041acd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fla_pol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "26753e888aad7ec1608e13a416580d19",
+      "md5": "4fa69d9307a09401223989bc48da3a1b",
       "summation": "md5"
     },
     {
       "name": "fla_pol-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667389339",
-      "size": "1331200",
-      "md5": "d6f3789b09df8c0febab2e041edf7487",
-      "crc32": "fc0f04e8",
-      "sha1": "a67925c794179c2d8096fcb3e862d2c68a8476d1",
+      "mtime": "1667433157",
+      "size": "1335296",
+      "md5": "072e50fd24930b6a9dfbbca5f893e839",
+      "crc32": "3e0e4279",
+      "sha1": "213268e4cd1e26dfce20a60b791fc4293282affd",
       "format": "Metadata"
     },
     {
@@ -10739,9 +10801,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1039,
-  "item_last_updated": 1667389392,
-  "item_size": 81276785,
+  "files_count": 1045,
+  "item_last_updated": 1667433210,
+  "item_size": 81754942,
   "metadata": {
     "identifier": "fla_pol-2022",
     "collection": [
@@ -10763,7 +10825,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459680085,
+      "task_id": 3460152123,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10771,7 +10833,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 354202154,
+  "uniq": 771019039,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

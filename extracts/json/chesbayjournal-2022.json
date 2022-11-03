@@ -1,5 +1,5 @@
 {
-  "created": 1667389169,
+  "created": 1667433039,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/9/items/chesbayjournal-2022",
@@ -13725,31 +13725,93 @@
       "format": "JSON"
     },
     {
+      "name": "chesbayjournal-2022-11-02T07:38:15.952462-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chesbayjournal-2022-11-02T07:38:15.952462-04:00.jpg",
+      "mtime": "1667391038",
+      "size": "9875",
+      "md5": "d64ce80567b6c2107326cb66915894b8",
+      "crc32": "28095398",
+      "sha1": "fd2d18f66e8a4b0ba73c03e428132930d56af519"
+    },
+    {
+      "name": "chesbayjournal-2022-11-02T19:49:23.181735-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667432974",
+      "size": "13628",
+      "md5": "35f1435b6781b8539a23a375fa19baaa",
+      "crc32": "e9fae869",
+      "sha1": "503ffb70f6fc9c47ac1785dc9db3a6b637235396",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-11-02T19:49:23.181735-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667432976",
+      "size": "20013",
+      "md5": "d24d869ba3d8bac16633cfb9004a6b19",
+      "crc32": "b6912da2",
+      "sha1": "cad35d73ba2686116d37a49ef790a959f9957c26",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-11-02T19:49:23.181735-04:00.jpg",
+      "source": "original",
+      "mtime": "1667432971",
+      "size": "47906",
+      "md5": "2d42e120c114ca914b2748699711da16",
+      "crc32": "fae85be3",
+      "sha1": "0d85ad369ee391107e2ed66f8dfd0622dc961756",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chesbayjournal-2022-11-02T19:49:23.181735-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667432977",
+      "size": "1494",
+      "md5": "7158de3b265bd4e84781611ad1aa6bf9",
+      "crc32": "5375543d",
+      "sha1": "dc1e033a37c014a7e6002d9746f963a90b803e3d",
+      "format": "JSON"
+    },
+    {
+      "name": "chesbayjournal-2022-11-02T19:49:23.181735-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667432980",
+      "size": "15995",
+      "md5": "3039afc0c8f74c34e613a9e9f894af02",
+      "crc32": "eb46e9d9",
+      "sha1": "adf523b95235e2ca90d9922eb4916da495a6124d",
+      "format": "JSON"
+    },
+    {
       "name": "chesbayjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1404f41579d4cbee68bbba1dfef13b922197ce67",
-      "mtime": "1667389163",
-      "size": "288453",
-      "md5": "0c4e3314226ee0084623f5922d910355",
-      "crc32": "e3d90484",
-      "sha1": "1ddd4aee2697549c3312baebf102fc2b4085ffdd",
+      "btih": "85ca87abd784ccaceecec112fa7bc67de98fab09",
+      "mtime": "1667433035",
+      "size": "289735",
+      "md5": "de327e023646fdf7e91380bce63cb030",
+      "crc32": "254fcfff",
+      "sha1": "a1df4887ceb6e4b4a3acd84e63a712f0947c4a1b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chesbayjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f3d5d8b8ae038486578417895b822d33",
+      "md5": "1f960292a5bb29b6df5317275120ae92",
       "summation": "md5"
     },
     {
       "name": "chesbayjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667389114",
-      "size": "1691648",
-      "md5": "e75921940a0a355c465b67e5c11b3c7b",
-      "crc32": "385ea1b9",
-      "sha1": "ce2cbd08112a72d24b25686bd50946d94bc213bd",
+      "mtime": "1667432983",
+      "size": "1695744",
+      "md5": "2915ffb67bb5fba65961a79994d61764",
+      "crc32": "1d0d7396",
+      "sha1": "646b793c50bebd9022f8247c2715693ad89711f5",
       "format": "Metadata"
     },
     {
@@ -13763,9 +13825,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1329,
-  "item_last_updated": 1667389163,
-  "item_size": 98448386,
+  "files_count": 1335,
+  "item_last_updated": 1667433035,
+  "item_size": 98562675,
   "metadata": {
     "identifier": "chesbayjournal-2022",
     "collection": [
@@ -13787,7 +13849,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459677427,
+      "task_id": 3460150337,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13795,7 +13857,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 943131819,
+  "uniq": 1481545212,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]
