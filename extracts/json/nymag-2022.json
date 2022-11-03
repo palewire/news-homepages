@@ -1,5 +1,5 @@
 {
-  "created": 1667397451,
+  "created": 1667442466,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/0/items/nymag-2022",
@@ -14097,31 +14097,93 @@
       "format": "JSON"
     },
     {
+      "name": "nymag-2022-11-02T09:56:10.477491-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nymag-2022-11-02T09:56:10.477491-04:00.jpg",
+      "mtime": "1667398026",
+      "size": "9740",
+      "md5": "a2db3aa4e63a676053f7bf749dc5ec02",
+      "crc32": "407381a5",
+      "sha1": "8d1555ae86f4f531696ebdf8d91d0031dcaedf9a"
+    },
+    {
+      "name": "nymag-2022-11-02T22:26:19.189760-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667442394",
+      "size": "38053",
+      "md5": "21b8c274f0d3acdece8a39e908d30b5f",
+      "crc32": "7af91c7a",
+      "sha1": "f817572bed8d29c897c0df16c42583d94d8f1339",
+      "format": "JSON"
+    },
+    {
+      "name": "nymag-2022-11-02T22:26:19.189760-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667442396",
+      "size": "73625",
+      "md5": "da15bc2d116bd56a471c76384f796cc4",
+      "crc32": "2509fef0",
+      "sha1": "8c9bc5070e3370ee45b089b606c2747f7841028f",
+      "format": "JSON"
+    },
+    {
+      "name": "nymag-2022-11-02T22:26:19.189760-04:00.jpg",
+      "source": "original",
+      "mtime": "1667442390",
+      "size": "347162",
+      "md5": "a8a8f65f6fd1fec0b07ca7f9aa053416",
+      "crc32": "72903be7",
+      "sha1": "40e8165d9df372e56b290e4e900164fd75e1412c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nymag-2022-11-02T22:26:19.189760-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667442398",
+      "size": "1405",
+      "md5": "32a6ac675ffd35ddc1477c5519eff7c2",
+      "crc32": "265f7240",
+      "sha1": "b201d9876ae494fefa9475ec8e595a04890f867e",
+      "format": "JSON"
+    },
+    {
+      "name": "nymag-2022-11-02T22:26:19.189760-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667442399",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "nymag-2022_archive.torrent",
       "source": "metadata",
-      "btih": "09d0367b5840a470add5cc98ea28ba57ff3686e4",
-      "mtime": "1667397447",
-      "size": "284466",
-      "md5": "d51830c70a61c3f14044e2bb9c3b9e5e",
-      "crc32": "164f1608",
-      "sha1": "00ee3a4294ec40af9cb240431ed1e18fe7f9a0ec",
+      "btih": "de476aec596c3ff086a1d08bb87aa0ea91c96ecd",
+      "mtime": "1667442458",
+      "size": "285713",
+      "md5": "18f049b5fe7ca5ce58a532744e23949c",
+      "crc32": "7ec08772",
+      "sha1": "6f840e204d3760710606a5509406dd9c14f90878",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nymag-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b194e4a1efa11e1ffb4daeff0c54f3e",
+      "md5": "0f0fa89db2122042150b472f828de835",
       "summation": "md5"
     },
     {
       "name": "nymag-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667397397",
-      "size": "1703936",
-      "md5": "3a0352fc1ab7e50e4365d2dae622fab0",
-      "crc32": "5dc33950",
-      "sha1": "138984623ece7c8af1487dee1ac227f92283b4d7",
+      "mtime": "1667442404",
+      "size": "1708032",
+      "md5": "56550270ae62494ca8a205ff68a2872f",
+      "crc32": "c283d7c3",
+      "sha1": "91b3aba4d0925427bfa0c3026dc16baff0eb5647",
       "format": "Metadata"
     },
     {
@@ -14135,9 +14197,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1364,
-  "item_last_updated": 1667397447,
-  "item_size": 123880405,
+  "files_count": 1370,
+  "item_last_updated": 1667442458,
+  "item_size": 124355935,
   "metadata": {
     "identifier": "nymag-2022",
     "collection": [
@@ -14159,7 +14221,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459765646,
+      "task_id": 3460253460,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14167,7 +14229,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 265339455,
+  "uniq": 202921116,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

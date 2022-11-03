@@ -1,5 +1,5 @@
 {
-  "created": 1667397567,
+  "created": 1667442610,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/21/items/ocalastarbanner-2022",
@@ -5327,31 +5327,73 @@
       "format": "JSON"
     },
     {
+      "name": "ocalastarbanner-2022-11-02T09:58:19.037263-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ocalastarbanner-2022-11-02T09:58:19.037263-04:00.jpg",
+      "mtime": "1667398174",
+      "size": "9346",
+      "md5": "16c0e3717a43888b6606345a2192f63f",
+      "crc32": "4b874134",
+      "sha1": "496ccedd9b6d7aa3ede89f0c3b104b84ef6132d4"
+    },
+    {
+      "name": "ocalastarbanner-2022-11-02T22:28:54.766902-04:00.jpg",
+      "source": "original",
+      "mtime": "1667442550",
+      "size": "263995",
+      "md5": "d5e1e68de65c8c0edbd094a7e60648b1",
+      "crc32": "7b0ee512",
+      "sha1": "877d0c069d498b67a15e1b9d699271c2821cfebd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ocalastarbanner-2022-11-02T22:28:54.766902-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667442551",
+      "size": "1450",
+      "md5": "167c0f2d2b131056061c4aee9005ca6b",
+      "crc32": "5643597d",
+      "sha1": "578ef1230202bff931b0b5b8137d4536c9ccf65e",
+      "format": "JSON"
+    },
+    {
+      "name": "ocalastarbanner-2022-11-02T22:28:54.766902-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667442553",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "ocalastarbanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ce2b9d1233bf4370f14b0aeea64f1eb82bf92740",
-      "mtime": "1667397561",
-      "size": "113284",
-      "md5": "33f39bd15eeeeb24e532cd819a727267",
-      "crc32": "816fce8e",
-      "sha1": "702b7c06eb3996b45ffb80480e85cdf2f9da6caa",
+      "btih": "586c45457b1dc9d7fdb7b24cbc223a911986965d",
+      "mtime": "1667442604",
+      "size": "114132",
+      "md5": "c05710ba7643691731f7b5b5f05b1bcb",
+      "crc32": "dcb70983",
+      "sha1": "4be123cbed23060661c78c2fc371988efdbfaa50",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ocalastarbanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca2034d53a8b43870d05be6245031eea",
+      "md5": "9422db475718eac502e5445c77059bf4",
       "summation": "md5"
     },
     {
       "name": "ocalastarbanner-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667397520",
-      "size": "675840",
-      "md5": "691e1c5b87f062c49d62c80c96669e75",
-      "crc32": "4cfb1328",
-      "sha1": "e551d8e276151f2ba42b9e6251b2978c02a7777b",
+      "mtime": "1667442559",
+      "size": "679936",
+      "md5": "4e85d9e672827527967333d93ee70246",
+      "crc32": "92187ea2",
+      "sha1": "65754c6406d3d3bbba8cf1421f8b4ce01f07bda7",
       "format": "Metadata"
     },
     {
@@ -5365,9 +5407,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 519,
-  "item_last_updated": 1667397561,
-  "item_size": 33282606,
+  "files_count": 523,
+  "item_last_updated": 1667442604,
+  "item_size": 33562543,
   "metadata": {
     "identifier": "ocalastarbanner-2022",
     "collection": [
@@ -5389,7 +5431,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459766751,
+      "task_id": 3460254870,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5397,7 +5439,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1151237832,
+  "uniq": 1331227155,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

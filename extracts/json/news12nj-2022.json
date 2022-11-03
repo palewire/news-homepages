@@ -1,5 +1,5 @@
 {
-  "created": 1667397451,
+  "created": 1667442459,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/2/items/news12nj-2022",
@@ -12091,31 +12091,93 @@
       "format": "JSON"
     },
     {
+      "name": "news12nj-2022-11-02T09:56:20.560854-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "news12nj-2022-11-02T09:56:20.560854-04:00.jpg",
+      "mtime": "1667398037",
+      "size": "9121",
+      "md5": "f8707d1a06d5955adbaef6af66f37176",
+      "crc32": "ef2e2cd0",
+      "sha1": "9173d24374e82c0be5b5270743eaa995c22012c2"
+    },
+    {
+      "name": "news12nj-2022-11-02T22:26:26.419304-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667442394",
+      "size": "18806",
+      "md5": "311c394875da70b9686f0032003ab447",
+      "crc32": "127a0535",
+      "sha1": "9374d85e67d90d0d7a84f624c546a5cd71d6eee7",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-11-02T22:26:26.419304-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667442397",
+      "size": "16395",
+      "md5": "8d1c42aee554e30a133b7ece676e11e0",
+      "crc32": "dd90f86c",
+      "sha1": "b67fec0adcf0fe88a70e76365533fc5bc108ad58",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-11-02T22:26:26.419304-04:00.jpg",
+      "source": "original",
+      "mtime": "1667442392",
+      "size": "254735",
+      "md5": "2630c0846c53e1b8e1651b6566e7d8cb",
+      "crc32": "a076225f",
+      "sha1": "f60ce70a732a2c7ddfab2757c50d9bb2853440fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "news12nj-2022-11-02T22:26:26.419304-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667442399",
+      "size": "1510",
+      "md5": "776e99e8ffc1a0e462aa8887da0b941f",
+      "crc32": "94dbd562",
+      "sha1": "1c65ef59b55c6e4c1666f5fabbfa461ee89f5843",
+      "format": "JSON"
+    },
+    {
+      "name": "news12nj-2022-11-02T22:26:26.419304-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667442400",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "news12nj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b8c39804bc0c420c1faef0eed2bf892a2ac33933",
-      "mtime": "1667397448",
-      "size": "246646",
-      "md5": "5ddec105bd8705bdacedd422d829ec2e",
-      "crc32": "b9012a50",
-      "sha1": "5b7716c16845f2e1a04e2450bb88ca793ea8159f",
+      "btih": "c8237a52a23f47043e9f26e90d2ee28d7687ff56",
+      "mtime": "1667442455",
+      "size": "247911",
+      "md5": "301db0a47b67e95e611a135116d75dff",
+      "crc32": "745c53e7",
+      "sha1": "03aceb832fbc1bad2b4c9f5ea975ff1a3ebc4643",
       "format": "Archive BitTorrent"
     },
     {
       "name": "news12nj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "094967b73e7f354fb9cceedb5c2f3ce6",
+      "md5": "f2c9850fdd47de057f911887dd91230b",
       "summation": "md5"
     },
     {
       "name": "news12nj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667397401",
-      "size": "1495040",
-      "md5": "01213d851eeed10800b6265cb06b1171",
-      "crc32": "753d271d",
-      "sha1": "ed8538fd4cfac4774d9300d3bc9bf8c74edded41",
+      "mtime": "1667442406",
+      "size": "1503232",
+      "md5": "ce632997eb8706145d679edd0081defe",
+      "crc32": "f143704e",
+      "sha1": "ef95b8c0686f7f2c8a90296c3f6a405a4cdf4871",
       "format": "Metadata"
     },
     {
@@ -12129,9 +12191,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1173,
-  "item_last_updated": 1667397448,
-  "item_size": 63100764,
+  "files_count": 1179,
+  "item_last_updated": 1667442455,
+  "item_size": 63410990,
   "metadata": {
     "identifier": "news12nj-2022",
     "collection": [
@@ -12153,7 +12215,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459765645,
+      "task_id": 3460253402,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12161,7 +12223,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 485247777,
+  "uniq": 1586108516,
   "workable_servers": [
     "ia902508.us.archive.org"
   ]

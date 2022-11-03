@@ -1,5 +1,5 @@
 {
-  "created": 1667397641,
+  "created": 1667442677,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/12/items/privateeyenews-2022",
@@ -15971,31 +15971,83 @@
       "format": "JSON"
     },
     {
+      "name": "privateeyenews-2022-11-02T13:58:11.633976+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "privateeyenews-2022-11-02T13:58:11.633976+00:00.jpg",
+      "mtime": "1667398292",
+      "size": "8869",
+      "md5": "8383895c400e6f00741a81fe554465c6",
+      "crc32": "8b512aa1",
+      "sha1": "01262f604216efd547d3bddaae0a417455e0010f"
+    },
+    {
+      "name": "privateeyenews-2022-11-03T02:28:56.378093+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667442539",
+      "size": "30290",
+      "md5": "a1d6a72e4afb413405a7d13452afcda0",
+      "crc32": "fb971962",
+      "sha1": "3f9dc0d78eb46ba89c7d1b9b23145657063ff9b0",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-11-03T02:28:56.378093+00:00.jpg",
+      "source": "original",
+      "mtime": "1667442537",
+      "size": "221462",
+      "md5": "9f23c77ebfbdc64342de1d2cbfa1c7f6",
+      "crc32": "eaa6a9c5",
+      "sha1": "f147f54f9a415d6149d5213eb07882d15fb88990",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "privateeyenews-2022-11-03T02:28:56.378093+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667442541",
+      "size": "1519",
+      "md5": "1a2b05c84e3f554459ee2c53250db39b",
+      "crc32": "238fcde2",
+      "sha1": "8a68dba5e2229b5e7aa0161c459f8b399c2c6796",
+      "format": "JSON"
+    },
+    {
+      "name": "privateeyenews-2022-11-03T02:28:56.378093+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667442542",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "privateeyenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6f59b13f71ae26b7bdf4813727381d6d2f9b95c9",
-      "mtime": "1667397614",
-      "size": "334670",
-      "md5": "f5f755efe732f2301755558b682f95b2",
-      "crc32": "a14b3bc3",
-      "sha1": "59d85db314611724434fc96122bfe25d540983ff",
+      "btih": "70a9cb4e3d328795586fc6466c609cae7599b7a9",
+      "mtime": "1667442657",
+      "size": "335731",
+      "md5": "053444d52ced7ef4b547397bbd2311e9",
+      "crc32": "b33a51d5",
+      "sha1": "269ffe3f950340eb03de02591ad04bb5365373b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "privateeyenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7a452025fa422ffab0e91798cfccceca",
+      "md5": "6aee11b03c1b1ac82836864e5d19f848",
       "summation": "md5"
     },
     {
       "name": "privateeyenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667397543",
-      "size": "1990656",
-      "md5": "8e1617f43226a07451be13eec19c21a1",
-      "crc32": "a66522ef",
-      "sha1": "92f709f2762c85098217d6330cf0fd66739a4218",
+      "mtime": "1667442579",
+      "size": "1998848",
+      "md5": "c9fa8e926f2b7bcfafd020c7a75fb185",
+      "crc32": "2df12ec0",
+      "sha1": "9b434078a9ce980a6c6668c1102d369878a5ed7b",
       "format": "Metadata"
     },
     {
@@ -16009,9 +16061,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1549,
-  "item_last_updated": 1667397614,
-  "item_size": 79650176,
+  "files_count": 1554,
+  "item_last_updated": 1667442657,
+  "item_size": 79921771,
   "metadata": {
     "identifier": "privateeyenews-2022",
     "collection": [
@@ -16033,7 +16085,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459767595,
+      "task_id": 3460255563,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -16041,7 +16093,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 99345098,
+  "uniq": 616920770,
   "workable_servers": [
     "ia601404.us.archive.org"
   ]
