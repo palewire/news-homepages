@@ -1,5 +1,5 @@
 {
-  "created": 1667371978,
+  "created": 1667459020,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/13/items/prismreports-2022",
@@ -13427,31 +13427,155 @@
       "format": "JSON"
     },
     {
+      "name": "prismreports-2022-11-01T23:51:49.387153-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prismreports-2022-11-01T23:51:49.387153-07:00.jpg",
+      "mtime": "1667374546",
+      "size": "10430",
+      "md5": "fea5cf98c4f9416e8223e7e085c8e70e",
+      "crc32": "0df16b5d",
+      "sha1": "376c6c45be3c1d09c1139930ace4f93c85d7da14"
+    },
+    {
+      "name": "prismreports-2022-11-02T11:30:58.411590-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667413867",
+      "size": "20630",
+      "md5": "ffc1cd894816573ab45f0df3a5af41dc",
+      "crc32": "7254b7ab",
+      "sha1": "0b69938f3eacacc4e02c0e04850be2e8ee23fdf0",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-11-02T11:30:58.411590-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667413869",
+      "size": "20907",
+      "md5": "21d3bca7837650bd05f1592e519b28f0",
+      "crc32": "c486b568",
+      "sha1": "291cd7d8816b8ce63eeeaee998c910288c0b0d1d",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-11-02T11:30:58.411590-07:00.jpg",
+      "source": "original",
+      "mtime": "1667413865",
+      "size": "318040",
+      "md5": "2fa5f0d0650f0ad815f440d4247bcd10",
+      "crc32": "88e6c2ed",
+      "sha1": "d95b7285b7199232e48183396efb73061c730b33",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prismreports-2022-11-02T11:30:58.411590-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667413871",
+      "size": "1467",
+      "md5": "8e740afbb5b718a8b09b7e88108255fe",
+      "crc32": "b39d0b9d",
+      "sha1": "84066f0c4252be5475f79770086f060a50482ea0",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-11-02T11:30:58.411590-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667413874",
+      "size": "11822",
+      "md5": "365e7cda552c677ffc47d25c9dcf4ab3",
+      "crc32": "0ee21186",
+      "sha1": "55530446e3c0cf939770552fecc50b39dc2aca8b",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-11-02T11:30:58.411590-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prismreports-2022-11-02T11:30:58.411590-07:00.jpg",
+      "mtime": "1667417561",
+      "size": "10496",
+      "md5": "167af4ac98bb8c87aefa9ffdcce046f2",
+      "crc32": "4b3df37d",
+      "sha1": "a6f406d5f6a86ac3120f94a2056d26f68979bfca"
+    },
+    {
+      "name": "prismreports-2022-11-03T00:02:28.907892-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667458958",
+      "size": "20694",
+      "md5": "3a5b58e502d964e539440e36da598dda",
+      "crc32": "5d256ac9",
+      "sha1": "7f90d1cb646aba65193119a60ca053e3560020a1",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-11-03T00:02:28.907892-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667458960",
+      "size": "20952",
+      "md5": "8e7282656472ab591b055812628a2cbe",
+      "crc32": "eb33bfbb",
+      "sha1": "2d48a936ecd51bb9164769fb9ad95b3d100428b6",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-11-03T00:02:28.907892-07:00.jpg",
+      "source": "original",
+      "mtime": "1667458957",
+      "size": "323380",
+      "md5": "f6bab71bb0860e6632e3d50e906840a1",
+      "crc32": "5f60bd31",
+      "sha1": "69578183162631fbd66868b3f37fad1f2d2167c2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "prismreports-2022-11-03T00:02:28.907892-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667458962",
+      "size": "1468",
+      "md5": "20446b5f9824a5eca731aa1d6cc66072",
+      "crc32": "2dca2d25",
+      "sha1": "24de7ab0218735f55a2d839b2ddeef8521b90e53",
+      "format": "JSON"
+    },
+    {
+      "name": "prismreports-2022-11-03T00:02:28.907892-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667458963",
+      "size": "11738",
+      "md5": "e7adc3ae82b2932759ade751c9ee2c5e",
+      "crc32": "515902a3",
+      "sha1": "8d00ea3fe8930a93e5f211854293b166a0e24698",
+      "format": "JSON"
+    },
+    {
       "name": "prismreports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "440b6c2f5d9946fc20e7787fc321738ea5a11ae9",
-      "mtime": "1667371975",
-      "size": "279490",
-      "md5": "b53807338348746e3e6b44e208759547",
-      "crc32": "5a6e8d40",
-      "sha1": "4dd0772ca8c81b5917e030df9f6ade413dd802ac",
+      "btih": "ffb5f0bb3361663a862fbfeb8fc131a8b6de43d9",
+      "mtime": "1667459016",
+      "size": "282054",
+      "md5": "1b0c427dfd9a1bbc13f909abca0d4523",
+      "crc32": "81853c5d",
+      "sha1": "7ed02047befb55bbf72edf2f5014977eed769a27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prismreports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3c24d87b0b51465e9f7a2158af1837f3",
+      "md5": "a6393757fca4e2c9e93d5936b096bbc0",
       "summation": "md5"
     },
     {
       "name": "prismreports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667371927",
-      "size": "1646592",
-      "md5": "6f96df1c9eecf0a131d0f46f79be6d60",
-      "crc32": "46d4e57e",
-      "sha1": "b9880d108b8ce5debcac910cb01d01c12c9063da",
+      "mtime": "1667458968",
+      "size": "1662976",
+      "md5": "234b01368030ff6006451254818d8f6f",
+      "crc32": "0b90d75d",
+      "sha1": "7b915a7ab5a968174404d5cc6001ace73a76eb32",
       "format": "Metadata"
     },
     {
@@ -13465,9 +13589,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1300,
-  "item_last_updated": 1667371975,
-  "item_size": 92163162,
+  "files_count": 1312,
+  "item_last_updated": 1667459016,
+  "item_size": 92954134,
   "metadata": {
     "identifier": "prismreports-2022",
     "collection": [
@@ -13489,7 +13613,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459491883,
+      "task_id": 3460436718,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13497,7 +13621,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 886878334,
+  "uniq": 65297434,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]
