@@ -1,5 +1,10 @@
 {
-  "created": 1667404682,
+  "adndotcom-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667500997,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/adndotcom-2022",
@@ -6319,31 +6324,155 @@
       "format": "JSON"
     },
     {
+      "name": "adndotcom-2022-11-02T07:56:52.795280-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "adndotcom-2022-11-02T07:56:52.795280-08:00.jpg",
+      "mtime": "1667407998",
+      "size": "9768",
+      "md5": "dcc9ee6e2d66d1b2bb7dd7113f862923",
+      "crc32": "60933797",
+      "sha1": "f5aa1efd09415e194c83bc2c1745b5cfb3e137c6"
+    },
+    {
+      "name": "adndotcom-2022-11-02T20:52:10.782079-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451136",
+      "size": "54913",
+      "md5": "b120b4e6c23a494fd5eceed9a4af1ef3",
+      "crc32": "009716d8",
+      "sha1": "b7dc7e6adb75c2ae67a870ecb888fbf3d530c5aa",
+      "format": "JSON"
+    },
+    {
+      "name": "adndotcom-2022-11-02T20:52:10.782079-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451138",
+      "size": "39417",
+      "md5": "f7f426501485aea5bd55f81ea863f7b1",
+      "crc32": "79cb600d",
+      "sha1": "f9b5c79947d52c0a96eb58e4fcee4db14bae5155",
+      "format": "JSON"
+    },
+    {
+      "name": "adndotcom-2022-11-02T20:52:10.782079-08:00.jpg",
+      "source": "original",
+      "mtime": "1667451135",
+      "size": "370959",
+      "md5": "8deb18248c12084a7726b6be74b5afa2",
+      "crc32": "33928634",
+      "sha1": "f7f926b9f4ec44aab6b45d7fb8ac3560b9929615",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "adndotcom-2022-11-02T20:52:10.782079-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451140",
+      "size": "1432",
+      "md5": "cda27924f3da9db1059ff897b30c065f",
+      "crc32": "560fe8df",
+      "sha1": "d1d62aca65c3b5cb426984460908189765df11be",
+      "format": "JSON"
+    },
+    {
+      "name": "adndotcom-2022-11-02T20:52:10.782079-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451141",
+      "size": "60207",
+      "md5": "4c9a400863f95e7e45e5ee8dbc125cab",
+      "crc32": "a0fef92b",
+      "sha1": "035f9a83995b91e9dc4e1d4aea83ee2564484e59",
+      "format": "JSON"
+    },
+    {
+      "name": "adndotcom-2022-11-02T20:52:10.782079-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "adndotcom-2022-11-02T20:52:10.782079-08:00.jpg",
+      "mtime": "1667453560",
+      "size": "9646",
+      "md5": "37dd718637669657ed66389f1b61b12e",
+      "crc32": "45b44609",
+      "sha1": "8dd48605efec1547c3578ed0af3dd4c271704205"
+    },
+    {
+      "name": "adndotcom-2022-11-03T08:32:47.927076-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667493179",
+      "size": "53282",
+      "md5": "bc8f9403525352b1f4c878448fa20b16",
+      "crc32": "57702892",
+      "sha1": "f1f42393de7f3d13d43757080ff10d479fd087fd",
+      "format": "JSON"
+    },
+    {
+      "name": "adndotcom-2022-11-03T08:32:47.927076-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667493182",
+      "size": "38044",
+      "md5": "c6ef505a58bd3e6e06afab772a8643e8",
+      "crc32": "c2b316ce",
+      "sha1": "6793663599ac7cefa0e1f6bb4cf549476aa1e2d9",
+      "format": "JSON"
+    },
+    {
+      "name": "adndotcom-2022-11-03T08:32:47.927076-08:00.jpg",
+      "source": "original",
+      "mtime": "1667493176",
+      "size": "350384",
+      "md5": "b896e651944b6df57e12ecc4dc104bec",
+      "crc32": "1f96ec8d",
+      "sha1": "27ab16346eb710c61db118eeebc740e703dad1e6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "adndotcom-2022-11-03T08:32:47.927076-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667493185",
+      "size": "1432",
+      "md5": "ff8f33174c5d46ca674b615b55e3730f",
+      "crc32": "d88f8012",
+      "sha1": "21cf9a91e38ccc92150181207c9c6807a9209c70",
+      "format": "JSON"
+    },
+    {
+      "name": "adndotcom-2022-11-03T08:32:47.927076-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1667493188",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "adndotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1edec14238a0f92e66fb60faa3e835ef7d7914ee",
-      "mtime": "1667404677",
-      "size": "130951",
-      "md5": "27aaf59f04296a96909c0802f7bcbaab",
-      "crc32": "81dac083",
-      "sha1": "577392c1187d74bcdc5f07eac3b30ec94951d678",
+      "btih": "b9520b28c2e44b8ec7f016cfa85f10155d9d7e7f",
+      "mtime": "1667494395",
+      "size": "133475",
+      "md5": "b069ebd011ebb415c787712b26cb8fc5",
+      "crc32": "e464fcaf",
+      "sha1": "4af9c4de82f58df1a7a7b1a9f9e93984a12663bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "adndotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c8adb5a196c763ad523e95f9255c8683",
+      "md5": "f1e709715a65791625033b4a49d08416",
       "summation": "md5"
     },
     {
       "name": "adndotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667404635",
-      "size": "794624",
-      "md5": "0be86c239f7a9066b84241adfd7ffc17",
-      "crc32": "2a62b6c1",
-      "sha1": "7d2babd058b56a68e2cfc3a773ee949bd7825723",
+      "mtime": "1667494381",
+      "size": "806912",
+      "md5": "455b1ca422e19c51735a86dbfb7d1b0d",
+      "crc32": "3185aa89",
+      "sha1": "3f658505caa0979ab288c87d36f55ffabd37c171",
       "format": "Metadata"
     },
     {
@@ -6357,9 +6486,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 615,
-  "item_last_updated": 1667404677,
-  "item_size": 51535719,
+  "files_count": 627,
+  "item_last_updated": 1667494395,
+  "item_size": 52540217,
   "metadata": {
     "identifier": "adndotcom-2022",
     "collection": [
@@ -6381,15 +6510,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459842811,
+      "task_id": 3460827198,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 945801253,
+  "uniq": 1029848432,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

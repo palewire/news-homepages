@@ -1,5 +1,5 @@
 {
-  "created": 1667404792,
+  "created": 1667501315,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/2/items/azcentral-2022",
@@ -14179,31 +14179,155 @@
       "format": "JSON"
     },
     {
+      "name": "azcentral-2022-11-02T08:58:28.118273-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "azcentral-2022-11-02T08:58:28.118273-07:00.jpg",
+      "mtime": "1667407872",
+      "size": "9471",
+      "md5": "80f186c853f6ccf07b73ab445c5d727f",
+      "crc32": "398f70f5",
+      "sha1": "d62754e3018e2886da1f5ee463731e5380b176ca"
+    },
+    {
+      "name": "azcentral-2022-11-02T21:53:34.373488-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667451226",
+      "size": "24283",
+      "md5": "f9c43352404009a32d51cb7f52cc3675",
+      "crc32": "8c8d86ef",
+      "sha1": "b34a3835b72cf7a84a1034f90a239b92d71e13a0",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-11-02T21:53:34.373488-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667451227",
+      "size": "47001",
+      "md5": "131f3f3c78847c4b188f895936a59348",
+      "crc32": "5cc94159",
+      "sha1": "e617a4483f027a07ae3f940791c414eafb0bd7df",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-11-02T21:53:34.373488-07:00.jpg",
+      "source": "original",
+      "mtime": "1667451224",
+      "size": "240982",
+      "md5": "3b3cfea7e276a66b0fdf63c425b3b0fe",
+      "crc32": "08e2c3ad",
+      "sha1": "875ae9db267850d0bdc07bf512e9690d1fa8b4ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "azcentral-2022-11-02T21:53:34.373488-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667451233",
+      "size": "1486",
+      "md5": "25e5a9c407bf2567fc14e8cd7f8df05f",
+      "crc32": "b9312022",
+      "sha1": "84223801ed58863a631d5643c350795122d2d5b8",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-11-02T21:53:34.373488-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667451235",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-11-02T21:53:34.373488-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "azcentral-2022-11-02T21:53:34.373488-07:00.jpg",
+      "mtime": "1667453723",
+      "size": "9313",
+      "md5": "b63e81c9fb7f9c953574112e2093052c",
+      "crc32": "94598426",
+      "sha1": "0aeb310f6e9caf6f74bfb7adab395602298eb80e"
+    },
+    {
+      "name": "azcentral-2022-11-03T09:38:02.549169-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667493514",
+      "size": "23014",
+      "md5": "f6dda7e9db5cfee90fdcd588d03842b8",
+      "crc32": "e96ce4cc",
+      "sha1": "f422779aad7e08143664d9d560d3f5aa332b5043",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-11-03T09:38:02.549169-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667493518",
+      "size": "42554",
+      "md5": "349cd5e87bef862fd9034a60f4b16169",
+      "crc32": "23d7ae5a",
+      "sha1": "dfa2f4c21266964e0b8cf3446eaa87ec57cb57e5",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-11-03T09:38:02.549169-07:00.jpg",
+      "source": "original",
+      "mtime": "1667493511",
+      "size": "286061",
+      "md5": "e441e721a12596f776679527bcfa0b68",
+      "crc32": "d636feed",
+      "sha1": "56f39368dbd006d43f7a2c3f596f3452c67878e4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "azcentral-2022-11-03T09:38:02.549169-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667493521",
+      "size": "1486",
+      "md5": "43635a4d12eb246efd5f8af11156b0fb",
+      "crc32": "ab8ae31b",
+      "sha1": "04fc439e491626c8f9a15f620c949ab5edd00722",
+      "format": "JSON"
+    },
+    {
+      "name": "azcentral-2022-11-03T09:38:02.549169-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667493523",
+      "size": "93748",
+      "md5": "3ce2d0f863d4c8dbb6f9d0a0baacad07",
+      "crc32": "eb3614f2",
+      "sha1": "5607c3171cb82587cf3fd101fbbae8c743d0a8a2",
+      "format": "JSON"
+    },
+    {
       "name": "azcentral-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c2c3aaf21a562fe25bb7d947cf7f41860d9af07b",
-      "mtime": "1667404789",
-      "size": "290567",
-      "md5": "4516ecc933087330f560f3460889bf1b",
-      "crc32": "3be9b4a7",
-      "sha1": "0cd91c275cb49902ef59f94bf8f32e3104f95896",
+      "btih": "bf5ed85c1769214014422e3fa46a8f965e93ee77",
+      "mtime": "1667493594",
+      "size": "293111",
+      "md5": "c4d1d43d567fb6f64134e60a86ba8fe9",
+      "crc32": "06fbd5d9",
+      "sha1": "257c03efb6d682cd6a953de177b1b61520d50e89",
       "format": "Archive BitTorrent"
     },
     {
       "name": "azcentral-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "972ce00d841f309076fab8060a7114d4",
+      "md5": "ae1b0708e1fcc76470b385cafd34a65b",
       "summation": "md5"
     },
     {
       "name": "azcentral-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667404736",
-      "size": "1724416",
-      "md5": "2859c97e729e8603e07a74e8ab5197a0",
-      "crc32": "90540edf",
-      "sha1": "3552ce813c8e21c93cdcba0191f79d68738ad09a",
+      "mtime": "1667493529",
+      "size": "1736704",
+      "md5": "6345149c936a875e890c8d83425780f8",
+      "crc32": "a507f768",
+      "sha1": "b2b5c1c73602def8f5ae7079cac2029b8ed1cdaa",
       "format": "Metadata"
     },
     {
@@ -14217,9 +14341,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1372,
-  "item_last_updated": 1667404789,
-  "item_size": 95533020,
+  "files_count": 1384,
+  "item_last_updated": 1667493594,
+  "item_size": 96327453,
   "metadata": {
     "identifier": "azcentral-2022",
     "collection": [
@@ -14241,7 +14365,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3459844228,
+      "task_id": 3460817988,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14249,7 +14373,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 901936700,
+  "uniq": 2079391050,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]
