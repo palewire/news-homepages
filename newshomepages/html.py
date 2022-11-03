@@ -54,7 +54,7 @@ def _save_html(
         )
         single_file_pre_load_extensions = [
             "single-file-bootstrap.js",
-             "single-file-hooks-frames.js",
+            "single-file-hooks-frames.js",
             "single-file-frames.js",
         ]
         for f in single_file_pre_load_extensions:
