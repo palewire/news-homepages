@@ -1,5 +1,5 @@
 {
-  "created": 1667433227,
+  "created": 1667476538,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/12/items/flphoenixnews-2022",
@@ -16495,31 +16495,93 @@
       "format": "JSON"
     },
     {
+      "name": "flphoenixnews-2022-11-02T19:52:08.309703-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "flphoenixnews-2022-11-02T19:52:08.309703-04:00.jpg",
+      "mtime": "1667434726",
+      "size": "10260",
+      "md5": "98936c485d9a3154f936ba0f98eeb87f",
+      "crc32": "0b6ef518",
+      "sha1": "5b93fbd663aa49e74cd2c5365dbaf734a533763e"
+    },
+    {
+      "name": "flphoenixnews-2022-11-03T07:53:56.509908-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667476448",
+      "size": "15789",
+      "md5": "21f7666cf8854c2d33d2713ded877f1a",
+      "crc32": "b2c218b3",
+      "sha1": "e1cc160a411378bdc6521ecd66f21ed68ed57030",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-11-03T07:53:56.509908-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667476450",
+      "size": "13915",
+      "md5": "5ff6339bb58d96b036b4b9551c83e473",
+      "crc32": "7939b6ec",
+      "sha1": "e27b18f7f13d3ac92b8bd5073628176092b427e2",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-11-03T07:53:56.509908-04:00.jpg",
+      "source": "original",
+      "mtime": "1667476446",
+      "size": "326121",
+      "md5": "f5eaccf49d50cdd5a41aeac90a674420",
+      "crc32": "5e2780ab",
+      "sha1": "92e9ebf24367057e00424d5f8f1f81c8dbf5a716",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "flphoenixnews-2022-11-03T07:53:56.509908-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667476452",
+      "size": "1493",
+      "md5": "aed7e43f37585dfbbeedb5047f80f788",
+      "crc32": "6961cab8",
+      "sha1": "0f900b26a69058885a1a9452865fdc675a4a030f",
+      "format": "JSON"
+    },
+    {
+      "name": "flphoenixnews-2022-11-03T07:53:56.509908-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667476454",
+      "size": "10297",
+      "md5": "087254f91bdc32f2822424b5abe5c5b3",
+      "crc32": "53914fdf",
+      "sha1": "6e8469ca3bc53641777a8bb96fa38445a15b3ca2",
+      "format": "JSON"
+    },
+    {
       "name": "flphoenixnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "38a4b8a4ba857cc623d6b81780ece1c1c3cb86c3",
-      "mtime": "1667433217",
-      "size": "343833",
-      "md5": "1a33c73285f08247313f666a683325fe",
-      "crc32": "e682b2aa",
-      "sha1": "0675635f473c3796712aa6b62f4bd461c4440624",
+      "btih": "8298409badd5da363196bf3e3443bdea355de542",
+      "mtime": "1667476524",
+      "size": "345131",
+      "md5": "c2cc09aff8f19cd563ab40faed4dcc5c",
+      "crc32": "f2424de8",
+      "sha1": "fe35bdf43b9d4af4f9bb26d405009a3ab84c415c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "flphoenixnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a51a160566a4ba02884e5edf96f9d1d5",
+      "md5": "2f7207bbb069ee15609968d065e0b932",
       "summation": "md5"
     },
     {
       "name": "flphoenixnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667433149",
-      "size": "1990656",
-      "md5": "71f7a0cee8314e223b2de8adb1313c7f",
-      "crc32": "4af064c5",
-      "sha1": "dc4a6a473706b51d1c3a520b72ea8ea7dc873018",
+      "mtime": "1667476460",
+      "size": "1998848",
+      "md5": "cd8fa3f8469eefe77299f2c5b03f0a8b",
+      "crc32": "ca2afdf3",
+      "sha1": "64f7a3b244696ba55dfabe3798cdb9589678f3d4",
       "format": "Metadata"
     },
     {
@@ -16533,9 +16595,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1593,
-  "item_last_updated": 1667433217,
-  "item_size": 112777478,
+  "files_count": 1599,
+  "item_last_updated": 1667476524,
+  "item_size": 113164843,
   "metadata": {
     "identifier": "flphoenixnews-2022",
     "collection": [
@@ -16557,7 +16619,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460152209,
+      "task_id": 3460634146,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -16565,7 +16627,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 321877720,
+  "uniq": 1078777749,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

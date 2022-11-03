@@ -1,5 +1,5 @@
 {
-  "created": 1667433351,
+  "created": 1667476703,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/4/items/green_footballs-2022",
@@ -9845,31 +9845,93 @@
       "format": "JSON"
     },
     {
+      "name": "green_footballs-2022-11-02T16:54:36.630946-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "green_footballs-2022-11-02T16:54:36.630946-07:00.jpg",
+      "mtime": "1667434860",
+      "size": "10313",
+      "md5": "8cc2be7f61756f9a2d17039dc19b321e",
+      "crc32": "0d401c34",
+      "sha1": "95b00800ae133078463b266fecd546362699a518"
+    },
+    {
+      "name": "green_footballs-2022-11-03T04:57:16.947537-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667476647",
+      "size": "38988",
+      "md5": "784117dccde837873234b2deb330a88e",
+      "crc32": "a504e9ff",
+      "sha1": "c37c749bc70941026951cc1fa795476efa40647c",
+      "format": "JSON"
+    },
+    {
+      "name": "green_footballs-2022-11-03T04:57:16.947537-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667476648",
+      "size": "54313",
+      "md5": "22830261f9b9673a48a1ae60e00ec535",
+      "crc32": "80320987",
+      "sha1": "c61f4c8841123b9482a39c1a3c288f8340923592",
+      "format": "JSON"
+    },
+    {
+      "name": "green_footballs-2022-11-03T04:57:16.947537-07:00.jpg",
+      "source": "original",
+      "mtime": "1667476644",
+      "size": "293790",
+      "md5": "63796415f17199e8002fdcc2c3fe8212",
+      "crc32": "966d2839",
+      "sha1": "d9e738af297fca0f7ba03ac3cf8815e40406698a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "green_footballs-2022-11-03T04:57:16.947537-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667476650",
+      "size": "1547",
+      "md5": "74e30221f1ef57e3460e7f772e6a7273",
+      "crc32": "8aa91eab",
+      "sha1": "3a4e5decd78b24e7d78a2a2432d0c16101a0a0a7",
+      "format": "JSON"
+    },
+    {
+      "name": "green_footballs-2022-11-03T04:57:16.947537-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667476651",
+      "size": "19843",
+      "md5": "564f468773c730e6c7fec03d3fc6778d",
+      "crc32": "e4107480",
+      "sha1": "f238fcd2e0f7d2e37536a520d2329ed6ec2d0b48",
+      "format": "JSON"
+    },
+    {
       "name": "green_footballs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "04efbecdd4553737b95b43fbaf7ddf89ece6723d",
-      "mtime": "1667433345",
-      "size": "208653",
-      "md5": "e8b56195b36be8ffe7d1061b68e4993f",
-      "crc32": "d7f5628e",
-      "sha1": "ddb56da80f29d6f3558205e9a8abae776c2e2dda",
+      "btih": "380df498ac8cbefc94fdc219eaa56fc51b9c8e96",
+      "mtime": "1667476698",
+      "size": "209943",
+      "md5": "ab9860248814fc0153c224b23a615672",
+      "crc32": "200194cf",
+      "sha1": "94ae88a5c108d3fffabce51862bf1dca514a5222",
       "format": "Archive BitTorrent"
     },
     {
       "name": "green_footballs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dd10f564eba147a776493266b584103f",
+      "md5": "0ca3dafe92cdcded2ffa5731f412c0c4",
       "summation": "md5"
     },
     {
       "name": "green_footballs-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667433302",
-      "size": "1232896",
-      "md5": "f1b3127492f9c373ef58f3a4bdfd1b0e",
-      "crc32": "2ffea975",
-      "sha1": "fea8f9d4a93ffb75fc09db97fcdbfea6533391d6",
+      "mtime": "1667476656",
+      "size": "1241088",
+      "md5": "37daa795ac7961760359e1fccd8c88dc",
+      "crc32": "bf166870",
+      "sha1": "696a43d3e6c714aee36ef7adcca377879a4b0db8",
       "format": "Metadata"
     },
     {
@@ -9883,9 +9945,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 956,
-  "item_last_updated": 1667433345,
-  "item_size": 70489372,
+  "files_count": 962,
+  "item_last_updated": 1667476698,
+  "item_size": 70917648,
   "metadata": {
     "identifier": "green_footballs-2022",
     "collection": [
@@ -9907,7 +9969,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460153409,
+      "task_id": 3460636155,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -9915,7 +9977,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1669791214,
+  "uniq": 1245523767,
   "workable_servers": [
     "ia902502.us.archive.org"
   ]
