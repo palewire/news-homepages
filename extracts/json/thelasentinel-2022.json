@@ -1,5 +1,5 @@
 {
-  "created": 1667459404,
+  "created": 1667551869,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/7/items/thelasentinel-2022",
@@ -28321,31 +28321,155 @@
       "format": "JSON"
     },
     {
+      "name": "thelasentinel-2022-11-03T00:07:49.860844-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-11-03T00:07:49.860844-07:00.jpg",
+      "mtime": "1667464189",
+      "size": "11354",
+      "md5": "41581f1814d53b729644b3c10dffa2f1",
+      "crc32": "437c5e1b",
+      "sha1": "9cdc2343a2754d51ae103b819e0c26928f1f89b3"
+    },
+    {
+      "name": "thelasentinel-2022-11-03T14:00:04.364573-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667509240",
+      "size": "44848",
+      "md5": "9caf9ff711f2ca6444d51c29f0178511",
+      "crc32": "0d7c6510",
+      "sha1": "e7ad199b3f03ca4081df4e6d5f431acf77b0cfcf",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-11-03T14:00:04.364573-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667509243",
+      "size": "55026",
+      "md5": "a3e10afc567bc8b2e79bb12e33752bec",
+      "crc32": "22499a18",
+      "sha1": "f5206341743a1d385362110329b24c447d6286a8",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-11-03T14:00:04.364573-07:00.jpg",
+      "source": "original",
+      "mtime": "1667509238",
+      "size": "312062",
+      "md5": "905c66bfc724bf353470706075c5d4c0",
+      "crc32": "a9526dab",
+      "sha1": "d2e5bb435249fb68f4bc756e493bfcf765f714de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-11-03T14:00:04.364573-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667509244",
+      "size": "1459",
+      "md5": "d54f4a845a4cde39558346977c6441a8",
+      "crc32": "1199725e",
+      "sha1": "5f7283f1b5e5d5bd1ef5c8eadf5098692dbab85b",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-11-03T14:00:04.364573-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667509251",
+      "size": "30591",
+      "md5": "02f7570d6e68a87c6c77561886b98469",
+      "crc32": "3388fed6",
+      "sha1": "5f8229fc18876718c80ad90a853e71bd85c092d9",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-11-03T14:00:04.364573-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelasentinel-2022-11-03T14:00:04.364573-07:00.jpg",
+      "mtime": "1667521726",
+      "size": "11230",
+      "md5": "a2308b5aefa1a9fd6cc94d50cd915948",
+      "crc32": "db8e172a",
+      "sha1": "b235a3bcf7f89969c581c8e326e5c3b7e0083b9e"
+    },
+    {
+      "name": "thelasentinel-2022-11-04T01:48:08.365556-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667551737",
+      "size": "44951",
+      "md5": "c720067be657b3cca3e71c0cad8a117b",
+      "crc32": "8524acbc",
+      "sha1": "56652bf24f02972a979e362c1156b6d9a1f26202",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-11-04T01:48:08.365556-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667551739",
+      "size": "55801",
+      "md5": "6a7803ffbd17daf12ee3ae7d97305d70",
+      "crc32": "7c8d8225",
+      "sha1": "15d24b46dcad56f229bcbb8278bb7f5de0255407",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-11-04T01:48:08.365556-07:00.jpg",
+      "source": "original",
+      "mtime": "1667551733",
+      "size": "281377",
+      "md5": "c86b6e4400ebed722980746f2c6651cb",
+      "crc32": "27a630fc",
+      "sha1": "e90a829664e2b20200643108c8b810935e3fc701",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thelasentinel-2022-11-04T01:48:08.365556-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667551742",
+      "size": "1458",
+      "md5": "17aea29858b73e90faa2ac9ff403fd84",
+      "crc32": "f8fa86c6",
+      "sha1": "f7a4ae4abb2ce2ac09eed7e6afa151697e527651",
+      "format": "JSON"
+    },
+    {
+      "name": "thelasentinel-2022-11-04T01:48:08.365556-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667551744",
+      "size": "29157",
+      "md5": "3b803cabee3a8c8322afa83513a96aa3",
+      "crc32": "12210e0b",
+      "sha1": "8984e6cb93cb237ffc0591ff37abf22f03ff6aab",
+      "format": "JSON"
+    },
+    {
       "name": "thelasentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f0991fad8bbd98a0e4896ce523076200334cbaa",
-      "mtime": "1667459399",
-      "size": "589807",
-      "md5": "fa1e3caf67da3b17f9b318add9894162",
-      "crc32": "73bbd561",
-      "sha1": "cac517c4c930b609e3b8464cfaf2ecddff97b475",
+      "btih": "122d8d26afca62e7a555c833aac7d4496e78e654",
+      "mtime": "1667551856",
+      "size": "592383",
+      "md5": "06fae9d6b6148f817306bdb554cd1172",
+      "crc32": "f9ddf900",
+      "sha1": "3f8ac65b7d11b58d054e422c69af3a5a244577c2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelasentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "40b26868438be357be13755dc26e5170",
+      "md5": "3eaf44822c5856f3239acd9d0555c430",
       "summation": "md5"
     },
     {
       "name": "thelasentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667459309",
-      "size": "3334144",
-      "md5": "f8ec840d78c4460a0d7fda1690a72d52",
-      "crc32": "940d01c7",
-      "sha1": "f5a642167ac16d015df674eae75502e7b793d4fa",
+      "mtime": "1667551751",
+      "size": "3354624",
+      "md5": "ba8a1e8df3ffa235622b437c50657980",
+      "crc32": "c25f5e25",
+      "sha1": "8717b3ae39b65b8721df48ea30d1b36b23da6f60",
       "format": "Metadata"
     },
     {
@@ -28359,9 +28483,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2725,
-  "item_last_updated": 1667459399,
-  "item_size": 252813685,
+  "files_count": 2737,
+  "item_last_updated": 1667551856,
+  "item_size": 253716055,
   "metadata": {
     "identifier": "thelasentinel-2022",
     "collection": [
@@ -28383,7 +28507,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460442160,
+      "task_id": 3461471625,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -28391,7 +28515,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1815719551,
+  "uniq": 1910892663,
   "workable_servers": [
     "ia601403.us.archive.org"
   ]
