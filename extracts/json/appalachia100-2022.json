@@ -1,5 +1,5 @@
 {
-  "created": 1667520410,
+  "created": 1667564852,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/appalachia100-2022",
@@ -13903,31 +13903,93 @@
       "format": "JSON"
     },
     {
+      "name": "appalachia100-2022-11-03T20:05:36.278547-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-11-03T20:05:36.278547-04:00.jpg",
+      "mtime": "1667528134",
+      "size": "9804",
+      "md5": "b9a36fa0913d15b89008dd48500bade9",
+      "crc32": "84c6ea10",
+      "sha1": "d3890b7fb053f41c0ccd0518ffa161f6f07e2867"
+    },
+    {
+      "name": "appalachia100-2022-11-04T08:25:58.946318-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667564784",
+      "size": "1102",
+      "md5": "59384f1b54230caa4652b5c368df4a59",
+      "crc32": "816a3cdb",
+      "sha1": "04ae8234938131a14acf8f1d3f69b344b314ed6a",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-11-04T08:25:58.946318-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667564785",
+      "size": "40027",
+      "md5": "cdf74756ad451d755f4ccdfe6df3442c",
+      "crc32": "35454b02",
+      "sha1": "6263412483f4e70e2f5a9f2bf8a3173bccea37f9",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-11-04T08:25:58.946318-04:00.jpg",
+      "source": "original",
+      "mtime": "1667564782",
+      "size": "248451",
+      "md5": "afca5ecf2f9664c1c136f49b79db0648",
+      "crc32": "5fb156cb",
+      "sha1": "48316099a0f33ef82d79af3c630e9ae3cfb17616",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "appalachia100-2022-11-04T08:25:58.946318-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667564788",
+      "size": "1576",
+      "md5": "9a0cda0926bc7b771532a434d0823129",
+      "crc32": "2a594edd",
+      "sha1": "78e77928f5057dc76c3ff70fb0f13b1e00108b08",
+      "format": "JSON"
+    },
+    {
+      "name": "appalachia100-2022-11-04T08:25:58.946318-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667564789",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "appalachia100-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6c66db48b05dd23ddc8fbde9ce3ff2e745455126",
-      "mtime": "1667520407",
-      "size": "289802",
-      "md5": "dddae328cf7472c0fb13150d747589c6",
-      "crc32": "7845d7ee",
-      "sha1": "7d85ebe5cb43ab9cb0b854a3a214a17663621752",
+      "btih": "feb2368e59d16c80d269b457a27b25c937b5bdf1",
+      "mtime": "1667564846",
+      "size": "291076",
+      "md5": "bb9a415ee53525308aa25fa4156ad09e",
+      "crc32": "cdb18b26",
+      "sha1": "5c5f30dcbddbb4aaad13e54bf1482eaf4dfeba1f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "appalachia100-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a982de18c036f512275837c8c856b188",
+      "md5": "f8fd55a29f385ba7331875bf8140ad1c",
       "summation": "md5"
     },
     {
       "name": "appalachia100-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667520355",
-      "size": "1708032",
-      "md5": "2877857a50be760f294e233af0f47659",
-      "crc32": "c703dee0",
-      "sha1": "c937d26c01f696a6d21f8eec2a7fd5559c366d4a",
+      "mtime": "1667564792",
+      "size": "1716224",
+      "md5": "21c6f987dff5b51c10299536dacabcb6",
+      "crc32": "d813b4e9",
+      "sha1": "49ae164d2458d5ef4d82fea1f8755a2f66d515f2",
       "format": "Metadata"
     },
     {
@@ -13941,9 +14003,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1346,
-  "item_last_updated": 1667520407,
-  "item_size": 83651621,
+  "files_count": 1352,
+  "item_last_updated": 1667564846,
+  "item_size": 83962249,
   "metadata": {
     "identifier": "appalachia100-2022",
     "collection": [
@@ -13965,7 +14027,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461114948,
+      "task_id": 3461635556,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13973,7 +14035,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 192941439,
+  "uniq": 1310507351,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

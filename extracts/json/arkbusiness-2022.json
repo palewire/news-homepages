@@ -1,5 +1,5 @@
 {
-  "created": 1667520370,
+  "created": 1667564834,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/10/items/arkbusiness-2022",
@@ -6557,31 +6557,93 @@
       "format": "JSON"
     },
     {
+      "name": "arkbusiness-2022-11-03T19:05:00.835339-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-11-03T19:05:00.835339-05:00.jpg",
+      "mtime": "1667528040",
+      "size": "9912",
+      "md5": "3bdb7098b06942c231037eedc0545368",
+      "crc32": "bf62dd37",
+      "sha1": "4199e5f35b5d256b21139d87d4abace9e0e072f5"
+    },
+    {
+      "name": "arkbusiness-2022-11-04T07:26:07.870676-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667564774",
+      "size": "41188",
+      "md5": "9cbd95570661af4acfc93e352db43a42",
+      "crc32": "f108e3b4",
+      "sha1": "1ac4c0b7fbd3547d61555bfaed76a0006ab0adfe",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-11-04T07:26:07.870676-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667564776",
+      "size": "35804",
+      "md5": "45b2a523fc8a0d90ce16c7ea560b0c81",
+      "crc32": "9f4245c7",
+      "sha1": "bbfcbd80f0c1901b381eb7417ecb3c6beffed6bf",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-11-04T07:26:07.870676-05:00.jpg",
+      "source": "original",
+      "mtime": "1667564772",
+      "size": "331316",
+      "md5": "00ab6a64101d42969e3b7ec74f140947",
+      "crc32": "f4bc6698",
+      "sha1": "4c9521e8304b33ecf5bb3f735b25f1aac791b028",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "arkbusiness-2022-11-04T07:26:07.870676-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667564778",
+      "size": "1549",
+      "md5": "7a7bf4af58e2305e135f50036734a090",
+      "crc32": "779105d3",
+      "sha1": "29b370d15392769d7de3984fcfa983249f223bbe",
+      "format": "JSON"
+    },
+    {
+      "name": "arkbusiness-2022-11-04T07:26:07.870676-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667564780",
+      "size": "20034",
+      "md5": "54cbe403070aeb487fc07991537c17e2",
+      "crc32": "4a074358",
+      "sha1": "a628a3205368f76e099c7ec52a5a7bee371b005a",
+      "format": "JSON"
+    },
+    {
       "name": "arkbusiness-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1008c407003c7d47cbf14a19faa822e6b99f2e02",
-      "mtime": "1667520363",
-      "size": "136771",
-      "md5": "2eed1ca8ea73f2cc9ccc662e74a8ed1d",
-      "crc32": "0f3bc094",
-      "sha1": "f93ce3e203bb2556ce2fbf9e79a1d30f97b3fc46",
+      "btih": "c7af9ca35a6af6c008442f916bd27c53bc874a8a",
+      "mtime": "1667564825",
+      "size": "138036",
+      "md5": "a9ccb24456d4f85dfd10b857324a6351",
+      "crc32": "80f4b5d9",
+      "sha1": "e81dc84481123f2bca7e4d359a7e505604e501b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arkbusiness-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "31adaea7d7fc2ecb633cfa0f2ac36960",
+      "md5": "53121417e2f05c8d8c310d97ba64bd21",
       "summation": "md5"
     },
     {
       "name": "arkbusiness-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667520322",
-      "size": "827392",
-      "md5": "e2fb75e5cee0bd94302dd0a706f687cd",
-      "crc32": "7850dc65",
-      "sha1": "3725baa751c3b9e51caeacde3a0f46c5dfc46e4a",
+      "mtime": "1667564784",
+      "size": "835584",
+      "md5": "22197d737035e8d95b8536b56f391bef",
+      "crc32": "872a1d3b",
+      "sha1": "ad4a2aa05b30de79eca393a0c7aaddd932842c2e",
       "format": "Metadata"
     },
     {
@@ -6595,9 +6657,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 638,
-  "item_last_updated": 1667520363,
-  "item_size": 45299595,
+  "files_count": 644,
+  "item_last_updated": 1667564825,
+  "item_size": 45748855,
   "metadata": {
     "identifier": "arkbusiness-2022",
     "collection": [
@@ -6619,7 +6681,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461114360,
+      "task_id": 3461635397,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -6627,7 +6689,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1394440952,
+  "uniq": 2092462621,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

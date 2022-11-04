@@ -1,5 +1,5 @@
 {
-  "created": 1667520436,
+  "created": 1667564885,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/35/items/berkeleyside-2022",
@@ -21671,31 +21671,93 @@
       "format": "JSON"
     },
     {
+      "name": "berkeleyside-2022-11-03T17:05:34.766552-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-11-03T17:05:34.766552-07:00.jpg",
+      "mtime": "1667528132",
+      "size": "9946",
+      "md5": "2c1d08cf22c81182567fbd473983beec",
+      "crc32": "9312b233",
+      "sha1": "6140de25e455c2c03bb4c808f6e214840ac0e481"
+    },
+    {
+      "name": "berkeleyside-2022-11-04T05:26:19.191002-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667564792",
+      "size": "33541",
+      "md5": "b02b3fbc8ea44f41878a8c5ab392cbc4",
+      "crc32": "b00e5fdf",
+      "sha1": "3837a2ae483aa0ab2c11136a3a22f5b3dd864a9c",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-11-04T05:26:19.191002-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667564794",
+      "size": "29963",
+      "md5": "fd147461fd5b20794e656b0a6094f011",
+      "crc32": "80b51d7c",
+      "sha1": "e908f2dc38fbe055419ad14d8f0441a326290d78",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-11-04T05:26:19.191002-07:00.jpg",
+      "source": "original",
+      "mtime": "1667564790",
+      "size": "283043",
+      "md5": "0b08d8559f57f4e45c84d007f63115c6",
+      "crc32": "5be7601d",
+      "sha1": "bee8ee42857dd4e01a401dbe15a2f15ca560227f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-11-04T05:26:19.191002-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667564796",
+      "size": "1513",
+      "md5": "770ef739e3e99594dd522663a840e1b5",
+      "crc32": "edf01fae",
+      "sha1": "2144707f85f67aa23d88a271a7fef4679240dc12",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-11-04T05:26:19.191002-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667564799",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "berkeleyside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "754284d1b8378914a6ada8ad062ee94dffeb266f",
-      "mtime": "1667520430",
-      "size": "448823",
-      "md5": "1f00ec04ac1c4dea9a8e0464072f5a88",
-      "crc32": "1b3be68d",
-      "sha1": "f536e71082e0a6fc4ca7ca3ae4ad303620581767",
+      "btih": "a4b01316f8fa01b99958bacfc23f16b5f45ab099",
+      "mtime": "1667564876",
+      "size": "450092",
+      "md5": "341a546731aaa097e8be061fa2406e49",
+      "crc32": "d803f65b",
+      "sha1": "dc01d16b8a168e683b2d80b2cc66388fbcc582df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkeleyside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1ec0a3007d1e424072e679e580441398",
+      "md5": "75b9298003d5fa8a8cf5dd141af03070",
       "summation": "md5"
     },
     {
       "name": "berkeleyside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667520360",
-      "size": "2543616",
-      "md5": "16f3dc4a32f3a7fcdd87000fb9660e91",
-      "crc32": "5d38c03a",
-      "sha1": "84cd93c3a5c9e8f6d80a9f08bc505cf468ce41c0",
+      "mtime": "1667564802",
+      "size": "2560000",
+      "md5": "2a3e4fe62daae5ff978ed47ceab0aaaf",
+      "crc32": "be5c3430",
+      "sha1": "1da785a7d40fc289e8a378f4628754b1d5eef045",
       "format": "Metadata"
     },
     {
@@ -21709,9 +21771,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2085,
-  "item_last_updated": 1667520430,
-  "item_size": 184534219,
+  "files_count": 2091,
+  "item_last_updated": 1667564876,
+  "item_size": 184910080,
   "metadata": {
     "identifier": "berkeleyside-2022",
     "collection": [
@@ -21734,7 +21796,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461115278,
+      "task_id": 3461635800,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -21742,7 +21804,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1674271173,
+  "uniq": 1791920115,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]
