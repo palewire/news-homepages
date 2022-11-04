@@ -1,5 +1,5 @@
 {
-  "created": 1667488450,
+  "created": 1667529774,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/29/items/phillytrib-2022",
@@ -14483,31 +14483,93 @@
       "format": "JSON"
     },
     {
+      "name": "phillytrib-2022-11-03T11:12:25.695352-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "phillytrib-2022-11-03T11:12:25.695352-04:00.jpg",
+      "mtime": "1667503916",
+      "size": "10766",
+      "md5": "e32575b54edf0fd22cbe15b70f076a16",
+      "crc32": "5d51f9c0",
+      "sha1": "abb3a0da4793f3e454444002c3b3c6d95d6b717e"
+    },
+    {
+      "name": "phillytrib-2022-11-03T22:41:36.547104-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667529706",
+      "size": "26565",
+      "md5": "973ec654ce0b1934450c7a3726324981",
+      "crc32": "77243805",
+      "sha1": "d7de1512a835d922345e19ca0e9bab5acbfa1c60",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-11-03T22:41:36.547104-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667529708",
+      "size": "52911",
+      "md5": "1f4def33a39d0f27d10240da47d8c2ec",
+      "crc32": "b08f202a",
+      "sha1": "16ebb4a175c8fa982ac9d8fc79d8568d22d925ed",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-11-03T22:41:36.547104-04:00.jpg",
+      "source": "original",
+      "mtime": "1667529704",
+      "size": "47773",
+      "md5": "37c8e486192fc46dfc8974b9eb69318c",
+      "crc32": "f3c116c3",
+      "sha1": "0e109b6a64d3f482c88d7512280c9325ed826ab1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "phillytrib-2022-11-03T22:41:36.547104-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667529710",
+      "size": "1495",
+      "md5": "698214219408945ce3a3bbbb3f18876f",
+      "crc32": "562983d7",
+      "sha1": "cd7f1b9615bb4b27520ea3f4bd191b50c7da761a",
+      "format": "JSON"
+    },
+    {
+      "name": "phillytrib-2022-11-03T22:41:36.547104-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667529712",
+      "size": "47847",
+      "md5": "53cfc4799f28fafeb8cd4ad402b07e3b",
+      "crc32": "d61f5785",
+      "sha1": "1aae6f373172a857c9f7ead16c30a0eb64b86e08",
+      "format": "JSON"
+    },
+    {
       "name": "phillytrib-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d45754f9b8d76673feddae8b9a4767b4c5fb4679",
-      "mtime": "1667488445",
-      "size": "299045",
-      "md5": "33359a5c068f4c682c9faa2d9f27c100",
-      "crc32": "77a02e5d",
-      "sha1": "3d18eed2921cd3fd747b0c9df090d439444a5ffc",
+      "btih": "d43f1e65a650c2a6cf7931c0b66d3db66fcfffdf",
+      "mtime": "1667529767",
+      "size": "300304",
+      "md5": "daf1064e8f63e23588ad264501eb68d0",
+      "crc32": "5733571e",
+      "sha1": "507037bb405fb597e7f254090c4d60e12b18bc8b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "phillytrib-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d4cc93ff7980766b8475df29002a0a6e",
+      "md5": "1b641acb21d0de556ebd99810af4a960",
       "summation": "md5"
     },
     {
       "name": "phillytrib-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667488390",
-      "size": "1757184",
-      "md5": "42af2b5189f90cb4b8a7b967d8bf5d8b",
-      "crc32": "a5a5a3cc",
-      "sha1": "a70b76d7125d1d9d77c62380aba417314c9dea92",
+      "mtime": "1667529715",
+      "size": "1769472",
+      "md5": "930d6219631b5428bfa404e707769ce3",
+      "crc32": "ab5503c8",
+      "sha1": "752e8c097edb12a182cec8968e71eb407a4c5c75",
       "format": "Metadata"
     },
     {
@@ -14521,9 +14583,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1401,
-  "item_last_updated": 1667488445,
-  "item_size": 116762863,
+  "files_count": 1407,
+  "item_last_updated": 1667529767,
+  "item_size": 116963767,
   "metadata": {
     "identifier": "phillytrib-2022",
     "collection": [
@@ -14545,7 +14607,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460760450,
+      "task_id": 3461230025,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14553,7 +14615,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 495172548,
+  "uniq": 1341726721,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

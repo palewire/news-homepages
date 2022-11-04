@@ -1,5 +1,5 @@
 {
-  "created": 1667488645,
+  "created": 1667529942,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/31/items/salem_statesman-2022",
@@ -5461,31 +5461,93 @@
       "format": "JSON"
     },
     {
+      "name": "salem_statesman-2022-11-03T08:16:11.561238-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salem_statesman-2022-11-03T08:16:11.561238-07:00.jpg",
+      "mtime": "1667504438",
+      "size": "9437",
+      "md5": "c6f1994fc09fea2f82fd3cb9ac511c5f",
+      "crc32": "030d5559",
+      "sha1": "9fae77a1586be8eafc8446ee4ce0c37b0550104f"
+    },
+    {
+      "name": "salem_statesman-2022-11-03T19:44:32.351128-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667529875",
+      "size": "21285",
+      "md5": "a3b8f9119e2ced25186815113539ca46",
+      "crc32": "8de8fa7d",
+      "sha1": "0cc0ac23299e568eb90c4e2bcb3c4cfc54ba9239",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-11-03T19:44:32.351128-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667529877",
+      "size": "40675",
+      "md5": "c9c7dcbdc990696d421dca18bf0eebbc",
+      "crc32": "c90ab727",
+      "sha1": "b50a0f870ae240d3671ba18390e908a4e20d5e12",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-11-03T19:44:32.351128-07:00.jpg",
+      "source": "original",
+      "mtime": "1667529873",
+      "size": "264838",
+      "md5": "1b07596eaddc91ccfa67e1648a309e5a",
+      "crc32": "db062b7a",
+      "sha1": "4333b760599a57b092922d0303baad801f16b25b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salem_statesman-2022-11-03T19:44:32.351128-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667529879",
+      "size": "1549",
+      "md5": "813430bb2d9c1bea7780021775e270c5",
+      "crc32": "419337e8",
+      "sha1": "3823ec9683e56f1f51418d386c0b264308a864e6",
+      "format": "JSON"
+    },
+    {
+      "name": "salem_statesman-2022-11-03T19:44:32.351128-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667529881",
+      "size": "100878",
+      "md5": "4c01570b7debcb3e6f70e7fcb42e1b1e",
+      "crc32": "7731b1d8",
+      "sha1": "59056556d4b7cdb8518e95b4892ec14d91d63e64",
+      "format": "JSON"
+    },
+    {
       "name": "salem_statesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a51f27bf545d417c65b34bfe4c5aa347d91c041d",
-      "mtime": "1667488640",
-      "size": "116164",
-      "md5": "35019ac3963c81050af55f5392c04902",
-      "crc32": "34fe9914",
-      "sha1": "d7d294a34f9bea217b4821e1977569fc07e1bb2f",
+      "btih": "86fb94b9d0a600282068163d6ad8b1168fff4791",
+      "mtime": "1667529936",
+      "size": "117454",
+      "md5": "c787b6437c863c481fbf3e83a359fc0b",
+      "crc32": "f1bfafc8",
+      "sha1": "e43415157c170476877d63338cf203df1f72d117",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salem_statesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f765f28db85790bc26f0eb897310e92",
+      "md5": "862a7255b485cd0cb40a58235661dfd0",
       "summation": "md5"
     },
     {
       "name": "salem_statesman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667488596",
-      "size": "700416",
-      "md5": "5793468572ccd70bf8f3feb097f46a8e",
-      "crc32": "6d2e4187",
-      "sha1": "fdbf11c09f57d5d4d2ff6515359530de6821495a",
+      "mtime": "1667529888",
+      "size": "708608",
+      "md5": "fddba78d0d1cca3d0f748bb901a399df",
+      "crc32": "6e1990c7",
+      "sha1": "dfa64a2396a9f964d87975d0f7f9de1628cd4fb4",
       "format": "Metadata"
     },
     {
@@ -5499,9 +5561,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 532,
-  "item_last_updated": 1667488640,
-  "item_size": 34204336,
+  "files_count": 538,
+  "item_last_updated": 1667529936,
+  "item_size": 34652480,
   "metadata": {
     "identifier": "salem_statesman-2022",
     "collection": [
@@ -5523,7 +5585,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460762372,
+      "task_id": 3461232080,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5531,7 +5593,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 478211250,
+  "uniq": 849214188,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]
