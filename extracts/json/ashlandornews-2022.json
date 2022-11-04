@@ -1,5 +1,5 @@
 {
-  "created": 1667472569,
+  "created": 1667520417,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/1/items/ashlandornews-2022",
@@ -13839,31 +13839,93 @@
       "format": "JSON"
     },
     {
+      "name": "ashlandornews-2022-11-03T03:48:07.682990-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ashlandornews-2022-11-03T03:48:07.682990-07:00.jpg",
+      "mtime": "1667484377",
+      "size": "9450",
+      "md5": "f60a71796f0b5bb18d4c32689ac382dc",
+      "crc32": "a3b8a4eb",
+      "sha1": "aaf3be3e020ce6da0235808fad91fbecb15a4b53"
+    },
+    {
+      "name": "ashlandornews-2022-11-03T17:05:33.597472-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667520349",
+      "size": "22984",
+      "md5": "44ecd3891a8038ca8af7d2070edfa9c9",
+      "crc32": "d77cb082",
+      "sha1": "35ab56d9e5d5624ad7b5ab3c729d6418c57fbe82",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-11-03T17:05:33.597472-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667520351",
+      "size": "20912",
+      "md5": "5f00fe830487ce3042086dddeb879f86",
+      "crc32": "2e56d794",
+      "sha1": "7cb3f4dbbada916a3323ae957cea52540b7b9197",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-11-03T17:05:33.597472-07:00.jpg",
+      "source": "original",
+      "mtime": "1667520347",
+      "size": "331988",
+      "md5": "e48e6f023fe64b2993f9887b3730d347",
+      "crc32": "5eb9a7c6",
+      "sha1": "00fa255f966c8875099b513797e9603d24ba43ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ashlandornews-2022-11-03T17:05:33.597472-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667520353",
+      "size": "1432",
+      "md5": "93b6654ec40f7cafc12820f683037c53",
+      "crc32": "09f891c9",
+      "sha1": "a226f01ceec2d6220932fbc7684d628f4445874a",
+      "format": "JSON"
+    },
+    {
+      "name": "ashlandornews-2022-11-03T17:05:33.597472-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667520355",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "ashlandornews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "30267b98c7d65246abdd3a5f213b82b41fc0fd05",
-      "mtime": "1667472563",
-      "size": "289527",
-      "md5": "e66d64dc4cbfbe39cf403de4560bac2f",
-      "crc32": "4bbb668d",
-      "sha1": "08d2a6c5c536b156d334b863774bb0eef558ea77",
+      "btih": "7eaa0fc08f9893b3a93ae0001b7d418b89d175d9",
+      "mtime": "1667520411",
+      "size": "290822",
+      "md5": "a5c674d90237561e590595ab6fe34fce",
+      "crc32": "f99ed9f7",
+      "sha1": "2415499908d3398b4f7bda9481e60b0271e527a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ashlandornews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9a6c31bd644712f1f15e1fecbf7d09bd",
+      "md5": "f7971184cf415a033f59570cacaa1ed9",
       "summation": "md5"
     },
     {
       "name": "ashlandornews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667472511",
-      "size": "1703936",
-      "md5": "d7cd5c319cc4b4f7b9518af5a11343a7",
-      "crc32": "c26f72b4",
-      "sha1": "c808ee31f5f03f2e6660264459a4445eb839a374",
+      "mtime": "1667520360",
+      "size": "1708032",
+      "md5": "bb6d788f7ad86f392e7d8b9b48c68c1d",
+      "crc32": "e233f487",
+      "sha1": "f68ff2248eddb00993d493a269c9518d5a742034",
       "format": "Metadata"
     },
     {
@@ -13877,9 +13939,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1340,
-  "item_last_updated": 1667472563,
-  "item_size": 102972189,
+  "files_count": 1346,
+  "item_last_updated": 1667520411,
+  "item_size": 103364548,
   "metadata": {
     "identifier": "ashlandornews-2022",
     "collection": [
@@ -13901,7 +13963,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460589244,
+      "task_id": 3461115046,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13909,7 +13971,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1013797795,
+  "uniq": 550145284,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

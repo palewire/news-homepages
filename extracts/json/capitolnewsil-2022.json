@@ -1,5 +1,5 @@
 {
-  "created": 1667472683,
+  "created": 1667520665,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/12/items/capitolnewsil-2022",
@@ -13799,31 +13799,83 @@
       "format": "JSON"
     },
     {
+      "name": "capitolnewsil-2022-11-03T05:49:49.958695-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitolnewsil-2022-11-03T05:49:49.958695-05:00.jpg",
+      "mtime": "1667484808",
+      "size": "10240",
+      "md5": "3336f82252ee0b079ba786942248044c",
+      "crc32": "5c481bad",
+      "sha1": "c987f016da3447e50bf725d136223185241b02cd"
+    },
+    {
+      "name": "capitolnewsil-2022-11-03T19:09:40.500892-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667520589",
+      "size": "9415",
+      "md5": "5ce70fa316ae0c75dfc792975336f124",
+      "crc32": "94d79eeb",
+      "sha1": "bf1ee5312e28b09940b93a9bbc5c66186339aa49",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-11-03T19:09:40.500892-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667520592",
+      "size": "7224",
+      "md5": "271abec0b151e7f70c64ab7dee291352",
+      "crc32": "05332af7",
+      "sha1": "914fe36da22ab697550535455b35dd8f47ba2b54",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-11-03T19:09:40.500892-05:00.jpg",
+      "source": "original",
+      "mtime": "1667520587",
+      "size": "294375",
+      "md5": "1d5dc734b5a61f73781918d47475bf76",
+      "crc32": "208d33e5",
+      "sha1": "5833a7eacd3f2a86ec154f6e0186234ebf4ba1f1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitolnewsil-2022-11-03T19:09:40.500892-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667520594",
+      "size": "1576",
+      "md5": "7f5d8474e694ff69b7195061f1619f2d",
+      "crc32": "59021767",
+      "sha1": "5989a7d193624ed91e237024436c8ea8a2b4d472",
+      "format": "JSON"
+    },
+    {
       "name": "capitolnewsil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a9e737ed37fcb9c8b96c4b5ec3ab39caaaf74162",
-      "mtime": "1667472672",
-      "size": "287875",
-      "md5": "73ff6453d7118711aaf512b11eb350e2",
-      "crc32": "13645d39",
-      "sha1": "4f4dcfa300d7ec87f72b29d3c6ec8c40c2f6cc42",
+      "btih": "e5900785b75ca2b4b810d25a4099ceb3cc75c974",
+      "mtime": "1667520655",
+      "size": "288938",
+      "md5": "a1a37e5a8eee21011c3e4e9d17634a83",
+      "crc32": "91a77bcd",
+      "sha1": "6a5c5594d55c25588924bbaa8743106e3ec9429d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitolnewsil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cef6bd7556e5ddcd9e669d0991a63742",
+      "md5": "3315a31f81b684ef7d073d7b438c0f0f",
       "summation": "md5"
     },
     {
       "name": "capitolnewsil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667472616",
-      "size": "1695744",
-      "md5": "4ee32c2ea805e6c267991d787cc87667",
-      "crc32": "372747b5",
-      "sha1": "fa60c91bc9226cb3e817bb611f46d192c8c1db7e",
+      "mtime": "1667520602",
+      "size": "1703936",
+      "md5": "112221dce6b0efdf2d05095e02922dea",
+      "crc32": "80621148",
+      "sha1": "d20f60a1190c6045127a99f9dd299c7f60f75180",
       "format": "Metadata"
     },
     {
@@ -13837,9 +13889,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1336,
-  "item_last_updated": 1667472672,
-  "item_size": 85253585,
+  "files_count": 1341,
+  "item_last_updated": 1667520655,
+  "item_size": 85585670,
   "metadata": {
     "identifier": "capitolnewsil-2022",
     "collection": [
@@ -13861,7 +13913,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460590797,
+      "task_id": 3461118262,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13869,7 +13921,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1107215428,
+  "uniq": 1154115898,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

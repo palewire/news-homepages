@@ -1,5 +1,5 @@
 {
-  "created": 1667472397,
+  "created": 1667520185,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/aftenposten-2022",
@@ -12835,31 +12835,83 @@
       "format": "JSON"
     },
     {
+      "name": "aftenposten-2022-11-03T11:45:17.620693+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aftenposten-2022-11-03T11:45:17.620693+01:00.jpg",
+      "mtime": "1667483988",
+      "size": "9296",
+      "md5": "2acf4863105aa22313279f122d34c1e9",
+      "crc32": "25eab30f",
+      "sha1": "2ebe45b96ef3897353ae12719164f4394c28ebf8"
+    },
+    {
+      "name": "aftenposten-2022-11-04T01:01:37.394008+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667520107",
+      "size": "30751",
+      "md5": "4fe01522ee8bbb5e64cd331992bf4d72",
+      "crc32": "6801293d",
+      "sha1": "cb49fd21c6aaa1057e099383572786be1d33b35a",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-11-04T01:01:37.394008+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667520114",
+      "size": "31111",
+      "md5": "5be9f5c974cd7ce8e34c8384e2577b81",
+      "crc32": "aaddeeb8",
+      "sha1": "c5f9281b35aaf33d839f6e348d30a7eca00edcf4",
+      "format": "JSON"
+    },
+    {
+      "name": "aftenposten-2022-11-04T01:01:37.394008+01:00.jpg",
+      "source": "original",
+      "mtime": "1667520105",
+      "size": "280612",
+      "md5": "02f5adfe800b6f36b003b15ff6ab48b4",
+      "crc32": "1a9dee54",
+      "sha1": "16860617039ab4bd36092823fc541e8d00f5a9bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aftenposten-2022-11-04T01:01:37.394008+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667520116",
+      "size": "1495",
+      "md5": "2a8f2590215eaec6ca003f32bbca7383",
+      "crc32": "329eafa2",
+      "sha1": "682b7eaa339b402bb7cfaba7aa575a8f72a8a474",
+      "format": "JSON"
+    },
+    {
       "name": "aftenposten-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a65b4d5d3086c981b41ec0b219af3db73ddd73bb",
-      "mtime": "1667472386",
-      "size": "265734",
-      "md5": "83d5515f3bae3ea854acb015d9724537",
-      "crc32": "68317d45",
-      "sha1": "9e0ca2d95d6cfe9a80ae3bb27c364040c1521e87",
+      "btih": "c417057e6fe2978390cf989c46d9ad3891c43ce4",
+      "mtime": "1667520177",
+      "size": "266808",
+      "md5": "dfbdad257bfa3331e923eb04c9386933",
+      "crc32": "aadc9634",
+      "sha1": "a58429f68ace8771b6528b0af715cd672cc2f72c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aftenposten-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "319f82d8d4fb9be8519d3d39a80645bc",
+      "md5": "8cf4bcc8edbf7c671cbdfca0fa582ce0",
       "summation": "md5"
     },
     {
       "name": "aftenposten-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667472336",
-      "size": "1585152",
-      "md5": "b7751997181cd32b5c2a7f14946a6694",
-      "crc32": "298714be",
-      "sha1": "f7c918c68a402ba9cffed6e4f40493fcb07ec8a6",
+      "mtime": "1667520122",
+      "size": "1589248",
+      "md5": "3a2b04b04b901230eaf06dfb2bcb9322",
+      "crc32": "13e5bc8f",
+      "sha1": "59b604ddd4a520dbf9c89b31e4b973bc4bb003a2",
       "format": "Metadata"
     },
     {
@@ -12873,9 +12925,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1244,
-  "item_last_updated": 1667472386,
-  "item_size": 78341739,
+  "files_count": 1249,
+  "item_last_updated": 1667520177,
+  "item_size": 78700174,
   "metadata": {
     "identifier": "aftenposten-2022",
     "collection": [
@@ -12897,7 +12949,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460587246,
+      "task_id": 3461111300,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12905,7 +12957,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2112324156,
+  "uniq": 619283676,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

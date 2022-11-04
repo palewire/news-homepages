@@ -1,5 +1,5 @@
 {
-  "created": 1667472653,
+  "created": 1667520674,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/4/items/buzzfeednews-2022",
@@ -16579,31 +16579,83 @@
       "format": "JSON"
     },
     {
+      "name": "buzzfeednews-2022-11-03T06:49:17.549114-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buzzfeednews-2022-11-03T06:49:17.549114-04:00.jpg",
+      "mtime": "1667484762",
+      "size": "10047",
+      "md5": "163b0fa44b2ced4c6aee2a58df47423f",
+      "crc32": "31c02c9b",
+      "sha1": "0a40a9b9c83a7bcd33a8424a1d835e016d1d0c72"
+    },
+    {
+      "name": "buzzfeednews-2022-11-03T20:09:16.240614-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667520586",
+      "size": "25197",
+      "md5": "2642d7bd1a3b797dea0917ef9af97455",
+      "crc32": "e2666d32",
+      "sha1": "1ce7eab0f63c06ce8288b1187cfeef8699a8b652",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-11-03T20:09:16.240614-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667520588",
+      "size": "36271",
+      "md5": "38efe7bfcebdaa2008e8cb6dcb2a310c",
+      "crc32": "f246b8d9",
+      "sha1": "9b4306133e871ba92009559074b264fa9c3c02e1",
+      "format": "JSON"
+    },
+    {
+      "name": "buzzfeednews-2022-11-03T20:09:16.240614-04:00.jpg",
+      "source": "original",
+      "mtime": "1667520584",
+      "size": "341458",
+      "md5": "6690347be897693a33bb574b350dc5a3",
+      "crc32": "21b679f7",
+      "sha1": "aa94aad307730ad787c20d5e8bb3653801c005bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "buzzfeednews-2022-11-03T20:09:16.240614-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667520591",
+      "size": "1504",
+      "md5": "7547346a6cab3fc5f422145525530743",
+      "crc32": "cf09d04a",
+      "sha1": "1857e80176ac6963e4316d099d9e558792ae5891",
+      "format": "JSON"
+    },
+    {
       "name": "buzzfeednews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "73ebc22d7246d4acecc8fc52dde7122474cbe385",
-      "mtime": "1667472648",
-      "size": "344673",
-      "md5": "5e3620639e54cc2966b63bffc394b7e7",
-      "crc32": "4fb61afa",
-      "sha1": "aac074c9ba5eac2e5ac9b460b140776962a48cac",
+      "btih": "017aecc5bbb2108f58ad607269b1e7a85d88b1ef",
+      "mtime": "1667520662",
+      "size": "345733",
+      "md5": "18d63c3a08b2a52f8aaa5e00f6e186ed",
+      "crc32": "49950df2",
+      "sha1": "af3e350990dcaf1e87973a7bf151e0be57303452",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buzzfeednews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e3202f7bc80410a37cf1053b167ad7d9",
+      "md5": "d268a6124df677667a75f6de27e6c252",
       "summation": "md5"
     },
     {
       "name": "buzzfeednews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667472595",
-      "size": "1994752",
-      "md5": "01ad05b00f270ccc046cac8d9198d3a6",
-      "crc32": "c3ef9d8b",
-      "sha1": "4987ced65e7e2bf6b995b20cb5e63033f0a84773",
+      "mtime": "1667520598",
+      "size": "1998848",
+      "md5": "425fb8b0355b6d452f071decb038e223",
+      "crc32": "bef7dc9e",
+      "sha1": "4ef5b97aebfc8cbac10c5f167dc2e7159d9493dd",
       "format": "Metadata"
     },
     {
@@ -16617,9 +16669,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1601,
-  "item_last_updated": 1667472648,
-  "item_size": 131522328,
+  "files_count": 1606,
+  "item_last_updated": 1667520662,
+  "item_size": 131941961,
   "metadata": {
     "identifier": "buzzfeednews-2022",
     "collection": [
@@ -16641,7 +16693,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460590282,
+      "task_id": 3461118382,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -16649,7 +16701,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 347534642,
+  "uniq": 2119529461,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

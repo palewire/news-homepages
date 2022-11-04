@@ -1,5 +1,5 @@
 {
-  "created": 1667472639,
+  "created": 1667520735,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/33/items/bostonherald-2022",
@@ -12037,31 +12037,83 @@
       "format": "JSON"
     },
     {
+      "name": "bostonherald-2022-11-03T06:49:13.127599-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bostonherald-2022-11-03T06:49:13.127599-04:00.jpg",
+      "mtime": "1667484756",
+      "size": "9461",
+      "md5": "b808c4a80da86b4d352412a71ba21ec2",
+      "crc32": "4f2899d2",
+      "sha1": "0bc3b3d28a58205b71dd11b5ec1560b4b1d2678c"
+    },
+    {
+      "name": "bostonherald-2022-11-03T20:09:52.843529-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667520621",
+      "size": "46750",
+      "md5": "e9562feb3ad16510aa2103d18be43811",
+      "crc32": "eda5629b",
+      "sha1": "192ae9c695ff25b8f9dac66742f12b1c64ed14ff",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-11-03T20:09:52.843529-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667520623",
+      "size": "40160",
+      "md5": "d20535ddd3cb6cb83787886b431e4273",
+      "crc32": "a94d6882",
+      "sha1": "e2429e4aef7225ea113355923edf0e6d2d5ec509",
+      "format": "JSON"
+    },
+    {
+      "name": "bostonherald-2022-11-03T20:09:52.843529-04:00.jpg",
+      "source": "original",
+      "mtime": "1667520620",
+      "size": "247172",
+      "md5": "3a7e7811818b79877c9f3528edd35d36",
+      "crc32": "d3556643",
+      "sha1": "2adc6c65f5a159b5f818019afc6855e113aefc19",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bostonherald-2022-11-03T20:09:52.843529-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667520625",
+      "size": "1513",
+      "md5": "e3bc5c03b11609ba0c8871eab2e9ba2c",
+      "crc32": "23b74978",
+      "sha1": "598dcd8f53aff27c9d321b1b704cb54dad48c981",
+      "format": "JSON"
+    },
+    {
       "name": "bostonherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4497a725d5e3bebaef28477955338833e057a04b",
-      "mtime": "1667472627",
-      "size": "250866",
-      "md5": "e89280dae8f936ee2021a360603ed6f0",
-      "crc32": "ecb6015c",
-      "sha1": "22abf7f1c33b35a66d69c9a882cf0a17362bb6f1",
+      "btih": "04d982a46918a2ffc600555a0f4dc6052a0e760d",
+      "mtime": "1667520728",
+      "size": "251925",
+      "md5": "f54b04782cbb0d7d0cd195fa40e49564",
+      "crc32": "583d6c78",
+      "sha1": "2b79df0197619b56b6af9f1e31089a112359c3cb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bostonherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9ae3fb8af39b4dae1e7232bd3f0b060c",
+      "md5": "fb59d3366b2b78639d6da540fa8fd9bd",
       "summation": "md5"
     },
     {
       "name": "bostonherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667472572",
-      "size": "1499136",
-      "md5": "baab8ef8b739bfba5807404cb41295c0",
-      "crc32": "cfd075c1",
-      "sha1": "826f133ec4407315b5f2ccde7ca8e6d61d6772bb",
+      "mtime": "1667520633",
+      "size": "1503232",
+      "md5": "16f267caf52065663826f5dd4db232e9",
+      "crc32": "c18a313c",
+      "sha1": "c0b78aad5022032c90070324e04fb077f34dd26b",
       "format": "Metadata"
     },
     {
@@ -12075,9 +12127,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1168,
-  "item_last_updated": 1667472627,
-  "item_size": 78490149,
+  "files_count": 1173,
+  "item_last_updated": 1667520728,
+  "item_size": 78840360,
   "metadata": {
     "identifier": "bostonherald-2022",
     "collection": [
@@ -12099,7 +12151,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460590084,
+      "task_id": 3461119120,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12107,7 +12159,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1294942737,
+  "uniq": 1072663973,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]
