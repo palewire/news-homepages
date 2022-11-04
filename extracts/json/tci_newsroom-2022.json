@@ -1,5 +1,6 @@
 {
-  "created": 1667488873,
+  "conflict": 1667593515,
+  "created": 1667593515,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/12/items/tci_newsroom-2022",
@@ -5451,31 +5452,155 @@
       "format": "JSON"
     },
     {
+      "name": "tci_newsroom-2022-11-03T11:20:01.048435-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tci_newsroom-2022-11-03T11:20:01.048435-04:00.jpg",
+      "mtime": "1667504172",
+      "size": "9282",
+      "md5": "423ae953d07c7324be8eec25f6f28c18",
+      "crc32": "5108cb33",
+      "sha1": "5bcb24cd241ba72bc1cb69e09bf2cc45019eaea7"
+    },
+    {
+      "name": "tci_newsroom-2022-11-04T00:42:45.768124-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667536970",
+      "size": "22198",
+      "md5": "494df5dc8ca42ec19594598cc9c93bfa",
+      "crc32": "9026bc99",
+      "sha1": "56ccaadb4a7b9736af976fe4045ab76f08629f13",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-11-04T00:42:45.768124-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667536972",
+      "size": "46909",
+      "md5": "dd9e649007106041e57a964079c3404d",
+      "crc32": "906281ec",
+      "sha1": "5791a7fa355af839d84773e2535a74181743d7a5",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-11-04T00:42:45.768124-04:00.jpg",
+      "source": "original",
+      "mtime": "1667536969",
+      "size": "292530",
+      "md5": "a440ab4fad13320ae8fc534d097b1f1d",
+      "crc32": "fb5c383c",
+      "sha1": "3f5c293957ebbc61abcde61dc99d2e97f47d0867",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tci_newsroom-2022-11-04T00:42:45.768124-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667536975",
+      "size": "1585",
+      "md5": "d2388b1729e9c8b25690712350222424",
+      "crc32": "cf1dee55",
+      "sha1": "85bef920e7407c29d48d8695144ca1a72223079d",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-11-04T00:42:45.768124-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667536977",
+      "size": "55853",
+      "md5": "32d7dd06497f8929cdc69de357826e73",
+      "crc32": "4ca13d78",
+      "sha1": "7eca2d320f5e17db9218e70ae5548c6609b7a05b",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-11-04T00:42:45.768124-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tci_newsroom-2022-11-04T00:42:45.768124-04:00.jpg",
+      "mtime": "1667540488",
+      "size": "9370",
+      "md5": "35f0909b7f43fce368567f437170b60f",
+      "crc32": "53a74ce8",
+      "sha1": "c8b2501d2b10b342833a05932afb1575fd63df36"
+    },
+    {
+      "name": "tci_newsroom-2022-11-04T15:33:51.909675-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667590438",
+      "size": "24561",
+      "md5": "ef1cc048940c882903427dfd1197f8bc",
+      "crc32": "d88eb73f",
+      "sha1": "8438dc2bb07b3979ccaa8183aea59d04b1c92a55",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-11-04T15:33:51.909675-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667590441",
+      "size": "35697",
+      "md5": "a3379725d882316f56a34a0c3992387f",
+      "crc32": "98043527",
+      "sha1": "6384d68ffeacca675d907ae95469c8176b54f6fc",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-11-04T15:33:51.909675-04:00.jpg",
+      "source": "original",
+      "mtime": "1667590436",
+      "size": "251604",
+      "md5": "7add4e47e4e07d942e03ec88249a9ce4",
+      "crc32": "96bba6bb",
+      "sha1": "39d1072eab6c81483fe6e4848ca2625cd76fef0a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tci_newsroom-2022-11-04T15:33:51.909675-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667590443",
+      "size": "1585",
+      "md5": "157d657fa3966713d58de2841288a962",
+      "crc32": "d01003ae",
+      "sha1": "92df7a215223833a4c8f6b6e9a92477eee1afa65",
+      "format": "JSON"
+    },
+    {
+      "name": "tci_newsroom-2022-11-04T15:33:51.909675-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667590445",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "tci_newsroom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "abc82e9dc1a5c6e86bd5ff7f6a2ac75df07b6093",
-      "mtime": "1667488870",
-      "size": "114441",
-      "md5": "b1b2eca9df9f11681b85626f3d510ee7",
-      "crc32": "34508485",
-      "sha1": "c007cc0031cb3eda60781e1b8b0f86a6dd748733",
+      "btih": "cd4456f8959d188abb48899949a034ee8e8d4b17",
+      "mtime": "1667590498",
+      "size": "117021",
+      "md5": "c1b7d14ac714e3aba2971cecd5dc49d3",
+      "crc32": "5692da2b",
+      "sha1": "2f12a7a6b2e0c7fef262d3db0eec3332e7c183a4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tci_newsroom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e51d62387a89f7d80ac38cdecd02d5ea",
+      "md5": "7ef4a228a42bd620b9ba1b81bfed637e",
       "summation": "md5"
     },
     {
       "name": "tci_newsroom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667488825",
-      "size": "692224",
-      "md5": "fb92cd3f11a73d2e6efd8a73a8b91d9c",
-      "crc32": "633779aa",
-      "sha1": "552f9f81757fabc8d446a822909576601c490abe",
+      "mtime": "1667590455",
+      "size": "704512",
+      "md5": "d159a072d26962a3419a8ad697494e7a",
+      "crc32": "ddb9230c",
+      "sha1": "94e56a67d35c694c312face60d9eb0595aa76918",
       "format": "Metadata"
     },
     {
@@ -5489,9 +5614,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 531,
-  "item_last_updated": 1667488870,
-  "item_size": 36652678,
+  "files_count": 543,
+  "item_last_updated": 1667590498,
+  "item_size": 37418922,
   "metadata": {
     "identifier": "tci_newsroom-2022",
     "collection": [
@@ -5509,11 +5634,11 @@
     "addeddate": "2022-09-21 03:42:55"
   },
   "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
+  "server": "ia801403.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460764313,
+      "task_id": 3461953929,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5521,8 +5646,13 @@
       "status": "queued"
     }
   ],
-  "uniq": 1197468819,
+  "tci_newsroom-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1998528305,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia801403.us.archive.org"
   ]
 }
