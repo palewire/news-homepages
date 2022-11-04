@@ -1,6 +1,5 @@
 {
-  "conflict": 1667550531,
-  "created": 1667550531,
+  "created": 1667597478,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/6/items/eater-2022",
@@ -13781,31 +13780,93 @@
       "sha1": "889b45c37435840fe0611748af5bb05620dfe03b"
     },
     {
+      "name": "eater-2022-11-04T16:13:05.786533-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667592810",
+      "size": "30713",
+      "md5": "e0694b46b6e3ee43c94b126f546d58af",
+      "crc32": "d9eca923",
+      "sha1": "2506d130439eecdb32e783f0f2c067a7bd6495f5",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-11-04T16:13:05.786533-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667592812",
+      "size": "44849",
+      "md5": "08d1c709af82e3b51f5cc015ebf1af4f",
+      "crc32": "baa058f4",
+      "sha1": "d705038d03f3fc601c4cfeac81dbc598312f62e3",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-11-04T16:13:05.786533-04:00.jpg",
+      "source": "original",
+      "mtime": "1667592808",
+      "size": "341981",
+      "md5": "d531221074fedad2eff4e276df887be9",
+      "crc32": "307c95de",
+      "sha1": "d90d4a6e01dbe7395c18111afec1b6cdfffc7b57",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eater-2022-11-04T16:13:05.786533-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667592814",
+      "size": "1446",
+      "md5": "6b0da37c5795695313c412594f8361e0",
+      "crc32": "1e47f22f",
+      "sha1": "307d198ad3651ac6ff49ef72ba40121b84a969f0",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-11-04T16:13:05.786533-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667592816",
+      "size": "43474",
+      "md5": "e406abfdc3fcdf22b6b4a4e8fb9ed0dd",
+      "crc32": "33f99535",
+      "sha1": "1e0faa9da0894f56271d8065c779dd83ffa6e076",
+      "format": "JSON"
+    },
+    {
+      "name": "eater-2022-11-04T16:13:05.786533-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eater-2022-11-04T16:13:05.786533-04:00.jpg",
+      "mtime": "1667597372",
+      "size": "11254",
+      "md5": "5970b0a55b466c1f89d5f005795bcaec",
+      "crc32": "1b76c9b6",
+      "sha1": "67135c79222cf04ac2cffc34cc4c5e87f8c30b34"
+    },
+    {
       "name": "eater-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c58ecdfaf936e006b0a1fd3725c3d04041b02b7b",
-      "mtime": "1667550528",
-      "size": "278204",
-      "md5": "e18fd25d1c91c0729100938dcac3da59",
-      "crc32": "7d3439ce",
-      "sha1": "62fbf42a514f121ab9221443e31f44d95f7994ac",
+      "btih": "70833784950273b1abf7280d3248cc1348fc6d60",
+      "mtime": "1667597391",
+      "size": "279454",
+      "md5": "35bcf293699dbf3f027195a5b989cfe1",
+      "crc32": "db220349",
+      "sha1": "5271f84159f03d4c5245070c282a5767d7043171",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eater-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d28e11d188564112e2ec5986abfc1b66",
+      "md5": "a30ff6840ee99397efd9b3edf94267b3",
       "summation": "md5"
     },
     {
       "name": "eater-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667544975",
-      "size": "1667072",
-      "md5": "2bc6dcf2e65e93c5856e4f83c598e769",
-      "crc32": "baa25895",
-      "sha1": "9ddd35b4a67bf55fb0aa26630a2b870106df87e1",
+      "mtime": "1667593020",
+      "size": "1675264",
+      "md5": "0836a1c819b43c1f9119a1334ce97d0e",
+      "crc32": "d52de967",
+      "sha1": "b59c55597792270dc09c214776115a137e0774a4",
       "format": "Metadata"
     },
     {
@@ -13819,9 +13880,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1334,
-  "item_last_updated": 1667550528,
-  "item_size": 114148379,
+  "files_count": 1340,
+  "item_last_updated": 1667597391,
+  "item_size": 114631538,
   "metadata": {
     "identifier": "eater-2022",
     "collection": [
@@ -13838,29 +13899,10 @@
     "publicdate": "2022-07-09 03:58:25",
     "addeddate": "2022-07-09 03:58:25"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3461393040,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3461456196,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1987491163,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1113106802,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

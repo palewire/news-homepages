@@ -1,7 +1,12 @@
 {
-  "created": 1667550518,
+  "created": 1667602890,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
+  "democracynow-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/8/items/democracynow-2022",
   "files": [
     {
@@ -21688,31 +21693,93 @@
       "sha1": "9860e5011133714df4a9015c6ddb51df5cd13824"
     },
     {
+      "name": "democracynow-2022-11-04T16:13:46.755251-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667592839",
+      "size": "25667",
+      "md5": "f62c04ba5864dae620d08cabb1bb3bf5",
+      "crc32": "84028bfa",
+      "sha1": "02fa0811e45e5c41c2cd3d8b28f506f1426f9525",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-11-04T16:13:46.755251-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667592842",
+      "size": "31646",
+      "md5": "0708d7586005569351b700ff4a08192e",
+      "crc32": "f72e9b23",
+      "sha1": "aab5d6e5bbf70dac53314ed685cf6c681340fff5",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-11-04T16:13:46.755251-04:00.jpg",
+      "source": "original",
+      "mtime": "1667592836",
+      "size": "326768",
+      "md5": "6855016d865192f23441d754b97c7bbf",
+      "crc32": "5ff150bc",
+      "sha1": "f91ef9f4d3bcdec45ea7e57122728e98647a12de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "democracynow-2022-11-04T16:13:46.755251-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667592844",
+      "size": "1513",
+      "md5": "7cbd46401bf6153c098cafe968f05e1f",
+      "crc32": "ae63a410",
+      "sha1": "929f796236fb89d55e190fbb819c397063016a8c",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-11-04T16:13:46.755251-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667592847",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-11-04T16:13:46.755251-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "democracynow-2022-11-04T16:13:46.755251-04:00.jpg",
+      "mtime": "1667596935",
+      "size": "10599",
+      "md5": "8324309b6a2ba0ad9613fe4406f6d415",
+      "crc32": "0b61837f",
+      "sha1": "b57a09edca7f26f8d29beff776874b49236c64d8"
+    },
+    {
       "name": "democracynow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "91e074506d672be569207853472b2fcd6b5f1c8f",
-      "mtime": "1667550466",
-      "size": "450056",
-      "md5": "8d13df3083a58a99b92c658bb18663c8",
-      "crc32": "c245c3b7",
-      "sha1": "1342a48965d88988f63167fe5eea76d541ce747c",
+      "btih": "e747448a1b970402a8408a29f74894089e189487",
+      "mtime": "1667596982",
+      "size": "451346",
+      "md5": "d95252f218ace8661f349f61eae13dde",
+      "crc32": "7afeddab",
+      "sha1": "14fd11d1a7faf91c9ff4e13a1feb90ca5b1b392d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "democracynow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f7393440cb16df567ba62b8ea69a4024",
+      "md5": "4692ccb6d47ac0092d1f399ee72c2974",
       "summation": "md5"
     },
     {
       "name": "democracynow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667544879",
-      "size": "2641920",
-      "md5": "785d76f4bc6b864dfdad799dc2cf31f3",
-      "crc32": "d95cdcc2",
-      "sha1": "767c9c3982ab901782bdd2babf84f0c67216f1df",
+      "mtime": "1667592869",
+      "size": "2646016",
+      "md5": "f2f46564b536751ee85c87a15963ebaa",
+      "crc32": "7c4ac80c",
+      "sha1": "42e4c0aaf95f329451372965f50af42ac46a4e28",
       "format": "Metadata"
     },
     {
@@ -21726,9 +21793,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2096,
-  "item_last_updated": 1667550466,
-  "item_size": 147592092,
+  "files_count": 2102,
+  "item_last_updated": 1667596982,
+  "item_size": 147993873,
   "metadata": {
     "identifier": "democracynow-2022",
     "collection": [
@@ -21746,7 +21813,7 @@
     "addeddate": "2022-06-24 22:54:24"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 1703582667,
+  "uniq": 1073921365,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"
