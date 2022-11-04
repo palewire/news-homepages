@@ -1,5 +1,5 @@
 {
-  "created": 1667476436,
+  "created": 1667521107,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/7/items/deadline-2022",
@@ -13045,31 +13045,93 @@
       "format": "JSON"
     },
     {
+      "name": "deadline-2022-11-03T04:52:25.638349-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deadline-2022-11-03T04:52:25.638349-07:00.jpg",
+      "mtime": "1667487527",
+      "size": "9504",
+      "md5": "e9b159a6dabc18ba609bb688978b20f2",
+      "crc32": "8e4e024f",
+      "sha1": "a7c20719701ae22e4d83dae541e7ad67498e407e"
+    },
+    {
+      "name": "deadline-2022-11-03T17:16:59.736453-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667521038",
+      "size": "40309",
+      "md5": "871005ceeb2d518c9a6a0665d33fe669",
+      "crc32": "e87af178",
+      "sha1": "9acca91470f26ea05e1265c088a72845413778cd",
+      "format": "JSON"
+    },
+    {
+      "name": "deadline-2022-11-03T17:16:59.736453-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667521040",
+      "size": "50766",
+      "md5": "de6fde49faf8c4977152c60b67826c38",
+      "crc32": "3f2e02e9",
+      "sha1": "c3aceffac4665bf9cfa925e9d849ea84edcbdf15",
+      "format": "JSON"
+    },
+    {
+      "name": "deadline-2022-11-03T17:16:59.736453-07:00.jpg",
+      "source": "original",
+      "mtime": "1667521036",
+      "size": "305429",
+      "md5": "5660c5b250de6ead2303c21b0b916c8d",
+      "crc32": "2a72143b",
+      "sha1": "3d9b1ab3e0692df836cfbf5570290fd84e02041f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deadline-2022-11-03T17:16:59.736453-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667521042",
+      "size": "1441",
+      "md5": "328213c77e715c099a449385886bd57f",
+      "crc32": "eeba77d5",
+      "sha1": "94faa460e3e20f1fc92655126d09bc57d3aa81a9",
+      "format": "JSON"
+    },
+    {
+      "name": "deadline-2022-11-03T17:16:59.736453-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667521044",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "deadline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "df7549dafea851b284d74c9b4d54061efe15f52c",
-      "mtime": "1667476429",
-      "size": "266630",
-      "md5": "73bdc5e322ef22fde0cad6d6da0702c8",
-      "crc32": "85625fea",
-      "sha1": "59b481620020e05d5000e4cc8c2c50dbb959049d",
+      "btih": "f329eba55372a4c2622521577a3416b1d3ab33b8",
+      "mtime": "1667521099",
+      "size": "267875",
+      "md5": "31837c7e12c139dda34ddbf9ca5a3d99",
+      "crc32": "094637d6",
+      "sha1": "f0beec5598d7f0fd29821c29d56959455c7e6e85",
       "format": "Archive BitTorrent"
     },
     {
       "name": "deadline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "572a2de61349165c24f85ba4dea17acb",
+      "md5": "9be0b0fb8f2a53e509f96dead4b4e546",
       "summation": "md5"
     },
     {
       "name": "deadline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667476378",
-      "size": "1597440",
-      "md5": "b86a93c9f2b61013ab0fadbddc8edbad",
-      "crc32": "59d8167d",
-      "sha1": "affd4ca4296c6a8e1ce8a56d6b5dd1d3c75ff0c5",
+      "mtime": "1667521049",
+      "size": "1605632",
+      "md5": "6be412477ffd9cf9c594c7a3f5a87ebf",
+      "crc32": "f3cbca40",
+      "sha1": "333419761e06d7f1a26f8227254fad15abc22a43",
       "format": "Metadata"
     },
     {
@@ -13083,9 +13145,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1264,
-  "item_last_updated": 1667476429,
-  "item_size": 93073516,
+  "files_count": 1270,
+  "item_last_updated": 1667521099,
+  "item_size": 93490604,
   "metadata": {
     "identifier": "deadline-2022",
     "collection": [
@@ -13107,7 +13169,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460633093,
+      "task_id": 3461123928,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13115,7 +13177,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 572559928,
+  "uniq": 1432490817,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]

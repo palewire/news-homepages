@@ -1,5 +1,5 @@
 {
-  "created": 1667476635,
+  "created": 1667521379,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/8/items/gftribune-2022",
@@ -5523,31 +5523,83 @@
       "format": "JSON"
     },
     {
+      "name": "gftribune-2022-11-03T05:56:13.705866-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gftribune-2022-11-03T05:56:13.705866-06:00.jpg",
+      "mtime": "1667488943",
+      "size": "9359",
+      "md5": "49cfe20d31d550cc9c23d45a3e3da333",
+      "crc32": "729b7512",
+      "sha1": "362516424797eb0babeebbc635657fbb2b7087d8"
+    },
+    {
+      "name": "gftribune-2022-11-03T18:21:09.689449-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667521280",
+      "size": "20696",
+      "md5": "a8cf282e71a74bf287f99f4db800758d",
+      "crc32": "4a1ff3c1",
+      "sha1": "8d3875ddf621e9f134f22dc29b8b98051725d767",
+      "format": "JSON"
+    },
+    {
+      "name": "gftribune-2022-11-03T18:21:09.689449-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667521284",
+      "size": "37530",
+      "md5": "993857bc379121d026b46864959554f3",
+      "crc32": "3e8994aa",
+      "sha1": "b44d810404714b1d350479d1161f510372740fb5",
+      "format": "JSON"
+    },
+    {
+      "name": "gftribune-2022-11-03T18:21:09.689449-06:00.jpg",
+      "source": "original",
+      "mtime": "1667521275",
+      "size": "249980",
+      "md5": "96a8fcf0e9aa76c9e3a757bc8add45a5",
+      "crc32": "816c3c37",
+      "sha1": "b0a25ccab8a4c4c1a32e1da0998e311dc7a0ec2c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gftribune-2022-11-03T18:21:09.689449-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667521287",
+      "size": "1558",
+      "md5": "dda7c17ba6fe5907d09be969f1bf578c",
+      "crc32": "270fd8f8",
+      "sha1": "2be2cca2097937296d332b15a7275e9bf197ab1b",
+      "format": "JSON"
+    },
+    {
       "name": "gftribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1428abe1e86f2fe6d3fda43b7cf1447dfa20761f",
-      "mtime": "1667476632",
-      "size": "114233",
-      "md5": "db59381d0da6ebe12adec3c99e13e6f6",
-      "crc32": "e31110f2",
-      "sha1": "748fd2f866657a10d33a8398ed5ee1ba3c22241c",
+      "btih": "8188e58da169d67d71141caed17052f89de5f270",
+      "mtime": "1667521375",
+      "size": "115297",
+      "md5": "375e765864878dd6848c59e90acd3b56",
+      "crc32": "9cb591d1",
+      "sha1": "a752ba9b268d2c98f38c709186b293b2221f30f2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gftribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0e282d16d2c6850587d909e222b12e0",
+      "md5": "7131aa536503ae6a33511c2e563ebba6",
       "summation": "md5"
     },
     {
       "name": "gftribune-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667476593",
-      "size": "700416",
-      "md5": "450d30fd4ff591af094f897ebf62aa39",
-      "crc32": "78b36d8d",
-      "sha1": "857a0e0c0fc8abdb1a20294c17b94216a9ca9b02",
+      "mtime": "1667521327",
+      "size": "704512",
+      "md5": "c1c7cae19c2d289906fc7c432d0dfd3f",
+      "crc32": "98129955",
+      "sha1": "71501aecba3f0d25dfddab0cf74d81cc15b0c0a6",
       "format": "Metadata"
     },
     {
@@ -5561,9 +5613,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 538,
-  "item_last_updated": 1667476632,
-  "item_size": 35742839,
+  "files_count": 543,
+  "item_last_updated": 1667521375,
+  "item_size": 36067122,
   "metadata": {
     "identifier": "gftribune-2022",
     "collection": [
@@ -5585,7 +5637,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460635373,
+      "task_id": 3461126617,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5593,7 +5645,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1728321312,
+  "uniq": 1441061892,
   "workable_servers": [
     "ia601408.us.archive.org"
   ]

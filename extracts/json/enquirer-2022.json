@@ -1,5 +1,5 @@
 {
-  "created": 1667476527,
+  "created": 1667521117,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/enquirer-2022",
@@ -10029,31 +10029,93 @@
       "format": "JSON"
     },
     {
+      "name": "enquirer-2022-11-03T07:54:02.454323-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enquirer-2022-11-03T07:54:02.454323-04:00.jpg",
+      "mtime": "1667487545",
+      "size": "9166",
+      "md5": "a4cd7e3afc9c29fe24a0d22d271d4030",
+      "crc32": "d3a731c4",
+      "sha1": "a89bc8b652ca72096cf93dc493cd2a1da8417e22"
+    },
+    {
+      "name": "enquirer-2022-11-03T20:17:10.865896-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667521042",
+      "size": "23356",
+      "md5": "88dc68763d40961bc1189788d7930d35",
+      "crc32": "634cebd5",
+      "sha1": "439fcbd0b5dc09c06fcafe6bbe7690553c657435",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-11-03T20:17:10.865896-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667521044",
+      "size": "39917",
+      "md5": "cd68c4d47eeea4ca13b2a5ca65605280",
+      "crc32": "a5e02cd5",
+      "sha1": "1d91899919be972e6c458ffaa289e4e844f914ad",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-11-03T20:17:10.865896-04:00.jpg",
+      "source": "original",
+      "mtime": "1667521039",
+      "size": "301021",
+      "md5": "164bc565a6511c7981ebee443e2b2d7b",
+      "crc32": "3bd2e33c",
+      "sha1": "b21925dcbf0efa2d62d8d031fa953d99ffae32e4",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "enquirer-2022-11-03T20:17:10.865896-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667521047",
+      "size": "1494",
+      "md5": "57fc09a87cc9ceb3aa8773167f317284",
+      "crc32": "06ef6600",
+      "sha1": "b784eebc7d8a25115268a11833a1a27c2f09a1b4",
+      "format": "JSON"
+    },
+    {
+      "name": "enquirer-2022-11-03T20:17:10.865896-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667521051",
+      "size": "98855",
+      "md5": "c9e8a698fdafc72b2f769422c6453a50",
+      "crc32": "4f9e88b5",
+      "sha1": "fbd365e4f3e611954286eca6082632360fa74c48",
+      "format": "JSON"
+    },
+    {
       "name": "enquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "718d07c7c3828dc414ed87c52723e4952abe79cc",
-      "mtime": "1667476517",
-      "size": "205492",
-      "md5": "7cd021487638a68e9e0a1dcb59de7af1",
-      "crc32": "185f2418",
-      "sha1": "e1c09cf368e8f87dafa858223b82311397e003b2",
+      "btih": "e388ad3cccdc8195f7bff6f06c604bcdea76a00e",
+      "mtime": "1667521105",
+      "size": "206759",
+      "md5": "110e898b7e3069d426702bdbc56f5ff2",
+      "crc32": "710dd204",
+      "sha1": "5b88aaa39c9ed3923e43c773866c82f710686ee5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5cc2c12525ea4df18b23db8e417ab41d",
+      "md5": "757367f33500b55c6f896c3241ee4b79",
       "summation": "md5"
     },
     {
       "name": "enquirer-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667476470",
-      "size": "1249280",
-      "md5": "add45238b92bab66ca4775f81815eebc",
-      "crc32": "a0d7dd05",
-      "sha1": "f1b130d71193973efd5215e9a337d2bb297a4ca2",
+      "mtime": "1667521058",
+      "size": "1253376",
+      "md5": "ee4f0979bf4f59098b5fceaafb9da2ac",
+      "crc32": "f6772e1e",
+      "sha1": "586ca3695f33d49b468bbc8991d529bbffdfce72",
       "format": "Metadata"
     },
     {
@@ -10067,9 +10129,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 974,
-  "item_last_updated": 1667476517,
-  "item_size": 66338784,
+  "files_count": 980,
+  "item_last_updated": 1667521105,
+  "item_size": 66817956,
   "metadata": {
     "identifier": "enquirer-2022",
     "collection": [
@@ -10091,7 +10153,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460634061,
+      "task_id": 3461124050,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10099,7 +10161,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 2011036832,
+  "uniq": 2008524398,
   "workable_servers": [
     "ia601502.us.archive.org"
   ]

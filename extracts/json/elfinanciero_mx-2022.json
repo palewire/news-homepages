@@ -1,5 +1,5 @@
 {
-  "created": 1667476577,
+  "created": 1667521098,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/19/items/elfinanciero_mx-2022",
@@ -9999,31 +9999,83 @@
       "format": "JSON"
     },
     {
+      "name": "elfinanciero_mx-2022-11-03T05:54:57.564793-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elfinanciero_mx-2022-11-03T05:54:57.564793-06:00.jpg",
+      "mtime": "1667488471",
+      "size": "10560",
+      "md5": "36155b16b8bd25a42b1f0021960ccaa8",
+      "crc32": "eaeabbf0",
+      "sha1": "93eab5616899c2b96b7642a54f594e8dcc5d234f"
+    },
+    {
+      "name": "elfinanciero_mx-2022-11-03T18:16:52.289796-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667521034",
+      "size": "36781",
+      "md5": "0c0a5bccc70b03ac01d3aaa6f76fb07f",
+      "crc32": "0349fb3d",
+      "sha1": "800e3f0bb132b3971db790f92fea9be3648f1cce",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-11-03T18:16:52.289796-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667521037",
+      "size": "38771",
+      "md5": "15f931f7ba14bb24d2ee596f0226a64c",
+      "crc32": "e0cd3a2c",
+      "sha1": "46421ed28dc4da643dafb688487f3ef0c0bf1b61",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-11-03T18:16:52.289796-06:00.jpg",
+      "source": "original",
+      "mtime": "1667521025",
+      "size": "301452",
+      "md5": "4ca1757795063addf88972ee1eeb4c41",
+      "crc32": "8ac18457",
+      "sha1": "5152e0e390b0f0aac81641354cd62aef91fc6347",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elfinanciero_mx-2022-11-03T18:16:52.289796-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667521039",
+      "size": "1539",
+      "md5": "24482a3918ac153423d59b560f4b6d03",
+      "crc32": "90dce3bd",
+      "sha1": "571af40cb8884c080c17ad44cc68bf05e332d874",
+      "format": "JSON"
+    },
+    {
       "name": "elfinanciero_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "42cca1cf1ea8d9f3d1f20dd0cc0ce1807695e2e4",
-      "mtime": "1667476569",
-      "size": "211927",
-      "md5": "a499b3c945a7257e40e101f3c1a21582",
-      "crc32": "cf1aad3f",
-      "sha1": "82229c4470260578afc9dc199e3e4f1dc3f0c94f",
+      "btih": "8577c4af359acd9db21b4c29bfd1c5775c125090",
+      "mtime": "1667521092",
+      "size": "213022",
+      "md5": "a60692bd4af966eb570e366469c4b20a",
+      "crc32": "40a1d520",
+      "sha1": "9e2818909beb175931a89b257d593ecb32c442fe",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elfinanciero_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b7e24b829ed09fa2ef17dbdf9d769045",
+      "md5": "f9e8310e435006fe559a5331c815d086",
       "summation": "md5"
     },
     {
       "name": "elfinanciero_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667476522",
-      "size": "1253376",
-      "md5": "8a9a475ed7dffb2dc5bfefb4419dd6d5",
-      "crc32": "d03ce784",
-      "sha1": "a00a739bab03692e9f1ccf5056877075c75f4f80",
+      "mtime": "1667521047",
+      "size": "1261568",
+      "md5": "8aa0e1776c268cc79c63fd6d93045beb",
+      "crc32": "01bcb306",
+      "sha1": "9cecd0f7807b1213dc9d38569d7390370189f160",
       "format": "Metadata"
     },
     {
@@ -10037,9 +10089,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 971,
-  "item_last_updated": 1667476569,
-  "item_size": 71216178,
+  "files_count": 976,
+  "item_last_updated": 1667521092,
+  "item_size": 71614568,
   "metadata": {
     "identifier": "elfinanciero_mx-2022",
     "collection": [
@@ -10061,7 +10113,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460634583,
+      "task_id": 3461123834,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10069,7 +10121,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1690062458,
+  "uniq": 1447278646,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

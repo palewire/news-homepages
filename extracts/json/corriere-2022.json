@@ -1,5 +1,5 @@
 {
-  "created": 1667476306,
+  "created": 1667520892,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/20/items/corriere-2022",
@@ -10659,31 +10659,93 @@
       "format": "JSON"
     },
     {
+      "name": "corriere-2022-11-03T12:50:26.479128+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "corriere-2022-11-03T12:50:26.479128+01:00.jpg",
+      "mtime": "1667487425",
+      "size": "7135",
+      "md5": "1544d063c8d04fa307e0fcba3f8db1e0",
+      "crc32": "f88de553",
+      "sha1": "b1fef271d819e5a6b337a2c376fc36ffc88d7e5e"
+    },
+    {
+      "name": "corriere-2022-11-04T01:13:36.282980+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667520832",
+      "size": "124146",
+      "md5": "d0bdbb9290030c8bd53374cb0e700e98",
+      "crc32": "4162534c",
+      "sha1": "5977b9e5a8d1cd4e9dfcdd3aa524b869d792ae16",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-11-04T01:13:36.282980+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667520834",
+      "size": "204543",
+      "md5": "bc030ec21c76ea0028074fc39cc8bf5a",
+      "crc32": "ff0f1c6d",
+      "sha1": "159bcc4fb10585500a1a8ea22d958c0130f18709",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-11-04T01:13:36.282980+01:00.jpg",
+      "source": "original",
+      "mtime": "1667520830",
+      "size": "138651",
+      "md5": "565387b7e411954e985beb1db6a6cf70",
+      "crc32": "0952976e",
+      "sha1": "993f8b69e9c5b92172215700b53e38fcfbdae06c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "corriere-2022-11-04T01:13:36.282980+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667520836",
+      "size": "1468",
+      "md5": "c7d3539910c897a47974331511ee39a9",
+      "crc32": "6040e2ce",
+      "sha1": "d4af4d64fe060f29eafc49e9211a8b5bfbd4111c",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-11-04T01:13:36.282980+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667520839",
+      "size": "31889",
+      "md5": "b44c5f5783388bdf42d85299837f2778",
+      "crc32": "1d5e9d60",
+      "sha1": "c43f7abd72d2c264e3e9392234f7d46e9de8baff",
+      "format": "JSON"
+    },
+    {
       "name": "corriere-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5f5000b5bd5addd923bb00fec4a0ce6077031b9d",
-      "mtime": "1667476300",
-      "size": "219534",
-      "md5": "ec3b9c6b4c69c958bcbb21820b10b220",
-      "crc32": "3aef2e82",
-      "sha1": "de3e061799cd0d0328cf4da3f692a899ced1f08a",
+      "btih": "aa90de66453bc5f135d89396ca2474b50fee5128",
+      "mtime": "1667520888",
+      "size": "220803",
+      "md5": "d2f9e224708511cbbaf1914e627b04e6",
+      "crc32": "4a5b864c",
+      "sha1": "bf20560be86007fee8c0532423b4f73b9c3e7b87",
       "format": "Archive BitTorrent"
     },
     {
       "name": "corriere-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7956e6a9efdea81a5a6ea3efd52d323a",
+      "md5": "62dff877535259ecdcd71b5af0d7fc0e",
       "summation": "md5"
     },
     {
       "name": "corriere-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667476254",
-      "size": "1327104",
-      "md5": "f86b042a0c1ce90cf7918a219c9fb816",
-      "crc32": "458cb8ad",
-      "sha1": "fd5a5558cb8d851f8e53a3daee04637d1f3ac3e7",
+      "mtime": "1667520843",
+      "size": "1331200",
+      "md5": "fb89e2586e5a265b7c47abddba9fac6e",
+      "crc32": "68b217e2",
+      "sha1": "1d82bbe0c2d84701095f3ca6121b4a7889508df1",
       "format": "Metadata"
     },
     {
@@ -10697,9 +10759,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1035,
-  "item_last_updated": 1667476300,
-  "item_size": 95368755,
+  "files_count": 1041,
+  "item_last_updated": 1667520888,
+  "item_size": 95881952,
   "metadata": {
     "identifier": "corriere-2022",
     "collection": [
@@ -10721,7 +10783,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460631603,
+      "task_id": 3461121219,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10729,7 +10791,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 493744367,
+  "uniq": 348185252,
   "workable_servers": [
     "ia902500.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667476413,
+  "created": 1667520860,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/11/items/dailycomet-2022",
@@ -5503,31 +5503,83 @@
       "format": "JSON"
     },
     {
+      "name": "dailycomet-2022-11-03T06:52:29.813770-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailycomet-2022-11-03T06:52:29.813770-05:00.jpg",
+      "mtime": "1667487486",
+      "size": "8803",
+      "md5": "465d63f41ea155f4106eb8ae9bec483a",
+      "crc32": "f3b5cac9",
+      "sha1": "ea5a875872ec5ecb0ba7245564c5e91c8678afb6"
+    },
+    {
+      "name": "dailycomet-2022-11-03T19:13:19.454466-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667520806",
+      "size": "23147",
+      "md5": "6f920dadeef05eb493c0d56f5697eb2e",
+      "crc32": "6c0d5ddd",
+      "sha1": "0869309792ff6414607fe18687e999230524ca89",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycomet-2022-11-03T19:13:19.454466-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667520808",
+      "size": "33572",
+      "md5": "29ff06625a705154317ae4f3cf8b2a90",
+      "crc32": "8b67b276",
+      "sha1": "322e62754c680ce050b632992a26d93077756f28",
+      "format": "JSON"
+    },
+    {
+      "name": "dailycomet-2022-11-03T19:13:19.454466-05:00.jpg",
+      "source": "original",
+      "mtime": "1667520804",
+      "size": "228276",
+      "md5": "8b94e1d13d70f6cf62a1fd74e726b038",
+      "crc32": "6c5265ab",
+      "sha1": "765039df817065f6d81ca6e3bc7dc329dc46385f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailycomet-2022-11-03T19:13:19.454466-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667520811",
+      "size": "1495",
+      "md5": "a2dd79114f2d2d237b00937c68411a97",
+      "crc32": "b93765b8",
+      "sha1": "f010eca6c71a82a5ca0b01644c498dd4df7cd5db",
+      "format": "JSON"
+    },
+    {
       "name": "dailycomet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0a235cfe791a88a6df358ed16c02dbc40052adaa",
-      "mtime": "1667476407",
-      "size": "114388",
-      "md5": "d4aec7bb753ebaa88856370068ecfa79",
-      "crc32": "48979969",
-      "sha1": "b4b6bdf8d6b8d75b01103e3ebfd44155a02015cb",
+      "btih": "9259d1a2d0745bf45671d28756d179c524b73f08",
+      "mtime": "1667520856",
+      "size": "115457",
+      "md5": "c972a93d55288d034a8cb8e031751cb2",
+      "crc32": "df498caf",
+      "sha1": "acceecc929381b20d62c7771be424552d7099a88",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailycomet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca28677cc9134817613fca9f23f2d1ce",
+      "md5": "fcac1179e46a041780787b41e9b6c60d",
       "summation": "md5"
     },
     {
       "name": "dailycomet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667476368",
-      "size": "696320",
-      "md5": "8241244097dfd01eb64359c63609cda3",
-      "crc32": "2abd6507",
-      "sha1": "5e3e7d3d4f3531959628ed26781456ec11621cef",
+      "mtime": "1667520818",
+      "size": "700416",
+      "md5": "d1d03763aed645f4e56e3fbe5cc6a358",
+      "crc32": "8474b4ab",
+      "sha1": "0c9ee1a76e58df6127c4e34e899b23a55d8614d6",
       "format": "Metadata"
     },
     {
@@ -5541,9 +5593,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 536,
-  "item_last_updated": 1667476407,
-  "item_size": 35741428,
+  "files_count": 541,
+  "item_last_updated": 1667520856,
+  "item_size": 36041886,
   "metadata": {
     "identifier": "dailycomet-2022",
     "collection": [
@@ -5565,7 +5617,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460632838,
+      "task_id": 3461120822,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5573,7 +5625,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1026805236,
+  "uniq": 2046736737,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667476590,
+  "created": 1667521407,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/29/items/galvnews-2022",
@@ -12775,31 +12775,83 @@
       "format": "JSON"
     },
     {
+      "name": "galvnews-2022-11-03T06:54:24.580173-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galvnews-2022-11-03T06:54:24.580173-05:00.jpg",
+      "mtime": "1667487794",
+      "size": "8711",
+      "md5": "e6d5c13d2ad77467b9d0bdf84999c977",
+      "crc32": "64283415",
+      "sha1": "e6eb6222278009c7f262b088a22fe3f22d7869c2"
+    },
+    {
+      "name": "galvnews-2022-11-03T19:21:13.999127-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667521288",
+      "size": "24696",
+      "md5": "bd0acb1dc30fef3609791d97bbb72a97",
+      "crc32": "0c3d02ab",
+      "sha1": "08b1c916b47bf0c7e3b1c26e28771a2189474e92",
+      "format": "JSON"
+    },
+    {
+      "name": "galvnews-2022-11-03T19:21:13.999127-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667521290",
+      "size": "50768",
+      "md5": "1653535e30d74135c3cb0589bbb6186e",
+      "crc32": "50103cc6",
+      "sha1": "52ebb7d4af59c8e9a8cf3508324cbda6dc22c77b",
+      "format": "JSON"
+    },
+    {
+      "name": "galvnews-2022-11-03T19:21:13.999127-05:00.jpg",
+      "source": "original",
+      "mtime": "1667521284",
+      "size": "226079",
+      "md5": "01358329079ad59919059b878a2e31d0",
+      "crc32": "e2200ed9",
+      "sha1": "a7a5b5bc607ff256efbda0ab267452e95b9df1f2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galvnews-2022-11-03T19:21:13.999127-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667521294",
+      "size": "1477",
+      "md5": "ef822e1204a8fd54691bc483afcd33ef",
+      "crc32": "81b8198f",
+      "sha1": "0a3ef1ce0559512118eaa503c66066a6d1419c3b",
+      "format": "JSON"
+    },
+    {
       "name": "galvnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "346a20a6f02ac3a5203e6f092023dd957131998d",
-      "mtime": "1667476570",
-      "size": "260540",
-      "md5": "acd8e57a8ca02fb2a3cc40cc0b732d5a",
-      "crc32": "cab70884",
-      "sha1": "de1e39c685a1bb0ae6b41fe264745fba8c74c9d8",
+      "btih": "f4b88991d9265133d00d7250fd1fa34dd1792a94",
+      "mtime": "1667521394",
+      "size": "261599",
+      "md5": "5610bd628822a7ea3f2f4a892bf9061d",
+      "crc32": "e0914722",
+      "sha1": "c31eb22a97727de5d71867aed8cfc3335141116c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "galvnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e29ebafafd591663c86e04c4df65278b",
+      "md5": "f07faa098a094a01c8b67d7f491aaad5",
       "summation": "md5"
     },
     {
       "name": "galvnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667476512",
-      "size": "1556480",
-      "md5": "0348645b76661eb4bd025b83a05e5304",
-      "crc32": "b4db303f",
-      "sha1": "340182ce58e793a71e6b0f72dce04937cd428370",
+      "mtime": "1667521336",
+      "size": "1560576",
+      "md5": "13cbb4e5c4c92dc17d76a4f27cb39196",
+      "crc32": "fa4e85d5",
+      "sha1": "b0fb3db22765c4a862c1bbf450eb48c524c3e648",
       "format": "Metadata"
     },
     {
@@ -12813,9 +12865,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1237,
-  "item_last_updated": 1667476570,
-  "item_size": 84027063,
+  "files_count": 1242,
+  "item_last_updated": 1667521394,
+  "item_size": 84343949,
   "metadata": {
     "identifier": "galvnews-2022",
     "collection": [
@@ -12837,7 +12889,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460634751,
+      "task_id": 3461126823,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12845,7 +12897,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1217439621,
+  "uniq": 1038806443,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

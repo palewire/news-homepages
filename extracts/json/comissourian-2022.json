@@ -1,5 +1,5 @@
 {
-  "created": 1667476356,
+  "created": 1667520918,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/9/items/comissourian-2022",
@@ -14129,31 +14129,83 @@
       "format": "JSON"
     },
     {
+      "name": "comissourian-2022-11-03T06:50:44.731339-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "comissourian-2022-11-03T06:50:44.731339-05:00.jpg",
+      "mtime": "1667487905",
+      "size": "9638",
+      "md5": "e702fbe1b6051664bc41b5e78dfa5af2",
+      "crc32": "87fbccf4",
+      "sha1": "3783e570212e1565598bae859a6da9dbfd02ddec"
+    },
+    {
+      "name": "comissourian-2022-11-03T19:13:40.774905-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667520842",
+      "size": "31525",
+      "md5": "eec091a77874997523de30a451b65952",
+      "crc32": "1f1bece2",
+      "sha1": "9489b50eff4b94c9282cef1bd7e815c2464d795b",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-11-03T19:13:40.774905-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667520844",
+      "size": "45965",
+      "md5": "e1fbafc31ede450c0bc51eb6276efe23",
+      "crc32": "403d9479",
+      "sha1": "73a5c14876d98ccb435875c7ab9c900ef139bc63",
+      "format": "JSON"
+    },
+    {
+      "name": "comissourian-2022-11-03T19:13:40.774905-05:00.jpg",
+      "source": "original",
+      "mtime": "1667520840",
+      "size": "337440",
+      "md5": "b4bfd7177100f1ef4122d70deb555602",
+      "crc32": "c6b3d04a",
+      "sha1": "6dd25d0fc55b6df4d8aa08d9c8e96f0069dc1d48",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "comissourian-2022-11-03T19:13:40.774905-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667520846",
+      "size": "1567",
+      "md5": "742164deb20ba448fa813139093b91f2",
+      "crc32": "45eecaf9",
+      "sha1": "fd7a4a5e9a495c1487a0e48520c01e3403875d4b",
+      "format": "JSON"
+    },
+    {
       "name": "comissourian-2022_archive.torrent",
       "source": "metadata",
-      "btih": "534130ac5f9d240d0b1c07f5048bf71bf36ecc17",
-      "mtime": "1667476337",
-      "size": "294323",
-      "md5": "b87fc179d6fa9b266290dacaeb222d5c",
-      "crc32": "45ab2551",
-      "sha1": "f43e19d748212f0f7bc11e477e1d10f04a71ab7c",
+      "btih": "01e0163074a5563505430f589714ab97f98cc1a2",
+      "mtime": "1667520910",
+      "size": "295402",
+      "md5": "fe12f31dea408675bae04e070db1e910",
+      "crc32": "00a00d05",
+      "sha1": "e69317c045393465f96dfcd56e66a461ff4b4e4d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "comissourian-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2adf787b929f5ad935c6bfe738b23746",
+      "md5": "f488887b7b49ec67d49c078f05aa6855",
       "summation": "md5"
     },
     {
       "name": "comissourian-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667476277",
-      "size": "1724416",
-      "md5": "378dee58e8633dc54bb47fa7112f9a25",
-      "crc32": "53e32450",
-      "sha1": "304325d63e028e838176026e2b2e10a2bdff4aa8",
+      "mtime": "1667520857",
+      "size": "1732608",
+      "md5": "dba10f8ee8c4159fcd00451e3feecb47",
+      "crc32": "0c6a07eb",
+      "sha1": "9afa5097cfbeeb943ab562b2901545e27e6db34f",
       "format": "Metadata"
     },
     {
@@ -14167,9 +14219,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1367,
-  "item_last_updated": 1667476337,
-  "item_size": 116141130,
+  "files_count": 1372,
+  "item_last_updated": 1667520910,
+  "item_size": 116576536,
   "metadata": {
     "identifier": "comissourian-2022",
     "collection": [
@@ -14191,7 +14243,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460632252,
+      "task_id": 3461121557,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14199,7 +14251,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1349627937,
+  "uniq": 328500410,
   "workable_servers": [
     "ia601409.us.archive.org"
   ]

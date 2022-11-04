@@ -1,5 +1,5 @@
 {
-  "created": 1667476505,
+  "created": 1667520946,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/3/items/daily_record-2022",
@@ -19115,31 +19115,83 @@
       "format": "JSON"
     },
     {
+      "name": "daily_record-2022-11-03T11:52:39.479348+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "daily_record-2022-11-03T11:52:39.479348+00:00.jpg",
+      "mtime": "1667487730",
+      "size": "11469",
+      "md5": "65e35c312f01f0145ff02f239a2ffd5e",
+      "crc32": "1aa511e4",
+      "sha1": "d893e018375a34a1d7b3750b15b28be0dcf8e3c1"
+    },
+    {
+      "name": "daily_record-2022-11-04T00:13:28.653035+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667520838",
+      "size": "100337",
+      "md5": "17f59690ef518857199ec9abc5e52adf",
+      "crc32": "4c6847fb",
+      "sha1": "be5010b55ebdd683ddfc6f4fa03223548bce44b7",
+      "format": "JSON"
+    },
+    {
+      "name": "daily_record-2022-11-04T00:13:28.653035+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667520841",
+      "size": "153337",
+      "md5": "0148161a98b2a8860b0c861d1559140d",
+      "crc32": "7f26bfb4",
+      "sha1": "5ff470080f22105d0bb8e45c7bfd310cfc787910",
+      "format": "JSON"
+    },
+    {
+      "name": "daily_record-2022-11-04T00:13:28.653035+00:00.jpg",
+      "source": "original",
+      "mtime": "1667520836",
+      "size": "312360",
+      "md5": "1af1d284540e2e4102a62c3305dac82c",
+      "crc32": "376a3261",
+      "sha1": "fce917978387cfbc22f65f717e0f9f9d6254acb8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "daily_record-2022-11-04T00:13:28.653035+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667520843",
+      "size": "1522",
+      "md5": "62acbbffa1f3a854fb4da412aa665781",
+      "crc32": "734a6024",
+      "sha1": "447f18f21ce72e4fcdd1ab55d40fbdcadf2017c8",
+      "format": "JSON"
+    },
+    {
       "name": "daily_record-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5ab095a9a149b14d0bc682191c4ce6822857d9ea",
-      "mtime": "1667476489",
-      "size": "399978",
-      "md5": "c687ac9a27dde5f0143fac15fe7f9f7e",
-      "crc32": "dd3458ef",
-      "sha1": "f0367e9dcf780c5c5d7d98e7d33aff7e10a3771f",
+      "btih": "a45c6d1027e7b456a8e91c67e0b5efa7e5db1b00",
+      "mtime": "1667520936",
+      "size": "401060",
+      "md5": "ce0afa1a0317cf9130095c423f679f9a",
+      "crc32": "14029ccd",
+      "sha1": "664b3d62830803fa9b36a814983d5da55736b834",
       "format": "Archive BitTorrent"
     },
     {
       "name": "daily_record-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4c2ce95740efcc78aa12a98711a0acee",
+      "md5": "26849c7c07ced2b4009d88a21a4e7b1a",
       "summation": "md5"
     },
     {
       "name": "daily_record-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667476405",
-      "size": "2338816",
-      "md5": "42e3f03994e451580056bb5b79dcfd41",
-      "crc32": "6631c74a",
-      "sha1": "f168b525dfd9b4a69fdb843e8d5d6d82de8c04a5",
+      "mtime": "1667520858",
+      "size": "2347008",
+      "md5": "228e07e11288495e830dee3c91b42c46",
+      "crc32": "93c43152",
+      "sha1": "f857b10da73d620ac8c53ac05d45a117271e142d",
       "format": "Metadata"
     },
     {
@@ -19153,9 +19205,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1850,
-  "item_last_updated": 1667476489,
-  "item_size": 185050175,
+  "files_count": 1855,
+  "item_last_updated": 1667520936,
+  "item_size": 185638474,
   "metadata": {
     "identifier": "daily_record-2022",
     "collection": [
@@ -19177,7 +19229,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460633897,
+      "task_id": 3461121940,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -19185,7 +19237,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 598721655,
+  "uniq": 1216672678,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

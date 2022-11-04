@@ -1,5 +1,5 @@
 {
-  "created": 1667476440,
+  "created": 1667521138,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/delawarepublic-2022",
@@ -13849,31 +13849,93 @@
       "format": "JSON"
     },
     {
+      "name": "delawarepublic-2022-11-03T07:52:26.509319-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawarepublic-2022-11-03T07:52:26.509319-04:00.jpg",
+      "mtime": "1667487941",
+      "size": "10445",
+      "md5": "db3d77ccf93922eed9235cd975eefe5d",
+      "crc32": "812b17fe",
+      "sha1": "b5485ed38c420104abf4d9a359b369d7a592c3f8"
+    },
+    {
+      "name": "delawarepublic-2022-11-03T20:17:22.576866-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667521056",
+      "size": "17059",
+      "md5": "e6f94d3de73f0bf4298f51a5db81fc6c",
+      "crc32": "6e4345f8",
+      "sha1": "dcd9762fcf8379d5492634d025e5348194c04e53",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-11-03T20:17:22.576866-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667521059",
+      "size": "28444",
+      "md5": "831b188b7adfc7fece3313eccf0183bd",
+      "crc32": "36af0ede",
+      "sha1": "e47873e0e649215367ab07bbcf28abe8a02dd103",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-11-03T20:17:22.576866-04:00.jpg",
+      "source": "original",
+      "mtime": "1667521053",
+      "size": "265651",
+      "md5": "2e7362ab9bf56d3d67396a76e72373ad",
+      "crc32": "ded6e492",
+      "sha1": "d6f988112a441590bb76f49ec4cd0b7fe22d171a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "delawarepublic-2022-11-03T20:17:22.576866-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667521064",
+      "size": "1522",
+      "md5": "0555f981055f52ae8d9a98d142c91d1a",
+      "crc32": "ffa662a0",
+      "sha1": "6cd6259120b1dcfba9c8d8e376f01c8aab18a3f7",
+      "format": "JSON"
+    },
+    {
+      "name": "delawarepublic-2022-11-03T20:17:22.576866-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667521067",
+      "size": "21975",
+      "md5": "a34b6482f1d8aa7c640b2ab594c38489",
+      "crc32": "ba71e474",
+      "sha1": "6188dbb17957434ac7594c8cadd23f57f12cd74a",
+      "format": "JSON"
+    },
+    {
       "name": "delawarepublic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c15035b253a696f228b16a5a8d3b7b4dbd51bbf8",
-      "mtime": "1667476429",
-      "size": "290371",
-      "md5": "557f514983711149dcccb7a200a60659",
-      "crc32": "26fb7b7a",
-      "sha1": "6411fb68f91b281cada110fb1e3520207761be4d",
+      "btih": "41d8972121bea7ae0573d053c1cd258e0849cf2f",
+      "mtime": "1667521128",
+      "size": "291655",
+      "md5": "aef364ae2ebb2b9517b28b8e53c8f9a9",
+      "crc32": "575427b7",
+      "sha1": "9ef328f7135158682caed031d867ff84aee71ec4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "delawarepublic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6de75b5ef404463ac750d24f7af622e3",
+      "md5": "05ee80aabec09a00c18376a9276da147",
       "summation": "md5"
     },
     {
       "name": "delawarepublic-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667476369",
-      "size": "1703936",
-      "md5": "a9ec71b7400d929c629b62e113916224",
-      "crc32": "fbebe17b",
-      "sha1": "e9b7647cb49e8891b5f97ae6b3b70a7a863cb0d3",
+      "mtime": "1667521072",
+      "size": "1712128",
+      "md5": "275bc145a6b5dd10e5ed29ca339d810a",
+      "crc32": "d7a160e5",
+      "sha1": "029915ba7a35a8d26602552a54f4c04777a69032",
       "format": "Metadata"
     },
     {
@@ -13887,9 +13949,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1341,
-  "item_last_updated": 1667476429,
-  "item_size": 80118843,
+  "files_count": 1347,
+  "item_last_updated": 1667521128,
+  "item_size": 80473415,
   "metadata": {
     "identifier": "delawarepublic-2022",
     "collection": [
@@ -13911,7 +13973,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460633132,
+      "task_id": 3461124290,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13919,7 +13981,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1492530683,
+  "uniq": 1861504170,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

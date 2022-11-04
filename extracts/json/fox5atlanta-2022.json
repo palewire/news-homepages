@@ -1,5 +1,5 @@
 {
-  "created": 1667476592,
+  "created": 1667521457,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/35/items/fox5atlanta-2022",
@@ -12831,31 +12831,83 @@
       "format": "JSON"
     },
     {
+      "name": "fox5atlanta-2022-11-03T07:54:46.657179-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fox5atlanta-2022-11-03T07:54:46.657179-04:00.jpg",
+      "mtime": "1667487611",
+      "size": "10611",
+      "md5": "c1c66b6092dae5d4f4224308f65aa450",
+      "crc32": "c80a5188",
+      "sha1": "fc97097b6e6f656b9da73cd1dfd3d4de47ccd408"
+    },
+    {
+      "name": "fox5atlanta-2022-11-03T20:21:27.125085-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667521310",
+      "size": "46718",
+      "md5": "6885f1264c1726c73945f19c15417ff7",
+      "crc32": "520a9b59",
+      "sha1": "295041c8100fe96cf25d6ccaf70a318a78aaa423",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-11-03T20:21:27.125085-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667521313",
+      "size": "39370",
+      "md5": "7a9fbaf9c82e784a507efdb080e803cb",
+      "crc32": "2b358379",
+      "sha1": "cee908fcfc21abaf3d6f2f1c741a1bccbe586d2d",
+      "format": "JSON"
+    },
+    {
+      "name": "fox5atlanta-2022-11-03T20:21:27.125085-04:00.jpg",
+      "source": "original",
+      "mtime": "1667521307",
+      "size": "340035",
+      "md5": "a1bfe9d7d3d2627f67024b17978550e3",
+      "crc32": "08758da2",
+      "sha1": "62c0e8fb61375481bbf1856f88c86f9f216dceca",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fox5atlanta-2022-11-03T20:21:27.125085-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667521317",
+      "size": "1503",
+      "md5": "af6c69b5abc54fbe682d983db67c7739",
+      "crc32": "82fd4a98",
+      "sha1": "7d9ae087dfa0c6e0095ce1e8fbfbd0ca01f093e6",
+      "format": "JSON"
+    },
+    {
       "name": "fox5atlanta-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1f47d06f5f286f15ef45221f347e39fe72a985dd",
-      "mtime": "1667476581",
-      "size": "266840",
-      "md5": "6bf2b44c7c810ac97bcbed9dbd4d7122",
-      "crc32": "7028222d",
-      "sha1": "02931a3bfa90ad1a96e1e61b5e5548007b17cd40",
+      "btih": "4ec760b2a7e60708c4b815d700347d483a558460",
+      "mtime": "1667521448",
+      "size": "267915",
+      "md5": "f498ed3bbe373d25bc804ef48c92dbb7",
+      "crc32": "769e6407",
+      "sha1": "72c5eb21f18e265f03cec4aa32c18671c9efcff7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fox5atlanta-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d87f8dcf27a867b384508720f88aebfb",
+      "md5": "0115c723d46cee6db895d6aadb129dff",
       "summation": "md5"
     },
     {
       "name": "fox5atlanta-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667476516",
-      "size": "1589248",
-      "md5": "fa51ba0bb4c92f05ef03ea3be7c8e895",
-      "crc32": "a5f4c360",
-      "sha1": "a219b89c1cf39fa68bb376afdc412c8256385ada",
+      "mtime": "1667521380",
+      "size": "1593344",
+      "md5": "9ff3bc725853b97f2ad569e48ea3493c",
+      "crc32": "a51615b4",
+      "sha1": "5567d9ad8b627b5b5a6fa34ea2730a61ed3448c6",
       "format": "Metadata"
     },
     {
@@ -12869,9 +12921,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1244,
-  "item_last_updated": 1667476581,
-  "item_size": 102769764,
+  "files_count": 1249,
+  "item_last_updated": 1667521448,
+  "item_size": 103213172,
   "metadata": {
     "identifier": "fox5atlanta-2022",
     "collection": [
@@ -12893,7 +12945,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460634948,
+      "task_id": 3461127253,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12901,7 +12953,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 132494971,
+  "uniq": 1642964189,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]
