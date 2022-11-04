@@ -1,5 +1,5 @@
 {
-  "created": 1667525423,
+  "created": 1667574683,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/16/items/live_hindustan-2022",
@@ -12255,31 +12255,83 @@
       "format": "JSON"
     },
     {
+      "name": "live_hindustan-2022-11-04T06:59:15.550181+05:30_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "live_hindustan-2022-11-04T06:59:15.550181+05:30.jpg",
+      "mtime": "1667530379",
+      "size": "10823",
+      "md5": "886cef9178a8cd50002d667211dd7ca5",
+      "crc32": "055408d7",
+      "sha1": "b1392512ba36e4e557b86b2c1c8499b7e55738e4"
+    },
+    {
+      "name": "live_hindustan-2022-11-04T19:33:00.447958+05:30.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667570590",
+      "size": "126793",
+      "md5": "de34de4825f7c30a92a61f430d1df233",
+      "crc32": "6a67fc6c",
+      "sha1": "84e0d9a44d75f8a38383624e69be6769d4b02c21",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-11-04T19:33:00.447958+05:30.jpg",
+      "source": "original",
+      "mtime": "1667570588",
+      "size": "305062",
+      "md5": "9ed6d60349853174677e963711799d74",
+      "crc32": "e9b4b416",
+      "sha1": "907878b5d9d85a56b707bfcb51bb490754983116",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "live_hindustan-2022-11-04T19:33:00.447958+05:30.lighthouse.json",
+      "source": "original",
+      "mtime": "1667570593",
+      "size": "1522",
+      "md5": "37abf5efe69d81b98aa4cfb817aef425",
+      "crc32": "7f9bb32d",
+      "sha1": "53ad75016e0426764e9f035819328f93199983d9",
+      "format": "JSON"
+    },
+    {
+      "name": "live_hindustan-2022-11-04T19:33:00.447958+05:30.wayback.json",
+      "source": "original",
+      "mtime": "1667570595",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "live_hindustan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f58a1fb803eebbe52801673c5d1499c4c8f3a22b",
-      "mtime": "1667525419",
-      "size": "260127",
-      "md5": "ca0b7968ac62ef614ad4795cb5ca2469",
-      "crc32": "8fc9b3a5",
-      "sha1": "d83de7f38d01b525dd1c7571e0d3321d6d55702c",
+      "btih": "d1a8d61fb90f6aedd98b2199cad06931ee10422f",
+      "mtime": "1667570663",
+      "size": "261210",
+      "md5": "9545124fa1ee32bfe01d20c2ed843a21",
+      "crc32": "ac1d876e",
+      "sha1": "c1fe87ac499143bf3dc03444e836a400d4a598c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "live_hindustan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f1108a0c8ae4af5475b3e71a96ec0c64",
+      "md5": "8e18f1b3301be615234b59bab9f37b36",
       "summation": "md5"
     },
     {
       "name": "live_hindustan-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667525370",
-      "size": "1531904",
-      "md5": "10344ef4e2b5d8cb2f0f0c8ea3bad3c4",
-      "crc32": "7f40ddd0",
-      "sha1": "ef29b38e0fab0844d9c01972e8c6d5ecaed758bb",
+      "mtime": "1667570608",
+      "size": "1536000",
+      "md5": "21594c1785bbc6a685c12b5f9b927a88",
+      "crc32": "ba827f42",
+      "sha1": "976c69fbe76eab3ff43ee1b4715a05a6938f11a4",
       "format": "Metadata"
     },
     {
@@ -12293,9 +12345,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1189,
-  "item_last_updated": 1667525419,
-  "item_size": 126556666,
+  "files_count": 1194,
+  "item_last_updated": 1667570663,
+  "item_size": 127006247,
+  "live_hindustan-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "live_hindustan-2022",
     "collection": [
@@ -12317,15 +12374,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461177213,
+      "task_id": 3461709062,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1272580288,
+  "uniq": 1656836593,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

@@ -1,5 +1,5 @@
 {
-  "created": 1667525222,
+  "created": 1667574518,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/15/items/kvue-2022",
@@ -13117,31 +13117,93 @@
       "format": "JSON"
     },
     {
+      "name": "kvue-2022-11-03T20:25:09.934707-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kvue-2022-11-03T20:25:09.934707-05:00.jpg",
+      "mtime": "1667530398",
+      "size": "9622",
+      "md5": "dd60290f27364d983bc085514bcfcccf",
+      "crc32": "908a79d8",
+      "sha1": "942efeda2c27f942d48c5bc06d135ddccf8036fb"
+    },
+    {
+      "name": "kvue-2022-11-04T09:03:05.624548-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667570595",
+      "size": "7522",
+      "md5": "09de27d3b7b0f3ba899edb8ecaafa940",
+      "crc32": "93e6667b",
+      "sha1": "cf9fa93bb5f57fe1d7f8a3267d0d5faa707191c1",
+      "format": "JSON"
+    },
+    {
+      "name": "kvue-2022-11-04T09:03:05.624548-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667570597",
+      "size": "55133",
+      "md5": "32cc1f2d074aa96e7572209d71d14ac3",
+      "crc32": "be4bb654",
+      "sha1": "30067bd488f741b4f51f16b71b311f72aa511b58",
+      "format": "JSON"
+    },
+    {
+      "name": "kvue-2022-11-04T09:03:05.624548-05:00.jpg",
+      "source": "original",
+      "mtime": "1667570593",
+      "size": "284226",
+      "md5": "2a85de9e02d661daab144459d7070000",
+      "crc32": "3f8612e5",
+      "sha1": "80baee57289e7ded8367e34ea89cfc5aada882bd",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvue-2022-11-04T09:03:05.624548-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667570598",
+      "size": "1438",
+      "md5": "6d73ce73932bb3a12ea712051199719c",
+      "crc32": "5a604c26",
+      "sha1": "3b152f3118b753a90737203635dd7b665beb5be4",
+      "format": "JSON"
+    },
+    {
+      "name": "kvue-2022-11-04T09:03:05.624548-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667570600",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "kvue-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ff74d14c5dd229e7236b29c714163c1fc020dbbf",
-      "mtime": "1667525212",
-      "size": "262128",
-      "md5": "2cde2aa6f345d98b46ef56bbfa3abe75",
-      "crc32": "9be1fd3c",
-      "sha1": "3acde6d0d166a25a872c66d01bd3cbdb68a852e4",
+      "btih": "db0de6cca800a35973562bc6aa858cffdc7a4eba",
+      "mtime": "1667570700",
+      "size": "263368",
+      "md5": "a3f0a534edf0eb1deb6b6a77cb5283f8",
+      "crc32": "a9f3f9a8",
+      "sha1": "65068df0e8ffcee6a5673528d5e0ffdef9bc1346",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvue-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "903a29dbcf0788d28e0d622665b04395",
+      "md5": "7cdd16c1cfe3816437174221d96bf82f",
       "summation": "md5"
     },
     {
       "name": "kvue-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667525136",
-      "size": "1597440",
-      "md5": "37170d47cab95470918e668064151d37",
-      "crc32": "f25e87f1",
-      "sha1": "f747bc7fbae07810d5d8044d3e4e3297028d77f1",
+      "mtime": "1667570632",
+      "size": "1605632",
+      "md5": "c160ac4bdb15aab8302c3c76fba1c4c3",
+      "crc32": "ab63e979",
+      "sha1": "aa00f35b2e445df11235fd25aacd371e0f9592b4",
       "format": "Metadata"
     },
     {
@@ -13155,9 +13217,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1271,
-  "item_last_updated": 1667525212,
-  "item_size": 75980174,
+  "files_count": 1277,
+  "item_last_updated": 1667570700,
+  "item_size": 76347749,
+  "kvue-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kvue-2022",
     "collection": [
@@ -13179,7 +13246,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461174612,
+      "task_id": 3461709607,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13187,7 +13254,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1121395197,
+  "uniq": 1116759254,
   "workable_servers": [
     "ia601500.us.archive.org"
   ]

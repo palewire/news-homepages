@@ -1,5 +1,5 @@
 {
-  "created": 1667525226,
+  "created": 1667574621,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/lavanguardia-2022",
@@ -12079,31 +12079,93 @@
       "format": "JSON"
     },
     {
+      "name": "lavanguardia-2022-11-04T02:25:48.381568+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lavanguardia-2022-11-04T02:25:48.381568+01:00.jpg",
+      "mtime": "1667530286",
+      "size": "9137",
+      "md5": "f3fd554a4a1e048822be6bdfe0a81bde",
+      "crc32": "103c60d2",
+      "sha1": "94ff12914f2856cec2e87f1e18fbca0b3873b708"
+    },
+    {
+      "name": "lavanguardia-2022-11-04T15:03:38.061400+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667570643",
+      "size": "63210",
+      "md5": "54fbdc3c53a826f9d66d60c0a4320079",
+      "crc32": "ce8428c0",
+      "sha1": "a496866c9fc894f387145e46fc85dc29a72d3b0c",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-11-04T15:03:38.061400+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667570644",
+      "size": "36854",
+      "md5": "d414516f6cda73c2ae163186b828146f",
+      "crc32": "835a8d8c",
+      "sha1": "953b04d20be08a4aaacb602cc315714a39d44b39",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-11-04T15:03:38.061400+01:00.jpg",
+      "source": "original",
+      "mtime": "1667570641",
+      "size": "260015",
+      "md5": "b633b0499588342ae418bf438d7e9328",
+      "crc32": "c1f72812",
+      "sha1": "aad9e130aa12c9d62412db8d0ded052b5fb74283",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lavanguardia-2022-11-04T15:03:38.061400+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667570646",
+      "size": "1513",
+      "md5": "0b41565da23d81483ce6fd208e41ce10",
+      "crc32": "af63c50a",
+      "sha1": "ba1a739c4df8ea978a425ef6f10ff7be51846563",
+      "format": "JSON"
+    },
+    {
+      "name": "lavanguardia-2022-11-04T15:03:38.061400+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667570648",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "lavanguardia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b5486d723b3bcf0a167c461d2d651c62c68fdd1",
-      "mtime": "1667525217",
-      "size": "251692",
-      "md5": "c80ea7788188d1e983554b12f4b99362",
-      "crc32": "2972772c",
-      "sha1": "e6016f53559433f64a2dc783e8096028936bdff7",
+      "btih": "db4b8630f3aec5c4a978588d033e9f62d52c814b",
+      "mtime": "1667570713",
+      "size": "252981",
+      "md5": "9f12ab25ca2e9b94cb23022b5d39482f",
+      "crc32": "cfbe0077",
+      "sha1": "9a16f67a8f554b24d24e272471c045c8066851d9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lavanguardia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "716b20207fc2dd93353fcf733f9d5c3b",
+      "md5": "b9ba475734e9e17d9a556d394106e147",
       "summation": "md5"
     },
     {
       "name": "lavanguardia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667525163",
-      "size": "1503232",
-      "md5": "6ea3b7286db45950adfd8c4a83701300",
-      "crc32": "85185dd6",
-      "sha1": "890a5ad7618435e6036b1b8843bc53c7bc2926ec",
+      "mtime": "1667570661",
+      "size": "1511424",
+      "md5": "6be780ddea66dc9351316f8010ffc6cd",
+      "crc32": "c3afffe0",
+      "sha1": "57a1209a4b7574361b7f20fcda142b0f7c568be4",
       "format": "Metadata"
     },
     {
@@ -12117,9 +12179,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1172,
-  "item_last_updated": 1667525217,
-  "item_size": 77749603,
+  "files_count": 1178,
+  "item_last_updated": 1667570713,
+  "item_size": 78130015,
+  "lavanguardia-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lavanguardia-2022",
     "collection": [
@@ -12141,7 +12208,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461174667,
+      "task_id": 3461709716,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -12149,7 +12216,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1376029168,
+  "uniq": 325840234,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

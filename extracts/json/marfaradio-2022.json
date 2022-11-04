@@ -1,5 +1,5 @@
 {
-  "created": 1667525371,
+  "created": 1667574813,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/24/items/marfaradio-2022",
@@ -13083,31 +13083,93 @@
       "format": "JSON"
     },
     {
+      "name": "marfaradio-2022-11-03T20:28:20.666360-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marfaradio-2022-11-03T20:28:20.666360-05:00.jpg",
+      "mtime": "1667530292",
+      "size": "8814",
+      "md5": "286e64f6074a716d876ca20b5d02d47c",
+      "crc32": "1b53d4e2",
+      "sha1": "c9257d30f95c4eacd644fc47515f9122b098f411"
+    },
+    {
+      "name": "marfaradio-2022-11-04T09:08:46.928127-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667570949",
+      "size": "31401",
+      "md5": "c85b90f5c4c108b09dfb966ab7061e96",
+      "crc32": "cc154438",
+      "sha1": "d01810ba9e16a24d1eef077caf4897587a3c5c86",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-11-04T09:08:46.928127-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667570951",
+      "size": "29095",
+      "md5": "ed26689c1097c5abea95baeaec2df89d",
+      "crc32": "44438884",
+      "sha1": "82bf2412f6c3802892a8d813de757e4a1bd9079c",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-11-04T09:08:46.928127-05:00.jpg",
+      "source": "original",
+      "mtime": "1667570947",
+      "size": "267230",
+      "md5": "5cc744ac6fd3651a3b9845cc1499242a",
+      "crc32": "7f72e86d",
+      "sha1": "7d3a98f2d89cb4c7bb6b3fab0012519d4c284cd7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marfaradio-2022-11-04T09:08:46.928127-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667570952",
+      "size": "1513",
+      "md5": "aa066d26750e59fff1c1481b9a20520f",
+      "crc32": "db144013",
+      "sha1": "492799008588ea8577fcd0cb87b92590f75acf28",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-11-04T09:08:46.928127-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667570954",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "marfaradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dea7856e4002601942a5f73e7d0e8ec5bdcf6ec6",
-      "mtime": "1667525366",
-      "size": "269278",
-      "md5": "2847c0a6c9c1fa240d905dc2c7a8250e",
-      "crc32": "09526d6a",
-      "sha1": "98f249e28c0b7845cb48ae43118b7d41f960be6a",
+      "btih": "77ba6d603d04c6291018c3367726a52c31d5e004",
+      "mtime": "1667571007",
+      "size": "270555",
+      "md5": "c9582e2605c8170e624f0034b9ecc845",
+      "crc32": "b510a438",
+      "sha1": "f8b0c6a70b0b6b26a891c6ab0f518945305314bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marfaradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4764c014fb37aa54b9773ef62e643ca0",
+      "md5": "2d4596b40a642e09a45cf56d665470d3",
       "summation": "md5"
     },
     {
       "name": "marfaradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667525315",
-      "size": "1613824",
-      "md5": "747f11f22e14502c18ae19e8d8c963dc",
-      "crc32": "d7878e8b",
-      "sha1": "666ef4a5aaacc3db5d2a321275ac22b07d41dc8f",
+      "mtime": "1667570958",
+      "size": "1617920",
+      "md5": "449da577658f19a89782c82701841e98",
+      "crc32": "0977399c",
+      "sha1": "f8dbeab37de159d4ac040ea338e38e68a4ee8a62",
       "format": "Metadata"
     },
     {
@@ -13121,9 +13183,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1268,
-  "item_last_updated": 1667525366,
-  "item_size": 73595027,
+  "files_count": 1274,
+  "item_last_updated": 1667571007,
+  "item_size": 73938655,
+  "marfaradio-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "marfaradio-2022",
     "collection": [
@@ -13145,7 +13212,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461176530,
+      "task_id": 3461713126,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13153,7 +13220,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1030696170,
+  "uniq": 262607914,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]

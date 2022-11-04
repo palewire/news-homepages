@@ -1,5 +1,5 @@
 {
-  "created": 1667525210,
+  "created": 1667570682,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/12/items/lasvegassun-2022",
@@ -14277,31 +14277,83 @@
       "format": "JSON"
     },
     {
+      "name": "lasvegassun-2022-11-03T18:25:17.813763-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lasvegassun-2022-11-03T18:25:17.813763-07:00.jpg",
+      "mtime": "1667530222",
+      "size": "10046",
+      "md5": "920c9255e6c88465370cbb5edef4a5df",
+      "crc32": "41ad7491",
+      "sha1": "7110d836ba06d5b40f817e52dd454216c57ab11c"
+    },
+    {
+      "name": "lasvegassun-2022-11-04T07:03:09.033032-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667570601",
+      "size": "19101",
+      "md5": "8ae864460cfe3a19ccd0626895e246dd",
+      "crc32": "246a4e4d",
+      "sha1": "821cf34c0dde6065c9b466f4a92d6a51eb30fb62",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-11-04T07:03:09.033032-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667570603",
+      "size": "13135",
+      "md5": "db8a9c06971c6ade7b42542a9c5b53b0",
+      "crc32": "4fe1aa10",
+      "sha1": "2c4f330f03a6d4db611471d618afca2f03918655",
+      "format": "JSON"
+    },
+    {
+      "name": "lasvegassun-2022-11-04T07:03:09.033032-07:00.jpg",
+      "source": "original",
+      "mtime": "1667570599",
+      "size": "327459",
+      "md5": "47444be0719f6b85828be5a798e231c3",
+      "crc32": "e5900718",
+      "sha1": "f7e1995ab57607539b1766c2d624c76301c45be1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lasvegassun-2022-11-04T07:03:09.033032-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667570611",
+      "size": "1483",
+      "md5": "c46214a5007578636728358d8af95b2a",
+      "crc32": "ce9260fd",
+      "sha1": "3cd4848311a93a2732e366727be972cf8a463b82",
+      "format": "JSON"
+    },
+    {
       "name": "lasvegassun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3797e0f9103ce2c858d8b928be65afb7859da7ee",
-      "mtime": "1667525200",
-      "size": "295671",
-      "md5": "a2dab505f01d1c82dc5d78ecfd5fa6b6",
-      "crc32": "53ae4291",
-      "sha1": "cc782f478c996722ce9c0e70f48235c5c6e6e573",
+      "btih": "3b0bee4178e26762560768bcaa65c42178982a65",
+      "mtime": "1667570673",
+      "size": "296746",
+      "md5": "eed3d3838ff10abb0912241806c2595a",
+      "crc32": "5b781440",
+      "sha1": "4ec2966ea0023d5e5246faa442172e0d25a1c34e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lasvegassun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "01e9f961126b147892574634ca7fcd97",
+      "md5": "6378e067e78df2a08bb9ecb75ee03bc2",
       "summation": "md5"
     },
     {
       "name": "lasvegassun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667525141",
-      "size": "1748992",
-      "md5": "5e59400409ea08717cea1c3b8cacebb3",
-      "crc32": "0ccf3b5f",
-      "sha1": "ff700c7b00c1adad56a0fdb42d65e6900edcb94f",
+      "mtime": "1667570614",
+      "size": "1753088",
+      "md5": "b0e926242a617c87a7f9903ff48607c2",
+      "crc32": "f9f11f18",
+      "sha1": "2682df5f46a9fd93f0a92b23ef8f063e9214fc1a",
       "format": "Metadata"
     },
     {
@@ -14315,9 +14367,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1382,
-  "item_last_updated": 1667525200,
-  "item_size": 101120039,
+  "files_count": 1387,
+  "item_last_updated": 1667570673,
+  "item_size": 101496434,
   "metadata": {
     "identifier": "lasvegassun-2022",
     "collection": [
@@ -14339,7 +14391,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461174449,
+      "task_id": 3461708907,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -14347,7 +14399,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 526540484,
+  "uniq": 1921003597,
   "workable_servers": [
     "ia601407.us.archive.org"
   ]

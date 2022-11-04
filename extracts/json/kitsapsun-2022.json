@@ -1,5 +1,5 @@
 {
-  "created": 1667525194,
+  "created": 1667570479,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/32/items/kitsapsun-2022",
@@ -5575,31 +5575,93 @@
       "format": "JSON"
     },
     {
+      "name": "kitsapsun-2022-11-03T18:25:41.112351-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kitsapsun-2022-11-03T18:25:41.112351-07:00.jpg",
+      "mtime": "1667530756",
+      "size": "9065",
+      "md5": "366f2f89133b4df6276f1f8dff6110bf",
+      "crc32": "69e6b467",
+      "sha1": "e817a4684f565fe4ac18712b2984e80ee985f4a8"
+    },
+    {
+      "name": "kitsapsun-2022-11-04T07:00:18.385542-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667570425",
+      "size": "20894",
+      "md5": "e22523bf1b116dcf593c6f008b59b1c4",
+      "crc32": "83084170",
+      "sha1": "cf01ae00dc2034598dcd490972b8c59313c0df20",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-11-04T07:00:18.385542-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667570427",
+      "size": "43219",
+      "md5": "aec016a9e046d3ed3716439a27003aac",
+      "crc32": "5d0e66d6",
+      "sha1": "599898a8c2046cc876055653736ea5605d93ea09",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-11-04T07:00:18.385542-07:00.jpg",
+      "source": "original",
+      "mtime": "1667570423",
+      "size": "272254",
+      "md5": "d953a38bcd5f2d60c651f3c7da8b06c5",
+      "crc32": "3a20f0dd",
+      "sha1": "67431e237b3c2d2466fd9dbcaf9e29b57fc5f289",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kitsapsun-2022-11-04T07:00:18.385542-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667570429",
+      "size": "1486",
+      "md5": "f52e29c0ee5383f6200fb4db07187939",
+      "crc32": "2553db14",
+      "sha1": "7b79d61f1493f408af8f0aeb516bfa04f99fb2e3",
+      "format": "JSON"
+    },
+    {
+      "name": "kitsapsun-2022-11-04T07:00:18.385542-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667570431",
+      "size": "102307",
+      "md5": "07d55cccc31d3616278e21eade418e3d",
+      "crc32": "4c637d40",
+      "sha1": "e70d354ae41bb4e03f55e643b23ed0ebd893de63",
+      "format": "JSON"
+    },
+    {
       "name": "kitsapsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "15fd832900a7ed9ae2b934f04b3ab5ee8d053544",
-      "mtime": "1667525191",
-      "size": "115299",
-      "md5": "0c2f21fbb850fd39be9d2354737d618e",
-      "crc32": "9759e29d",
-      "sha1": "dc8988488ae4c9aa399245cc3115b25163f285a1",
+      "btih": "d773e72645933a25d5c53d4e012329608c6ec2e7",
+      "mtime": "1667570476",
+      "size": "116573",
+      "md5": "555aebb4537c3bb2bfb03d718e5b7d40",
+      "crc32": "6838493c",
+      "sha1": "2841c1a47428f5d4d923be7112c8f1f2e663ff3c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kitsapsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0bec713ef3df85bd7a901a28b13b3d40",
+      "md5": "c9e433b21c24f49641b1192ed3f4bc86",
       "summation": "md5"
     },
     {
       "name": "kitsapsun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667525151",
-      "size": "704512",
-      "md5": "485b9cac6926d22ddae26ea43ef1a435",
-      "crc32": "694030ff",
-      "sha1": "10c0361469b4f4c86fbb4e3c51a6366cf65173e1",
+      "mtime": "1667570437",
+      "size": "712704",
+      "md5": "22f573dd99015598bc17ed1e7933520c",
+      "crc32": "308377da",
+      "sha1": "ef6a80ba086be7e6eb0942da9471868c413f48fa",
       "format": "Metadata"
     },
     {
@@ -5613,9 +5675,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 543,
-  "item_last_updated": 1667525191,
-  "item_size": 35474401,
+  "files_count": 549,
+  "item_last_updated": 1667570476,
+  "item_size": 35933092,
   "metadata": {
     "identifier": "kitsapsun-2022",
     "collection": [
@@ -5637,15 +5699,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461174235,
+      "task_id": 3461704209,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 124695949,
+  "uniq": 1606367581,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

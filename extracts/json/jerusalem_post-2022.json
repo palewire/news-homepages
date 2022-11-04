@@ -1,5 +1,5 @@
 {
-  "created": 1667525374,
+  "created": 1667570446,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/9/items/jerusalem_post-2022",
@@ -10389,31 +10389,83 @@
       "format": "JSON"
     },
     {
+      "name": "jerusalem_post-2022-11-04T03:22:51.317982+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jerusalem_post-2022-11-04T03:22:51.317982+02:00.jpg",
+      "mtime": "1667530502",
+      "size": "10091",
+      "md5": "c2d33a76b337e20b36a4015bedc34da7",
+      "crc32": "1eb280b6",
+      "sha1": "502d1646f6787288553676b230430d58263d09f7"
+    },
+    {
+      "name": "jerusalem_post-2022-11-04T15:59:01.482895+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667570351",
+      "size": "1895",
+      "md5": "61e1b3318dc95eab8ddcbc45527a6e3e",
+      "crc32": "f78f965d",
+      "sha1": "146ac00a7a192c4b896015be2a15e4fe8cbd7a47",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-11-04T15:59:01.482895+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667570352",
+      "size": "64595",
+      "md5": "f048c5bf4a5e216bcfe5f3fd606995ba",
+      "crc32": "f227f2ee",
+      "sha1": "7d691fb6f4e67f2aee8fadc05b2ee0955ccc4949",
+      "format": "JSON"
+    },
+    {
+      "name": "jerusalem_post-2022-11-04T15:59:01.482895+02:00.jpg",
+      "source": "original",
+      "mtime": "1667570349",
+      "size": "280673",
+      "md5": "e408edc8959a3f9bbdc108d3be209f64",
+      "crc32": "608d8e36",
+      "sha1": "14dbfbf03d853c29dee9f40d932cf274bd6cd978",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jerusalem_post-2022-11-04T15:59:01.482895+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667570355",
+      "size": "1429",
+      "md5": "85b211c0292abcdf290ce6631121c73e",
+      "crc32": "51e01e8c",
+      "sha1": "9538cd776630b43bc105b7b6eeda59e13e831a7f",
+      "format": "JSON"
+    },
+    {
       "name": "jerusalem_post-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f7aea919e4b5980b2fb2a597dbc0834e301c99a1",
-      "mtime": "1667525348",
-      "size": "219222",
-      "md5": "d148bb37f5ade1528612e837fb19a80e",
-      "crc32": "4a04281c",
-      "sha1": "7c9bfb3d97b3ddaf2a5c109bc947370e3537b8a4",
+      "btih": "cd425ce8aecaa8c842de2cc023697438a0163acf",
+      "mtime": "1667570433",
+      "size": "220311",
+      "md5": "f66e7be174bf42489bfb3f624db6da57",
+      "crc32": "380b8fdd",
+      "sha1": "b42c10e5e6de2bd267b9dff3e8024266429ecf75",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jerusalem_post-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6cf75116ff7e944ff62af12b197a84fc",
+      "md5": "80d89b2a532524ffb24db7772061c99d",
       "summation": "md5"
     },
     {
       "name": "jerusalem_post-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667525204",
-      "size": "1306624",
-      "md5": "7f0de1c45f5bb9e96f5244ce3b8f04a7",
-      "crc32": "5df2174c",
-      "sha1": "2a1741c1e1ce6f0a026970a257c10b9fa1702cb7",
+      "mtime": "1667570368",
+      "size": "1310720",
+      "md5": "9d57cbe6525ceed4d487627dceec84d5",
+      "crc32": "b4e9b36f",
+      "sha1": "03681cacbe018e193aaea9239983da2f147a0dc8",
       "format": "Metadata"
     },
     {
@@ -10427,9 +10479,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1009,
-  "item_last_updated": 1667525348,
-  "item_size": 80105090,
+  "files_count": 1014,
+  "item_last_updated": 1667570433,
+  "item_size": 80468958,
   "metadata": {
     "identifier": "jerusalem_post-2022",
     "collection": [
@@ -10451,7 +10503,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461176740,
+      "task_id": 3461703609,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -10459,7 +10511,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 823643919,
+  "uniq": 1784882454,
   "workable_servers": [
     "ia601508.us.archive.org"
   ]
