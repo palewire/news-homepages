@@ -1,5 +1,5 @@
 {
-  "created": 1667551405,
+  "created": 1667605096,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/9/items/setopati-2022",
@@ -12413,31 +12413,72 @@
       "format": "JSON"
     },
     {
+      "name": "setopati-2022-11-04T14:27:03.410447+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "setopati-2022-11-04T14:27:03.410447+05:45.jpg",
+      "mtime": "1667556991",
+      "size": "9777",
+      "md5": "fa34d30d3c7e97271a6833cdb83d63e3",
+      "crc32": "cf55c84d",
+      "sha1": "ac2045250a65b82762ff825a5a282a435a005f32"
+    },
+    {
+      "name": "setopati-2022-11-05T04:51:19.252108+05:45.accessibility.json",
+      "source": "original",
+      "mtime": "1667603189",
+      "size": "123765",
+      "md5": "084c7f95bf68bb7fbf3df8ec5c2e4fc2",
+      "crc32": "2a8a311f",
+      "sha1": "a7651b29e3c105ac3605bd4eedef088153399fb8",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-11-05T04:51:19.252108+05:45.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667603192",
+      "size": "121456",
+      "md5": "d55d50e8251ed6deecfe7fa81eae2e61",
+      "crc32": "9127a854",
+      "sha1": "89b23538a7243b23bb60a5bb9f10fcf515f1ce71",
+      "format": "JSON"
+    },
+    {
+      "name": "setopati-2022-11-05T04:51:19.252108+05:45.wayback.json",
+      "source": "original",
+      "mtime": "1667603197",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "setopati-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d7d645e7d9b04a0f423e471b4589620dcbaba560",
-      "mtime": "1667551394",
-      "size": "254918",
-      "md5": "f671a7c3ee39374242c3766534a68d79",
-      "crc32": "8f1dccca",
-      "sha1": "fe54fb0ba97cfa363439725b67a5409ade7257b2",
+      "btih": "7216172f8b12aa3ae9998ae073d1a1fe0edcfb33",
+      "mtime": "1667603250",
+      "size": "255775",
+      "md5": "09649ef9cacf44b0c6139335dfe9337e",
+      "crc32": "b7fb2295",
+      "sha1": "6a1e23ea82dd9d2364e17547645b46158d5d135f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "setopati-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d623de81cf8e9af0d4c18f783e70bfd4",
+      "md5": "000fa251d0ee5158da0a0e9852b57850",
       "summation": "md5"
     },
     {
       "name": "setopati-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667551346",
-      "size": "1527808",
-      "md5": "f4fe4c5f68aca4e39ed4e7831a072049",
-      "crc32": "78697fb6",
-      "sha1": "18bd18726bde848cde68a58b4f938f96d79aa9db",
+      "mtime": "1667603200",
+      "size": "1531904",
+      "md5": "0cb39c6e1ea3cf0f4f6c8292dfeb3523",
+      "crc32": "c0910dbd",
+      "sha1": "f3c0df70bd412147bb24b00fdb7bda72f7a25429",
       "format": "Metadata"
     },
     {
@@ -12451,9 +12492,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1204,
-  "item_last_updated": 1667551394,
-  "item_size": 100344772,
+  "files_count": 1208,
+  "item_last_updated": 1667603250,
+  "item_size": 100604925,
   "metadata": {
     "identifier": "setopati-2022",
     "collection": [
@@ -12470,21 +12511,10 @@
     "publicdate": "2022-07-24 20:39:32",
     "addeddate": "2022-07-24 20:39:32"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3461466177,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1642644766,
+  "uniq": 945252836,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

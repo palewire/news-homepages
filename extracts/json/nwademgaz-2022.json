@@ -1,5 +1,5 @@
 {
-  "created": 1667551073,
+  "created": 1667604414,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/26/items/nwademgaz-2022",
@@ -5260,31 +5260,83 @@
       "format": "JSON"
     },
     {
+      "name": "nwademgaz-2022-11-04T17:58:42.280316-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667602736",
+      "size": "37911",
+      "md5": "5ce5a41acc47e7a74991da2a7ac23ed5",
+      "crc32": "c2aab453",
+      "sha1": "8ea7b21229762b5392b44fb4e3de9f7de973b135",
+      "format": "JSON"
+    },
+    {
+      "name": "nwademgaz-2022-11-04T17:58:42.280316-05:00.jpg",
+      "source": "original",
+      "mtime": "1667602734",
+      "size": "325479",
+      "md5": "6031ad065b1904a6b9cfb7cde6b659e3",
+      "crc32": "46acaec5",
+      "sha1": "4489e28d408d98ce73beed9b3fc29b55fbe4cbe8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nwademgaz-2022-11-04T17:58:42.280316-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667602737",
+      "size": "1486",
+      "md5": "55658e820438b93a58af13e5dbf68e2e",
+      "crc32": "cb45473a",
+      "sha1": "4222819e53b49ed0dd86c0206de2d6aab201c70a",
+      "format": "JSON"
+    },
+    {
+      "name": "nwademgaz-2022-11-04T17:58:42.280316-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667602739",
+      "size": "41912",
+      "md5": "c6aee60caa4c7235d33b843e1489d6c9",
+      "crc32": "e3719518",
+      "sha1": "f4040b304e6b4e1751be8afcf10e33ba6f153d88",
+      "format": "JSON"
+    },
+    {
+      "name": "nwademgaz-2022-11-04T17:58:42.280316-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nwademgaz-2022-11-04T17:58:42.280316-05:00.jpg",
+      "mtime": "1667604360",
+      "size": "10592",
+      "md5": "bc54aec00662d7bf3be24b849b47456d",
+      "crc32": "7e24c08d",
+      "sha1": "9ee16ffcb7e078b22cb7b95ff9daf1754e118391"
+    },
+    {
       "name": "nwademgaz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ef19d63ff4188d126595f660c137ac5c1284efcf",
-      "mtime": "1667551065",
-      "size": "109469",
-      "md5": "ab146e05a3819a18a58ac9c763371876",
-      "crc32": "9cef5a91",
-      "sha1": "875948be7fe74509079415a6f98313d002c03a58",
+      "btih": "d18bbe65d5e6213f6982cbf606adf3259e607162",
+      "mtime": "1667604368",
+      "size": "110531",
+      "md5": "766a727303bbcfe28d11ff5e9c47adb7",
+      "crc32": "23e41f5a",
+      "sha1": "9e1b62487f2c8d0bf5e1231416ef4d2b3ae7ede0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nwademgaz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6ae4774a7b38e88995345847e56252a0",
+      "md5": "89d72973d48e258fe5dc70729d53f069",
       "summation": "md5"
     },
     {
       "name": "nwademgaz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667551026",
-      "size": "688128",
-      "md5": "b0c7d9e18a8a864feaab3ed6e06571a5",
-      "crc32": "c6b83847",
-      "sha1": "9a5d567cd7ff30e7d00115d3267b11aa1997499f",
+      "mtime": "1667602743",
+      "size": "696320",
+      "md5": "81d531ca8637a70bf4368d5a33cb2fb4",
+      "crc32": "57752725",
+      "sha1": "b508388dfb18c739fad3c87922936a897a20b874",
       "format": "Metadata"
     },
     {
@@ -5298,9 +5350,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 515,
-  "item_last_updated": 1667551065,
-  "item_size": 32269860,
+  "files_count": 520,
+  "item_last_updated": 1667604368,
+  "item_size": 32696494,
   "metadata": {
     "identifier": "nwademgaz-2022",
     "collection": [
@@ -5317,21 +5369,10 @@
     "publicdate": "2022-09-12 04:08:00",
     "addeddate": "2022-09-12 04:08:00"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3461462176,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1139134261,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1342537198,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }
