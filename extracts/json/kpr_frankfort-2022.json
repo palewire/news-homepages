@@ -1,5 +1,5 @@
 {
-  "created": 1667481610,
+  "created": 1667525810,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/31/items/kpr_frankfort-2022",
@@ -11757,31 +11757,93 @@
       "format": "JSON"
     },
     {
+      "name": "kpr_frankfort-2022-11-03T09:18:52.200904-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kpr_frankfort-2022-11-03T09:18:52.200904-04:00.jpg",
+      "mtime": "1667498740",
+      "size": "10823",
+      "md5": "1228d9a2a6c3766dbf3eab67efefb5c6",
+      "crc32": "71e9e9d6",
+      "sha1": "5f0a335bafb48bfed37362500785f8d341428e2a"
+    },
+    {
+      "name": "kpr_frankfort-2022-11-03T21:26:00.426511-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667525167",
+      "size": "12042",
+      "md5": "528cda756ae63f90cd3afdaa7d96eab9",
+      "crc32": "3ee2460f",
+      "sha1": "b87ec5f4564329e5dffc92538f081e7a27055732",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-11-03T21:26:00.426511-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667525169",
+      "size": "20550",
+      "md5": "1cde821f902a3455f9e79016b18bfaa9",
+      "crc32": "e1392544",
+      "sha1": "2adcc4c488b0b7ac05b1cb67fd8b1e9f6d8a7238",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-11-03T21:26:00.426511-04:00.jpg",
+      "source": "original",
+      "mtime": "1667525166",
+      "size": "301296",
+      "md5": "68190457049310cc9aa140225c7b76d2",
+      "crc32": "64e476d7",
+      "sha1": "f6a7766dddb5c74a79efe76003512227af4b5aa2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kpr_frankfort-2022-11-03T21:26:00.426511-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667525170",
+      "size": "1405",
+      "md5": "bd9e5afec668dd75dae696cf6247a31c",
+      "crc32": "d9c39d68",
+      "sha1": "609fbfca306ec58fb64179b3e8ebad0ecad2fc7d",
+      "format": "JSON"
+    },
+    {
+      "name": "kpr_frankfort-2022-11-03T21:26:00.426511-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667525172",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "kpr_frankfort-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f190275c6f7857d665b26c3b3d43e3cab008c648",
-      "mtime": "1667481604",
-      "size": "246331",
-      "md5": "d6e5aaf391d8732896ea9aae54ead21e",
-      "crc32": "07a59297",
-      "sha1": "cfda73fba3583c2f836ecf9ab46f6f847ee7c1c5",
+      "btih": "47f4f584c9c5384fef51b33781b45ae916ecb8a8",
+      "mtime": "1667525229",
+      "size": "247607",
+      "md5": "78abcce6fcafd0dab6f9776f6f2fe77a",
+      "crc32": "8dfb0be6",
+      "sha1": "ad5fcc090d4f6d7d3afac7f07c6ce07873c3582d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kpr_frankfort-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8006f9a76d929f0d2de1bd6b791b2b1c",
+      "md5": "2f43a6b22495e74096dbcd0a7bc22fcd",
       "summation": "md5"
     },
     {
       "name": "kpr_frankfort-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667481554",
-      "size": "1470464",
-      "md5": "00becc7bb61fb2265694b38b7f6efaa0",
-      "crc32": "f1fe3f50",
-      "sha1": "556d8039f1707b1e39e0a4a53fe49101b12c0b3c",
+      "mtime": "1667525180",
+      "size": "1474560",
+      "md5": "f128cb842b3d90c8cc4e5c495276aefa",
+      "crc32": "385bcdfc",
+      "sha1": "bd32d81011f6b374a509f517ccb605c65d70eb5f",
       "format": "Metadata"
     },
     {
@@ -11795,9 +11857,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1141,
-  "item_last_updated": 1667481604,
-  "item_size": 74254440,
+  "files_count": 1147,
+  "item_last_updated": 1667525229,
+  "item_size": 74606130,
+  "kpr_frankfort-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kpr_frankfort-2022",
     "collection": [
@@ -11819,7 +11886,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460690344,
+      "task_id": 3461174886,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -11827,7 +11894,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 922517265,
+  "uniq": 1759049032,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

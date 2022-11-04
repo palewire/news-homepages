@@ -1,5 +1,5 @@
 {
-  "created": 1667481464,
+  "created": 1667525028,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/11/items/jornaldobrasil-2022",
@@ -16645,31 +16645,83 @@
       "format": "JSON"
     },
     {
+      "name": "jornaldobrasil-2022-11-03T10:15:26.605905-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jornaldobrasil-2022-11-03T10:15:26.605905-03:00.jpg",
+      "mtime": "1667494486",
+      "size": "10192",
+      "md5": "66dfe49e5c4d30f8a6fec2869fe7d937",
+      "crc32": "4c73b700",
+      "sha1": "d40f5360234f044e3ba5f85cad6d0c96690c2145"
+    },
+    {
+      "name": "jornaldobrasil-2022-11-03T22:22:20.577843-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667524943",
+      "size": "27215",
+      "md5": "639b073ec4bdafeb81f9a4e52fee31b1",
+      "crc32": "d08cc01d",
+      "sha1": "ac3cec6f351dbef36a55ffa1d54b124c69967ab2",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-11-03T22:22:20.577843-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667524948",
+      "size": "31606",
+      "md5": "e16c04749eb62c199a6e192200c5859f",
+      "crc32": "69cb3397",
+      "sha1": "b8dd10f6007588894fc52e4a28f9ff7a11291dff",
+      "format": "JSON"
+    },
+    {
+      "name": "jornaldobrasil-2022-11-03T22:22:20.577843-03:00.jpg",
+      "source": "original",
+      "mtime": "1667524942",
+      "size": "342109",
+      "md5": "ed4c0eae0c921c7ad98085637d507e00",
+      "crc32": "fac85446",
+      "sha1": "467c83360b6605f85ee3c99c3bb097492174f8a2",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jornaldobrasil-2022-11-03T22:22:20.577843-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667524950",
+      "size": "1426",
+      "md5": "7a861942b10522139865bdb57d2ed735",
+      "crc32": "d3262506",
+      "sha1": "7e2749385a6f8144c5958ebe7c4d318aa5a11a2b",
+      "format": "JSON"
+    },
+    {
       "name": "jornaldobrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c5b70c0196bf6e8285a332e472d7c26342587ae7",
-      "mtime": "1667481447",
-      "size": "349899",
-      "md5": "1a105261887a8bdb871634b164032666",
-      "crc32": "0eb6b438",
-      "sha1": "2e344cb1239c8085c93902fcceff7fb7d765ce17",
+      "btih": "ff60b04641573bb9538f4667f4a4b0d6be7cc43f",
+      "mtime": "1667525019",
+      "size": "350989",
+      "md5": "1d35eb324a0d1d8cb3da359458115c97",
+      "crc32": "8b77ce3c",
+      "sha1": "acf782ecfe2aee98b78a52118d0af5f952e20b54",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jornaldobrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "162f06dd5ad8966f24382acd62c1964c",
+      "md5": "2716dcce98692e59084709c3ebf1c266",
       "summation": "md5"
     },
     {
       "name": "jornaldobrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667481425",
-      "size": "2072576",
-      "md5": "58a08d77ae354442deefbf9f09604260",
-      "crc32": "aaf106b3",
-      "sha1": "19fd339d44f99932dee29bfeabbba54261ddd6f8",
+      "mtime": "1667524955",
+      "size": "2076672",
+      "md5": "c86f78f4464df6fc46d056f5e65fc708",
+      "crc32": "5754c94d",
+      "sha1": "c226c2568363b86c7143ca0d7c46582ff7bf20ac",
       "format": "Metadata"
     },
     {
@@ -16683,9 +16735,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1614,
-  "item_last_updated": 1667481447,
-  "item_size": 111133637,
+  "files_count": 1619,
+  "item_last_updated": 1667525019,
+  "item_size": 111551371,
   "metadata": {
     "identifier": "jornaldobrasil-2022",
     "collection": [
@@ -16707,7 +16759,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460688863,
+      "task_id": 3461171996,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -16715,7 +16767,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1305565288,
+  "uniq": 1696664040,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

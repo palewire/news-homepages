@@ -1,5 +1,5 @@
 {
-  "created": 1667485463,
+  "created": 1667525375,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/33/items/msn-2022",
@@ -8871,31 +8871,93 @@
       "format": "JSON"
     },
     {
+      "name": "msn-2022-11-03T06:22:20.334862-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msn-2022-11-03T06:22:20.334862-07:00.jpg",
+      "mtime": "1667496495",
+      "size": "9091",
+      "md5": "9f9b37b6322cf1dd8f5e7d8ee072060f",
+      "crc32": "134b1207",
+      "sha1": "79a212cbed6bf569b69e496040ae2852d7ecc244"
+    },
+    {
+      "name": "msn-2022-11-03T18:28:30.239817-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667525314",
+      "size": "74875",
+      "md5": "36745bc49ee2582c1dc23f66e8e88476",
+      "crc32": "a515c2a5",
+      "sha1": "813111925586f6cc4737969146f2d9a03923b16b",
+      "format": "JSON"
+    },
+    {
+      "name": "msn-2022-11-03T18:28:30.239817-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667525316",
+      "size": "2",
+      "md5": "d751713988987e9331980363e24189ce",
+      "crc32": "0d4cbb29",
+      "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "format": "JSON"
+    },
+    {
+      "name": "msn-2022-11-03T18:28:30.239817-07:00.jpg",
+      "source": "original",
+      "mtime": "1667525312",
+      "size": "264619",
+      "md5": "abdcf0608214de756a8c150d3d57e603",
+      "crc32": "a04038a9",
+      "sha1": "4c1747627dd4cca8be9e03a085c94946ef51b281",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "msn-2022-11-03T18:28:30.239817-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667525318",
+      "size": "1432",
+      "md5": "bc482315e4b9ab92f7a72dc18de8bed7",
+      "crc32": "bef7197d",
+      "sha1": "72bc1ede4ded9a80d8c1e89aba74723edfffc4d2",
+      "format": "JSON"
+    },
+    {
+      "name": "msn-2022-11-03T18:28:30.239817-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667525320",
+      "size": "25615",
+      "md5": "2a6c05619b1da43f33f96ebf02c0c3cf",
+      "crc32": "877f186a",
+      "sha1": "ad96b46e8566bc5bdb25a247cdfd01319b182e65",
+      "format": "JSON"
+    },
+    {
       "name": "msn-2022_archive.torrent",
       "source": "metadata",
-      "btih": "445eb571eb9a1cccf051b65a7955d8a9372ca007",
-      "mtime": "1667481814",
-      "size": "177038",
-      "md5": "56c935a7b377fc92468dfcaab48dbe60",
-      "crc32": "1e5816a7",
-      "sha1": "cc15df763f38ae9f78536305f3d5bca5d0e572b3",
+      "btih": "36556185d0b8d7e30264e164c451a921d6aec1e5",
+      "mtime": "1667525370",
+      "size": "178271",
+      "md5": "942d495e077d81576dd15cf9c4970a50",
+      "crc32": "4adfc260",
+      "sha1": "df62c0906279a65b64a38a1a526b1b4d6072e8db",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msn-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f3e7b40b72f7e0ba7eaf7b1df5c719c3",
+      "md5": "1bb37502407ef571a54a72fef250588b",
       "summation": "md5"
     },
     {
       "name": "msn-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667481768",
-      "size": "1097728",
-      "md5": "1296e92b74d96d7be14528ad40673c5a",
-      "crc32": "24364c8a",
-      "sha1": "3fa744f49666746876775fa44110cf6cafe7ad0e",
+      "mtime": "1667525325",
+      "size": "1101824",
+      "md5": "1db7e4a0fd799b30a98358a109e21dcb",
+      "crc32": "4b2475f1",
+      "sha1": "f9559967d8149770a9d3996113419d99f1e11e9b",
       "format": "Metadata"
     },
     {
@@ -8909,9 +8971,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 862,
-  "item_last_updated": 1667481814,
-  "item_size": 58613348,
+  "files_count": 868,
+  "item_last_updated": 1667525370,
+  "item_size": 58994311,
   "metadata": {
     "identifier": "msn-2022",
     "collection": [
@@ -8928,17 +8990,12 @@
     "publicdate": "2022-08-23 23:47:58",
     "addeddate": "2022-08-23 23:47:58"
   },
-  "msn-2022": {
-    "url": "https://www.msn.com/",
-    "job_id": "spn2-32c11d31369fc779b0443c88f568847893975971",
-    "message": "The same snapshot had been made 33 minutes, 23 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
   "pending_tasks": true,
   "server": "ia601506.us.archive.org",
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460692561,
+      "task_id": 3461176584,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -8946,7 +9003,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 964320931,
+  "uniq": 937776571,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]

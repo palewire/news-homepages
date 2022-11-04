@@ -1,5 +1,5 @@
 {
-  "created": 1667485382,
+  "created": 1667525398,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/2/items/lemonde_en-2022",
@@ -27101,31 +27101,93 @@
       "format": "JSON"
     },
     {
+      "name": "lemonde_en-2022-11-03T14:19:20.961993+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lemonde_en-2022-11-03T14:19:20.961993+01:00.jpg",
+      "mtime": "1667496094",
+      "size": "8757",
+      "md5": "83b8e10e74891c4d4efac9faea8596a1",
+      "crc32": "4ac617b4",
+      "sha1": "88502b735f5c4ad26f6b0ecf769661e3af82c166"
+    },
+    {
+      "name": "lemonde_en-2022-11-04T02:28:16.955037+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667525301",
+      "size": "14879",
+      "md5": "4c880a42c357e7724a43183cd11da475",
+      "crc32": "fc29f138",
+      "sha1": "a723760aa8804e37078b1f2d9b886aeb51ade020",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-11-04T02:28:16.955037+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667525302",
+      "size": "26783",
+      "md5": "cb89649c8bc90b758af089c9ba85d6b6",
+      "crc32": "0c89aaee",
+      "sha1": "5870249ff670c29bdc0e3de41cc7c2d5295c1fd3",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-11-04T02:28:16.955037+01:00.jpg",
+      "source": "original",
+      "mtime": "1667525299",
+      "size": "269824",
+      "md5": "afc3890db0244d7a2d1545522c39873d",
+      "crc32": "bcffb3f6",
+      "sha1": "658b694dca12b005263ab12b3549aa4b8b71613b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lemonde_en-2022-11-04T02:28:16.955037+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667525304",
+      "size": "1486",
+      "md5": "990762c38e0f6405307e803c7906d617",
+      "crc32": "5fcad338",
+      "sha1": "802b9d2db0c01a8394195da3eb71edc18f8e3267",
+      "format": "JSON"
+    },
+    {
+      "name": "lemonde_en-2022-11-04T02:28:16.955037+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667525306",
+      "size": "14284",
+      "md5": "1cb5e4f3a27564e3509ef40904ae8316",
+      "crc32": "047596a7",
+      "sha1": "ad906d55c9be6fd8062cb3cc50f16c918d3dd727",
+      "format": "JSON"
+    },
+    {
       "name": "lemonde_en-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ec7bd8900ef548b56400292f50464984f8760c2",
-      "mtime": "1667481654",
-      "size": "555059",
-      "md5": "5ba2582c232b858efd565592e8147e15",
-      "crc32": "a2200fec",
-      "sha1": "a967347b7628c0a4403d8bffee52c6b02f91c81f",
+      "btih": "e77b502cd173cfb6a3e153d433e2e2146422590c",
+      "mtime": "1667525391",
+      "size": "556338",
+      "md5": "aa1addc7d3172fcff2a10a026064b9f0",
+      "crc32": "bc01fca6",
+      "sha1": "6b897323d3a8f9f06408029c20ab961a7b6ac424",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lemonde_en-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "19edc1cf84c4f132fdca0a6fe886af35",
+      "md5": "8f5119ede157694456f58b13b6121abc",
       "summation": "md5"
     },
     {
       "name": "lemonde_en-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667481578",
-      "size": "3219456",
-      "md5": "024631c33152e8fb38aaf799dae73170",
-      "crc32": "5ee0c7b6",
-      "sha1": "6727620a5b803ce822e144f285efcaba151dc5cc",
+      "mtime": "1667525311",
+      "size": "3231744",
+      "md5": "87f7b00491774e1bb43100857492af13",
+      "crc32": "a6c596ce",
+      "sha1": "7e72c0be7f936b82d3560cf7ee81eee47cc2dfb2",
       "format": "Metadata"
     },
     {
@@ -27139,14 +27201,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2612,
-  "item_last_updated": 1667481654,
-  "item_size": 184438205,
-  "lemonde_en-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 2618,
+  "item_last_updated": 1667525391,
+  "item_size": 184787785,
   "metadata": {
     "identifier": "lemonde_en-2022",
     "collection": [
@@ -27168,7 +27225,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460690856,
+      "task_id": 3461176864,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -27176,7 +27233,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1215333932,
+  "uniq": 1422771708,
   "workable_servers": [
     "ia601507.us.archive.org"
   ]

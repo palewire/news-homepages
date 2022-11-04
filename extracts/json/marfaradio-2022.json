@@ -1,5 +1,5 @@
 {
-  "created": 1667481837,
+  "created": 1667525371,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/24/items/marfaradio-2022",
@@ -13021,31 +13021,93 @@
       "format": "JSON"
     },
     {
+      "name": "marfaradio-2022-11-03T08:22:20.095907-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "marfaradio-2022-11-03T08:22:20.095907-05:00.jpg",
+      "mtime": "1667496882",
+      "size": "8670",
+      "md5": "f5fa4d6aff8004a49e493fc0deb791bf",
+      "crc32": "9971d1f7",
+      "sha1": "3994a115221647957e2322a76f42fc18f8777d90"
+    },
+    {
+      "name": "marfaradio-2022-11-03T20:28:20.666360-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667525305",
+      "size": "31401",
+      "md5": "c85b90f5c4c108b09dfb966ab7061e96",
+      "crc32": "cc154438",
+      "sha1": "d01810ba9e16a24d1eef077caf4897587a3c5c86",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-11-03T20:28:20.666360-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667525306",
+      "size": "29095",
+      "md5": "ed26689c1097c5abea95baeaec2df89d",
+      "crc32": "44438884",
+      "sha1": "82bf2412f6c3802892a8d813de757e4a1bd9079c",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-11-03T20:28:20.666360-05:00.jpg",
+      "source": "original",
+      "mtime": "1667525303",
+      "size": "267230",
+      "md5": "5cc744ac6fd3651a3b9845cc1499242a",
+      "crc32": "7f72e86d",
+      "sha1": "7d3a98f2d89cb4c7bb6b3fab0012519d4c284cd7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "marfaradio-2022-11-03T20:28:20.666360-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667525308",
+      "size": "1513",
+      "md5": "d2e78f3ff42f9a7a03de54574d71f447",
+      "crc32": "60e630ea",
+      "sha1": "4b025849e1a9561c0c8e930c5d2709f3b12efcb8",
+      "format": "JSON"
+    },
+    {
+      "name": "marfaradio-2022-11-03T20:28:20.666360-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667525310",
+      "size": "15045",
+      "md5": "8eed818b2ea80c0e029620da1ec38460",
+      "crc32": "e5d9ef5b",
+      "sha1": "e81ce29596c8a60943303e7e6e2f5330e15c5e64",
+      "format": "JSON"
+    },
+    {
       "name": "marfaradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e08e1e8319f487eddc4f70baad85fefc2e9ee377",
-      "mtime": "1667481832",
-      "size": "268019",
-      "md5": "ecf81021149d4d78953b1965b5434140",
-      "crc32": "52b76b22",
-      "sha1": "1a4697d66a563021e4ac63a3f474e764f7237a66",
+      "btih": "dea7856e4002601942a5f73e7d0e8ec5bdcf6ec6",
+      "mtime": "1667525366",
+      "size": "269278",
+      "md5": "2847c0a6c9c1fa240d905dc2c7a8250e",
+      "crc32": "09526d6a",
+      "sha1": "98f249e28c0b7845cb48ae43118b7d41f960be6a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "marfaradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3357cfd54dac7558df1144c407f96c2f",
+      "md5": "4764c014fb37aa54b9773ef62e643ca0",
       "summation": "md5"
     },
     {
       "name": "marfaradio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667481772",
-      "size": "1605632",
-      "md5": "b964b644b6b95777a4dbd5c56b199818",
-      "crc32": "c750a45b",
-      "sha1": "df2405d8bc2313fa4d8a734ea404ee28648175d1",
+      "mtime": "1667525315",
+      "size": "1613824",
+      "md5": "747f11f22e14502c18ae19e8d8c963dc",
+      "crc32": "d7878e8b",
+      "sha1": "666ef4a5aaacc3db5d2a321275ac22b07d41dc8f",
       "format": "Metadata"
     },
     {
@@ -13059,9 +13121,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1262,
-  "item_last_updated": 1667481832,
-  "item_size": 73232622,
+  "files_count": 1268,
+  "item_last_updated": 1667525366,
+  "item_size": 73595027,
   "metadata": {
     "identifier": "marfaradio-2022",
     "collection": [
@@ -13083,7 +13145,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3460692760,
+      "task_id": 3461176530,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -13091,7 +13153,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 506228124,
+  "uniq": 1030696170,
   "workable_servers": [
     "ia902506.us.archive.org"
   ]
