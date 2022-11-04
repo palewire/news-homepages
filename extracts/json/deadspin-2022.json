@@ -1,5 +1,5 @@
 {
-  "created": 1667521104,
+  "created": 1667565563,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/33/items/deadspin-2022",
@@ -14083,31 +14083,93 @@
       "format": "JSON"
     },
     {
+      "name": "deadspin-2022-11-03T20:17:02.031835-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "deadspin-2022-11-03T20:17:02.031835-04:00.jpg",
+      "mtime": "1667528520",
+      "size": "11483",
+      "md5": "72c2edc766edb2816a2cac904aa12020",
+      "crc32": "be1b15f3",
+      "sha1": "01676ba6761c384d8d76fbdc154ae18d273f66f8"
+    },
+    {
+      "name": "deadspin-2022-11-04T08:38:04.848336-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667565499",
+      "size": "43944",
+      "md5": "aed6a821b4ce552b85d871a15ac5b127",
+      "crc32": "7e02e67f",
+      "sha1": "1fbabc61fcfdbb03146071dc3328920afbb321aa",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-11-04T08:38:04.848336-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667565501",
+      "size": "30196",
+      "md5": "293545a5485f1e08985c885eff982b0a",
+      "crc32": "dcd2a7b5",
+      "sha1": "ce4339c412cffe9ebafe9d0eb331f035b9c4e441",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-11-04T08:38:04.848336-04:00.jpg",
+      "source": "original",
+      "mtime": "1667565497",
+      "size": "320468",
+      "md5": "6ece0098628d99373b004a2957368baa",
+      "crc32": "e4381133",
+      "sha1": "eff44136159f06e566bfd11f80543346ed0b6280",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "deadspin-2022-11-04T08:38:04.848336-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667565503",
+      "size": "1437",
+      "md5": "25bae67b92595b4e5abf90ce5eea95b8",
+      "crc32": "f7d32821",
+      "sha1": "be25d8c98d7611e8ef4e4fbf7b446e6b84078816",
+      "format": "JSON"
+    },
+    {
+      "name": "deadspin-2022-11-04T08:38:04.848336-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667565506",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "deadspin-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0643d65303fc6e7e88aad6dfba21f4eb1be53398",
-      "mtime": "1667521095",
-      "size": "287415",
-      "md5": "8c3d31b5990140b5f3562cd9fdb0129a",
-      "crc32": "08f2b1c6",
-      "sha1": "3b1d4906e2c3bb8982de44eafd5ba7cab1e541c1",
+      "btih": "dcd193b43f2854a949592c75536f6f4ca3144142",
+      "mtime": "1667565558",
+      "size": "288681",
+      "md5": "d6f69dfff8d22f7cf7533a411bf1cdf6",
+      "crc32": "cce78df4",
+      "sha1": "b7c410610193e5de79fec148c8416f41a02e3b6a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "deadspin-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "40000a470a3463cd7db0e962998969d6",
+      "md5": "5ffb365a573a90fa8afa3a709399d528",
       "summation": "md5"
     },
     {
       "name": "deadspin-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667521044",
-      "size": "1699840",
-      "md5": "763b326cf9fd2fd7bd2baed26d3d3d22",
-      "crc32": "f75d35b4",
-      "sha1": "f25d78e5db6077af80727d556d8aa81ff25234e7",
+      "mtime": "1667565508",
+      "size": "1708032",
+      "md5": "94e04886ca34b6bd35bedbd452a17449",
+      "crc32": "92481ca4",
+      "sha1": "8c4b8c3be3c5f142fa3b07524ad2fa8f958027a6",
       "format": "Metadata"
     },
     {
@@ -14121,9 +14183,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1362,
-  "item_last_updated": 1667521095,
-  "item_size": 101423952,
+  "files_count": 1368,
+  "item_last_updated": 1667565558,
+  "item_size": 101841140,
   "metadata": {
     "identifier": "deadspin-2022",
     "collection": [
@@ -14145,15 +14207,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461123892,
+      "task_id": 3461643204,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1143710462,
+  "uniq": 20933650,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]
