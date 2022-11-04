@@ -1,5 +1,5 @@
 {
-  "created": 1667529773,
+  "created": 1667578854,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/34/items/reductress-2022",
@@ -9997,21 +9997,32 @@
       "format": "JSON"
     },
     {
+      "name": "reductress-2022-11-03T22:41:43.556401-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "reductress-2022-11-03T22:41:43.556401-04:00.jpg",
+      "mtime": "1667531997",
+      "size": "11089",
+      "md5": "3953e1c640f94ce960ac790fe3037966",
+      "crc32": "8079bcc4",
+      "sha1": "fea8f15141a35177a4dc0caa59e4e5e2f7b1b037"
+    },
+    {
       "name": "reductress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d813a4f6d7ef8ba8b21797d3d32dfd2535b33a48",
-      "mtime": "1667529769",
-      "size": "206762",
-      "md5": "303c825f6680479b30dc63eb361c5018",
-      "crc32": "842469b9",
-      "sha1": "d4427394ce5e21a86705a725bc8a613ca6c873ba",
+      "btih": "e11f1633a154f114adf453ca39ccefea13532011",
+      "mtime": "1667532050",
+      "size": "206969",
+      "md5": "69c9e4fe245e4c73eac677e30a5bb1cb",
+      "crc32": "3e6a6821",
+      "sha1": "ea7b32222cd7205017e761ee7bb430bca26173c7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reductress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e3b37175e9082ede55c55ae8c79fb392",
+      "md5": "0608c9e324632277bc0b8def2d812c25",
       "summation": "md5"
     },
     {
@@ -10035,9 +10046,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 971,
-  "item_last_updated": 1667529769,
-  "item_size": 64638318,
+  "files_count": 972,
+  "item_last_updated": 1667532050,
+  "item_size": 64649614,
   "metadata": {
     "identifier": "reductress-2022",
     "collection": [
@@ -10054,21 +10065,18 @@
     "publicdate": "2022-08-15 01:29:39",
     "addeddate": "2022-08-15 01:29:39"
   },
-  "pending_tasks": true,
+  "reductress-2022": {
+    "url": "https://reductress.com/",
+    "job_id": "spn2-61b3d0827b0cf976d8e17f3c6122d7bd77ab8123",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1141.",
+    "resources": []
+  },
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3461230017,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1563102185,
+  "uniq": 1116100295,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }
