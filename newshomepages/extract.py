@@ -1,19 +1,20 @@
+import os
+import re
 import csv
 import json
-import os
-import pathlib
-import re
 import time
+import pathlib
 from datetime import datetime
 from urllib.parse import urlparse
 
 import click
-import internetarchive
-import pandas as pd
 import requests
-from requests.adapters import HTTPAdapter, Retry
+import pandas as pd
+import internetarchive
 from rich import print
+from retry import retry
 from rich.progress import track
+from requests.adapters import HTTPAdapter, Retry
 
 from . import utils
 
@@ -53,6 +54,7 @@ def download_items(
     with open(utils.EXTRACT_DIR / "json" / f"{IA_COLLECTION}.json", "w") as fh:
         json.dump(collection.item_metadata, fh, indent=2)
 
+    @retry(tries=3, delay=5, backoff=2)
     def _save_item(item):
         # Save it locally
         output_obj = pathlib.Path(output_path)
