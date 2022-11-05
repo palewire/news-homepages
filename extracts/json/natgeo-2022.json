@@ -1,5 +1,5 @@
 {
-  "created": 1667618128,
+  "created": 1667658107,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/natgeo-2022",
@@ -14302,31 +14302,93 @@
       "sha1": "9ade8047b653a03a51a2d02d4e6c108d7ec0fec7"
     },
     {
+      "name": "natgeo-2022-11-05T09:59:35.076742-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667656777",
+      "size": "39720",
+      "md5": "63c9c14f9ec39822bf67bd8c4cdee4c1",
+      "crc32": "e6388b22",
+      "sha1": "1afd1c7230e674f9e1c01e5367332fde1417c3ad",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-11-05T09:59:35.076742-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667656779",
+      "size": "26098",
+      "md5": "e5addf2abc3cdd1e0c4a8c9379f1de13",
+      "crc32": "c778a4bd",
+      "sha1": "331bc2c594d9bfeefef40fddcd50f97b1c72ae70",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-11-05T09:59:35.076742-04:00.jpg",
+      "source": "original",
+      "mtime": "1667656776",
+      "size": "220545",
+      "md5": "31fdb2a551bd697e70e17896c5d668ae",
+      "crc32": "c03e3a80",
+      "sha1": "d2f857049702157fd15e9b6c0e0aeaefd4744dc5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "natgeo-2022-11-05T09:59:35.076742-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667656780",
+      "size": "1564",
+      "md5": "dcff86a1c1260236271f9c2f7d81b333",
+      "crc32": "4436cd6b",
+      "sha1": "da7fd6ccbc02ec186fcb0c7c45000ab86f642ad4",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-11-05T09:59:35.076742-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667656782",
+      "size": "241",
+      "md5": "cd0d81e70e83ce0a71659e0ab53f1b81",
+      "crc32": "7529b38b",
+      "sha1": "38b51da79f4af0cf92ce705c630d355e82e211bd",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-11-05T09:59:35.076742-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "natgeo-2022-11-05T09:59:35.076742-04:00.jpg",
+      "mtime": "1667657942",
+      "size": "9837",
+      "md5": "e1d4fb53e7b71ef8d2495bb26093eb87",
+      "crc32": "ff8e3b3c",
+      "sha1": "e5e98d251453c5a802a1d7e5cfdaf0522e6880c1"
+    },
+    {
       "name": "natgeo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ecebc1894cc1e9c1c965b5c83058987b140ff20",
-      "mtime": "1667618093",
-      "size": "288381",
-      "md5": "8c8c830d7fd5dca9134c90e3b4781f2e",
-      "crc32": "651d0c8a",
-      "sha1": "527fad49c2043d9e2d104684e185173cbd7972be",
+      "btih": "d1efa9f5d65fa39c7408c70d64286020ff90a13c",
+      "mtime": "1667658032",
+      "size": "289614",
+      "md5": "e18e74c25c0426eddee68792c9dea5ec",
+      "crc32": "e7a487cf",
+      "sha1": "5ad66c91c285349165f96e65626bf3b33cee00de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "natgeo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "93116d2f96b08be4eae83c78c77d11df",
+      "md5": "dc4ac91a8b4ca49a67dfffdc4df32bb9",
       "summation": "md5"
     },
     {
       "name": "natgeo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667616473",
-      "size": "1728512",
-      "md5": "abc424e3a33c147a5d327410e0c1b4ce",
-      "crc32": "11e636e3",
-      "sha1": "97c1e229a340a2967700a9d622ef5d8ba9a0b432",
+      "mtime": "1667656791",
+      "size": "1736704",
+      "md5": "7432575ae8347357774071f7d5792c77",
+      "crc32": "ba5648db",
+      "sha1": "61c6fa061b37c296dc2b1dc325deb050ff6144ad",
       "format": "Metadata"
     },
     {
@@ -14340,9 +14402,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1384,
-  "item_last_updated": 1667618093,
-  "item_size": 81055455,
+  "files_count": 1390,
+  "item_last_updated": 1667658032,
+  "item_size": 81362885,
   "metadata": {
     "identifier": "natgeo-2022",
     "collection": [
@@ -14360,7 +14422,7 @@
     "addeddate": "2022-07-04 21:49:06"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 69355266,
+  "uniq": 37390527,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

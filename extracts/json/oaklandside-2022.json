@@ -1,6 +1,5 @@
 {
-  "conflict": 1667618530,
-  "created": 1667618530,
+  "created": 1667658027,
   "d1": "ia904705.us.archive.org",
   "d2": "ia804705.us.archive.org",
   "dir": "/8/items/oaklandside-2022",
@@ -21609,31 +21608,93 @@
       "sha1": "78569323b7d9ab5d44f27c4f790694b039d817cf"
     },
     {
+      "name": "oaklandside-2022-11-05T07:02:21.632207-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667656950",
+      "size": "37381",
+      "md5": "262f371f75805fa1c7761f785002243c",
+      "crc32": "99869a8d",
+      "sha1": "c8f2346ac642da6d721338ef3c5a989dcaeb138f",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-11-05T07:02:21.632207-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667656952",
+      "size": "33645",
+      "md5": "87a0f4a2b54919fc09b910dcf7ab68bc",
+      "crc32": "03de6442",
+      "sha1": "ea41166d597912feb6eef962c033cd8fefbee00f",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-11-05T07:02:21.632207-07:00.jpg",
+      "source": "original",
+      "mtime": "1667656948",
+      "size": "319258",
+      "md5": "040d7fcf600e2bb10b6a1ba2b0b5c65e",
+      "crc32": "2901b49f",
+      "sha1": "572c2c599d6fa3984a5d83b186fb3163299b99e6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "oaklandside-2022-11-05T07:02:21.632207-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667656954",
+      "size": "1459",
+      "md5": "7f85dd848ee33b37eec2a1826b34e6fa",
+      "crc32": "3eeafa60",
+      "sha1": "663f9f9d7fa38d0b3b36086407c035f7385a615e",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-11-05T07:02:21.632207-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667656956",
+      "size": "249",
+      "md5": "1bb51633610e9fb596b49c84a5b514b1",
+      "crc32": "c84f20ea",
+      "sha1": "54f1f73506571f279ad000fb9e2579c0149f6612",
+      "format": "JSON"
+    },
+    {
+      "name": "oaklandside-2022-11-05T07:02:21.632207-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "oaklandside-2022-11-05T07:02:21.632207-07:00.jpg",
+      "mtime": "1667657980",
+      "size": "10525",
+      "md5": "2a66a0a350f119b71458415bfd929c95",
+      "crc32": "c4482974",
+      "sha1": "78569323b7d9ab5d44f27c4f790694b039d817cf"
+    },
+    {
       "name": "oaklandside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d93c82e547c16adf9b41dfaeba3e6e90ad51f2c1",
-      "mtime": "1667618527",
-      "size": "445312",
-      "md5": "6692495967e7e539c313b490233527e8",
-      "crc32": "120c246d",
-      "sha1": "d91b72cf3a3b3b77520b982dd46c02615b174782",
+      "btih": "3a91d3d211b1dab168d22ce8a5b136a0fdc256c2",
+      "mtime": "1667658018",
+      "size": "446596",
+      "md5": "c75f1c225722cf9eba9bf4a25eaf53ae",
+      "crc32": "854a33cb",
+      "sha1": "88bfb7d17ab9d3c1e7a4c89963002e738c059c56",
       "format": "Archive BitTorrent"
     },
     {
       "name": "oaklandside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c69a872b4baaf7c5c0f7efa56d8db1a",
+      "md5": "c5dab6a81caafcbc52c14c64336731b3",
       "summation": "md5"
     },
     {
       "name": "oaklandside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667616620",
-      "size": "2539520",
-      "md5": "3c53ad82de26db299149ed6fd6466f19",
-      "crc32": "a8bd8d42",
-      "sha1": "77a6de3beedf4cc90d0c53cf9b8edba7211c5353",
+      "mtime": "1667656959",
+      "size": "2543616",
+      "md5": "4440bad3edbc2cc969ff4fa9f60285f0",
+      "crc32": "6b8ab657",
+      "sha1": "a55045a1eedcbc754870dcb19ba8905a5737e369",
       "format": "Metadata"
     },
     {
@@ -21647,9 +21708,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2079,
-  "item_last_updated": 1667618527,
-  "item_size": 178880741,
+  "files_count": 2085,
+  "item_last_updated": 1667658018,
+  "item_size": 179288638,
   "metadata": {
     "identifier": "oaklandside-2022",
     "collection": [
@@ -21666,29 +21727,10 @@
     "publicdate": "2022-03-23 02:09:27",
     "addeddate": "2022-03-23 02:09:27"
   },
-  "pending_tasks": true,
-  "server": "ia904705.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462425066,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3462448464,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1497656330,
+  "server": "ia804705.us.archive.org",
+  "uniq": 43896159,
   "workable_servers": [
+    "ia804705.us.archive.org",
     "ia904705.us.archive.org"
   ]
 }
