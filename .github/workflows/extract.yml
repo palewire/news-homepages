@@ -30,15 +30,6 @@ jobs:
           git config pull.rebase false
           git pull origin $GITHUB_REF
 
-      - id: cache
-        name: Update cache
-        uses: actions/cache@v3
-        with:
-          path: .cache
-          key: extract-lighthouse-${{ github.run_id }}
-          restore-keys: |
-            extract-download-items
-
       - id: download-items
         name: Download items
         run: |
