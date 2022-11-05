@@ -1,5 +1,5 @@
 {
-  "created": 1667617795,
+  "created": 1667653461,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/22/items/jdnews-2022",
@@ -5710,31 +5710,82 @@
       "sha1": "602c7d920df44158e5fdb35d28f33d20bd1ae662"
     },
     {
+      "name": "jdnews-2022-11-05T09:03:21.014368-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667653408",
+      "size": "23863",
+      "md5": "343efd8edf2d322b9d3d0f2a8047dce0",
+      "crc32": "cdc97719",
+      "sha1": "f2b9110295f2ffec7e79e412d74c8459020dc74f",
+      "format": "JSON"
+    },
+    {
+      "name": "jdnews-2022-11-05T09:03:21.014368-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667653410",
+      "size": "36744",
+      "md5": "9a775396d4d9c30cf1e02c5a5b22fb9d",
+      "crc32": "bb1e6c65",
+      "sha1": "1d42fd6fe1a077bddd7bd5cc61750a6d72d6b677",
+      "format": "JSON"
+    },
+    {
+      "name": "jdnews-2022-11-05T09:03:21.014368-04:00.jpg",
+      "source": "original",
+      "mtime": "1667653406",
+      "size": "284849",
+      "md5": "17f95fa571ff8485c49aec73dfe5c768",
+      "crc32": "5e4e1033",
+      "sha1": "61562400c36ca83241432a0fd7fcf39cc4ab05e0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jdnews-2022-11-05T09:03:21.014368-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667653411",
+      "size": "1457",
+      "md5": "8a9c93512325b37bbcb0233115510fe0",
+      "crc32": "80b5c316",
+      "sha1": "ad1a0099b96901cf4ca6f54cf158999eea46d4b5",
+      "format": "JSON"
+    },
+    {
+      "name": "jdnews-2022-11-05T09:03:21.014368-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667653413",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "jdnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "608fc6dd69671265acf1e0b9526014a152440c3b",
-      "mtime": "1667617755",
-      "size": "116429",
-      "md5": "b772c157db0ef7925754c417c7d0027a",
-      "crc32": "63f0c432",
-      "sha1": "c76292331af5db03737f1184460e621f913e8b78",
+      "btih": "5baae6271af49e730803dae29d34e7d9bf5e284f",
+      "mtime": "1667653459",
+      "size": "117480",
+      "md5": "9bc24b94f33a57f76aa7cdcc10ad6e36",
+      "crc32": "7bbb7e20",
+      "sha1": "708c5d64918d4171e4a05e2ab0d423f96253159a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jdnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f444db2b87a82030598ac3fa1015e6b0",
+      "md5": "f589faf34a03137c6501aae6ecd3af68",
       "summation": "md5"
     },
     {
       "name": "jdnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667616086",
-      "size": "716800",
-      "md5": "a5d4a4ce2bac68c45a933ecfa99b917c",
-      "crc32": "9927b04d",
-      "sha1": "756295809d1b3d7692c4993e320e546f2dd31a66",
+      "mtime": "1667653419",
+      "size": "724992",
+      "md5": "385364d0152d21263507e0bbe06dc75a",
+      "crc32": "bd5ce366",
+      "sha1": "cd87a9b5117a437a5117a4adf74f8fc03ac87d54",
       "format": "Metadata"
     },
     {
@@ -5748,9 +5799,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 556,
-  "item_last_updated": 1667617755,
-  "item_size": 38234191,
+  "files_count": 561,
+  "item_last_updated": 1667653459,
+  "item_size": 38590549,
   "metadata": {
     "identifier": "jdnews-2022",
     "collection": [
@@ -5767,10 +5818,21 @@
     "publicdate": "2022-09-20 22:24:57",
     "addeddate": "2022-09-20 22:24:57"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 617846928,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462841177,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 447880482,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }

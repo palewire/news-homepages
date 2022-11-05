@@ -1,6 +1,5 @@
 {
-  "conflict": 1667618928,
-  "created": 1667618928,
+  "created": 1667653699,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/25/items/kvoa-2022",
@@ -13941,31 +13940,82 @@
       "sha1": "42fc6dabd2016dc6efd8878b74aaa2599af942fd"
     },
     {
+      "name": "kvoa-2022-11-05T06:06:40.520499-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667653603",
+      "size": "36484",
+      "md5": "a4f2fe0b1c91d4177dd5b05ccf1b128f",
+      "crc32": "8dcb295d",
+      "sha1": "2c0c101524421e675910fbaf29ecdbbec2b4432b",
+      "format": "JSON"
+    },
+    {
+      "name": "kvoa-2022-11-05T06:06:40.520499-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667653605",
+      "size": "62142",
+      "md5": "2e665e840082c156a7f29a27888f3166",
+      "crc32": "0c3623a1",
+      "sha1": "88ada1872947853ab2c002171457daf188569d32",
+      "format": "JSON"
+    },
+    {
+      "name": "kvoa-2022-11-05T06:06:40.520499-07:00.jpg",
+      "source": "original",
+      "mtime": "1667653602",
+      "size": "289315",
+      "md5": "be9feb26ef87873e6a181514b05d71c7",
+      "crc32": "22b73717",
+      "sha1": "9bcdb7dc33e41dd855c21394748c4eb8ced38e57",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kvoa-2022-11-05T06:06:40.520499-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667653608",
+      "size": "1441",
+      "md5": "29bc4825c72f02aa24ce04984f753d0c",
+      "crc32": "697e0300",
+      "sha1": "a75de607737c51328e56d411f7434b388beacd64",
+      "format": "JSON"
+    },
+    {
+      "name": "kvoa-2022-11-05T06:06:40.520499-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667653610",
+      "size": "201",
+      "md5": "f2d024ad3775cad8b6641b879e7292e5",
+      "crc32": "4a331418",
+      "sha1": "190c9481f0a04a79c094e6f8d476b0582f58a299",
+      "format": "JSON"
+    },
+    {
       "name": "kvoa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "79c430b9a57a105489364529ce8e7d0c76c37735",
-      "mtime": "1667618872",
-      "size": "279344",
-      "md5": "c23369a723fc66c4bf499430b24f960f",
-      "crc32": "e1401937",
-      "sha1": "a6fd6fc8225e8c2c072adae54c41b503e005c548",
+      "btih": "2f2ac4c79a6094ec9e60a48bc7646ed57f8007e0",
+      "mtime": "1667653683",
+      "size": "280385",
+      "md5": "dbbce4b77c7b7db14390825e76e79da6",
+      "crc32": "e7cf94e5",
+      "sha1": "8e77422f1bedb9de83d28d5aac67fc46b9ca0f67",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kvoa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "174cd0ee816373677e9b5931d4bdd2c7",
+      "md5": "1f6970ef43b380f36b8ead89991ce6cb",
       "summation": "md5"
     },
     {
       "name": "kvoa-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667616212",
-      "size": "1675264",
-      "md5": "468dcdbcf0b4e3fc3f934f3d256f7d36",
-      "crc32": "eb65eba9",
-      "sha1": "09d4b7c3075be7abbd07bb936940ca1107862bbd",
+      "mtime": "1667653620",
+      "size": "1679360",
+      "md5": "c1a9900290bf88ae02301391983ec8e1",
+      "crc32": "99e3f7b4",
+      "sha1": "f0595d5cbfe4ecce7e08de141429ab434e595ed0",
       "format": "Metadata"
     },
     {
@@ -13979,9 +14029,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1348,
-  "item_last_updated": 1667618872,
-  "item_size": 111735372,
+  "files_count": 1353,
+  "item_last_updated": 1667653683,
+  "item_size": 112130092,
   "metadata": {
     "identifier": "kvoa-2022",
     "collection": [
@@ -14003,15 +14053,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3462452316,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "task_id": 3462844639,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
     }
   ],
-  "uniq": 1043431294,
+  "uniq": 176705609,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

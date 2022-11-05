@@ -1,5 +1,5 @@
 {
-  "created": 1667617699,
+  "created": 1667653641,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/3/items/israelhayomeng-2022",
@@ -10588,31 +10588,82 @@
       "sha1": "ab337515223743a883fb63825d2648a081d32df1"
     },
     {
+      "name": "israelhayomeng-2022-11-05T15:03:13.014743+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667653430",
+      "size": "123827",
+      "md5": "5fdad75aa3f260ccc3c533701ae135ae",
+      "crc32": "e9d331c3",
+      "sha1": "160c3b05c60f3820672556973fa23237b054cabf",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-11-05T15:03:13.014743+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667653433",
+      "size": "137840",
+      "md5": "8919b62a46f85c548dd38abaf15dd7bc",
+      "crc32": "8525819b",
+      "sha1": "281b3855908f903342147957541596eb0fd1b33b",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-11-05T15:03:13.014743+02:00.jpg",
+      "source": "original",
+      "mtime": "1667653429",
+      "size": "344488",
+      "md5": "5e1ea2766d66a6fe4b0701edc9b0e9da",
+      "crc32": "0a47bebb",
+      "sha1": "32b20fbd39c11f3d37dc2c4f5ff1a179a2f72716",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "israelhayomeng-2022-11-05T15:03:13.014743+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667653436",
+      "size": "1522",
+      "md5": "d54714aa1bd6aa2d013f5071a38216f0",
+      "crc32": "2e180212",
+      "sha1": "f047d7976cdd28a3063648ae6f860d55ce6b838f",
+      "format": "JSON"
+    },
+    {
+      "name": "israelhayomeng-2022-11-05T15:03:13.014743+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667653439",
+      "size": "44577",
+      "md5": "b705bf9748d4c6439ccadb0e4fc20ba4",
+      "crc32": "277bb0fb",
+      "sha1": "159a9b73dd6c8c7e373d73a042b0d18ca345186a",
+      "format": "JSON"
+    },
+    {
       "name": "israelhayomeng-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2659efbb7fe8aa919704a762134203f87cdac4b8",
-      "mtime": "1667617673",
-      "size": "224698",
-      "md5": "ffd13785150d545d33ddb4b80a3aec91",
-      "crc32": "cc98c4ae",
-      "sha1": "9fa0dc39d1cbf88963aba78fe6be9dff72ed23a5",
+      "btih": "5fa883407bf2327d092458655b0370a2daa4294d",
+      "mtime": "1667653598",
+      "size": "225793",
+      "md5": "1c2154fff562806b761cb04b77164fe8",
+      "crc32": "1452abfa",
+      "sha1": "bdff488231f76d6e829396383cc534c51efeffc4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "israelhayomeng-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "32dc0e9607c0bf4459aa82e6fe8d7ff4",
+      "md5": "abde15bef315db8ab1661c2af88e3941",
       "summation": "md5"
     },
     {
       "name": "israelhayomeng-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667616009",
-      "size": "1323008",
-      "md5": "503709e3d67349d2bf044d113229b23d",
-      "crc32": "f3b7d08b",
-      "sha1": "0948786ffea80f93667c189d12a26417c2b5d4c4",
+      "mtime": "1667653457",
+      "size": "1331200",
+      "md5": "5982d5d9ffac282eb2371210950a4229",
+      "crc32": "55b72882",
+      "sha1": "1e0371868e573cd934afcb49c575de32f0ad6c67",
       "format": "Metadata"
     },
     {
@@ -10626,9 +10677,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1028,
-  "item_last_updated": 1667617673,
-  "item_size": 104416504,
+  "files_count": 1033,
+  "item_last_updated": 1667653598,
+  "item_size": 105078045,
   "metadata": {
     "identifier": "israelhayomeng-2022",
     "collection": [
@@ -10645,10 +10696,21 @@
     "publicdate": "2022-08-14 03:09:12",
     "addeddate": "2022-08-14 03:09:12"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1954006378,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462844223,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 570883251,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

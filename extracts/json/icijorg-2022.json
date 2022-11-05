@@ -1,5 +1,5 @@
 {
-  "created": 1667617752,
+  "created": 1667653485,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/3/items/icijorg-2022",
@@ -17298,31 +17298,82 @@
       "sha1": "16c063423f9fd66a97f13c9a19f0b0f2fc4aee54"
     },
     {
+      "name": "icijorg-2022-11-05T09:03:24.452169-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667653413",
+      "size": "18683",
+      "md5": "68d1309fa8bbd1a8beed61c758b566ae",
+      "crc32": "980bd89c",
+      "sha1": "e5865d1f361280839b120ff7243d8ada1f77042a",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-11-05T09:03:24.452169-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667653416",
+      "size": "24407",
+      "md5": "de6af2ea9875c5a4546f032ca444b868",
+      "crc32": "b905d1f6",
+      "sha1": "0273f8a0677252fa6661d11550f174f1f8cd256e",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-11-05T09:03:24.452169-04:00.jpg",
+      "source": "original",
+      "mtime": "1667653411",
+      "size": "317886",
+      "md5": "260d00a3967594baafd240561a23a781",
+      "crc32": "c0cbdd8b",
+      "sha1": "f3e81399986fcd9e3653ac1af01e61cbd5fca82e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "icijorg-2022-11-05T09:03:24.452169-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667653418",
+      "size": "1432",
+      "md5": "851cffade8f76af9e32e60e55bd5b660",
+      "crc32": "bcc761ab",
+      "sha1": "7cdb92bc01fd36a41b9131d855bbe3c077d30740",
+      "format": "JSON"
+    },
+    {
+      "name": "icijorg-2022-11-05T09:03:24.452169-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667653420",
+      "size": "8955",
+      "md5": "fa41e447cddd2bf2722b7ce1b952b5b1",
+      "crc32": "2f65cfee",
+      "sha1": "22e5df01ed6b39b386d8e072260631548765316f",
+      "format": "JSON"
+    },
+    {
       "name": "icijorg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4703af44ffdf9ca306a495ebee88039837f28289",
-      "mtime": "1667617735",
-      "size": "350418",
-      "md5": "084ed01601a2cfba7b71db2118287558",
-      "crc32": "8fa72691",
-      "sha1": "4ef8198d697058a812508a8caa0d310acb644c4d",
+      "btih": "20f7cee5f7f6390212abbdef6feb14ac12389f45",
+      "mtime": "1667653480",
+      "size": "351475",
+      "md5": "4d8eb9dab385048f1b68a6bc3a953391",
+      "crc32": "dde8247a",
+      "sha1": "4e4f9bb825af302b01d4d8bd934c73d102be9cbd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "icijorg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2e529ba299748ccc13c89f4b7d1c7512",
+      "md5": "f5054e29ebaed57d477d629f0b704ade",
       "summation": "md5"
     },
     {
       "name": "icijorg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667616050",
-      "size": "2064384",
-      "md5": "5a47b4c1c4c42b61fd8d7426a05c9756",
-      "crc32": "71a4108f",
-      "sha1": "b630e0666e83266ef6f8cbcda89d4d8b18cad7f0",
+      "mtime": "1667653424",
+      "size": "2072576",
+      "md5": "e72f0b8e9a07b4f60e7d47fa313a7128",
+      "crc32": "ebc07e2f",
+      "sha1": "84fed52fc648a78dc36d4068325a762d8c606209",
       "format": "Metadata"
     },
     {
@@ -17336,9 +17387,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1670,
-  "item_last_updated": 1667617735,
-  "item_size": 122263672,
+  "files_count": 1675,
+  "item_last_updated": 1667653480,
+  "item_size": 122644284,
   "metadata": {
     "identifier": "icijorg-2022",
     "collection": [
@@ -17355,10 +17406,21 @@
     "publicdate": "2022-06-18 03:25:07",
     "addeddate": "2022-06-18 03:25:07"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 1538683815,
+  "pending_tasks": true,
+  "server": "ia902508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462841673,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 484317458,
   "workable_servers": [
-    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

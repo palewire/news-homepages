@@ -1,5 +1,5 @@
 {
-  "created": 1667618708,
+  "created": 1667653591,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/17/items/jn_japanese-2022",
@@ -20822,31 +20822,82 @@
       "sha1": "e4cf642f5952a7b57c1c40ee55fce29c5328adfe"
     },
     {
+      "name": "jn_japanese-2022-11-05T22:03:51.080730+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667653458",
+      "size": "39899",
+      "md5": "ef754bbe3c5bb0d030f57ba9517da6a7",
+      "crc32": "61d5d846",
+      "sha1": "b0aa88b332e32c8f9d7de234d8e81b966b21163a",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-11-05T22:03:51.080730+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667653460",
+      "size": "79361",
+      "md5": "e519d058556841d99de123ec4a0519d5",
+      "crc32": "f2373b4f",
+      "sha1": "d7e5bcfc3414ea03f39b4582554752d1615b61fb",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-11-05T22:03:51.080730+09:00.jpg",
+      "source": "original",
+      "mtime": "1667653456",
+      "size": "329243",
+      "md5": "78956003b64566bddbf054a7bee70957",
+      "crc32": "14913fa1",
+      "sha1": "5111b0ade1f41859202d4e0a060a8ea424721687",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "jn_japanese-2022-11-05T22:03:51.080730+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667653462",
+      "size": "1483",
+      "md5": "e52707d4cb7ac4728d1a50b1ce74ad50",
+      "crc32": "9410a604",
+      "sha1": "691861908d0dc6170d6d66f04d628789130eae45",
+      "format": "JSON"
+    },
+    {
+      "name": "jn_japanese-2022-11-05T22:03:51.080730+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1667653464",
+      "size": "17049",
+      "md5": "d3fca17da2c0ded7697a4dd201e1b9f1",
+      "crc32": "48eefcfc",
+      "sha1": "0105dc0838770f9d511dc696ec58a4855427a749",
+      "format": "JSON"
+    },
+    {
       "name": "jn_japanese-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3dc4b8ae75b540c40420d814e30dddbe3f05e812",
-      "mtime": "1667618600",
-      "size": "431475",
-      "md5": "1ff9c0b1c69be3928d9f6221f48f368e",
-      "crc32": "38a151fc",
-      "sha1": "2adf2449939d6cded1a8b637d98906116978574f",
+      "btih": "3268fbd389639ae5b63dcd44f42c82b228d4bdbf",
+      "mtime": "1667653574",
+      "size": "432553",
+      "md5": "e19bd269ed2c93b543121bda7e473c41",
+      "crc32": "7e317987",
+      "sha1": "16fc983aeee28f819e0d8770f6ec7f35faf8346a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jn_japanese-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "95c067fabda46cd20bd41681c50313d5",
+      "md5": "8d4da1c94555e57950ca823f2f052768",
       "summation": "md5"
     },
     {
       "name": "jn_japanese-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667616530",
-      "size": "2543616",
-      "md5": "b3868be59b2bfcd3dba65585a2df905e",
-      "crc32": "acd5192d",
-      "sha1": "fd3006df781bdbb935f3212a8f348f1ffd33cb53",
+      "mtime": "1667653472",
+      "size": "2547712",
+      "md5": "7a343cb48bf85ea4b97e0bd4e1b8afd5",
+      "crc32": "645ee855",
+      "sha1": "7d40ceab39cf31569537534c6c465b1947a5cb4b",
       "format": "Metadata"
     },
     {
@@ -20860,9 +20911,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2014,
-  "item_last_updated": 1667618600,
-  "item_size": 169698402,
+  "files_count": 2019,
+  "item_last_updated": 1667653574,
+  "item_size": 170170611,
   "metadata": {
     "identifier": "jn_japanese-2022",
     "collection": [
@@ -20879,10 +20930,21 @@
     "publicdate": "2022-07-09 02:39:08",
     "addeddate": "2022-07-09 02:39:08"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1253594554,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462843343,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2102724491,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

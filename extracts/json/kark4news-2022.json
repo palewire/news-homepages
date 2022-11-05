@@ -1,5 +1,5 @@
 {
-  "created": 1667617857,
+  "created": 1667653472,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/1/items/kark4news-2022",
@@ -6764,31 +6764,82 @@
       "sha1": "e81a658a566a675dbb565389b04b91e121b9f6f1"
     },
     {
+      "name": "kark4news-2022-11-05T08:03:15.487423-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667653402",
+      "size": "52072",
+      "md5": "aa14b9d3ac5d379f9dd83adc4fa595cd",
+      "crc32": "9759765a",
+      "sha1": "cfa75665e4ccce79c54ddaaa18dfbf1911698b5d",
+      "format": "JSON"
+    },
+    {
+      "name": "kark4news-2022-11-05T08:03:15.487423-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667653404",
+      "size": "96106",
+      "md5": "c0cc7435989dab55dc19572a0cc1cb3a",
+      "crc32": "68a25239",
+      "sha1": "e18cf21ed72b5d2ea0e23c00b0e663afca720716",
+      "format": "JSON"
+    },
+    {
+      "name": "kark4news-2022-11-05T08:03:15.487423-05:00.jpg",
+      "source": "original",
+      "mtime": "1667653400",
+      "size": "327820",
+      "md5": "4c65a06208216dd60a5162807c625108",
+      "crc32": "c34fcf9e",
+      "sha1": "f15dde92aa9c37c102c398be8cf899a56597ba2b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "kark4news-2022-11-05T08:03:15.487423-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667653407",
+      "size": "1439",
+      "md5": "50d6567df6af939ba154cb29da694365",
+      "crc32": "ed1182dd",
+      "sha1": "32513753bdb567ec2a0743ba1431b9b62a0790e8",
+      "format": "JSON"
+    },
+    {
+      "name": "kark4news-2022-11-05T08:03:15.487423-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667653409",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "kark4news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "816fd5693f4fab38c19965313195c8c0c95594ab",
-      "mtime": "1667617811",
-      "size": "139995",
-      "md5": "02a66f45d4e64fe8a97b63c9504381be",
-      "crc32": "63949a9d",
-      "sha1": "f96e44a77a7f3dc0abfd880634141bb040fa6f2c",
+      "btih": "4550c8b4bcb8c1c5551777b58a99933c79988c58",
+      "mtime": "1667653464",
+      "size": "141061",
+      "md5": "f64d0d42ab595ffd3eb8f682c8a28679",
+      "crc32": "7fbbd2cc",
+      "sha1": "a2574804d2ba7e3885ab2a77eae278fe6e60836b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kark4news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "902ec736f17d6f3b289b422100ab6017",
+      "md5": "682f48c17e7ec07a7385b8fb5f5b3900",
       "summation": "md5"
     },
     {
       "name": "kark4news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667616209",
-      "size": "851968",
-      "md5": "1e6cb525dd6f487917274935d01a6dd1",
-      "crc32": "afc59325",
-      "sha1": "e4be99528b9a7e5b5b999cfb9e5eb92fa37f1d36",
+      "mtime": "1667653420",
+      "size": "856064",
+      "md5": "eb1cc338b73c9712131b6562da59c558",
+      "crc32": "c155886d",
+      "sha1": "181c13062d70cceb888d1a84de0e65d66ff997b8",
       "format": "Metadata"
     },
     {
@@ -6802,9 +6853,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 658,
-  "item_last_updated": 1667617811,
-  "item_size": 53046641,
+  "files_count": 663,
+  "item_last_updated": 1667653464,
+  "item_size": 53529442,
   "metadata": {
     "identifier": "kark4news-2022",
     "collection": [
@@ -6821,10 +6872,21 @@
     "publicdate": "2022-09-12 12:31:14",
     "addeddate": "2022-09-12 12:31:14"
   },
-  "server": "ia801400.us.archive.org",
-  "uniq": 230625791,
+  "pending_tasks": true,
+  "server": "ia601400.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462841421,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 320639094,
   "workable_servers": [
-    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }
