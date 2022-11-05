@@ -1,5 +1,5 @@
 {
-  "created": 1667675276,
+  "created": 1667679492,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/2/items/opovo-2022",
@@ -15118,31 +15118,93 @@
       "sha1": "f6003bcce411d7501dff54af86eccdf0be283db8"
     },
     {
+      "name": "opovo-2022-11-05T16:35:27.401061-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667676931",
+      "size": "29580",
+      "md5": "2f5c41e32bc61be5c09c6dae96f0a8e4",
+      "crc32": "f938c6da",
+      "sha1": "17b7d570dfe5e456604d978f724c9a5ecc6ea6fb",
+      "format": "JSON"
+    },
+    {
+      "name": "opovo-2022-11-05T16:35:27.401061-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667676933",
+      "size": "43786",
+      "md5": "8f3948e3e01b9eb85ae7a2acab90c606",
+      "crc32": "ce4f04ca",
+      "sha1": "9eef6abd4e2dcff29e43e6620ad4b1a07d386f8b",
+      "format": "JSON"
+    },
+    {
+      "name": "opovo-2022-11-05T16:35:27.401061-03:00.jpg",
+      "source": "original",
+      "mtime": "1667676929",
+      "size": "285555",
+      "md5": "7b8ac3c1048801eda117fadd681a3da5",
+      "crc32": "38b61616",
+      "sha1": "ddec1446e8fe1676a57918db140e649a3ac3b1ac",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "opovo-2022-11-05T16:35:27.401061-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667676935",
+      "size": "1476",
+      "md5": "c533461ab0a800fd22f6123cbeb41785",
+      "crc32": "d5bc7709",
+      "sha1": "2d3e95f82eb64df047c24b4fc3dc0da60c3655b8",
+      "format": "JSON"
+    },
+    {
+      "name": "opovo-2022-11-05T16:35:27.401061-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667676937",
+      "size": "101",
+      "md5": "197df7a11b21eda1a619a4c85713c9a6",
+      "crc32": "ff80029a",
+      "sha1": "a2417f70813b38c173cbe9ac5fcb01fe5bcbed5a",
+      "format": "JSON"
+    },
+    {
+      "name": "opovo-2022-11-05T16:35:27.401061-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "opovo-2022-11-05T16:35:27.401061-03:00.jpg",
+      "mtime": "1667679397",
+      "size": "10762",
+      "md5": "73317947a154e3bd5deb4c32cb947f66",
+      "crc32": "93d26ad2",
+      "sha1": "302458ba585d8767a2698e2560e4f301b80fc344"
+    },
+    {
       "name": "opovo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b23f4d3541ddb7f30503b6a02a8349157857491",
-      "mtime": "1667651143",
-      "size": "303540",
-      "md5": "a645aa994e06c47e2a3d1e4340e27e5f",
-      "crc32": "9f5ee1ef",
-      "sha1": "9f1a4a8de6934d7dccde243b19ca7c570488a7cc",
+      "btih": "716a46677facb031bc7e318f5198f70f9c535a11",
+      "mtime": "1667679414",
+      "size": "304788",
+      "md5": "8f06a99b35e3fb00fd1f3d40fcd4580e",
+      "crc32": "316b4bfe",
+      "sha1": "b72f991f7bc5193f4433409783f51b2c1c49a3bb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "opovo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c8a7fb436b0a8a356b0b01c0ad118b64",
+      "md5": "dd067c52dee03f942a7f55c92b46e10b",
       "summation": "md5"
     },
     {
       "name": "opovo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667649769",
-      "size": "1843200",
-      "md5": "c7256cba53cec746eb88bee53174f3ab",
-      "crc32": "7d8b49fd",
-      "sha1": "d8958aa4e1da32584853e2121377b61ef4dc635c",
+      "mtime": "1667676942",
+      "size": "1851392",
+      "md5": "3cd409bea16d8d49f23f124191abd4fc",
+      "crc32": "1ca0cf8d",
+      "sha1": "1547d981fe06ee773cbf391a0366b33df9c31dda",
       "format": "Metadata"
     },
     {
@@ -15156,9 +15218,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1465,
-  "item_last_updated": 1667651143,
-  "item_size": 93323053,
+  "files_count": 1471,
+  "item_last_updated": 1667679414,
+  "item_size": 93703753,
   "metadata": {
     "identifier": "opovo-2022",
     "collection": [
@@ -15175,15 +15237,10 @@
     "publicdate": "2022-08-04 16:59:23",
     "addeddate": "2022-08-04 16:59:23"
   },
-  "opovo-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia902500.us.archive.org",
-  "uniq": 911710886,
+  "server": "ia802500.us.archive.org",
+  "uniq": 1129528924,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia802500.us.archive.org",
+    "ia902500.us.archive.org"
   ]
 }

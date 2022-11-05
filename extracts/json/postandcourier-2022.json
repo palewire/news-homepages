@@ -1,5 +1,5 @@
 {
-  "created": 1667675528,
+  "created": 1667678561,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/19/items/postandcourier-2022",
@@ -15606,31 +15606,93 @@
       "sha1": "1625159b8884ad5cf7d3517526cb7cd205ac30fc"
     },
     {
+      "name": "postandcourier-2022-11-05T15:38:46.515595-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667677130",
+      "size": "36126",
+      "md5": "f652f64e139eface9126cffcaa578c82",
+      "crc32": "c0a015d6",
+      "sha1": "ae7e9ab282b021898b9faf8cb0672128af3e6723",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-11-05T15:38:46.515595-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667677132",
+      "size": "66322",
+      "md5": "dfbf9b34e9c8f25fa1f5c60f95cc3269",
+      "crc32": "7ce857c3",
+      "sha1": "05b45572d164b778c78825ba9f2a5f4e7a7cb214",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-11-05T15:38:46.515595-04:00.jpg",
+      "source": "original",
+      "mtime": "1667677129",
+      "size": "353974",
+      "md5": "aa2e38ccec54eab0d7a343f1d976afe2",
+      "crc32": "f143bde8",
+      "sha1": "184e201f293272e6afae924f73717f061744254c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "postandcourier-2022-11-05T15:38:46.515595-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667677134",
+      "size": "1527",
+      "md5": "abeefc00005cb64b6cca70f90ed8d4b6",
+      "crc32": "488ee186",
+      "sha1": "594f7f183bd78e132358fe2ae2f57b7e8ba2fe25",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-11-05T15:38:46.515595-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667677136",
+      "size": "27728",
+      "md5": "e792e39f9b147b6bfa64005813d1de3a",
+      "crc32": "3812326d",
+      "sha1": "88725b76a9bca9af519988b0c84504386fa621c9",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-11-05T15:38:46.515595-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "postandcourier-2022-11-05T15:38:46.515595-04:00.jpg",
+      "mtime": "1667678493",
+      "size": "10146",
+      "md5": "7d074ebc2e9468a688b0128262b05ca1",
+      "crc32": "d7da8868",
+      "sha1": "1fad7b6603a013d8b54dc7d117eeee3842a62b49"
+    },
+    {
       "name": "postandcourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7e350fa32e40df97c1b637379ffdd7964035591f",
-      "mtime": "1667629949",
-      "size": "327321",
-      "md5": "478d069754f6c01a93f01b76b2f265e6",
-      "crc32": "63089208",
-      "sha1": "3152b4138e55340df869d33402034e600f61c088",
+      "btih": "cc55624b85dd833d4b25ee8bb16be725bf68dbc6",
+      "mtime": "1667678516",
+      "size": "328625",
+      "md5": "4fef82c70b93fb0e626ea8b7b9de6119",
+      "crc32": "710c4fdb",
+      "sha1": "5a66fa20b2dab5a743037bd0a7be419d1c013347",
       "format": "Archive BitTorrent"
     },
     {
       "name": "postandcourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3147f99190ef7b5385c98017b76d3866",
+      "md5": "8092b94035f29c7372a395ede9531b14",
       "summation": "md5"
     },
     {
       "name": "postandcourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629360",
-      "size": "1892352",
-      "md5": "977ba8709cc7bd52df95a2e015bc26af",
-      "crc32": "7ca00b81",
-      "sha1": "ee0619fcfd4a16b3fcd2f7bd89fc53d104c8103c",
+      "mtime": "1667677143",
+      "size": "1900544",
+      "md5": "48c51826b66a9ae9a13ffedcce161104",
+      "crc32": "6048153e",
+      "sha1": "512036b41802098dee587a1deb39092ffd71973a",
       "format": "Metadata"
     },
     {
@@ -15644,9 +15706,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1508,
-  "item_last_updated": 1667629949,
-  "item_size": 116329691,
+  "files_count": 1514,
+  "item_last_updated": 1667678516,
+  "item_size": 116835010,
   "metadata": {
     "identifier": "postandcourier-2022",
     "collection": [
@@ -15663,10 +15725,10 @@
     "publicdate": "2022-06-24 22:59:39",
     "addeddate": "2022-06-24 22:59:39"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 336628252,
+  "server": "ia601403.us.archive.org",
+  "uniq": 268666002,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

@@ -1,5 +1,6 @@
 {
-  "created": 1667676227,
+  "conflict": 1667680769,
+  "created": 1667680769,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/4/items/shelbystar-2022",
@@ -5720,31 +5721,93 @@
       "sha1": "8eae31d57f0e86d8e3001588fa8254e5c4431c5d"
     },
     {
+      "name": "shelbystar-2022-11-05T15:41:29.880317-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667677292",
+      "size": "26346",
+      "md5": "deb3212e65f6a8fd1a4045b3880c1e86",
+      "crc32": "10b9681c",
+      "sha1": "4912871556dbcba6226d8e8373ee3f84f1568512",
+      "format": "JSON"
+    },
+    {
+      "name": "shelbystar-2022-11-05T15:41:29.880317-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667677293",
+      "size": "35937",
+      "md5": "e8c2aa8f6ba02545083f3104e0f61be7",
+      "crc32": "6d39a3b5",
+      "sha1": "1d823121d602b8d39239fb3e3a81ec808c92619d",
+      "format": "JSON"
+    },
+    {
+      "name": "shelbystar-2022-11-05T15:41:29.880317-04:00.jpg",
+      "source": "original",
+      "mtime": "1667677290",
+      "size": "309249",
+      "md5": "fefa2fb4ec0351b44a5a0271fced0d21",
+      "crc32": "bbd55cac",
+      "sha1": "652b2af26f6d7d37b4fcd3ff23d4d9c611c3e68b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "shelbystar-2022-11-05T15:41:29.880317-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667677295",
+      "size": "1495",
+      "md5": "124ae8f86c1459b0bdd33ce1c3187e92",
+      "crc32": "2e8d7109",
+      "sha1": "8ff9eea96b2d37aaa627ecd9caa2cb39f9f333de",
+      "format": "JSON"
+    },
+    {
+      "name": "shelbystar-2022-11-05T15:41:29.880317-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667677296",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "shelbystar-2022-11-05T15:41:29.880317-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "shelbystar-2022-11-05T15:41:29.880317-04:00.jpg",
+      "mtime": "1667680753",
+      "size": "9549",
+      "md5": "a71f8220f5f60b02987b286c478c245e",
+      "crc32": "91f8bdcb",
+      "sha1": "fc9430e475157d80ada5caba76f4bb8536de2d8d"
+    },
+    {
       "name": "shelbystar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "795a3d3e28d4278dccbec40bdd23037f216f47be",
-      "mtime": "1667630037",
-      "size": "118874",
-      "md5": "373c80651e16bfd661ebfd3cc2ed03d8",
-      "crc32": "59aeda0f",
-      "sha1": "5c11cfe1c3142ef8dbcbfe688988fec075532188",
+      "btih": "a54e282cecebe3d6de1709b746512038ffc4666e",
+      "mtime": "1667680767",
+      "size": "120151",
+      "md5": "280589e96e1b88533e1e41db490bea96",
+      "crc32": "535fd80b",
+      "sha1": "50167b97e321157c2bfae898e56d23c5e63b72e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "shelbystar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e9b3b70f21b664a774cd9ff35a9a1f3d",
+      "md5": "1b09ab8c3a74ebbc186b111263a8bd98",
       "summation": "md5"
     },
     {
       "name": "shelbystar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629479",
-      "size": "720896",
-      "md5": "da3688c6b803c9a96a96f8f97ca3b9e6",
-      "crc32": "3c2e5354",
-      "sha1": "14866d717703bd79a5f41ab502598623a4454ac3",
+      "mtime": "1667677301",
+      "size": "729088",
+      "md5": "fe01bbf09478360a67491569a7c10c8d",
+      "crc32": "486ed9ed",
+      "sha1": "5817d1aa324d82afc992ece53307360b97debe6c",
       "format": "Metadata"
     },
     {
@@ -5758,9 +5821,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 557,
-  "item_last_updated": 1667630037,
-  "item_size": 38271732,
+  "files_count": 563,
+  "item_last_updated": 1667680767,
+  "item_size": 38663979,
   "metadata": {
     "identifier": "shelbystar-2022",
     "collection": [
@@ -5777,18 +5840,29 @@
     "publicdate": "2022-09-20 19:23:48",
     "addeddate": "2022-09-20 19:23:48"
   },
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "shelbystar-2022": {
-    "url": "https://www.shelbystar.com/",
-    "job_id": "spn2-9f00adfd5fcd38f024e843029b407aeb47c4f9f9",
-    "resources": [],
-    "status": "error",
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 667.",
-    "status_ext": "WorkerLostError"
-  },
-  "uniq": 1707678741,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463087499,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3463124661,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 852417152,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601502.us.archive.org"
   ]
 }

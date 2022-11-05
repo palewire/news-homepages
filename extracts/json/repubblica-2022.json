@@ -1,5 +1,5 @@
 {
-  "created": 1667675908,
+  "created": 1667679553,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/31/items/repubblica-2022",
@@ -10702,31 +10702,93 @@
       "sha1": "45b1e3bffd827e92f2560612b55db4281f2d140b"
     },
     {
+      "name": "repubblica-2022-11-05T20:41:30.296356+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667677292",
+      "size": "101877",
+      "md5": "f3f6d2d9b6ce7cc50daef3a5e653a4ed",
+      "crc32": "b5ae3915",
+      "sha1": "8fafa975b6648b9803b5ef8010c4f9bc97f21a85",
+      "format": "JSON"
+    },
+    {
+      "name": "repubblica-2022-11-05T20:41:30.296356+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667677294",
+      "size": "184031",
+      "md5": "e63970712cbdc78ab3b663d72784c962",
+      "crc32": "70022e46",
+      "sha1": "cd27ea015040bd484accd6784c2c1f52d9807d01",
+      "format": "JSON"
+    },
+    {
+      "name": "repubblica-2022-11-05T20:41:30.296356+01:00.jpg",
+      "source": "original",
+      "mtime": "1667677291",
+      "size": "223099",
+      "md5": "49ebeb75b764adb356036ccfc45437e6",
+      "crc32": "e6b26e29",
+      "sha1": "686bc6e8df4a61343dde5d7c15ea243507bbbfff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "repubblica-2022-11-05T20:41:30.296356+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667677295",
+      "size": "1486",
+      "md5": "9e2d3bbfacb8eec3293a9f2d4bc7d4d2",
+      "crc32": "87e57416",
+      "sha1": "d2d669a31a442560a00e63d229f02298ecdd0cec",
+      "format": "JSON"
+    },
+    {
+      "name": "repubblica-2022-11-05T20:41:30.296356+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667677297",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "repubblica-2022-11-05T20:41:30.296356+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "repubblica-2022-11-05T20:41:30.296356+01:00.jpg",
+      "mtime": "1667679412",
+      "size": "7683",
+      "md5": "557f42ff4e473ad9aa54949e8f1c4f8e",
+      "crc32": "52333a47",
+      "sha1": "a2926d49d028b00426d249acddc2afeba199e2c6"
+    },
+    {
       "name": "repubblica-2022_archive.torrent",
       "source": "metadata",
-      "btih": "addc4592db3d46a11d52ddef9a5fefc061f73f44",
-      "mtime": "1667629919",
-      "size": "222200",
-      "md5": "8e0b881e939c9aa3e506730a9f16d12b",
-      "crc32": "6644e895",
-      "sha1": "2a8c7861b32728d6eb1f086f5b8900bce31bb8f2",
+      "btih": "cf8537ed5b27d8138bd21d020a934d6afae4477d",
+      "mtime": "1667679441",
+      "size": "223479",
+      "md5": "c4272f169e9b2aefe477c268a79a910a",
+      "crc32": "f4d18d7a",
+      "sha1": "a9fa8f5b4c663485ff54816a52bad28ed4bb3072",
       "format": "Archive BitTorrent"
     },
     {
       "name": "repubblica-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a7bbc69db5414bab40f86167b6cc9a6b",
+      "md5": "da3001236abaf1e373b4892c362b7fc0",
       "summation": "md5"
     },
     {
       "name": "repubblica-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629405",
-      "size": "1327104",
-      "md5": "5bd4d0ad5a316620d99eaa193307264c",
-      "crc32": "8bbfb835",
-      "sha1": "d6f1c73189435f0148a9b631bb02d79362119c05",
+      "mtime": "1667677302",
+      "size": "1339392",
+      "md5": "c3cb2173f3e4040c5024d6b459303f70",
+      "crc32": "021142b7",
+      "sha1": "57478b6754afcd9c6d1a014a98e7e60b532688de",
       "format": "Metadata"
     },
     {
@@ -10740,9 +10802,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1039,
-  "item_last_updated": 1667629919,
-  "item_size": 93835820,
+  "files_count": 1045,
+  "item_last_updated": 1667679441,
+  "item_size": 94367765,
   "metadata": {
     "identifier": "repubblica-2022",
     "collection": [
@@ -10759,15 +10821,10 @@
     "publicdate": "2022-08-10 18:29:12",
     "addeddate": "2022-08-10 18:29:12"
   },
-  "repubblica-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia802504.us.archive.org",
-  "uniq": 235866140,
+  "server": "ia902504.us.archive.org",
+  "uniq": 1155510963,
   "workable_servers": [
-    "ia802504.us.archive.org",
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

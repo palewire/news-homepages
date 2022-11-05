@@ -1,5 +1,5 @@
 {
-  "created": 1667675711,
+  "created": 1667679924,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/17/items/qctimes-2022",
@@ -22490,31 +22490,93 @@
       "sha1": "a3807583ae540a59658ee0de67beca40b1cc9052"
     },
     {
+      "name": "qctimes-2022-11-05T14:39:07.687778-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667677151",
+      "size": "26601",
+      "md5": "e54c640c3d67964fbaba3e7a8b718915",
+      "crc32": "a6a768bd",
+      "sha1": "753194fc4e3c9c68733c9e5733b3163c20afcedf",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-11-05T14:39:07.687778-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667677153",
+      "size": "77913",
+      "md5": "bb4f29fed090dad0ae60bf4145988eb9",
+      "crc32": "d6869c1e",
+      "sha1": "9f2865b072bca50e4ae82e4b1f82d237185f2ba7",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-11-05T14:39:07.687778-05:00.jpg",
+      "source": "original",
+      "mtime": "1667677149",
+      "size": "319520",
+      "md5": "df717f2dc3ea059b25c8b24944d885c5",
+      "crc32": "7a1b0c30",
+      "sha1": "2e7b185f308ad4c00ca3c0e75433805b300ad0b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "qctimes-2022-11-05T14:39:07.687778-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667677155",
+      "size": "1432",
+      "md5": "386448cbff81d7877d8365e3b5bdff39",
+      "crc32": "18eb6d18",
+      "sha1": "956ed3542dbbafbcbed07fe1c4f40e5f31b42dbf",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-11-05T14:39:07.687778-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667677158",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "qctimes-2022-11-05T14:39:07.687778-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "qctimes-2022-11-05T14:39:07.687778-05:00.jpg",
+      "mtime": "1667678321",
+      "size": "12145",
+      "md5": "4a58b1fd692f967773f4e872c5ff32d3",
+      "crc32": "8a1fc592",
+      "sha1": "23c915cc9b69aa7888d363b191909c507ae95d17"
+    },
+    {
       "name": "qctimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ea493a880a1a80a5e2e1834940cc14cfafe0ecc",
-      "mtime": "1667630927",
-      "size": "455361",
-      "md5": "84e3a54f8df9fe863be4c5885b8d2b85",
-      "crc32": "d95b85fe",
-      "sha1": "381c05e13a1984d5df0ebafcad47daeafafe1b68",
+      "btih": "e903e85d3721f62dc55ca2949463390eb1cab14c",
+      "mtime": "1667679789",
+      "size": "456621",
+      "md5": "68741a24ea4ebe6b217a8df8ae2ed397",
+      "crc32": "fea4973a",
+      "sha1": "6803f9dd03cb721d74946c5f8ad22ff258105295",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qctimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "120c9c0307a714eada5ad89414c044b5",
+      "md5": "67ae8a601d0a7ee3c05170cb5c2cc226",
       "summation": "md5"
     },
     {
       "name": "qctimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629413",
-      "size": "2646016",
-      "md5": "8451f9511ed41e7589f9420c608106cb",
-      "crc32": "7b83eebd",
-      "sha1": "a9ab29a017b4f48a4574abdb23b7b00b437dfeed",
+      "mtime": "1667677164",
+      "size": "2650112",
+      "md5": "90784e80a29f14cc4e562b46e920b1d7",
+      "crc32": "f5e72847",
+      "sha1": "fbdfe3c37e9e4b56e53b5f03655a70ef08560998",
       "format": "Metadata"
     },
     {
@@ -22528,9 +22590,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2166,
-  "item_last_updated": 1667630927,
-  "item_size": 187536330,
+  "files_count": 2172,
+  "item_last_updated": 1667679789,
+  "item_size": 187979499,
   "metadata": {
     "identifier": "qctimes-2022",
     "collection": [
@@ -22547,15 +22609,10 @@
     "publicdate": "2022-03-25 03:35:53",
     "addeddate": "2022-03-25 03:35:53"
   },
-  "qctimes-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia802500.us.archive.org",
-  "uniq": 1874776292,
+  "server": "ia902500.us.archive.org",
+  "uniq": 953461612,
   "workable_servers": [
-    "ia802500.us.archive.org",
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

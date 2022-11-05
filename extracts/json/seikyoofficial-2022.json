@@ -1,5 +1,6 @@
 {
-  "created": 1667673002,
+  "conflict": 1667680799,
+  "created": 1667680799,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/9/items/seikyoofficial-2022",
@@ -20632,31 +20633,93 @@
       "sha1": "c2b97ec64ccae93a6c749070be24138e921c1139"
     },
     {
+      "name": "seikyoofficial-2022-11-06T04:41:20.197013+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667677284",
+      "size": "25825",
+      "md5": "b90285add7b519ed86397c96da1a8e22",
+      "crc32": "7d664dca",
+      "sha1": "63dfa31a694bbabc5524b05653d0a882a3336ef2",
+      "format": "JSON"
+    },
+    {
+      "name": "seikyoofficial-2022-11-06T04:41:20.197013+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667677285",
+      "size": "33685",
+      "md5": "5452911e2b79c593b79ca65de898f79e",
+      "crc32": "f3bebb3d",
+      "sha1": "090b301af96f69d4a744d71b13134fc1badaac4e",
+      "format": "JSON"
+    },
+    {
+      "name": "seikyoofficial-2022-11-06T04:41:20.197013+09:00.jpg",
+      "source": "original",
+      "mtime": "1667677282",
+      "size": "246395",
+      "md5": "7233e86f4c2521d6f11536275f45f8f0",
+      "crc32": "b4bacc53",
+      "sha1": "4fbe4123cf7f94cffcc6aa2db03abbce6eddf7c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seikyoofficial-2022-11-06T04:41:20.197013+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667677287",
+      "size": "1510",
+      "md5": "2b46eee7709cc3fb29e6842b9c6fd617",
+      "crc32": "4fae8abb",
+      "sha1": "0a117eaecb5f39f5a8d71d61fddb6d5e3636060b",
+      "format": "JSON"
+    },
+    {
+      "name": "seikyoofficial-2022-11-06T04:41:20.197013+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1667677288",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "seikyoofficial-2022-11-06T04:41:20.197013+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seikyoofficial-2022-11-06T04:41:20.197013+09:00.jpg",
+      "mtime": "1667680765",
+      "size": "8883",
+      "md5": "6ce038d58131d48884b52848dc29628d",
+      "crc32": "d141666a",
+      "sha1": "359c6d030865d45a30b7c96d22ec10c869ba2595"
+    },
+    {
       "name": "seikyoofficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ba8d15d71a704e57b42e662d547ab26431c281c1",
-      "mtime": "1667630258",
-      "size": "432212",
-      "md5": "685ce500af598caf5420296cb63f4ecb",
-      "crc32": "3f929442",
-      "sha1": "f61115441d378eefbf1cfd7fbc8caba3f5acd9ef",
+      "btih": "132aac2b6b5bb04bdc8ed1d85565284f55f06147",
+      "mtime": "1667680796",
+      "size": "433513",
+      "md5": "6603ff2465299629e34d601690282a46",
+      "crc32": "fdbddb38",
+      "sha1": "6e1041eeff6cd7237bae8ce7678e15baa7c3bd11",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seikyoofficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cbbed3f03a3f9485e7c5d4641fe10efb",
+      "md5": "27fb0031492feba582c657852f10f92b",
       "summation": "md5"
     },
     {
       "name": "seikyoofficial-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629522",
-      "size": "2531328",
-      "md5": "d8eb6caff597b947363e3854045138ff",
-      "crc32": "1ee1e47b",
-      "sha1": "121a80dd1332cd7028a22ae35d52880076dbaef3",
+      "mtime": "1667677293",
+      "size": "2539520",
+      "md5": "c1657230109f880c9539ffcff286f9bf",
+      "crc32": "485fe1e2",
+      "sha1": "cc9fa1828e5f882f314e5ba129917cfb57446f00",
       "format": "Metadata"
     },
     {
@@ -20670,9 +20733,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1996,
-  "item_last_updated": 1667630258,
-  "item_size": 132429240,
+  "files_count": 2002,
+  "item_last_updated": 1667680796,
+  "item_size": 132755233,
   "metadata": {
     "identifier": "seikyoofficial-2022",
     "collection": [
@@ -20689,10 +20752,29 @@
     "publicdate": "2022-07-09 02:39:13",
     "addeddate": "2022-07-09 02:39:13"
   },
+  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "uniq": 839284073,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463087743,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3463124935,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1380008586,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia902502.us.archive.org"
   ]
 }

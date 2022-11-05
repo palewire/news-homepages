@@ -1,5 +1,6 @@
 {
-  "created": 1667676142,
+  "conflict": 1667680769,
+  "created": 1667680769,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/0/items/sctimes-2022",
@@ -5710,31 +5711,93 @@
       "sha1": "0b0552caad7849a6c0c01b1cb5b452b1024e4b57"
     },
     {
+      "name": "sctimes-2022-11-05T14:41:10.700901-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667677274",
+      "size": "20955",
+      "md5": "59e577ced167f6fbbb119eace70bd02f",
+      "crc32": "610499c7",
+      "sha1": "c9673f5cdd92fb1ebf1a70d9cef4261d18b49ab7",
+      "format": "JSON"
+    },
+    {
+      "name": "sctimes-2022-11-05T14:41:10.700901-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667677277",
+      "size": "30811",
+      "md5": "15325a6ff5ebecc733e292c00c86ebda",
+      "crc32": "ca9762ef",
+      "sha1": "aad17705a5ba7a33c54b534fc6ec0b4f3837d2d9",
+      "format": "JSON"
+    },
+    {
+      "name": "sctimes-2022-11-05T14:41:10.700901-05:00.jpg",
+      "source": "original",
+      "mtime": "1667677272",
+      "size": "244640",
+      "md5": "88cbf74c84fa3a962e359ed1a8a1ba3f",
+      "crc32": "d373417e",
+      "sha1": "318857906e1dec44b0c26280dfaebb538390d417",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "sctimes-2022-11-05T14:41:10.700901-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667677278",
+      "size": "1468",
+      "md5": "c6b4f26956bad1321df0f279973a9603",
+      "crc32": "65b4d2c0",
+      "sha1": "0dbe55c6e0ada5679839180059acd9548227d305",
+      "format": "JSON"
+    },
+    {
+      "name": "sctimes-2022-11-05T14:41:10.700901-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667677280",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "sctimes-2022-11-05T14:41:10.700901-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sctimes-2022-11-05T14:41:10.700901-05:00.jpg",
+      "mtime": "1667680753",
+      "size": "9551",
+      "md5": "23d874b08ac040b12778eeed44925653",
+      "crc32": "dafda7ba",
+      "sha1": "59256b29d8aaab02685d06d79b44120f68498aa4"
+    },
+    {
       "name": "sctimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4e595186d1ab33ad1732cc2c9778fd2bfd8c72f8",
-      "mtime": "1667630435",
-      "size": "116840",
-      "md5": "5424ca0274575c888c4f64544f28f788",
-      "crc32": "3dc59b14",
-      "sha1": "842eaf2e6e0d4841d515901ffa16e9f597c11193",
+      "btih": "2f82a73c6d7979c24b689614105815149075a44b",
+      "mtime": "1667680767",
+      "size": "118099",
+      "md5": "e6816b7d19de634de865536de245e26c",
+      "crc32": "7828e82f",
+      "sha1": "0b49060f1f6c2630aef4a8590f7e9d580bb263e2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sctimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5bc9c00040849e2754d8ce28f7e616ae",
+      "md5": "6dae3873ae67f5009708930f6232c2a2",
       "summation": "md5"
     },
     {
       "name": "sctimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629438",
-      "size": "716800",
-      "md5": "73f45b23a5b16140ad13c33824a6cfd0",
-      "crc32": "5120aae7",
-      "sha1": "ebf73343aca15a1b1955eedd9e03859c4e44ff4e",
+      "mtime": "1667677284",
+      "size": "724992",
+      "md5": "6eb197556a2ef830821fe096204a6579",
+      "crc32": "4ac43eba",
+      "sha1": "d8e00fe497887ee3f7fce95e7319058fb06fda5e",
       "format": "Metadata"
     },
     {
@@ -5748,9 +5811,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 556,
-  "item_last_updated": 1667630435,
-  "item_size": 35055962,
+  "files_count": 562,
+  "item_last_updated": 1667680767,
+  "item_size": 35373040,
   "metadata": {
     "identifier": "sctimes-2022",
     "collection": [
@@ -5767,18 +5830,29 @@
     "publicdate": "2022-09-20 19:25:04",
     "addeddate": "2022-09-20 19:25:04"
   },
-  "sctimes-2022": {
-    "url": "https://www.sctimes.com/",
-    "job_id": "spn2-f2faf43a00cb4feea68b7f69ecd46d0879507495",
-    "status": "error",
-    "status_ext": "WorkerLostError",
-    "resources": [],
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 733."
-  },
+  "pending_tasks": true,
   "server": "ia601502.us.archive.org",
-  "uniq": 1531986740,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463087289,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3463124660,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 856280683,
   "workable_servers": [
-    "ia601502.us.archive.org",
-    "ia801502.us.archive.org"
+    "ia601502.us.archive.org"
   ]
 }

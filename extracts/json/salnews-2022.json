@@ -1,5 +1,5 @@
 {
-  "created": 1667676086,
+  "created": 1667678342,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/31/items/salnews-2022",
@@ -5700,31 +5700,93 @@
       "sha1": "3caabd2a0dada47ef49059ac43abeac8bd6d2015"
     },
     {
+      "name": "salnews-2022-11-05T12:41:57.505786-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667677320",
+      "size": "22103",
+      "md5": "47483b34d626ff5519bf18a0f5231494",
+      "crc32": "fa76bf11",
+      "sha1": "a0868314e588aafcb74df12a302ae4267635215f",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-11-05T12:41:57.505786-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667677322",
+      "size": "32248",
+      "md5": "53d2e30183160024ab2d533232f57d28",
+      "crc32": "df01fc26",
+      "sha1": "5e4d0a7e2a8a68352c568b0f36fa7ede257c6ba6",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-11-05T12:41:57.505786-07:00.jpg",
+      "source": "original",
+      "mtime": "1667677318",
+      "size": "205816",
+      "md5": "8f8298f65eba89510d05e72a3c6df163",
+      "crc32": "f67d06b5",
+      "sha1": "474b47c6e315dba5e23c2dabe7b5bfb6b2727ccb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-11-05T12:41:57.505786-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667677323",
+      "size": "1531",
+      "md5": "df76e8ec31a55367029903c1e8768e08",
+      "crc32": "6d69b397",
+      "sha1": "46c4562a5b475a80b0c42d9722030f5db0c26a76",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-11-05T12:41:57.505786-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667677325",
+      "size": "71394",
+      "md5": "46fa29413ddc5eac0f5da0283dfea4ef",
+      "crc32": "653f40ed",
+      "sha1": "6f2b4ab3bd67113454bc43753fcb7393ff437e5d",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-11-05T12:41:57.505786-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-11-05T12:41:57.505786-07:00.jpg",
+      "mtime": "1667678255",
+      "size": "9037",
+      "md5": "8a98cbaf5512b1817d933a531dae74e5",
+      "crc32": "c70224c6",
+      "sha1": "4fabf2ca053bc9177815ec96eabe2f695f124cae"
+    },
+    {
       "name": "salnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f63e103c2545b88a480112b77740af6f6b87226e",
-      "mtime": "1667630434",
-      "size": "116559",
-      "md5": "e3c00ec7cff5650bd1a99f3377bd577f",
-      "crc32": "f743d4ca",
-      "sha1": "88cf957daaecd5bbf9ccc063c2d11f5b6c4381b2",
+      "btih": "79bf92b452732ea201275035ebe8d6fbb73081e8",
+      "mtime": "1667678315",
+      "size": "117820",
+      "md5": "3cf68fcb78716e9f164214468e6ae964",
+      "crc32": "2a0c6610",
+      "sha1": "b9f51548abbe62095b78347a9539729f946e9567",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd5fcb3544e4b9c810c01fa2bd8fcbfa",
+      "md5": "dad5fa314296bc83c36e87d7ba595771",
       "summation": "md5"
     },
     {
       "name": "salnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629445",
-      "size": "716800",
-      "md5": "29568d4d5f6a9cba388feacae79dc195",
-      "crc32": "e96a9daa",
-      "sha1": "1f33db0a789220469e975d1022c2e9728b49cd89",
+      "mtime": "1667677330",
+      "size": "724992",
+      "md5": "6fc0dc3e802c34e690767ecfaf131606",
+      "crc32": "266f3f44",
+      "sha1": "97e06fd8c61a20521ae852e5372ae961fb72ee65",
       "format": "Metadata"
     },
     {
@@ -5738,9 +5800,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 555,
-  "item_last_updated": 1667630434,
-  "item_size": 34068912,
+  "files_count": 561,
+  "item_last_updated": 1667678315,
+  "item_size": 34420494,
   "metadata": {
     "identifier": "salnews-2022",
     "collection": [
@@ -5757,13 +5819,8 @@
     "publicdate": "2022-09-20 19:23:48",
     "addeddate": "2022-09-20 19:23:48"
   },
-  "salnews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "server": "ia801409.us.archive.org",
-  "uniq": 62626008,
+  "uniq": 139210332,
   "workable_servers": [
     "ia801409.us.archive.org",
     "ia601409.us.archive.org"

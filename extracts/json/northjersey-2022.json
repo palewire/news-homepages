@@ -1,5 +1,5 @@
 {
-  "created": 1667629761,
+  "created": 1667677973,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/14/items/northjersey-2022",
@@ -5720,31 +5720,93 @@
       "sha1": "50f19747c1b45b9a148754cf066e7ca6a665a9f3"
     },
     {
+      "name": "northjersey-2022-11-05T15:34:58.047234-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667676902",
+      "size": "21617",
+      "md5": "172dd9f7a1f471b508b76244e68807ff",
+      "crc32": "8ed1caf5",
+      "sha1": "0338195e13a5409261719d7e974476e461f0889b",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-11-05T15:34:58.047234-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667676905",
+      "size": "31157",
+      "md5": "de94e392e6eb76d0a8a4815bf3ac511c",
+      "crc32": "f8440c63",
+      "sha1": "bb043975d9852c8a35508d10fb06f646fc0a0d89",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-11-05T15:34:58.047234-04:00.jpg",
+      "source": "original",
+      "mtime": "1667676900",
+      "size": "285353",
+      "md5": "6b9126591c543aca889588ae58b1bf70",
+      "crc32": "5c666741",
+      "sha1": "190382ef726fb087f1c42e24051849e35ccc9a7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "northjersey-2022-11-05T15:34:58.047234-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667676907",
+      "size": "1504",
+      "md5": "64447eaa44b7ba1a92e74b8b7227a878",
+      "crc32": "84c703da",
+      "sha1": "0f1f2aa194a16e738021a0011f6a671df3f056f9",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-11-05T15:34:58.047234-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667676910",
+      "size": "83925",
+      "md5": "97ff9f030c67979afe8b07a3552d30cb",
+      "crc32": "f9c2b131",
+      "sha1": "697eb649ba50d1ebe876578f57ff00a9389b6c95",
+      "format": "JSON"
+    },
+    {
+      "name": "northjersey-2022-11-05T15:34:58.047234-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "northjersey-2022-11-05T15:34:58.047234-04:00.jpg",
+      "mtime": "1667677901",
+      "size": "9030",
+      "md5": "b25d41c819671eb9bd4de913d47d2b5d",
+      "crc32": "577c7227",
+      "sha1": "8099a1bd25a8ca1dc2f9087f5a51e9a2f2279bae"
+    },
+    {
       "name": "northjersey-2022_archive.torrent",
       "source": "metadata",
-      "btih": "044511afc49ef429f844d4fe36f0be685a69a818",
-      "mtime": "1667629751",
-      "size": "119525",
-      "md5": "d24a2ebf43b38635f66c13087857011c",
-      "crc32": "86a7f537",
-      "sha1": "8205d15ee38fedb48ee69569cae9e8425e51c691",
+      "btih": "3fb818339263202feecc105b15a9ca0189fe3d07",
+      "mtime": "1667677934",
+      "size": "120810",
+      "md5": "4aaedc6ce76f18b4d249ec7f9f86a46a",
+      "crc32": "b31889fb",
+      "sha1": "8a0566d3f1c27fa63810e1d06f2f771f93e435e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "northjersey-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d3771750ef666b0cdc71d009bc18e3ca",
+      "md5": "00c72a9af2f5c72f7a7b640d385711fc",
       "summation": "md5"
     },
     {
       "name": "northjersey-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629239",
-      "size": "724992",
-      "md5": "fa65a2bb09f75d5cecf4f28d0d6f7fbb",
-      "crc32": "f201f99d",
-      "sha1": "4a01bb06064214fcc9508e275895e2e89b8857ba",
+      "mtime": "1667676915",
+      "size": "733184",
+      "md5": "1ac552873a8f8125fa2694d37addb23b",
+      "crc32": "fb8a6455",
+      "sha1": "d84c8fa2e333df0049c39b2f76deb74760aa8632",
       "format": "Metadata"
     },
     {
@@ -5758,9 +5820,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 557,
-  "item_last_updated": 1667629751,
-  "item_size": 39230417,
+  "files_count": 563,
+  "item_last_updated": 1667677934,
+  "item_size": 39672480,
   "metadata": {
     "identifier": "northjersey-2022",
     "collection": [
@@ -5777,10 +5839,10 @@
     "publicdate": "2022-09-20 19:06:17",
     "addeddate": "2022-09-20 19:06:17"
   },
-  "server": "ia801404.us.archive.org",
-  "uniq": 1728932811,
+  "server": "ia601404.us.archive.org",
+  "uniq": 1804220512,
   "workable_servers": [
-    "ia801404.us.archive.org",
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

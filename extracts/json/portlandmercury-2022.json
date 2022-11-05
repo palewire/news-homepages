@@ -1,5 +1,5 @@
 {
-  "created": 1667675501,
+  "created": 1667680541,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/10/items/portlandmercury-2022",
@@ -13112,31 +13112,93 @@
       "sha1": "81b72aeb09aa13c997d125eb6a84029713607872"
     },
     {
+      "name": "portlandmercury-2022-11-05T12:38:44.259375-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667677131",
+      "size": "21777",
+      "md5": "8bde86c52ccef75cd444fa6cf5562f8f",
+      "crc32": "d202057e",
+      "sha1": "ad28d077befc8d4824acbef7d0cc7f1feaf35c43",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-11-05T12:38:44.259375-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667677132",
+      "size": "23103",
+      "md5": "4e77648c5b93d32536744a9139d16013",
+      "crc32": "add14ea4",
+      "sha1": "ae0adea1ceafbbe0b3b3dd74c2648e5cbe99f68c",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-11-05T12:38:44.259375-07:00.jpg",
+      "source": "original",
+      "mtime": "1667677129",
+      "size": "265305",
+      "md5": "22a0b5c7f6fb98ee7d6ed4a9307d833f",
+      "crc32": "d1154d21",
+      "sha1": "a937157b0685f0270c418cc53d90a043cfb90b7e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "portlandmercury-2022-11-05T12:38:44.259375-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667677134",
+      "size": "1540",
+      "md5": "2461aae1693c4f867b440157d05eb3cf",
+      "crc32": "bef740fd",
+      "sha1": "86b216d2566ac8ca62a9480181e27bef08db52a9",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-11-05T12:38:44.259375-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667677136",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "portlandmercury-2022-11-05T12:38:44.259375-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "portlandmercury-2022-11-05T12:38:44.259375-07:00.jpg",
+      "mtime": "1667678496",
+      "size": "10340",
+      "md5": "93aa5d92f45411b7c8ab0cde1c756c55",
+      "crc32": "072bafa1",
+      "sha1": "da8936ca8700da114109f449d288adc1b5e41fdf"
+    },
+    {
       "name": "portlandmercury-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eb11a972eaa2d04541cb6ba98d0ea2efb401ca08",
-      "mtime": "1667629892",
-      "size": "277557",
-      "md5": "a830b3013313f02f58fddc4a21fff351",
-      "crc32": "438d0825",
-      "sha1": "3fa7da895a36f05eb2a86501564cac4d0c6a1f1a",
+      "btih": "2b007b98973d0a2f8a83d1229e4e8cdb0d8c736d",
+      "mtime": "1667678513",
+      "size": "278865",
+      "md5": "6c93f23c80a09607a551f72cfb1a7ec4",
+      "crc32": "58ccca5f",
+      "sha1": "5b020ab5fda82748b1b360ff02151ea010500729",
       "format": "Archive BitTorrent"
     },
     {
       "name": "portlandmercury-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "466288a6d61c83691a8bd7946c646fa3",
+      "md5": "905eb96556c93badc187014ad533ffa3",
       "summation": "md5"
     },
     {
       "name": "portlandmercury-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629325",
-      "size": "1646592",
-      "md5": "4a9355243fe0b8fa840a9ea3fb8f4ad0",
-      "crc32": "97676637",
-      "sha1": "2739d82fd5c329a4cd69b1699e237eece11e3a12",
+      "mtime": "1667677146",
+      "size": "1654784",
+      "md5": "e5f96c07a79b81c56f1a08fc38af3c14",
+      "crc32": "5303db2e",
+      "sha1": "2a32ecdd88ed27bad4f632b94cecb748aef58214",
       "format": "Metadata"
     },
     {
@@ -13150,9 +13212,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1273,
-  "item_last_updated": 1667629892,
-  "item_size": 83534186,
+  "files_count": 1279,
+  "item_last_updated": 1667678513,
+  "item_size": 83865953,
   "metadata": {
     "identifier": "portlandmercury-2022",
     "collection": [
@@ -13175,7 +13237,7 @@
     "status_ext": "error:user-session-limit"
   },
   "server": "ia801408.us.archive.org",
-  "uniq": 848462187,
+  "uniq": 1444170703,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

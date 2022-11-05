@@ -1,5 +1,5 @@
 {
-  "created": 1667675460,
+  "created": 1667678886,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/14/items/politico-2022",
@@ -15050,31 +15050,93 @@
       "sha1": "bb99619e885b200edceb402eaab45ef8773ca5fc"
     },
     {
+      "name": "politico-2022-11-05T15:38:12.368349-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667677105",
+      "size": "68400",
+      "md5": "b6d1bb1600c6b1b4d509388975b0e592",
+      "crc32": "26ca2c44",
+      "sha1": "696bbc5aa8263728a38dde0efdbe31e9e14d9d6e",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-11-05T15:38:12.368349-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667677106",
+      "size": "51329",
+      "md5": "52f07db23dc96ce2e486384d5fdc0929",
+      "crc32": "a82ff449",
+      "sha1": "3c15ac8224631e09fa1203db7ad31b91a55e31f4",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-11-05T15:38:12.368349-04:00.jpg",
+      "source": "original",
+      "mtime": "1667677103",
+      "size": "251737",
+      "md5": "f5e4fbe4ed8214f1c79aaf15fafe25ec",
+      "crc32": "25bb4578",
+      "sha1": "90cf9d3dece43efad4bdbe8e4ad5082504d8bf25",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "politico-2022-11-05T15:38:12.368349-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667677108",
+      "size": "1477",
+      "md5": "a3dafe024248111db68cc129b604c081",
+      "crc32": "a35cf512",
+      "sha1": "5733564e66f423d285053ecc2421350404381bdc",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-11-05T15:38:12.368349-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667677111",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "politico-2022-11-05T15:38:12.368349-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "politico-2022-11-05T15:38:12.368349-04:00.jpg",
+      "mtime": "1667678542",
+      "size": "9130",
+      "md5": "51dc20597ee30d1ef697cd48a52dad04",
+      "crc32": "b129eea9",
+      "sha1": "b6689c4a050ed622390231375f6353018917d4e7"
+    },
+    {
       "name": "politico-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3f44bc27b4666f05ccb9265870d265cdc7f1ea8a",
-      "mtime": "1667630000",
-      "size": "306949",
-      "md5": "14c1ab5d23e6c877c76d59b6beb2e07a",
-      "crc32": "4b4e79f5",
-      "sha1": "ed0ae273c0e4fbd7783d0b822dc48f2076627608",
+      "btih": "5a1e11cb4474259ebdb9fdc3801615e0be7ba49c",
+      "mtime": "1667678563",
+      "size": "308194",
+      "md5": "951760fc8d65830bd4fe2d2d5bfb35c2",
+      "crc32": "38550aca",
+      "sha1": "53ddf352d7574cf06edc0a58a2d77939dcb61288",
       "format": "Archive BitTorrent"
     },
     {
       "name": "politico-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fbfc055b42b215c157104020d8621948",
+      "md5": "e92aa4838d250dffc18436983d5906dd",
       "summation": "md5"
     },
     {
       "name": "politico-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629326",
-      "size": "1814528",
-      "md5": "9f4e150ddd61ba2b374c2a5f2d0a1e2e",
-      "crc32": "26d1dca2",
-      "sha1": "a19220059ae665b637689c96d80719fc05547235",
+      "mtime": "1667677115",
+      "size": "1818624",
+      "md5": "7cd4b2f99df4fe41574428976cbc55cb",
+      "crc32": "dd9f7b48",
+      "sha1": "35798771f92f02486f2e95bc5b83fcc5a45e9d05",
       "format": "Metadata"
     },
     {
@@ -15088,9 +15150,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1455,
-  "item_last_updated": 1667630000,
-  "item_size": 112048778,
+  "files_count": 1461,
+  "item_last_updated": 1667678563,
+  "item_size": 112436394,
   "metadata": {
     "identifier": "politico-2022",
     "collection": [
@@ -15107,49 +15169,8 @@
     "publicdate": "2022-06-27 18:09:13",
     "addeddate": "2022-06-27 18:09:13"
   },
-  "politico-2022": [
-    {
-      "url": "https://www.politico.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_11_05_05_40_58.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_11_05_05_40_58.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.74,
-        "best-practices": 0.67,
-        "seo": 0.84,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.politico.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_11_05_05_41_53.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_11_05_05_41_53.report.json",
-      "summary": {
-        "performance": 0.25,
-        "accessibility": 0.74,
-        "best-practices": 0.67,
-        "seo": 0.84,
-        "pwa": 0.6
-      }
-    },
-    {
-      "url": "https://www.politico.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_11_05_05_41_26.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_politico_com-_-2022_11_05_05_41_26.report.json",
-      "summary": {
-        "performance": 0.24,
-        "accessibility": 0.74,
-        "best-practices": 0.67,
-        "seo": 0.84,
-        "pwa": 0.6
-      }
-    }
-  ],
   "server": "ia902500.us.archive.org",
-  "uniq": 1186802191,
+  "uniq": 1174024949,
   "workable_servers": [
     "ia902500.us.archive.org",
     "ia802500.us.archive.org"
