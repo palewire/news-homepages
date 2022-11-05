@@ -54,14 +54,14 @@ def download_items(
     with open(utils.EXTRACT_DIR / "json" / f"{IA_COLLECTION}.json", "w") as fh:
         json.dump(collection.item_metadata, fh, indent=2)
 
-    @retry(tries=3, delay=5, backoff=2)
+    @retry(tries=3, delay=30, backoff=2)
     def _save_item(item):
         # Save it locally
         output_obj = pathlib.Path(output_path)
         output_obj.mkdir(parents=True, exist_ok=True)
         with open(output_obj / f"{item.identifier}.json", "w") as fh:
             json.dump(item.item_metadata, fh, indent=2)
-            time.sleep(0.2)
+            time.sleep(0.5)
 
     def _site_search(s):
         s = s["handle"].lower()
