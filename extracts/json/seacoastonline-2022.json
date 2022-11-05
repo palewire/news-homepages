@@ -1,5 +1,6 @@
 {
-  "created": 1667604945,
+  "conflict": 1667630109,
+  "created": 1667630109,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/10/items/seacoastonline-2022",
@@ -5616,31 +5617,93 @@
       "sha1": "11bb55f6aa1b1904f9a7cb75ed27ffc3078cd5fb"
     },
     {
+      "name": "seacoastonline-2022-11-05T02:24:31.471799-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667629474",
+      "size": "22059",
+      "md5": "66d83066ddc36f5636dabdad871b9f86",
+      "crc32": "32b9f171",
+      "sha1": "bcef2701852a7e75d16faa0433dd1862f518722e",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-11-05T02:24:31.471799-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667629476",
+      "size": "30746",
+      "md5": "4e8736a01ccbd348cd6ad2f7d1d7dabc",
+      "crc32": "6f3ed9d2",
+      "sha1": "cde2ec73975a13729cbc8379fa03ec7da234a92d",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-11-05T02:24:31.471799-04:00.jpg",
+      "source": "original",
+      "mtime": "1667629473",
+      "size": "264733",
+      "md5": "b7b673587d0d5547bc8243aaed95514d",
+      "crc32": "45e90b4e",
+      "sha1": "cc9c8c6d0a842327089c4e3f6920b8baa0765606",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "seacoastonline-2022-11-05T02:24:31.471799-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667629480",
+      "size": "1531",
+      "md5": "ba2e55643583fa0cd4bd68a45db4c8ed",
+      "crc32": "42a3311b",
+      "sha1": "13b7d720f5a6c2378e79f848ade3f836c4c46abb",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-11-05T02:24:31.471799-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667629482",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "seacoastonline-2022-11-05T02:24:31.471799-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seacoastonline-2022-11-05T02:24:31.471799-04:00.jpg",
+      "mtime": "1667630090",
+      "size": "9433",
+      "md5": "3fcaaf3aa699e3497ab272985b9b7a65",
+      "crc32": "9ecf6648",
+      "sha1": "6fecbe148f1f9f623633af53f98f1ea7fa8cee63"
+    },
+    {
       "name": "seacoastonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "78f87f17ff29e749ec65ea7fda74c47ed0e53cd6",
-      "mtime": "1667604850",
-      "size": "118976",
-      "md5": "68c62d92413283c34d657e2344be183f",
-      "crc32": "fe8f5d19",
-      "sha1": "2299a3da070545737c8fc3d3bda260f18822fc01",
+      "btih": "17cd0d5ac8fc677d335f28733e63a40899809da0",
+      "mtime": "1667630107",
+      "size": "120277",
+      "md5": "616da064e6b4efdb7758d802d10f7fb5",
+      "crc32": "b0c6eb33",
+      "sha1": "57a2c3150400c7e5d8f881062cafae2b5e7038d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seacoastonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "503a9be750959fbbb3b21e134d825a47",
+      "md5": "557e0c8adc77d033f82d3db1e490e5d9",
       "summation": "md5"
     },
     {
       "name": "seacoastonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667603174",
-      "size": "716800",
-      "md5": "b36f3f662265c4e646ea570b590f192f",
-      "crc32": "08de3c7f",
-      "sha1": "8344893dd0cb5343602927bf77b76046f5fe1f62",
+      "mtime": "1667629496",
+      "size": "724992",
+      "md5": "16aa06eeedb67423365cd76b1eebd526",
+      "crc32": "26c09d94",
+      "sha1": "e770f1ab0dfd0b9ee058ac40707107afc8161a87",
       "format": "Metadata"
     },
     {
@@ -5654,9 +5717,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 547,
-  "item_last_updated": 1667604850,
-  "item_size": 37658876,
+  "files_count": 553,
+  "item_last_updated": 1667630107,
+  "item_size": 37997073,
   "metadata": {
     "identifier": "seacoastonline-2022",
     "collection": [
@@ -5673,10 +5736,29 @@
     "publicdate": "2022-09-20 19:24:59",
     "addeddate": "2022-09-20 19:24:59"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 653882105,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462583554,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3462589738,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 185764747,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

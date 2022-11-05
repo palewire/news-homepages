@@ -1,5 +1,5 @@
 {
-  "created": 1667604071,
+  "created": 1667629287,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/nhregister-2022",
@@ -6454,31 +6454,82 @@
       "sha1": "d0209fdd48b95aecc3fadd5db073e6fe4f42c26d"
     },
     {
+      "name": "nhregister-2022-11-05T02:20:04.157115-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667629218",
+      "size": "75759",
+      "md5": "2c0fb0737d52e40a0d23058b6e174d8f",
+      "crc32": "fa91de1d",
+      "sha1": "e91dbb4e487110fe0ceb0979e0d707f4482f2e81",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-11-05T02:20:04.157115-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667629220",
+      "size": "83829",
+      "md5": "1058863256b43708f1bcb1c525de37ec",
+      "crc32": "ad33cd89",
+      "sha1": "fa289b31a1179d077682e0a01ec84ae6970ade69",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-11-05T02:20:04.157115-04:00.jpg",
+      "source": "original",
+      "mtime": "1667629212",
+      "size": "328949",
+      "md5": "469949a74f66ec9eb62483bb74327457",
+      "crc32": "ed780f87",
+      "sha1": "07b922f14a8e70be62d2075dd9a2bfc4d4d5c363",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nhregister-2022-11-05T02:20:04.157115-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667629222",
+      "size": "1495",
+      "md5": "7705941a490e3bcc0f05380cfff3146c",
+      "crc32": "a92df31f",
+      "sha1": "1cfbbd43cd7d6e22fe2bd684ced38c9972638586",
+      "format": "JSON"
+    },
+    {
+      "name": "nhregister-2022-11-05T02:20:04.157115-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667629224",
+      "size": "107794",
+      "md5": "ea25a9438aa8c35ac7f42f6811cd02e2",
+      "crc32": "0c724372",
+      "sha1": "7193fc2fa8d6bb9b7160ca03bb54c921c2f3fa3d",
+      "format": "JSON"
+    },
+    {
       "name": "nhregister-2022_archive.torrent",
       "source": "metadata",
-      "btih": "743a331cd8f19553ab34911ba479b5dc944292a9",
-      "mtime": "1667604038",
-      "size": "134606",
-      "md5": "8d369f4999038b7823b836381938a1c7",
-      "crc32": "2fb3b2c3",
-      "sha1": "16140f661d18f67eb4a3215713d2ac13b148f60b",
+      "btih": "f64cad1a846a2015872db03030dc8cc784c1cb63",
+      "mtime": "1667629281",
+      "size": "135680",
+      "md5": "42212ad92af3a4a6910985e6591fbcd0",
+      "crc32": "57c65d7a",
+      "sha1": "d4a1fa7f386eeb4e3bfc42a52b38fba97a9263fd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nhregister-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c4531ba90d30a958e73b28e9548e217c",
+      "md5": "fa63871271d7a15a5fbcaa4c4728780e",
       "summation": "md5"
     },
     {
       "name": "nhregister-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667602550",
-      "size": "811008",
-      "md5": "691e90b992c88cdce5549a82e9128b26",
-      "crc32": "8b447860",
-      "sha1": "e75c4177a28ec613726d0d580e144910c44d28f0",
+      "mtime": "1667629232",
+      "size": "819200",
+      "md5": "db24cb1e40bf9dcd375c99c530a978f8",
+      "crc32": "ff5efc52",
+      "sha1": "5db628ac08937f4974d2f96a29ec30b19f7a18a0",
       "format": "Metadata"
     },
     {
@@ -6492,9 +6543,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 628,
-  "item_last_updated": 1667604038,
-  "item_size": 58880258,
+  "files_count": 633,
+  "item_last_updated": 1667629281,
+  "item_size": 59487350,
   "metadata": {
     "identifier": "nhregister-2022",
     "collection": [
@@ -6511,10 +6562,21 @@
     "publicdate": "2022-09-14 04:48:42",
     "addeddate": "2022-09-14 04:48:42"
   },
+  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "uniq": 1888138731,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462580989,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1502080990,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia601501.us.archive.org"
   ]
 }

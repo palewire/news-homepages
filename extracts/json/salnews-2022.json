@@ -1,5 +1,5 @@
 {
-  "created": 1667605261,
+  "created": 1667629488,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/31/items/salnews-2022",
@@ -5638,31 +5638,82 @@
       "sha1": "3c218b65de6b804b440aedbf233f994265dd9f09"
     },
     {
+      "name": "salnews-2022-11-04T23:23:50.505275-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667629433",
+      "size": "21677",
+      "md5": "a4b03b6f742e24494a056135613f4d2c",
+      "crc32": "f6a8e972",
+      "sha1": "5b0b2fefb381e4f5b708f8c651c9dab86debb77e",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-11-04T23:23:50.505275-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667629435",
+      "size": "32303",
+      "md5": "85c0ff7dac456fa418c133c8793354e7",
+      "crc32": "fcc9dc6c",
+      "sha1": "81117b0be903051cd39b29f4be7de4dd36b82f0b",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-11-04T23:23:50.505275-07:00.jpg",
+      "source": "original",
+      "mtime": "1667629431",
+      "size": "208360",
+      "md5": "b0ee1b1887fcc1b5e1f514d14bf12c83",
+      "crc32": "a328bffc",
+      "sha1": "5f96903576543d2cfca0ad0417f4362ad580f7f3",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-11-04T23:23:50.505275-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667629437",
+      "size": "1531",
+      "md5": "85dde4cc689e32ac91f69f198674fb5d",
+      "crc32": "6d17befe",
+      "sha1": "7efe3f68b592784a831ca07ebff6de26275248fc",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-11-04T23:23:50.505275-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667629439",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "salnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5485ce0c744fd4e5739d4c72d81421d1c0c97edf",
-      "mtime": "1667605093",
-      "size": "115320",
-      "md5": "691c02ddb5e95214936f1fc9dbb9ee6a",
-      "crc32": "7adbd6e5",
-      "sha1": "d39942627991ab7d400f53a44400a54356b27f8b",
+      "btih": "e64527c8fc71f9fef3641bab25c554750586aeb3",
+      "mtime": "1667629485",
+      "size": "116356",
+      "md5": "a08e18ad8e9d50ef469a98f34ff49033",
+      "crc32": "ec29d3e3",
+      "sha1": "402f569dccac8c1e36df7923094ae33df87d0e24",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "73d18121d6b56443c8a81e5f7091d461",
+      "md5": "489b2b7c000877e11d4d4d2aaf1b4bc3",
       "summation": "md5"
     },
     {
       "name": "salnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667603382",
-      "size": "708608",
-      "md5": "7d8d2d8d347ee3c32efbafba906aef58",
-      "crc32": "7cb62099",
-      "sha1": "40fa2de79a2791ab6975313b37068823548682be",
+      "mtime": "1667629445",
+      "size": "716800",
+      "md5": "29568d4d5f6a9cba388feacae79dc195",
+      "crc32": "e96a9daa",
+      "sha1": "1f33db0a789220469e975d1022c2e9728b49cd89",
       "format": "Metadata"
     },
     {
@@ -5676,9 +5727,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 549,
-  "item_last_updated": 1667605093,
-  "item_size": 33786345,
+  "files_count": 554,
+  "item_last_updated": 1667629485,
+  "item_size": 34059646,
   "metadata": {
     "identifier": "salnews-2022",
     "collection": [
@@ -5695,10 +5746,21 @@
     "publicdate": "2022-09-20 19:23:48",
     "addeddate": "2022-09-20 19:23:48"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 179953845,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462582925,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1997056489,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

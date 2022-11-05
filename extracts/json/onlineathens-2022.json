@@ -1,6 +1,5 @@
 {
-  "conflict": 1667604578,
-  "created": 1667604578,
+  "created": 1667629337,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/24/items/onlineathens-2022",
@@ -12823,31 +12822,82 @@
       "sha1": "e10e93898dfc61f07454eefb9a787f4044a861f0"
     },
     {
+      "name": "onlineathens-2022-11-05T02:20:22.050327-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667629232",
+      "size": "22819",
+      "md5": "1323cec99dcf5422fb5903ee6c76b3f8",
+      "crc32": "190289b6",
+      "sha1": "553dc7c2be94fcf7b22cc77d579a649efc6c42b8",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-11-05T02:20:22.050327-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667629237",
+      "size": "28898",
+      "md5": "4d29e3b82498ff209a64df5c26aff580",
+      "crc32": "587a4b7a",
+      "sha1": "398298273a56b4122d88976582ec511fe40337c3",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-11-05T02:20:22.050327-04:00.jpg",
+      "source": "original",
+      "mtime": "1667629228",
+      "size": "271012",
+      "md5": "fab69cb4288ae155509b303da1b08492",
+      "crc32": "5e2fb57b",
+      "sha1": "8ec64757d6a1fcee3175f9c8b88ebfb0cdf7e2c0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "onlineathens-2022-11-05T02:20:22.050327-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667629241",
+      "size": "1513",
+      "md5": "344e09b794587d3012fa8f2a8da5deb4",
+      "crc32": "a27fb40c",
+      "sha1": "d75d0a6c25d9f867c754f84fe21233c882bea0be",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-11-05T02:20:22.050327-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667629247",
+      "size": "71440",
+      "md5": "c197aa669450e360fd5d96fb24cb9538",
+      "crc32": "a93fb42d",
+      "sha1": "bb20e074d80b47552d7687feb8ceb63ed8cb2be9",
+      "format": "JSON"
+    },
+    {
       "name": "onlineathens-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c45a69a2f5e361061eda11d7a938c715e0b9f532",
-      "mtime": "1667604575",
-      "size": "267036",
-      "md5": "273ae4dcdc81d3427270fa906cf87f36",
-      "crc32": "ea8110a3",
-      "sha1": "868f1bd00453b06a30cf549915766b87b53d5111",
+      "btih": "b8a3786aad8c53e4707a8e25ea8fbceee193f11b",
+      "mtime": "1667629322",
+      "size": "268099",
+      "md5": "9870c32cc631a1f2049180509ac72014",
+      "crc32": "b929b631",
+      "sha1": "4480f91243f61955097be3188a5aaa61d64b42e3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "onlineathens-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4ed63aeefee6ef6f7a06ab86fcb4f324",
+      "md5": "5269c2e78db142dd0db8dee83500e2f3",
       "summation": "md5"
     },
     {
       "name": "onlineathens-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667602750",
-      "size": "1585152",
-      "md5": "7e21a50e6ed465bf1d22fc40126a8ea5",
-      "crc32": "fba5035b",
-      "sha1": "6f4df8f23517a9dd40b6eea4250a177e00c4f456",
+      "mtime": "1667629257",
+      "size": "1593344",
+      "md5": "eeed25900d8bd3dbc2868fb36e230c1b",
+      "crc32": "afcf3329",
+      "sha1": "469416e13179f7fd72562cbe34813b1b7d06e5ee",
       "format": "Metadata"
     },
     {
@@ -12861,9 +12911,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1243,
-  "item_last_updated": 1667604575,
-  "item_size": 84242383,
+  "files_count": 1248,
+  "item_last_updated": 1667629322,
+  "item_size": 84647320,
   "metadata": {
     "identifier": "onlineathens-2022",
     "collection": [
@@ -12885,23 +12935,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3462205435,
+      "task_id": 3462581484,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3462243139,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 1896678162,
+  "uniq": 1953339559,
   "workable_servers": [
     "ia601405.us.archive.org"
   ]

@@ -1,5 +1,6 @@
 {
-  "created": 1667604237,
+  "conflict": 1667629834,
+  "created": 1667629834,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/19/items/newspressnow-2022",
@@ -13116,31 +13117,93 @@
       "sha1": "c1d18d1938b2bebb1671e53ac2f6bcfd4698cd25"
     },
     {
+      "name": "newspressnow-2022-11-05T01:19:40.335462-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667629194",
+      "size": "28886",
+      "md5": "95fdbbacf946ffba8d32eecf737fec7f",
+      "crc32": "cc18617b",
+      "sha1": "2392fe78912619a5c7f9207e7028a0f52a9abe89",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-11-05T01:19:40.335462-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667629197",
+      "size": "36280",
+      "md5": "4203f094e91bc2e823ecde6b0410816d",
+      "crc32": "90632432",
+      "sha1": "58983ad43b4046710c98fccf3d221e69b06a0776",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-11-05T01:19:40.335462-05:00.jpg",
+      "source": "original",
+      "mtime": "1667629190",
+      "size": "356583",
+      "md5": "9ba1ba4894fe49da33ed9bdc80fed70c",
+      "crc32": "dc57fa6c",
+      "sha1": "d2a8f22c783d7e3878a02886fefa3b34b34d18b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newspressnow-2022-11-05T01:19:40.335462-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667629201",
+      "size": "1513",
+      "md5": "f42e742a4f8a5c305718ecf40599b34d",
+      "crc32": "353c8497",
+      "sha1": "ed920dc0c558b1f405be00de425f32e2178b81d6",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-11-05T01:19:40.335462-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667629208",
+      "size": "95072",
+      "md5": "9a04a5bc95dd1a8ad54d062e2a2c6483",
+      "crc32": "03fa1bee",
+      "sha1": "9ee4cf0186f2dca32acab4fd07267c5325b5659b",
+      "format": "JSON"
+    },
+    {
+      "name": "newspressnow-2022-11-05T01:19:40.335462-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newspressnow-2022-11-05T01:19:40.335462-05:00.jpg",
+      "mtime": "1667629778",
+      "size": "10636",
+      "md5": "39bd8f95da415def465f1dd34d3e5d12",
+      "crc32": "af0d52bf",
+      "sha1": "d75c640504e1a271faf620253837f603d4450c2d"
+    },
+    {
       "name": "newspressnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "46bd728d41b860902247256138589f2cf6a5b39a",
-      "mtime": "1667604194",
-      "size": "272901",
-      "md5": "4be122e25c6678141be1ca433d99dbf7",
-      "crc32": "7b5cde6e",
-      "sha1": "e01e961267373edde391a10a5dc23a4f2f38e427",
+      "btih": "18f1abb926209f14a60504ac8bbf284cc32d2651",
+      "mtime": "1667629830",
+      "size": "274193",
+      "md5": "f64fc235788f70cb4361a11424510393",
+      "crc32": "72df675c",
+      "sha1": "4bdc74a21497591f3d4644d728f6a24f1ef4923f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newspressnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8adfa707a1582d17f57aef0a5fc4fff2",
+      "md5": "2168dd1c81ac96d189aa49eeb57b269b",
       "summation": "md5"
     },
     {
       "name": "newspressnow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667602582",
-      "size": "1572864",
-      "md5": "3add828edece624afef128fa3e39a36e",
-      "crc32": "9aa91e89",
-      "sha1": "b433103b162e3400e9ccc666bef0a7eea29dddfe",
+      "mtime": "1667629215",
+      "size": "1581056",
+      "md5": "5a2848f42ff1145f798c3a2a0338ea81",
+      "crc32": "b0b9dcb9",
+      "sha1": "22f6546ca63d2dcc1a8bd3c63bdeeca5c62bd5d9",
       "format": "Metadata"
     },
     {
@@ -13154,9 +13217,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1266,
-  "item_last_updated": 1667604194,
-  "item_size": 118048378,
+  "files_count": 1272,
+  "item_last_updated": 1667629830,
+  "item_size": 118586832,
   "metadata": {
     "identifier": "newspressnow-2022",
     "collection": [
@@ -13173,10 +13236,29 @@
     "publicdate": "2022-07-04 21:49:25",
     "addeddate": "2022-07-04 21:49:25"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 1340388341,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462580985,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3462586844,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 966417674,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }

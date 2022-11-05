@@ -1,5 +1,5 @@
 {
-  "created": 1667604633,
+  "created": 1667629258,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/18/items/newsrepublican-2022",
@@ -7002,31 +7002,82 @@
       "sha1": "a4270af467842895c38ac8160c295e585f86b18a"
     },
     {
+      "name": "newsrepublican-2022-11-05T01:19:25.000452-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667629173",
+      "size": "23944",
+      "md5": "db720cfd85e8c9e27d410e7e4ee75c5d",
+      "crc32": "39e6ff8f",
+      "sha1": "6fb372abd9ef24681589c81e3f9c38df758b42d7",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-11-05T01:19:25.000452-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667629175",
+      "size": "32401",
+      "md5": "0835ee1a639c856943bffb9f596e96a2",
+      "crc32": "f445c6a7",
+      "sha1": "033ffa547cda17462eb5bc2e4a5e1da61e367d4c",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-11-05T01:19:25.000452-05:00.jpg",
+      "source": "original",
+      "mtime": "1667629172",
+      "size": "230358",
+      "md5": "c28c08f5c252795919bbb3e43515c480",
+      "crc32": "ee507019",
+      "sha1": "a68cd406bc603588155575d6d8868812f82d29f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsrepublican-2022-11-05T01:19:25.000452-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667629178",
+      "size": "1630",
+      "md5": "aa8a842cdfdbb73f960d9c1dc7ed7feb",
+      "crc32": "dd222c95",
+      "sha1": "852ab6d56afec22fab2c18c917558cd39529522c",
+      "format": "JSON"
+    },
+    {
+      "name": "newsrepublican-2022-11-05T01:19:25.000452-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667629181",
+      "size": "92993",
+      "md5": "a79f122798b412bef8131c78470f5a5f",
+      "crc32": "139d00e7",
+      "sha1": "815c253cb5bdadd669abb4cf8e545a8354fb01f4",
+      "format": "JSON"
+    },
+    {
       "name": "newsrepublican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "067438251bf995380412a85327b87e3e7e151624",
-      "mtime": "1667604582",
-      "size": "147963",
-      "md5": "6d838108257a7373fcedb3c331e38d62",
-      "crc32": "4e225729",
-      "sha1": "05ad82c6636dec2e6632afc4522d6fa97f48f5ee",
+      "btih": "89f11361ced89319eb1daf8776d9378f9caa532a",
+      "mtime": "1667629240",
+      "size": "149056",
+      "md5": "72263c062ddba4d47c0ecc7f1feed46f",
+      "crc32": "90418e7c",
+      "sha1": "a851319d166b9b00064a1689d9d7eb8e9ad958fd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsrepublican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d693ed5045c0f4031f511df5f6361d95",
+      "md5": "a06b28b718d124fffba31213ea40389c",
       "summation": "md5"
     },
     {
       "name": "newsrepublican-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667602574",
-      "size": "884736",
-      "md5": "ea004adcd57c3343986f302983d8b537",
-      "crc32": "06f3def2",
-      "sha1": "85010034d678a433d1a25faebbd8892c33ef6495",
+      "mtime": "1667629188",
+      "size": "892928",
+      "md5": "1a561d4b468f80ca6d8b8b404526a696",
+      "crc32": "1b7fea3e",
+      "sha1": "f6e9489576e0c986ddcb3dfec2f4a9dc0eaed9a0",
       "format": "Metadata"
     },
     {
@@ -7040,9 +7091,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 681,
-  "item_last_updated": 1667604582,
-  "item_size": 45592575,
+  "files_count": 686,
+  "item_last_updated": 1667629240,
+  "item_size": 45983186,
   "metadata": {
     "identifier": "newsrepublican-2022",
     "collection": [
@@ -7059,10 +7110,21 @@
     "publicdate": "2022-09-20 19:12:39",
     "addeddate": "2022-09-20 19:12:39"
   },
-  "server": "ia801402.us.archive.org",
-  "uniq": 319869023,
+  "pending_tasks": true,
+  "server": "ia601402.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462580769,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 163876488,
   "workable_servers": [
-    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }

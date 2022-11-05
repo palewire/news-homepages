@@ -1,5 +1,5 @@
 {
-  "created": 1667604802,
+  "created": 1667629481,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/17/items/restofworld-2022",
@@ -12361,31 +12361,93 @@
       "format": "JSON"
     },
     {
+      "name": "restofworld-2022-11-04T19:05:59.914144-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "restofworld-2022-11-04T19:05:59.914144-04:00.jpg",
+      "mtime": "1667607316",
+      "size": "10205",
+      "md5": "d51495219becd97dbab6d50342693b10",
+      "crc32": "c13a39d8",
+      "sha1": "97d9c866e7cd9e69c731639d911b24c37dc679d7"
+    },
+    {
+      "name": "restofworld-2022-11-05T02:22:32.656322-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667629372",
+      "size": "36050",
+      "md5": "467883b7d910255896be8f183b10b6aa",
+      "crc32": "1355532b",
+      "sha1": "318bde486b0c3052aca6990e75aa31e81fa527bb",
+      "format": "JSON"
+    },
+    {
+      "name": "restofworld-2022-11-05T02:22:32.656322-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667629377",
+      "size": "32788",
+      "md5": "152ba65adcb6b23c448094e2c8714684",
+      "crc32": "2d116dcf",
+      "sha1": "ebe5b4e07044e46cf01f14c82431aaf91aba9252",
+      "format": "JSON"
+    },
+    {
+      "name": "restofworld-2022-11-05T02:22:32.656322-04:00.jpg",
+      "source": "original",
+      "mtime": "1667629365",
+      "size": "368605",
+      "md5": "392707391a809928ee6009c62ca39b2f",
+      "crc32": "ff21b03d",
+      "sha1": "9d7b21040531e681ffa2560996b14b8df5931256",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "restofworld-2022-11-05T02:22:32.656322-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667629382",
+      "size": "1459",
+      "md5": "008cd5088bf7c38e34498d5f5dc4e427",
+      "crc32": "783432ec",
+      "sha1": "c62b4fe65d2948a99faeb4af4770049be31c7fea",
+      "format": "JSON"
+    },
+    {
+      "name": "restofworld-2022-11-05T02:22:32.656322-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667629385",
+      "size": "13561",
+      "md5": "4d88efb3592a23bd198ea80fa1cab9d2",
+      "crc32": "0764baac",
+      "sha1": "a61b53239f32b731d3d18aa8f8147c96538dee78",
+      "format": "JSON"
+    },
+    {
       "name": "restofworld-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d94e2e316615c772b89c15a9a25e22e18b7eccae",
-      "mtime": "1667604781",
-      "size": "256671",
-      "md5": "8b52635d2e604dccfcf9c25441ad50be",
-      "crc32": "048790d6",
-      "sha1": "1570a778ff9ce6d7b1affb86a0e6ea920cdfe032",
+      "btih": "e203c358a1a0d8b1426db6c7b59a93b9d8b7a1e8",
+      "mtime": "1667629470",
+      "size": "257957",
+      "md5": "cb4b37bf7e754a8b054b3f6c13770533",
+      "crc32": "210fb988",
+      "sha1": "73e822469ee80535da3db26783081d7651f20d78",
       "format": "Archive BitTorrent"
     },
     {
       "name": "restofworld-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e00b0018a77349955a88a4f9d184e7f9",
+      "md5": "70f96e73878aa97b451c2d10cc52f970",
       "summation": "md5"
     },
     {
       "name": "restofworld-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667604748",
-      "size": "1531904",
-      "md5": "b7b76bdf32f2f1a172d34efdedf5c9ea",
-      "crc32": "e0af55fb",
-      "sha1": "27a8b388aa106c89c852391cc0a48ea6d7dbe8c0",
+      "mtime": "1667629413",
+      "size": "1540096",
+      "md5": "ffc456adbe289440c1e8e819011265bd",
+      "crc32": "f1ab69fb",
+      "sha1": "b9d2c9dd22719ef7b99105cb794b9adb34f84810",
       "format": "Metadata"
     },
     {
@@ -12399,9 +12461,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1199,
-  "item_last_updated": 1667604781,
-  "item_size": 85647276,
+  "files_count": 1205,
+  "item_last_updated": 1667629470,
+  "item_size": 86119422,
   "metadata": {
     "identifier": "restofworld-2022",
     "collection": [
@@ -12423,15 +12485,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3462248320,
+      "task_id": 3462582853,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 899811626,
+  "uniq": 2034588946,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

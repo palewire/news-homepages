@@ -1,5 +1,6 @@
 {
-  "created": 1667604908,
+  "conflict": 1667630121,
+  "created": 1667630121,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/34/items/simple_flying-2022",
@@ -13972,31 +13973,88 @@
       "sha1": "b4550e075a382b5f0dd999b42f9b87a5d2ecf3d4"
     },
     {
+      "name": "simple_flying-2022-11-05T06:24:28.141262+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667629499",
+      "size": "34847",
+      "md5": "546e45341e8771826b705c45b6a4930e",
+      "crc32": "1862ce50",
+      "sha1": "ed73b6d25fd25ef5ea8c41d0050d3cad7a6b2da3",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-11-05T06:24:28.141262+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667629501",
+      "size": "25976",
+      "md5": "5948b15696925baf74f6250c516938eb",
+      "crc32": "3c7dde00",
+      "sha1": "174dbb22d4c2ad2c20f98df299cfc7985586608e",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-11-05T06:24:28.141262+00:00.jpg",
+      "source": "original",
+      "mtime": "1667629497",
+      "size": "227782",
+      "md5": "415902b942bef024e475b614bd44fbb4",
+      "crc32": "f0ad87ff",
+      "sha1": "a50a567599e41fe9a9ae08341744c45996f4d3bc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "simple_flying-2022-11-05T06:24:28.141262+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667629506",
+      "size": "1468",
+      "md5": "2f95d37bb060a3e91badd5bfb15e23de",
+      "crc32": "15a27940",
+      "sha1": "9512a3a1f8dadcd8a7f2df592b1699f743b21f99",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-11-05T06:24:28.141262+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667629508",
+      "size": "40982",
+      "md5": "bb68eed1e66ba6b8a81176b34da10571",
+      "crc32": "a6afe32a",
+      "sha1": "3d4b9b186b394ec190ffa1232e3f6cf25e959a9f",
+      "format": "JSON"
+    },
+    {
+      "name": "simple_flying-2022-11-05T06:24:28.141262+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "simple_flying-2022-11-05T06:24:28.141262+00:00.jpg"
+    },
+    {
       "name": "simple_flying-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b8298eba4eeab3bd990f3029b9594f2dfa36be46",
-      "mtime": "1667604848",
-      "size": "292025",
-      "md5": "03b5dc6bc1579aefd310aa04187a01cc",
-      "crc32": "5dde7faf",
-      "sha1": "f94312e26be969c27c8583880fb3be42db0aa1ff",
+      "btih": "03e1d15b15c5c75e8935b43b6943f4a2ab207317",
+      "mtime": "1667629572",
+      "size": "293113",
+      "md5": "486b656199d070aaf7deb5a59c365e7f",
+      "crc32": "8c6c8e4e",
+      "sha1": "a86fdf1abefcb499478559a3d440e588a80fb2c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "simple_flying-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1f1d68a7a14634322587f22ae9f4b67e",
+      "md5": "6a604397d7d3b4459dcd4de20d0edbaf",
       "summation": "md5"
     },
     {
       "name": "simple_flying-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667603203",
-      "size": "1740800",
-      "md5": "757d34191979a830ee79f00d8e9320e6",
-      "crc32": "a94ce4da",
-      "sha1": "d8f3814fb21e0abee1822433b7f108bad4fb036b",
+      "mtime": "1667629511",
+      "size": "1753088",
+      "md5": "90a345ece3ffdac036a2f40d77f8ea92",
+      "crc32": "ac7668a7",
+      "sha1": "0da9db1834fbf7fd8310d15c6ca6bf0a60e8d166",
       "format": "Metadata"
     },
     {
@@ -14010,9 +14068,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1356,
-  "item_last_updated": 1667604848,
-  "item_size": 77035809,
+  "files_count": 1362,
+  "item_last_updated": 1667629572,
+  "item_size": 77380240,
   "metadata": {
     "identifier": "simple_flying-2022",
     "collection": [
@@ -14029,9 +14087,20 @@
     "publicdate": "2022-08-21 03:36:53",
     "addeddate": "2022-08-21 03:36:53"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
   "servers_unavailable": true,
-  "uniq": 873153510,
+  "tasks": [
+    {
+      "task_id": 3462584030,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1495889729,
   "workable_servers": [
     "ia601506.us.archive.org"
   ]
