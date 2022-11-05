@@ -185,3 +185,13 @@ jobs:
           name: extracts
           path: ./extracts
           if-no-files-found: error
+
+      - id: upload
+        name: Upload
+        uses: ./.github/actions/upload
+        with:
+          artifact: extracts
+          destination: extracts
+          s3-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          s3-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          s3-bucket-name: ${{ secrets.AWS_BUCKET_NAME }}
