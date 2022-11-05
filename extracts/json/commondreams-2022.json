@@ -1,9 +1,6 @@
 {
-  "commondreams-2022": {
-    "url": "https://www.commondreams.org/",
-    "job_id": "spn2-9b122b7f01a8f18cee1d21a551f9a15ef15c9dc4"
-  },
-  "created": 1667629250,
+  "conflict": 1667676514,
+  "created": 1667676514,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/7/items/commondreams-2022",
@@ -19569,10 +19566,21 @@
     "publicdate": "2022-07-17 16:00:05",
     "addeddate": "2022-07-17 16:00:05"
   },
+  "pending_tasks": true,
   "server": "ia801401.us.archive.org",
-  "uniq": 384445689,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463072236,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1756795607,
   "workable_servers": [
-    "ia801401.us.archive.org",
-    "ia601401.us.archive.org"
+    "ia801401.us.archive.org"
   ]
 }

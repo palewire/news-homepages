@@ -1,5 +1,6 @@
 {
-  "created": 1667629630,
+  "conflict": 1667677719,
+  "created": 1667677719,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/17/items/gadsdentimes-2022",
@@ -5720,31 +5721,93 @@
       "sha1": "a044078f02e9cbe266ad24a81dda4186dd3be1d3"
     },
     {
+      "name": "gadsdentimes-2022-11-05T14:24:10.197868-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667676252",
+      "size": "22805",
+      "md5": "3c1cd1dadc84558308e37feee778e150",
+      "crc32": "ccb15e2a",
+      "sha1": "3663c1cf2c3347479befcbc3bc18b58a1b0a0fe8",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-11-05T14:24:10.197868-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667676254",
+      "size": "46934",
+      "md5": "fc6c0622ddba783ea21b01bc7182daeb",
+      "crc32": "a13474af",
+      "sha1": "753748457503f34b36950750e38066902e405aba",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-11-05T14:24:10.197868-05:00.jpg",
+      "source": "original",
+      "mtime": "1667676251",
+      "size": "268171",
+      "md5": "1c0c1167db3b05b792118f4deedf2a32",
+      "crc32": "0d7e938d",
+      "sha1": "6f61a8ea19ae8186c26c33c58f39eefff7b6f0f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gadsdentimes-2022-11-05T14:24:10.197868-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667676256",
+      "size": "1513",
+      "md5": "c3b4b8d4131dde35fa77dc42e5fff800",
+      "crc32": "65d85f32",
+      "sha1": "b7a9be36b4b21e2488ca2d6bcc52533c3102f5cf",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-11-05T14:24:10.197868-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667676260",
+      "size": "84365",
+      "md5": "c808f5d97c9f33649c173a416ca68312",
+      "crc32": "e6410da4",
+      "sha1": "4422da6507637e0360909b7b606dad510c178b39",
+      "format": "JSON"
+    },
+    {
+      "name": "gadsdentimes-2022-11-05T14:24:10.197868-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gadsdentimes-2022-11-05T14:24:10.197868-05:00.jpg",
+      "mtime": "1667677712",
+      "size": "9341",
+      "md5": "c8db79182965a7b6d82389935f74d276",
+      "crc32": "4131d309",
+      "sha1": "a3917962734a8f427fb3a9c6102dd401f2020f0f"
+    },
+    {
       "name": "gadsdentimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7a1e9d2df546702c8166e7fc1844e4d300a60dad",
-      "mtime": "1667626282",
-      "size": "119941",
-      "md5": "dd74c617c6c67eb10465c31fdecbbd42",
-      "crc32": "b2c3a52b",
-      "sha1": "5c6c6b9646a7b485757881f830e43d5861c47d3c",
+      "btih": "a9ce6fd8f31b4f1a4d52e3b1d223ea3f7cd4c57a",
+      "mtime": "1667677717",
+      "size": "121232",
+      "md5": "b15d8d15e36e2269ca2793208eae47c9",
+      "crc32": "ff6f953c",
+      "sha1": "9d6b437d208b944035b317d4b8640523620bc2c8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gadsdentimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9027cf19effd93417c625423d154d479",
+      "md5": "2b66d72344f64d56fb2396876585980a",
       "summation": "md5"
     },
     {
       "name": "gadsdentimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667625860",
-      "size": "729088",
-      "md5": "b9e8071b2e789032505ccfceeb58d8a4",
-      "crc32": "d9c61a6e",
-      "sha1": "8ad560be834770fa879ff9ce4511e6471dd3c6f4",
+      "mtime": "1667676269",
+      "size": "733184",
+      "md5": "777723496df0441cf67291776febca69",
+      "crc32": "04982364",
+      "sha1": "4a18c698c7cbb136df6556f1efd976d0b38dc18d",
       "format": "Metadata"
     },
     {
@@ -5758,14 +5821,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 557,
-  "gadsdentimes-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1667626282,
-  "item_size": 37341755,
+  "files_count": 563,
+  "item_last_updated": 1667677717,
+  "item_size": 37780271,
   "metadata": {
     "identifier": "gadsdentimes-2022",
     "collection": [
@@ -5782,10 +5840,29 @@
     "publicdate": "2022-09-20 17:53:32",
     "addeddate": "2022-09-20 17:53:32"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 530357338,
+  "pending_tasks": true,
+  "server": "ia601505.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463076399,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3463091683,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 974247387,
   "workable_servers": [
-    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

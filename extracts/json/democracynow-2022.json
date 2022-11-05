@@ -1,5 +1,5 @@
 {
-  "created": 1667626219,
+  "created": 1667676258,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/8/items/democracynow-2022",
@@ -21874,31 +21874,82 @@
       "sha1": "b57a09edca7f26f8d29beff776874b49236c64d8"
     },
     {
+      "name": "democracynow-2022-11-05T15:21:41.242590-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667676123",
+      "size": "25598",
+      "md5": "cf152d5f7a2c1838827400bef9523497",
+      "crc32": "894365be",
+      "sha1": "aac6646c8cc5d83eac460823e3a8f5bda1ec099a",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-11-05T15:21:41.242590-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667676125",
+      "size": "31230",
+      "md5": "fbddd86b31e41b32aab6c1fa7d7b0b0e",
+      "crc32": "f54a82ad",
+      "sha1": "5fe3a289ac2fcbc07f2a8d068afd46631abdad56",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-11-05T15:21:41.242590-04:00.jpg",
+      "source": "original",
+      "mtime": "1667676121",
+      "size": "326768",
+      "md5": "6855016d865192f23441d754b97c7bbf",
+      "crc32": "5ff150bc",
+      "sha1": "f91ef9f4d3bcdec45ea7e57122728e98647a12de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "democracynow-2022-11-05T15:21:41.242590-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667676127",
+      "size": "1512",
+      "md5": "d31bf70514639d281f3dad722141f1d9",
+      "crc32": "2b9974fb",
+      "sha1": "3aa950b91d0cb39ddb08cc5afe4c58e6c13211b9",
+      "format": "JSON"
+    },
+    {
+      "name": "democracynow-2022-11-05T15:21:41.242590-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667676128",
+      "size": "14072",
+      "md5": "65e6cac7f23aae48da9f58f687c09687",
+      "crc32": "c4ef7c91",
+      "sha1": "57aa1bc61db308d235ae24bacaccd73855b067d4",
+      "format": "JSON"
+    },
+    {
       "name": "democracynow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1987ec28aeb4cf0a527391e005ed3a518f9475ea",
-      "mtime": "1667626176",
-      "size": "453930",
-      "md5": "0f869072533747f3462578f59a29f732",
-      "crc32": "88553338",
-      "sha1": "7a1434a7382fa7003b5dce9866c94ef8ec0c3769",
+      "btih": "03ffba2f0d2c863e5429957107b4805be276f1b0",
+      "mtime": "1667676241",
+      "size": "454993",
+      "md5": "19007f81d23532962732de23131fc838",
+      "crc32": "622f3aa8",
+      "sha1": "2b35e745fa7f09cfc7fb5e0cde59c1cb89f18f57",
       "format": "Archive BitTorrent"
     },
     {
       "name": "democracynow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f63ec4e37dcc9f2f513e3c87298ae997",
+      "md5": "e970e9882713999f2318d0abd3deb6c3",
       "summation": "md5"
     },
     {
       "name": "democracynow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667625735",
-      "size": "2662400",
-      "md5": "ed57ac334043ee61b77e571991a06595",
-      "crc32": "b674e8b9",
-      "sha1": "75dd254d61928a7e2d0e9073a16e82cfa6a1530c",
+      "mtime": "1667676149",
+      "size": "2666496",
+      "md5": "666b23df16a4ae9c7cfc6b7da0893bbd",
+      "crc32": "517003fc",
+      "sha1": "6b45aacadb19f5685748ea7f3bcf9ccf300977e6",
       "format": "Metadata"
     },
     {
@@ -21912,9 +21963,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2114,
-  "item_last_updated": 1667626176,
-  "item_size": 148833486,
+  "files_count": 2119,
+  "item_last_updated": 1667676241,
+  "item_size": 149237825,
   "metadata": {
     "identifier": "democracynow-2022",
     "collection": [
@@ -21931,10 +21982,21 @@
     "publicdate": "2022-06-24 22:54:24",
     "addeddate": "2022-06-24 22:54:24"
   },
+  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "uniq": 1438741679,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463075725,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1318821332,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia601408.us.archive.org"
   ]
 }
