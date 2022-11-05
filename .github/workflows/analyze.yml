@@ -38,8 +38,8 @@ jobs:
           git commit -m "Update lighthouse analysis" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
 
-  drudge:
-    name: Drudge
+  drudge-hyperlinks:
+    name: Drudge hyperlinks
     runs-on: ubuntu-latest
     steps:
       - id: checkout
@@ -63,5 +63,33 @@ jobs:
           git config pull.rebase false
           git pull origin $GITHUB_REF
           git add ./extracts
-          git commit -m "Update Drudge analysis" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+          git commit -m "Update Drudge hyperlinks analysis" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        shell: bash
+
+  drudge-entities:
+    name: Drudge entities
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: analyze
+        name: Analyze Drudge hyperlinks
+        run: pipenv run python -m newshomepages.analyze drudge-entities;
+        shell: bash
+
+      - id: commit
+        name: Commit
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin $GITHUB_REF
+          git add ./extracts
+          git commit -m "Update Drudge entities analysis" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
