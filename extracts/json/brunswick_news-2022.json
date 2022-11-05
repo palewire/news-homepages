@@ -1,5 +1,5 @@
 {
-  "created": 1667565100,
+  "created": 1667613613,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/10/items/brunswick_news-2022",
@@ -12997,31 +12997,94 @@
       "format": "JSON"
     },
     {
+      "name": "brunswick_news-2022-11-04T08:29:57.095721-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brunswick_news-2022-11-04T08:29:57.095721-04:00.jpg",
+      "mtime": "1667570061",
+      "size": "8926",
+      "md5": "224cbb44bf4ab9ec2fb35f65a731858c",
+      "crc32": "23308fd8",
+      "sha1": "223250fbc8fb0456084f91946a3e875a54e23c5b"
+    },
+    {
+      "name": "brunswick_news-2022-11-04T21:10:02.037989-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667610611",
+      "size": "25623",
+      "md5": "e2a069d5d4378d198f2fc6375347c94c",
+      "crc32": "52ef857b",
+      "sha1": "a5d9f9f2dd4e6e690ff8f2c436d9c4dd0b6af9d8",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-11-04T21:10:02.037989-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667610613",
+      "size": "72375",
+      "md5": "fb1aa5ba1dd7cab3734eb8c0e896319a",
+      "crc32": "bd976acd",
+      "sha1": "a79bbdf19a3329295e3c57e2f3a36123a0c0e467",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-11-04T21:10:02.037989-04:00.jpg",
+      "source": "original",
+      "mtime": "1667610608",
+      "size": "297009",
+      "md5": "f107534e903b1fd15f4c2d88e85836da",
+      "crc32": "52141706",
+      "sha1": "5a08b4a9453aca6e32708ef3b6e67b2ca366c4fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "brunswick_news-2022-11-04T21:10:02.037989-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667610615",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "brunswick_news-2022-11-04T21:10:02.037989-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brunswick_news-2022-11-04T21:10:02.037989-04:00.jpg",
+      "mtime": "1667613547",
+      "size": "8979",
+      "md5": "381da5b0487527375d5eca4ad371983d",
+      "crc32": "adb3a369",
+      "sha1": "1289a1b81643f012503213aecda498eded3f545a"
+    },
+    {
       "name": "brunswick_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "00023da01c7c61000c52d98705804a71cc68b5c2",
-      "mtime": "1667565092",
-      "size": "273349",
-      "md5": "f85e5e4f50b41ad39d9dd0c7ed5c9820",
-      "crc32": "91151732",
-      "sha1": "1f41cafc161961c8eb04e1f725fee89b1bc3d1c2",
+      "btih": "8cc9accdc392283fc1151dad7da2369307a45fd7",
+      "mtime": "1667613571",
+      "size": "274644",
+      "md5": "a4605f5fba26f2b29a343298a68f6079",
+      "crc32": "b6d5d6fd",
+      "sha1": "a2eace9a95880c41e92e6cfca97e4590d79a2e68",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brunswick_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b2688ada08cad0a7413842f4f3b10444",
+      "md5": "257da0df954a3de855e6eabe17836ddc",
       "summation": "md5"
     },
     {
       "name": "brunswick_news-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667565040",
-      "size": "1613824",
-      "md5": "ac74b3481393b213dfc8fe25012e259a",
-      "crc32": "8550f52a",
-      "sha1": "418858d793f927bb5b5c2a14e10d0ef7af73f633",
+      "mtime": "1667610626",
+      "size": "1617920",
+      "md5": "0452ed7f61d86ccb92318d9594c9efdf",
+      "crc32": "76912448",
+      "sha1": "ed52e35c90e294609e37c5c3ed201e37a92e8fed",
       "format": "Metadata"
     },
     {
@@ -13035,9 +13098,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1260,
-  "item_last_updated": 1667565092,
-  "item_size": 91982887,
+  "files_count": 1266,
+  "item_last_updated": 1667613571,
+  "item_size": 92401392,
   "metadata": {
     "identifier": "brunswick_news-2022",
     "collection": [
@@ -13054,21 +13117,10 @@
     "publicdate": "2022-07-20 23:30:25",
     "addeddate": "2022-07-20 23:30:25"
   },
-  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3461638005,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1729295148,
+  "uniq": 1942353578,
   "workable_servers": [
-    "ia601509.us.archive.org"
+    "ia601509.us.archive.org",
+    "ia801509.us.archive.org"
   ]
 }

@@ -1,5 +1,10 @@
 {
-  "created": 1667564885,
+  "berkeleyside-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667613975,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/35/items/berkeleyside-2022",
@@ -21733,31 +21738,93 @@
       "format": "JSON"
     },
     {
+      "name": "berkeleyside-2022-11-04T05:26:19.191002-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-11-04T05:26:19.191002-07:00.jpg",
+      "mtime": "1667569973",
+      "size": "9957",
+      "md5": "e366ed42ae373a639584fa9371be727b",
+      "crc32": "70706008",
+      "sha1": "753e525fd35e696b8adcea866c591625554e2745"
+    },
+    {
+      "name": "berkeleyside-2022-11-04T18:07:23.331482-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667610453",
+      "size": "32518",
+      "md5": "0ecc205bddf10808e204d3a4f1cb4e87",
+      "crc32": "17fea498",
+      "sha1": "35ad3097efe34b46362f7b5859bd4170aa0eb359",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-11-04T18:07:23.331482-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667610455",
+      "size": "30617",
+      "md5": "8218daac15c69a57693d555c0815e353",
+      "crc32": "a6f97716",
+      "sha1": "9a337c1247211913a72f114355da855850909780",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-11-04T18:07:23.331482-07:00.jpg",
+      "source": "original",
+      "mtime": "1667610451",
+      "size": "295918",
+      "md5": "13cfa8454f44941a2c7eefae34d90ade",
+      "crc32": "4b8ef97e",
+      "sha1": "67d8865e7a9be8ef0f216d75e4a50ed5b9167cb7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "berkeleyside-2022-11-04T18:07:23.331482-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667610458",
+      "size": "1510",
+      "md5": "bb5e0e32ae52d84b2eb75dc1b8768e4e",
+      "crc32": "3d218c76",
+      "sha1": "e4c367b2d3ca8e6a18308ec964f3ba13f1df2456",
+      "format": "JSON"
+    },
+    {
+      "name": "berkeleyside-2022-11-04T18:07:23.331482-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667610461",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "berkeleyside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a4b01316f8fa01b99958bacfc23f16b5f45ab099",
-      "mtime": "1667564876",
-      "size": "450092",
-      "md5": "341a546731aaa097e8be061fa2406e49",
-      "crc32": "d803f65b",
-      "sha1": "dc01d16b8a168e683b2d80b2cc66388fbcc582df",
+      "btih": "fa2d2c8e65e814e422ae8d77a86915bc23c2abfb",
+      "mtime": "1667610535",
+      "size": "451381",
+      "md5": "a8ffb1cb757fc030eead8ef68da61b7e",
+      "crc32": "e544e3fb",
+      "sha1": "87898a26425d437b69c5c5d3ecdd57ba200eaf0a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkeleyside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75b9298003d5fa8a8cf5dd141af03070",
+      "md5": "09e08883afbcc8beb4596fb6e5bfe139",
       "summation": "md5"
     },
     {
       "name": "berkeleyside-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667564802",
-      "size": "2560000",
-      "md5": "2a3e4fe62daae5ff978ed47ceab0aaaf",
-      "crc32": "be5c3430",
-      "sha1": "1da785a7d40fc289e8a378f4628754b1d5eef045",
+      "mtime": "1667610468",
+      "size": "2568192",
+      "md5": "e76f5342336b351f27ea95c81d056ddb",
+      "crc32": "05f0e1d6",
+      "sha1": "5c46879e9259a3175a04c064233fe64f046f6978",
       "format": "Metadata"
     },
     {
@@ -21771,9 +21838,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2091,
-  "item_last_updated": 1667564876,
-  "item_size": 184910080,
+  "files_count": 2097,
+  "item_last_updated": 1667610535,
+  "item_size": 185290283,
   "metadata": {
     "identifier": "berkeleyside-2022",
     "collection": [
@@ -21796,15 +21863,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461635800,
+      "task_id": 3462335504,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1791920115,
+  "uniq": 1789667963,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]
