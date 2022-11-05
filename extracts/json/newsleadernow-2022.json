@@ -1,5 +1,5 @@
 {
-  "created": 1667618278,
+  "created": 1667660372,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/newsleadernow-2022",
@@ -5648,31 +5648,82 @@
       "sha1": "dd2bf23df7a49f7aa5838920f1dd3db34d4b3bc5"
     },
     {
+      "name": "newsleadernow-2022-11-05T09:59:00.825560-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667656747",
+      "size": "19726",
+      "md5": "877883e5df666a903b0ed7aba6416da5",
+      "crc32": "9f579a6a",
+      "sha1": "b65dfdb4438c2b4c09761b9e8288f08b1c790685",
+      "format": "JSON"
+    },
+    {
+      "name": "newsleadernow-2022-11-05T09:59:00.825560-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667656749",
+      "size": "33478",
+      "md5": "daa46cfc68caf70f0332826abcb04884",
+      "crc32": "76931210",
+      "sha1": "6b0bffc52e35387c12fc17accdf2f97fdaf30de7",
+      "format": "JSON"
+    },
+    {
+      "name": "newsleadernow-2022-11-05T09:59:00.825560-04:00.jpg",
+      "source": "original",
+      "mtime": "1667656746",
+      "size": "248802",
+      "md5": "fcb0e8d223b02ede82c18bb39e5b8dc3",
+      "crc32": "334308d8",
+      "sha1": "94170e8297bcee2198ebc8baabea8b3531e9ac60",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newsleadernow-2022-11-05T09:59:00.825560-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667656750",
+      "size": "1495",
+      "md5": "a7f645b9075010f6e89676f3e060628e",
+      "crc32": "f80a62ce",
+      "sha1": "2917bce8eea3832c1dea5182e42f20b72beb226b",
+      "format": "JSON"
+    },
+    {
+      "name": "newsleadernow-2022-11-05T09:59:00.825560-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667656752",
+      "size": "243",
+      "md5": "64914a3a1929dcd2ee2635267ab8f7b9",
+      "crc32": "0661c435",
+      "sha1": "4e338f7f3efd08633c84acd000c2f81872901303",
+      "format": "JSON"
+    },
+    {
       "name": "newsleadernow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53fea283da655d232ba8ae21c1581658b24532d4",
-      "mtime": "1667618169",
-      "size": "118967",
-      "md5": "e157e818dbe2ef53adc91014cf553739",
-      "crc32": "f13de46d",
-      "sha1": "eedf5b512237a062c08d7f59b7a054c1a4b8861a",
+      "btih": "8f4add65db5b6e9132f07d81a6ca22915fdf58cb",
+      "mtime": "1667656800",
+      "size": "120033",
+      "md5": "3ca29cdb7b36f68bc1ddaaf8b33841a9",
+      "crc32": "198238a8",
+      "sha1": "1d6f6131937d158cf83fba95f6f57e07a218e1b5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsleadernow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "87ea07b25040d9ace2d4221d2c290d78",
+      "md5": "8fc7f2a28fb02490b79000b54c0aec3f",
       "summation": "md5"
     },
     {
       "name": "newsleadernow-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667616548",
-      "size": "720896",
-      "md5": "685c87b0e88696f28b1a1ddaae4e929e",
-      "crc32": "e08ff514",
-      "sha1": "4ae6c37b585ac7ab9faabf7ffa864dd58a7848c1",
+      "mtime": "1667656759",
+      "size": "724992",
+      "md5": "331c69cf809cec482639d542675f6047",
+      "crc32": "3a06e880",
+      "sha1": "508891c4a824525c9b753ce54896ce654fe174a2",
       "format": "Metadata"
     },
     {
@@ -5686,9 +5737,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 550,
-  "item_last_updated": 1667618169,
-  "item_size": 35956989,
+  "files_count": 555,
+  "item_last_updated": 1667656800,
+  "item_size": 36265895,
   "metadata": {
     "identifier": "newsleadernow-2022",
     "collection": [
@@ -5705,10 +5756,29 @@
     "publicdate": "2022-09-21 02:20:26",
     "addeddate": "2022-09-21 02:20:26"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1441062093,
+  "newsleadernow-2022": {
+    "url": "https://www.newsleader.com/",
+    "job_id": "spn2-2ae22683dba99cc336260bbe74522e77eae81b1f",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "message": "Worker exited prematurely: exitcode 15 Job: 813.",
+    "resources": []
+  },
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462870101,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1402806367,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

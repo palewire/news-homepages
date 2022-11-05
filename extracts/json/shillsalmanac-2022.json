@@ -1,6 +1,5 @@
 {
-  "conflict": 1667618688,
-  "created": 1667618688,
+  "created": 1667660748,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/15/items/shillsalmanac-2022",
@@ -12034,29 +12033,14 @@
     "publicdate": "2022-07-26 00:25:03",
     "addeddate": "2022-07-26 00:25:03"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462429025,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3462450378,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 619615465,
+  "server": "ia802500.us.archive.org",
+  "shillsalmanac-2022": {
+    "url": "https://thealmanac.net/",
+    "job_id": "spn2-546d3949244611881c4c30beeccba2c3a5eeebdc"
+  },
+  "uniq": 1934760115,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }
