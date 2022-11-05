@@ -1,5 +1,5 @@
 {
-  "created": 1667676754,
+  "created": 1667680074,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/6/items/thedailyjournal-2022",
@@ -5688,31 +5688,93 @@
       "sha1": "9d45a16b2938c53c24116948c2784df5ff2a4cfb"
     },
     {
+      "name": "thedailyjournal-2022-11-05T16:22:28.535105-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667679754",
+      "size": "21762",
+      "md5": "a4705b52e9710b1d8f72f2e1fc72b077",
+      "crc32": "51f15fdd",
+      "sha1": "43bc0ca5d59e24dcb5b3d1a882ee1b74ce0c6e16",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-11-05T16:22:28.535105-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667679758",
+      "size": "37565",
+      "md5": "7478f385cf3656209ea376f4ed104177",
+      "crc32": "8564e30a",
+      "sha1": "f67a61e29079374a2dee0e587e18ee0c14f79861",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-11-05T16:22:28.535105-04:00.jpg",
+      "source": "original",
+      "mtime": "1667679751",
+      "size": "277008",
+      "md5": "4855887281cbaabbbf8f06757fe9abc2",
+      "crc32": "f4a6bb19",
+      "sha1": "665f333a6eb1e2ee512b283878a31cfeac079d17",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thedailyjournal-2022-11-05T16:22:28.535105-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667679760",
+      "size": "1540",
+      "md5": "ea7c8bb0f51f7bbc26442859ee3619f6",
+      "crc32": "0a6a2a46",
+      "sha1": "9518717937d4f94082d4db633cbd1504c36ee646",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-11-05T16:22:28.535105-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667679763",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thedailyjournal-2022-11-05T16:22:28.535105-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyjournal-2022-11-05T16:22:28.535105-04:00.jpg",
+      "mtime": "1667680061",
+      "size": "9086",
+      "md5": "d2f08e87ca1bb5968760ecc2f270b99c",
+      "crc32": "c906a590",
+      "sha1": "42db7c00d0155d62c69e56f525053101584b4ac5"
+    },
+    {
       "name": "thedailyjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0f4b17b5d174d2268cdd86fd1738352d1da3ec09",
-      "mtime": "1667630321",
-      "size": "120977",
-      "md5": "7049a49e38120f9162cad99d47f15798",
-      "crc32": "1b0d70a5",
-      "sha1": "0601010547e89d514b6a2e096ba96b12b58560d8",
+      "btih": "171b7ffa13a503ae031282af918a166e463b83f0",
+      "mtime": "1667680066",
+      "size": "122284",
+      "md5": "866a59d2668bef51c613e6cbf14a8bd0",
+      "crc32": "8dd74568",
+      "sha1": "039c1b8b591594fa3f31d3de36c36edcc89d5ab4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc635f4e2945cf38e23e40e63df1e3e4",
+      "md5": "acd4273208f8c60762879c259e563d37",
       "summation": "md5"
     },
     {
       "name": "thedailyjournal-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629589",
-      "size": "724992",
-      "md5": "717182806270e319edba73de20a5151f",
-      "crc32": "e0debbaa",
-      "sha1": "d37f5a8c0c235b7d54abcd2ca3c1cd761653fdec",
+      "mtime": "1667679765",
+      "size": "733184",
+      "md5": "c23969c6042052584b737cf81c5b66aa",
+      "crc32": "98294083",
+      "sha1": "c5d1154e54780e1073b7260f2709e32a33466b17",
       "format": "Metadata"
     },
     {
@@ -5726,9 +5788,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 554,
-  "item_last_updated": 1667630321,
-  "item_size": 36601493,
+  "files_count": 560,
+  "item_last_updated": 1667680066,
+  "item_size": 36958155,
   "metadata": {
     "identifier": "thedailyjournal-2022",
     "collection": [
@@ -5746,12 +5808,7 @@
     "addeddate": "2022-09-20 19:28:47"
   },
   "server": "ia801500.us.archive.org",
-  "thedailyjournal-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1968684480,
+  "uniq": 1915478582,
   "workable_servers": [
     "ia801500.us.archive.org",
     "ia601500.us.archive.org"

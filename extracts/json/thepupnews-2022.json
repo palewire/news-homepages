@@ -1,5 +1,6 @@
 {
-  "created": 1667676960,
+  "conflict": 1667680237,
+  "created": 1667680237,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/4/items/thepupnews-2022",
@@ -502,31 +503,93 @@
       "sha1": "dfe032c694d319ac12eaabb37c937bedfa09b536"
     },
     {
+      "name": "thepupnews-2022-11-05T16:25:20.365975-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667679924",
+      "size": "14056",
+      "md5": "a55dcc4dd99c1c102f11b5266db0fd47",
+      "crc32": "328bbad5",
+      "sha1": "bea9ae589698b416fa7f8dc178f0e3babc915867",
+      "format": "JSON"
+    },
+    {
+      "name": "thepupnews-2022-11-05T16:25:20.365975-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667679926",
+      "size": "9420",
+      "md5": "3a9ab187ffc835eb71a4f58c9041fccb",
+      "crc32": "968664ab",
+      "sha1": "36164176040d30e465ffa237251cb203c08973ce",
+      "format": "JSON"
+    },
+    {
+      "name": "thepupnews-2022-11-05T16:25:20.365975-04:00.jpg",
+      "source": "original",
+      "mtime": "1667679922",
+      "size": "282165",
+      "md5": "29a07e4a24c0a7b1e4d04de0f1745388",
+      "crc32": "1dfa0983",
+      "sha1": "000235518497fcaedee0c015e1f429070b2af154",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thepupnews-2022-11-05T16:25:20.365975-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667679928",
+      "size": "1522",
+      "md5": "1ead263d635019da614d85bdfc7ec94d",
+      "crc32": "06710265",
+      "sha1": "c3fe14650147890e334d5d13deaef2e02ee693d4",
+      "format": "JSON"
+    },
+    {
+      "name": "thepupnews-2022-11-05T16:25:20.365975-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667679929",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thepupnews-2022-11-05T16:25:20.365975-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thepupnews-2022-11-05T16:25:20.365975-04:00.jpg",
+      "mtime": "1667680231",
+      "size": "10087",
+      "md5": "671e1a275069d6cd66ecefe322cdd62b",
+      "crc32": "d766bb5a",
+      "sha1": "0876f5b9a2cb8c8572b6c01f3e092ea19f8d27d3"
+    },
+    {
       "name": "thepupnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4a7543bf855e12b9915ac32f7819caa5b8e2ef0b",
-      "mtime": "1667630481",
-      "size": "11564",
-      "md5": "45a3f5dd02d16c9cf682ce371bb8fccc",
-      "crc32": "b1bd33e7",
-      "sha1": "51920c8fb3dba89280cdd3410110817e70ddea96",
+      "btih": "69840848b91bbc6476db737feabca8414d861397",
+      "mtime": "1667680235",
+      "size": "12821",
+      "md5": "8b5594ff90f69a6c5513f3705ccabc87",
+      "crc32": "c0f53c5c",
+      "sha1": "c7ec3806a8d85116467b8acfdd6b53c29a10e4b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thepupnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b3fcb57738cdaadd1dc6a736b9f591a9",
+      "md5": "a38c2c9cbb4eaaf6c80aa915afd48d31",
       "summation": "md5"
     },
     {
       "name": "thepupnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629684",
-      "size": "73728",
-      "md5": "6f4c6a42de9b8e4c5fe46da4a87ec171",
-      "crc32": "dafa4ab9",
-      "sha1": "06dc306a20d9f7ea1cc5df798999d382885476b3",
+      "mtime": "1667679934",
+      "size": "81920",
+      "md5": "f514ece5357db921480aebab74208cc3",
+      "crc32": "8b15cdff",
+      "sha1": "424d473b6cc89aacd3ab289af527d10130764530",
       "format": "Metadata"
     },
     {
@@ -540,9 +603,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 52,
-  "item_last_updated": 1667630481,
-  "item_size": 2293101,
+  "files_count": 58,
+  "item_last_updated": 1667680235,
+  "item_size": 2620002,
   "metadata": {
     "identifier": "thepupnews-2022",
     "collection": [
@@ -559,25 +622,29 @@
     "publicdate": "2022-11-01 22:57:06",
     "addeddate": "2022-11-01 22:57:06"
   },
-  "server": "ia801503.us.archive.org",
-  "thepupnews-2022": {
-    "url": "https://www.unionprogress.com/",
-    "job_id": "spn2-ceed4c8a72b50aef2e18ba794228a32b25c797de",
-    "outlinks": [],
-    "original_url": "https://www.unionprogress.com/",
-    "http_status": 200,
-    "status": "success",
-    "counters": {
-      "embeds": 35,
-      "outlinks": 34
+  "pending_tasks": true,
+  "server": "ia601503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463116679,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     },
-    "resources": [],
-    "duration_sec": 7.716,
-    "timestamp": "20221105052318"
-  },
-  "uniq": 1811803728,
+    {
+      "task_id": 3463119254,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1705545488,
   "workable_servers": [
-    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

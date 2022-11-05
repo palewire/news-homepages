@@ -1,5 +1,5 @@
 {
-  "created": 1667678181,
+  "created": 1667681291,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/13/items/wsj-2022",
@@ -37612,31 +37612,88 @@
       "sha1": "8d79db7376f53af0bfbff5712a400e23e682e72f"
     },
     {
+      "name": "wsj-2022-11-05T16:28:17.401659-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667680107",
+      "size": "63484",
+      "md5": "d5eb91b3231c5a81c5f33cf0e0286f3a",
+      "crc32": "1135e2f4",
+      "sha1": "ab1f43703701e4f99db45cf4f2dfe294ab89ed41",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-11-05T16:28:17.401659-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667680109",
+      "size": "91184",
+      "md5": "90e8a0b91085b0ce5739aba830283c4e",
+      "crc32": "9cf53ebb",
+      "sha1": "21bf482671189618a9cf47c8955033488a6a0169",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-11-05T16:28:17.401659-04:00.jpg",
+      "source": "original",
+      "mtime": "1667680099",
+      "size": "336018",
+      "md5": "dc59484b0d3305e8671112c960fe0ece",
+      "crc32": "b2a7dd92",
+      "sha1": "f1e5bb33725e808a66002c4bbdfe32685ad8c2df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wsj-2022-11-05T16:28:17.401659-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667680111",
+      "size": "1426",
+      "md5": "f011e8c4854224cba447d36f61ba0264",
+      "crc32": "e4dfe8ec",
+      "sha1": "6e257b8572c89b05b9e3f0668313899055597058",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-11-05T16:28:17.401659-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667680114",
+      "size": "236647",
+      "md5": "5cff5efd70c42ed5b4f7cd4e4316f6d1",
+      "crc32": "335481c9",
+      "sha1": "c163b69600360032bcd4b32cbc35812afed28f7b",
+      "format": "JSON"
+    },
+    {
+      "name": "wsj-2022-11-05T16:28:17.401659-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wsj-2022-11-05T16:28:17.401659-04:00.jpg"
+    },
+    {
       "name": "wsj-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dc4e3cbbeaae778695b7556ae29ec4b236560306",
-      "mtime": "1667655797",
-      "size": "750570",
-      "md5": "688ee2349bcadcb16ef747bfa336ef52",
-      "crc32": "4c6b0e86",
-      "sha1": "597d9669186f165e38bb041741087a0534bf8668",
+      "btih": "943f8756e48a7eb3328360accfd2af507e295d59",
+      "mtime": "1667680259",
+      "size": "751609",
+      "md5": "8b25692fd4da50db46ee590b748bb58e",
+      "crc32": "9bd52379",
+      "sha1": "e6f2623b5c46059d886099f9c28c2d9f3c59afd1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wsj-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f1256743809b4af1eafd8be085e628cf",
+      "md5": "c45895d86eb8c3282b45d42bddb6e24f",
       "summation": "md5"
     },
     {
       "name": "wsj-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667653300",
-      "size": "4370432",
-      "md5": "57e2f6abcf583413f398ac6d27b4fb9d",
-      "crc32": "23537b56",
-      "sha1": "8f05fa982dfa73be5db9b54da09567774f9f2f3e",
+      "mtime": "1667680122",
+      "size": "4382720",
+      "md5": "9309908318f105707c146e59c7011bfb",
+      "crc32": "cd6f22ac",
+      "sha1": "af966c05e8e49b0361ddaccfdffd33b8698be49b",
       "format": "Metadata"
     },
     {
@@ -37650,9 +37707,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3620,
-  "item_last_updated": 1667655797,
-  "item_size": 440756818,
+  "files_count": 3626,
+  "item_last_updated": 1667680259,
+  "item_size": 441498904,
   "metadata": {
     "identifier": "wsj-2022",
     "collection": [
@@ -37669,14 +37726,21 @@
     "publicdate": "2022-03-23 12:05:37",
     "addeddate": "2022-03-23 12:05:37"
   },
-  "server": "ia802507.us.archive.org",
-  "uniq": 1904236634,
-  "workable_servers": [
-    "ia802507.us.archive.org",
-    "ia902507.us.archive.org"
+  "pending_tasks": true,
+  "server": "ia902507.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463119622,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
   ],
-  "wsj-2022": {
-    "url": "https://www.wsj.com/",
-    "job_id": "spn2-786ee02898c78edb875d7be97d1b0f7e023f154e"
-  }
+  "uniq": 1543200792,
+  "workable_servers": [
+    "ia902507.us.archive.org"
+  ]
 }

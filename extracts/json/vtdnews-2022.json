@@ -1,5 +1,5 @@
 {
-  "created": 1667677802,
+  "created": 1667680527,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/25/items/vtdnews-2022",
@@ -5720,31 +5720,93 @@
       "sha1": "ea474cb167439cf6bd955a7b1eb658bda63ad6d2"
     },
     {
+      "name": "vtdnews-2022-11-05T13:28:48.995142-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667680133",
+      "size": "21261",
+      "md5": "d9916e879de44c811a27fd9ade1c12d0",
+      "crc32": "c258f0fa",
+      "sha1": "20b832fd77956cef5027806411615dbac68628c6",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdnews-2022-11-05T13:28:48.995142-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667680134",
+      "size": "38467",
+      "md5": "d22682555207d6a43697175fe10c4d7d",
+      "crc32": "dcea522f",
+      "sha1": "78aaa54ae45ca3a6b5c280dd19ab6bd3e6917cc1",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdnews-2022-11-05T13:28:48.995142-07:00.jpg",
+      "source": "original",
+      "mtime": "1667680131",
+      "size": "257119",
+      "md5": "9a229fb1d2f6d181d19af8a2caebc5f8",
+      "crc32": "20c40bf4",
+      "sha1": "f6b1a7361ab3e81bb5d96364f286e014e4a19ac5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "vtdnews-2022-11-05T13:28:48.995142-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667680135",
+      "size": "1556",
+      "md5": "2f6caaca9c3dbe03731825c9bf3b949e",
+      "crc32": "9ce4ba73",
+      "sha1": "3e8f64b83d7dafbbd07fb2a32b055cedd83f5acc",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdnews-2022-11-05T13:28:48.995142-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667680137",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "vtdnews-2022-11-05T13:28:48.995142-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vtdnews-2022-11-05T13:28:48.995142-07:00.jpg",
+      "mtime": "1667680475",
+      "size": "9608",
+      "md5": "4561edb0ab4e004e34f1b35dd145207f",
+      "crc32": "2719f7bd",
+      "sha1": "bc544e7952464d0d8baeff6cf0b963a9d6bce438"
+    },
+    {
       "name": "vtdnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "43161f36990acd08334dddd5497208e33ec191df",
-      "mtime": "1667630883",
-      "size": "117186",
-      "md5": "89b07a2b23bc6acd9cef40a63dff0eb2",
-      "crc32": "ba84b198",
-      "sha1": "eeda5d83c69f7c5419788ca96d847a7d0fa0f3ce",
+      "btih": "a6c03ea47c799e4601e49df1f0bc92db3822cc2f",
+      "mtime": "1667680482",
+      "size": "118445",
+      "md5": "f9fef70d162eb20d99a0e6964ba7e669",
+      "crc32": "5d844345",
+      "sha1": "ee01ae93d4cab3114da2431806016e75ab009c77",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vtdnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "258020a043b7f22bd2457c2389a27356",
+      "md5": "173fd1bafd0398f57bb618b2f2f9ae09",
       "summation": "md5"
     },
     {
       "name": "vtdnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629734",
-      "size": "720896",
-      "md5": "89be64439f132877d9a4c95c29849692",
-      "crc32": "aa2e2eb7",
-      "sha1": "c644fb3eb7aea2cd3764f65a235b55051b8959e6",
+      "mtime": "1667680143",
+      "size": "724992",
+      "md5": "2b458a93479daef8eddbd6663aee567b",
+      "crc32": "00b5a752",
+      "sha1": "8756dfd21f980dbe234c69f8fa01858ad6f34468",
       "format": "Metadata"
     },
     {
@@ -5758,9 +5820,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 557,
-  "item_last_updated": 1667630883,
-  "item_size": 37828231,
+  "files_count": 563,
+  "item_last_updated": 1667680482,
+  "item_size": 38161799,
   "metadata": {
     "identifier": "vtdnews-2022",
     "collection": [
@@ -5777,15 +5839,10 @@
     "publicdate": "2022-09-20 19:30:34",
     "addeddate": "2022-09-20 19:30:34"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 1831057927,
-  "vtdnews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "server": "ia801505.us.archive.org",
+  "uniq": 2081645856,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

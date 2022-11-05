@@ -1,5 +1,5 @@
 {
-  "created": 1667676912,
+  "created": 1667680561,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/11/items/thenewsstar-2022",
@@ -5698,31 +5698,93 @@
       "sha1": "b6b0590b7f9547659cccc9b8c2d413c0344f6657"
     },
     {
+      "name": "thenewsstar-2022-11-05T15:22:34.771266-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667679759",
+      "size": "19908",
+      "md5": "cbad31a95bae072a7a12ebda8b99f5e5",
+      "crc32": "7ed367b5",
+      "sha1": "5833571c2f9ad0c05b391012b645ad856bbcfb89",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewsstar-2022-11-05T15:22:34.771266-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667679761",
+      "size": "35312",
+      "md5": "5dbaca9f4cefba27f55de6f646f59f18",
+      "crc32": "97c4b8ae",
+      "sha1": "c54f33f32e32144898838d7ed02e19e09148411d",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewsstar-2022-11-05T15:22:34.771266-05:00.jpg",
+      "source": "original",
+      "mtime": "1667679757",
+      "size": "271244",
+      "md5": "dc045019b7d90e158df7fc13fe57a864",
+      "crc32": "0465e967",
+      "sha1": "c018992300c7fd9ac96cd3e54c5b69675de93d5b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thenewsstar-2022-11-05T15:22:34.771266-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667679763",
+      "size": "1504",
+      "md5": "0a4de9693dd2f3ee9a97436239677ade",
+      "crc32": "ba57ca10",
+      "sha1": "3c44120bfead88deae38f01fddf0e3b486c85174",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewsstar-2022-11-05T15:22:34.771266-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667679765",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thenewsstar-2022-11-05T15:22:34.771266-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenewsstar-2022-11-05T15:22:34.771266-05:00.jpg",
+      "mtime": "1667680435",
+      "size": "9330",
+      "md5": "a979f0abbc662d5c39b511f67847671d",
+      "crc32": "1c3adbe8",
+      "sha1": "a41c1a9f4af7753300c75c3fafd18b0b8f6383f7"
+    },
+    {
       "name": "thenewsstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f56890edacd0fcdcf6e150136f614e961072e6e",
-      "mtime": "1667630483",
-      "size": "119034",
-      "md5": "748e87aa9628f4099594be62924a756e",
-      "crc32": "9d5c3138",
-      "sha1": "56159d8286fd3d7ac2a204484c7a8096affd5332",
+      "btih": "ed24c40b438799826f919f1c20b1f70b598b7f81",
+      "mtime": "1667680442",
+      "size": "120297",
+      "md5": "bf8ac313e1c6e438b167c12dda1ee728",
+      "crc32": "67ff9110",
+      "sha1": "0359dc038ab818e120f9358ed4e68351a126e398",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenewsstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57b06b77b9320a533918a57ba74a0dbf",
+      "md5": "da5d921e136cfaec9961f538206ad776",
       "summation": "md5"
     },
     {
       "name": "thenewsstar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629652",
-      "size": "720896",
-      "md5": "ea64f041732afeba05884cf306ba6266",
-      "crc32": "87ee6a69",
-      "sha1": "3d4047c082fb0265ceb31f69c674ac792da9094d",
+      "mtime": "1667679772",
+      "size": "733184",
+      "md5": "9dd632e87851ac4f8d765cef3968a483",
+      "crc32": "73c99d7a",
+      "sha1": "f710d9d1cf77d14ad2838b324faead8940f69ef4",
       "format": "Metadata"
     },
     {
@@ -5736,9 +5798,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 555,
-  "item_last_updated": 1667630483,
-  "item_size": 37895159,
+  "files_count": 561,
+  "item_last_updated": 1667680442,
+  "item_size": 38246210,
   "metadata": {
     "identifier": "thenewsstar-2022",
     "collection": [
@@ -5756,11 +5818,7 @@
     "addeddate": "2022-09-20 19:31:33"
   },
   "server": "ia801408.us.archive.org",
-  "thenewsstar-2022": {
-    "url": "https://www.thenewsstar.com/",
-    "job_id": "spn2-2a0b5543e8bf3b3ac229097ca61358b4c66dca54"
-  },
-  "uniq": 1494533174,
+  "uniq": 923908271,
   "workable_servers": [
     "ia801408.us.archive.org",
     "ia601408.us.archive.org"

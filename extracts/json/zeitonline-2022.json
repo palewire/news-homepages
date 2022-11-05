@@ -1,5 +1,5 @@
 {
-  "created": 1667678283,
+  "created": 1667681348,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/28/items/zeitonline-2022",
@@ -12380,31 +12380,82 @@
       "sha1": "61da5495e86c40a2a724659968397c6e643e971b"
     },
     {
+      "name": "zeitonline-2022-11-05T21:28:31.072299+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667680114",
+      "size": "3963",
+      "md5": "c1317fbbdfa9839aba4b1d8ce0b9fec9",
+      "crc32": "e4bf5e33",
+      "sha1": "f6a2a4f207dc4626f4add01bb9398516a993f808",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-11-05T21:28:31.072299+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667680116",
+      "size": "1374",
+      "md5": "aff8ff9299df9917a208506e685d8df0",
+      "crc32": "2c897965",
+      "sha1": "e7c3d8b03d1834a65fa2f745c81397730ea500bf",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-11-05T21:28:31.072299+01:00.jpg",
+      "source": "original",
+      "mtime": "1667680112",
+      "size": "117323",
+      "md5": "9e107f62acb1027fe0a29386d41040fb",
+      "crc32": "067c3baa",
+      "sha1": "5fc48d1e954cc818bd0896044c977895242c8739",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zeitonline-2022-11-05T21:28:31.072299+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667680118",
+      "size": "1477",
+      "md5": "1a34bcd0404da00f19d80bf62d211b57",
+      "crc32": "cafd17e2",
+      "sha1": "3c0d5fc574154ac7b3574273a5b59da04bcfc80c",
+      "format": "JSON"
+    },
+    {
+      "name": "zeitonline-2022-11-05T21:28:31.072299+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667680120",
+      "size": "368",
+      "md5": "c896548b47f6f35fa1cc06fa976799e5",
+      "crc32": "9e38734c",
+      "sha1": "383b48f75a285a830d2ffbe25002943c14b6a831",
+      "format": "JSON"
+    },
+    {
       "name": "zeitonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6399e481c4efd5faa29a0b36ea5dae56a74fd4f4",
-      "mtime": "1667632697",
-      "size": "253067",
-      "md5": "2bd5f749be324ad181a059340ea7c103",
-      "crc32": "851cf1c8",
-      "sha1": "6a4d90198fe430fb03bfa8b5596653b56bb4c063",
+      "btih": "74509dc9407e8fef2dd8a5451bbffed757d3808c",
+      "mtime": "1667680176",
+      "size": "254116",
+      "md5": "0c909f474026d64c613497d21c054a38",
+      "crc32": "7007bf3c",
+      "sha1": "0986b3162b1d0627ccc0a00a13985dee2947e3df",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zeitonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "888061addbc6549c973bb8a06fd39077",
+      "md5": "27fcfeddf4f59017e0bed00e264a9926",
       "summation": "md5"
     },
     {
       "name": "zeitonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629805",
-      "size": "1536000",
-      "md5": "cfb351d77b62e1cda3fa8a75a6964b3a",
-      "crc32": "caf29ec3",
-      "sha1": "3ca5434667a384d31d5a5a390930b1214e37180b",
+      "mtime": "1667680126",
+      "size": "1540096",
+      "md5": "e97890b4beba3ea57e354bce1ede71e7",
+      "crc32": "d9551c18",
+      "sha1": "49aa44fd8696200cf485c07259cf035531ebe010",
       "format": "Metadata"
     },
     {
@@ -12418,9 +12469,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1201,
-  "item_last_updated": 1667632697,
-  "item_size": 28808745,
+  "files_count": 1206,
+  "item_last_updated": 1667680176,
+  "item_size": 28938395,
   "metadata": {
     "identifier": "zeitonline-2022",
     "collection": [
@@ -12437,69 +12488,37 @@
     "publicdate": "2022-07-26 04:02:52",
     "addeddate": "2022-07-26 04:02:52"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 996280782,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463118764,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 691691911,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ],
   "zeitonline-2022": {
     "url": "https://www.zeit.de/",
     "job_id": "spn2-66ed2f0e3c0da5e221f25e2b8bb187fc21422a8f",
     "resources": [
-      "https://www.zeit.de/zustimmung?url=https://www.zeit.de/index",
-      "https://static.zeit.de/p/zeit.web/css/web.core/normalize.eb629295d4c4fe1d25752792b6f2f37f.css",
-      "https://static.zeit.de/p/zeit.web/fonts/tabletgothic/TabletGothic-Bold.woff2?v1",
-      "https://static.zeit.de/p/zeit.web/js/colorscheme.1485ab3ea9b74edda863.js",
-      "https://static.zeit.de/p/zeit.web/fonts/tabletgothic/TabletGothic-Regular.woff2?v1",
-      "https://static.zeit.de/p/zeit.web/css/web.consent/base.c56860d4d356867befc3f55d528390ec.css",
-      "https://static.zeit.de/p/zeit.web/js/consent.ca9038a115c6f27ed880.js",
-      "https://consent-cdn.zeit.de/wrapperMessagingWithoutDetection.js",
-      "https://cl.k5a.io/6156f4770662411b5d525213.js",
-      "https://consent-cdn.zeit.de/mms/v2/get_site_data?hasCsp=true&href=https://www.zeit.de/zustimmung&account_id=692",
-      "https://static.zeit.de/p/zeit.web/css/svg/web.site/logo-z.svg",
-      "https://static.zeit.de/p/zeit.web/images/consent/zeit/desktop.jpg",
-      "https://static.zeit.de/p/zeit.web/js/mausabhaengigeszaehlinstrument.1ec48c76e7d569eafcee.js",
-      "https://www.zeit.de/cre-1.0/tracking/tracking.js",
-      "https://cl.k5a.io/6156f4770662411b5d525213.module.js",
-      "https://scripts.zeit.de/static/js/webtrekk/webtrekk_v4.5.3.min-3.js",
-      "https://cl.k5a.io/?i=6156f4770662411b5d525213&l=p&u=https://www.zeit.de/zustimmung&pig=&c=desktop&ptp=administrative&psn=&pssn=&ptl=ZEIT ONLINE | Lesen Sie zeit.de mit Werbung oder im PUR-Abo. Sie haben die Wahl.&pwct=255&par=&ptg=&pctg=paywall-open|andere&pstg=&ppt=&pmt=&pw=open&pd=&sbs=&cs=&r=_&ul=&uid=iiICn2jAd3OpKd5H&ns=1&_h=pageView&_s=js&_l=DOMContentLoaded&_m=b",
-      "https://data-af9f3dfb33.zeit.de/iomm/latest/bootstrap/stub.js",
-      "https://www.zeit.de/cre-1.0/tracking/call.js?action=pageview&contentid=verlag.pur...angebote.zede|www.zeit.de/zustimmung&serviceid=zon&origin=web&_u=https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Findex&_r=&_c=cre_callback_28269",
-      "https://consent-cdn.zeit.de/consent/tcfv2/vendor-list/latest-version?siteId=3800&accountId=692&hasCsp=true",
-      "https://data-af9f3dfb33.zeit.de/iomm/latest/manager/base/es6/bundle.js",
-      "https://consent-cdn.zeit.de/wrapper/tcfv2/v2/gdpr/native-message/new-user?hasCsp=true&env=prod&body={\"propertyId\":3800,\"accountId\":692,\"propertyHref\":\"https://www.zeit.de/zustimmung\",\"meta\":\"{\\\"mmsCookies\\\":[],\\\"resolved\\\":null}\",\"clientMMSOrigin\":\"https://consent-cdn.zeit.de\",\"targetingParams\":\"{\\\"debug\\\":false,\\\"theme\\\":\\\"zeit\\\",\\\"consentLanguage\\\":\\\"en\\\"}\",\"campaignEnv\":\"prod\",\"legalBasisChanges\":false,\"vendorListAdditions\":false}&nonkeyed={\"_sp_v1_uid\":null,\"_sp_v1_data\":null}",
-      "https://responder.wt-safetag.com/resp/api/get/981949533494636?url=https://www.zeit.de/",
-      "https://consent-cdn.zeit.de/index.html?message_id=701997&consentUUID=undefined&preload_message=true&hasCsp=true&consent_origin=https://consent-cdn.zeit.de/consent/tcfv2&mms_origin=https://consent-cdn.zeit.de/mms/v2&consentLanguage=en",
-      "https://www.zeit.de/cre-1.0/tracking/device.js?width=1600&height=1000&dpi_x=96&dpi_y=96&tracking_id=1748635910931143374&_c=cre_callback_20207",
-      "https://consent-cdn.zeit.de/Notice.b86a8.js",
-      "https://consent-cdn.zeit.de/Notice.9921d.css",
-      "https://consent-cdn.zeit.de/polyfills.d36c5.js",
-      "https://data-af9f3dfb33.zeit.de/iomb/latest/sensor/manager/base/es6/bundle.js",
-      "https://data-af9f3dfb33.zeit.de/base.io",
-      "https://audev.zeit.de/981949533494636/wt?p=453,verlag.pur...angebote.zede|www.zeit.de/zustimmung,1,1600x1000,24,1,1667629158500,0,1100x784,0&uc24=light&la=en&cg1=verlag&cg2=angebote&cg3=pur&cg4=zede&cp3=1&cp8=zede&cp10=no&cp12=desktop.site&cp13=stationaer&cp23=nicht_angemeldet&cp24=en&cp25=original&cp28=free&cp30=open&cp47=www.zeit.de/index&cs681=1&cs685=2022-11&np=&pu=https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Findex",
-      "https://static.zeit.de/p/zeit.web/icons/favicon.svg"
+      "https://www.zeit.de/favicon.ico"
     ],
-    "timestamp": "20221105061916",
-    "http_status": 200,
-    "outlinks": [
-      "https://www.zeit.de/hilfe/datenschutz",
-      "https://www.zeit.de/administratives/agb-kommentare-artikel",
-      "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Findex#main",
-      "https://premium.zeit.de/bestellung/1932788?angebot=https%3A%2F%2Fpremium.zeit.de%2Fbestellung%2F1932788&entry_service=pur&url=https%3A%2F%2Fmeine.zeit.de%2Fbestellung_abschliessen%3Furl%3Dhttps%253A%252F%252Fwww.zeit.de%252Findex",
-      "https://premium.zeit.de/faq/pur",
-      "https://www.zeit.de/impressum/index",
-      "https://www.zeit.de/index",
-      "https://meine.zeit.de/anmelden?url=https%3A%2F%2Fwww.zeit.de%2Findex&entry_service=pur",
-      "https://www.zeit.de/hilfe/datenschutz?language=en"
-    ],
+    "timestamp": "20221105193217",
+    "http_status": 500,
     "status": "success",
     "counters": {
-      "outlinks": 10,
-      "embeds": 32
+      "outlinks": 0,
+      "embeds": 1
     },
-    "original_url": "https://www.zeit.de/zustimmung?url=https%3A%2F%2Fwww.zeit.de%2Findex",
-    "duration_sec": 10.657,
-    "screenshot": "http://web.archive.org/screenshot/https://www.zeit.de/"
+    "original_url": "https://www.zeit.de/favicon.ico",
+    "duration_sec": 4.764
   }
 }

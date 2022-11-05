@@ -1,5 +1,5 @@
 {
-  "created": 1667677783,
+  "created": 1667680082,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/22/items/voxdotcom-2022",
@@ -22114,31 +22114,82 @@
       "sha1": "28adc7e2f4b2c403b356379ae3bd28440cbdc79f"
     },
     {
+      "name": "voxdotcom-2022-11-05T16:25:47.171360-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667679951",
+      "size": "45304",
+      "md5": "0d0b8b51f461afe7179a8648f53a1cf7",
+      "crc32": "694230b2",
+      "sha1": "e45b89bec3148e42e081bcb09933836c3f1cdfca",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-11-05T16:25:47.171360-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667679953",
+      "size": "62237",
+      "md5": "8f9c40f374d7c147267e366453be1bf5",
+      "crc32": "24710d75",
+      "sha1": "bdc48e170a94899aeeac39b3a545068fcb7820b0",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-11-05T16:25:47.171360-04:00.jpg",
+      "source": "original",
+      "mtime": "1667679949",
+      "size": "240360",
+      "md5": "81c190dbc7ac823927bd558018dbda7f",
+      "crc32": "0780670c",
+      "sha1": "ec073045fda9e39a67800d74cb96e5e555a6d38b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "voxdotcom-2022-11-05T16:25:47.171360-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667679955",
+      "size": "1432",
+      "md5": "85b46a3cda9ca23e6176216c3d59cdfa",
+      "crc32": "e8d4ec44",
+      "sha1": "2bacc40e26b3a37550313302e72ff35d0263bc97",
+      "format": "JSON"
+    },
+    {
+      "name": "voxdotcom-2022-11-05T16:25:47.171360-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667679957",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "voxdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "937a8a5ba2a136c316c3b3bbc903f001aeb77cf8",
-      "mtime": "1667631088",
-      "size": "452581",
-      "md5": "8755c9a30215a8aa5aff3d09169171a0",
-      "crc32": "15da29b6",
-      "sha1": "2860e67576c1f666ee95ebc9fdcfa5072f96f098",
+      "btih": "c8e251bbdeb3f6822e4ff1456fc6fcc731c16fb8",
+      "mtime": "1667680073",
+      "size": "453647",
+      "md5": "c3ae96d54076c55a17bd50a19d65baf5",
+      "crc32": "734b8c1b",
+      "sha1": "b9aae6f2f9a17783ba899ca28841ba989d83bb32",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voxdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c22ce9e414d96d82e2f8a7c3e705bcc",
+      "md5": "bc8cf1aa3857f57e22e79b84ccda553f",
       "summation": "md5"
     },
     {
       "name": "voxdotcom-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629784",
-      "size": "2674688",
-      "md5": "a56d04b966af1bdc477379bc51805825",
-      "crc32": "143f5ed5",
-      "sha1": "76c4f05b88750ab3402d7f821dbcb14b7f4272e3",
+      "mtime": "1667679981",
+      "size": "2682880",
+      "md5": "fe95e16ded0aa7730bf17269a976ceec",
+      "crc32": "ec244ed9",
+      "sha1": "486aa5cfa65f0e80b285c3f9e17691a4a69ad271",
       "format": "Metadata"
     },
     {
@@ -22152,9 +22203,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2137,
-  "item_last_updated": 1667631088,
-  "item_size": 157612408,
+  "files_count": 2142,
+  "item_last_updated": 1667680073,
+  "item_size": 157971201,
   "metadata": {
     "identifier": "voxdotcom-2022",
     "collection": [
@@ -22171,15 +22222,61 @@
     "publicdate": "2022-06-19 23:29:34",
     "addeddate": "2022-06-19 23:29:34"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 454362115,
-  "voxdotcom-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
+  "server": "ia601506.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463117778,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3463121943,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463121984,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463122092,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463122122,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463122152,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1357003485,
   "workable_servers": [
-    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

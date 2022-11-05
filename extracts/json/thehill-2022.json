@@ -1,5 +1,5 @@
 {
-  "created": 1667676790,
+  "created": 1667680421,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/32/items/thehill-2022",
@@ -14176,31 +14176,93 @@
       "sha1": "6272c59eab962f5e85575cfdabef619a06afdae9"
     },
     {
+      "name": "thehill-2022-11-05T16:22:20.871178-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667679744",
+      "size": "48024",
+      "md5": "6e866c4b6f638fc01ad8b5c7272f7fbd",
+      "crc32": "c207ba29",
+      "sha1": "189f4133c05fbb9a10066c368cccae1b68006ae4",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-11-05T16:22:20.871178-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667679750",
+      "size": "72937",
+      "md5": "1d333856bc12ebc7b6b926b4257b0174",
+      "crc32": "c0395894",
+      "sha1": "04ff724edbae6e50f2fa1ee315fc7b52ff4f4404",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-11-05T16:22:20.871178-04:00.jpg",
+      "source": "original",
+      "mtime": "1667679743",
+      "size": "272670",
+      "md5": "cee78718bd2ceee4f778f2708aed83b0",
+      "crc32": "75f7d11f",
+      "sha1": "0d257e87731c041fc550123cfc727707248970dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thehill-2022-11-05T16:22:20.871178-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667679753",
+      "size": "1432",
+      "md5": "345e33d69aa176a662eb201cb4360911",
+      "crc32": "1b396b92",
+      "sha1": "adec7b4646437dac92a158bcd5438260f44e6d57",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-11-05T16:22:20.871178-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667679757",
+      "size": "56538",
+      "md5": "213cdc11062e7cc5666b16a6b1b78b91",
+      "crc32": "884a1e22",
+      "sha1": "0f22be4f10226b873f517c4b059876df1d513968",
+      "format": "JSON"
+    },
+    {
+      "name": "thehill-2022-11-05T16:22:20.871178-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-11-05T16:22:20.871178-04:00.jpg",
+      "mtime": "1667680298",
+      "size": "10111",
+      "md5": "1a607e70feeccc8b0140b0cd12ce59d7",
+      "crc32": "ceed4268",
+      "sha1": "f47c6d8708150fae133235d77976c59923e9d04a"
+    },
+    {
       "name": "thehill-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ab128629b953eefd3280ccc5f377fda32fdc925f",
-      "mtime": "1667630636",
-      "size": "288775",
-      "md5": "e5d27113d810edcf43e3e16806bdbf80",
-      "crc32": "d7f67a49",
-      "sha1": "f52b7ba235c514345d8e92a905e325cb009b1117",
+      "btih": "de796e3cf19a58e7d2b5be6cae645f18e09151cc",
+      "mtime": "1667680319",
+      "size": "290037",
+      "md5": "2a503b3bd2b97b4b8f6cdc42da02bf3b",
+      "crc32": "24ae5153",
+      "sha1": "acc03c98e179219bebc84db5d000ca4b2b7e45be",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehill-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e405e64e15a114128df18b36d4b0a3d0",
+      "md5": "49ebedfa25960f2c481cda8cc31b1821",
       "summation": "md5"
     },
     {
       "name": "thehill-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667629606",
-      "size": "1720320",
-      "md5": "37d5fdbeedd67c27ee40bd2883868f50",
-      "crc32": "ed7e6d2d",
-      "sha1": "f3041b8c891d701cfdb1b0ad742f5465e0729402",
+      "mtime": "1667679760",
+      "size": "1728512",
+      "md5": "08e5fda385e99c83805ac526b6e7c4b2",
+      "crc32": "22aa6c57",
+      "sha1": "d1becb5b985d78f21a4db1f5fd4c3332c7260cf3",
       "format": "Metadata"
     },
     {
@@ -14214,9 +14276,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1372,
-  "item_last_updated": 1667630636,
-  "item_size": 115743824,
+  "files_count": 1378,
+  "item_last_updated": 1667680319,
+  "item_size": 116214990,
   "metadata": {
     "identifier": "thehill-2022",
     "collection": [
@@ -14234,12 +14296,7 @@
     "addeddate": "2022-07-04 21:46:22"
   },
   "server": "ia601500.us.archive.org",
-  "thehill-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 1372172800,
+  "uniq": 349209585,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"
