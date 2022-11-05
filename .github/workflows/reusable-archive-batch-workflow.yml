@@ -211,3 +211,11 @@ jobs:
           git pull origin main
           git push origin main
         shell: bash
+
+      - id: save
+        name: Save artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: extracts
+          path: ./extracts
+          if-no-files-found: error

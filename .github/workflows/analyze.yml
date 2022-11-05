@@ -38,6 +38,14 @@ jobs:
           git commit -m "Update lighthouse analysis" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
 
+      - id: save
+        name: Save artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: extracts
+          path: ./extracts
+          if-no-files-found: error
+
   drudge:
     name: Drudge
     runs-on: ubuntu-latest
@@ -65,3 +73,11 @@ jobs:
           git add ./extracts
           git commit -m "Update Drudge analysis" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
+
+      - id: save
+        name: Save artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: extracts
+          path: ./extracts
+          if-no-files-found: error

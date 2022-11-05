@@ -69,6 +69,14 @@ jobs:
           git commit -m "Update consolidated extracts" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
 
+      - id: save
+        name: Save artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: extracts
+          path: ./extracts
+          if-no-files-found: error
+
   download-lighthouse:
     name: Download Lighthouse
     runs-on: ubuntu-latest
@@ -110,6 +118,14 @@ jobs:
           git add ./extracts
           git commit -m "Update Lighthouse sample" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
+
+      - id: save
+        name: Save artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: extracts
+          path: ./extracts
+          if-no-files-found: error
 
   download-drudge-hyperlinks:
     name: Download Drudge hyperlinks
@@ -161,3 +177,11 @@ jobs:
           git add ./extracts
           git commit -m "Update Drudge hyperlinks sample" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
+
+      - id: save
+        name: Save artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: extracts
+          path: ./extracts
+          if-no-files-found: error
