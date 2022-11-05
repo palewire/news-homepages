@@ -1,5 +1,5 @@
 {
-  "created": 1667645995,
+  "created": 1667665668,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/3/items/cprnews-2022",
@@ -10473,21 +10473,32 @@
       "format": "JSON"
     },
     {
+      "name": "cprnews-2022-11-05T04:58:44.168857-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cprnews-2022-11-05T04:58:44.168857-06:00.jpg",
+      "mtime": "1667647619",
+      "size": "9863",
+      "md5": "ba6618b50d53fb707a983a01c6778ac9",
+      "crc32": "d13518f6",
+      "sha1": "e5dc6e4bb8ef6938defc80f8482309816712d235"
+    },
+    {
       "name": "cprnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "beb0dd22ad882fce98455e2882c5d10965db4020",
-      "mtime": "1667645988",
-      "size": "213155",
-      "md5": "51aebfd9900426976551d43fc4e19139",
-      "crc32": "e19bbd89",
-      "sha1": "e91f9d6c2e3aa3e64930a5787d31501e11a3051d",
+      "btih": "9e54e540db8425f9488d2f4f35a6fce3e5b59aa0",
+      "mtime": "1667647630",
+      "size": "213358",
+      "md5": "71ab574ccb8f0e5df018a0b8d8df810d",
+      "crc32": "5de6b358",
+      "sha1": "a7c641d03cf145e08ca92cba8a2311fa881a3cf7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cprnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2ce93f4653adb677c3bd7833e9545d9e",
+      "md5": "0146b92960fed0d1c7ea6c01f8ffffa1",
       "summation": "md5"
     },
     {
@@ -10511,9 +10522,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1017,
-  "item_last_updated": 1667645988,
-  "item_size": 58447581,
+  "files_count": 1018,
+  "item_last_updated": 1667647630,
+  "item_size": 58457647,
   "metadata": {
     "identifier": "cprnews-2022",
     "collection": [
@@ -10530,21 +10541,10 @@
     "publicdate": "2022-08-13 23:51:19",
     "addeddate": "2022-08-13 23:51:19"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462756369,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1658489642,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1712352433,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

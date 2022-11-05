@@ -1,5 +1,10 @@
 {
-  "created": 1667645728,
+  "aristeguionline-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671067,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/19/items/aristeguionline-2022",
@@ -10255,21 +10260,32 @@
       "format": "JSON"
     },
     {
+      "name": "aristeguionline-2022-11-05T04:53:19.628898-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aristeguionline-2022-11-05T04:53:19.628898-06:00.jpg",
+      "mtime": "1667648752",
+      "size": "9899",
+      "md5": "646a812fcedf4a4318a95db7dc19c6f9",
+      "crc32": "22ee5648",
+      "sha1": "70d1239b5b72eb05e3ace8ca1605d777700148eb"
+    },
+    {
       "name": "aristeguionline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0559563b5127174221aebc16cb47a52f2e53a997",
-      "mtime": "1667645709",
-      "size": "217352",
-      "md5": "bd0d330ad7e7dd768948107f41ac3038",
-      "crc32": "26716a2c",
-      "sha1": "9128354ead92530c3d209a8105d961848b4638dc",
+      "btih": "841ef704267708cb4e3b6b55e1c099cda24f8283",
+      "mtime": "1667648762",
+      "size": "217563",
+      "md5": "59da4ccbfec21293dfa8648603b62e88",
+      "crc32": "554c1b14",
+      "sha1": "729caca4a06fb88136bff3e0f8a3cc79a60ead70",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aristeguionline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6d9d24750faefcfb0d1f0898dc1ceeb1",
+      "md5": "2b3ae9b61a1df4970a5366dc9a338e62",
       "summation": "md5"
     },
     {
@@ -10293,9 +10309,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 996,
-  "item_last_updated": 1667645709,
-  "item_size": 73739446,
+  "files_count": 997,
+  "item_last_updated": 1667648762,
+  "item_size": 73749556,
   "metadata": {
     "identifier": "aristeguionline-2022",
     "collection": [
@@ -10312,21 +10328,10 @@
     "publicdate": "2022-08-16 17:11:11",
     "addeddate": "2022-08-16 17:11:11"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462753621,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1561156199,
+  "server": "ia801405.us.archive.org",
+  "uniq": 744693724,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

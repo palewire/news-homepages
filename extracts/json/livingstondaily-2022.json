@@ -1,5 +1,5 @@
 {
-  "created": 1667653822,
+  "created": 1667674206,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/21/items/livingstondaily-2022",
@@ -5771,21 +5771,32 @@
       "format": "JSON"
     },
     {
+      "name": "livingstondaily-2022-11-05T09:09:14.185374-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "livingstondaily-2022-11-05T09:09:14.185374-04:00.jpg",
+      "mtime": "1667655841",
+      "size": "8786",
+      "md5": "b0b2f1820e9fb83d7de9806625e58849",
+      "crc32": "e1acdfdb",
+      "sha1": "53c301e6e69fb64086f276dd4aaa881300507878"
+    },
+    {
       "name": "livingstondaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "386e35138cfdbe10fd0af6b4ac0d18ad45052ce7",
-      "mtime": "1667653816",
-      "size": "122610",
-      "md5": "a3075f491f1675d4c15fb8a459447f02",
-      "crc32": "100fe894",
-      "sha1": "d33af535a93f758072138f9a1c310c0a78d78720",
+      "btih": "0e6d65e645a19b3a391a79f6a32da2d94e7d6c22",
+      "mtime": "1667655849",
+      "size": "122821",
+      "md5": "6cd2011832a6661b15a5cb20dcdd154d",
+      "crc32": "76b456bb",
+      "sha1": "cd206cd49092eeacec3b1cc3c50d0174ae98e08b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "livingstondaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "02424f6b837c942866ec8e3f51184b8e",
+      "md5": "093be78ef3671cec24d324f60a9389ed",
       "summation": "md5"
     },
     {
@@ -5809,9 +5820,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 562,
-  "item_last_updated": 1667653816,
-  "item_size": 35169962,
+  "files_count": 563,
+  "item_last_updated": 1667655849,
+  "item_size": 35178959,
+  "livingstondaily-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "livingstondaily-2022",
     "collection": [
@@ -5828,21 +5844,10 @@
     "publicdate": "2022-09-20 22:27:01",
     "addeddate": "2022-09-20 22:27:01"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462845874,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 135503752,
+  "uniq": 1541873639,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

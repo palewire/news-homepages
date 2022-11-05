@@ -1,6 +1,5 @@
 {
-  "conflict": 1667630046,
-  "created": 1667630046,
+  "created": 1667675956,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/4/items/reviewjournal-2022",
@@ -14265,24 +14264,29 @@
       "name": "reviewjournal-2022-11-04T23:22:46.792196-07:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "reviewjournal-2022-11-04T23:22:46.792196-07:00.jpg"
+      "original": "reviewjournal-2022-11-04T23:22:46.792196-07:00.jpg",
+      "mtime": "1667630042",
+      "size": "9822",
+      "md5": "0a8bb35ff9c4b8224a9c4e9c8897026a",
+      "crc32": "d9a71b29",
+      "sha1": "f154c246782ff2a0a6985ba2bff69094bed0c7b7"
     },
     {
       "name": "reviewjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5d671ed0e805fd7233da8493a847bcf06095d78e",
-      "mtime": "1667629476",
-      "size": "298527",
-      "md5": "82aae57bbf0887025889bdb2f8b04bce",
-      "crc32": "cddbcc57",
-      "sha1": "b0393cdba378825c2b8be091be01054e427909a8",
+      "btih": "e1a9a42c666410cd9e497fa22ed2fc3d23f707f7",
+      "mtime": "1667630121",
+      "size": "298736",
+      "md5": "803db0ba60e05709d16945ef2777566a",
+      "crc32": "c149a7ab",
+      "sha1": "118c35ebf6a8848b3aaa9845267f9a947223cf6f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reviewjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "903985a13f2fc32a8132d30c03caf4c7",
+      "md5": "d25d8dd9ccfaad37c1d855bbb92ae0f3",
       "summation": "md5"
     },
     {
@@ -14307,8 +14311,8 @@
     }
   ],
   "files_count": 1381,
-  "item_last_updated": 1667629476,
-  "item_size": 115308757,
+  "item_last_updated": 1667630121,
+  "item_size": 115318788,
   "metadata": {
     "identifier": "reviewjournal-2022",
     "collection": [
@@ -14325,21 +14329,15 @@
     "publicdate": "2022-07-04 21:52:05",
     "addeddate": "2022-07-04 21:52:05"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462582844,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1032658555,
+  "reviewjournal-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801506.us.archive.org",
+  "uniq": 464253358,
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

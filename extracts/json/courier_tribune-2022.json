@@ -1,5 +1,10 @@
 {
-  "created": 1667649390,
+  "courier_tribune-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667672143,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/29/items/courier_tribune-2022",
@@ -5771,21 +5776,32 @@
       "format": "JSON"
     },
     {
+      "name": "courier_tribune-2022-11-05T07:55:21.071999-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "courier_tribune-2022-11-05T07:55:21.071999-04:00.jpg",
+      "mtime": "1667651325",
+      "size": "9361",
+      "md5": "f18b164231668f58e788a8bfabb81806",
+      "crc32": "a5eba6e0",
+      "sha1": "632d9f719b2b5936dbca2f4371b9d4dfa2bfec5d"
+    },
+    {
       "name": "courier_tribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ac9967ea65f2a747df7bec1ea6458462d00769b0",
-      "mtime": "1667649382",
-      "size": "122750",
-      "md5": "8da119e357c3986f0c234fba82c1f565",
-      "crc32": "ecfb7061",
-      "sha1": "fe54b650a219039eedac210a67dc014523ccffbb",
+      "btih": "790c299939731c168d94b03c7c3322a4757dfeb9",
+      "mtime": "1667651351",
+      "size": "122961",
+      "md5": "20648ff297df070beeeaf269ba379fea",
+      "crc32": "085a8e06",
+      "sha1": "843c7721b02b8d19add467a5b911f6234a48485a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "courier_tribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e31db0d903b80394ce0666881c8d200c",
+      "md5": "11fa74216b5f6bdfff2b95f464185248",
       "summation": "md5"
     },
     {
@@ -5809,9 +5825,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 562,
-  "item_last_updated": 1667649382,
-  "item_size": 37677800,
+  "files_count": 563,
+  "item_last_updated": 1667651351,
+  "item_size": 37687372,
   "metadata": {
     "identifier": "courier_tribune-2022",
     "collection": [
@@ -5828,21 +5844,10 @@
     "publicdate": "2022-09-20 22:13:47",
     "addeddate": "2022-09-20 22:13:47"
   },
-  "pending_tasks": true,
-  "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462795104,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 479370593,
+  "server": "ia801404.us.archive.org",
+  "uniq": 849489369,
   "workable_servers": [
+    "ia801404.us.archive.org",
     "ia601404.us.archive.org"
   ]
 }

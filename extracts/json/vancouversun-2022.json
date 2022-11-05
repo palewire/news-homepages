@@ -1,5 +1,5 @@
 {
-  "created": 1667629766,
+  "created": 1667677662,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/15/items/vancouversun-2022",
@@ -15277,21 +15277,32 @@
       "format": "JSON"
     },
     {
+      "name": "vancouversun-2022-11-04T23:28:04.706803-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vancouversun-2022-11-04T23:28:04.706803-07:00.jpg",
+      "mtime": "1667630567",
+      "size": "10068",
+      "md5": "95717c6881782e7dede5dec8e62af06c",
+      "crc32": "60d61900",
+      "sha1": "b5b7c9b2432c57d93a61a3b2d74d2290f3ffb318"
+    },
+    {
       "name": "vancouversun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2d48b54a5d37f1af5cc9c730e0fa785a26329ae3",
-      "mtime": "1667629759",
-      "size": "317941",
-      "md5": "f30b1e06637145127a415f92b3c0eeec",
-      "crc32": "4163e573",
-      "sha1": "621b9e5fd08729692170812ea9b8d527239ce0bb",
+      "btih": "90d8a64c88bae5eb9de8709b011ee320754346ea",
+      "mtime": "1667630636",
+      "size": "318150",
+      "md5": "e5c322ef8373610125c126e907409d0d",
+      "crc32": "001cb5c0",
+      "sha1": "80aa3d319222a9bb704d3a953af3354a28adfb60",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vancouversun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5346b908f581f5004e9510bd1446d584",
+      "md5": "71aa2279fa009f5f5294ad97755d7619",
       "summation": "md5"
     },
     {
@@ -15315,9 +15326,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1477,
-  "item_last_updated": 1667629759,
-  "item_size": 125967164,
+  "files_count": 1478,
+  "item_last_updated": 1667630636,
+  "item_size": 125977441,
   "metadata": {
     "identifier": "vancouversun-2022",
     "collection": [
@@ -15334,21 +15345,28 @@
     "publicdate": "2022-06-30 22:36:07",
     "addeddate": "2022-06-30 22:36:07"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462586099,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 341315729,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1788266103,
+  "vancouversun-2022": {
+    "url": "https://vancouversun.com/",
+    "job_id": "spn2-de34b491fdd9a703f117c035b13a3f03b92f5992",
+    "screenshot": "http://web.archive.org/screenshot/https://vancouversun.com/",
+    "original_url": "https://vancouversun.com/",
+    "http_status": 403,
+    "status": "success",
+    "counters": {
+      "embeds": 2,
+      "outlinks": 0
+    },
+    "resources": [
+      "https://vancouversun.com/",
+      "https://vancouversun.com/favicon.ico"
+    ],
+    "duration_sec": 5.356,
+    "timestamp": "20221105061733"
+  },
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

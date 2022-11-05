@@ -1,5 +1,10 @@
 {
-  "created": 1667621400,
+  "alliancereview-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667670946,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/20/items/alliancereview-2022",
@@ -5647,31 +5652,104 @@
       "format": "JSON"
     },
     {
+      "name": "alliancereview-2022-11-05T00:08:47.091037-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alliancereview-2022-11-05T00:08:47.091037-04:00.jpg",
+      "mtime": "1667624139",
+      "size": "9552",
+      "md5": "9a7d2b5ada305c29005f903a61120558",
+      "crc32": "161bee9f",
+      "sha1": "f4b960dcd458ffea9ac426bbd8776cddaa723148"
+    },
+    {
+      "name": "alliancereview-2022-11-05T12:14:18.622882-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667664871",
+      "size": "23953",
+      "md5": "9d4558a79ac1d1e09a91326d5fd2f312",
+      "crc32": "493c61af",
+      "sha1": "489ffa005e75c478586aac7169046b0babd20d97",
+      "format": "JSON"
+    },
+    {
+      "name": "alliancereview-2022-11-05T12:14:18.622882-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667664873",
+      "size": "33681",
+      "md5": "7d66b8904cc82c2a5dcfea8787edc35b",
+      "crc32": "6c98d1c4",
+      "sha1": "953a3557f69aa6487b1aa14b9f3e2697a029959d",
+      "format": "JSON"
+    },
+    {
+      "name": "alliancereview-2022-11-05T12:14:18.622882-04:00.jpg",
+      "source": "original",
+      "mtime": "1667664869",
+      "size": "249596",
+      "md5": "c6858bb2555c5fbc159bc1ce093c108f",
+      "crc32": "47b29453",
+      "sha1": "65008c826c9cc3466b94a88d3be179095d6ce588",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "alliancereview-2022-11-05T12:14:18.622882-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667664874",
+      "size": "1494",
+      "md5": "ef3a4f69cc515f8ea28a6f5d9c2a9814",
+      "crc32": "56cb8fbb",
+      "sha1": "cd9eff41f856f759a65e27ad948a69a9debaef7c",
+      "format": "JSON"
+    },
+    {
+      "name": "alliancereview-2022-11-05T12:14:18.622882-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667664876",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "alliancereview-2022-11-05T12:14:18.622882-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alliancereview-2022-11-05T12:14:18.622882-04:00.jpg",
+      "mtime": "1667666539",
+      "size": "9384",
+      "md5": "0eb1bb7b81c89ac0b0c05da62af9990f",
+      "crc32": "59f9ae05",
+      "sha1": "fe1b397daffa28959c0faf90d18a59c21f284345"
+    },
+    {
       "name": "alliancereview-2022_archive.torrent",
       "source": "metadata",
-      "btih": "16b2c4657cb45388d1213ad67325e1b1cfa88672",
-      "mtime": "1667621393",
-      "size": "119677",
-      "md5": "4385cdb78e1ee2c2095fe07519a58e3d",
-      "crc32": "98a14358",
-      "sha1": "0f9584260311483ccfc8338fe99dd510dfd1a347",
+      "btih": "fca42ccef28ff20c03be32df0fbca053254be413",
+      "mtime": "1667666547",
+      "size": "121168",
+      "md5": "0140a278526e54aa7a2440670d3d34ae",
+      "crc32": "111999b9",
+      "sha1": "7e0d4dff4182a763f7811b2ee3b03864f73cf493",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alliancereview-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "efef377b8b7a99f244472a6ff81d131d",
+      "md5": "1bb3c5a84698b6a2be713b53fbfe5b8e",
       "summation": "md5"
     },
     {
       "name": "alliancereview-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667621348",
-      "size": "720896",
-      "md5": "abd009ba6adf790b94620cee17a121a4",
-      "crc32": "47e2c514",
-      "sha1": "1b506926226f3a03e0d737a2a3bd7a01b6be8d05",
+      "mtime": "1667664885",
+      "size": "729088",
+      "md5": "df62f51ae06c254d18ee4995656bc9d5",
+      "crc32": "25e2b49c",
+      "sha1": "50d5a333911d432bb05deb62e5df44504c90efdf",
       "format": "Metadata"
     },
     {
@@ -5685,9 +5763,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 550,
-  "item_last_updated": 1667621393,
-  "item_size": 38562176,
+  "files_count": 557,
+  "item_last_updated": 1667666547,
+  "item_size": 38899721,
   "metadata": {
     "identifier": "alliancereview-2022",
     "collection": [
@@ -5704,21 +5782,10 @@
     "publicdate": "2022-09-21 04:37:23",
     "addeddate": "2022-09-21 04:37:23"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462485943,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1874051316,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1313461793,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

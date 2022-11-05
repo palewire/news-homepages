@@ -1,5 +1,10 @@
 {
-  "created": 1667645830,
+  "bhamwatch-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671407,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/15/items/bhamwatch-2022",
@@ -14119,21 +14124,32 @@
       "format": "JSON"
     },
     {
+      "name": "bhamwatch-2022-11-05T05:55:50.676341-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bhamwatch-2022-11-05T05:55:50.676341-05:00.jpg",
+      "mtime": "1667646688",
+      "size": "10117",
+      "md5": "f2bd762f36ef4008740966fe74e452f4",
+      "crc32": "f1f53bb5",
+      "sha1": "dd51c03e6545322073fec7afaf541c39d6402cd9"
+    },
+    {
       "name": "bhamwatch-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1bcdb0b0264a2714a917202f8846bc8c657e7575",
-      "mtime": "1667645824",
-      "size": "290288",
-      "md5": "3a50c055f6786c00e2c09d1165571a19",
-      "crc32": "27b96143",
-      "sha1": "b4da7292197a73e64cb2ca2f98949e008556a7e6",
+      "btih": "37cdbfb91c4eb755cb380814b82e169e6518a787",
+      "mtime": "1667646745",
+      "size": "290494",
+      "md5": "42566587cc63a8f2ebce60446e414947",
+      "crc32": "3bff2a7d",
+      "sha1": "c36bf24021eefcb2f268154806f70800e62c5a3e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bhamwatch-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7cee1059a623184530d076fe2181fd42",
+      "md5": "748253a7ae40d12f07fe8255b3ccf9cf",
       "summation": "md5"
     },
     {
@@ -14157,9 +14173,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1367,
-  "item_last_updated": 1667645824,
-  "item_size": 109933712,
+  "files_count": 1368,
+  "item_last_updated": 1667646745,
+  "item_size": 109944035,
   "metadata": {
     "identifier": "bhamwatch-2022",
     "collection": [
@@ -14176,21 +14192,10 @@
     "publicdate": "2022-07-09 03:56:45",
     "addeddate": "2022-07-09 03:56:45"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462754655,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1931664213,
+  "uniq": 423682624,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

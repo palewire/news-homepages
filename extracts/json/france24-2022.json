@@ -1,6 +1,5 @@
 {
-  "conflict": 1667650045,
-  "created": 1667650045,
+  "created": 1667673030,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/26/items/france24-2022",
@@ -27541,24 +27540,29 @@
       "name": "france24-2022-11-05T13:00:43.015763+01:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "france24-2022-11-05T13:00:43.015763+01:00.jpg"
+      "original": "france24-2022-11-05T13:00:43.015763+01:00.jpg",
+      "mtime": "1667650038",
+      "size": "9816",
+      "md5": "1d87919cf3a28ae3e8cb9b0e132f2339",
+      "crc32": "0694b695",
+      "sha1": "ab24bc7361b96f71e70a52f237c3b7e19626395c"
     },
     {
       "name": "france24-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f6f0bcbe13d93c025408b7cfe3722c28bc26368d",
-      "mtime": "1667649738",
-      "size": "558210",
-      "md5": "abab6305b05e210c7b3c9bdf02215825",
-      "crc32": "5e4ac64d",
-      "sha1": "6f9824d9d56d94b743797438d9e2609506a88ab4",
+      "btih": "1344dbf6ecd2ce4f240f8010588eb4c895a57a1d",
+      "mtime": "1667650126",
+      "size": "558414",
+      "md5": "553767826fd2df557ce97764ac306683",
+      "crc32": "81b109c6",
+      "sha1": "0299e6fb057d0e6a9265f10546c4486bd55f204c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dbca548faa8f3a3acf18a1fadc05a8c6",
+      "md5": "7556143a2901f6d7b26030b114e0c4d6",
       "summation": "md5"
     },
     {
@@ -27583,8 +27587,13 @@
     }
   ],
   "files_count": 2655,
-  "item_last_updated": 1667649738,
-  "item_size": 176215504,
+  "france24-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667650126,
+  "item_size": 176225524,
   "metadata": {
     "identifier": "france24-2022",
     "collection": [
@@ -27601,21 +27610,10 @@
     "publicdate": "2022-04-09 13:41:21",
     "addeddate": "2022-04-09 13:41:21"
   },
-  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462800081,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1357731759,
+  "uniq": 1673462547,
   "workable_servers": [
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

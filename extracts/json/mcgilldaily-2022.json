@@ -1,5 +1,5 @@
 {
-  "created": 1667453828,
+  "created": 1667671894,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/26/items/mcgilldaily-2022",
@@ -12083,31 +12083,352 @@
       "format": "JSON"
     },
     {
+      "name": "mcgilldaily-2022-11-03T01:02:39.244437-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcgilldaily-2022-11-03T01:02:39.244437-04:00.jpg",
+      "mtime": "1667458132",
+      "size": "9586",
+      "md5": "09f750084d62acedbedb2ea92c860804",
+      "crc32": "9d96b60c",
+      "sha1": "1f6722aed72720c1c79379db4fd7e960c0bc2f12"
+    },
+    {
+      "name": "mcgilldaily-2022-11-03T14:42:23.699773-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667500949",
+      "size": "14110",
+      "md5": "a691640de03f796984d726c11f15e4b3",
+      "crc32": "3c400599",
+      "sha1": "718f2ae95b829cc981c2c14778a5262a35166a42",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-03T14:42:23.699773-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667500953",
+      "size": "12866",
+      "md5": "da7b51259bc316e01a4e948ea25ea561",
+      "crc32": "b597abdd",
+      "sha1": "7c6e275ea1045d68e2b696a199c3cc1b2d3393c3",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-03T14:42:23.699773-04:00.jpg",
+      "source": "original",
+      "mtime": "1667500946",
+      "size": "240482",
+      "md5": "fccb97b082dc075b8e8c2a2dd046bd43",
+      "crc32": "ee530ea7",
+      "sha1": "ca375ffd235847f5578527fa155778f0a8745fa0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcgilldaily-2022-11-03T14:42:23.699773-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667500956",
+      "size": "1495",
+      "md5": "db0a4720a8290ae697d9ddf8d0239e7f",
+      "crc32": "d7600a0b",
+      "sha1": "6bddd2d210f5fb2743d826c83989436ee6ec38ec",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-03T14:42:23.699773-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667500958",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-03T14:42:23.699773-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcgilldaily-2022-11-03T14:42:23.699773-04:00.jpg",
+      "mtime": "1667513448",
+      "size": "9677",
+      "md5": "d9b3fad163311ebb1229bb5b0e8cfa19",
+      "crc32": "2dac2716",
+      "sha1": "fee2ede54dd573e8d2bd1d7f3d335d83d2c97300"
+    },
+    {
+      "name": "mcgilldaily-2022-11-04T04:34:29.307781-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667550888",
+      "size": "14203",
+      "md5": "246bbae81fa74b8802627cbb48dc89f2",
+      "crc32": "411634f5",
+      "sha1": "c72ae9dc0ae012a0d8f4972b80135bcc6ff545b3",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-04T04:34:29.307781-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667550890",
+      "size": "12962",
+      "md5": "2fda7e9358683f57d398f3ed1c9ee21e",
+      "crc32": "c9f5f9db",
+      "sha1": "5cf46feface8090002fdb7483cc78c048f26d97d",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-04T04:34:29.307781-04:00.jpg",
+      "source": "original",
+      "mtime": "1667550887",
+      "size": "240768",
+      "md5": "a30a5cd3fdc49ac8fafd051529109e37",
+      "crc32": "b43ed3c5",
+      "sha1": "37c2948a94da6294b58de65551988d947f898d2f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcgilldaily-2022-11-04T04:34:29.307781-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667550891",
+      "size": "1495",
+      "md5": "19d40c0aa3f04f90ea61ab037104e251",
+      "crc32": "be56ea26",
+      "sha1": "bcc17025f680506d76f5be3c0773bc92efd20a61",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-04T04:34:29.307781-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667550893",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-04T04:34:29.307781-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcgilldaily-2022-11-04T04:34:29.307781-04:00.jpg",
+      "mtime": "1667556750",
+      "size": "9710",
+      "md5": "9b81c5b440788065854589177d824f15",
+      "crc32": "99f0d0c2",
+      "sha1": "c6d2254e9564f42b120a1de1868745d72f9bdd03"
+    },
+    {
+      "name": "mcgilldaily-2022-11-04T16:05:14.521023-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667592337",
+      "size": "14203",
+      "md5": "5ec23ac3e32708f82f4e30967162d23b",
+      "crc32": "1e1c7cd8",
+      "sha1": "75877a33d03987c02da8f7f808e37085de685de0",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-04T16:05:14.521023-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667592339",
+      "size": "13048",
+      "md5": "1a0e8ecb5f4e5ac849a11ab737a0e971",
+      "crc32": "3002e9e6",
+      "sha1": "8fce76383983820cac90cd15aaf1d4e2977fe55a",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-04T16:05:14.521023-04:00.jpg",
+      "source": "original",
+      "mtime": "1667592335",
+      "size": "241259",
+      "md5": "c2d0958a8a04a55ecb787a80d9cee8b5",
+      "crc32": "e88ed48f",
+      "sha1": "937b69f1fa67151193dca0907d54dce9009b40b9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcgilldaily-2022-11-04T16:05:14.521023-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667592340",
+      "size": "1494",
+      "md5": "d417fdc45428c6599cdaac20399203b4",
+      "crc32": "31a9eb74",
+      "sha1": "9b14d2f7c00c9151e927eb47e519e64d80dd3ae3",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-04T16:05:14.521023-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667592342",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-04T16:05:14.521023-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcgilldaily-2022-11-04T16:05:14.521023-04:00.jpg",
+      "mtime": "1667596403",
+      "size": "9728",
+      "md5": "e0071214f41bed5294ece0d879606541",
+      "crc32": "52e17eff",
+      "sha1": "58e8b64d80ebd0971ebbeb0a898f11b36eca6172"
+    },
+    {
+      "name": "mcgilldaily-2022-11-05T01:17:48.839171-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667625483",
+      "size": "14203",
+      "md5": "5ec23ac3e32708f82f4e30967162d23b",
+      "crc32": "1e1c7cd8",
+      "sha1": "75877a33d03987c02da8f7f808e37085de685de0",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-05T01:17:48.839171-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667625484",
+      "size": "12978",
+      "md5": "ace4dda236fa3439836f3cc4ac58964b",
+      "crc32": "4b55bcfb",
+      "sha1": "2f589521b6536e1b40e2907fa80298d6768c8c69",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-05T01:17:48.839171-04:00.jpg",
+      "source": "original",
+      "mtime": "1667625481",
+      "size": "239208",
+      "md5": "ee751c685119aa324a3047bcdacdb907",
+      "crc32": "30ac96ba",
+      "sha1": "e65154860ef342cafc557a16fbbd68138b8541b0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcgilldaily-2022-11-05T01:17:48.839171-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667625485",
+      "size": "1495",
+      "md5": "10a2315c7a7b19e1783897619a604d54",
+      "crc32": "fcbbdf9c",
+      "sha1": "7aeabf3e34d980b8ec8b34b4a7be7b7bb27a2efe",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-05T01:17:48.839171-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667625487",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-05T01:17:48.839171-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcgilldaily-2022-11-05T01:17:48.839171-04:00.jpg",
+      "mtime": "1667625862",
+      "size": "9793",
+      "md5": "faea111f5b9b2077c5dc9ede4ef7cd61",
+      "crc32": "127f59ab",
+      "sha1": "bae7de7d4b8f667e8fa4ddb17180768b74b193e8"
+    },
+    {
+      "name": "mcgilldaily-2022-11-05T13:55:35.804215-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667670948",
+      "size": "14144",
+      "md5": "f4581bb1c6daa82a2a2ee2f9445953d8",
+      "crc32": "fbe87068",
+      "sha1": "dec35b9f525b6551a3daede7f691c9a912a16228",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-05T13:55:35.804215-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667670950",
+      "size": "12977",
+      "md5": "2821f6b721adc91edd5f873606df2c8b",
+      "crc32": "ae362f30",
+      "sha1": "271579159cf5d14e7906234f30abe81b77e612ae",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-05T13:55:35.804215-04:00.jpg",
+      "source": "original",
+      "mtime": "1667670945",
+      "size": "234698",
+      "md5": "eb4c68b97da0e84383ba30bf3ba87c0b",
+      "crc32": "dba65ae0",
+      "sha1": "347ad36cee279791212754f69a77915314961796",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "mcgilldaily-2022-11-05T13:55:35.804215-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667670952",
+      "size": "1495",
+      "md5": "eaea727a0f6a9eb7abb2748983d3ddc8",
+      "crc32": "7485a534",
+      "sha1": "432be431f5ce8d847cba8ac954349b895b933926",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-05T13:55:35.804215-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667670954",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "mcgilldaily-2022-11-05T13:55:35.804215-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "mcgilldaily-2022-11-05T13:55:35.804215-04:00.jpg",
+      "mtime": "1667671646",
+      "size": "9748",
+      "md5": "9d035d6e5a3183973d6337dd1849bacc",
+      "crc32": "85d523d2",
+      "sha1": "0478888e3602f2ca275eb10abb7c5940c424ff0b"
+    },
+    {
       "name": "mcgilldaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0a6aaa9136829b31a1932ffbb4018ef57e613316",
-      "mtime": "1667453824",
-      "size": "249894",
-      "md5": "1eb05b466c80424b3262a0a07a1df9f5",
-      "crc32": "8aa4c208",
-      "sha1": "a99ce43e9f06689f26561a86852a41b27a09bb7c",
+      "btih": "52b91d3499215454594cd6477687b99e1db25c6e",
+      "mtime": "1667671672",
+      "size": "256456",
+      "md5": "22eab0b6814988b039861d88ef84bd09",
+      "crc32": "a493bbc3",
+      "sha1": "ad1fef9ad955fe3349fc8f1997a6a1ff4861bb1e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "mcgilldaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d120f0fc94fde57f650f18875b2ff372",
+      "md5": "de583a65ca6e234e2da2e67ba6be7c95",
       "summation": "md5"
     },
     {
       "name": "mcgilldaily-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667453808",
-      "size": "1499136",
-      "md5": "c947304a09a2ca45899429266c409f37",
-      "crc32": "803d952c",
-      "sha1": "08fdab35e6dd56a7b43d8daa6e2d10b328af3392",
+      "mtime": "1667670973",
+      "size": "1536000",
+      "md5": "c8bc5e3bf0842e0176e3ec88713563a8",
+      "crc32": "f1baff3c",
+      "sha1": "193826c97a20f44c4f1f32076172ffc489f4427d",
       "format": "Metadata"
     },
     {
@@ -12121,9 +12442,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1172,
-  "item_last_updated": 1667453824,
-  "item_size": 61190090,
+  "files_count": 1203,
+  "item_last_updated": 1667671672,
+  "item_size": 62632351,
   "metadata": {
     "identifier": "mcgilldaily-2022",
     "collection": [
@@ -12140,21 +12461,10 @@
     "publicdate": "2022-07-25 21:24:37",
     "addeddate": "2022-07-25 21:24:37"
   },
-  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3460380744,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 733822360,
+  "uniq": 1128634525,
   "workable_servers": [
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

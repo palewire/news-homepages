@@ -1,5 +1,9 @@
 {
-  "created": 1667646005,
+  "brecktexan-2022": {
+    "url": "https://breckenridgetexan.com/",
+    "job_id": "spn2-f963e603cda3b062d47a5d070ea49ff6a6e846b0"
+  },
+  "created": 1667671547,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/brecktexan-2022",
@@ -14043,21 +14047,32 @@
       "format": "JSON"
     },
     {
+      "name": "brecktexan-2022-11-05T05:58:26.712224-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "brecktexan-2022-11-05T05:58:26.712224-05:00.jpg",
+      "mtime": "1667646913",
+      "size": "10416",
+      "md5": "aac2a18889680adfbf9f30aff509f28d",
+      "crc32": "3a89deb4",
+      "sha1": "0283acb51cc705a2a4b23b113a59358967b4384e"
+    },
+    {
       "name": "brecktexan-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f4a2192f4fef9b326d33ebe6abf1b91162accd35",
-      "mtime": "1667645992",
-      "size": "291223",
-      "md5": "af4715e5d12d07f47cfbf85fbf21c125",
-      "crc32": "3b935f5e",
-      "sha1": "d83da429eb24cdb43812a0a7e3d5cc55e41d252b",
+      "btih": "8bb07a8c7ffdd1c205e51b3a5f5f7893005dae49",
+      "mtime": "1667646957",
+      "size": "291430",
+      "md5": "5144fdc368a867d5d7591eb90d84a58f",
+      "crc32": "ab0cd5d6",
+      "sha1": "6f302a639c0902b6ecd5fb3f7808c6b3f44b3ad6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "brecktexan-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf2e1940a1a8abad91f288658323d052",
+      "md5": "2f43075b317eb2ed57c74b78e9236fd3",
       "summation": "md5"
     },
     {
@@ -14081,9 +14096,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1360,
-  "item_last_updated": 1667645992,
-  "item_size": 136694410,
+  "files_count": 1361,
+  "item_last_updated": 1667646957,
+  "item_size": 136705033,
   "metadata": {
     "identifier": "brecktexan-2022",
     "collection": [
@@ -14100,21 +14115,10 @@
     "publicdate": "2022-07-09 03:56:32",
     "addeddate": "2022-07-09 03:56:32"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462756468,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1368499277,
+  "server": "ia801505.us.archive.org",
+  "uniq": 697432769,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

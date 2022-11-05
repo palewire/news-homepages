@@ -1,5 +1,5 @@
 {
-  "created": 1667629632,
+  "created": 1667676744,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/thedailybeast-2022",
@@ -12509,21 +12509,32 @@
       "format": "JSON"
     },
     {
+      "name": "thedailybeast-2022-11-05T02:26:04.543553-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailybeast-2022-11-05T02:26:04.543553-04:00.jpg",
+      "mtime": "1667630676",
+      "size": "10396",
+      "md5": "89e3a81eb82b24e06e6ed25c17f0faeb",
+      "crc32": "6ade686a",
+      "sha1": "12d883c6cfc761d8e54712f2a27e19a1662bd075"
+    },
+    {
       "name": "thedailybeast-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d43300350590c55cc982ab75cd9f265143a9dd74",
-      "mtime": "1667629629",
-      "size": "262162",
-      "md5": "ea3ade8f1f02aa028160f1089ff65333",
-      "crc32": "aff24841",
-      "sha1": "7c1b4e7f86d968a4eca5f1d4489356165f5be12c",
+      "btih": "7e758b16767919cc27a9ee6aaf73aa7e35aeb094",
+      "mtime": "1667630739",
+      "size": "262372",
+      "md5": "7ad534bcad1c6fce7fdb60e8ab7e4c81",
+      "crc32": "b3fb611e",
+      "sha1": "e20113dc8fd6f08086d41eb4adf7885c7b9ce18b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailybeast-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "96ca0f8f3a678ce23b11db68360a9c3f",
+      "md5": "5d92b1d20e594a2e962a6ecd1f7323ad",
       "summation": "md5"
     },
     {
@@ -12547,9 +12558,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1213,
-  "item_last_updated": 1667629629,
-  "item_size": 87084688,
+  "files_count": 1214,
+  "item_last_updated": 1667630739,
+  "item_size": 87095294,
   "metadata": {
     "identifier": "thedailybeast-2022",
     "collection": [
@@ -12566,21 +12577,15 @@
     "publicdate": "2022-07-23 16:04:26",
     "addeddate": "2022-07-23 16:04:26"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462584643,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 112923505,
+  "server": "ia802505.us.archive.org",
+  "thedailybeast-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1612702818,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

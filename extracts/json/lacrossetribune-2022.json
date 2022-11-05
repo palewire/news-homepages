@@ -1,5 +1,5 @@
 {
-  "created": 1667653662,
+  "created": 1667673964,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/31/items/lacrossetribune-2022",
@@ -19957,21 +19957,32 @@
       "format": "JSON"
     },
     {
+      "name": "lacrossetribune-2022-11-05T08:06:05.381836-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lacrossetribune-2022-11-05T08:06:05.381836-05:00.jpg",
+      "mtime": "1667655846",
+      "size": "12158",
+      "md5": "463ce623e63b45cceab0157d5795b5ed",
+      "crc32": "356c8482",
+      "sha1": "b53a91b54fcdefd2ba16c2e0eb897cbfe02184fa"
+    },
+    {
       "name": "lacrossetribune-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a7958ac2539207e1719c2ae86cee52e29b70f3fa",
-      "mtime": "1667653657",
-      "size": "419957",
-      "md5": "697e90816c7ce20ab1ec4c4297594dd4",
-      "crc32": "8934a63f",
-      "sha1": "eb122c53b4b80f90300c549496b42ae3769df563",
+      "btih": "8ce6b9f901d7a1503e34c9c87555f671b0b96ce7",
+      "mtime": "1667655908",
+      "size": "420169",
+      "md5": "f13c09ab944b4a1fcbc3df54191bccb0",
+      "crc32": "49f882d2",
+      "sha1": "8ceb2371fc3eb16caf9e58c44b80e8eaa9ccb898",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lacrossetribune-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "18b25d0eb8ab5b95d898aa2b46ba2532",
+      "md5": "f1a69ada4eb3204f4a891320e2fffc85",
       "summation": "md5"
     },
     {
@@ -19995,9 +20006,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1922,
-  "item_last_updated": 1667653657,
-  "item_size": 175907129,
+  "files_count": 1923,
+  "item_last_updated": 1667655908,
+  "item_size": 175919499,
+  "lacrossetribune-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lacrossetribune-2022",
     "collection": [
@@ -20014,21 +20030,10 @@
     "publicdate": "2022-03-23 23:06:48",
     "addeddate": "2022-03-23 23:06:48"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462844239,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 411476327,
+  "server": "ia802508.us.archive.org",
+  "uniq": 352992175,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667629822,
+  "created": 1667677725,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/4/items/vgnett-2022",
@@ -12895,21 +12895,32 @@
       "format": "JSON"
     },
     {
+      "name": "vgnett-2022-11-05T07:28:49.375052+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vgnett-2022-11-05T07:28:49.375052+01:00.jpg",
+      "mtime": "1667630866",
+      "size": "10585",
+      "md5": "75dda343ac5c7a261541bcbf7ea0e71e",
+      "crc32": "a8f32bf9",
+      "sha1": "fc444b6c7c3ab5eb98aeab026ff3b6deb9a883b1"
+    },
+    {
       "name": "vgnett-2022_archive.torrent",
       "source": "metadata",
-      "btih": "511c8df06baaecd72985b0c922ab0864f109a9a7",
-      "mtime": "1667629812",
-      "size": "262148",
-      "md5": "f5dfccb7cbf9e21c44bb13376d5a1a61",
-      "crc32": "b243b511",
-      "sha1": "7078c029429e3a5ab2db1f910f9d8e7cd5b16b8e",
+      "btih": "e3a163242471eb6b4d64974b90899fcf255fa5a6",
+      "mtime": "1667630883",
+      "size": "262351",
+      "md5": "b8abec4f1274205ecb907edb5f57df83",
+      "crc32": "96301870",
+      "sha1": "804f89394c33f9e7fefea30b0997aa5ba13dd0eb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vgnett-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "038cc4e46c59f8b544479766ee2560ce",
+      "md5": "dde17b35326513b9e093dd939d9f7473",
       "summation": "md5"
     },
     {
@@ -12933,9 +12944,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1250,
-  "item_last_updated": 1667629812,
-  "item_size": 108104913,
+  "files_count": 1251,
+  "item_last_updated": 1667630883,
+  "item_size": 108115701,
   "metadata": {
     "identifier": "vgnett-2022",
     "collection": [
@@ -12952,21 +12963,15 @@
     "publicdate": "2022-07-20 11:37:24",
     "addeddate": "2022-07-20 11:37:24"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462586720,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1824202178,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1363921480,
+  "vgnett-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

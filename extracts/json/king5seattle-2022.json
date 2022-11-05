@@ -1,5 +1,5 @@
 {
-  "created": 1667653680,
+  "created": 1667670220,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/8/items/king5seattle-2022",
@@ -14433,21 +14433,32 @@
       "format": "JSON"
     },
     {
+      "name": "king5seattle-2022-11-05T06:06:39.276632-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "king5seattle-2022-11-05T06:06:39.276632-07:00.jpg",
+      "mtime": "1667656975",
+      "size": "9579",
+      "md5": "bb447500ed2c18e17d28f908f5574a79",
+      "crc32": "11d462c9",
+      "sha1": "6a8c65c66f89c16c12f304b3f76658673dbb0876"
+    },
+    {
       "name": "king5seattle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "dc2b9ca08a1dae28c62884c7b0bc615fe6ef1e6d",
-      "mtime": "1667653675",
-      "size": "299736",
-      "md5": "cc74f6da6ed39a83836c595a63e10e90",
-      "crc32": "0994d392",
-      "sha1": "d91c878c72b927192c48a823727e1a857108e084",
+      "btih": "96ea593b907ea9c3ecf308580d2658950a0a7898",
+      "mtime": "1667656993",
+      "size": "299944",
+      "md5": "54c8ab4ce6e5856ee60ce539ccc82269",
+      "crc32": "1735f442",
+      "sha1": "586f608245b04f1da3d3ddb80a539bfc3a40d755",
       "format": "Archive BitTorrent"
     },
     {
       "name": "king5seattle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d8abd4c36f2966a88469ed74b3677463",
+      "md5": "b714e8e304438868b659155bfc35dfe7",
       "summation": "md5"
     },
     {
@@ -14471,9 +14482,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1397,
-  "item_last_updated": 1667653675,
-  "item_size": 94568637,
+  "files_count": 1398,
+  "item_last_updated": 1667656993,
+  "item_size": 94578424,
   "metadata": {
     "identifier": "king5seattle-2022",
     "collection": [
@@ -14490,21 +14501,10 @@
     "publicdate": "2022-07-04 21:55:32",
     "addeddate": "2022-07-04 21:55:32"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462844423,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 13480170,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1686394438,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

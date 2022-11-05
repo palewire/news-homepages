@@ -1,5 +1,13 @@
 {
-  "created": 1667646010,
+  "cnsmd-2022": {
+    "url": "https://cnsmaryland.org/",
+    "job_id": "spn2-f286fc3f7c536a109973ae6b449c203b0cbe2581",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  },
+  "created": 1667671985,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/20/items/cnsmd-2022",
@@ -13755,21 +13763,32 @@
       "format": "JSON"
     },
     {
+      "name": "cnsmd-2022-11-05T06:59:01.351107-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cnsmd-2022-11-05T06:59:01.351107-04:00.jpg",
+      "mtime": "1667647748",
+      "size": "9284",
+      "md5": "c6106a902a23c2f75fdaa6c4e8d20e19",
+      "crc32": "df7d0abb",
+      "sha1": "925446f59fac108984206024c04c596f2505dec0"
+    },
+    {
       "name": "cnsmd-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9f345e5454b87c6c1711e79f4cf5f480eccfc59c",
-      "mtime": "1667646006",
-      "size": "276519",
-      "md5": "74307a9d22951c75f1f2b85a6f231ad7",
-      "crc32": "36b878b6",
-      "sha1": "2b98c49dbb21aa6df6fbd092097505504f5a32b5",
+      "btih": "3c082bc3c656de3a7249ff716edf1f5b2ebef596",
+      "mtime": "1667647766",
+      "size": "276720",
+      "md5": "19ebffd718220fe07c810f791f21d7dc",
+      "crc32": "34fd86e5",
+      "sha1": "ecb0ac733513f7e385d0c487a384d6cbec51432e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnsmd-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8b744d41179313fac355249100c99f07",
+      "md5": "299a5ea7b09f951edabf05c013e533c2",
       "summation": "md5"
     },
     {
@@ -13793,9 +13812,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1332,
-  "item_last_updated": 1667646006,
-  "item_size": 85767640,
+  "files_count": 1333,
+  "item_last_updated": 1667647766,
+  "item_size": 85777125,
   "metadata": {
     "identifier": "cnsmd-2022",
     "collection": [
@@ -13812,21 +13831,10 @@
     "publicdate": "2022-07-12 20:46:24",
     "addeddate": "2022-07-12 20:46:24"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462756503,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2027949861,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1345303507,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

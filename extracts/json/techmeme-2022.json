@@ -1,5 +1,5 @@
 {
-  "created": 1667629724,
+  "created": 1667676568,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/7/items/techmeme-2022",
@@ -17051,21 +17051,32 @@
       "format": "JSON"
     },
     {
+      "name": "techmeme-2022-11-04T23:26:31.966618-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "techmeme-2022-11-04T23:26:31.966618-07:00.jpg",
+      "mtime": "1667630537",
+      "size": "9570",
+      "md5": "096e6ff78dc25657dc198346c2ccb9b7",
+      "crc32": "ae91d509",
+      "sha1": "e6cba63799035f77cd0c9c1927361b47d1ff56e2"
+    },
+    {
       "name": "techmeme-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bff6b7dbe691eda2a968cf7d2850165d2d146ffe",
-      "mtime": "1667629714",
-      "size": "352467",
-      "md5": "0ca78e0c0be361e99c87a292ad12d52a",
-      "crc32": "3c3caae8",
-      "sha1": "6d02514faf4fa3663b9691a9fb60aab235ca703f",
+      "btih": "025ab2eebe4ac1b223c0a8a54b2a0cf7e2f46dc2",
+      "mtime": "1667630618",
+      "size": "352671",
+      "md5": "b971fff8a123593f76204ab9e4105751",
+      "crc32": "8e63ed82",
+      "sha1": "42960825f91141b5b2c0f15dba6bea807c4f6e9f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "techmeme-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75629a247711f4ad9efabe3de7adea1b",
+      "md5": "2e929475ae0efd0513a5ee365bca1f46",
       "summation": "md5"
     },
     {
@@ -17089,9 +17100,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1646,
-  "item_last_updated": 1667629714,
-  "item_size": 256007945,
+  "files_count": 1647,
+  "item_last_updated": 1667630618,
+  "item_size": 256017719,
   "metadata": {
     "identifier": "techmeme-2022",
     "collection": [
@@ -17108,21 +17119,15 @@
     "publicdate": "2022-06-17 17:26:33",
     "addeddate": "2022-06-17 17:26:33"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462585615,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1331168189,
+  "server": "ia801407.us.archive.org",
+  "techmeme-2022": {
+    "url": "https://www.techmeme.com/",
+    "job_id": "spn2-51361eba725b285e516557b35ecb77f89d39cbfe",
+    "message": "The same snapshot had been made 15 minutes, 36 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "uniq": 369046147,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

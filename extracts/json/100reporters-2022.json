@@ -1,5 +1,9 @@
 {
-  "created": 1667645708,
+  "100reporters-2022": {
+    "url": "http://100r.org/",
+    "job_id": "spn2-b9f0f354ed205903470f218629cd835d76704dec"
+  },
+  "created": 1667670595,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/18/items/100reporters-2022",
@@ -13974,21 +13978,32 @@
       "format": "JSON"
     },
     {
+      "name": "100reporters-2022-11-05T06:53:58.264304-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "100reporters-2022-11-05T06:53:58.264304-04:00.jpg",
+      "mtime": "1667646619",
+      "size": "9469",
+      "md5": "795b8bb0a3c5c13ef58dcce5b2c4d65e",
+      "crc32": "a780aa1f",
+      "sha1": "78c5a4575840d40d70f48dc0d6802dc22f5e881d"
+    },
+    {
       "name": "100reporters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0bfc6ade15a246c350ce646b5f9a08fb5dc83bdb",
-      "mtime": "1667645705",
-      "size": "290506",
-      "md5": "3cbdf14f5377389fd63aba26e14fab43",
-      "crc32": "7a530fdc",
-      "sha1": "9f391e3316a704b7a29ec2c8c75bf1e827aab5ad",
+      "btih": "db4c4d4215d48fb2b44cc37272d2c490fab7e4a6",
+      "mtime": "1667646667",
+      "size": "290714",
+      "md5": "c190bcfa367b789035632c92c85135f5",
+      "crc32": "4b2bf6a5",
+      "sha1": "d9a4ba126697171201dd946c4c5ce1f87c11f88c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "100reporters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f0d77cd8e03f06384f12ce79d4e886c",
+      "md5": "d7a8e1ad70c41d7b72d917f5ac8c5b4b",
       "summation": "md5"
     },
     {
@@ -14023,9 +14038,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 1354,
-  "item_last_updated": 1667645705,
-  "item_size": 82529437,
+  "files_count": 1355,
+  "item_last_updated": 1667646667,
+  "item_size": 82539114,
   "metadata": {
     "identifier": "100reporters-2022",
     "collection": [
@@ -14042,21 +14057,10 @@
     "publicdate": "2022-07-09 03:55:34",
     "addeddate": "2022-07-09 03:55:34"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462753299,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1345784073,
+  "server": "ia802500.us.archive.org",
+  "uniq": 2046671286,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

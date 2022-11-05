@@ -1,5 +1,10 @@
 {
-  "created": 1667623176,
+  "atlciviccircle-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671199,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/atlciviccircle-2022",
@@ -14016,31 +14021,93 @@
       "sha1": "cd75c9e83f178c2ffa9a9fd8d90a82b93ccfa4b4"
     },
     {
+      "name": "atlciviccircle-2022-11-05T12:17:42.346263-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667665073",
+      "size": "14482",
+      "md5": "1b0ceca6efd5746e9f1ab4a0c29eb61e",
+      "crc32": "50054356",
+      "sha1": "79340224f512858969dabbb940c952577348487a",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-11-05T12:17:42.346263-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667665075",
+      "size": "15487",
+      "md5": "e39da2dcdcafa93534f881990305b361",
+      "crc32": "75de0912",
+      "sha1": "51b4b3f46e98acdbf2909968808bb0120918ac1c",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-11-05T12:17:42.346263-04:00.jpg",
+      "source": "original",
+      "mtime": "1667665071",
+      "size": "194376",
+      "md5": "fcdd9772fc8db105f4bc48546ebb39ec",
+      "crc32": "09e53630",
+      "sha1": "528a6cc741814afff0de17ded18bf73ea0565912",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "atlciviccircle-2022-11-05T12:17:42.346263-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667665077",
+      "size": "1521",
+      "md5": "b2a832ded1316134c0459743b0a58133",
+      "crc32": "5f4f06df",
+      "sha1": "bbaecb687af1e5a204f87b2b475f1ddbd2de6c3f",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-11-05T12:17:42.346263-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667665079",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "atlciviccircle-2022-11-05T12:17:42.346263-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "atlciviccircle-2022-11-05T12:17:42.346263-04:00.jpg",
+      "mtime": "1667669084",
+      "size": "9126",
+      "md5": "4b7922b578ca54f49f3d01f52e93f003",
+      "crc32": "ebff3450",
+      "sha1": "cd75c9e83f178c2ffa9a9fd8d90a82b93ccfa4b4"
+    },
+    {
       "name": "atlciviccircle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aebcc2f5865132c494bbb4d46defdb6d4777af6b",
-      "mtime": "1667623100",
-      "size": "293787",
-      "md5": "3c86a8d1637e8ff5d8ba70db48899fd9",
-      "crc32": "992db8d9",
-      "sha1": "b7802af610e4810b73bc6f1b67e0fadd9ea0ae0b",
+      "btih": "e5a62194c0c9bba77cf5e9f99f52c113145ea873",
+      "mtime": "1667669107",
+      "size": "295068",
+      "md5": "29e5f301cb82783e67850289e894a494",
+      "crc32": "6efa1d7d",
+      "sha1": "6555a9322bedea30a14c5327a6ee16bfcb5419b7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "atlciviccircle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "46bb5b1bc23cefcb55fdd2c642172090",
+      "md5": "0cd408d833160f06eb8b64c48b9be306",
       "summation": "md5"
     },
     {
       "name": "atlciviccircle-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667621362",
-      "size": "1720320",
-      "md5": "a1a7a5100714a3c81d2d8ebb80195eaf",
-      "crc32": "916cf868",
-      "sha1": "bdd994c8e1584defdd541e86713d5b8749483665",
+      "mtime": "1667665084",
+      "size": "1728512",
+      "md5": "33187977a6056819391f0abc73dfffdc",
+      "crc32": "cf5bbdfb",
+      "sha1": "e12d38909f8fca8fe043ceb53be3e12b5c76554e",
       "format": "Metadata"
     },
     {
@@ -14054,9 +14121,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1357,
-  "item_last_updated": 1667623100,
-  "item_size": 80538783,
+  "files_count": 1363,
+  "item_last_updated": 1667669107,
+  "item_size": 80783450,
   "metadata": {
     "identifier": "atlciviccircle-2022",
     "collection": [
@@ -14073,10 +14140,29 @@
     "publicdate": "2022-07-09 03:55:48",
     "addeddate": "2022-07-09 03:55:48"
   },
-  "server": "ia802500.us.archive.org",
-  "uniq": 629321325,
+  "pending_tasks": true,
+  "server": "ia902500.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462961291,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3463003978,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 667198848,
   "workable_servers": [
-    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

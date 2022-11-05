@@ -1,5 +1,5 @@
 {
-  "created": 1667659363,
+  "created": 1667674725,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/23/items/nbcnews-2022",
@@ -43768,24 +43768,29 @@
       "name": "nbcnews-2022-11-05T09:58:54.750676-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "nbcnews-2022-11-05T09:58:54.750676-04:00.jpg"
+      "original": "nbcnews-2022-11-05T09:58:54.750676-04:00.jpg",
+      "mtime": "1667658113",
+      "size": "11082",
+      "md5": "9762d16c8e717dbdfceab0855c37dbdd",
+      "crc32": "6369fa7e",
+      "sha1": "74856cf6099827f58e0a223cb2cfd9d70ecde8bd"
     },
     {
       "name": "nbcnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "187fbb869b262be37ca3ca12d646dcc5898238a1",
-      "mtime": "1667657085",
-      "size": "885674",
-      "md5": "211f0e7004e8338b241e94593702e46a",
-      "crc32": "fb9d2202",
-      "sha1": "19bf2c0343462c9654d66faaff9fb0cf54df721a",
+      "btih": "19cb4fd4180c2b85e15a5c9da17ef7914e0cc0d1",
+      "mtime": "1667660550",
+      "size": "885878",
+      "md5": "34a544128054050d0c4b3053d4dfb937",
+      "crc32": "cd162a31",
+      "sha1": "faa2530f7177c5f2b87a60e8e7e00d9c3c324bca",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c231fb6376e4ede0a7bf3dafc96d9420",
+      "md5": "99fd3dd40bd564ab109bbb4c088e8213",
       "summation": "md5"
     },
     {
@@ -43810,8 +43815,8 @@
     }
   ],
   "files_count": 4208,
-  "item_last_updated": 1667657085,
-  "item_size": 413708153,
+  "item_last_updated": 1667660550,
+  "item_size": 413719439,
   "metadata": {
     "identifier": "nbcnews-2022",
     "collection": [
@@ -43828,21 +43833,15 @@
     "publicdate": "2022-03-24 23:11:06",
     "addeddate": "2022-03-24 23:11:06"
   },
-  "pending_tasks": true,
+  "nbcnews-2022": {
+    "message": "This URL has been already captured 10 times today. Please try again tomorrow. Please email us at \"info@archive.org\" if you would like to discuss this more.",
+    "status": "error",
+    "status_ext": "error:too-many-daily-captures"
+  },
   "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462875831,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 889510886,
+  "uniq": 2128068271,
   "workable_servers": [
-    "ia902500.us.archive.org"
+    "ia902500.us.archive.org",
+    "ia802500.us.archive.org"
   ]
 }

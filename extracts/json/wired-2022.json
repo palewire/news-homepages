@@ -1,5 +1,5 @@
 {
-  "created": 1667629851,
+  "created": 1667677982,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/33/items/wired-2022",
@@ -14751,21 +14751,32 @@
       "format": "JSON"
     },
     {
+      "name": "wired-2022-11-04T23:29:34.163001-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wired-2022-11-04T23:29:34.163001-07:00.jpg",
+      "mtime": "1667630719",
+      "size": "10132",
+      "md5": "787e9f835bafac45f1bcee52acb6ee65",
+      "crc32": "c828c137",
+      "sha1": "7416b50c5e7023cd7b247e607fd8cb125c139a03"
+    },
+    {
       "name": "wired-2022_archive.torrent",
       "source": "metadata",
-      "btih": "df084b32bb40360a2e897d3ce26f14cc4f0840d1",
-      "mtime": "1667629844",
-      "size": "296804",
-      "md5": "34022135ca1f47c512ac9e038535cfaf",
-      "crc32": "be14c267",
-      "sha1": "b46c7cebefaf32cd8e228e99e9ab051ba02ba069",
+      "btih": "e5dbde8c72c08f129a2fc21b892bfee76511c382",
+      "mtime": "1667630769",
+      "size": "297006",
+      "md5": "862f939a4e80c9ebc15296af0482f662",
+      "crc32": "736050a5",
+      "sha1": "6a4f070f70b12bcc5ccc8624b1380409d6d30afd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wired-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "38408ff6b6b91e810b0ea9ba8063fa3e",
+      "md5": "edcf11d942d80bcb8e36777a5e1e6a81",
       "summation": "md5"
     },
     {
@@ -14789,9 +14800,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1427,
-  "item_last_updated": 1667629844,
-  "item_size": 103927282,
+  "files_count": 1428,
+  "item_last_updated": 1667630769,
+  "item_size": 103937616,
   "metadata": {
     "identifier": "wired-2022",
     "collection": [
@@ -14808,21 +14819,15 @@
     "publicdate": "2022-07-04 20:17:35",
     "addeddate": "2022-07-04 20:17:35"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462587007,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1504315716,
+  "server": "ia801409.us.archive.org",
+  "uniq": 324975131,
+  "wired-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

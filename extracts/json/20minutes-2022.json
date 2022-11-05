@@ -1,5 +1,5 @@
 {
-  "created": 1667645826,
+  "created": 1667670707,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/20/items/20minutes-2022",
@@ -27546,21 +27546,32 @@
       "format": "JSON"
     },
     {
+      "name": "20minutes-2022-11-05T11:54:17.573394+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "20minutes-2022-11-05T11:54:17.573394+01:00.jpg",
+      "mtime": "1667647391",
+      "size": "9486",
+      "md5": "2261aa78d0ad0fd2ae77ab3c346423fe",
+      "crc32": "cff1e1d0",
+      "sha1": "181361096603002ff1cbc671224c178f95d0f44c"
+    },
+    {
       "name": "20minutes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3f75853fb922ea5c2275c2d1151b1329b867257c",
-      "mtime": "1667645797",
-      "size": "563546",
-      "md5": "bc29212c2ff178e4ddf5d652ea3b8408",
-      "crc32": "bd17b027",
-      "sha1": "9d76e26daf31afbc72e90d1b07db599ab78191ef",
+      "btih": "680f55fffd4675f4c0b5355bf2e7dd6084c40885",
+      "mtime": "1667647452",
+      "size": "563751",
+      "md5": "ff27a714bb4dd0fae969717c7e99da05",
+      "crc32": "a5c05b81",
+      "sha1": "c3b6d7b0327861bff1a696063eeb0be2296559f4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "20minutes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fe742a37dd37dbfc7a2cffe68c7c6621",
+      "md5": "7a90d8bcbd166ca1c26d2d555740882a",
       "summation": "md5"
     },
     {
@@ -27595,10 +27606,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 2656,
-  "has_redrow": true,
-  "item_last_updated": 1667645797,
-  "item_size": 232705993,
+  "files_count": 2657,
+  "item_last_updated": 1667647452,
+  "item_size": 232715684,
   "metadata": {
     "identifier": "20minutes-2022",
     "collection": [
@@ -27623,20 +27633,12 @@
       "task_id": 3462657439,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 2,
-      "color": "red",
-      "status": "error"
-    },
-    {
-      "task_id": 3462754830,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 9,
+      "color": "brown",
+      "status": "paused"
     }
   ],
-  "uniq": 972985784,
+  "uniq": 1096256517,
   "workable_servers": [
     "ia601509.us.archive.org"
   ]

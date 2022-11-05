@@ -1,5 +1,13 @@
 {
-  "created": 1667645991,
+  "codaily-2022": {
+    "url": "https://centraloregondaily.com/",
+    "job_id": "spn2-2081baab358b4e0ffa58130f929298a6ba66ca72",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "created": 1667672005,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/25/items/codaily-2022",
@@ -14509,21 +14517,32 @@
       "format": "JSON"
     },
     {
+      "name": "codaily-2022-11-05T03:58:34.200668-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "codaily-2022-11-05T03:58:34.200668-07:00.jpg",
+      "mtime": "1667646852",
+      "size": "10024",
+      "md5": "655d14f68c8bdb8e07971b87bf10f4a9",
+      "crc32": "5a0a72e6",
+      "sha1": "396ef7e8cd4374963e1c2b28be5074c06ed7d7c8"
+    },
+    {
       "name": "codaily-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5231f8866b3f95e38e5f3337a18593c3ad8620ae",
-      "mtime": "1667645986",
-      "size": "294422",
-      "md5": "f53617981b3136f15960690855eb0a21",
-      "crc32": "617d23f2",
-      "sha1": "f71aaa8eef65bb27a6c991669dae72c0316b9486",
+      "btih": "e63ac26982399d12b00c6ca255a0782e9ffe2c75",
+      "mtime": "1667646879",
+      "size": "294626",
+      "md5": "7fc1f25ea8836a34922fb93968bfcad9",
+      "crc32": "0f8f0d07",
+      "sha1": "3397216574233465bdf3de981d4b6511888c74b9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "codaily-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e0ec11c7d5c75fa21b98f7cc97d115f6",
+      "md5": "ce9ffba1401b4e73e79104cdb489540f",
       "summation": "md5"
     },
     {
@@ -14547,9 +14566,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1404,
-  "item_last_updated": 1667645986,
-  "item_size": 92009731,
+  "files_count": 1405,
+  "item_last_updated": 1667646879,
+  "item_size": 92019959,
   "metadata": {
     "identifier": "codaily-2022",
     "collection": [
@@ -14566,21 +14585,10 @@
     "publicdate": "2022-07-04 20:47:15",
     "addeddate": "2022-07-04 20:47:15"
   },
-  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462756302,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1551316907,
+  "uniq": 1943929190,
   "workable_servers": [
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

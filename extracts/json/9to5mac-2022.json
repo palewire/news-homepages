@@ -1,5 +1,9 @@
 {
-  "created": 1667645673,
+  "9to5mac-2022": {
+    "url": "https://9to5mac.com/",
+    "job_id": "spn2-4c46fdae4fc3ae2891b1e74f9e5d456b8fe70cf1"
+  },
+  "created": 1667670753,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/9to5mac-2022",
@@ -12714,21 +12718,32 @@
       "format": "JSON"
     },
     {
+      "name": "9to5mac-2022-11-05T03:53:25.894854-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "9to5mac-2022-11-05T03:53:25.894854-07:00.jpg",
+      "mtime": "1667646494",
+      "size": "9111",
+      "md5": "5747b2aed6add2715549b543c4d9f5bf",
+      "crc32": "afedd2c6",
+      "sha1": "3fbe4a0197a2bcb9e4989e73c30f3a3004504fa3"
+    },
+    {
       "name": "9to5mac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "48959deb24ef470fff7206039ce40d91bf08d4d8",
-      "mtime": "1667645668",
-      "size": "258955",
-      "md5": "45516c2033e9d1a1daa46ee8cf8ff82b",
-      "crc32": "8ba41ee2",
-      "sha1": "cd6cff44d21aa313c4a7e54d1cb23d4b2f0d4745",
+      "btih": "a90e72b65fec7ae9cc1c9ed972d9f20bc4c6df43",
+      "mtime": "1667646517",
+      "size": "259158",
+      "md5": "8e8fe7cc933553c8673bfccc05074106",
+      "crc32": "34600365",
+      "sha1": "e61aa9a68caa2aab36d817de9547a53af2aa0903",
       "format": "Archive BitTorrent"
     },
     {
       "name": "9to5mac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb87726649380b50ed3175e237de1546",
+      "md5": "df76363fef60b0387aa49dada1caa6c7",
       "summation": "md5"
     },
     {
@@ -12763,9 +12778,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 1234,
-  "item_last_updated": 1667645668,
-  "item_size": 85180629,
+  "files_count": 1235,
+  "item_last_updated": 1667646517,
+  "item_size": 85189943,
   "metadata": {
     "identifier": "9to5mac-2022",
     "collection": [
@@ -12782,21 +12797,10 @@
     "publicdate": "2022-07-25 06:47:05",
     "addeddate": "2022-07-25 06:47:05"
   },
-  "pending_tasks": true,
   "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462752967,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1322413291,
+  "uniq": 457161739,
   "workable_servers": [
-    "ia902507.us.archive.org"
+    "ia902507.us.archive.org",
+    "ia802507.us.archive.org"
   ]
 }

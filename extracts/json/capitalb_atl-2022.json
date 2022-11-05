@@ -1,5 +1,13 @@
 {
-  "created": 1667646051,
+  "capitalb_atl-2022": {
+    "url": "https://atlanta.capitalbnews.org/",
+    "job_id": "spn2-cdc962a7127e1104ecb7a841287f2097c0efb5e6",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
+  "created": 1667671787,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/9/items/capitalb_atl-2022",
@@ -13081,21 +13089,32 @@
       "format": "JSON"
     },
     {
+      "name": "capitalb_atl-2022-11-05T06:58:57.030838-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitalb_atl-2022-11-05T06:58:57.030838-04:00.jpg",
+      "mtime": "1667646971",
+      "size": "10132",
+      "md5": "1cea4de84ef0ca6110d1e173e8a7e665",
+      "crc32": "06dce14c",
+      "sha1": "ede7892d20827a5038335211db82c8f71d57906d"
+    },
+    {
       "name": "capitalb_atl-2022_archive.torrent",
       "source": "metadata",
-      "btih": "564c760202d8623d8c33a9084ac423c1c883f7cb",
-      "mtime": "1667646037",
-      "size": "271187",
-      "md5": "951ea06dcd98badae824a2467a73d82e",
-      "crc32": "56698fc3",
-      "sha1": "27ddc36c786eb0a806bf1a63e19823dda6518e48",
+      "btih": "dee2a02184119875387917eb76ff2ee6ea6976c7",
+      "mtime": "1667647013",
+      "size": "271396",
+      "md5": "1b768b7dd9dcb2c08ca538c7329b3148",
+      "crc32": "8fe07459",
+      "sha1": "bc16bb46704391c07e55e1361d5d2a7cf9969397",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitalb_atl-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "653ad9242dfe2f8e0488932477f304df",
+      "md5": "27d62cf6e2d3d6ce00f5ecd0713f236f",
       "summation": "md5"
     },
     {
@@ -13119,9 +13138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1268,
-  "item_last_updated": 1667646037,
-  "item_size": 67321128,
+  "files_count": 1269,
+  "item_last_updated": 1667647013,
+  "item_size": 67331469,
   "metadata": {
     "identifier": "capitalb_atl-2022",
     "collection": [
@@ -13138,21 +13157,10 @@
     "publicdate": "2022-07-20 23:30:38",
     "addeddate": "2022-07-20 23:30:38"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462757370,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1489941130,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1679264489,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

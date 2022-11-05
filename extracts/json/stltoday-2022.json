@@ -1,5 +1,5 @@
 {
-  "created": 1667629604,
+  "created": 1667676485,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/stltoday-2022",
@@ -15179,21 +15179,32 @@
       "format": "JSON"
     },
     {
+      "name": "stltoday-2022-11-05T01:25:25.763974-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "stltoday-2022-11-05T01:25:25.763974-05:00.jpg",
+      "mtime": "1667630320",
+      "size": "12327",
+      "md5": "c8e5e1c0aa0ded681b41a367c5faf2bc",
+      "crc32": "e35d4a3f",
+      "sha1": "c45fa9cd005af6ad7c5efbb1dac545cb2f8de637"
+    },
+    {
       "name": "stltoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d6ed510039af561e36364269e742362bcae9290f",
-      "mtime": "1667629600",
-      "size": "310245",
-      "md5": "9fd44e34a800f31388051074cd77a842",
-      "crc32": "137ea7a8",
-      "sha1": "8891a1d7afaa6f19c3f7b3ef34d6b00b4f1c66b8",
+      "btih": "158e425bf42314fb05e7f7ee8c029a29175ed43d",
+      "mtime": "1667630349",
+      "size": "310450",
+      "md5": "97e6605c4f436b47412ed05d5ee0cb00",
+      "crc32": "532731f7",
+      "sha1": "0354aae719ee156d14363f1a1373b76870804e8d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "stltoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "87dc9c439ca3cfd3bfa63f38be138754",
+      "md5": "1ec32ef884bc104b6934c8db43210b29",
       "summation": "md5"
     },
     {
@@ -15217,9 +15228,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1466,
-  "item_last_updated": 1667629600,
-  "item_size": 134461328,
+  "files_count": 1467,
+  "item_last_updated": 1667630349,
+  "item_size": 134473860,
   "metadata": {
     "identifier": "stltoday-2022",
     "collection": [
@@ -15236,21 +15247,14 @@
     "publicdate": "2022-06-24 23:01:32",
     "addeddate": "2022-06-24 23:01:32"
   },
-  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462584256,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1051870983,
+  "stltoday-2022": {
+    "url": "https://www.stltoday.com/",
+    "job_id": "spn2-00ce9f31aaf9be057d68dfe1ee8c256d81078877"
+  },
+  "uniq": 1151877436,
   "workable_servers": [
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

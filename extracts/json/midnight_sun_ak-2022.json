@@ -1,5 +1,5 @@
 {
-  "created": 1667653820,
+  "created": 1667674482,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/11/items/midnight_sun_ak-2022",
@@ -6763,21 +6763,32 @@
       "format": "JSON"
     },
     {
+      "name": "midnight_sun_ak-2022-11-05T05:09:10.101674-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "midnight_sun_ak-2022-11-05T05:09:10.101674-08:00.jpg",
+      "mtime": "1667655972",
+      "size": "10978",
+      "md5": "81af0c04a6017388e0bd85e2c9b6d500",
+      "crc32": "42537ea7",
+      "sha1": "9a57219a775af74c35050772f73a6d3079bfd66e"
+    },
+    {
       "name": "midnight_sun_ak-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b04655bcd0b5982db91983272fd665532378aeb7",
-      "mtime": "1667653811",
-      "size": "143360",
-      "md5": "184375ca7bf33b78672c7b29cbc7623e",
-      "crc32": "5c66f1c7",
-      "sha1": "f1aac441c4f9588ed7549501a9c9f92081176343",
+      "btih": "5dda945930d0aa34e622cc51b4ce8963437d092f",
+      "mtime": "1667656074",
+      "size": "143572",
+      "md5": "4335980b02e22a98e5f3b3885cf61ba1",
+      "crc32": "3fde0d63",
+      "sha1": "9502c6e8062d077db6555e1e3a34c3d8129ca62d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "midnight_sun_ak-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "58e5fee7d2e28d236cfb56e144b4bca0",
+      "md5": "989457af6b0c231fa5295650c0a23276",
       "summation": "md5"
     },
     {
@@ -6801,9 +6812,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 658,
-  "item_last_updated": 1667653811,
-  "item_size": 37622674,
+  "files_count": 659,
+  "item_last_updated": 1667656074,
+  "item_size": 37633864,
   "metadata": {
     "identifier": "midnight_sun_ak-2022",
     "collection": [
@@ -6820,21 +6831,15 @@
     "publicdate": "2022-09-13 01:14:49",
     "addeddate": "2022-09-13 01:14:49"
   },
-  "pending_tasks": true,
+  "midnight_sun_ak-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462845850,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 202011505,
+  "uniq": 731408689,
   "workable_servers": [
-    "ia601400.us.archive.org"
+    "ia601400.us.archive.org",
+    "ia801400.us.archive.org"
   ]
 }

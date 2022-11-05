@@ -1,8 +1,16 @@
 {
-  "created": 1667649527,
+  "created": 1667672630,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/3/items/discovery-2022",
+  "discovery-2022": {
+    "url": "https://www.discovery.com/",
+    "job_id": "spn2-1b498b0559fdcd25d4d4986550f2d1e990699e3b",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -14511,21 +14519,32 @@
       "format": "JSON"
     },
     {
+      "name": "discovery-2022-11-05T07:57:27.765513-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "discovery-2022-11-05T07:57:27.765513-04:00.jpg",
+      "mtime": "1667650181",
+      "size": "10180",
+      "md5": "32746d8ee2b7aff6dd3656a2d727addf",
+      "crc32": "759396fb",
+      "sha1": "4011c2b1589f2694d6ba029df3564feebd874979"
+    },
+    {
       "name": "discovery-2022_archive.torrent",
       "source": "metadata",
-      "btih": "23cc2031f17069a54f82acd985251f20ea84da48",
-      "mtime": "1667649522",
-      "size": "297004",
-      "md5": "e9225eb1d2ee7e19a4853338928b081d",
-      "crc32": "9245d534",
-      "sha1": "7ef533c44431f95d0ffc117e74e524c3a09509af",
+      "btih": "63cddb890a32d121e65e7d13b3de719628e7f85a",
+      "mtime": "1667650216",
+      "size": "297210",
+      "md5": "60073daf10ef73eb7b6d547790ea87a9",
+      "crc32": "ee6214ae",
+      "sha1": "1eedec3e48e3f73031dfc196ff2e704162aa86d6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "discovery-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f2a995ac3ce73e337dc8bd7b7948cd6",
+      "md5": "c5889099ba69fae33d3cc3b42464c132",
       "summation": "md5"
     },
     {
@@ -14549,9 +14568,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1404,
-  "item_last_updated": 1667649522,
-  "item_size": 86138454,
+  "files_count": 1405,
+  "item_last_updated": 1667650216,
+  "item_size": 86148840,
   "metadata": {
     "identifier": "discovery-2022",
     "collection": [
@@ -14568,21 +14587,10 @@
     "publicdate": "2022-07-04 20:47:49",
     "addeddate": "2022-07-04 20:47:49"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462796652,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1583580815,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1876354336,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

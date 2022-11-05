@@ -1,5 +1,5 @@
 {
-  "created": 1667653713,
+  "created": 1667673789,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/24/items/knockdotla-2022",
@@ -28905,21 +28905,32 @@
       "format": "JSON"
     },
     {
+      "name": "knockdotla-2022-11-05T06:06:18.224507-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "knockdotla-2022-11-05T06:06:18.224507-07:00.jpg",
+      "mtime": "1667657681",
+      "size": "9334",
+      "md5": "944fa98d29df2dec94f6e8a5d462b5b8",
+      "crc32": "1f6bb6cf",
+      "sha1": "daa4ad36a0c6dbda01a416ffdb20eaa393cc23ba"
+    },
+    {
       "name": "knockdotla-2022_archive.torrent",
       "source": "metadata",
-      "btih": "81594b93042f2f76ef5d151f8ca04e4b187cd1f6",
-      "mtime": "1667653706",
-      "size": "589295",
-      "md5": "84d758690a024ff37b8b2a9d22b51f3a",
-      "crc32": "60e32a2e",
-      "sha1": "038b0896a5ff5667e58e476b89fb0ce0a35de855",
+      "btih": "21c1a5589aed2e5ffc50bc9d04f474806a73027b",
+      "mtime": "1667657754",
+      "size": "589501",
+      "md5": "c6dc75cb3fae37194348418722a52e26",
+      "crc32": "ee031996",
+      "sha1": "6642be287ed2231ef704976ca60ea32de4651043",
       "format": "Archive BitTorrent"
     },
     {
       "name": "knockdotla-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "95e4f049a4f7fc50e4a9167c244eb087",
+      "md5": "1319b5de633d99651bf7dfbc86f3e3af",
       "summation": "md5"
     },
     {
@@ -28943,9 +28954,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2781,
-  "item_last_updated": 1667653706,
-  "item_size": 159568979,
+  "files_count": 2782,
+  "item_last_updated": 1667657754,
+  "item_size": 159578519,
+  "knockdotla-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "knockdotla-2022",
     "collection": [
@@ -28962,21 +28978,10 @@
     "publicdate": "2022-03-23 02:08:17",
     "addeddate": "2022-03-23 02:08:17"
   },
-  "pending_tasks": true,
-  "server": "ia902507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462844736,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 196571452,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1850881053,
   "workable_servers": [
+    "ia802507.us.archive.org",
     "ia902507.us.archive.org"
   ]
 }

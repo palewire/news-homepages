@@ -1,5 +1,5 @@
 {
-  "created": 1667653879,
+  "created": 1667674565,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/7/items/motherjones-2022",
@@ -23057,21 +23057,32 @@
       "format": "JSON"
     },
     {
+      "name": "motherjones-2022-11-05T06:09:17.489325-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "motherjones-2022-11-05T06:09:17.489325-07:00.jpg",
+      "mtime": "1667655909",
+      "size": "9859",
+      "md5": "ec204c53ed2d5bab18b8d64f81a4e323",
+      "crc32": "28fa5ffb",
+      "sha1": "af2f421986b83ccd437d62d42171841f5f0e59c8"
+    },
+    {
       "name": "motherjones-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cc98468921474fe8c6ccc493881569ead5427d5a",
-      "mtime": "1667653872",
-      "size": "475685",
-      "md5": "862cce6589a9da5dcc96328478b5ab46",
-      "crc32": "ac1a7f3e",
-      "sha1": "108a56c6b4a2c4916055b53119bfe2d79c963308",
+      "btih": "61259c8986090d1cb3add09d5a7568da9609967e",
+      "mtime": "1667656045",
+      "size": "475892",
+      "md5": "6e7089925645c361f9b86ce96c63e39e",
+      "crc32": "41f34b3f",
+      "sha1": "5db60816c5a2243b3bea97c548ab92d669022a42",
       "format": "Archive BitTorrent"
     },
     {
       "name": "motherjones-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f327c5202a791d9ff81153f870678f18",
+      "md5": "31ef1119c6b3329c448a10f72b899c5c",
       "summation": "md5"
     },
     {
@@ -23095,9 +23106,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2227,
-  "item_last_updated": 1667653872,
-  "item_size": 153085320,
+  "files_count": 2228,
+  "item_last_updated": 1667656045,
+  "item_size": 153095386,
   "metadata": {
     "identifier": "motherjones-2022",
     "collection": [
@@ -23114,21 +23125,15 @@
     "publicdate": "2022-06-18 17:10:05",
     "addeddate": "2022-06-18 17:10:05"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462846456,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1568143887,
+  "motherjones-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia802500.us.archive.org",
+  "uniq": 22241172,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

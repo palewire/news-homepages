@@ -1,5 +1,5 @@
 {
-  "created": 1667645991,
+  "created": 1667665753,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/ctmagazine-2022",
@@ -9151,21 +9151,32 @@
       "format": "JSON"
     },
     {
+      "name": "ctmagazine-2022-11-05T05:58:43.617984-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ctmagazine-2022-11-05T05:58:43.617984-05:00.jpg",
+      "mtime": "1667646811",
+      "size": "8476",
+      "md5": "67f883a33b76ae74a87a1a040d2ace20",
+      "crc32": "00774871",
+      "sha1": "2ed693a7c6d8fadeeedf070a61447fb06df75167"
+    },
+    {
       "name": "ctmagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3a0bc5e82875049ea7686212e2b6005ea87d20f2",
-      "mtime": "1667645984",
-      "size": "189051",
-      "md5": "c55c408dcdc09af1fe96527cc321222c",
-      "crc32": "dd5c653f",
-      "sha1": "bf760cec4b7c37c69934fcddd5b7280dd7c78d8b",
+      "btih": "11b967ff4d368f332ffbec66050c557e9953c93c",
+      "mtime": "1667646841",
+      "size": "189257",
+      "md5": "6c506812d7cc352e4a1e2135bba17f77",
+      "crc32": "4ae71bb5",
+      "sha1": "feb59dda42c6b1b995aa42fec190107ef53a34b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctmagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "31efa5f749a677c28f91fabfd7b5ede8",
+      "md5": "77d051dfb6c1153fc2ea25e40e1dde32",
       "summation": "md5"
     },
     {
@@ -9189,9 +9200,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 889,
-  "item_last_updated": 1667645984,
-  "item_size": 52728028,
+  "files_count": 890,
+  "item_last_updated": 1667646841,
+  "item_size": 52736710,
   "metadata": {
     "identifier": "ctmagazine-2022",
     "collection": [
@@ -9208,21 +9219,10 @@
     "publicdate": "2022-08-23 23:00:18",
     "addeddate": "2022-08-23 23:00:18"
   },
-  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462756299,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1458771049,
+  "uniq": 1918362537,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

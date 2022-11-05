@@ -1,5 +1,5 @@
 {
-  "created": 1667620198,
+  "created": 1667676284,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/12/items/slate-2022",
@@ -21764,31 +21764,93 @@
       "sha1": "c9c2088662f0796337ccbdf1541a93b1542ae9fd"
     },
     {
+      "name": "slate-2022-11-05T11:01:25.196525-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667660500",
+      "size": "21833",
+      "md5": "d9491dcaf7430631df715b7a495af749",
+      "crc32": "fc3c1c23",
+      "sha1": "aaf73d1c2e431b30d7f7041e2de0719560a2334e",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-11-05T11:01:25.196525-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667660502",
+      "size": "31152",
+      "md5": "f7d772aa592fd90685588a1375bd3634",
+      "crc32": "c8ad85d2",
+      "sha1": "ce78cd31f010565eb7440c5b6bbfac7675becb26",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-11-05T11:01:25.196525-04:00.jpg",
+      "source": "original",
+      "mtime": "1667660498",
+      "size": "222201",
+      "md5": "03e493efbdbdbe521156a4aa9b860f67",
+      "crc32": "f7fbb774",
+      "sha1": "d55596b9347b9da34e50ac03e14754df3707b429",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "slate-2022-11-05T11:01:25.196525-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667660505",
+      "size": "1413",
+      "md5": "18a5028f0838c59692c90826c3da006d",
+      "crc32": "0fca6a47",
+      "sha1": "b33bff58e9088a0129cf294f12b941d6a8b7455d",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-11-05T11:01:25.196525-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667660507",
+      "size": "198",
+      "md5": "cf017a173642a6b733e4b6f67966dc31",
+      "crc32": "35c364c0",
+      "sha1": "3e0ffc4f6dc64c8e4430511f783e38e2865bb69f",
+      "format": "JSON"
+    },
+    {
+      "name": "slate-2022-11-05T11:01:25.196525-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "slate-2022-11-05T11:01:25.196525-04:00.jpg",
+      "mtime": "1667660789",
+      "size": "9359",
+      "md5": "5bb21109346f0a13d6656db0f3cdab8a",
+      "crc32": "272378ec",
+      "sha1": "3062d308653b138da479ea7f0a76f3766dec0804"
+    },
+    {
       "name": "slate-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e42b1ce5766759addc67ee2a75c2701fb01e3e10",
-      "mtime": "1667620110",
-      "size": "436153",
-      "md5": "7e14cd7d16370dbbb2ab7488285b4a73",
-      "crc32": "c1d027c0",
-      "sha1": "c8da405c2771c214e1b54fb90413723b87c4ad65",
+      "btih": "0984f30667cc199d87b1e3b5108303615ded18bd",
+      "mtime": "1667660842",
+      "size": "437400",
+      "md5": "b455be09ef436a354964cc75c41745f2",
+      "crc32": "67f85984",
+      "sha1": "4b1a269e905813682e7533b6cedbee8afe7f51de",
       "format": "Archive BitTorrent"
     },
     {
       "name": "slate-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e6f58a92c017a1965bf9e9484bc21c50",
+      "md5": "e4ae6e7df6caa1855a5ec170ecf73678",
       "summation": "md5"
     },
     {
       "name": "slate-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667618911",
-      "size": "2617344",
-      "md5": "9f7201e40c01db874457ec6460b8102d",
-      "crc32": "29155754",
-      "sha1": "812b6d6f99876f325681695347c19bcb87c9d7f3",
+      "mtime": "1667660530",
+      "size": "2621440",
+      "md5": "1b0b0ccdf812fc496b34668c6c1867a9",
+      "crc32": "9c6e73c3",
+      "sha1": "3a81aced8f4b365feee64cabc47b600513024312",
       "format": "Metadata"
     },
     {
@@ -21802,9 +21864,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2103,
-  "item_last_updated": 1667620110,
-  "item_size": 136614240,
+  "files_count": 2109,
+  "item_last_updated": 1667660842,
+  "item_size": 136905739,
   "metadata": {
     "identifier": "slate-2022",
     "collection": [
@@ -21822,7 +21884,15 @@
     "addeddate": "2022-06-24 23:01:12"
   },
   "server": "ia801405.us.archive.org",
-  "uniq": 1426205850,
+  "slate-2022": {
+    "url": "https://slate.com/",
+    "job_id": "spn2-c94e53198f17c7c593ebe6ebf79473a77fa3d891",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "uniq": 1439896184,
   "workable_servers": [
     "ia801405.us.archive.org",
     "ia601405.us.archive.org"

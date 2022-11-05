@@ -1,5 +1,5 @@
 {
-  "created": 1667629346,
+  "created": 1667675408,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/pjstar-2022",
@@ -5659,21 +5659,32 @@
       "format": "JSON"
     },
     {
+      "name": "pjstar-2022-11-05T01:20:53.067152-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pjstar-2022-11-05T01:20:53.067152-05:00.jpg",
+      "mtime": "1667630270",
+      "size": "9414",
+      "md5": "94c04e7ae34f3b6dbaceb94a8ba9e820",
+      "crc32": "38a824dd",
+      "sha1": "7ce46cfc4398c075357326e11515521e3a995b55"
+    },
+    {
       "name": "pjstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a04bb75e5750940b10846f779fb90783aa792e14",
-      "mtime": "1667629339",
-      "size": "115402",
-      "md5": "7a44c9cb99c890359a968713ac5829e4",
-      "crc32": "b4153332",
-      "sha1": "8ef62f93739eda858c153c64105aa7a4378c9d2c",
+      "btih": "b3760ca68f17ffd97bac243caea79e0c21f86575",
+      "mtime": "1667630276",
+      "size": "115604",
+      "md5": "8c8b9636f2ea27848352073689e4762f",
+      "crc32": "9dde2024",
+      "sha1": "4e3b6466d35285b0b9e727c8145d76231af2e3ed",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pjstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c578571360ef5c2e4706b3b9feff9284",
+      "md5": "25c7bf01da0f19c6f17f4defcb916986",
       "summation": "md5"
     },
     {
@@ -5697,9 +5708,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 551,
-  "item_last_updated": 1667629339,
-  "item_size": 38291334,
+  "files_count": 552,
+  "item_last_updated": 1667630276,
+  "item_size": 38300950,
   "metadata": {
     "identifier": "pjstar-2022",
     "collection": [
@@ -5716,21 +5727,15 @@
     "publicdate": "2022-09-20 19:10:36",
     "addeddate": "2022-09-20 19:10:36"
   },
-  "pending_tasks": true,
+  "pjstar-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462581554,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1969003490,
+  "uniq": 566312715,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

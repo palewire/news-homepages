@@ -1,5 +1,5 @@
 {
-  "created": 1667620397,
+  "created": 1667677382,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/5/items/tw_nextmedia-2022",
@@ -11694,31 +11694,93 @@
       "sha1": "b39559ca4963d9fcc219a78fb1e5115d1f79e570"
     },
     {
+      "name": "tw_nextmedia-2022-11-05T23:08:08.925461+08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667660898",
+      "size": "24135",
+      "md5": "79309108f7b6f69614719476dbf544b8",
+      "crc32": "2a03894c",
+      "sha1": "34617ce6bf9f97bf4bc5004df8ea8c5f2df543ad",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-11-05T23:08:08.925461+08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667660900",
+      "size": "77599",
+      "md5": "9a73f3b77c759ad3831a8dcaa66c9b43",
+      "crc32": "d8382ce9",
+      "sha1": "4bcbb49a5d5c6d258d1394952b7a9d256447c417",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-11-05T23:08:08.925461+08:00.jpg",
+      "source": "original",
+      "mtime": "1667660896",
+      "size": "359305",
+      "md5": "0c2fb5777abafae9e2ffb1da9852a730",
+      "crc32": "80e9f4e2",
+      "sha1": "2d6c38da03443065db3f2b194e39b676e1c4a599",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tw_nextmedia-2022-11-05T23:08:08.925461+08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667660902",
+      "size": "1486",
+      "md5": "0b5a6961d8b079bf98526e8e0a514bcb",
+      "crc32": "f18c7924",
+      "sha1": "1bdde4d4b742c75eee44c743c93342ca5762cdea",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-11-05T23:08:08.925461+08:00.wayback.json",
+      "source": "original",
+      "mtime": "1667660905",
+      "size": "233",
+      "md5": "bcd4bc01cec84ebd5ca06227c6b53b9e",
+      "crc32": "ed052a4e",
+      "sha1": "51fb0b99ef45aaedf324bb5d10462c83e3498517",
+      "format": "JSON"
+    },
+    {
+      "name": "tw_nextmedia-2022-11-05T23:08:08.925461+08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tw_nextmedia-2022-11-05T23:08:08.925461+08:00.jpg",
+      "mtime": "1667661241",
+      "size": "11515",
+      "md5": "bc4ff568a31619454a4674d1d11e2821",
+      "crc32": "8be80d9a",
+      "sha1": "1ca4182d958af218957475b3614347e43e37fbdd"
+    },
+    {
       "name": "tw_nextmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "99b8f8e832e0ae0f2fde72b833e9ce0f0c770cd6",
-      "mtime": "1667620356",
-      "size": "244655",
-      "md5": "d5d62c1e83c134f53218341ff1dbbe19",
-      "crc32": "878a22f2",
-      "sha1": "16dd1155fc4a42b02ea0b8ee2e798f8a45d2a399",
+      "btih": "4c6678cbd11369739b3658d74d8216ce22d689b7",
+      "mtime": "1667661323",
+      "size": "245945",
+      "md5": "d367ce5eeb4adf41c594699028e6b77c",
+      "crc32": "08421bb9",
+      "sha1": "9ae32f8f511c2a8fb8a78f4571331e7c8b9ccfd5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tw_nextmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "01c55ecf87e55399ddb1be60ae91949f",
+      "md5": "d68e5bf19121b895fb0a87a8287e5273",
       "summation": "md5"
     },
     {
       "name": "tw_nextmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667619151",
-      "size": "1454080",
-      "md5": "d27b95a8e7fa688f198ccc3db19d3dc9",
-      "crc32": "0a48dcf0",
-      "sha1": "e6443dfa386168bc5b02645738a8be353772d9b9",
+      "mtime": "1667660911",
+      "size": "1466368",
+      "md5": "d258d62810ef29eb899806ab14882e4d",
+      "crc32": "030db439",
+      "sha1": "02fc71d28c4a72792f3917d4da657a058ca01b8e",
       "format": "Metadata"
     },
     {
@@ -11732,9 +11794,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1135,
-  "item_last_updated": 1667620356,
-  "item_size": 92961263,
+  "files_count": 1141,
+  "item_last_updated": 1667661323,
+  "item_size": 93449114,
   "metadata": {
     "identifier": "tw_nextmedia-2022",
     "collection": [
@@ -11752,7 +11814,12 @@
     "addeddate": "2022-08-02 14:49:08"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 15894278,
+  "tw_nextmedia-2022": {
+    "url": "https://tw.appledaily.com/",
+    "job_id": "spn2-7f537d38f8a45fec16ae77eeeba746ec439078f1",
+    "message": "The same snapshot had been made 14 minutes, 25 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "uniq": 508574025,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

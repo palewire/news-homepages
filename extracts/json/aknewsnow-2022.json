@@ -1,5 +1,5 @@
 {
-  "created": 1667645665,
+  "created": 1667664839,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/aknewsnow-2022",
@@ -6649,21 +6649,32 @@
       "format": "JSON"
     },
     {
+      "name": "aknewsnow-2022-11-05T02:53:15.666866-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aknewsnow-2022-11-05T02:53:15.666866-08:00.jpg",
+      "mtime": "1667646501",
+      "size": "10861",
+      "md5": "06a099890a3e3747c30444f3ba7846a3",
+      "crc32": "c48ae1aa",
+      "sha1": "85693fc92b77a1fc27167c840b7aae18fdb3dc16"
+    },
+    {
       "name": "aknewsnow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b73f72a9c8ceaf44012952c9c7dbd86b0240df5c",
-      "mtime": "1667645660",
-      "size": "137793",
-      "md5": "8d7d1b2f08231c74b820a6f41551b760",
-      "crc32": "d391b86a",
-      "sha1": "313c853214009aef623855466d10cbe0b9b173b9",
+      "btih": "32596c03157b219813c5b894e3da29f6ab614684",
+      "mtime": "1667646511",
+      "size": "137999",
+      "md5": "d904e97135c3b9e4de805d353eab29a4",
+      "crc32": "defcbaed",
+      "sha1": "db170f7484ec8b58bca4d7c032d76c898528a763",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aknewsnow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c538c1937ea97c0c5713c0e805054f64",
+      "md5": "9f7ede26b04f57111da0363349efeb24",
       "summation": "md5"
     },
     {
@@ -6687,9 +6698,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 647,
-  "item_last_updated": 1667645660,
-  "item_size": 53817246,
+  "files_count": 648,
+  "item_last_updated": 1667646511,
+  "item_size": 53828313,
   "metadata": {
     "identifier": "aknewsnow-2022",
     "collection": [
@@ -6706,21 +6717,10 @@
     "publicdate": "2022-09-12 22:57:53",
     "addeddate": "2022-09-12 22:57:53"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462752896,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 506871870,
+  "uniq": 1045948927,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

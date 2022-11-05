@@ -1,5 +1,13 @@
 {
-  "created": 1667646054,
+  "capitolnewsil-2022": {
+    "url": "https://www.capitolnewsillinois.com/",
+    "job_id": "spn2-40b25d570d96c5c86b5c9af942551e90cc923ffd",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
+  "created": 1667671797,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/12/items/capitolnewsil-2022",
@@ -14037,21 +14045,32 @@
       "format": "JSON"
     },
     {
+      "name": "capitolnewsil-2022-11-05T05:58:50.231131-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "capitolnewsil-2022-11-05T05:58:50.231131-05:00.jpg",
+      "mtime": "1667646864",
+      "size": "9785",
+      "md5": "8b9ca3004621a8c62f39db5f95d702e8",
+      "crc32": "fbf66ddb",
+      "sha1": "94d8bf807d432f4bf2c73bbcafb4ea29f9b1fa8b"
+    },
+    {
       "name": "capitolnewsil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "180a4ab60defb37578020a7dbb77b55202cafc30",
-      "mtime": "1667646046",
-      "size": "292805",
-      "md5": "06b76dfdab8a99a0e224e0edb1ef8849",
-      "crc32": "0f1a807a",
-      "sha1": "98de6028c9cab0038c4ee283e289269f96ae0718",
+      "btih": "cb20b6767458d53566b94b44952d1bc4efc0bef0",
+      "mtime": "1667646881",
+      "size": "293014",
+      "md5": "a5a41a43d31ce1c6ee3b27a70671eb94",
+      "crc32": "22751084",
+      "sha1": "d684ce72097c92edad954b416a477b6243d4bdf9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitolnewsil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ed475e218a84ab60ad740a6ab7b3b701",
+      "md5": "e9ade1f1fb8c441b93ae7bf7f0e7125d",
       "summation": "md5"
     },
     {
@@ -14075,9 +14094,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1359,
-  "item_last_updated": 1667646046,
-  "item_size": 86556729,
+  "files_count": 1360,
+  "item_last_updated": 1667646881,
+  "item_size": 86566723,
   "metadata": {
     "identifier": "capitolnewsil-2022",
     "collection": [
@@ -14094,21 +14113,10 @@
     "publicdate": "2022-07-09 03:56:30",
     "addeddate": "2022-07-09 03:56:30"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462757422,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1975802093,
+  "server": "ia801505.us.archive.org",
+  "uniq": 1471607842,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

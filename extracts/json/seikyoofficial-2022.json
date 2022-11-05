@@ -1,5 +1,5 @@
 {
-  "created": 1667629599,
+  "created": 1667673002,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/9/items/seikyoofficial-2022",
@@ -20621,21 +20621,32 @@
       "format": "JSON"
     },
     {
+      "name": "seikyoofficial-2022-11-05T15:24:58.224915+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "seikyoofficial-2022-11-05T15:24:58.224915+09:00.jpg",
+      "mtime": "1667630171",
+      "size": "8879",
+      "md5": "d3bfdd81aefb72c1da1d813ae417c58a",
+      "crc32": "ecbb8b9c",
+      "sha1": "c2b97ec64ccae93a6c749070be24138e921c1139"
+    },
+    {
       "name": "seikyoofficial-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d2823e61432595cab66cc182c4b44c3d1cecd2b9",
-      "mtime": "1667629594",
-      "size": "432002",
-      "md5": "e012ccd052555f40203f577bf266b315",
-      "crc32": "7ce3f144",
-      "sha1": "8be252b0ad0f7310eb2718be00383ba680700f9a",
+      "btih": "ba8d15d71a704e57b42e662d547ab26431c281c1",
+      "mtime": "1667630258",
+      "size": "432212",
+      "md5": "685ce500af598caf5420296cb63f4ecb",
+      "crc32": "3f929442",
+      "sha1": "f61115441d378eefbf1cfd7fbc8caba3f5acd9ef",
       "format": "Archive BitTorrent"
     },
     {
       "name": "seikyoofficial-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3b345d87878f26687722a3b39185fe14",
+      "md5": "cbbed3f03a3f9485e7c5d4641fe10efb",
       "summation": "md5"
     },
     {
@@ -20659,9 +20670,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1995,
-  "item_last_updated": 1667629594,
-  "item_size": 132420151,
+  "files_count": 1996,
+  "item_last_updated": 1667630258,
+  "item_size": 132429240,
   "metadata": {
     "identifier": "seikyoofficial-2022",
     "collection": [
@@ -20678,21 +20689,10 @@
     "publicdate": "2022-07-09 02:39:13",
     "addeddate": "2022-07-09 02:39:13"
   },
-  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462584222,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 87611852,
+  "uniq": 839284073,
   "workable_servers": [
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

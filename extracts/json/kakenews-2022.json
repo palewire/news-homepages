@@ -1,5 +1,5 @@
 {
-  "created": 1667653468,
+  "created": 1667673706,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/15/items/kakenews-2022",
@@ -11507,21 +11507,32 @@
       "format": "JSON"
     },
     {
+      "name": "kakenews-2022-11-05T08:03:08.149904-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kakenews-2022-11-05T08:03:08.149904-05:00.jpg",
+      "mtime": "1667654730",
+      "size": "11043",
+      "md5": "7f5bb84c1677e436735697bf282f558f",
+      "crc32": "4fef4b18",
+      "sha1": "a17ec2db5d5354752dd89d614cbdd455cc6c38cc"
+    },
+    {
       "name": "kakenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2135165519a0b41edd32d3cc22183a57b25652d6",
-      "mtime": "1667653460",
-      "size": "235280",
-      "md5": "a5ae16f6dec03163d485392e1f76b3e2",
-      "crc32": "c8d99c4c",
-      "sha1": "898177a2f784f892794c9549040ddfa15d83df6c",
+      "btih": "c29849b0e822b9f366d1d8e7c5f32b25cbefa011",
+      "mtime": "1667654760",
+      "size": "235485",
+      "md5": "685141bbe922818fd47fcd866e5d8279",
+      "crc32": "7ca220ea",
+      "sha1": "d366b3de92f8dae09e20f91870c5b470697c9c99",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kakenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fc1793b07467c9666730f292addf0bd0",
+      "md5": "5b33a563bca95b4eb9e38985a422d0da",
       "summation": "md5"
     },
     {
@@ -11545,9 +11556,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1116,
-  "item_last_updated": 1667653460,
-  "item_size": 74541899,
+  "files_count": 1117,
+  "item_last_updated": 1667654760,
+  "item_size": 74553147,
+  "kakenews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kakenews-2022",
     "collection": [
@@ -11564,21 +11580,10 @@
     "publicdate": "2022-08-03 18:53:30",
     "addeddate": "2022-08-03 18:53:30"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462841304,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1907137452,
+  "server": "ia801503.us.archive.org",
+  "uniq": 167695637,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

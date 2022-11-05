@@ -1,5 +1,5 @@
 {
-  "created": 1667630000,
+  "created": 1667678300,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/19/items/zerohedge-2022",
@@ -19141,21 +19141,32 @@
       "format": "JSON"
     },
     {
+      "name": "zerohedge-2022-11-05T02:30:39.073855-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zerohedge-2022-11-05T02:30:39.073855-04:00.jpg",
+      "mtime": "1667631418",
+      "size": "9250",
+      "md5": "8d2093d332d6e2bdf0ef11695d2c599f",
+      "crc32": "674e2491",
+      "sha1": "2458d4f99b23cf7df629fb18139f844b801ae2a2"
+    },
+    {
       "name": "zerohedge-2022_archive.torrent",
       "source": "metadata",
-      "btih": "350cb9fa8c5dc4a59628e5fb082843085fb7b53a",
-      "mtime": "1667629959",
-      "size": "391722",
-      "md5": "37166b04967812a5d4584293fbb328a5",
-      "crc32": "571e3301",
-      "sha1": "e93b2fb5927d64fb1ac0b5b2372c4fe76b1b47d4",
+      "btih": "38b11c66423704d84faaca119dfcc44aac8855c3",
+      "mtime": "1667631448",
+      "size": "391927",
+      "md5": "69195fdd31cf75d6bf283d8621bea349",
+      "crc32": "48c29968",
+      "sha1": "81c3be1c637980b49cacb542fdebbd2d57939530",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zerohedge-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9d4637d69b6904b122c36415b32962d8",
+      "md5": "cbb694a721f545e5c0aa5104580b3447",
       "summation": "md5"
     },
     {
@@ -19179,9 +19190,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1854,
-  "item_last_updated": 1667629959,
-  "item_size": 110970535,
+  "files_count": 1855,
+  "item_last_updated": 1667631448,
+  "item_size": 110979990,
   "metadata": {
     "identifier": "zerohedge-2022",
     "collection": [
@@ -19198,21 +19209,10 @@
     "publicdate": "2022-07-17 15:04:04",
     "addeddate": "2022-07-17 15:04:04"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462588930,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 581581146,
+  "uniq": 1231150005,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

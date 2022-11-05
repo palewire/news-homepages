@@ -1,5 +1,5 @@
 {
-  "created": 1667629635,
+  "created": 1667676781,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/13/items/theheraldtimes-2022",
@@ -5677,21 +5677,32 @@
       "format": "JSON"
     },
     {
+      "name": "theheraldtimes-2022-11-05T02:26:16.421110-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "theheraldtimes-2022-11-05T02:26:16.421110-04:00.jpg",
+      "mtime": "1667630332",
+      "size": "9965",
+      "md5": "048cb7ed5c58abebb4846c94b6359c3f",
+      "crc32": "cac13d0a",
+      "sha1": "b6f38eba407daa7613b1a29bc3d3452e6c75fb70"
+    },
+    {
       "name": "theheraldtimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "71a620057f9dad6e1c68a33d77650fb523d5c362",
-      "mtime": "1667629631",
-      "size": "120285",
-      "md5": "42d65bc7c1cc2a098ae47a0e7da67bc4",
-      "crc32": "75f5e55d",
-      "sha1": "b0c3a81d8ca790b823780820dd114dcae4d2686e",
+      "btih": "d7dde4bc2f872cd143bc5f1a64db0bbc18e784ad",
+      "mtime": "1667630345",
+      "size": "120495",
+      "md5": "400bcdd7156baaf0ab97c06a342fb8f2",
+      "crc32": "9e30c2d2",
+      "sha1": "6df90d410f8a47187ac5a093f857e9e8b35a83c0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theheraldtimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e920b7bfd7f66a23c1795a62157565c1",
+      "md5": "4dc6848355099e53a1739de3878d0087",
       "summation": "md5"
     },
     {
@@ -5715,9 +5726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 553,
-  "item_last_updated": 1667629631,
-  "item_size": 38021273,
+  "files_count": 554,
+  "item_last_updated": 1667630345,
+  "item_size": 38031448,
   "metadata": {
     "identifier": "theheraldtimes-2022",
     "collection": [
@@ -5734,21 +5745,18 @@
     "publicdate": "2022-09-20 19:30:35",
     "addeddate": "2022-09-20 19:30:35"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462584683,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1832135646,
+  "server": "ia801500.us.archive.org",
+  "theheraldtimes-2022": {
+    "url": "https://www.heraldtimesonline.com/",
+    "job_id": "spn2-cacf3ec8dc62027ee15ad1d80ecf05c5a020e714",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "uniq": 1937509801,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

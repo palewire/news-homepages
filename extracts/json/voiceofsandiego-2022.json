@@ -1,5 +1,5 @@
 {
-  "created": 1667629836,
+  "created": 1667677759,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/18/items/voiceofsandiego-2022",
@@ -28521,21 +28521,32 @@
       "format": "JSON"
     },
     {
+      "name": "voiceofsandiego-2022-11-04T23:28:51.425253-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voiceofsandiego-2022-11-04T23:28:51.425253-07:00.jpg",
+      "mtime": "1667630732",
+      "size": "10879",
+      "md5": "a91d30872821e049136f0c11312e9c23",
+      "crc32": "c14f6427",
+      "sha1": "ecfc004c03347836f3ece8c3ba388c369302be5d"
+    },
+    {
       "name": "voiceofsandiego-2022_archive.torrent",
       "source": "metadata",
-      "btih": "104acb8a0d764374b2d11b7ef1de7efb4422570c",
-      "mtime": "1667629831",
-      "size": "597663",
-      "md5": "729034046a9fbf865292dee60228aa22",
-      "crc32": "9fd4492d",
-      "sha1": "a103d173edd9d91598338a3389d90015ec6fd066",
+      "btih": "23f66a4d2ddea35168244916023f1053c84ae7e7",
+      "mtime": "1667630928",
+      "size": "597875",
+      "md5": "f530d531956e62c735700573ba7bf234",
+      "crc32": "cf12da1c",
+      "sha1": "d22566029bb89dc3bb3df225c312b0e27ad75bcf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voiceofsandiego-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cfef65624903f3d3745081c515f826cd",
+      "md5": "41a6fbe6769f7d04f17bd4f90f425b27",
       "summation": "md5"
     },
     {
@@ -28559,9 +28570,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2745,
-  "item_last_updated": 1667629831,
-  "item_size": 200764380,
+  "files_count": 2746,
+  "item_last_updated": 1667630928,
+  "item_size": 200775471,
   "metadata": {
     "identifier": "voiceofsandiego-2022",
     "collection": [
@@ -28578,21 +28589,15 @@
     "publicdate": "2022-03-26 02:09:17",
     "addeddate": "2022-03-26 02:09:17"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462586858,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 796317786,
+  "uniq": 1449350022,
+  "voiceofsandiego-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

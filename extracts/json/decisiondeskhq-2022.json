@@ -1,6 +1,5 @@
 {
-  "conflict": 1667649887,
-  "created": 1667649887,
+  "created": 1667650234,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/26/items/decisiondeskhq-2022",
@@ -14551,24 +14550,29 @@
       "name": "decisiondeskhq-2022-11-05T07:55:38.007356-04:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "decisiondeskhq-2022-11-05T07:55:38.007356-04:00.jpg"
+      "original": "decisiondeskhq-2022-11-05T07:55:38.007356-04:00.jpg",
+      "mtime": "1667649884",
+      "size": "8066",
+      "md5": "eb620f3be7e7fd2c2ac62c37ca8fa2df",
+      "crc32": "10e4fa98",
+      "sha1": "4aedae2ca45d70944e2607362fd9ff1862acdf87"
     },
     {
       "name": "decisiondeskhq-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5baf10f6ad75994fbba18b1467404328ec8a001f",
-      "mtime": "1667649409",
-      "size": "304667",
-      "md5": "71f77e3245751962f744fdb640261b4e",
-      "crc32": "f206b289",
-      "sha1": "9a43db61647bc75c96fdc52c3e77ea1dbcadbdea",
+      "btih": "7ef769f43b3e1eb034479ee1404c3e11b8b5ead6",
+      "mtime": "1667649906",
+      "size": "304877",
+      "md5": "e55bbab7e76ac4d3396eb157a816a131",
+      "crc32": "5c8b3431",
+      "sha1": "dba677244c4cd6e9049753cf521cddcc97ee691d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "decisiondeskhq-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e276c5d07143813de30d679236028a44",
+      "md5": "3849a65593f82bfa63542d1751e4ec28",
       "summation": "md5"
     },
     {
@@ -14593,8 +14597,8 @@
     }
   ],
   "files_count": 1409,
-  "item_last_updated": 1667649409,
-  "item_size": 88490764,
+  "item_last_updated": 1667649906,
+  "item_size": 88499040,
   "metadata": {
     "identifier": "decisiondeskhq-2022",
     "collection": [
@@ -14611,21 +14615,10 @@
     "publicdate": "2022-07-04 20:47:15",
     "addeddate": "2022-07-04 20:47:15"
   },
-  "pending_tasks": true,
-  "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462795313,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1293631113,
+  "server": "ia802504.us.archive.org",
+  "uniq": 1444704026,
   "workable_servers": [
+    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

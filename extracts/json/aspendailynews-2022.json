@@ -1,5 +1,10 @@
 {
-  "created": 1667645833,
+  "aspendailynews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671150,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/14/items/aspendailynews-2022",
@@ -9411,21 +9416,32 @@
       "format": "JSON"
     },
     {
+      "name": "aspendailynews-2022-11-05T04:56:01.617206-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aspendailynews-2022-11-05T04:56:01.617206-06:00.jpg",
+      "mtime": "1667646695",
+      "size": "8216",
+      "md5": "0b19554a7b44c6d67a065b4112386f8b",
+      "crc32": "72a001f3",
+      "sha1": "6a019d1cb8b1ba373a55f4208a9e1ae5c48b7f0a"
+    },
+    {
       "name": "aspendailynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a12d06fc203eac716f2411a4b292ee6c6ab73396",
-      "mtime": "1667645826",
-      "size": "198265",
-      "md5": "f48e83957ee523a96907997506411cd6",
-      "crc32": "e7f5ce39",
-      "sha1": "4de21c27d2662853340d9022da1af4a52f2e09be",
+      "btih": "e8faba7dc6b6470dd47bc260dc7ea6d32ed7a125",
+      "mtime": "1667646753",
+      "size": "198475",
+      "md5": "22167edf9cb8e3b7fd20a7498388ae16",
+      "crc32": "2b58184a",
+      "sha1": "03689816f97b8b64ded62cb7461eb39e2ed8df22",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aspendailynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "12f494c7c767b940617ea1cc4d12fa76",
+      "md5": "9b10f786686b2484a33db90f20094305",
       "summation": "md5"
     },
     {
@@ -9449,9 +9465,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 914,
-  "item_last_updated": 1667645826,
-  "item_size": 61511609,
+  "files_count": 915,
+  "item_last_updated": 1667646753,
+  "item_size": 61520035,
   "metadata": {
     "identifier": "aspendailynews-2022",
     "collection": [
@@ -9468,21 +9484,10 @@
     "publicdate": "2022-08-22 10:53:39",
     "addeddate": "2022-08-22 10:53:39"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462754684,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1412456374,
+  "server": "ia801500.us.archive.org",
+  "uniq": 444938948,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

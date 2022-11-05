@@ -1,5 +1,5 @@
 {
-  "created": 1667629854,
+  "created": 1667678249,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/9/items/ydrcom-2022",
@@ -5709,21 +5709,32 @@
       "format": "JSON"
     },
     {
+      "name": "ydrcom-2022-11-05T02:29:50.684090-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ydrcom-2022-11-05T02:29:50.684090-04:00.jpg",
+      "mtime": "1667631004",
+      "size": "9692",
+      "md5": "c76f7bd322ea4cb0ab325a35f309fdae",
+      "crc32": "852cca89",
+      "sha1": "a5b634c4941ed3e76d279e454f60e846bd6fb2b2"
+    },
+    {
       "name": "ydrcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f4e826881f6383630316f714180ea3ff909d07c2",
-      "mtime": "1667629846",
-      "size": "116353",
-      "md5": "dd540aff59390a42b754b7f2cec69dc5",
-      "crc32": "f771791e",
-      "sha1": "9749906d28380720bd86451928bb871f5d5aa0c6",
+      "btih": "3f1932a4c38c6b154885e95771bbc33ba21ab6b7",
+      "mtime": "1667631026",
+      "size": "116555",
+      "md5": "aae332b9199362057d87d2cad057cb4c",
+      "crc32": "fe3f89bc",
+      "sha1": "7b1ea8197807171fc44436cced00f862460779dd",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ydrcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a97f66d465a793f7032faef03982c7e",
+      "md5": "37479fadb9a799ad94c55ad66f4e4669",
       "summation": "md5"
     },
     {
@@ -5747,9 +5758,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 556,
-  "item_last_updated": 1667629846,
-  "item_size": 36409928,
+  "files_count": 557,
+  "item_last_updated": 1667631026,
+  "item_size": 36419822,
   "metadata": {
     "identifier": "ydrcom-2022",
     "collection": [
@@ -5766,21 +5777,14 @@
     "publicdate": "2022-09-20 19:31:00",
     "addeddate": "2022-09-20 19:31:00"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462587035,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 239476867,
+  "uniq": 1764764736,
   "workable_servers": [
-    "ia601505.us.archive.org"
-  ]
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
+  ],
+  "ydrcom-2022": {
+    "url": "https://www.ydr.com/",
+    "job_id": "spn2-769d28aaa4acd161acf333c12bb19b5e2a7da016"
+  }
 }

@@ -1,5 +1,10 @@
 {
-  "created": 1667645826,
+  "arkbusiness-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671085,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/10/items/arkbusiness-2022",
@@ -6743,21 +6748,32 @@
       "format": "JSON"
     },
     {
+      "name": "arkbusiness-2022-11-05T05:56:01.482241-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkbusiness-2022-11-05T05:56:01.482241-05:00.jpg",
+      "mtime": "1667646690",
+      "size": "10046",
+      "md5": "e5a5a7332e4fd3fb464c891262b312df",
+      "crc32": "b7f4036a",
+      "sha1": "45a1625514f5d3853d632d8c503ba8233ae55429"
+    },
+    {
       "name": "arkbusiness-2022_archive.torrent",
       "source": "metadata",
-      "btih": "36ca80eaa8dcf9fd2115cb7455113f61ceb48135",
-      "mtime": "1667645822",
-      "size": "140606",
-      "md5": "bc7506074bd9959eafa25514e3141934",
-      "crc32": "72ad05f5",
-      "sha1": "4473e3e3eafc14139e9aef2919910b7d7121d63e",
+      "btih": "85615b82c0c6afa49ff356b834b9a6d66ee8ef5a",
+      "mtime": "1667646705",
+      "size": "140814",
+      "md5": "13c2af6d4350983fd6b060101a77f59e",
+      "crc32": "98e7dba1",
+      "sha1": "d06090be894890dbf3f213832ab908fe91174985",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arkbusiness-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1ef8e243a2b278805c73fd0eefe441ee",
+      "md5": "b9c66abbfd23b75eb4f51c76948e99a7",
       "summation": "md5"
     },
     {
@@ -6781,9 +6797,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 656,
-  "item_last_updated": 1667645822,
-  "item_size": 46625583,
+  "files_count": 657,
+  "item_last_updated": 1667646705,
+  "item_size": 46635837,
   "metadata": {
     "identifier": "arkbusiness-2022",
     "collection": [
@@ -6800,21 +6816,10 @@
     "publicdate": "2022-09-12 11:05:02",
     "addeddate": "2022-09-12 11:05:02"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462754606,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1494857496,
+  "server": "ia801405.us.archive.org",
+  "uniq": 292761514,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667645976,
+  "created": 1667650669,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/27/items/calmatters-2022",
@@ -13079,21 +13079,32 @@
       "format": "JSON"
     },
     {
+      "name": "calmatters-2022-11-05T03:58:21.864845-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "calmatters-2022-11-05T03:58:21.864845-07:00.jpg",
+      "mtime": "1667647015",
+      "size": "10138",
+      "md5": "0fd7234e462469a475dc7dfc7e8774cc",
+      "crc32": "7539c97b",
+      "sha1": "35a919e1166cf314b9f1db5d6b828a523fb73fc2"
+    },
+    {
       "name": "calmatters-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4513243de863ff1d0d5d5c8e3f002c56e69ed2b3",
-      "mtime": "1667645971",
-      "size": "270241",
-      "md5": "2bdb62fee29fc3d9c170da37cf4f6b62",
-      "crc32": "7533886c",
-      "sha1": "979723883e4584790a1fb7ac54464dee9195a449",
+      "btih": "0a3a37a4f62334108ab276091ccd20ef7672e68f",
+      "mtime": "1667647090",
+      "size": "270448",
+      "md5": "56fb4f1323e5e2692c5fbcb95d8621a2",
+      "crc32": "d3e1e68a",
+      "sha1": "eda502896c37deab947ae05517f69e623cd4c26f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "calmatters-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3e01cbad7a7f64849f11e3a411ad8caa",
+      "md5": "e2dce933e06be5119f8e84c6ff19101a",
       "summation": "md5"
     },
     {
@@ -13117,9 +13128,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1268,
-  "item_last_updated": 1667645971,
-  "item_size": 93425220,
+  "files_count": 1269,
+  "item_last_updated": 1667647090,
+  "item_size": 93435565,
   "metadata": {
     "identifier": "calmatters-2022",
     "collection": [
@@ -13136,21 +13147,10 @@
     "publicdate": "2022-07-21 12:54:12",
     "addeddate": "2022-07-21 12:54:12"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462756179,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1478353561,
+  "server": "ia802509.us.archive.org",
+  "uniq": 986875624,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

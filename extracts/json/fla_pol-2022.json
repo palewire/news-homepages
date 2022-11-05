@@ -1,5 +1,5 @@
 {
-  "created": 1667649581,
+  "created": 1667672944,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/fla_pol-2022",
@@ -11073,21 +11073,32 @@
       "format": "JSON"
     },
     {
+      "name": "fla_pol-2022-11-05T07:58:22.467955-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-11-05T07:58:22.467955-04:00.jpg",
+      "mtime": "1667650240",
+      "size": "10885",
+      "md5": "bc3a9f9d8f920ff4a4b93ced45224516",
+      "crc32": "4cca4809",
+      "sha1": "522c27a1ba939198469d34da295735b78943c75e"
+    },
+    {
       "name": "fla_pol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fee64123ce30dcd5ccbeb4bf2dbfabd0b617191c",
-      "mtime": "1667649574",
-      "size": "226127",
-      "md5": "6c521494f3598dd55f84cb827ec3b635",
-      "crc32": "c728ffed",
-      "sha1": "345a60bee9349a41f355c83583d5bc6c8fc2a69a",
+      "btih": "d9fe6fab70a46501f98fd1912ef06908986f08db",
+      "mtime": "1667650253",
+      "size": "226331",
+      "md5": "43dc47abae7f566eef8d56d374eddc5d",
+      "crc32": "bf44c916",
+      "sha1": "d1da1e95cb73eabfcc7538da9e953055c70b70b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fla_pol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd782bafb260adba5c590e1be783c55b",
+      "md5": "f7b818fd11398ab14b59e2206f72b535",
       "summation": "md5"
     },
     {
@@ -11111,9 +11122,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1075,
-  "item_last_updated": 1667649574,
-  "item_size": 83999559,
+  "files_count": 1076,
+  "fla_pol-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667650253,
+  "item_size": 84010648,
   "metadata": {
     "identifier": "fla_pol-2022",
     "collection": [
@@ -11130,21 +11146,10 @@
     "publicdate": "2022-08-09 03:37:17",
     "addeddate": "2022-08-09 03:37:17"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462797111,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1405821259,
+  "uniq": 357193305,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

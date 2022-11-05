@@ -1,5 +1,5 @@
 {
-  "created": 1667660372,
+  "created": 1667674904,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/24/items/newsleadernow-2022",
@@ -5699,21 +5699,32 @@
       "format": "JSON"
     },
     {
+      "name": "newsleadernow-2022-11-05T09:59:00.825560-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "newsleadernow-2022-11-05T09:59:00.825560-04:00.jpg",
+      "mtime": "1667662075",
+      "size": "9625",
+      "md5": "56f63be3f494a785cf05e5735d06fa52",
+      "crc32": "bba169a2",
+      "sha1": "130cf0a6d1bb891a252f7b8b5fc4d17bdc62be76"
+    },
+    {
       "name": "newsleadernow-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8f4add65db5b6e9132f07d81a6ca22915fdf58cb",
-      "mtime": "1667656800",
-      "size": "120033",
-      "md5": "3ca29cdb7b36f68bc1ddaaf8b33841a9",
-      "crc32": "198238a8",
-      "sha1": "1d6f6131937d158cf83fba95f6f57e07a218e1b5",
+      "btih": "c772282146ca25973824d7380bb0c5ec0e7988ea",
+      "mtime": "1667662081",
+      "size": "120242",
+      "md5": "8151d1603aaf18988149adf3700467eb",
+      "crc32": "3b83f587",
+      "sha1": "c4022f8a43615bc197251ad512706f06b29e0c9c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newsleadernow-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8fc7f2a28fb02490b79000b54c0aec3f",
+      "md5": "f76bf04ca58991e139a0876d06f57645",
       "summation": "md5"
     },
     {
@@ -5737,9 +5748,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 555,
-  "item_last_updated": 1667656800,
-  "item_size": 36265895,
+  "files_count": 556,
+  "item_last_updated": 1667662081,
+  "item_size": 36275729,
   "metadata": {
     "identifier": "newsleadernow-2022",
     "collection": [
@@ -5764,21 +5775,10 @@
     "message": "Worker exited prematurely: exitcode 15 Job: 813.",
     "resources": []
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462870101,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1402806367,
+  "server": "ia801508.us.archive.org",
+  "uniq": 297348674,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

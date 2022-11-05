@@ -1,5 +1,5 @@
 {
-  "created": 1667629482,
+  "created": 1667676142,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/0/items/sctimes-2022",
@@ -5699,21 +5699,32 @@
       "format": "JSON"
     },
     {
+      "name": "sctimes-2022-11-05T01:23:41.066072-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sctimes-2022-11-05T01:23:41.066072-05:00.jpg",
+      "mtime": "1667630429",
+      "size": "9677",
+      "md5": "221d311c722603ac3518a6b2934e9a4f",
+      "crc32": "1a53573e",
+      "sha1": "0b0552caad7849a6c0c01b1cb5b452b1024e4b57"
+    },
+    {
       "name": "sctimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e72ddd6651f385cc6609f9b96d03247fec09db10",
-      "mtime": "1667629478",
-      "size": "116637",
-      "md5": "846d31c8d3c318c0374be0bb10aa58c4",
-      "crc32": "303bffca",
-      "sha1": "6b5d88afaff86812928cc02b6cf16e96a6b52602",
+      "btih": "4e595186d1ab33ad1732cc2c9778fd2bfd8c72f8",
+      "mtime": "1667630435",
+      "size": "116840",
+      "md5": "5424ca0274575c888c4f64544f28f788",
+      "crc32": "3dc59b14",
+      "sha1": "842eaf2e6e0d4841d515901ffa16e9f597c11193",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sctimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3e350528868485affd3e2b2957978cdb",
+      "md5": "5bc9c00040849e2754d8ce28f7e616ae",
       "summation": "md5"
     },
     {
@@ -5737,9 +5748,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 555,
-  "item_last_updated": 1667629478,
-  "item_size": 35046082,
+  "files_count": 556,
+  "item_last_updated": 1667630435,
+  "item_size": 35055962,
   "metadata": {
     "identifier": "sctimes-2022",
     "collection": [
@@ -5756,21 +5767,18 @@
     "publicdate": "2022-09-20 19:25:04",
     "addeddate": "2022-09-20 19:25:04"
   },
-  "pending_tasks": true,
+  "sctimes-2022": {
+    "url": "https://www.sctimes.com/",
+    "job_id": "spn2-f2faf43a00cb4feea68b7f69ecd46d0879507495",
+    "status": "error",
+    "status_ext": "WorkerLostError",
+    "resources": [],
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 733."
+  },
   "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462582856,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 509100923,
+  "uniq": 1531986740,
   "workable_servers": [
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

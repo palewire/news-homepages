@@ -1,5 +1,10 @@
 {
-  "created": 1667623636,
+  "civio-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671907,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/32/items/civio-2022",
@@ -16828,31 +16833,93 @@
       "sha1": "11c341d15e90a2d47830c2bd642ae7a09a5800bf"
     },
     {
+      "name": "civio-2022-11-05T17:20:49.736617+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667665253",
+      "size": "88169",
+      "md5": "1aeafe41b11c4127e8294be111750579",
+      "crc32": "e78a6e16",
+      "sha1": "06bce169c01ad5b1aa6dbea2d3c629a8593abebd",
+      "format": "JSON"
+    },
+    {
+      "name": "civio-2022-11-05T17:20:49.736617+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667665255",
+      "size": "45809",
+      "md5": "e06484c8de35102aecbb03bf24243484",
+      "crc32": "c73357d2",
+      "sha1": "669f8049a0a8603a4407b5d31a4e46644712e78e",
+      "format": "JSON"
+    },
+    {
+      "name": "civio-2022-11-05T17:20:49.736617+01:00.jpg",
+      "source": "original",
+      "mtime": "1667665251",
+      "size": "275638",
+      "md5": "e95019cb9004f98d7b4cf1c6ff82ed49",
+      "crc32": "5b28444c",
+      "sha1": "87e96a2011b469e9c784effa3b97cac03de9cfa8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "civio-2022-11-05T17:20:49.736617+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667665257",
+      "size": "1405",
+      "md5": "d19d12d697c137a93a1c0575acd1b242",
+      "crc32": "dbce6eb4",
+      "sha1": "bd28a04593b0e42dae2803f8d23b59bc03686f3b",
+      "format": "JSON"
+    },
+    {
+      "name": "civio-2022-11-05T17:20:49.736617+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667665261",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "civio-2022-11-05T17:20:49.736617+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "civio-2022-11-05T17:20:49.736617+01:00.jpg",
+      "mtime": "1667666641",
+      "size": "9841",
+      "md5": "b9d8f2502478a1551f65388fb78a035f",
+      "crc32": "4df9a361",
+      "sha1": "11c341d15e90a2d47830c2bd642ae7a09a5800bf"
+    },
+    {
       "name": "civio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "450c2f194f0d3e93b3eb553e13b772dd1c036ef0",
-      "mtime": "1667623550",
-      "size": "338561",
-      "md5": "6e4491b1f169c9ebbecfd2eb794a12ce",
-      "crc32": "67b25e39",
-      "sha1": "f86ecb200dd9590fabd50f41dea588d06889af1d",
+      "btih": "fde802b18e26c22eb3ec82adf8e147b6858d416a",
+      "mtime": "1667666739",
+      "size": "339808",
+      "md5": "92ec7b008261f9c7157742dd67fbdf55",
+      "crc32": "ce91a6c4",
+      "sha1": "c60d3d51e516b62305605f786f1beed441740b92",
       "format": "Archive BitTorrent"
     },
     {
       "name": "civio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "03da5847226bd7ebfa7ae694f3e086fa",
+      "md5": "eec9f66d8e8a9d8da1d6bb7b2ad196cb",
       "summation": "md5"
     },
     {
       "name": "civio-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667621470",
-      "size": "2002944",
-      "md5": "b8a7ed83c827b2b595857d89e8bec5be",
-      "crc32": "180d46d5",
-      "sha1": "fdd35682e7faff6e4d882b17bbea98fa93df3d98",
+      "mtime": "1667665268",
+      "size": "2011136",
+      "md5": "4f9213feed1c846f653eb0a67d23c5d1",
+      "crc32": "a95f769e",
+      "sha1": "f0a25ef835e7d3df1d873c139286da46eff6b31c",
       "format": "Metadata"
     },
     {
@@ -16866,9 +16933,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1625,
-  "item_last_updated": 1667623550,
-  "item_size": 144304082,
+  "files_count": 1631,
+  "item_last_updated": 1667666739,
+  "item_size": 144734585,
   "metadata": {
     "identifier": "civio-2022",
     "collection": [
@@ -16885,10 +16952,10 @@
     "publicdate": "2022-06-19 23:23:36",
     "addeddate": "2022-06-19 23:23:36"
   },
-  "server": "ia902502.us.archive.org",
-  "uniq": 625868303,
+  "server": "ia802502.us.archive.org",
+  "uniq": 1574804617,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia802502.us.archive.org",
+    "ia902502.us.archive.org"
   ]
 }

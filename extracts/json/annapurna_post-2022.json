@@ -1,5 +1,5 @@
 {
-  "created": 1667645670,
+  "created": 1667664923,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/32/items/annapurna_post-2022",
@@ -12681,21 +12681,32 @@
       "format": "JSON"
     },
     {
+      "name": "annapurna_post-2022-11-05T16:38:17.263141+05:45_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "annapurna_post-2022-11-05T16:38:17.263141+05:45.jpg",
+      "mtime": "1667646718",
+      "size": "9563",
+      "md5": "fd7a0632b749e0573d07e65964e6fbfe",
+      "crc32": "bb80f10b",
+      "sha1": "358184945c2cb4e7aea5a3d8b4975ec91af45d01"
+    },
+    {
       "name": "annapurna_post-2022_archive.torrent",
       "source": "metadata",
-      "btih": "25d16c007de9cb277b3f8b31414e402b6c413136",
-      "mtime": "1667645665",
-      "size": "266568",
-      "md5": "f0e13b3b821a1cf0a11fd70bdd4de2af",
-      "crc32": "a4460f44",
-      "sha1": "2cfdf0ff5a3d4a6d7a0eb8b40a70f2852f8b999b",
+      "btih": "a05a393f6389dc95a91e2da728079e75ddfc48ed",
+      "mtime": "1667646735",
+      "size": "266778",
+      "md5": "d441255df4629cbb45d639fa5dc32087",
+      "crc32": "8b420f08",
+      "sha1": "97e69218de188e37b97c7e3eae5e469929bc4d78",
       "format": "Archive BitTorrent"
     },
     {
       "name": "annapurna_post-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "86fd73b8d85956eebc3b7f743555c756",
+      "md5": "b92034ba69a6b001efc92094d239b998",
       "summation": "md5"
     },
     {
@@ -12719,9 +12730,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1230,
-  "item_last_updated": 1667645665,
-  "item_size": 77837066,
+  "files_count": 1231,
+  "item_last_updated": 1667646735,
+  "item_size": 77846839,
   "metadata": {
     "identifier": "annapurna_post-2022",
     "collection": [
@@ -12738,21 +12749,10 @@
     "publicdate": "2022-07-24 20:37:22",
     "addeddate": "2022-07-24 20:37:22"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462752950,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1375515207,
+  "server": "ia801508.us.archive.org",
+  "uniq": 1762681018,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

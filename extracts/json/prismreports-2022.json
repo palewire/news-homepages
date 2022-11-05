@@ -1,6 +1,5 @@
 {
-  "conflict": 1667629996,
-  "created": 1667629996,
+  "created": 1667675605,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/13/items/prismreports-2022",
@@ -13800,21 +13799,32 @@
       "format": "JSON"
     },
     {
+      "name": "prismreports-2022-11-04T23:21:40.876909-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "prismreports-2022-11-04T23:21:40.876909-07:00.jpg",
+      "mtime": "1667630002",
+      "size": "10480",
+      "md5": "4d3b0e06886f42d16bd737d2d78bebc5",
+      "crc32": "4e52bd34",
+      "sha1": "74dc0b54f659d9948ca790005bbded484633e6f6"
+    },
+    {
       "name": "prismreports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7577768dca4d9d6adba911a98ce9d3ecc4f41b29",
-      "mtime": "1667629380",
-      "size": "287198",
-      "md5": "dc3173a9ccca6587064f4053f3e9d815",
-      "crc32": "54f91d39",
-      "sha1": "229b8d4a55021ed0c7060b688a4b439344a2e193",
+      "btih": "068839167761d75ee58a17de36c2144c1c1e6a81",
+      "mtime": "1667630024",
+      "size": "287407",
+      "md5": "79296eb03a93f9eefb30b54173f1765d",
+      "crc32": "45dce826",
+      "sha1": "a7c92016eb74f252dac028329a0a005a21e0cc01",
       "format": "Archive BitTorrent"
     },
     {
       "name": "prismreports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ca6b2a6ca9a535fd6866b40895824fd5",
+      "md5": "28be67506bc54500815eb0ff72dcd2e0",
       "summation": "md5"
     },
     {
@@ -13838,9 +13848,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1336,
-  "item_last_updated": 1667629380,
-  "item_size": 94639872,
+  "files_count": 1337,
+  "item_last_updated": 1667630024,
+  "item_size": 94650561,
   "metadata": {
     "identifier": "prismreports-2022",
     "collection": [
@@ -13857,21 +13867,15 @@
     "publicdate": "2022-07-09 04:03:23",
     "addeddate": "2022-07-09 04:03:23"
   },
-  "pending_tasks": true,
-  "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462581924,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1841591886,
+  "prismreports-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia802502.us.archive.org",
+  "uniq": 2074982728,
   "workable_servers": [
+    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

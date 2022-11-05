@@ -1,5 +1,5 @@
 {
-  "created": 1667649705,
+  "created": 1667673347,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/20/items/hitribuneherald-2022",
@@ -6567,21 +6567,32 @@
       "format": "JSON"
     },
     {
+      "name": "hitribuneherald-2022-11-05T02:00:39.173878-10:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "hitribuneherald-2022-11-05T02:00:39.173878-10:00.jpg",
+      "mtime": "1667650237",
+      "size": "9514",
+      "md5": "eef9925c4da8f7ddba46023c5a1073c7",
+      "crc32": "f759fa28",
+      "sha1": "a3762eb91e54a961044846b5bac6b327a018a0cf"
+    },
+    {
       "name": "hitribuneherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5c00a58760f022b8ae6880f371f213e94de39292",
-      "mtime": "1667649700",
-      "size": "139725",
-      "md5": "22c96ee4867dae07b04d6e0cf019d791",
-      "crc32": "52a540af",
-      "sha1": "4ce5575dd0ba6a1f13c1aaddbc51afa1a3f22595",
+      "btih": "60706def8ea7769dcba784eb3e604a0bf3ce6682",
+      "mtime": "1667650244",
+      "size": "139936",
+      "md5": "13d5acb8c12526638e84d0dee2029ef1",
+      "crc32": "98eede9b",
+      "sha1": "b99720474da023a1c0f1383b708c97800e145917",
       "format": "Archive BitTorrent"
     },
     {
       "name": "hitribuneherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "167bb246dee032176fc8d9fe5af8de96",
+      "md5": "5c68afb17f63d87fa547111b5d6d4909",
       "summation": "md5"
     },
     {
@@ -6605,9 +6616,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 639,
-  "item_last_updated": 1667649700,
-  "item_size": 49310731,
+  "files_count": 640,
+  "hitribuneherald-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667650244,
+  "item_size": 49320456,
   "metadata": {
     "identifier": "hitribuneherald-2022",
     "collection": [
@@ -6624,21 +6640,10 @@
     "publicdate": "2022-09-14 12:01:41",
     "addeddate": "2022-09-14 12:01:41"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462799299,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 96989854,
+  "server": "ia801508.us.archive.org",
+  "uniq": 867138716,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

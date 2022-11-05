@@ -1,5 +1,10 @@
 {
-  "created": 1667645818,
+  "austinchronicle-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671208,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/2/items/austinchronicle-2022",
@@ -13311,21 +13316,32 @@
       "format": "JSON"
     },
     {
+      "name": "austinchronicle-2022-11-05T05:55:55.062942-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinchronicle-2022-11-05T05:55:55.062942-05:00.jpg",
+      "mtime": "1667647561",
+      "size": "9478",
+      "md5": "2b2c70011d39488d719b3bba040537e8",
+      "crc32": "d126ecae",
+      "sha1": "5672f310c1bdaead4531973560cd10568d9c8aac"
+    },
+    {
       "name": "austinchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "85c543562dffcb8ef0d26329f4331ee0f8d80c1f",
-      "mtime": "1667645815",
-      "size": "281343",
-      "md5": "cf893a8484fc4cebe5ccd4cb37d045e5",
-      "crc32": "06cf83bf",
-      "sha1": "90ff298c218bc070fa28f44a93d4f7ec72d096ef",
+      "btih": "863e359855b36fe8613e9a4855ee04fd8a605c78",
+      "mtime": "1667647576",
+      "size": "281554",
+      "md5": "0658a54f6591d209781b5c114027f8a6",
+      "crc32": "35666306",
+      "sha1": "f9ce5ceac153ff0a23a06a6b19a71624fb51ff88",
       "format": "Archive BitTorrent"
     },
     {
       "name": "austinchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "961962be8b14f73e9ee16500b785abc1",
+      "md5": "dd03c0adfd3eee7ba66e56f3cfe332f0",
       "summation": "md5"
     },
     {
@@ -13349,9 +13365,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1290,
-  "item_last_updated": 1667645815,
-  "item_size": 93421736,
+  "files_count": 1291,
+  "item_last_updated": 1667647576,
+  "item_size": 93431425,
   "metadata": {
     "identifier": "austinchronicle-2022",
     "collection": [
@@ -13368,21 +13384,10 @@
     "publicdate": "2022-07-18 00:04:18",
     "addeddate": "2022-07-18 00:04:18"
   },
-  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462754524,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 531481142,
+  "uniq": 1101033237,
   "workable_servers": [
-    "ia902505.us.archive.org"
+    "ia902505.us.archive.org",
+    "ia802505.us.archive.org"
   ]
 }

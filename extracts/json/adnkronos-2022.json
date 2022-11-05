@@ -1,5 +1,10 @@
 {
-  "created": 1667645678,
+  "adnkronos-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667670782,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/4/items/adnkronos-2022",
@@ -10719,21 +10724,32 @@
       "format": "JSON"
     },
     {
+      "name": "adnkronos-2022-11-05T11:53:22.397893+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "adnkronos-2022-11-05T11:53:22.397893+01:00.jpg",
+      "mtime": "1667646456",
+      "size": "7670",
+      "md5": "aebd49b64e7b415adab369e7ac333d17",
+      "crc32": "cfef8d9c",
+      "sha1": "c198e841eb4ec95e8203c97b2922ab764534d391"
+    },
+    {
       "name": "adnkronos-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d255afe15673bafab9842a6430dc3251bb7b5269",
-      "mtime": "1667645674",
-      "size": "220905",
-      "md5": "d435b5a6cb4c7fef51a62274b22e84ff",
-      "crc32": "6dc3783b",
-      "sha1": "705bc085d1e233f6bd4210870a4ca91ee545943c",
+      "btih": "325353d4f5418a220c2e82079cfd23c900c7fe74",
+      "mtime": "1667646497",
+      "size": "221110",
+      "md5": "352fd01711a8f757d74e17ee44cf0270",
+      "crc32": "0140b6ba",
+      "sha1": "fdf31732260a892cd22ed685a9f41c1daf497593",
       "format": "Archive BitTorrent"
     },
     {
       "name": "adnkronos-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "69c9a1ee3ff6cbf511e35e9f6c5d0fd9",
+      "md5": "00473c2b9882586228b2e1a0dc517fb3",
       "summation": "md5"
     },
     {
@@ -10757,9 +10773,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1041,
-  "item_last_updated": 1667645674,
-  "item_size": 72533989,
+  "files_count": 1042,
+  "item_last_updated": 1667646497,
+  "item_size": 72541864,
   "metadata": {
     "identifier": "adnkronos-2022",
     "collection": [
@@ -10776,21 +10792,10 @@
     "publicdate": "2022-08-11 00:35:22",
     "addeddate": "2022-08-11 00:35:22"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462753005,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 977337810,
+  "server": "ia802506.us.archive.org",
+  "uniq": 143167447,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

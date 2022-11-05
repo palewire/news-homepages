@@ -1,5 +1,5 @@
 {
-  "created": 1667629831,
+  "created": 1667677828,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/27/items/wabenews-2022",
@@ -12843,21 +12843,32 @@
       "format": "JSON"
     },
     {
+      "name": "wabenews-2022-11-05T02:29:18.512592-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wabenews-2022-11-05T02:29:18.512592-04:00.jpg",
+      "mtime": "1667632042",
+      "size": "10339",
+      "md5": "2c85990f9ada2270d88f3f8433011273",
+      "crc32": "375d0a73",
+      "sha1": "9cf2c139557e950e72a4ab706c6b249a255b57f3"
+    },
+    {
       "name": "wabenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c9850991d6ef75f9cd6313b0627b4af7ed411153",
-      "mtime": "1667629825",
-      "size": "261884",
-      "md5": "5a509973df78050c78fe71f34a385d19",
-      "crc32": "35e88784",
-      "sha1": "b3ebb2aeb34d77cdf3e33db2cabf55f0d218e34d",
+      "btih": "bc382b41e1e4c8bba1fa29f8f9d73d460f7375b6",
+      "mtime": "1667632055",
+      "size": "262089",
+      "md5": "1686289a1cef3e74d745b3f8b48481e9",
+      "crc32": "d2a8bf59",
+      "sha1": "91305b99621158f4089abeade23c26c4f16bd98a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wabenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8e552ce31148b3ebbcbb13b5c3637f18",
+      "md5": "e41b8fd711d1cac1e7af3cf215277f69",
       "summation": "md5"
     },
     {
@@ -12881,9 +12892,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1245,
-  "item_last_updated": 1667629825,
-  "item_size": 77311679,
+  "files_count": 1246,
+  "item_last_updated": 1667632055,
+  "item_size": 77322223,
   "metadata": {
     "identifier": "wabenews-2022",
     "collection": [
@@ -12900,21 +12911,14 @@
     "publicdate": "2022-07-20 23:31:49",
     "addeddate": "2022-07-20 23:31:49"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462586810,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1130192587,
+  "server": "ia801406.us.archive.org",
+  "uniq": 114085159,
+  "wabenews-2022": {
+    "url": "https://www.wabe.org",
+    "job_id": "spn2-ccb7244d3ad8a9e34d0a4324634abbbbdf78df92"
+  },
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667621246,
+  "created": 1667677368,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/34/items/tucsonstar-2022",
@@ -14184,31 +14184,93 @@
       "sha1": "b80898d77828e1f732101184980ce64e190d089f"
     },
     {
+      "name": "tucsonstar-2022-11-05T08:08:15.033343-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667660899",
+      "size": "25190",
+      "md5": "06fe7466a15eb0e5363c25433487416f",
+      "crc32": "8fa6795e",
+      "sha1": "a44d79ee27c476a41117babc191fd16e9bb2ff16",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-11-05T08:08:15.033343-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667660901",
+      "size": "72440",
+      "md5": "5cf4312f3a034ae55cbd51f214114704",
+      "crc32": "0f813e7b",
+      "sha1": "fb19b5db95b78261a9a2a5af765a44e49b12600b",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-11-05T08:08:15.033343-07:00.jpg",
+      "source": "original",
+      "mtime": "1667660897",
+      "size": "332768",
+      "md5": "94b91ccc9dedbee7b091ee1343385341",
+      "crc32": "ee461b01",
+      "sha1": "17626bf89f5f18b78b91cd5395e1649f2d86a64b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tucsonstar-2022-11-05T08:08:15.033343-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667660903",
+      "size": "1423",
+      "md5": "cca673dd2b593187df51f7c29e137328",
+      "crc32": "9eabe944",
+      "sha1": "145318e9833d919d8a798c9aab1e32c6ddb69341",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-11-05T08:08:15.033343-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667660906",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonstar-2022-11-05T08:08:15.033343-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tucsonstar-2022-11-05T08:08:15.033343-07:00.jpg",
+      "mtime": "1667661287",
+      "size": "12278",
+      "md5": "9c1bca8f82c76f3c9bf682759c5aea93",
+      "crc32": "b1eab4de",
+      "sha1": "bab1b3e02e7fb42465d7d1616d313b5e8ebbe825"
+    },
+    {
       "name": "tucsonstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "69a1c54449a738d7b784a0888526388f04003a12",
-      "mtime": "1667620554",
-      "size": "293050",
-      "md5": "d2046435a00bb69426a8825f8e96437b",
-      "crc32": "ded803e6",
-      "sha1": "6ddd83260c8cb0e8e20654993a2c85a8addc96b4",
+      "btih": "f9c95922f09c1c021f6d392f7a16f19332f8f29f",
+      "mtime": "1667661339",
+      "size": "294328",
+      "md5": "a0ec0aa1746ca72456a3b49170316b60",
+      "crc32": "a5c163d6",
+      "sha1": "9f5ebe51238c093f56b01da9c5ab3e5c1ad70084",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb1eb0b1b853fec0e5c5a6e7f7de943c",
+      "md5": "e2dd527f86e82dfbbba044b3207b336f",
       "summation": "md5"
     },
     {
       "name": "tucsonstar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667619148",
-      "size": "1728512",
-      "md5": "11c38082e9af2510fc2fe850fbc5cb8e",
-      "crc32": "f1ed741e",
-      "sha1": "fef44b18036c76294367208ea42697b791a6cd2a",
+      "mtime": "1667660926",
+      "size": "1740800",
+      "md5": "6fbfb787ef2d64ee1bfaddc4aa999145",
+      "crc32": "69f715c4",
+      "sha1": "fd2a2cbf11feb123f9a67fbfc9f639c7fcf14e55",
       "format": "Metadata"
     },
     {
@@ -14222,9 +14284,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1373,
-  "item_last_updated": 1667620554,
-  "item_size": 114300284,
+  "files_count": 1379,
+  "item_last_updated": 1667661339,
+  "item_size": 114758151,
   "metadata": {
     "identifier": "tucsonstar-2022",
     "collection": [
@@ -14241,10 +14303,15 @@
     "publicdate": "2022-07-04 21:48:03",
     "addeddate": "2022-07-04 21:48:03"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1347767231,
+  "server": "ia601403.us.archive.org",
+  "tucsonstar-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1626232605,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

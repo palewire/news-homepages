@@ -1,5 +1,5 @@
 {
-  "created": 1667645699,
+  "created": 1667664947,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/22/items/appalachia100-2022",
@@ -14089,21 +14089,32 @@
       "format": "JSON"
     },
     {
+      "name": "appalachia100-2022-11-05T06:53:40.570880-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "appalachia100-2022-11-05T06:53:40.570880-04:00.jpg",
+      "mtime": "1667646698",
+      "size": "10251",
+      "md5": "88c636a402012cf3a4bb9256b242905e",
+      "crc32": "630b72b4",
+      "sha1": "eb4f5527689b645a70a9ff39d47de8fb02f7aa49"
+    },
+    {
       "name": "appalachia100-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1f087e36c0857914f0f0c6c1edcf1a276ba03f1",
-      "mtime": "1667645696",
-      "size": "293667",
-      "md5": "58f9252dc011d93eb3865849cb386482",
-      "crc32": "6fc09b17",
-      "sha1": "8653e6110f578ecd5d480bfc0dbe7adda1b649b1",
+      "btih": "355cefe7008fd8659ef7b3a5cb007592e6221af8",
+      "mtime": "1667646723",
+      "size": "293877",
+      "md5": "b127c429565e27f7f597a11bf1d57694",
+      "crc32": "35504082",
+      "sha1": "303b7f40866f5481cafde1b7d87355f145eb2075",
       "format": "Archive BitTorrent"
     },
     {
       "name": "appalachia100-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "572e78627804613b814f78e95e71dafb",
+      "md5": "96ebd6d0f503072546235ec68cf40d90",
       "summation": "md5"
     },
     {
@@ -14127,9 +14138,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1364,
-  "item_last_updated": 1667645696,
-  "item_size": 84704561,
+  "files_count": 1365,
+  "item_last_updated": 1667646723,
+  "item_size": 84715022,
   "metadata": {
     "identifier": "appalachia100-2022",
     "collection": [
@@ -14146,21 +14157,10 @@
     "publicdate": "2022-07-09 03:55:39",
     "addeddate": "2022-07-09 03:55:39"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462753216,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2078971719,
+  "server": "ia801401.us.archive.org",
+  "uniq": 39200633,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

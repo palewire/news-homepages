@@ -1,6 +1,10 @@
 {
-  "conflict": 1667623652,
-  "created": 1667623652,
+  "chunichi_denhen-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671857,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/31/items/chunichi_denhen-2022",
@@ -20723,34 +20727,101 @@
       "name": "chunichi_denhen-2022-11-05T13:10:56.292125+09:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "chunichi_denhen-2022-11-05T13:10:56.292125+09:00.jpg"
+      "original": "chunichi_denhen-2022-11-05T13:10:56.292125+09:00.jpg",
+      "mtime": "1667623650",
+      "size": "10229",
+      "md5": "e56788533691cfd397573e4fc6c0a2ad",
+      "crc32": "fac56ed9",
+      "sha1": "cb7a2557c675dbb99e15e7b0cba60798a523362b"
+    },
+    {
+      "name": "chunichi_denhen-2022-11-06T01:20:28.901548+09:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667665243",
+      "size": "66503",
+      "md5": "b8e3b698e09b1334c039253b772edd11",
+      "crc32": "9b5b521e",
+      "sha1": "70ec03f030bcc38d2906543ab7fcb8cc2f825bb9",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-11-06T01:20:28.901548+09:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667665245",
+      "size": "82661",
+      "md5": "a3e2b55c7fed51670b5363356d0f04c8",
+      "crc32": "ee4aa32f",
+      "sha1": "e50ac8b1245e46567934f8cfa8fdb12723096155",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-11-06T01:20:28.901548+09:00.jpg",
+      "source": "original",
+      "mtime": "1667665241",
+      "size": "320084",
+      "md5": "e8e743bf02af1ac2aaf3edfe0d8e14a8",
+      "crc32": "697c92c1",
+      "sha1": "84faa9b955df7ba763e0cbbf58bf26413c1ad25f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chunichi_denhen-2022-11-06T01:20:28.901548+09:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667665247",
+      "size": "1495",
+      "md5": "afaf37678f2e99cd9d6f53462f8616d5",
+      "crc32": "8a238547",
+      "sha1": "a915022ff952c3470811812326baf831d1becf50",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-11-06T01:20:28.901548+09:00.wayback.json",
+      "source": "original",
+      "mtime": "1667665249",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "chunichi_denhen-2022-11-06T01:20:28.901548+09:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chunichi_denhen-2022-11-06T01:20:28.901548+09:00.jpg",
+      "mtime": "1667667819",
+      "size": "10395",
+      "md5": "a037b6633403ed9a21b7bec25d583502",
+      "crc32": "4a4f3c05",
+      "sha1": "0ecbd20386ce218e9269141c4f92d31cff0a2188"
     },
     {
       "name": "chunichi_denhen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b5940d4f31b2ac276a3a73a58e2fd0e061be25a2",
-      "mtime": "1667621554",
-      "size": "437764",
-      "md5": "78f7b44637c149e7dc764ad5845a4ad1",
-      "crc32": "4645ed2b",
-      "sha1": "3e98b54da04469da570c31aa0d0fdced03415225",
+      "btih": "f8a99fe5d6df0b71be7fea49f7d2501ca7b7f8a3",
+      "mtime": "1667667858",
+      "size": "439284",
+      "md5": "421dcd6ab45d62def36a09c48e6503ec",
+      "crc32": "88ed79ae",
+      "sha1": "a831b5d50178e8211cc8e1c17e58d8ee5c911614",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chunichi_denhen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c7afee0bb10590d2608ee3a1f7bbe6c7",
+      "md5": "a7c3f0e4e0df06f3ef62412ab22509f8",
       "summation": "md5"
     },
     {
       "name": "chunichi_denhen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667621476",
-      "size": "2543616",
-      "md5": "2944b9f79e7f7f54a040cc5221998c87",
-      "crc32": "fb156be1",
-      "sha1": "c06663bfe8b72a27a8e3250f93e65e90833ad0f2",
+      "mtime": "1667665279",
+      "size": "2555904",
+      "md5": "4816b61b65f909af1dcef4d421f674ac",
+      "crc32": "5671e6f6",
+      "sha1": "88477665ac9aa363e331210cd2acb57315c5a48d",
       "format": "Metadata"
     },
     {
@@ -20764,9 +20835,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2005,
-  "item_last_updated": 1667621554,
-  "item_size": 175983875,
+  "files_count": 2011,
+  "item_last_updated": 1667667858,
+  "item_size": 176489252,
   "metadata": {
     "identifier": "chunichi_denhen-2022",
     "collection": [
@@ -20783,21 +20854,10 @@
     "publicdate": "2022-07-09 02:39:14",
     "addeddate": "2022-07-09 02:39:14"
   },
-  "pending_tasks": true,
-  "server": "ia601509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462488375,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1064816119,
+  "server": "ia801509.us.archive.org",
+  "uniq": 1614411199,
   "workable_servers": [
+    "ia801509.us.archive.org",
     "ia601509.us.archive.org"
   ]
 }

@@ -1,5 +1,10 @@
 {
-  "created": 1667645688,
+  "arkansasonline-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671081,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/35/items/arkansasonline-2022",
@@ -6731,21 +6736,32 @@
       "format": "JSON"
     },
     {
+      "name": "arkansasonline-2022-11-05T05:53:20.892627-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arkansasonline-2022-11-05T05:53:20.892627-05:00.jpg",
+      "mtime": "1667646574",
+      "size": "9406",
+      "md5": "809b22aa7f10bc358698505fea09f1c8",
+      "crc32": "1d259caa",
+      "sha1": "d8060e68655a665af332cf8b517d632e25395cf8"
+    },
+    {
       "name": "arkansasonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b4d424b4905e5ea91504a324ca035d962a53a654",
-      "mtime": "1667645681",
-      "size": "142403",
-      "md5": "754eb98404f411232f3bea480e47f707",
-      "crc32": "85ea07eb",
-      "sha1": "4a2de531dd93eb32cbf4c9431ae82d93b100a287",
+      "btih": "554538a42b5bb22b0b78cc79aeebd4b332a8c29d",
+      "mtime": "1667646613",
+      "size": "142613",
+      "md5": "f1aed37e820f2e75eb79634f2ed5bf5c",
+      "crc32": "f127f900",
+      "sha1": "ae9703cbb6812928144baecd026cf6e8afc87f69",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arkansasonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6b6d0fd2e8565a99f8f2514e334504e3",
+      "md5": "de48e4740edb79174ceb67d038f70121",
       "summation": "md5"
     },
     {
@@ -6769,9 +6785,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 655,
-  "item_last_updated": 1667645681,
-  "item_size": 47734386,
+  "files_count": 656,
+  "item_last_updated": 1667646613,
+  "item_size": 47744002,
   "metadata": {
     "identifier": "arkansasonline-2022",
     "collection": [
@@ -6788,21 +6804,10 @@
     "publicdate": "2022-09-12 11:03:11",
     "addeddate": "2022-09-12 11:03:11"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462753111,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 458106832,
+  "uniq": 2108939202,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

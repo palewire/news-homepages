@@ -1,5 +1,5 @@
 {
-  "created": 1667629488,
+  "created": 1667676086,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/31/items/salnews-2022",
@@ -5689,21 +5689,32 @@
       "format": "JSON"
     },
     {
+      "name": "salnews-2022-11-04T23:23:50.505275-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "salnews-2022-11-04T23:23:50.505275-07:00.jpg",
+      "mtime": "1667630428",
+      "size": "9063",
+      "md5": "e75c848d6438a229140e4e492b6f25c2",
+      "crc32": "1eaa9089",
+      "sha1": "3caabd2a0dada47ef49059ac43abeac8bd6d2015"
+    },
+    {
       "name": "salnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e64527c8fc71f9fef3641bab25c554750586aeb3",
-      "mtime": "1667629485",
-      "size": "116356",
-      "md5": "a08e18ad8e9d50ef469a98f34ff49033",
-      "crc32": "ec29d3e3",
-      "sha1": "402f569dccac8c1e36df7923094ae33df87d0e24",
+      "btih": "f63e103c2545b88a480112b77740af6f6b87226e",
+      "mtime": "1667630434",
+      "size": "116559",
+      "md5": "e3c00ec7cff5650bd1a99f3377bd577f",
+      "crc32": "f743d4ca",
+      "sha1": "88cf957daaecd5bbf9ccc063c2d11f5b6c4381b2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "489b2b7c000877e11d4d4d2aaf1b4bc3",
+      "md5": "cd5fcb3544e4b9c810c01fa2bd8fcbfa",
       "summation": "md5"
     },
     {
@@ -5727,9 +5738,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 554,
-  "item_last_updated": 1667629485,
-  "item_size": 34059646,
+  "files_count": 555,
+  "item_last_updated": 1667630434,
+  "item_size": 34068912,
   "metadata": {
     "identifier": "salnews-2022",
     "collection": [
@@ -5746,21 +5757,15 @@
     "publicdate": "2022-09-20 19:23:48",
     "addeddate": "2022-09-20 19:23:48"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462582925,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1997056489,
+  "salnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801409.us.archive.org",
+  "uniq": 62626008,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

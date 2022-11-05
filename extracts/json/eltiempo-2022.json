@@ -1,5 +1,5 @@
 {
-  "created": 1667649585,
+  "created": 1667658766,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/eltiempo-2022",
@@ -15869,21 +15869,32 @@
       "format": "JSON"
     },
     {
+      "name": "eltiempo-2022-11-05T06:58:25.520408-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "eltiempo-2022-11-05T06:58:25.520408-05:00.jpg",
+      "mtime": "1667650097",
+      "size": "9623",
+      "md5": "4970b84ad76c1cadf508d415063742dd",
+      "crc32": "030d21df",
+      "sha1": "1324a191d37337f8e8c05acc7889c372836710d4"
+    },
+    {
       "name": "eltiempo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "71d14aec077aaee3602dc855418b81b54060adcb",
-      "mtime": "1667649581",
-      "size": "324338",
-      "md5": "792a545270041badd5b3a024ecebbc53",
-      "crc32": "4538d144",
-      "sha1": "379e6f33b15afcb0800d18a6f0d934c535ee1509",
+      "btih": "1a7bd0b8f0d0519ea1adf0789d9953a3d18834ca",
+      "mtime": "1667650132",
+      "size": "324542",
+      "md5": "c1c15c6ee274e1917de0392c482e3ab8",
+      "crc32": "9fa94e5e",
+      "sha1": "6f4f3a38a588ff15dbcf9c7577fc548f3c0bad7f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eltiempo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b83f20fc3d88a5f7bb896876ae38bee6",
+      "md5": "ecd6b72ec8a556e8d404d53eb1fdc3be",
       "summation": "md5"
     },
     {
@@ -15907,9 +15918,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1533,
-  "item_last_updated": 1667649581,
-  "item_size": 141495576,
+  "files_count": 1534,
+  "item_last_updated": 1667650132,
+  "item_size": 141505403,
   "metadata": {
     "identifier": "eltiempo-2022",
     "collection": [
@@ -15926,21 +15937,10 @@
     "publicdate": "2022-06-24 22:54:38",
     "addeddate": "2022-06-24 22:54:38"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462797147,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1991624949,
+  "server": "ia802509.us.archive.org",
+  "uniq": 1550130447,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

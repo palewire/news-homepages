@@ -1,5 +1,5 @@
 {
-  "created": 1667653884,
+  "created": 1667674456,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/32/items/metropoles-2022",
@@ -16313,21 +16313,32 @@
       "format": "JSON"
     },
     {
+      "name": "metropoles-2022-11-05T10:09:42.187498-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "metropoles-2022-11-05T10:09:42.187498-03:00.jpg",
+      "mtime": "1667655895",
+      "size": "9804",
+      "md5": "86887e4c4ab74268908d5ef8b07915fd",
+      "crc32": "97796e64",
+      "sha1": "6c3c56d4ae5a908ac975465f7dc8ea7a27c2472e"
+    },
+    {
       "name": "metropoles-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a25cebb463e421fb6750437832327f5a4366d833",
-      "mtime": "1667653877",
-      "size": "337224",
-      "md5": "89c4cbc48563a2a240dca919871a8cdb",
-      "crc32": "9de45e03",
-      "sha1": "781768dcc2254de447ee7911f1c2fdcec6fc5be7",
+      "btih": "7773864f5f0140aa31090dc06e8e189b5e9dad2b",
+      "mtime": "1667655983",
+      "size": "337430",
+      "md5": "7d7f57939af3af06cbf2f8081590788f",
+      "crc32": "172c9039",
+      "sha1": "99bf629fc6289843a5cf882b50a9c2f5ae9c03a9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "metropoles-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8bb75e62eace86a3a3c05c29ff99aa95",
+      "md5": "37e090b8d578f6c4e61bf2a3cb9b48ff",
       "summation": "md5"
     },
     {
@@ -16351,9 +16362,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1582,
-  "item_last_updated": 1667653877,
-  "item_size": 129489196,
+  "files_count": 1583,
+  "item_last_updated": 1667655983,
+  "item_size": 129499206,
   "metadata": {
     "identifier": "metropoles-2022",
     "collection": [
@@ -16370,21 +16381,39 @@
     "publicdate": "2022-08-07 19:43:57",
     "addeddate": "2022-08-07 19:43:57"
   },
-  "pending_tasks": true,
-  "server": "ia902506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462846514,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1915516273,
+  "metropoles-2022": {
+    "url": "https://www.metropoles.com/",
+    "job_id": "spn2-ce06769e5e3172078a5e7b121eb755fc46d61a85",
+    "outlinks": [],
+    "screenshot": "http://web.archive.org/screenshot/https://www.metropoles.com/",
+    "original_url": "https://www.metropoles.com/",
+    "http_status": 200,
+    "status": "success",
+    "counters": {
+      "embeds": 172,
+      "outlinks": 201
+    },
+    "resources": [
+      "https://www.metropoles.com/",
+      "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "https://files.metropoles.com/fonts/v2/merriweather/merriweather-regular.woff2",
+      "https://cdn.onesignal.com/sdks/OneSignalSDK.js",
+      "https://files.metropoles.com/assets/images/icons/thumb-poster-3x2.webp",
+      "https://files.metropoles.com/radio-ok/images/banner-radio-metropoles.gif",
+      "https://files.metropoles.com/site/dist/print.98630f98.css",
+      "https://files.metropoles.com/fonts/v2/merriweather/merriweather-bold.woff2",
+      "https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022110201.js?cb=31070711",
+      "https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=www.metropoles.com",
+      "https://scripts.cleverwebserver.com/69f6ffd71cf2dc9146e752ec559a9b06.js",
+      "https://secure.lomadee.com/pub.png?pid=22890414"
+    ],
+    "duration_sec": 8.629,
+    "timestamp": "20221105115316"
+  },
+  "server": "ia802506.us.archive.org",
+  "uniq": 1807072990,
   "workable_servers": [
+    "ia802506.us.archive.org",
     "ia902506.us.archive.org"
   ]
 }

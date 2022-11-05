@@ -1,5 +1,5 @@
 {
-  "created": 1667653577,
+  "created": 1667660031,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/jessicavalenti-2022",
@@ -10307,21 +10307,32 @@
       "format": "JSON"
     },
     {
+      "name": "jessicavalenti-2022-11-05T09:03:29.887711-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "jessicavalenti-2022-11-05T09:03:29.887711-04:00.jpg",
+      "mtime": "1667655548",
+      "size": "8265",
+      "md5": "12f04c28e61fba4b013222a59c504116",
+      "crc32": "4e1e4472",
+      "sha1": "9d07bcf8c3cb4f95f31daeb86a55008eec86fe08"
+    },
+    {
       "name": "jessicavalenti-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e5a2c3494131dc64599b4dfbf1ab8a9c6f275f52",
-      "mtime": "1667653520",
-      "size": "216123",
-      "md5": "11d94f0ab8d58ac5029d9448086f1eca",
-      "crc32": "4bc22bcb",
-      "sha1": "dd09c0fe9525044281ac2736cc60f45b6a44411c",
+      "btih": "23e3af69e3442149a85bf0064a3580f7349735fd",
+      "mtime": "1667655560",
+      "size": "216333",
+      "md5": "9c30b728a38327054e599dd9c82336e0",
+      "crc32": "6de5c8a9",
+      "sha1": "aa235c34f5ac37483ed0da46f26fe33e277f2336",
       "format": "Archive BitTorrent"
     },
     {
       "name": "jessicavalenti-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ac8b4cee0afed87a82d65ed0206b8d06",
+      "md5": "e182506193f612ef7bf40101dce730f5",
       "summation": "md5"
     },
     {
@@ -10345,9 +10356,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1001,
-  "item_last_updated": 1667653520,
-  "item_size": 43995796,
+  "files_count": 1002,
+  "item_last_updated": 1667655560,
+  "item_size": 44004271,
   "metadata": {
     "identifier": "jessicavalenti-2022",
     "collection": [
@@ -10364,21 +10375,10 @@
     "publicdate": "2022-08-14 20:19:10",
     "addeddate": "2022-08-14 20:19:10"
   },
-  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462843149,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2084131027,
+  "uniq": 728468982,
   "workable_servers": [
-    "ia601403.us.archive.org"
+    "ia601403.us.archive.org",
+    "ia801403.us.archive.org"
   ]
 }

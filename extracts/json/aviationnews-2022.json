@@ -1,5 +1,5 @@
 {
-  "created": 1667645841,
+  "created": 1667665083,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/34/items/aviationnews-2022",
@@ -9545,21 +9545,32 @@
       "format": "JSON"
     },
     {
+      "name": "aviationnews-2022-11-05T06:55:52.331603-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aviationnews-2022-11-05T06:55:52.331603-04:00.jpg",
+      "mtime": "1667647115",
+      "size": "7021",
+      "md5": "52668d969ccf69165cd0b54da5036f1c",
+      "crc32": "383b96a6",
+      "sha1": "b249f6b28e841cf32639aa48994956a459422d6e"
+    },
+    {
       "name": "aviationnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a2c343e6a3eecbb1c9d4feb9e7b94d8c1b3f6d0",
-      "mtime": "1667645832",
-      "size": "200584",
-      "md5": "3ce8ee5c6cf10da524a07b101ed589d7",
-      "crc32": "f3e3e234",
-      "sha1": "693a21e967f80845b652c5776aab258908670d14",
+      "btih": "b9a287d5aebd476c7033397ddd9e7de2d68a5850",
+      "mtime": "1667647128",
+      "size": "200792",
+      "md5": "571e38bfaaf406bd02c237e9e6bc76d0",
+      "crc32": "ba63cafd",
+      "sha1": "e0a52a7ddc59fb8f6608a72fae8ecb0e8d43b725",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aviationnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2dccbb14a1589fd2d31307748e4a312",
+      "md5": "771448ec2c20372675cd4910f70d530d",
       "summation": "md5"
     },
     {
@@ -9583,9 +9594,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 927,
-  "item_last_updated": 1667645832,
-  "item_size": 89662798,
+  "files_count": 928,
+  "item_last_updated": 1667647128,
+  "item_size": 89670027,
   "metadata": {
     "identifier": "aviationnews-2022",
     "collection": [
@@ -9602,21 +9613,10 @@
     "publicdate": "2022-08-20 22:59:00",
     "addeddate": "2022-08-20 22:59:00"
   },
-  "pending_tasks": true,
-  "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462754770,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1349990274,
+  "server": "ia801508.us.archive.org",
+  "uniq": 383677568,
   "workable_servers": [
+    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

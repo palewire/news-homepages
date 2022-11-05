@@ -1,5 +1,5 @@
 {
-  "created": 1667649406,
+  "created": 1667668354,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/29/items/delawarepublic-2022",
@@ -14097,21 +14097,32 @@
       "format": "JSON"
     },
     {
+      "name": "delawarepublic-2022-11-05T07:55:27.978893-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "delawarepublic-2022-11-05T07:55:27.978893-04:00.jpg",
+      "mtime": "1667650407",
+      "size": "9815",
+      "md5": "ad24d0d56d1fd763cf31ee94f4e86f1a",
+      "crc32": "1132b586",
+      "sha1": "4fb8cfb8b93cbbbac81197ef622b9b0e9dfedc60"
+    },
+    {
       "name": "delawarepublic-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0ded571bcec714a6655fff717a57fd652d3662ac",
-      "mtime": "1667649395",
-      "size": "295544",
-      "md5": "c93f58cb2115cb7ab43ec687718448ff",
-      "crc32": "c56600ed",
-      "sha1": "27c249a924b343ef4a280fb1edc0a45cdae5d7d1",
+      "btih": "945aab24d28adbca42507c788a7354784853e5c1",
+      "mtime": "1667650470",
+      "size": "295754",
+      "md5": "51104d2efa5c627032d2ccadf559138e",
+      "crc32": "34010cd9",
+      "sha1": "29c5de9cb8be724fad1c70244517e5d67cdf0e51",
       "format": "Archive BitTorrent"
     },
     {
       "name": "delawarepublic-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57dc65c9cf3768cd5f3bbe43ffedb169",
+      "md5": "c7a8c445fd81f9bf9320941bb1aa6cce",
       "summation": "md5"
     },
     {
@@ -14135,9 +14146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1365,
-  "item_last_updated": 1667649395,
-  "item_size": 81455490,
+  "files_count": 1366,
+  "item_last_updated": 1667650470,
+  "item_size": 81465515,
   "metadata": {
     "identifier": "delawarepublic-2022",
     "collection": [
@@ -14154,21 +14165,10 @@
     "publicdate": "2022-07-09 03:58:05",
     "addeddate": "2022-07-09 03:58:05"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462795225,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1928967633,
+  "server": "ia801500.us.archive.org",
+  "uniq": 2118705102,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

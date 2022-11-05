@@ -1,5 +1,9 @@
 {
-  "created": 1667645995,
+  "burlcotimes-2022": {
+    "url": "https://www.burlingtoncountytimes.com/",
+    "job_id": "spn2-ed356abb01f4cec0f495e97728551a04929ccd33"
+  },
+  "created": 1667671635,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/28/items/burlcotimes-2022",
@@ -5689,21 +5693,32 @@
       "format": "JSON"
     },
     {
+      "name": "burlcotimes-2022-11-05T06:58:58.866013-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "burlcotimes-2022-11-05T06:58:58.866013-04:00.jpg",
+      "mtime": "1667647785",
+      "size": "9541",
+      "md5": "fc34699f9e64367c968f94458cdf3b23",
+      "crc32": "f7c7e0f7",
+      "sha1": "e821b0981ba38d13d8253d358b7116f00d02c697"
+    },
+    {
       "name": "burlcotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cea480ce4816e960af3f75d1d5ff7c726a624855",
-      "mtime": "1667645992",
-      "size": "118742",
-      "md5": "0923f3725b78990c5a0de5e6abd25b20",
-      "crc32": "4441b9d7",
-      "sha1": "38b2b9feb71917d6c2affba2453c9268712263a3",
+      "btih": "87411ca6a403f804dd21a40db24631b388063ac4",
+      "mtime": "1667647791",
+      "size": "118949",
+      "md5": "96fbcd53e0ecf810a3821719ade8372d",
+      "crc32": "4c9d49a0",
+      "sha1": "5e2cd05183885cbcfadb56dc7357a8dab592d612",
       "format": "Archive BitTorrent"
     },
     {
       "name": "burlcotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "861d7a3aafccede760852f9b9884b745",
+      "md5": "12f81ea3088633cc32cc6f6afb019d57",
       "summation": "md5"
     },
     {
@@ -5727,9 +5742,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 554,
-  "item_last_updated": 1667645992,
-  "item_size": 37235334,
+  "files_count": 555,
+  "item_last_updated": 1667647791,
+  "item_size": 37245082,
   "metadata": {
     "identifier": "burlcotimes-2022",
     "collection": [
@@ -5746,21 +5761,10 @@
     "publicdate": "2022-09-20 22:11:31",
     "addeddate": "2022-09-20 22:11:31"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462756363,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1076626029,
+  "uniq": 350583019,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

@@ -1,6 +1,5 @@
 {
-  "conflict": 1667629950,
-  "created": 1667629950,
+  "created": 1667675480,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/28/items/populardiario-2022",
@@ -10777,24 +10776,29 @@
       "name": "populardiario-2022-11-05T03:21:37.400414-03:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "populardiario-2022-11-05T03:21:37.400414-03:00.jpg"
+      "original": "populardiario-2022-11-05T03:21:37.400414-03:00.jpg",
+      "mtime": "1667629948",
+      "size": "11329",
+      "md5": "d3400e4b762b29523dd9b91189abbc24",
+      "crc32": "4d21e869",
+      "sha1": "18dc80198ce8d3f93ed1e8e2dcb4c4352bd88681"
     },
     {
       "name": "populardiario-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ed061295c83b07349289389e70a9af24ee0601ed",
-      "mtime": "1667629368",
-      "size": "226817",
-      "md5": "18ee6d49dab4caba67a833700216c869",
-      "crc32": "80bcadce",
-      "sha1": "ceb0a0b6e0f02264d5913d90ad88e05343166c36",
+      "btih": "374ef8e303344db926e47c9ddedcd12b69514b35",
+      "mtime": "1667629960",
+      "size": "227027",
+      "md5": "806585a17964a13ab9949deb0da903ce",
+      "crc32": "a0a7429b",
+      "sha1": "b083bf0ea5e429514d05adcdd8e271936c78b54d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "populardiario-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1196da5c98251a7c8d9c540c5c5f33dc",
+      "md5": "415f63e33f9b4f0e564137f5cd5a7ac0",
       "summation": "md5"
     },
     {
@@ -10819,8 +10823,8 @@
     }
   ],
   "files_count": 1047,
-  "item_last_updated": 1667629368,
-  "item_size": 92629132,
+  "item_last_updated": 1667629960,
+  "item_size": 92640671,
   "metadata": {
     "identifier": "populardiario-2022",
     "collection": [
@@ -10837,21 +10841,15 @@
     "publicdate": "2022-08-09 17:48:48",
     "addeddate": "2022-08-09 17:48:48"
   },
-  "pending_tasks": true,
-  "server": "ia601403.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462581764,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1326926882,
+  "populardiario-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801403.us.archive.org",
+  "uniq": 2131067841,
   "workable_servers": [
+    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

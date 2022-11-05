@@ -1,5 +1,5 @@
 {
-  "created": 1667653838,
+  "created": 1667674544,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/7/items/moreperfectus-2022",
@@ -18787,21 +18787,32 @@
       "format": "JSON"
     },
     {
+      "name": "moreperfectus-2022-11-05T09:09:03.427230-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "moreperfectus-2022-11-05T09:09:03.427230-04:00.jpg",
+      "mtime": "1667655819",
+      "size": "10787",
+      "md5": "f557b5c717b9a6522d27931104cf6b1b",
+      "crc32": "f24b544a",
+      "sha1": "6aec98c138bf84b2528422b55dff8c057505c278"
+    },
+    {
       "name": "moreperfectus-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cb72b3f810255345006691cba3770a2c4552296b",
-      "mtime": "1667653831",
-      "size": "391695",
-      "md5": "9246c8fc7cec969eeeae45a9f16b1d5f",
-      "crc32": "6c7a53b7",
-      "sha1": "de0183dfa1e8bb3bc651b892e7e27a12bddfba3f",
+      "btih": "068187637b97f0dd222fc623f63b51fadeda2305",
+      "mtime": "1667655845",
+      "size": "391905",
+      "md5": "8bd5556b4cc91cb4d4cd8fb79a074e12",
+      "crc32": "61017a1b",
+      "sha1": "093d71203fda855d116738b71d045b1174783f62",
       "format": "Archive BitTorrent"
     },
     {
       "name": "moreperfectus-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf600ef38576297345b7b8030b0fff9f",
+      "md5": "669547ed31e6471fb1f9d447de6b0b76",
       "summation": "md5"
     },
     {
@@ -18825,9 +18836,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1820,
-  "item_last_updated": 1667653831,
-  "item_size": 106775691,
+  "files_count": 1821,
+  "item_last_updated": 1667655845,
+  "item_size": 106786688,
   "metadata": {
     "identifier": "moreperfectus-2022",
     "collection": [
@@ -18844,21 +18855,10 @@
     "publicdate": "2022-07-23 03:32:08",
     "addeddate": "2022-07-23 03:32:08"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462846037,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 304175252,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1821101851,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

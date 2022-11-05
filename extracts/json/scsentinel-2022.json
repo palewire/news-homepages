@@ -1,5 +1,5 @@
 {
-  "created": 1667629526,
+  "created": 1667676134,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/9/items/scsentinel-2022",
@@ -14083,21 +14083,32 @@
       "format": "JSON"
     },
     {
+      "name": "scsentinel-2022-11-04T23:23:19.473804-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "scsentinel-2022-11-04T23:23:19.473804-07:00.jpg",
+      "mtime": "1667630202",
+      "size": "9537",
+      "md5": "b8b8ecf8fbd40c7059382ab967dc29e4",
+      "crc32": "facdfaba",
+      "sha1": "2e9bae98c7239ed20ff54bf2b789c777e14af444"
+    },
+    {
       "name": "scsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "51ec428767a5776355030bddd8bc7705e72ca848",
-      "mtime": "1667629506",
-      "size": "290212",
-      "md5": "55fb0974df1cda92b152faee616f283e",
-      "crc32": "0135904c",
-      "sha1": "01a8fbf2c0f05f522482d75747dafa18b990bf67",
+      "btih": "3026fbc59b9464defd9f7da911234e1c3339f329",
+      "mtime": "1667630218",
+      "size": "290418",
+      "md5": "62ff0eda3b6c0bf084bceffea187a1cb",
+      "crc32": "430c8106",
+      "sha1": "0d827957aeb31b10f4605f3b8d00a71db421b29b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "125dbac27a0c037f20f0ca65353b578a",
+      "md5": "f3bf8b8c232b191340827bfd6367ce0d",
       "summation": "md5"
     },
     {
@@ -14121,9 +14132,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1363,
-  "item_last_updated": 1667629506,
-  "item_size": 99912111,
+  "files_count": 1364,
+  "item_last_updated": 1667630218,
+  "item_size": 99921854,
   "metadata": {
     "identifier": "scsentinel-2022",
     "collection": [
@@ -14140,21 +14151,15 @@
     "publicdate": "2022-07-09 04:02:13",
     "addeddate": "2022-07-09 04:02:13"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462583423,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 297693188,
+  "scsentinel-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801400.us.archive.org",
+  "uniq": 637445372,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

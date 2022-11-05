@@ -1,6 +1,5 @@
 {
-  "conflict": 1667630029,
-  "created": 1667630029,
+  "created": 1667675711,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/17/items/qctimes-2022",
@@ -22483,24 +22482,29 @@
       "name": "qctimes-2022-11-05T01:23:08.926732-05:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "qctimes-2022-11-05T01:23:08.926732-05:00.jpg"
+      "original": "qctimes-2022-11-05T01:23:08.926732-05:00.jpg",
+      "mtime": "1667630023",
+      "size": "12022",
+      "md5": "5ae9be4dc527b33f1cb34a5eee9e487a",
+      "crc32": "09d00e2b",
+      "sha1": "a3807583ae540a59658ee0de67beca40b1cc9052"
     },
     {
       "name": "qctimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6fe3ae05dc80bdbf67a337dfa63fce6407056851",
-      "mtime": "1667629482",
-      "size": "455157",
-      "md5": "071c45eb48a111c6b21451726a56acbe",
-      "crc32": "88f6d3ae",
-      "sha1": "de9436730fa1bd4b2867c230fcef25c038b5d736",
+      "btih": "0ea493a880a1a80a5e2e1834940cc14cfafe0ecc",
+      "mtime": "1667630927",
+      "size": "455361",
+      "md5": "84e3a54f8df9fe863be4c5885b8d2b85",
+      "crc32": "d95b85fe",
+      "sha1": "381c05e13a1984d5df0ebafcad47daeafafe1b68",
       "format": "Archive BitTorrent"
     },
     {
       "name": "qctimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "341fb9fcd15fc34691e8d1b478232ce8",
+      "md5": "120c9c0307a714eada5ad89414c044b5",
       "summation": "md5"
     },
     {
@@ -22525,8 +22529,8 @@
     }
   ],
   "files_count": 2166,
-  "item_last_updated": 1667629482,
-  "item_size": 187524104,
+  "item_last_updated": 1667630927,
+  "item_size": 187536330,
   "metadata": {
     "identifier": "qctimes-2022",
     "collection": [
@@ -22543,21 +22547,15 @@
     "publicdate": "2022-03-25 03:35:53",
     "addeddate": "2022-03-25 03:35:53"
   },
-  "pending_tasks": true,
-  "server": "ia902500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462582916,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1741475620,
+  "qctimes-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia802500.us.archive.org",
+  "uniq": 1874776292,
   "workable_servers": [
+    "ia802500.us.archive.org",
     "ia902500.us.archive.org"
   ]
 }

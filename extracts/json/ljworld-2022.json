@@ -1,5 +1,5 @@
 {
-  "created": 1667653821,
+  "created": 1667674212,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/35/items/ljworld-2022",
@@ -11715,21 +11715,32 @@
       "format": "JSON"
     },
     {
+      "name": "ljworld-2022-11-05T08:09:02.338461-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ljworld-2022-11-05T08:09:02.338461-05:00.jpg",
+      "mtime": "1667655834",
+      "size": "9050",
+      "md5": "780dff36af1dc967b07e621dac877396",
+      "crc32": "424ee4c3",
+      "sha1": "444ae05acdf0740b43952c207b13ceebfe978f63"
+    },
+    {
       "name": "ljworld-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0c2c7582b91690e87a7b312f4ad706533081c2c9",
-      "mtime": "1667653818",
-      "size": "238457",
-      "md5": "55bbfa6536d4fb01436dcb02d2841edb",
-      "crc32": "aaa7f814",
-      "sha1": "beae81e41fb226d9c866208cafab4079ae41f1c0",
+      "btih": "bb6872f5761f66dddd668375adedac0a0f6ae70e",
+      "mtime": "1667656007",
+      "size": "238660",
+      "md5": "188060f959dc69c7ea43350864a4135c",
+      "crc32": "d8f554f4",
+      "sha1": "6037e7bb3acfcfa43bd2674b3937490f2e983aa0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ljworld-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1bc007b2486a231d6857cc15af35d5e0",
+      "md5": "efabb1689b98b69007c4a6fd32221d37",
       "summation": "md5"
     },
     {
@@ -11753,9 +11764,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1137,
-  "item_last_updated": 1667653818,
-  "item_size": 74002111,
+  "files_count": 1138,
+  "item_last_updated": 1667656007,
+  "item_size": 74011364,
+  "ljworld-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "ljworld-2022",
     "collection": [
@@ -11772,21 +11788,10 @@
     "publicdate": "2022-08-03 18:53:41",
     "addeddate": "2022-08-03 18:53:41"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462845871,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1694113962,
+  "uniq": 118294556,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

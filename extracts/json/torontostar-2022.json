@@ -1,5 +1,5 @@
 {
-  "created": 1667629745,
+  "created": 1667676501,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/18/items/torontostar-2022",
@@ -15237,21 +15237,32 @@
       "format": "JSON"
     },
     {
+      "name": "torontostar-2022-11-05T02:27:46.305127-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "torontostar-2022-11-05T02:27:46.305127-04:00.jpg",
+      "mtime": "1667630545",
+      "size": "8664",
+      "md5": "62111611d510f53239ba6fbff6915ed8",
+      "crc32": "b574defe",
+      "sha1": "016db78d4ccdbad9142df2148ea827c591fba3ae"
+    },
+    {
       "name": "torontostar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a30c2b373846893472125c4d99e5bdc0e3e97f4",
-      "mtime": "1667629740",
-      "size": "315152",
-      "md5": "81bce9d685807122870fafab661121e9",
-      "crc32": "5c67b60d",
-      "sha1": "cd96d5bb544d589a294c3d9b5788dc7076823de5",
+      "btih": "aba10746f50033d4e523c69184642233ebe2caa0",
+      "mtime": "1667630588",
+      "size": "315359",
+      "md5": "ad7974a9df566cf78780762b3ccb68a9",
+      "crc32": "af3821e0",
+      "sha1": "0dcc7c15be8729d1c9b7cf8ca7fb29333f5cebce",
       "format": "Archive BitTorrent"
     },
     {
       "name": "torontostar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cba095a2da17898054aa1a16ca7d75ef",
+      "md5": "40cfbb6c8bfe7605863faf01a39a4f0a",
       "summation": "md5"
     },
     {
@@ -15275,9 +15286,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1473,
-  "item_last_updated": 1667629740,
-  "item_size": 111240852,
+  "files_count": 1474,
+  "item_last_updated": 1667630588,
+  "item_size": 111249723,
   "metadata": {
     "identifier": "torontostar-2022",
     "collection": [
@@ -15294,21 +15305,10 @@
     "publicdate": "2022-06-30 22:36:07",
     "addeddate": "2022-06-30 22:36:07"
   },
-  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462585878,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 693716546,
+  "uniq": 849915753,
   "workable_servers": [
-    "ia601407.us.archive.org"
+    "ia601407.us.archive.org",
+    "ia801407.us.archive.org"
   ]
 }

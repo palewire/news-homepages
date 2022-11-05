@@ -1,5 +1,5 @@
 {
-  "created": 1667653665,
+  "created": 1667673927,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/12/items/kystandard-2022",
@@ -12037,21 +12037,32 @@
       "format": "JSON"
     },
     {
+      "name": "kystandard-2022-11-05T09:06:23.776612-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kystandard-2022-11-05T09:06:23.776612-04:00.jpg",
+      "mtime": "1667655607",
+      "size": "8209",
+      "md5": "9486118be11888d804f39503daaff7e0",
+      "crc32": "b2da20e2",
+      "sha1": "549721333942ba53387b82baa94ca9fb35d251f0"
+    },
+    {
       "name": "kystandard-2022_archive.torrent",
       "source": "metadata",
-      "btih": "16ea0365e95b377b96d69b045a10b34d62b85fc7",
-      "mtime": "1667653656",
-      "size": "247849",
-      "md5": "77f0695a20dca3c4f20993bce9042e9f",
-      "crc32": "fa0de620",
-      "sha1": "aaf8f4c8f3c7b17c544c71dcdb66e028a9873cce",
+      "btih": "63e57cdfe0da85f3f5733332ef8487f2d491109c",
+      "mtime": "1667655620",
+      "size": "248055",
+      "md5": "652c817a4c182a34ed10fbe92674a121",
+      "crc32": "147ec47d",
+      "sha1": "fc78f504ac28737a3ab543d2cf73a7cf0cde4600",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kystandard-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "65798980a339753edef29ef287068106",
+      "md5": "22652b2ecfdd62a65bf8aec1ddb0e89d",
       "summation": "md5"
     },
     {
@@ -12075,9 +12086,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1168,
-  "item_last_updated": 1667653656,
-  "item_size": 61337965,
+  "files_count": 1169,
+  "item_last_updated": 1667655620,
+  "item_size": 61346380,
+  "kystandard-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kystandard-2022",
     "collection": [
@@ -12094,21 +12110,10 @@
     "publicdate": "2022-08-01 06:42:01",
     "addeddate": "2022-08-01 06:42:01"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462844266,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1011813308,
+  "uniq": 214876253,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

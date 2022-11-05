@@ -1,5 +1,5 @@
 {
-  "created": 1667649264,
+  "created": 1667650284,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/29/items/chequeado-2022",
@@ -16669,21 +16669,32 @@
       "format": "JSON"
     },
     {
+      "name": "chequeado-2022-11-05T08:53:04.163677-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chequeado-2022-11-05T08:53:04.163677-03:00.jpg",
+      "mtime": "1667649989",
+      "size": "10951",
+      "md5": "871c29a944db8fbbb5d8d04923fc020d",
+      "crc32": "0cc58d0f",
+      "sha1": "9913ffdcac8906bd281440197200421afa887a2d"
+    },
+    {
       "name": "chequeado-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd6840ab17e07476e3a925a5650f52495b728e36",
-      "mtime": "1667649257",
-      "size": "340234",
-      "md5": "b7fbf87685e3f6a7060bae54da055f14",
-      "crc32": "6150e466",
-      "sha1": "7171cdf164071d47d4714a1beb50b54feb0193d5",
+      "btih": "45da2ee691a744d2ee017b825fb78cc09253f30a",
+      "mtime": "1667650010",
+      "size": "340440",
+      "md5": "ce5f975644866dfafea69516a5016be6",
+      "crc32": "80c51ff5",
+      "sha1": "f6418b23ce25f9b2c9cece58f071e3db5f21e917",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chequeado-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b44f9ad31955a87cb1a6b31b002c9e18",
+      "md5": "9608297e0006588a99a309908d40861e",
       "summation": "md5"
     },
     {
@@ -16707,9 +16718,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1609,
-  "item_last_updated": 1667649257,
-  "item_size": 102013528,
+  "files_count": 1610,
+  "item_last_updated": 1667650010,
+  "item_size": 102024685,
   "metadata": {
     "identifier": "chequeado-2022",
     "collection": [
@@ -16726,21 +16737,10 @@
     "publicdate": "2022-06-19 23:23:46",
     "addeddate": "2022-06-19 23:23:46"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462793944,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 819750208,
+  "server": "ia802508.us.archive.org",
+  "uniq": 309834626,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

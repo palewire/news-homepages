@@ -1,5 +1,13 @@
 {
-  "created": 1667645850,
+  "bostonglobe-2022": {
+    "url": "https://www.bostonglobe.com/",
+    "job_id": "spn2-c3e62e0be898a604412435734d054eba3bc13736",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
+  "created": 1667671518,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/11/items/bostonglobe-2022",
@@ -15915,21 +15923,32 @@
       "format": "JSON"
     },
     {
+      "name": "bostonglobe-2022-11-05T06:55:55.028096-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bostonglobe-2022-11-05T06:55:55.028096-04:00.jpg",
+      "mtime": "1667647008",
+      "size": "10496",
+      "md5": "23014aaf41257478e33c7f66392c3499",
+      "crc32": "ad45e11b",
+      "sha1": "65f6d564feccbcf294284d0000c68ccfe672534d"
+    },
+    {
       "name": "bostonglobe-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cd60a53af7a75c7f52f4dfd3f9e0cc35214e4bd6",
-      "mtime": "1667645841",
-      "size": "331426",
-      "md5": "f0ef874811573c50d9242b390e38f534",
-      "crc32": "316b4517",
-      "sha1": "fcd6e02171afe21e7edb83a7f6ee65d64372bd1f",
+      "btih": "8a079f704658b7bf55deece34d3d44166d0b06c6",
+      "mtime": "1667647039",
+      "size": "331634",
+      "md5": "00ad42cfda12c2b345dd2a8367c3c30e",
+      "crc32": "86ff01c1",
+      "sha1": "6bcc39d6a1303168f98aea736af885f97a243f27",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bostonglobe-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "403df9a4c7d70940b2f877a32d9dc0cd",
+      "md5": "4c845d71905d0b0ae694b6cc77e4963f",
       "summation": "md5"
     },
     {
@@ -15953,9 +15972,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1538,
-  "item_last_updated": 1667645841,
-  "item_size": 171459159,
+  "files_count": 1539,
+  "item_last_updated": 1667647039,
+  "item_size": 171469863,
   "metadata": {
     "identifier": "bostonglobe-2022",
     "collection": [
@@ -15972,21 +15991,10 @@
     "publicdate": "2022-06-24 22:53:22",
     "addeddate": "2022-06-24 22:53:22"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462754836,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1810356418,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1784941227,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

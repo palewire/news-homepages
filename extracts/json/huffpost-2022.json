@@ -1,5 +1,5 @@
 {
-  "created": 1667653516,
+  "created": 1667673419,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/33/items/huffpost-2022",
@@ -23815,21 +23815,32 @@
       "format": "JSON"
     },
     {
+      "name": "huffpost-2022-11-05T09:03:16.791191-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "huffpost-2022-11-05T09:03:16.791191-04:00.jpg",
+      "mtime": "1667654913",
+      "size": "11343",
+      "md5": "dfdc8349a83ab37c6c81cede7773e23d",
+      "crc32": "ddebc664",
+      "sha1": "f87d5a44d0b1c01670a75b607b7454513b8de0ec"
+    },
+    {
       "name": "huffpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d15bb18b57a565a17ea6042ef1be122d537a7b75",
-      "mtime": "1667653511",
-      "size": "484682",
-      "md5": "20eefdc36b22d6cd58d46b6190bb5aa1",
-      "crc32": "5c67c605",
-      "sha1": "2c2b5e32e6e11cc7d807cec166acb5639061c245",
+      "btih": "9ee31e361ebd8844f28a84999f753d37861b8027",
+      "mtime": "1667654958",
+      "size": "484887",
+      "md5": "bfd090984fc6c457f5871a05fedf5e07",
+      "crc32": "1dbf6a37",
+      "sha1": "d64fb19e9e200ef32a4c45ff92348c973fe71732",
       "format": "Archive BitTorrent"
     },
     {
       "name": "huffpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "ad4126f0332eff03306809ae35e6475b",
+      "md5": "b7c2d4f536a3e25057c6e253955f471c",
       "summation": "md5"
     },
     {
@@ -23853,9 +23864,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2299,
-  "item_last_updated": 1667653511,
-  "item_size": 167177038,
+  "files_count": 2300,
+  "huffpost-2022": {
+    "url": "https://www.huffpost.com/",
+    "job_id": "spn2-45ba327a2a7bfcb8c0e63040d32cc6f5d81d791a",
+    "message": "The same snapshot had been made 36 seconds ago. You can make new capture of this URL after 45 minutes."
+  },
+  "item_last_updated": 1667654958,
+  "item_size": 167188586,
   "metadata": {
     "identifier": "huffpost-2022",
     "collection": [
@@ -23872,21 +23888,10 @@
     "publicdate": "2022-06-24 22:56:52",
     "addeddate": "2022-06-24 22:56:52"
   },
-  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462842361,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1157745609,
+  "uniq": 1094161812,
   "workable_servers": [
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

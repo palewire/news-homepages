@@ -1,5 +1,5 @@
 {
-  "created": 1667653797,
+  "created": 1667673843,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/23/items/kqed-2022",
@@ -15769,21 +15769,32 @@
       "format": "JSON"
     },
     {
+      "name": "kqed-2022-11-05T06:06:38.272139-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kqed-2022-11-05T06:06:38.272139-07:00.jpg",
+      "mtime": "1667655849",
+      "size": "9469",
+      "md5": "cd24aeac68036f4f813f75a2ad2c898c",
+      "crc32": "cb58d746",
+      "sha1": "6f584f46004518b0fbc325aa395c99ae9bfbf597"
+    },
+    {
       "name": "kqed-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5ba7e4bd675806d0f4ed28d3ee46d51c9831b0c7",
-      "mtime": "1667653745",
-      "size": "313679",
-      "md5": "e02c7183b96f47c06c9957b212589538",
-      "crc32": "09c3c6d8",
-      "sha1": "ff38aa6c63f5deaa4191699e03ac40e3a50cb25a",
+      "btih": "a16385795135259bec9773f73dc785f333f427d1",
+      "mtime": "1667655883",
+      "size": "313879",
+      "md5": "03486b78b61de3fd7f9c83bd5ef680ab",
+      "crc32": "de5cfa08",
+      "sha1": "9e849489d98435fab6f1dd5a8b577d74ab56342d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kqed-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a5611bb4ec37314a922112fadc868a77",
+      "md5": "86b637fc22dd5fb8728cb3115c84af86",
       "summation": "md5"
     },
     {
@@ -15807,9 +15818,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1524,
-  "item_last_updated": 1667653745,
-  "item_size": 81994004,
+  "files_count": 1525,
+  "item_last_updated": 1667655883,
+  "item_size": 82003673,
+  "kqed-2022": {
+    "url": "https://www.kqed.org/",
+    "job_id": "spn2-5a1c0cce5b1fe14c8b080e8421b251a8d628ec51"
+  },
   "metadata": {
     "identifier": "kqed-2022",
     "collection": [
@@ -15826,21 +15841,10 @@
     "publicdate": "2022-06-24 22:56:44",
     "addeddate": "2022-06-24 22:56:44"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462845729,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1367565019,
+  "uniq": 1303857090,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

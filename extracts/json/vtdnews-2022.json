@@ -1,5 +1,5 @@
 {
-  "created": 1667629784,
+  "created": 1667677802,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/25/items/vtdnews-2022",
@@ -5709,21 +5709,32 @@
       "format": "JSON"
     },
     {
+      "name": "vtdnews-2022-11-04T23:28:33.717449-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "vtdnews-2022-11-04T23:28:33.717449-07:00.jpg",
+      "mtime": "1667630871",
+      "size": "9079",
+      "md5": "dd3f6ac60c196982f21d82aa0d2a4923",
+      "crc32": "9bc0c797",
+      "sha1": "ea474cb167439cf6bd955a7b1eb658bda63ad6d2"
+    },
+    {
       "name": "vtdnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6324186ab66bbe3934fb0c7f66f54d72ce6e82a1",
-      "mtime": "1667629776",
-      "size": "116983",
-      "md5": "36c541045fba4e04e95c157cb1fa4944",
-      "crc32": "eb4912d8",
-      "sha1": "e714d3e3a49ae07e136a797c47ddde52591caa31",
+      "btih": "43161f36990acd08334dddd5497208e33ec191df",
+      "mtime": "1667630883",
+      "size": "117186",
+      "md5": "89b07a2b23bc6acd9cef40a63dff0eb2",
+      "crc32": "ba84b198",
+      "sha1": "eeda5d83c69f7c5419788ca96d847a7d0fa0f3ce",
       "format": "Archive BitTorrent"
     },
     {
       "name": "vtdnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b9235569c84959da3d987bcf38ac2052",
+      "md5": "258020a043b7f22bd2457c2389a27356",
       "summation": "md5"
     },
     {
@@ -5747,9 +5758,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 556,
-  "item_last_updated": 1667629776,
-  "item_size": 37818949,
+  "files_count": 557,
+  "item_last_updated": 1667630883,
+  "item_size": 37828231,
   "metadata": {
     "identifier": "vtdnews-2022",
     "collection": [
@@ -5766,21 +5777,15 @@
     "publicdate": "2022-09-20 19:30:34",
     "addeddate": "2022-09-20 19:30:34"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462586339,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1471077049,
+  "uniq": 1831057927,
+  "vtdnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

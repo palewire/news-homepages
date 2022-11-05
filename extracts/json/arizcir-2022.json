@@ -1,5 +1,10 @@
 {
-  "created": 1667645680,
+  "arizcir-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671076,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/32/items/arizcir-2022",
@@ -16807,21 +16812,32 @@
       "format": "JSON"
     },
     {
+      "name": "arizcir-2022-11-05T03:53:25.013068-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "arizcir-2022-11-05T03:53:25.013068-07:00.jpg",
+      "mtime": "1667646498",
+      "size": "10745",
+      "md5": "c11d06fadf4ca161db61552581b37fee",
+      "crc32": "91b96e1a",
+      "sha1": "2a391fea9a6875368f39c5fbf74613c9cab1a0de"
+    },
+    {
       "name": "arizcir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a530bc2ca0c7e2e662eafdadde5961625e79a6fc",
-      "mtime": "1667645677",
-      "size": "339471",
-      "md5": "fa40b9b5a33cb82df3f7457ba172a3f0",
-      "crc32": "536b62a4",
-      "sha1": "6c7eb413fd7b82a3f558d06db0a948678bdf40eb",
+      "btih": "9c1f37b86d91d9659bfe14794e2adeaf06c2e456",
+      "mtime": "1667646567",
+      "size": "339675",
+      "md5": "4f4854c400b613a41bc5855ffaa604a3",
+      "crc32": "3223ca05",
+      "sha1": "e1f8fa326fadaad53df914c5ca4bb5ce8b2f4301",
       "format": "Archive BitTorrent"
     },
     {
       "name": "arizcir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f5651d41bebe5f0ca9149777278a450",
+      "md5": "e2b49fbddd0d015318a1e32a93bbd579",
       "summation": "md5"
     },
     {
@@ -16845,9 +16861,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1623,
-  "item_last_updated": 1667645677,
-  "item_size": 91219752,
+  "files_count": 1624,
+  "item_last_updated": 1667646567,
+  "item_size": 91230701,
   "metadata": {
     "identifier": "arizcir-2022",
     "collection": [
@@ -16864,21 +16880,10 @@
     "publicdate": "2022-06-19 23:22:49",
     "addeddate": "2022-06-19 23:22:49"
   },
-  "pending_tasks": true,
-  "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462753033,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 484515343,
+  "server": "ia802504.us.archive.org",
+  "uniq": 115745008,
   "workable_servers": [
+    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

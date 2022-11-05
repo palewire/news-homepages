@@ -1,5 +1,5 @@
 {
-  "created": 1667653863,
+  "created": 1667674581,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/19/items/msfreepress-2022",
@@ -8663,21 +8663,32 @@
       "format": "JSON"
     },
     {
+      "name": "msfreepress-2022-11-05T08:09:38.688692-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "msfreepress-2022-11-05T08:09:38.688692-05:00.jpg",
+      "mtime": "1667656396",
+      "size": "9978",
+      "md5": "ba1fd9b804b7e413a5806582ddd3fc80",
+      "crc32": "ae7fa2ec",
+      "sha1": "2f1f027c41d84aec95ebdc4f391c6bd3a9295edb"
+    },
+    {
       "name": "msfreepress-2022_archive.torrent",
       "source": "metadata",
-      "btih": "24c962960a3b41de2dac025cba706b6315f5b69e",
-      "mtime": "1667653858",
-      "size": "180150",
-      "md5": "80453e4a37c5bf3e674a56816bc50481",
-      "crc32": "53fb52ad",
-      "sha1": "ae549e1e7faebe89e45445c90874a29b1b3c4c79",
+      "btih": "d7940989c9b8ccd44c37a44fa6858d821fa19c95",
+      "mtime": "1667656428",
+      "size": "180357",
+      "md5": "951528dfbdd89dd906637cacc04c8df8",
+      "crc32": "76c158b0",
+      "sha1": "a352780ca0c27c46c176ec281d5c88904a7af640",
       "format": "Archive BitTorrent"
     },
     {
       "name": "msfreepress-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "668e49c51d6b643978d51885711c370a",
+      "md5": "834e5d5f9e0af84cc5bcf88bee57b015",
       "summation": "md5"
     },
     {
@@ -8701,9 +8712,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 842,
-  "item_last_updated": 1667653858,
-  "item_size": 54513283,
+  "files_count": 843,
+  "item_last_updated": 1667656428,
+  "item_size": 54523468,
   "metadata": {
     "identifier": "msfreepress-2022",
     "collection": [
@@ -8720,21 +8731,51 @@
     "publicdate": "2022-08-26 23:47:17",
     "addeddate": "2022-08-26 23:47:17"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
+  "msfreepress-2022": [
     {
-      "task_id": 3462846306,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "url": "https://www.mississippifreepress.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mississippifreepress_org-_-2022_11_05_12_53_27.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mississippifreepress_org-_-2022_11_05_12_53_27.report.json",
+      "summary": {
+        "performance": 0.2,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.96,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.mississippifreepress.org/",
+      "isRepresentativeRun": false,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mississippifreepress_org-_-2022_11_05_12_53_51.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mississippifreepress_org-_-2022_11_05_12_53_51.report.json",
+      "summary": {
+        "performance": 0.22,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.96,
+        "pwa": 0.4
+      }
+    },
+    {
+      "url": "https://www.mississippifreepress.org/",
+      "isRepresentativeRun": true,
+      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mississippifreepress_org-_-2022_11_05_12_54_13.report.html",
+      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_mississippifreepress_org-_-2022_11_05_12_54_13.report.json",
+      "summary": {
+        "performance": 0.21,
+        "accessibility": 0.96,
+        "best-practices": 0.92,
+        "seo": 0.96,
+        "pwa": 0.4
+      }
     }
   ],
-  "uniq": 718090804,
+  "server": "ia801405.us.archive.org",
+  "uniq": 1663085475,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

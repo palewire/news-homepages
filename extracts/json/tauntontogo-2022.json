@@ -1,5 +1,5 @@
 {
-  "created": 1667619856,
+  "created": 1667676507,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/28/items/tauntontogo-2022",
@@ -5616,31 +5616,93 @@
       "sha1": "9138e71cb5e3f272416551e63406e5d259ca631e"
     },
     {
+      "name": "tauntontogo-2022-11-05T11:01:26.350498-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667660499",
+      "size": "23562",
+      "md5": "60726e8326fa1333925eba2ee2f6a3fa",
+      "crc32": "317fbd5e",
+      "sha1": "df3c4127a4ab1626c3934816e63a21c2020aa5d8",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-11-05T11:01:26.350498-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667660501",
+      "size": "32829",
+      "md5": "93f48157ae8a293f2334e233b9b1a8f8",
+      "crc32": "7d12a18f",
+      "sha1": "26dbd8edd82a4dbddcaaf968696e5a0ac93d17ed",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-11-05T11:01:26.350498-04:00.jpg",
+      "source": "original",
+      "mtime": "1667660497",
+      "size": "281618",
+      "md5": "51a1cfa60d373f527290ed9ad270baf7",
+      "crc32": "ff062827",
+      "sha1": "7d19097aa8c43d1b9e5518aeae9e53fd557ee5b8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tauntontogo-2022-11-05T11:01:26.350498-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667660502",
+      "size": "1531",
+      "md5": "77ba0ce73048e3a79b549e1cbe500f1e",
+      "crc32": "5fc310de",
+      "sha1": "911d5f8f787b30821f7e30e3a6a09eda2cb6b8aa",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-11-05T11:01:26.350498-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667660505",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tauntontogo-2022-11-05T11:01:26.350498-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tauntontogo-2022-11-05T11:01:26.350498-04:00.jpg",
+      "mtime": "1667660779",
+      "size": "9196",
+      "md5": "f85f12dd1a635046d4850a3e132da98a",
+      "crc32": "0977c922",
+      "sha1": "65f32060a410918ca9d049245e398d8ab46788e1"
+    },
+    {
       "name": "tauntontogo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c646aa3984e94b193e4cccccdbe2051af0baf77a",
-      "mtime": "1667619834",
-      "size": "117266",
-      "md5": "067e6b469fb1e207617d8412a27e63d9",
-      "crc32": "ddd945f7",
-      "sha1": "6f292697a6eb95f74aacea5be6953d93df2da830",
+      "btih": "0f858a45414c0ccaefd7dc06c6af4d4cb24f5f6c",
+      "mtime": "1667660786",
+      "size": "118549",
+      "md5": "b938d6bda419e5c8a71a5f9013af6a29",
+      "crc32": "0a18f59b",
+      "sha1": "c894b303550a4febfc1ab172e2a21b57894addd3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tauntontogo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bc17a4219ada241889606825eb0033df",
+      "md5": "76e249da93ba28d9a69a80756111760b",
       "summation": "md5"
     },
     {
       "name": "tauntontogo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667618914",
-      "size": "708608",
-      "md5": "6dc57e66468c2511be5563105d95bfc8",
-      "crc32": "38b485d5",
-      "sha1": "1f8791ebe5a865b1dca1f9f13bc7cc71e5612141",
+      "mtime": "1667660510",
+      "size": "720896",
+      "md5": "6114396e0f04b58986b97cbab49e8731",
+      "crc32": "9298d169",
+      "sha1": "6a5cd0bd9acf279474ff4608971763a49e94d39e",
       "format": "Metadata"
     },
     {
@@ -5654,9 +5716,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 547,
-  "item_last_updated": 1667619834,
-  "item_size": 36599925,
+  "files_count": 553,
+  "item_last_updated": 1667660786,
+  "item_size": 36962434,
   "metadata": {
     "identifier": "tauntontogo-2022",
     "collection": [
@@ -5673,10 +5735,15 @@
     "publicdate": "2022-09-21 03:43:10",
     "addeddate": "2022-09-21 03:43:10"
   },
-  "server": "ia601506.us.archive.org",
-  "uniq": 41641994,
+  "server": "ia801506.us.archive.org",
+  "tauntontogo-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 2126599045,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia801506.us.archive.org",
+    "ia601506.us.archive.org"
   ]
 }

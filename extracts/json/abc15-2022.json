@@ -1,5 +1,9 @@
 {
-  "created": 1667645667,
+  "abc15-2022": {
+    "url": "https://www.abc15.com/",
+    "job_id": "spn2-61b1426da19b409a68e46bf378667af33e7fbe98"
+  },
+  "created": 1667670761,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/17/items/abc15-2022",
@@ -12309,21 +12313,32 @@
       "format": "JSON"
     },
     {
+      "name": "abc15-2022-11-05T03:53:16.177473-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc15-2022-11-05T03:53:16.177473-07:00.jpg",
+      "mtime": "1667647045",
+      "size": "10862",
+      "md5": "f4004a73dda98d21a30327a5f46cf838",
+      "crc32": "d435bd2b",
+      "sha1": "365ccda6d5d1b472521857fa17ff914f6aea9133"
+    },
+    {
       "name": "abc15-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4f3431fb069088486fb9cf1474e85bac3c2c54be",
-      "mtime": "1667645664",
-      "size": "248329",
-      "md5": "e50093d3370103afb5eed33509f00fba",
-      "crc32": "532dc3cc",
-      "sha1": "ccc3a841b82582e0c833dde6a505f5d7cbf22886",
+      "btih": "676b038def100c31d74967ade60dbb4fc2e36a22",
+      "mtime": "1667647058",
+      "size": "248531",
+      "md5": "1d5cdcbf8f0529663f98f2283a99e478",
+      "crc32": "15a9fea7",
+      "sha1": "f475a22fa68722b0f212cdf6fd334651fe5a4342",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc15-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "822254d3c2ab3ec9bdb59c72279598f2",
+      "md5": "499252995ef3f842c7433c5f072efb8d",
       "summation": "md5"
     },
     {
@@ -12347,9 +12362,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1193,
-  "item_last_updated": 1667645664,
-  "item_size": 89833354,
+  "files_count": 1194,
+  "item_last_updated": 1667647058,
+  "item_size": 89844418,
   "metadata": {
     "identifier": "abc15-2022",
     "collection": [
@@ -12366,21 +12381,10 @@
     "publicdate": "2022-07-25 23:06:25",
     "addeddate": "2022-07-25 23:06:25"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462752914,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1865782091,
+  "uniq": 1567816844,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

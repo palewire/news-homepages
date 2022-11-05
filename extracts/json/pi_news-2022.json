@@ -1,5 +1,5 @@
 {
-  "created": 1667629319,
+  "created": 1667675397,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/30/items/pi_news-2022",
@@ -5637,21 +5637,32 @@
       "format": "JSON"
     },
     {
+      "name": "pi_news-2022-11-05T02:20:42.970811-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pi_news-2022-11-05T02:20:42.970811-04:00.jpg",
+      "mtime": "1667630223",
+      "size": "9478",
+      "md5": "0dd1ecfb484414b3f91d42077f6a8e65",
+      "crc32": "ee7f7929",
+      "sha1": "a6a85c46c29c1d238b2e41a8a44576155b02dd8c"
+    },
+    {
       "name": "pi_news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9db6ee2c63a0154f4db5e9f59be638af1e9f63c4",
-      "mtime": "1667629316",
-      "size": "115438",
-      "md5": "ff2b62e21e9109cc1709b0e7decfa70c",
-      "crc32": "c2979ad7",
-      "sha1": "e7fac5266a725df930651635f185c57189ff8609",
+      "btih": "3fb5137265d25d497c285aee455923f809206734",
+      "mtime": "1667630232",
+      "size": "115641",
+      "md5": "126b198003ae147918b5a18c28c44f65",
+      "crc32": "b685b089",
+      "sha1": "366073d8fcbbd6832e7b8392886a0d650b354e04",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pi_news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77e4926e60698937b751c2502c21f18d",
+      "md5": "5618bbbb0cd650360859b3d9407d3fef",
       "summation": "md5"
     },
     {
@@ -5675,9 +5686,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 549,
-  "item_last_updated": 1667629316,
-  "item_size": 35313558,
+  "files_count": 550,
+  "item_last_updated": 1667630232,
+  "item_size": 35323239,
   "metadata": {
     "identifier": "pi_news-2022",
     "collection": [
@@ -5694,21 +5705,15 @@
     "publicdate": "2022-09-20 19:18:55",
     "addeddate": "2022-09-20 19:18:55"
   },
-  "pending_tasks": true,
+  "pi_news-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462581277,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1164563942,
+  "uniq": 1922068756,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

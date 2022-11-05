@@ -1,5 +1,5 @@
 {
-  "created": 1667629466,
+  "created": 1667675719,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/29/items/quintoelab-2022",
@@ -16631,21 +16631,32 @@
       "format": "JSON"
     },
     {
+      "name": "quintoelab-2022-11-05T00:23:03.653037-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "quintoelab-2022-11-05T00:23:03.653037-06:00.jpg",
+      "mtime": "1667630869",
+      "size": "8765",
+      "md5": "a23c8f1deb82de0b1e62bcdff1c788d8",
+      "crc32": "8a615b22",
+      "sha1": "8c294834f1b51046faf89920e8eda5210245d5c2"
+    },
+    {
       "name": "quintoelab-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f8456fddf084c23600d6bba5e5ee09bbbe9797b9",
-      "mtime": "1667629463",
-      "size": "341062",
-      "md5": "fa5921a439389abd2e2b7023b0642bbe",
-      "crc32": "95d3ea49",
-      "sha1": "fa95e3046087db1a1856bb1d3045d0b49828c5a7",
+      "btih": "4380e664d97e3155124599133adf6d0f7b3f23c8",
+      "mtime": "1667630892",
+      "size": "341268",
+      "md5": "eff0ce13a3119c1c3a4b25ea24ce8b52",
+      "crc32": "6f16aced",
+      "sha1": "65e06e2436c268d67eb2d9811f6b59058f0a1121",
       "format": "Archive BitTorrent"
     },
     {
       "name": "quintoelab-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf3c0161232e3222c6385e9e87d245e3",
+      "md5": "799443d01f9c05b01b8c65936c4cc70e",
       "summation": "md5"
     },
     {
@@ -16669,9 +16680,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1606,
-  "item_last_updated": 1667629463,
-  "item_size": 111073783,
+  "files_count": 1607,
+  "item_last_updated": 1667630892,
+  "item_size": 111082754,
   "metadata": {
     "identifier": "quintoelab-2022",
     "collection": [
@@ -16688,21 +16699,14 @@
     "publicdate": "2022-06-19 23:27:40",
     "addeddate": "2022-06-19 23:27:40"
   },
-  "pending_tasks": true,
+  "quintoelab-2022": {
+    "url": "https://quintoelab.org/",
+    "job_id": "spn2-7688c2abc257a34ddd85fe71cb0c64c90bf5504e"
+  },
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462582696,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1509863735,
+  "uniq": 988807362,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

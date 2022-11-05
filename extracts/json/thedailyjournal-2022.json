@@ -1,5 +1,5 @@
 {
-  "created": 1667629633,
+  "created": 1667676754,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/6/items/thedailyjournal-2022",
@@ -5677,21 +5677,32 @@
       "format": "JSON"
     },
     {
+      "name": "thedailyjournal-2022-11-05T02:26:16.465469-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thedailyjournal-2022-11-05T02:26:16.465469-04:00.jpg",
+      "mtime": "1667630316",
+      "size": "9176",
+      "md5": "f780ed1b50e2950bfe01909b7ffb8b0f",
+      "crc32": "dfc17faf",
+      "sha1": "9d45a16b2938c53c24116948c2784df5ff2a4cfb"
+    },
+    {
       "name": "thedailyjournal-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1106d32a24d72da1370a070347834463c531c025",
-      "mtime": "1667629629",
-      "size": "120766",
-      "md5": "4acdf0962c5a21d0e14d59b70262ed69",
-      "crc32": "6d60c5c8",
-      "sha1": "1d60ae8e32189e816686ff26f3fc5063d61c3a48",
+      "btih": "0f4b17b5d174d2268cdd86fd1738352d1da3ec09",
+      "mtime": "1667630321",
+      "size": "120977",
+      "md5": "7049a49e38120f9162cad99d47f15798",
+      "crc32": "1b0d70a5",
+      "sha1": "0601010547e89d514b6a2e096ba96b12b58560d8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thedailyjournal-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5a020c5d301c5b7b43fc78cdf91665dc",
+      "md5": "dc635f4e2945cf38e23e40e63df1e3e4",
       "summation": "md5"
     },
     {
@@ -5715,9 +5726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 553,
-  "item_last_updated": 1667629629,
-  "item_size": 36592106,
+  "files_count": 554,
+  "item_last_updated": 1667630321,
+  "item_size": 36601493,
   "metadata": {
     "identifier": "thedailyjournal-2022",
     "collection": [
@@ -5734,21 +5745,15 @@
     "publicdate": "2022-09-20 19:28:47",
     "addeddate": "2022-09-20 19:28:47"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462584657,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 328137551,
+  "server": "ia801500.us.archive.org",
+  "thedailyjournal-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1968684480,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

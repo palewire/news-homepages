@@ -1,5 +1,5 @@
 {
-  "created": 1667629488,
+  "created": 1667675977,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/29/items/ringer-2022",
@@ -16497,21 +16497,32 @@
       "format": "JSON"
     },
     {
+      "name": "ringer-2022-11-04T23:23:19.898878-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ringer-2022-11-04T23:23:19.898878-07:00.jpg",
+      "mtime": "1667630311",
+      "size": "10630",
+      "md5": "7351455a6586cfa69f393482cf2eeee0",
+      "crc32": "6332f828",
+      "sha1": "de59ccc79c449a0869ad488afe570f098969d4fd"
+    },
+    {
       "name": "ringer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "829e4c306c20eddf0ea8c1b3de86809c46a6dccf",
-      "mtime": "1667629483",
-      "size": "334105",
-      "md5": "74493033b444c2d401ecb0dbf4db916c",
-      "crc32": "e7c718a8",
-      "sha1": "6b42d0ad6ac29ccbfe0c34cad8a26debf8740791",
+      "btih": "8c076de7611deea7bddb43986690e4dc78187f82",
+      "mtime": "1667630332",
+      "size": "334308",
+      "md5": "eee0953232ca6b78ea0b1b013bb538c5",
+      "crc32": "cf0fe194",
+      "sha1": "f21375681e00338ea4761b576563a371ec755ca8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ringer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9e8b1a5da444e03b18579234246b21a5",
+      "md5": "d918ce517be2e862b832c6e58bac467a",
       "summation": "md5"
     },
     {
@@ -16535,9 +16546,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1593,
-  "item_last_updated": 1667629483,
-  "item_size": 148256679,
+  "files_count": 1594,
+  "item_last_updated": 1667630332,
+  "item_size": 148267512,
   "metadata": {
     "identifier": "ringer-2022",
     "collection": [
@@ -16554,21 +16565,18 @@
     "publicdate": "2022-06-19 23:27:48",
     "addeddate": "2022-06-19 23:27:48"
   },
-  "pending_tasks": true,
-  "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462582929,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 2064077864,
+  "ringer-2022": {
+    "url": "https://www.theringer.com/",
+    "job_id": "spn2-2e370c630e1b2f06bae8aedd003fb5742d66b1c6",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "server": "ia802504.us.archive.org",
+  "uniq": 1175112140,
   "workable_servers": [
+    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

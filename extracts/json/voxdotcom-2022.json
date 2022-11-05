@@ -1,5 +1,5 @@
 {
-  "created": 1667629889,
+  "created": 1667677783,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/22/items/voxdotcom-2022",
@@ -22103,21 +22103,32 @@
       "format": "JSON"
     },
     {
+      "name": "voxdotcom-2022-11-05T02:28:37.426964-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voxdotcom-2022-11-05T02:28:37.426964-04:00.jpg",
+      "mtime": "1667631049",
+      "size": "8704",
+      "md5": "1d23bceefcf7e82f7f0ed6c433e1091a",
+      "crc32": "9e87bce6",
+      "sha1": "28adc7e2f4b2c403b356379ae3bd28440cbdc79f"
+    },
+    {
       "name": "voxdotcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3cb8c0bc4bc50d9e6c4fb952fe61edece355e5df",
-      "mtime": "1667629876",
-      "size": "452376",
-      "md5": "9ab95655536e1c046c3ad405a26eedc9",
-      "crc32": "1fff672a",
-      "sha1": "9c1a1b803e5678c39d3c122bf1b6a385161acebb",
+      "btih": "937a8a5ba2a136c316c3b3bbc903f001aeb77cf8",
+      "mtime": "1667631088",
+      "size": "452581",
+      "md5": "8755c9a30215a8aa5aff3d09169171a0",
+      "crc32": "15da29b6",
+      "sha1": "2860e67576c1f666ee95ebc9fdcfa5072f96f098",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voxdotcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "198b8e6c27463349347a8a6284028ab1",
+      "md5": "6c22ce9e414d96d82e2f8a7c3e705bcc",
       "summation": "md5"
     },
     {
@@ -22141,9 +22152,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2136,
-  "item_last_updated": 1667629876,
-  "item_size": 157603499,
+  "files_count": 2137,
+  "item_last_updated": 1667631088,
+  "item_size": 157612408,
   "metadata": {
     "identifier": "voxdotcom-2022",
     "collection": [
@@ -22160,21 +22171,15 @@
     "publicdate": "2022-06-19 23:29:34",
     "addeddate": "2022-06-19 23:29:34"
   },
-  "pending_tasks": true,
-  "server": "ia601506.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462587363,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1631444897,
+  "server": "ia801506.us.archive.org",
+  "uniq": 454362115,
+  "voxdotcom-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
+    "ia801506.us.archive.org",
     "ia601506.us.archive.org"
   ]
 }

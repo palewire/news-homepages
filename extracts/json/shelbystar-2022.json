@@ -1,5 +1,5 @@
 {
-  "created": 1667630080,
+  "created": 1667676227,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/4/items/shelbystar-2022",
@@ -5777,10 +5777,18 @@
     "publicdate": "2022-09-20 19:23:48",
     "addeddate": "2022-09-20 19:23:48"
   },
-  "server": "ia801502.us.archive.org",
-  "uniq": 985516636,
+  "server": "ia601502.us.archive.org",
+  "shelbystar-2022": {
+    "url": "https://www.shelbystar.com/",
+    "job_id": "spn2-9f00adfd5fcd38f024e843029b407aeb47c4f9f9",
+    "resources": [],
+    "status": "error",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 667.",
+    "status_ext": "WorkerLostError"
+  },
+  "uniq": 1707678741,
   "workable_servers": [
-    "ia801502.us.archive.org",
-    "ia601502.us.archive.org"
+    "ia601502.us.archive.org",
+    "ia801502.us.archive.org"
   ]
 }

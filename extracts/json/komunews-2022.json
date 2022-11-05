@@ -1,5 +1,5 @@
 {
-  "created": 1667653658,
+  "created": 1667673796,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/31/items/komunews-2022",
@@ -15885,21 +15885,32 @@
       "format": "JSON"
     },
     {
+      "name": "komunews-2022-11-05T08:06:09.860983-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "komunews-2022-11-05T08:06:09.860983-05:00.jpg",
+      "mtime": "1667655586",
+      "size": "10267",
+      "md5": "5c335970f9ffb3827d522f2fa324dfd6",
+      "crc32": "1b8ac92f",
+      "sha1": "5a3a8def2aace2c740ffa776b8b42ac3203ee4fd"
+    },
+    {
       "name": "komunews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7ed34c81b552edb2cd19fa7187471ae92387e2a8",
-      "mtime": "1667653649",
-      "size": "324105",
-      "md5": "da60ddc2df46719036d552cc9c4e8b6b",
-      "crc32": "ea2245dc",
-      "sha1": "6c603b5235ab50f44d8656ebf222d8d107a2e5e1",
+      "btih": "89957bc76cf15b6dba739d0dacca134a75106e44",
+      "mtime": "1667655664",
+      "size": "324310",
+      "md5": "4aceddb58fdc004d9f30722a3065db9a",
+      "crc32": "e036f74d",
+      "sha1": "0af7775be9c716d3c7142bd2d295cb72b3da28ee",
       "format": "Archive BitTorrent"
     },
     {
       "name": "komunews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f0196cb86d8d207d32a8fec25ac9b7e4",
+      "md5": "2006385527b02712c1b8d3a5638d374f",
       "summation": "md5"
     },
     {
@@ -15923,9 +15934,17 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1535,
-  "item_last_updated": 1667653649,
-  "item_size": 119909071,
+  "files_count": 1536,
+  "item_last_updated": 1667655664,
+  "item_size": 119919543,
+  "komunews-2022": {
+    "url": "https://www.komu.com/",
+    "job_id": "spn2-5c1efc5c88acca53c24cf46ccb21780f99db6792",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "message": "Job failed.",
+    "resources": []
+  },
   "metadata": {
     "identifier": "komunews-2022",
     "collection": [
@@ -15942,21 +15961,10 @@
     "publicdate": "2022-06-24 22:57:45",
     "addeddate": "2022-06-24 22:57:45"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462844194,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1457818698,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1807450839,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

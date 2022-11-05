@@ -1,6 +1,5 @@
 {
-  "conflict": 1667453994,
-  "created": 1667453994,
+  "created": 1667673526,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/28/items/indystar-2022",
@@ -5441,31 +5440,279 @@
       "sha1": "d011cee1e730eb24871502d31f7a95cfb33220f8"
     },
     {
+      "name": "indystar-2022-11-04T04:28:09.405642-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667550492",
+      "size": "23904",
+      "md5": "8113bf86fab36df56d84f70cac0ca73e",
+      "crc32": "3ca9952a",
+      "sha1": "fef8f421f7ca7a65e59ef7021cff66fecb4963c9",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-04T04:28:09.405642-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667550497",
+      "size": "32239",
+      "md5": "51bbd1a97218e4a661f19b0c333941d1",
+      "crc32": "471a906f",
+      "sha1": "99e3e1cf65f77604be40eac40d9af1c228c7a29f",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-04T04:28:09.405642-04:00.jpg",
+      "source": "original",
+      "mtime": "1667550490",
+      "size": "269091",
+      "md5": "8af931b3bb902bb53b929713fe681762",
+      "crc32": "11da0e43",
+      "sha1": "66d6db360878e520a92d6157c8e60731cdf294e7",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indystar-2022-11-04T04:28:09.405642-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667550498",
+      "size": "1477",
+      "md5": "6d6bc5c5b5fd4e612e3b368970f66c0a",
+      "crc32": "f09019a5",
+      "sha1": "b60b57ab74fc86c83c595039a76e99b299a5e293",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-04T04:28:09.405642-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667550500",
+      "size": "88345",
+      "md5": "55f89bf374c0f8bf328c6bf8cad12537",
+      "crc32": "b437a4dc",
+      "sha1": "818ff0450b85ef559b04ca8a8a8ec21ab218a944",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-04T04:28:09.405642-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indystar-2022-11-04T04:28:09.405642-04:00.jpg",
+      "mtime": "1667556053",
+      "size": "9603",
+      "md5": "ece2e6c380de921de0f813800d545105",
+      "crc32": "94850204",
+      "sha1": "70ab50a1e8263c6d857e400fc2b83e6fd535547c"
+    },
+    {
+      "name": "indystar-2022-11-04T15:57:18.100810-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667591842",
+      "size": "22171",
+      "md5": "0f713d89c2bec7a94187e7fb4f837450",
+      "crc32": "35023e32",
+      "sha1": "7b6b9422a6f7f7dc655f20dacfcfdb9706ba7fc0",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-04T15:57:18.100810-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667591844",
+      "size": "33800",
+      "md5": "0c695af49e436a8ed94b869393dcfcd8",
+      "crc32": "619945fd",
+      "sha1": "8af5934691030fb250d991b6a06456c4b3eed94d",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-04T15:57:18.100810-04:00.jpg",
+      "source": "original",
+      "mtime": "1667591841",
+      "size": "284204",
+      "md5": "2c62fb25e0404a0fe50b449f8521d3bf",
+      "crc32": "45c2e136",
+      "sha1": "a6ccf30aff3021101cea4e2863ce624f0e28895b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indystar-2022-11-04T15:57:18.100810-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667591845",
+      "size": "1477",
+      "md5": "61e9833b81d664dc42910cd88211b2d5",
+      "crc32": "92f223be",
+      "sha1": "65a19d21e3ecdfed11abafb54d2c38f96ea6d5c9",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-04T15:57:18.100810-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667591847",
+      "size": "93907",
+      "md5": "cdfb54bc827c77c5a18d1162cf0c076d",
+      "crc32": "d294c57a",
+      "sha1": "ea01832773838164a988807df3d2c62904d6a5d1",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-04T15:57:18.100810-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indystar-2022-11-04T15:57:18.100810-04:00.jpg",
+      "mtime": "1667596017",
+      "size": "9401",
+      "md5": "f18805091dbc6e7c855e7a5ea1424a5f",
+      "crc32": "c0489fb8",
+      "sha1": "87272a22d3493ce69bc33679e232c19cfaca2b5a"
+    },
+    {
+      "name": "indystar-2022-11-05T01:13:57.998099-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667625241",
+      "size": "19376",
+      "md5": "c4610aafc7a51b4dd556ba173e3d1e29",
+      "crc32": "da627fa8",
+      "sha1": "ea9f985ec39ca0296c48af2c56774a9b9c9505ec",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-05T01:13:57.998099-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667625242",
+      "size": "38094",
+      "md5": "9dfb817fbdbaee9dc03197b9526351ba",
+      "crc32": "1ad7e3e6",
+      "sha1": "1e72cde07d6038735fdc3071e54db56b668d0bdb",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-05T01:13:57.998099-04:00.jpg",
+      "source": "original",
+      "mtime": "1667625239",
+      "size": "271647",
+      "md5": "b06948cb6ba82ff9e213adc34f8f3c39",
+      "crc32": "e16cb864",
+      "sha1": "dd52885bde0d68a1c4f93aa3ea2896b0ec2303de",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indystar-2022-11-05T01:13:57.998099-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667625244",
+      "size": "1476",
+      "md5": "7a924d6ae6eb5b3b80dc8f4006be2700",
+      "crc32": "ffee3746",
+      "sha1": "f97a8a85e3a60f39536a350229fe57104e500cdb",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-05T01:13:57.998099-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667625245",
+      "size": "127033",
+      "md5": "1a3e9555501c5ad7382da0cdb6868817",
+      "crc32": "f37e6aff",
+      "sha1": "7af434cea7901f640b7217ae23a90091279d5a6a",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-05T01:13:57.998099-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indystar-2022-11-05T01:13:57.998099-04:00.jpg",
+      "mtime": "1667625757",
+      "size": "9715",
+      "md5": "5b421d8f29c289412301b08f2390e476",
+      "crc32": "8ba95767",
+      "sha1": "1968bebc77eba53d382724ed190ad5db9dbee8ed"
+    },
+    {
+      "name": "indystar-2022-11-05T13:49:18.728149-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667670574",
+      "size": "21091",
+      "md5": "7ad3e05bce63561bf452b36a670265ba",
+      "crc32": "c9de5cb8",
+      "sha1": "eb948a39747c47f97c73f17348fc034e70c9eb46",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-05T13:49:18.728149-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667670575",
+      "size": "36699",
+      "md5": "f4b3e547577827dcaa18901402602863",
+      "crc32": "d708021f",
+      "sha1": "4bb43b2e51b25972497053ad602f1c7e7fed4983",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-05T13:49:18.728149-04:00.jpg",
+      "source": "original",
+      "mtime": "1667670572",
+      "size": "280123",
+      "md5": "7c7275e201e474169c77b3ddb98b48cc",
+      "crc32": "0f32e1e3",
+      "sha1": "561dc02f04abb7e5e5cbd4ccc5c27a74ba708a9c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "indystar-2022-11-05T13:49:18.728149-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667670577",
+      "size": "1476",
+      "md5": "5d1dffde1f2e015cf8b7a8538aa7e67e",
+      "crc32": "cb833cf6",
+      "sha1": "8012ca25307624a97167ddbe55c397f3307b3c0e",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-05T13:49:18.728149-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667670579",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "indystar-2022-11-05T13:49:18.728149-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indystar-2022-11-05T13:49:18.728149-04:00.jpg",
+      "mtime": "1667670913",
+      "size": "9794",
+      "md5": "2c785b46ff4f8540003ebb9bb28499f3",
+      "crc32": "11a0bc2b",
+      "sha1": "6d8e9cacb475e010424d2c68784838f4eb1a04f7"
+    },
+    {
       "name": "indystar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8888cc30a524b9847d6853ea63b42488c100aa41",
-      "mtime": "1667453992",
-      "size": "112109",
-      "md5": "4bc5d29f80f56fd2a611c91d0fca1b3d",
-      "crc32": "a4f448ea",
-      "sha1": "5d91fa15a88a6019950acbe9e3e3940f71f7c131",
+      "btih": "19642213914027df25a81707b1c6531ec882c1c4",
+      "mtime": "1667670921",
+      "size": "117176",
+      "md5": "40509809655883435ff328d26cc27040",
+      "crc32": "0fdb9fa7",
+      "sha1": "fefdba1a49cbfd2ac8aaf7e5596203bf2a7ec3cb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indystar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4bde5ae66768949041a594f4501fa577",
+      "md5": "8064778ea92f40b4d5304f48e1b471b6",
       "summation": "md5"
     },
     {
       "name": "indystar-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667451538",
-      "size": "688128",
-      "md5": "d93af1df6b55f07d2b438540e309b8c4",
-      "crc32": "cc932d05",
-      "sha1": "e0d7e486219b2ece40022eb133574692a936e6a5",
+      "mtime": "1667670582",
+      "size": "716800",
+      "md5": "2e3a8714c345fc30ef7528e7fde14d3a",
+      "crc32": "1b456d2f",
+      "sha1": "b01ce7f34228e54a7e3f6fef0f7cf7b57aaaafe1",
       "format": "Metadata"
     },
     {
@@ -5479,9 +5726,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 530,
-  "item_last_updated": 1667453992,
-  "item_size": 36689419,
+  "files_count": 554,
+  "item_last_updated": 1667670921,
+  "item_size": 38409503,
   "metadata": {
     "identifier": "indystar-2022",
     "collection": [
@@ -5498,29 +5745,10 @@
     "publicdate": "2022-09-20 17:30:24",
     "addeddate": "2022-09-20 17:30:24"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3460352571,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3460382651,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2057456551,
+  "uniq": 371911648,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

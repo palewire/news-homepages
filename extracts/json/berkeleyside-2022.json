@@ -1,5 +1,9 @@
 {
-  "created": 1667645839,
+  "berkeleyside-2022": {
+    "url": "https://berkeleyside.org/",
+    "job_id": "spn2-0fcecc12461364ca5adc85406639c88e21790dae"
+  },
+  "created": 1667671365,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/35/items/berkeleyside-2022",
@@ -21857,21 +21861,32 @@
       "format": "JSON"
     },
     {
+      "name": "berkeleyside-2022-11-05T03:55:54.147312-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "berkeleyside-2022-11-05T03:55:54.147312-07:00.jpg",
+      "mtime": "1667646669",
+      "size": "9429",
+      "md5": "0d0291a560e375c7db33b804e38fea8a",
+      "crc32": "eb9f8df4",
+      "sha1": "54a34c0e8b68794b7710f79bd9d9bacee4b276fd"
+    },
+    {
       "name": "berkeleyside-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e1716dd874359f7e0916335a8daaa1cf61f6a812",
-      "mtime": "1667645835",
-      "size": "452671",
-      "md5": "a2df135616cf7308a9de6b9937bef85b",
-      "crc32": "a1a3f9c3",
-      "sha1": "2f1947e85739e1434bd5d19a95d88d6d7f1eabfa",
+      "btih": "a538139c8a653496bb069486fd6a3543a19206a7",
+      "mtime": "1667646707",
+      "size": "452879",
+      "md5": "f95d90b2d39da8e2ebbf4632f76b8af4",
+      "crc32": "ca5ebbb0",
+      "sha1": "c24fe873221223e522034755fa748140ffdef0f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "berkeleyside-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0e6c1f2366aba732f53f03d3aa1ecdb8",
+      "md5": "c05718f9de9d042c8a5123f2e9fd7a21",
       "summation": "md5"
     },
     {
@@ -21895,9 +21910,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2103,
-  "item_last_updated": 1667645835,
-  "item_size": 185615478,
+  "files_count": 2104,
+  "item_last_updated": 1667646707,
+  "item_size": 185625115,
   "metadata": {
     "identifier": "berkeleyside-2022",
     "collection": [
@@ -21915,21 +21930,10 @@
     "addeddate": "2022-03-23 02:08:42",
     "year": "2022"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462754755,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1049616294,
+  "uniq": 1346819033,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

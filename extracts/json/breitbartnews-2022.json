@@ -1,5 +1,9 @@
 {
-  "created": 1667646028,
+  "breitbartnews-2022": {
+    "url": "https://www.breitbart.com/",
+    "job_id": "spn2-68e80d7fdc9b3770bcc00d6be462c2304b03b93d"
+  },
+  "created": 1667671571,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/13/items/breitbartnews-2022",
@@ -27179,21 +27183,32 @@
       "format": "JSON"
     },
     {
+      "name": "breitbartnews-2022-11-05T06:58:27.470626-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "breitbartnews-2022-11-05T06:58:27.470626-04:00.jpg",
+      "mtime": "1667647149",
+      "size": "7771",
+      "md5": "31bf0452f6e67b6c2cc6cf4a7059e8ab",
+      "crc32": "50741ab6",
+      "sha1": "367b2d94bf4ae93360df14e659ebaac6dc2afcbd"
+    },
+    {
       "name": "breitbartnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e4c56d4089147277236728a0078261e7af00c41b",
-      "mtime": "1667646023",
-      "size": "566105",
-      "md5": "6c7ddadd1cb5953c1dfada6f4c4acb70",
-      "crc32": "955e324f",
-      "sha1": "93e7e051122094b679df26e9227e7a4fb994a33f",
+      "btih": "e6ff9b685fbdf07c1aa15b9714ea689b07a2bd40",
+      "mtime": "1667647234",
+      "size": "566314",
+      "md5": "e03a022daed96f693ee641e117a27221",
+      "crc32": "645a5e86",
+      "sha1": "e681a5976fa36a7628dad03667e836695c08ca4b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "breitbartnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f35e9b8527613058ef22034e6a16d98d",
+      "md5": "ef88fea06f15b5e6fa0929911b2bd65d",
       "summation": "md5"
     },
     {
@@ -27217,9 +27232,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2619,
-  "item_last_updated": 1667646023,
-  "item_size": 224604965,
+  "files_count": 2620,
+  "item_last_updated": 1667647234,
+  "item_size": 224612945,
   "metadata": {
     "identifier": "breitbartnews-2022",
     "collection": [
@@ -27236,21 +27251,10 @@
     "publicdate": "2022-03-25 18:46:45",
     "addeddate": "2022-03-25 18:46:45"
   },
-  "pending_tasks": true,
-  "server": "ia902505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462756882,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1251210913,
+  "server": "ia802505.us.archive.org",
+  "uniq": 1047115697,
   "workable_servers": [
+    "ia802505.us.archive.org",
     "ia902505.us.archive.org"
   ]
 }

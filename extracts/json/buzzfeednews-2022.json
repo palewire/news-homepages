@@ -1,5 +1,9 @@
 {
-  "created": 1667645999,
+  "buzzfeednews-2022": {
+    "url": "https://www.buzzfeednews.com/",
+    "job_id": "spn2-d5728b87e2e4896cd7c44399473bf07ce8473a3e"
+  },
+  "created": 1667671689,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/4/items/buzzfeednews-2022",
@@ -16817,21 +16821,32 @@
       "format": "JSON"
     },
     {
+      "name": "buzzfeednews-2022-11-05T06:58:26.581515-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "buzzfeednews-2022-11-05T06:58:26.581515-04:00.jpg",
+      "mtime": "1667646915",
+      "size": "10057",
+      "md5": "cdd1b61d8dd495d459efb9f0d5e33041",
+      "crc32": "a13085eb",
+      "sha1": "6afaca6210e4098cfa4ff955542b0177e0434052"
+    },
+    {
       "name": "buzzfeednews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "11ac122d493e41f98c4efc366ecedad31666e189",
-      "mtime": "1667645990",
-      "size": "349606",
-      "md5": "619a32b96f1166e0c2a73b7315a17bc0",
-      "crc32": "802a5f37",
-      "sha1": "555ef228407618f358c9bdacfacf75b82868537f",
+      "btih": "1f75d8fb3b302131127f75f0d3598e31e4ea4a8f",
+      "mtime": "1667646952",
+      "size": "349815",
+      "md5": "b5afef2f3dc3eb2a5d7812b90cd13990",
+      "crc32": "131be39b",
+      "sha1": "14e58507793eb7ea5c14861d7a7da8d7e514b988",
       "format": "Archive BitTorrent"
     },
     {
       "name": "buzzfeednews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9b5ad6692b4ef74bcf767f0245aa818c",
+      "md5": "d8b015bf106a8276802ea318c910722b",
       "summation": "md5"
     },
     {
@@ -16855,9 +16870,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1624,
-  "item_last_updated": 1667645990,
-  "item_size": 133286830,
+  "files_count": 1625,
+  "item_last_updated": 1667646952,
+  "item_size": 133297096,
   "metadata": {
     "identifier": "buzzfeednews-2022",
     "collection": [
@@ -16874,21 +16889,10 @@
     "publicdate": "2022-06-19 23:23:22",
     "addeddate": "2022-06-19 23:23:22"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462756421,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1096425408,
+  "uniq": 1642228828,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667645879,
+  "created": 1667647604,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/25/items/boingboing-2022",
@@ -15479,21 +15479,32 @@
       "format": "JSON"
     },
     {
+      "name": "boingboing-2022-11-05T03:56:29.212102-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "boingboing-2022-11-05T03:56:29.212102-07:00.jpg",
+      "mtime": "1667647493",
+      "size": "8241",
+      "md5": "8189dc4533c6bd5e8003e01c5fc50d4e",
+      "crc32": "a84f6ed8",
+      "sha1": "dace466501b5be2cec05c036304734f0a614fdac"
+    },
+    {
       "name": "boingboing-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4287a32d490cd25f29c792a92f327a83ce66b8da",
-      "mtime": "1667645871",
-      "size": "316482",
-      "md5": "476fb73a218cc23e16c3a380d4dd9bf3",
-      "crc32": "18c5834b",
-      "sha1": "c31a774a51569abe5d298541c81bf73dc7d30e81",
+      "btih": "4cf9f0205cb0ec6b5561e438a9e2efea52aa7d2c",
+      "mtime": "1667647517",
+      "size": "316688",
+      "md5": "c3374fb628cd72160fd436cdcb945cc5",
+      "crc32": "4d13b8c8",
+      "sha1": "1ec58e8055029a696f443fbc0ec5362a475bb60d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "boingboing-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "10312a68f1f188233c27ed85bfcf8379",
+      "md5": "1eb7e29a173a0c6599d144307ad36c2c",
       "summation": "md5"
     },
     {
@@ -15517,9 +15528,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1494,
-  "item_last_updated": 1667645871,
-  "item_size": 78034344,
+  "files_count": 1495,
+  "item_last_updated": 1667647517,
+  "item_size": 78042791,
   "metadata": {
     "identifier": "boingboing-2022",
     "collection": [
@@ -15536,21 +15547,10 @@
     "publicdate": "2022-06-24 22:53:11",
     "addeddate": "2022-06-24 22:53:11"
   },
-  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462755091,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2126077748,
+  "uniq": 221797434,
   "workable_servers": [
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

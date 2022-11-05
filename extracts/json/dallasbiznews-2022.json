@@ -1,7 +1,12 @@
 {
-  "created": 1667649392,
+  "created": 1667672450,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
+  "dallasbiznews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/15/items/dallasbiznews-2022",
   "files": [
     {
@@ -13183,21 +13188,32 @@
       "format": "JSON"
     },
     {
+      "name": "dallasbiznews-2022-11-05T06:55:13.118958-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dallasbiznews-2022-11-05T06:55:13.118958-05:00.jpg",
+      "mtime": "1667650349",
+      "size": "8456",
+      "md5": "729b291aea92a74ffeb38e1efc4e14f4",
+      "crc32": "0e78e9eb",
+      "sha1": "61ca2c3eb4e7e0fa318764484522901ad6a1f0b6"
+    },
+    {
       "name": "dallasbiznews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e6de1b527ef7b5e44812bdaa5fd307b0e7a3b5b3",
-      "mtime": "1667649387",
-      "size": "275516",
-      "md5": "1f0423555330da2ce64bef4e973eab8d",
-      "crc32": "706d7810",
-      "sha1": "da619ce567cf0c110e9180f8efcde8ae6f9b4112",
+      "btih": "db5ae5d98d3979d8c46d7e853096126a770b0e6f",
+      "mtime": "1667650377",
+      "size": "275725",
+      "md5": "9a6369de08015a67e8bc4d5fc2fe4d2a",
+      "crc32": "52c6e589",
+      "sha1": "566e1f22fb78c8571f176cda3cbf6b69f23cda22",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dallasbiznews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "08e5cc0678dd0107c52d4f408046e2e8",
+      "md5": "95739d88facf9fdac416421ec2205037",
       "summation": "md5"
     },
     {
@@ -13221,9 +13237,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1278,
-  "item_last_updated": 1667649387,
-  "item_size": 91470604,
+  "files_count": 1279,
+  "item_last_updated": 1667650377,
+  "item_size": 91479269,
   "metadata": {
     "identifier": "dallasbiznews-2022",
     "collection": [
@@ -13240,21 +13256,10 @@
     "publicdate": "2022-07-18 00:04:04",
     "addeddate": "2022-07-18 00:04:04"
   },
-  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462795126,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 47954743,
+  "uniq": 335916557,
   "workable_servers": [
-    "ia601507.us.archive.org"
+    "ia601507.us.archive.org",
+    "ia801507.us.archive.org"
   ]
 }

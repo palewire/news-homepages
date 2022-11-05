@@ -1,5 +1,5 @@
 {
-  "created": 1667653469,
+  "created": 1667657330,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/15/items/houmatoday-2022",
@@ -5761,21 +5761,32 @@
       "format": "JSON"
     },
     {
+      "name": "houmatoday-2022-11-05T08:03:17.383019-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "houmatoday-2022-11-05T08:03:17.383019-05:00.jpg",
+      "mtime": "1667656287",
+      "size": "9418",
+      "md5": "04e9f3e52a1c2ad75fd0131a10697fba",
+      "crc32": "9b1ecd59",
+      "sha1": "3a413e56299f6b8f1cbddfea301e45fcfc213eab"
+    },
+    {
       "name": "houmatoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8eed113c7b601d8bf8e9931995a671b6d51db18e",
-      "mtime": "1667653459",
-      "size": "119762",
-      "md5": "3a40fea6d59168c026e6c11bca656db6",
-      "crc32": "bd285966",
-      "sha1": "7c05abd8094c251ecac53181683502a9863a6cb6",
+      "btih": "e86504c040b4d489bef5cd02b619689c0dc075cc",
+      "mtime": "1667656293",
+      "size": "119968",
+      "md5": "f98d7d2365127b18404e3d0486e8ebe4",
+      "crc32": "a064d375",
+      "sha1": "95a4219a173917e0973b7635c2aca78d2e24ed40",
       "format": "Archive BitTorrent"
     },
     {
       "name": "houmatoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fbc03d99947cec17ecd5b179db631e95",
+      "md5": "0c3ae83b3c4e03ea0fd7653c180c179f",
       "summation": "md5"
     },
     {
@@ -5799,9 +5810,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 561,
-  "item_last_updated": 1667653459,
-  "item_size": 38765039,
+  "files_count": 562,
+  "item_last_updated": 1667656293,
+  "item_size": 38774663,
   "metadata": {
     "identifier": "houmatoday-2022",
     "collection": [
@@ -5818,21 +5829,10 @@
     "publicdate": "2022-09-20 22:19:46",
     "addeddate": "2022-09-20 22:19:46"
   },
-  "pending_tasks": true,
-  "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462841342,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2073724276,
+  "server": "ia801505.us.archive.org",
+  "uniq": 2022031163,
   "workable_servers": [
+    "ia801505.us.archive.org",
     "ia601505.us.archive.org"
   ]
 }

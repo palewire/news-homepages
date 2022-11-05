@@ -1,5 +1,5 @@
 {
-  "created": 1667653472,
+  "created": 1667673710,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/1/items/kark4news-2022",
@@ -6815,21 +6815,32 @@
       "format": "JSON"
     },
     {
+      "name": "kark4news-2022-11-05T08:03:15.487423-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "kark4news-2022-11-05T08:03:15.487423-05:00.jpg",
+      "mtime": "1667654686",
+      "size": "11166",
+      "md5": "818031225ba4e65a2c82d2008f792ce4",
+      "crc32": "3e89a8e5",
+      "sha1": "4aba28ff25c732d2781ee97af45476be25905e2d"
+    },
+    {
       "name": "kark4news-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4550c8b4bcb8c1c5551777b58a99933c79988c58",
-      "mtime": "1667653464",
-      "size": "141061",
-      "md5": "f64d0d42ab595ffd3eb8f682c8a28679",
-      "crc32": "7fbbd2cc",
-      "sha1": "a2574804d2ba7e3885ab2a77eae278fe6e60836b",
+      "btih": "9578e5f4166f23aa80851d33d10d61aca8966ca8",
+      "mtime": "1667654707",
+      "size": "141267",
+      "md5": "2ae22156d1d45e238ce3f32767a61fcf",
+      "crc32": "26723628",
+      "sha1": "76084bf3d2753457605d5669c28c4cc0f051703a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "kark4news-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "682f48c17e7ec07a7385b8fb5f5b3900",
+      "md5": "926f9cd70fe12fc337f95a681fb0f1a2",
       "summation": "md5"
     },
     {
@@ -6853,9 +6864,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 663,
-  "item_last_updated": 1667653464,
-  "item_size": 53529442,
+  "files_count": 664,
+  "item_last_updated": 1667654707,
+  "item_size": 53540814,
+  "kark4news-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "kark4news-2022",
     "collection": [
@@ -6872,21 +6888,10 @@
     "publicdate": "2022-09-12 12:31:14",
     "addeddate": "2022-09-12 12:31:14"
   },
-  "pending_tasks": true,
-  "server": "ia601400.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462841421,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 320639094,
+  "server": "ia801400.us.archive.org",
+  "uniq": 146534775,
   "workable_servers": [
+    "ia801400.us.archive.org",
     "ia601400.us.archive.org"
   ]
 }

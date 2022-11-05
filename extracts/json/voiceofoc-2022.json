@@ -1,5 +1,5 @@
 {
-  "created": 1667629847,
+  "created": 1667675532,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/13/items/voiceofoc-2022",
@@ -19195,21 +19195,32 @@
       "format": "JSON"
     },
     {
+      "name": "voiceofoc-2022-11-04T23:28:50.710414-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "voiceofoc-2022-11-04T23:28:50.710414-07:00.jpg",
+      "mtime": "1667630809",
+      "size": "10064",
+      "md5": "114757eab33cb2c08dee27d148dddd30",
+      "crc32": "0cbe926a",
+      "sha1": "d500d57c434314251f90d1990530dd20f34bd652"
+    },
+    {
       "name": "voiceofoc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9551b24d6f6e04e415c86c54e8b946ac342c5cce",
-      "mtime": "1667629832",
-      "size": "393201",
-      "md5": "6e6cd50ef4793542c91a7ae1c90ec6a0",
-      "crc32": "c8c17536",
-      "sha1": "1af1cec0ffe63daf8871bb3b548c35b08cd29177",
+      "btih": "50f30240344b75e34292bbabe4dc17caa04bf398",
+      "mtime": "1667631011",
+      "size": "393407",
+      "md5": "2660f351fff23edad819a335f1f283e1",
+      "crc32": "fd16be3d",
+      "sha1": "2f4efb8264265a78b6b6070ddbbdbf90c3f1e8d1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "voiceofoc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a8525d9aefd3e651de93e7c1cbd37fe6",
+      "md5": "639633f7b61fc73211ea1ced205cc5c2",
       "summation": "md5"
     },
     {
@@ -19233,9 +19244,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1857,
-  "item_last_updated": 1667629832,
-  "item_size": 127242746,
+  "files_count": 1858,
+  "item_last_updated": 1667631011,
+  "item_size": 127253016,
   "metadata": {
     "identifier": "voiceofoc-2022",
     "collection": [
@@ -19252,21 +19263,10 @@
     "publicdate": "2022-07-09 04:04:32",
     "addeddate": "2022-07-09 04:04:32"
   },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462586955,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 794021017,
+  "uniq": 822896735,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

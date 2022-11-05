@@ -1,5 +1,5 @@
 {
-  "created": 1667649707,
+  "created": 1667673337,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/32/items/heraldmailnews-2022",
@@ -5761,21 +5761,32 @@
       "format": "JSON"
     },
     {
+      "name": "heraldmailnews-2022-11-05T08:00:40.535184-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "heraldmailnews-2022-11-05T08:00:40.535184-04:00.jpg",
+      "mtime": "1667650321",
+      "size": "9639",
+      "md5": "f2b3505fab166d0a4a456c4668f04a1e",
+      "crc32": "4618cdf4",
+      "sha1": "d977ee50b6fee62e6b373779328b0505c8cb85d4"
+    },
+    {
       "name": "heraldmailnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b2fc20a33c37c324c7c7480978c65dd65d65ac97",
-      "mtime": "1667649704",
-      "size": "122025",
-      "md5": "78f2644747fcd2098f99e2c4ddf88a91",
-      "crc32": "a3c74ca7",
-      "sha1": "10e52e07973d8a9cec5eadc0c597636bb8e488c2",
+      "btih": "32a9e41cf5cf5481b84168c6fee01c79e45f38e3",
+      "mtime": "1667650331",
+      "size": "122235",
+      "md5": "9b5588f3f005a4132494177406f86526",
+      "crc32": "459c2494",
+      "sha1": "20fe67d10f76259c7c96cffe5b87844e06f886c4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "heraldmailnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b85b811484decb3ae719af0b3bdd0ca4",
+      "md5": "33ed665692724cb8ae5c993bd1037072",
       "summation": "md5"
     },
     {
@@ -5799,9 +5810,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 561,
-  "item_last_updated": 1667649704,
-  "item_size": 39281320,
+  "files_count": 562,
+  "heraldmailnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667650331,
+  "item_size": 39291169,
   "metadata": {
     "identifier": "heraldmailnews-2022",
     "collection": [
@@ -5818,21 +5834,10 @@
     "publicdate": "2022-09-20 22:18:30",
     "addeddate": "2022-09-20 22:18:30"
   },
-  "pending_tasks": true,
   "server": "ia601508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462799344,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 381788883,
+  "uniq": 1553340534,
   "workable_servers": [
-    "ia601508.us.archive.org"
+    "ia601508.us.archive.org",
+    "ia801508.us.archive.org"
   ]
 }

@@ -1,5 +1,9 @@
 {
-  "created": 1667645962,
+  "breakingnews_rs-2022": {
+    "url": "https://www.redding.com/",
+    "job_id": "spn2-4a9323b29dfb4620c08480ec17d9a8de03c9f11a"
+  },
+  "created": 1667671528,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/breakingnews_rs-2022",
@@ -5751,21 +5755,32 @@
       "format": "JSON"
     },
     {
+      "name": "breakingnews_rs-2022-11-05T03:58:24.146460-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "breakingnews_rs-2022-11-05T03:58:24.146460-07:00.jpg",
+      "mtime": "1667646850",
+      "size": "9198",
+      "md5": "9b2da09326e03e001d3d68850589fb8b",
+      "crc32": "e4546ac4",
+      "sha1": "7c182e24c0caa5a8eb3e62b85db12e525ca11210"
+    },
+    {
       "name": "breakingnews_rs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "08613af89c05495416541d25e981b9f931cc30da",
-      "mtime": "1667645958",
-      "size": "122202",
-      "md5": "ca615b3cd2221ad21860b16e343e1d89",
-      "crc32": "981fcb4e",
-      "sha1": "16b6d6197778ee1a1a8898228705d3b0d64c6ea4",
+      "btih": "6a527698cfd8d18792e844f3b2268982c9017ec6",
+      "mtime": "1667646872",
+      "size": "122413",
+      "md5": "5f484ce745e2868f5f2b9a48bfe91308",
+      "crc32": "13fbb889",
+      "sha1": "24db052f2ce67e15c10639494f24175080715c53",
       "format": "Archive BitTorrent"
     },
     {
       "name": "breakingnews_rs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f8678ce51c12916822ab4def66884008",
+      "md5": "c80fc8822b3f337c9b8284b4d76e04cb",
       "summation": "md5"
     },
     {
@@ -5789,9 +5804,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 560,
-  "item_last_updated": 1667645958,
-  "item_size": 35567120,
+  "files_count": 561,
+  "item_last_updated": 1667646872,
+  "item_size": 35576529,
   "metadata": {
     "identifier": "breakingnews_rs-2022",
     "collection": [
@@ -5808,21 +5823,10 @@
     "publicdate": "2022-09-20 22:11:51",
     "addeddate": "2022-09-20 22:11:51"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462756021,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 626146985,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1073564508,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

@@ -1,5 +1,10 @@
 {
-  "created": 1667645858,
+  "baltimorebanner-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671301,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/3/items/baltimorebanner-2022",
@@ -17321,21 +17326,32 @@
       "format": "JSON"
     },
     {
+      "name": "baltimorebanner-2022-11-05T06:56:24.336084-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "baltimorebanner-2022-11-05T06:56:24.336084-04:00.jpg",
+      "mtime": "1667647292",
+      "size": "9914",
+      "md5": "8efc437870c520764be11293eac7b603",
+      "crc32": "77785c3c",
+      "sha1": "42daddfa882787b00ab3e65659230f150dedd8e8"
+    },
+    {
       "name": "baltimorebanner-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ca50e95cf62bf2dadd749ca70817aa357bb8311a",
-      "mtime": "1667645854",
-      "size": "363727",
-      "md5": "e4ffa9036a97659aff98a063ade346df",
-      "crc32": "2ecc1a42",
-      "sha1": "9eac64e9f41127ff35be79e12fe8ea2b1906f7b2",
+      "btih": "c21553890ef71279f551efee1587aa343560f6a5",
+      "mtime": "1667647338",
+      "size": "363938",
+      "md5": "41d730ec26bcae568dfcdfa61aa8cbaa",
+      "crc32": "fd38a7f8",
+      "sha1": "9879c80fe791e6fb1671780ffa80ec9111c4f061",
       "format": "Archive BitTorrent"
     },
     {
       "name": "baltimorebanner-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8ff7b98ef668ebd57d679fd83fa62f03",
+      "md5": "da43aa36b52f7685bb49d803b6671df2",
       "summation": "md5"
     },
     {
@@ -17359,9 +17375,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1672,
-  "item_last_updated": 1667645854,
-  "item_size": 113055165,
+  "files_count": 1673,
+  "item_last_updated": 1667647338,
+  "item_size": 113065290,
   "metadata": {
     "identifier": "baltimorebanner-2022",
     "collection": [
@@ -17378,21 +17394,10 @@
     "publicdate": "2022-06-18 17:07:17",
     "addeddate": "2022-06-18 17:07:17"
   },
-  "pending_tasks": true,
-  "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462754914,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 457968438,
+  "server": "ia802504.us.archive.org",
+  "uniq": 784168749,
   "workable_servers": [
+    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667629663,
+  "created": 1667676790,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/32/items/thehill-2022",
@@ -14165,21 +14165,32 @@
       "format": "JSON"
     },
     {
+      "name": "thehill-2022-11-05T02:26:26.829942-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thehill-2022-11-05T02:26:26.829942-04:00.jpg",
+      "mtime": "1667630617",
+      "size": "10588",
+      "md5": "b92e872d57d78824136381b795b75517",
+      "crc32": "e3e57b02",
+      "sha1": "6272c59eab962f5e85575cfdabef619a06afdae9"
+    },
+    {
       "name": "thehill-2022_archive.torrent",
       "source": "metadata",
-      "btih": "82aef5af1965fbe5d4addd5425e75be98fdfbb42",
-      "mtime": "1667629657",
-      "size": "288571",
-      "md5": "3899ec3d5378fcdda6a2e8b58759a762",
-      "crc32": "19932254",
-      "sha1": "4dd66ab829b1dc100416d66511f6c1d601922e2b",
+      "btih": "ab128629b953eefd3280ccc5f377fda32fdc925f",
+      "mtime": "1667630636",
+      "size": "288775",
+      "md5": "e5d27113d810edcf43e3e16806bdbf80",
+      "crc32": "d7f67a49",
+      "sha1": "f52b7ba235c514345d8e92a905e325cb009b1117",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thehill-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ddaedec4e721b92f33b52746621f918",
+      "md5": "e405e64e15a114128df18b36d4b0a3d0",
       "summation": "md5"
     },
     {
@@ -14203,9 +14214,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1371,
-  "item_last_updated": 1667629657,
-  "item_size": 115733032,
+  "files_count": 1372,
+  "item_last_updated": 1667630636,
+  "item_size": 115743824,
   "metadata": {
     "identifier": "thehill-2022",
     "collection": [
@@ -14222,21 +14233,15 @@
     "publicdate": "2022-07-04 21:46:22",
     "addeddate": "2022-07-04 21:46:22"
   },
-  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462584963,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 940551793,
+  "thehill-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1372172800,
   "workable_servers": [
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

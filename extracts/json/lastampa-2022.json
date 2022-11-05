@@ -1,5 +1,5 @@
 {
-  "created": 1667653665,
+  "created": 1667674007,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/27/items/lastampa-2022",
@@ -10877,21 +10877,32 @@
       "format": "JSON"
     },
     {
+      "name": "lastampa-2022-11-05T14:06:32.676140+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lastampa-2022-11-05T14:06:32.676140+01:00.jpg",
+      "mtime": "1667656144",
+      "size": "7432",
+      "md5": "1e916f0f236dab66a4a59fa5f68c092a",
+      "crc32": "6429383f",
+      "sha1": "4eb151b856ae5b6ecce4151289a5575eba33b053"
+    },
+    {
       "name": "lastampa-2022_archive.torrent",
       "source": "metadata",
-      "btih": "301c5b512a2e8dde83ae7bd881831be528965d14",
-      "mtime": "1667653662",
-      "size": "223396",
-      "md5": "9b10e8b866392fe8f58a778dde30ce4b",
-      "crc32": "59792608",
-      "sha1": "afbc0bc22b33d073f5670c51be9e237af449c813",
+      "btih": "2b4b4d116ccfad91d63624f8f145e07654db1c75",
+      "mtime": "1667656156",
+      "size": "223600",
+      "md5": "7fa3e018c74e7b95bd8b01afe000dcfc",
+      "crc32": "e8716ee5",
+      "sha1": "b750354f19eb2f8632a9a48c9f3dea82fcf23e94",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lastampa-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0a406985ec6a6b3a3f7af8c43b2b015e",
+      "md5": "cd402d335850ee7aa62b54ca3ebf4b6b",
       "summation": "md5"
     },
     {
@@ -10915,9 +10926,13 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1056,
-  "item_last_updated": 1667653662,
-  "item_size": 86956991,
+  "files_count": 1057,
+  "item_last_updated": 1667656156,
+  "item_size": 86964627,
+  "lastampa-2022": {
+    "url": "https://www.lastampa.it/",
+    "job_id": "spn2-21a2fb9cba26f959f6ff80b0da2a1b4ab544471c"
+  },
   "metadata": {
     "identifier": "lastampa-2022",
     "collection": [
@@ -10934,21 +10949,10 @@
     "publicdate": "2022-08-11 00:51:00",
     "addeddate": "2022-08-11 00:51:00"
   },
-  "pending_tasks": true,
-  "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462844270,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1841828213,
+  "server": "ia802504.us.archive.org",
+  "uniq": 2000026908,
   "workable_servers": [
+    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

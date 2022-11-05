@@ -1,5 +1,5 @@
 {
-  "created": 1667645973,
+  "created": 1667657568,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/33/items/cantonledger-2022",
@@ -5647,21 +5647,32 @@
       "format": "JSON"
     },
     {
+      "name": "cantonledger-2022-11-05T05:58:28.538974-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "cantonledger-2022-11-05T05:58:28.538974-05:00.jpg",
+      "mtime": "1667646797",
+      "size": "9731",
+      "md5": "e3d56e653ff80212ebbec3074347b59f",
+      "crc32": "02ae960f",
+      "sha1": "e41c5c8e8437289a976582bb860426854e7efd49"
+    },
+    {
       "name": "cantonledger-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d20997165e0f64fc6890bbab27e8968de20a82cd",
-      "mtime": "1667645967",
-      "size": "118382",
-      "md5": "4fee8d2676ddf23b874a0e6565da8952",
-      "crc32": "fd523db1",
-      "sha1": "87f233e2dd1d671fb010bd8978fa51df77f6e0b1",
+      "btih": "3584d915e797943f814e74cdb1ea7f066ed24bc2",
+      "mtime": "1667646813",
+      "size": "118590",
+      "md5": "05aed8f372d7e0cd7e66e24ae54cf539",
+      "crc32": "e34e2f9c",
+      "sha1": "da8283a13b2cd4a73547f5b13019f834f5746efb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cantonledger-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5ae275ec50e4ba8a3a4cbc99f3f204dc",
+      "md5": "3e7bbc4b0f2532db3d17af54f898227c",
       "summation": "md5"
     },
     {
@@ -5685,9 +5696,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 550,
-  "item_last_updated": 1667645967,
-  "item_size": 34845152,
+  "files_count": 551,
+  "item_last_updated": 1667646813,
+  "item_size": 34855091,
   "metadata": {
     "identifier": "cantonledger-2022",
     "collection": [
@@ -5704,21 +5715,10 @@
     "publicdate": "2022-09-20 22:11:46",
     "addeddate": "2022-09-20 22:11:46"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462756144,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 27993560,
+  "server": "ia801405.us.archive.org",
+  "uniq": 710651994,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667645698,
+  "created": 1667656198,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/34/items/3newsnowomaha-2022",
@@ -11762,21 +11762,32 @@
       "format": "JSON"
     },
     {
+      "name": "3newsnowomaha-2022-11-05T05:53:27.970030-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "3newsnowomaha-2022-11-05T05:53:27.970030-05:00.jpg",
+      "mtime": "1667646592",
+      "size": "10905",
+      "md5": "d3a99771dacb1e4bd79d4ebfe06bcf48",
+      "crc32": "51b4b6fd",
+      "sha1": "6fe7f07dd1484d1972b6ab7b8f578d1db2e76c2b"
+    },
+    {
       "name": "3newsnowomaha-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9b16c957c3224fb846dd515d52d20dc74bee1433",
-      "mtime": "1667645694",
-      "size": "246961",
-      "md5": "de999d86eb4cb69e3c361f533e8f26ff",
-      "crc32": "df30b8e4",
-      "sha1": "697021f523d266d060bfda311732d78f93d58ab2",
+      "btih": "4452c347d870b41ebf38166345c2d9c961e8cdab",
+      "mtime": "1667646636",
+      "size": "247171",
+      "md5": "3803a3e343c5c0f798d4cd911bf36e67",
+      "crc32": "7dfb0178",
+      "sha1": "306cb1b99d7ac66068d44dca696b45c7b25d5b8d",
       "format": "Archive BitTorrent"
     },
     {
       "name": "3newsnowomaha-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c0ad2528ae47a219cb5b619775cbb0cf",
+      "md5": "aa29552f60ac00eb4bc8a0e7ba940890",
       "summation": "md5"
     },
     {
@@ -11811,9 +11822,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 1141,
-  "item_last_updated": 1667645694,
-  "item_size": 93456476,
+  "files_count": 1142,
+  "item_last_updated": 1667646636,
+  "item_size": 93467591,
   "metadata": {
     "identifier": "3newsnowomaha-2022",
     "collection": [
@@ -11830,21 +11841,10 @@
     "publicdate": "2022-07-30 16:34:05",
     "addeddate": "2022-07-30 16:34:05"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462753212,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1896927500,
+  "server": "ia801401.us.archive.org",
+  "uniq": 491639047,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

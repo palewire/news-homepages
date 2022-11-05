@@ -1,8 +1,13 @@
 {
-  "created": 1667649572,
+  "created": 1667672808,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/26/items/enquirer-2022",
+  "enquirer-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -10277,21 +10282,32 @@
       "format": "JSON"
     },
     {
+      "name": "enquirer-2022-11-05T07:58:24.389613-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "enquirer-2022-11-05T07:58:24.389613-04:00.jpg",
+      "mtime": "1667650007",
+      "size": "9359",
+      "md5": "d6c3dff86c43c3b108691ce6a252f34b",
+      "crc32": "ca56a346",
+      "sha1": "fba4af74f05e462f8ca24a5f28c1ecd839eae121"
+    },
+    {
       "name": "enquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f5c0f0d107c35349b3302c41e2c9eae1ce48269",
-      "mtime": "1667649566",
-      "size": "210536",
-      "md5": "06ecdc1245212c0fe5e077028f2ab033",
-      "crc32": "bfc2a0e5",
-      "sha1": "d6710f60a3c189d42c6df903aa4d69bb1fa8f435",
+      "btih": "ba7f32a639037c24e36b42e7851b5d2df0d9f4ec",
+      "mtime": "1667650026",
+      "size": "210740",
+      "md5": "969ae9869f6124454ca1aea4581f704d",
+      "crc32": "21ed1523",
+      "sha1": "a0a2afc414e28068a2fd611d64d7bdd2e3db306e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "enquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "aca1e2fb0cfd0476aa94cffc0aa0a607",
+      "md5": "4b17ec2e23dbb5e2d81f4fe7e6e3ed34",
       "summation": "md5"
     },
     {
@@ -10315,9 +10331,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 998,
-  "item_last_updated": 1667649566,
-  "item_size": 67918527,
+  "files_count": 999,
+  "item_last_updated": 1667650026,
+  "item_size": 67928090,
   "metadata": {
     "identifier": "enquirer-2022",
     "collection": [
@@ -10334,21 +10350,10 @@
     "publicdate": "2022-08-14 06:45:31",
     "addeddate": "2022-08-14 06:45:31"
   },
-  "pending_tasks": true,
-  "server": "ia601502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462797033,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1875333009,
+  "server": "ia801502.us.archive.org",
+  "uniq": 1333500214,
   "workable_servers": [
+    "ia801502.us.archive.org",
     "ia601502.us.archive.org"
   ]
 }

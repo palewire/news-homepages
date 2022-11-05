@@ -1,5 +1,5 @@
 {
-  "created": 1667621136,
+  "created": 1667677357,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/29/items/tucsonsentinel-2022",
@@ -13838,31 +13838,93 @@
       "sha1": "6bb8a876085fbd83896ed9743fc2b3d27273a865"
     },
     {
+      "name": "tucsonsentinel-2022-11-05T08:08:07.139651-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667660897",
+      "size": "39056",
+      "md5": "c2007a856460c5ee7321ff18d00cdcc5",
+      "crc32": "f52a8a8f",
+      "sha1": "f600003d98a3795b527498719aea45eeb7661b76",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-11-05T08:08:07.139651-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667660899",
+      "size": "40991",
+      "md5": "11503142e62e2537173fb96f0b43d080",
+      "crc32": "0ed53d57",
+      "sha1": "4d3c4a3ec6211a0f4cea613c887b05f013df5cf4",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-11-05T08:08:07.139651-07:00.jpg",
+      "source": "original",
+      "mtime": "1667660895",
+      "size": "303900",
+      "md5": "574f3cfd14d1310eff2f01ace0a6b22b",
+      "crc32": "675f04f5",
+      "sha1": "ae6ab3419f3517e1bcb3439015af3320c3ed1bcf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "tucsonsentinel-2022-11-05T08:08:07.139651-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667660902",
+      "size": "1531",
+      "md5": "bd89f1383473cbad0f1c20f6f6720a97",
+      "crc32": "bffa90aa",
+      "sha1": "19152e94520265363fe92870f4574d9c1ac45472",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-11-05T08:08:07.139651-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667660904",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "tucsonsentinel-2022-11-05T08:08:07.139651-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tucsonsentinel-2022-11-05T08:08:07.139651-07:00.jpg",
+      "mtime": "1667661833",
+      "size": "9405",
+      "md5": "ef56d4380f207dea70e297dda50dd5f7",
+      "crc32": "7c982650",
+      "sha1": "39cf7e143e5db484484a720880c231ac1a8ae84a"
+    },
+    {
       "name": "tucsonsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1e1eef17aef786f5b18bed7f00a3457c3bd076b8",
-      "mtime": "1667620382",
-      "size": "291109",
-      "md5": "dc0f0bfbc8dbd0ac83c6a90234e0d12f",
-      "crc32": "e81a28b7",
-      "sha1": "29230679c434cd275950c2764c51fee391e41d0f",
+      "btih": "4043dfe446afdcef971a21853810de6165ba2b7a",
+      "mtime": "1667661849",
+      "size": "292410",
+      "md5": "a32e00bf4a67bf9299eb76ec15869b99",
+      "crc32": "bf9be4f0",
+      "sha1": "9dc87b2b90a67f10d939e94a0a001fe7396bc573",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tucsonsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "09da67285069f3bd3d34da30589c8400",
+      "md5": "638478b4050bc56e0b6e2cdd4de025d0",
       "summation": "md5"
     },
     {
       "name": "tucsonsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667619170",
-      "size": "1703936",
-      "md5": "75ef6283ffbd6955a1978cb565d14b65",
-      "crc32": "c00ebaf6",
-      "sha1": "7ab7be5d5033d8fc74248bb47bd86eec73d3ad8f",
+      "mtime": "1667660915",
+      "size": "1708032",
+      "md5": "28a8132eaa71a081acc0df048039f8ea",
+      "crc32": "8b59d826",
+      "sha1": "885a16b92028d898c4cb7b39b0c4b714889a5eaf",
       "format": "Metadata"
     },
     {
@@ -13876,9 +13938,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1340,
-  "item_last_updated": 1667620382,
-  "item_size": 106939788,
+  "files_count": 1346,
+  "item_last_updated": 1667661849,
+  "item_size": 107340270,
   "metadata": {
     "identifier": "tucsonsentinel-2022",
     "collection": [
@@ -13895,10 +13957,15 @@
     "publicdate": "2022-07-09 04:04:28",
     "addeddate": "2022-07-09 04:04:28"
   },
-  "server": "ia902508.us.archive.org",
-  "uniq": 1792308160,
+  "server": "ia802508.us.archive.org",
+  "tucsonsentinel-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1731341814,
   "workable_servers": [
-    "ia902508.us.archive.org",
-    "ia802508.us.archive.org"
+    "ia802508.us.archive.org",
+    "ia902508.us.archive.org"
   ]
 }

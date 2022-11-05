@@ -1,5 +1,13 @@
 {
-  "created": 1667645861,
+  "bmtenterprise-2022": {
+    "url": "https://www.beaumontenterprise.com/",
+    "job_id": "spn2-ea88962271bf6ed9218af793705f74907c7bc376",
+    "resources": [],
+    "status": "error",
+    "message": "Job failed.",
+    "status_ext": "error:job-failed"
+  },
+  "created": 1667671481,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/bmtenterprise-2022",
@@ -12853,21 +12861,32 @@
       "format": "JSON"
     },
     {
+      "name": "bmtenterprise-2022-11-05T05:55:55.592823-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bmtenterprise-2022-11-05T05:55:55.592823-05:00.jpg",
+      "mtime": "1667646732",
+      "size": "10480",
+      "md5": "9ad72effdde0d579e5170a4030537fb0",
+      "crc32": "71bea8fa",
+      "sha1": "7423809cb6826fe5c5fdab31b7e6729d868c8a54"
+    },
+    {
       "name": "bmtenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2ca22cafc186724b608145955458c9484050bc15",
-      "mtime": "1667645848",
-      "size": "269414",
-      "md5": "466bdaef31019ccad816ffdaddd0cc55",
-      "crc32": "86232719",
-      "sha1": "8c6beaafc480e6ab79d8cc598e80902611d18d70",
+      "btih": "bf53810abb3495a53266ca039cebd690f8683110",
+      "mtime": "1667646775",
+      "size": "269624",
+      "md5": "d22ce71d204b0c26560733af829a230b",
+      "crc32": "12a9f4fe",
+      "sha1": "282c5070a7c7f3ab74553c5778438e652bfa8926",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bmtenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8f4923453859e105279e0f5fceac8257",
+      "md5": "7c39940feb064724256f80b1299960c8",
       "summation": "md5"
     },
     {
@@ -12891,9 +12910,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1244,
-  "item_last_updated": 1667645848,
-  "item_size": 110634961,
+  "files_count": 1245,
+  "item_last_updated": 1667646775,
+  "item_size": 110645651,
   "metadata": {
     "identifier": "bmtenterprise-2022",
     "collection": [
@@ -12910,21 +12929,10 @@
     "publicdate": "2022-07-18 00:04:22",
     "addeddate": "2022-07-18 00:04:22"
   },
-  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462754940,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1282809168,
+  "uniq": 1668199203,
   "workable_servers": [
-    "ia601404.us.archive.org"
+    "ia601404.us.archive.org",
+    "ia801404.us.archive.org"
   ]
 }

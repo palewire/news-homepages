@@ -1,5 +1,5 @@
 {
-  "created": 1667620080,
+  "created": 1667676671,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/19/items/thealligator-2022",
@@ -15722,31 +15722,93 @@
       "sha1": "4b4673e6ca85d49ba75bacb539105ee1ff5f24b3"
     },
     {
+      "name": "thealligator-2022-11-05T11:04:50.198333-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667660711",
+      "size": "32471",
+      "md5": "2ea9c2d9d18a858b493c09c4785cc217",
+      "crc32": "f38c5c08",
+      "sha1": "d81971b8d3b04678e0a603a5f85d741c59edb934",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-11-05T11:04:50.198333-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667660712",
+      "size": "23683",
+      "md5": "c5ed68efd0b40c78a59f4c6717288b1f",
+      "crc32": "f2d3c2bf",
+      "sha1": "0841dfb50b80a53f78dbf17108fbf7f6cd309685",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-11-05T11:04:50.198333-04:00.jpg",
+      "source": "original",
+      "mtime": "1667660709",
+      "size": "274425",
+      "md5": "9488f4e9e4d042a4da646d576f5a4c55",
+      "crc32": "da6815aa",
+      "sha1": "e8afede25dd63e3fc867ed0094c79fcb9e220f30",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thealligator-2022-11-05T11:04:50.198333-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667660714",
+      "size": "1483",
+      "md5": "378c7d879c98b0fb21c767f47aba8709",
+      "crc32": "93e0add2",
+      "sha1": "34267b1c03ad60c82d5273214536a6f1966f5482",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-11-05T11:04:50.198333-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667660716",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thealligator-2022-11-05T11:04:50.198333-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thealligator-2022-11-05T11:04:50.198333-04:00.jpg",
+      "mtime": "1667661026",
+      "size": "10248",
+      "md5": "b0eb8810f35342365abf2abe3a87937f",
+      "crc32": "d7186a8d",
+      "sha1": "100be9ded09f7ee78a3f955910f0723c99d15c37"
+    },
+    {
       "name": "thealligator-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9b39797ea0695b4073bbb943055460eba894547e",
-      "mtime": "1667620028",
-      "size": "326721",
-      "md5": "fd68bec3537825cf4f28755bb84f03d3",
-      "crc32": "2e09ecb0",
-      "sha1": "6dbf5b7d6aa7799bc8a0064ee5f83cd87d7686c5",
+      "btih": "6020314179bc99dfb8404e7f92c906923b71e7bd",
+      "mtime": "1667661162",
+      "size": "328011",
+      "md5": "e41c2ff7c9a0daca81b7d8c2305c0ff1",
+      "crc32": "1f9bb73a",
+      "sha1": "004c96b7d933b6f87540c4fe7d0e5495d6799931",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thealligator-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "527d78de4f5c3fea235aca5278ad8e40",
+      "md5": "2b52e4177c07d10f203ffdcdc398752e",
       "summation": "md5"
     },
     {
       "name": "thealligator-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667619032",
-      "size": "1900544",
-      "md5": "7cd671f2a2f7ed23c5dc2299e8e9e3e9",
-      "crc32": "8b47f6ad",
-      "sha1": "6ba717fbfffacd41ec6828887ad27055a0e8e96f",
+      "mtime": "1667660724",
+      "size": "1904640",
+      "md5": "f1b20d41fc8aade9263f7f8fec52e734",
+      "crc32": "0bb7c706",
+      "sha1": "ec854dc19925aca629cc4e876972aee743aad3ed",
       "format": "Metadata"
     },
     {
@@ -15760,9 +15822,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1519,
-  "item_last_updated": 1667620028,
-  "item_size": 116898774,
+  "files_count": 1525,
+  "item_last_updated": 1667661162,
+  "item_size": 117246672,
   "metadata": {
     "identifier": "thealligator-2022",
     "collection": [
@@ -15780,7 +15842,12 @@
     "addeddate": "2022-06-24 23:02:17"
   },
   "server": "ia801509.us.archive.org",
-  "uniq": 1316167817,
+  "thealligator-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 366884761,
   "workable_servers": [
     "ia801509.us.archive.org",
     "ia601509.us.archive.org"

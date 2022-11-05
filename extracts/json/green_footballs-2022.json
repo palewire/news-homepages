@@ -1,5 +1,5 @@
 {
-  "created": 1667649693,
+  "created": 1667659498,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/4/items/green_footballs-2022",
@@ -10155,21 +10155,32 @@
       "format": "JSON"
     },
     {
+      "name": "green_footballs-2022-11-05T05:00:29.354098-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "green_footballs-2022-11-05T05:00:29.354098-07:00.jpg",
+      "mtime": "1667652191",
+      "size": "10173",
+      "md5": "5bc25453cc62d291ace72dfcf3820f5f",
+      "crc32": "1553fa7f",
+      "sha1": "67cd72b7b686950926d05f3a934b2eb08d1019ee"
+    },
+    {
       "name": "green_footballs-2022_archive.torrent",
       "source": "metadata",
-      "btih": "82a5c05894c73bddc4e19653cff44ca0324985da",
-      "mtime": "1667649688",
-      "size": "215179",
-      "md5": "aacd82607a02a87a94bf0d2d2f5e94bb",
-      "crc32": "88ae46e3",
-      "sha1": "5365cf4e1ae2fc7d1001ec5aed3a97873ad3c269",
+      "btih": "fc4f5467a6d364f780b41c7be37e1644c8d40bb9",
+      "mtime": "1667652202",
+      "size": "215391",
+      "md5": "e4289c2cc88320fbd504aa369c34d226",
+      "crc32": "4fdd3590",
+      "sha1": "ff5a80d3b34ff0f725f0474a917ad4db18d79ceb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "green_footballs-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d2db10082e75874d053c937344d47e47",
+      "md5": "c80fba1368541141cde102d62441dd5e",
       "summation": "md5"
     },
     {
@@ -10193,9 +10204,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 986,
-  "item_last_updated": 1667649688,
-  "item_size": 72667338,
+  "files_count": 987,
+  "item_last_updated": 1667652202,
+  "item_size": 72677723,
   "metadata": {
     "identifier": "green_footballs-2022",
     "collection": [
@@ -10212,21 +10223,10 @@
     "publicdate": "2022-08-15 01:11:48",
     "addeddate": "2022-08-15 01:11:48"
   },
-  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462799049,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 2052152848,
+  "uniq": 1400563842,
   "workable_servers": [
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

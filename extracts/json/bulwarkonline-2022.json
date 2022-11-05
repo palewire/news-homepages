@@ -1,5 +1,13 @@
 {
-  "created": 1667646048,
+  "bulwarkonline-2022": {
+    "url": "https://www.thebulwark.com/",
+    "job_id": "spn2-fb589ec1aec0b0c4ea0701a683d2ae062fc6608b",
+    "status": "error",
+    "status_ext": "error:job-failed",
+    "resources": [],
+    "message": "Job failed."
+  },
+  "created": 1667671632,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/bulwarkonline-2022",
@@ -19395,21 +19403,32 @@
       "format": "JSON"
     },
     {
+      "name": "bulwarkonline-2022-11-05T06:58:30.491914-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bulwarkonline-2022-11-05T06:58:30.491914-04:00.jpg",
+      "mtime": "1667646963",
+      "size": "10411",
+      "md5": "3fb2ea030e2ff2287ce22e280e76454c",
+      "crc32": "299ee041",
+      "sha1": "7bdae0ca6e3c49ada29b8f3377f299697ddb21d7"
+    },
+    {
       "name": "bulwarkonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c52d0086c7452f00db4a5cfd5b891a7dcf7138ff",
-      "mtime": "1667646033",
-      "size": "404248",
-      "md5": "3dbbb0dda5d766549d75cd33b0a331c0",
-      "crc32": "f0767b4c",
-      "sha1": "f0eab48872a128e3d0dc1fe303739db8b40952b6",
+      "btih": "a8ffb2076f467f5245c52ceea51ab4058a8cdfeb",
+      "mtime": "1667647011",
+      "size": "404458",
+      "md5": "68530d45121f591c0570982c662c0c77",
+      "crc32": "e63ceab2",
+      "sha1": "d0bd9b86c2bc490eee9fda53881ada7d7e9370f9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bulwarkonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "10a86ade515540aa32882fd8307a89ee",
+      "md5": "d499614db3406f47d1cc5bafaaaca9a4",
       "summation": "md5"
     },
     {
@@ -19433,9 +19452,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1878,
-  "item_last_updated": 1667646033,
-  "item_size": 110854563,
+  "files_count": 1879,
+  "item_last_updated": 1667647011,
+  "item_size": 110865184,
   "metadata": {
     "identifier": "bulwarkonline-2022",
     "collection": [
@@ -19452,21 +19471,10 @@
     "publicdate": "2022-07-17 15:03:06",
     "addeddate": "2022-07-17 15:03:06"
   },
-  "pending_tasks": true,
   "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462757332,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 383226342,
+  "uniq": 962179154,
   "workable_servers": [
-    "ia601406.us.archive.org"
+    "ia601406.us.archive.org",
+    "ia801406.us.archive.org"
   ]
 }

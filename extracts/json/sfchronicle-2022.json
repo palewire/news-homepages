@@ -1,5 +1,5 @@
 {
-  "created": 1667629613,
+  "created": 1667676211,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/23/items/sfchronicle-2022",
@@ -21335,21 +21335,32 @@
       "format": "JSON"
     },
     {
+      "name": "sfchronicle-2022-11-04T23:25:02.470910-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "sfchronicle-2022-11-04T23:25:02.470910-07:00.jpg",
+      "mtime": "1667631313",
+      "size": "10175",
+      "md5": "28f34cb9f26a1938a51b3d0c4dbebf3e",
+      "crc32": "98cfe1d9",
+      "sha1": "9176f36318b28a84b60917b29a0e925880592f06"
+    },
+    {
       "name": "sfchronicle-2022_archive.torrent",
       "source": "metadata",
-      "btih": "67e18cc5b390607eee1da9363c644293dc4543cb",
-      "mtime": "1667629606",
-      "size": "442143",
-      "md5": "23729ed8812b6f6317ff3e766499cd42",
-      "crc32": "58ae4af5",
-      "sha1": "005c9d5f784725eb4ebd67c29ccaad9f40ac5fb3",
+      "btih": "8ea176120c1a5da0b7a301f59a7c026f0c2bb6c9",
+      "mtime": "1667631350",
+      "size": "442351",
+      "md5": "05ef068dc1b87a2247a5ff135e4f2eee",
+      "crc32": "36e3a55f",
+      "sha1": "b232ba90d8ff7e9538cbaf6fffdc19e0e2993a04",
       "format": "Archive BitTorrent"
     },
     {
       "name": "sfchronicle-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bf07b6b2886106790f7449e3d62c5836",
+      "md5": "4002daa168bd5d580582c26fd960bd08",
       "summation": "md5"
     },
     {
@@ -21373,9 +21384,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2053,
-  "item_last_updated": 1667629606,
-  "item_size": 233050620,
+  "files_count": 2054,
+  "item_last_updated": 1667631350,
+  "item_size": 233061003,
   "metadata": {
     "identifier": "sfchronicle-2022",
     "collection": [
@@ -21392,21 +21403,10 @@
     "publicdate": "2022-03-23 02:09:45",
     "addeddate": "2022-03-23 02:09:45"
   },
-  "pending_tasks": true,
   "server": "ia902504.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462584347,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1969897941,
+  "uniq": 668368481,
   "workable_servers": [
-    "ia902504.us.archive.org"
+    "ia902504.us.archive.org",
+    "ia802504.us.archive.org"
   ]
 }

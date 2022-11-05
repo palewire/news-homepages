@@ -1,5 +1,5 @@
 {
-  "created": 1667653669,
+  "created": 1667673999,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/3/items/laprensaar-2022",
@@ -10989,21 +10989,32 @@
       "format": "JSON"
     },
     {
+      "name": "laprensaar-2022-11-05T10:06:19.221660-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "laprensaar-2022-11-05T10:06:19.221660-03:00.jpg",
+      "mtime": "1667656466",
+      "size": "10830",
+      "md5": "9a14cb857307157f86756ee790ece351",
+      "crc32": "c1c543dd",
+      "sha1": "dfff8df2cd6d2971f444b995dbdd15f655935b07"
+    },
+    {
       "name": "laprensaar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d5cef65f276f3fdb6a93ecee4e06a29269369f67",
-      "mtime": "1667653665",
-      "size": "227184",
-      "md5": "656a5891ace7228687326c45b92f1eb7",
-      "crc32": "01a3b42a",
-      "sha1": "0d0f8707e08d106441c5c9b5daafc89fd0c6b06d",
+      "btih": "6d259643982ed15a0cb23cc93df115908d3fafc8",
+      "mtime": "1667656477",
+      "size": "227391",
+      "md5": "4c6c29aac4d319e01b055b72c3b75800",
+      "crc32": "349f1dfe",
+      "sha1": "5d383d57c2d90b6820e92c0afa7274aaa164bb0a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "laprensaar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "3a747df7d9d4f68948663fa4ef4b7354",
+      "md5": "7cc2b707315772deb1c7ee88e6da1894",
       "summation": "md5"
     },
     {
@@ -11027,9 +11038,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1067,
-  "item_last_updated": 1667653665,
-  "item_size": 69701924,
+  "files_count": 1068,
+  "item_last_updated": 1667656477,
+  "item_size": 69712961,
+  "laprensaar-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "laprensaar-2022",
     "collection": [
@@ -11046,21 +11062,10 @@
     "publicdate": "2022-08-10 00:55:34",
     "addeddate": "2022-08-10 00:55:34"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462844308,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 737381501,
+  "server": "ia801408.us.archive.org",
+  "uniq": 1996471006,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

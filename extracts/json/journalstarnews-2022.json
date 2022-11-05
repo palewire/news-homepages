@@ -1,5 +1,5 @@
 {
-  "created": 1667653475,
+  "created": 1667655955,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/3/items/journalstarnews-2022",
@@ -12181,21 +12181,32 @@
       "format": "JSON"
     },
     {
+      "name": "journalstarnews-2022-11-05T08:03:07.673430-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "journalstarnews-2022-11-05T08:03:07.673430-05:00.jpg",
+      "mtime": "1667655769",
+      "size": "11841",
+      "md5": "ab43cd8e5b9a24cb6c0080f5c9e8118b",
+      "crc32": "005abf52",
+      "sha1": "91fd4a70c45c326050740f50f876faebc7c7d06c"
+    },
+    {
       "name": "journalstarnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e5ea4a6475a5373934563f18274b14d277aabcaf",
-      "mtime": "1667653469",
-      "size": "258283",
-      "md5": "f1a7d4344ceea3453f2bfa584b6f7ee1",
-      "crc32": "901fff39",
-      "sha1": "48b6baa3378a3959779aefe8a189602d1d60f3c7",
+      "btih": "15d2243c9afbffabcac8c2daa74446621be56343",
+      "mtime": "1667655786",
+      "size": "258495",
+      "md5": "d56a77066808c34b2b5da2342aaa418e",
+      "crc32": "c5ddfcc1",
+      "sha1": "7e9e2f6fceedfa14b893c6ab719a9a19ed7b15c6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "journalstarnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "62dc85abb0700f6ef81a9200597001cd",
+      "md5": "99f20e30f729e44ee62c064ce443dbc6",
       "summation": "md5"
     },
     {
@@ -12219,9 +12230,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1182,
-  "item_last_updated": 1667653469,
-  "item_size": 95942060,
+  "files_count": 1183,
+  "item_last_updated": 1667655786,
+  "item_size": 95954113,
   "metadata": {
     "identifier": "journalstarnews-2022",
     "collection": [
@@ -12238,21 +12249,10 @@
     "publicdate": "2022-07-30 16:33:39",
     "addeddate": "2022-07-30 16:33:39"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462841472,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2086692840,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1864414737,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

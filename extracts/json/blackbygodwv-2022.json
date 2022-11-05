@@ -1,5 +1,10 @@
 {
-  "created": 1667645858,
+  "blackbygodwv-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671436,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/blackbygodwv-2022",
@@ -13985,21 +13990,32 @@
       "format": "JSON"
     },
     {
+      "name": "blackbygodwv-2022-11-05T06:56:28.625024-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blackbygodwv-2022-11-05T06:56:28.625024-04:00.jpg",
+      "mtime": "1667646769",
+      "size": "8652",
+      "md5": "e946def9d06e88650cf742d9d106e991",
+      "crc32": "80437734",
+      "sha1": "322bc24e3dd9c7807eb582090d5d803f63adc06c"
+    },
+    {
       "name": "blackbygodwv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ae5cff9291382aa044f5508dc6677f2292ab0ce0",
-      "mtime": "1667645854",
-      "size": "289559",
-      "md5": "83ed50aeda01834ee450d602707d7a88",
-      "crc32": "b916d0c0",
-      "sha1": "0cd78d553e4d40a3b7faccf7acff74710cfe6a62",
+      "btih": "35a59f2aef89c29ca065e819018fc0c441e5051a",
+      "mtime": "1667646818",
+      "size": "289767",
+      "md5": "54b6612fdc2a5654d0c6c848e1dc46aa",
+      "crc32": "e6544b10",
+      "sha1": "fd2bd45fc5a6f0e67fffc4a8445c2b8da140f0e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blackbygodwv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "74164b185dc1f316e6e6c3c43098222c",
+      "md5": "83e80aabe9505084d8990fdf1f86051e",
       "summation": "md5"
     },
     {
@@ -14023,9 +14039,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1354,
-  "item_last_updated": 1667645854,
-  "item_size": 68109428,
+  "files_count": 1355,
+  "item_last_updated": 1667646818,
+  "item_size": 68118288,
   "metadata": {
     "identifier": "blackbygodwv-2022",
     "collection": [
@@ -14042,21 +14058,10 @@
     "publicdate": "2022-07-10 15:40:03",
     "addeddate": "2022-07-10 15:40:03"
   },
-  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462754910,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2118564433,
+  "uniq": 1551884325,
   "workable_servers": [
-    "ia902502.us.archive.org"
+    "ia902502.us.archive.org",
+    "ia802502.us.archive.org"
   ]
 }

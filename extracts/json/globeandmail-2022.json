@@ -1,5 +1,5 @@
 {
-  "created": 1667676461,
+  "created": 1667673082,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/2/items/globeandmail-2022",
@@ -33469,7 +33469,6 @@
     }
   ],
   "files_count": 3232,
-  "has_redrow": true,
   "item_last_updated": 1667672512,
   "item_size": 241076661,
   "metadata": {
@@ -33488,53 +33487,10 @@
     "publicdate": "2022-06-30 22:35:43",
     "addeddate": "2022-06-30 22:35:43"
   },
-  "pending_tasks": true,
   "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3463077739,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 2,
-      "color": "red",
-      "status": "error"
-    },
-    {
-      "task_id": 3463077801,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3463077835,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3463077861,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3463077877,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 2026147482,
+  "uniq": 929524189,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia601401.us.archive.org",
+    "ia801401.us.archive.org"
   ]
 }

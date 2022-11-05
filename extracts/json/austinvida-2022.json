@@ -1,5 +1,10 @@
 {
-  "created": 1667645866,
+  "austinvida-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671220,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/5/items/austinvida-2022",
@@ -13941,21 +13946,32 @@
       "format": "JSON"
     },
     {
+      "name": "austinvida-2022-11-05T05:56:29.067296-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "austinvida-2022-11-05T05:56:29.067296-05:00.jpg",
+      "mtime": "1667647092",
+      "size": "8559",
+      "md5": "9b277a977847688a204a80ae2b16b09a",
+      "crc32": "e4138403",
+      "sha1": "5b713a526ca4daa521d472c11fba6903c33ae94c"
+    },
+    {
       "name": "austinvida-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aeb24b3dcf763bc73345e72888bd319b7fb69ad6",
-      "mtime": "1667645860",
-      "size": "286571",
-      "md5": "bb8d906be984f5e5795bd72886827ced",
-      "crc32": "7673a484",
-      "sha1": "bcf618abab4339162b9c526df6cc9bba68db7b6f",
+      "btih": "53420acf2bf46b051f237e7587609bc9fa4be964",
+      "mtime": "1667647108",
+      "size": "286777",
+      "md5": "26dad6d545cc14026cd9023839bebf55",
+      "crc32": "8937897c",
+      "sha1": "1049825f7fabfaeab40273cc7b45869a6caeb134",
       "format": "Archive BitTorrent"
     },
     {
       "name": "austinvida-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "49af23eeeef61160f5f290fad5d12842",
+      "md5": "2e376f9cfcfca9bb95647aef1b598c78",
       "summation": "md5"
     },
     {
@@ -13979,9 +13995,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1350,
-  "item_last_updated": 1667645860,
-  "item_size": 82308056,
+  "files_count": 1351,
+  "item_last_updated": 1667647108,
+  "item_size": 82316821,
   "metadata": {
     "identifier": "austinvida-2022",
     "collection": [
@@ -13998,21 +14014,10 @@
     "publicdate": "2022-07-10 15:39:44",
     "addeddate": "2022-07-10 15:39:44"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462754994,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1764323609,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1968793493,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

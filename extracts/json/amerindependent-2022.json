@@ -1,5 +1,10 @@
 {
-  "created": 1667645687,
+  "amerindependent-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667671004,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/22/items/amerindependent-2022",
@@ -12829,21 +12834,32 @@
       "format": "JSON"
     },
     {
+      "name": "amerindependent-2022-11-05T06:53:36.055212-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "amerindependent-2022-11-05T06:53:36.055212-04:00.jpg",
+      "mtime": "1667647472",
+      "size": "9761",
+      "md5": "da09669db16467afa9a6b788c4395efa",
+      "crc32": "dcfcbb9d",
+      "sha1": "2841651a86fc4e894ccc1c135607e55c5ceed11e"
+    },
+    {
       "name": "amerindependent-2022_archive.torrent",
       "source": "metadata",
-      "btih": "53128dd7f4d361b8300743725bec97f6d439ca66",
-      "mtime": "1667645682",
-      "size": "270192",
-      "md5": "85e62b9eb3e75d640c8511852bab1149",
-      "crc32": "5aa4301d",
-      "sha1": "1755c86a42783356769f065e773268976eee9681",
+      "btih": "911d1b0be104d10676a7bc5afe5e327a0ca66b88",
+      "mtime": "1667647492",
+      "size": "270423",
+      "md5": "9a03e50a486b08ea25882696047d063c",
+      "crc32": "089f9405",
+      "sha1": "7e4e8021f296e9a326d45f5fa963593ee9f4599f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "amerindependent-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "785fbaaf86655ddd2f7b6ab18b4bcb37",
+      "md5": "14ef8e99b96cd2f1635705ddba543670",
       "summation": "md5"
     },
     {
@@ -12867,9 +12883,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1245,
-  "item_last_updated": 1667645682,
-  "item_size": 58461319,
+  "files_count": 1246,
+  "item_last_updated": 1667647492,
+  "item_size": 58471311,
   "metadata": {
     "identifier": "amerindependent-2022",
     "collection": [
@@ -12886,21 +12902,10 @@
     "publicdate": "2022-08-27 10:46:34",
     "addeddate": "2022-08-27 10:46:34"
   },
-  "pending_tasks": true,
-  "server": "ia601407.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462753099,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 944086075,
+  "server": "ia801407.us.archive.org",
+  "uniq": 1980531161,
   "workable_servers": [
+    "ia801407.us.archive.org",
     "ia601407.us.archive.org"
   ]
 }

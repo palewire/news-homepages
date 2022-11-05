@@ -1,5 +1,5 @@
 {
-  "created": 1667629742,
+  "created": 1667631544,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/7/items/timesgazette-2022",
@@ -5729,21 +5729,32 @@
       "format": "JSON"
     },
     {
+      "name": "timesgazette-2022-11-05T02:27:59.890491-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "timesgazette-2022-11-05T02:27:59.890491-04:00.jpg",
+      "mtime": "1667630855",
+      "size": "9431",
+      "md5": "eb170f9613b417563ee1def0bbe48ca2",
+      "crc32": "aa4805f7",
+      "sha1": "f40080c0bdd870613fac5463aafbd35c80915c51"
+    },
+    {
       "name": "timesgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f879f8efe9623c1178f77bfee94440af8bbcc81",
-      "mtime": "1667629740",
-      "size": "120181",
-      "md5": "3f26596488b927728a0019779d3ad60f",
-      "crc32": "3fae7e6b",
-      "sha1": "9ecc1fb42d2837b112b35bbec3391f41ce341a62",
+      "btih": "e121dd46244cf1a97842272a98859c9e0ef0f696",
+      "mtime": "1667630861",
+      "size": "120409",
+      "md5": "5da10666aa50fffaf48e7605e4650b08",
+      "crc32": "9289dc95",
+      "sha1": "36d140d10a53e0fcff58e36b219c65528ca9b482",
       "format": "Archive BitTorrent"
     },
     {
       "name": "timesgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "baa2edbd1484454766a5c816cf3805b4",
+      "md5": "a2dc1f2c8343365f7d8f55012076edc0",
       "summation": "md5"
     },
     {
@@ -5767,9 +5778,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 558,
-  "item_last_updated": 1667629740,
-  "item_size": 37867972,
+  "files_count": 559,
+  "item_last_updated": 1667630861,
+  "item_size": 37877631,
   "metadata": {
     "identifier": "timesgazette-2022",
     "collection": [
@@ -5786,21 +5797,10 @@
     "publicdate": "2022-09-20 19:30:16",
     "addeddate": "2022-09-20 19:30:16"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
+  "server": "ia801401.us.archive.org",
   "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462585822,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1283737162,
+  "uniq": 1147474001,
   "workable_servers": [
-    "ia601401.us.archive.org"
+    "ia801401.us.archive.org"
   ]
 }

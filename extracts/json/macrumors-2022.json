@@ -1,5 +1,5 @@
 {
-  "created": 1667653855,
+  "created": 1667674246,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/26/items/macrumors-2022",
@@ -12533,21 +12533,32 @@
       "format": "JSON"
     },
     {
+      "name": "macrumors-2022-11-05T09:09:15.670321-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "macrumors-2022-11-05T09:09:15.670321-04:00.jpg",
+      "mtime": "1667656013",
+      "size": "9769",
+      "md5": "b1e81ba5cae114d0f636904c9ff7738e",
+      "crc32": "6568800b",
+      "sha1": "ed254a2b6718cc18adcfb7b6040a63533cfbb681"
+    },
+    {
       "name": "macrumors-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c76c6db21ce638f892d9e1afa74b09b500b8c894",
-      "mtime": "1667653844",
-      "size": "259675",
-      "md5": "2d3bf60d60ab5877ee6e88bca8fee721",
-      "crc32": "3de051f7",
-      "sha1": "d6559628618ca1c8e3ebadc95172cc735ad35c85",
+      "btih": "d6d612713b300aabe99e3aff8fc2f67322c9cdbe",
+      "mtime": "1667656105",
+      "size": "259880",
+      "md5": "a9a2e360c94dc1c624c1c80651a7abb5",
+      "crc32": "7040851d",
+      "sha1": "2cf57e18b1f1f239b93380c3328ce4d1a855565f",
       "format": "Archive BitTorrent"
     },
     {
       "name": "macrumors-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "97cb77bbb4a796f1b006cc95ec09784e",
+      "md5": "d845bca2eded0d80d8a7186b5f0a73a2",
       "summation": "md5"
     },
     {
@@ -12571,9 +12582,24 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1215,
-  "item_last_updated": 1667653844,
-  "item_size": 132340456,
+  "files_count": 1216,
+  "item_last_updated": 1667656105,
+  "item_size": 132350430,
+  "macrumors-2022": {
+    "url": "https://www.macrumors.com/",
+    "job_id": "spn2-d8e1898053d02dbe3e95b8f95dc429caa9b869d0",
+    "outlinks": [],
+    "original_url": "https://www.macrumors.com/",
+    "http_status": 200,
+    "status": "success",
+    "counters": {
+      "embeds": 156,
+      "outlinks": 464
+    },
+    "resources": [],
+    "duration_sec": 8.026,
+    "timestamp": "20221105115508"
+  },
   "metadata": {
     "identifier": "macrumors-2022",
     "collection": [
@@ -12590,21 +12616,10 @@
     "publicdate": "2022-07-25 06:47:43",
     "addeddate": "2022-07-25 06:47:43"
   },
-  "pending_tasks": true,
-  "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462846233,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1945567797,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1478228267,
   "workable_servers": [
+    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

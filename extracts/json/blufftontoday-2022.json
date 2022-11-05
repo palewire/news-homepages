@@ -1,5 +1,9 @@
 {
-  "created": 1667645824,
+  "blufftontoday-2022": {
+    "url": "https://www.blufftontoday.com/",
+    "job_id": "spn2-9555139a4ea90ba49e63d04fe02342a518354d72"
+  },
+  "created": 1667671457,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/29/items/blufftontoday-2022",
@@ -5741,21 +5745,32 @@
       "format": "JSON"
     },
     {
+      "name": "blufftontoday-2022-11-05T06:55:49.618504-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "blufftontoday-2022-11-05T06:55:49.618504-04:00.jpg",
+      "mtime": "1667646774",
+      "size": "9168",
+      "md5": "9a1cc5be8191469b712b1e9faae5669b",
+      "crc32": "eff4f556",
+      "sha1": "6ff42750fc4b715b0d078fa4f7be88691294b101"
+    },
+    {
       "name": "blufftontoday-2022_archive.torrent",
       "source": "metadata",
-      "btih": "521a79dd17160cc05c75747f717b510252c67486",
-      "mtime": "1667645819",
-      "size": "120847",
-      "md5": "219084e0d6cdbbc0f7ccedfc3266d998",
-      "crc32": "c99343af",
-      "sha1": "435f40b485eb8a6cb4c38ea342d4efefb2989bc6",
+      "btih": "5902dc3f8dcca5091a7e9818417eacde6bdd0002",
+      "mtime": "1667646782",
+      "size": "121056",
+      "md5": "61f9cda99dd986a205c4a1c125b93720",
+      "crc32": "0ea39238",
+      "sha1": "a3ff8d85dcd03c20e5d35bc65b112442d1ab7bd0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blufftontoday-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8a44452e0f3460271a30587070588b2a",
+      "md5": "cf38fb87c77f026fbccb736298d61876",
       "summation": "md5"
     },
     {
@@ -5779,9 +5794,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 559,
-  "item_last_updated": 1667645819,
-  "item_size": 35552169,
+  "files_count": 560,
+  "item_last_updated": 1667646782,
+  "item_size": 35561546,
   "metadata": {
     "identifier": "blufftontoday-2022",
     "collection": [
@@ -5798,21 +5813,10 @@
     "publicdate": "2022-09-20 22:11:07",
     "addeddate": "2022-09-20 22:11:07"
   },
-  "pending_tasks": true,
   "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462754589,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 707269393,
+  "uniq": 1062838496,
   "workable_servers": [
-    "ia601408.us.archive.org"
+    "ia601408.us.archive.org",
+    "ia801408.us.archive.org"
   ]
 }

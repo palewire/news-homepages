@@ -1,5 +1,5 @@
 {
-  "created": 1667629401,
+  "created": 1667675588,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/14/items/pressconnects-2022",
@@ -5699,21 +5699,32 @@
       "format": "JSON"
     },
     {
+      "name": "pressconnects-2022-11-05T02:21:43.057285-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pressconnects-2022-11-05T02:21:43.057285-04:00.jpg",
+      "mtime": "1667630013",
+      "size": "8983",
+      "md5": "1d9f348fd2e6e92138fd402930ee5aa5",
+      "crc32": "f2e1cc8e",
+      "sha1": "989215739f5f234dac07e6c2dc70afea6156c074"
+    },
+    {
       "name": "pressconnects-2022_archive.torrent",
       "source": "metadata",
-      "btih": "11fda0b4212a8c384b58e78a5e063f51ec0840c2",
-      "mtime": "1667629396",
-      "size": "120042",
-      "md5": "b10c94729ce60e880307cf531b35749f",
-      "crc32": "5e8cf7b3",
-      "sha1": "3efc6aa95ba9f80b29e947cb96ff04d90adaf0e8",
+      "btih": "92f1552afba735dd816bf5818f284351bd2b6af5",
+      "mtime": "1667630020",
+      "size": "120251",
+      "md5": "6ee11efc4f4dd70fca2d6bed27e7fcb5",
+      "crc32": "cc70754c",
+      "sha1": "35813eb6a50174dbe43523d6792f9986631d326a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pressconnects-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c07fa3cb074ca6f6ba187cf07c9f27ba",
+      "md5": "f5a22552de68b89f5f6a3ccac66a7b5c",
       "summation": "md5"
     },
     {
@@ -5737,9 +5748,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 555,
-  "item_last_updated": 1667629396,
-  "item_size": 36143065,
+  "files_count": 556,
+  "item_last_updated": 1667630020,
+  "item_size": 36152257,
   "metadata": {
     "identifier": "pressconnects-2022",
     "collection": [
@@ -5756,21 +5767,15 @@
     "publicdate": "2022-09-20 19:21:55",
     "addeddate": "2022-09-20 19:21:55"
   },
-  "pending_tasks": true,
-  "server": "ia601405.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462582049,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 519873268,
+  "pressconnects-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "server": "ia801405.us.archive.org",
+  "uniq": 442940698,
   "workable_servers": [
+    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

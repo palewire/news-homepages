@@ -1,5 +1,5 @@
 {
-  "created": 1667653843,
+  "created": 1667674239,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/8/items/maarivonline-2022",
@@ -10489,21 +10489,32 @@
       "format": "JSON"
     },
     {
+      "name": "maarivonline-2022-11-05T15:09:19.594073+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "maarivonline-2022-11-05T15:09:19.594073+02:00.jpg",
+      "mtime": "1667655879",
+      "size": "9791",
+      "md5": "63094e6f47f27eb82799037e15599957",
+      "crc32": "ad01651c",
+      "sha1": "90c48bc434de858fe178e91c6d863bbf31cf77f8"
+    },
+    {
       "name": "maarivonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "83c0f4f30b77705909fdd857d6e0e4cf1c0a207e",
-      "mtime": "1667653835",
-      "size": "220014",
-      "md5": "a38083542b088c70a8ab70a55850cfe9",
-      "crc32": "5be145f9",
-      "sha1": "ddeff4aa6deacce150fc66ad435df39dae9492d2",
+      "btih": "eb2051570ae9ef479a51dc03d19ee06094a7840a",
+      "mtime": "1667655925",
+      "size": "220222",
+      "md5": "3ae52e4c77aebfe96100358a05f9cf1d",
+      "crc32": "953d9d51",
+      "sha1": "71224ebbd410445b894762090dbcd9d37c9eb1e9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "maarivonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "81fbc7b0ca6c67514985ce6c5a8f3b7e",
+      "md5": "871564025645ba6683d4a11c8009cc81",
       "summation": "md5"
     },
     {
@@ -10527,9 +10538,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1018,
-  "item_last_updated": 1667653835,
-  "item_size": 95021396,
+  "files_count": 1019,
+  "item_last_updated": 1667655925,
+  "item_size": 95031395,
+  "maarivonline-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "maarivonline-2022",
     "collection": [
@@ -10546,21 +10562,10 @@
     "publicdate": "2022-08-14 03:14:50",
     "addeddate": "2022-08-14 03:14:50"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462846101,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1727738045,
+  "server": "ia801500.us.archive.org",
+  "uniq": 869475526,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

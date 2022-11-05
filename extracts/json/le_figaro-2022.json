@@ -1,5 +1,5 @@
 {
-  "created": 1667653697,
+  "created": 1667674067,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/24/items/le_figaro-2022",
@@ -27463,21 +27463,32 @@
       "format": "JSON"
     },
     {
+      "name": "le_figaro-2022-11-05T14:06:02.991247+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "le_figaro-2022-11-05T14:06:02.991247+01:00.jpg",
+      "mtime": "1667655694",
+      "size": "9552",
+      "md5": "22100720fdd63231097d1a767a7d7e7e",
+      "crc32": "8ffb9257",
+      "sha1": "4eb2349237934968270ef36a4cbd86ab985ef436"
+    },
+    {
       "name": "le_figaro-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fbb39c1a9ba6842d5061f6bf41d9f9c7bea5ceef",
-      "mtime": "1667653690",
-      "size": "563513",
-      "md5": "3903dc85fb961839c55a0b9684000a36",
-      "crc32": "3f85e200",
-      "sha1": "27bd99bdb3112e6f7c4b44d6f6f76aa8d70d0a44",
+      "btih": "b827fbd317499c4ec9e78fd9ffd535d875946fcc",
+      "mtime": "1667655756",
+      "size": "563718",
+      "md5": "cca03a54bc8152009f83e3eea8d698b5",
+      "crc32": "6a511c2b",
+      "sha1": "713bb4350f9f54ce377a0e621effbb50ad9295fa",
       "format": "Archive BitTorrent"
     },
     {
       "name": "le_figaro-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "45de9147b8ed861d3f9734b00f7ae2e8",
+      "md5": "e5d628d6511f48decd07c6b337867e39",
       "summation": "md5"
     },
     {
@@ -27501,9 +27512,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2647,
-  "item_last_updated": 1667653690,
-  "item_size": 270692769,
+  "files_count": 2648,
+  "item_last_updated": 1667655756,
+  "item_size": 270702526,
   "metadata": {
     "identifier": "le_figaro-2022",
     "collection": [
@@ -27520,21 +27531,10 @@
     "publicdate": "2022-04-09 13:41:47",
     "addeddate": "2022-04-09 13:41:47"
   },
-  "pending_tasks": true,
-  "server": "ia601507.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462844599,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1710052171,
+  "server": "ia801507.us.archive.org",
+  "uniq": 1076329479,
   "workable_servers": [
+    "ia801507.us.archive.org",
     "ia601507.us.archive.org"
   ]
 }

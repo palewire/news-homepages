@@ -1,5 +1,5 @@
 {
-  "created": 1667629690,
+  "created": 1667676877,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/8/items/thelensnola-2022",
@@ -13779,21 +13779,32 @@
       "format": "JSON"
     },
     {
+      "name": "thelensnola-2022-11-05T01:27:05.913075-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thelensnola-2022-11-05T01:27:05.913075-05:00.jpg",
+      "mtime": "1667630819",
+      "size": "10235",
+      "md5": "0403d3a820f9ebbdf178ad1b817ca463",
+      "crc32": "4fcb9565",
+      "sha1": "3f05696dcb7d6b7dec68c975687ffa897c3f0827"
+    },
+    {
       "name": "thelensnola-2022_archive.torrent",
       "source": "metadata",
-      "btih": "07124178419f902a5a191c11465303c43ae81347",
-      "mtime": "1667629686",
-      "size": "284255",
-      "md5": "3f06c55cd86ce120f6887b1ef9e4418e",
-      "crc32": "e2848132",
-      "sha1": "97b2e541b5d51a60cd9d22170922b138e823ff9f",
+      "btih": "9574498fd40b436b16627a6fadb6f645a0f13d52",
+      "mtime": "1667630834",
+      "size": "284463",
+      "md5": "0cd88d452a90847aec651741d3f3eb94",
+      "crc32": "0c91e65f",
+      "sha1": "969e46a4734ec6b739ad0be986048cdce3057b55",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thelensnola-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75e0ed477a443b04495cbf64154cca7d",
+      "md5": "fab48a4417982aff899c488fa6806a4f",
       "summation": "md5"
     },
     {
@@ -13817,9 +13828,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1334,
-  "item_last_updated": 1667629686,
-  "item_size": 69723472,
+  "files_count": 1335,
+  "item_last_updated": 1667630834,
+  "item_size": 69733915,
   "metadata": {
     "identifier": "thelensnola-2022",
     "collection": [
@@ -13836,21 +13847,15 @@
     "publicdate": "2022-07-09 04:03:47",
     "addeddate": "2022-07-09 04:03:47"
   },
-  "pending_tasks": true,
-  "server": "ia902509.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462585263,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 804989540,
+  "server": "ia802509.us.archive.org",
+  "thelensnola-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1661070508,
   "workable_servers": [
+    "ia802509.us.archive.org",
     "ia902509.us.archive.org"
   ]
 }

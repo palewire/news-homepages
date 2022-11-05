@@ -1,5 +1,5 @@
 {
-  "created": 1667629293,
+  "created": 1667675173,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/32/items/occrp-2022",
@@ -12551,21 +12551,32 @@
       "format": "JSON"
     },
     {
+      "name": "occrp-2022-11-05T07:20:11.651490+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "occrp-2022-11-05T07:20:11.651490+01:00.jpg",
+      "mtime": "1667630072",
+      "size": "6046",
+      "md5": "476cd1d04fd7e1c2c2f08d29376fe359",
+      "crc32": "8c972501",
+      "sha1": "b08c924a5cf1ebe77afc87eff037308431d4cc66"
+    },
+    {
       "name": "occrp-2022_archive.torrent",
       "source": "metadata",
-      "btih": "aca3cbeb2e7558dea7ea11c4db3c17ef2714d168",
-      "mtime": "1667629288",
-      "size": "253380",
-      "md5": "04a255ca278c82ecd72cd1c913be5342",
-      "crc32": "a58e18e0",
-      "sha1": "62f2656d33277542bce352555c8c41751e85b440",
+      "btih": "e08c1cd2703c4b6635e6a9f8858b24df184eebda",
+      "mtime": "1667630129",
+      "size": "253581",
+      "md5": "25dc6f7d51f27e86726f2a43935d3a63",
+      "crc32": "775b3724",
+      "sha1": "c35411c344fbea62867ec64283d26c913ce73153",
       "format": "Archive BitTorrent"
     },
     {
       "name": "occrp-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7767bcd6059d64aa729127152f77a6bf",
+      "md5": "8f85c0bc65aa2aa717035f470ba17dc9",
       "summation": "md5"
     },
     {
@@ -12589,9 +12600,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1217,
-  "item_last_updated": 1667629288,
-  "item_size": 91963875,
+  "files_count": 1218,
+  "item_last_updated": 1667630129,
+  "item_size": 91970122,
   "metadata": {
     "identifier": "occrp-2022",
     "collection": [
@@ -12608,21 +12619,14 @@
     "publicdate": "2022-07-24 06:18:03",
     "addeddate": "2022-07-24 06:18:03"
   },
-  "pending_tasks": true,
-  "server": "ia902508.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462581032,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 676512928,
+  "occrp-2022": {
+    "url": "https://www.occrp.org/en/",
+    "job_id": "spn2-62f079e97155a84e6b9d9dca87fe8ecc08bd1028"
+  },
+  "server": "ia802508.us.archive.org",
+  "uniq": 847710325,
   "workable_servers": [
+    "ia802508.us.archive.org",
     "ia902508.us.archive.org"
   ]
 }

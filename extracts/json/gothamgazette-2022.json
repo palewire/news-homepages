@@ -1,5 +1,5 @@
 {
-  "created": 1667649724,
+  "created": 1667666812,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/16/items/gothamgazette-2022",
@@ -11681,21 +11681,32 @@
       "format": "JSON"
     },
     {
+      "name": "gothamgazette-2022-11-05T08:00:42.429737-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gothamgazette-2022-11-05T08:00:42.429737-04:00.jpg",
+      "mtime": "1667650678",
+      "size": "9875",
+      "md5": "d05f7082656e13db704feddb30f26b43",
+      "crc32": "f645e708",
+      "sha1": "4b54b0d5b73e7a69c48ae48dd28f3a0da0cdbf77"
+    },
+    {
       "name": "gothamgazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "74c894a98d5480b5be04cf0620aea7220d1f0b19",
-      "mtime": "1667649720",
-      "size": "244701",
-      "md5": "bed4b2d691365080af1c95cebe9efed5",
-      "crc32": "6bd9f705",
-      "sha1": "e070e612840f266701f42e3c7588a8df63184061",
+      "btih": "57ec4b77f7bf02931bc4f5b31f2015383d0dd050",
+      "mtime": "1667650692",
+      "size": "244910",
+      "md5": "aa8b87e04128be76dae1ae5e0e3f8a0c",
+      "crc32": "2f53a274",
+      "sha1": "2cfcce6131a3dd1bff0e0fb1bd17183471d63780",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gothamgazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f57dddd8c1583e6a9b2e5cd17f44eaa6",
+      "md5": "00bb49d3ade9bab9600473b44fb3778a",
       "summation": "md5"
     },
     {
@@ -11719,9 +11730,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1134,
-  "item_last_updated": 1667649720,
-  "item_size": 71985844,
+  "files_count": 1135,
+  "item_last_updated": 1667650692,
+  "item_size": 71995928,
   "metadata": {
     "identifier": "gothamgazette-2022",
     "collection": [
@@ -11738,21 +11749,10 @@
     "publicdate": "2022-08-02 23:26:38",
     "addeddate": "2022-08-02 23:26:38"
   },
-  "pending_tasks": true,
   "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462799722,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 1709474967,
+  "uniq": 2110590532,
   "workable_servers": [
-    "ia601503.us.archive.org"
+    "ia601503.us.archive.org",
+    "ia801503.us.archive.org"
   ]
 }

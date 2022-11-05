@@ -1,5 +1,5 @@
 {
-  "created": 1667629865,
+  "created": 1667664520,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/weatherchannel-2022",
@@ -12277,21 +12277,32 @@
       "format": "JSON"
     },
     {
+      "name": "weatherchannel-2022-11-05T02:29:53.624759-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "weatherchannel-2022-11-05T02:29:53.624759-04:00.jpg",
+      "mtime": "1667630944",
+      "size": "10668",
+      "md5": "49f608970c8effef7c81b1afa3b07e01",
+      "crc32": "4709da79",
+      "sha1": "f66c76105bc3d8dd0714ac7b2e2bfbdd104b2234"
+    },
+    {
       "name": "weatherchannel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "128b538c325f879085810752109f3186969e91a7",
-      "mtime": "1667629861",
-      "size": "257809",
-      "md5": "93b5b5bab4bf88fb332d6107ff9e6347",
-      "crc32": "55340755",
-      "sha1": "a76f377101d101fc8c2578e05361fcd9be519845",
+      "btih": "2b32bf9b7e5f390b528bab7d1386b5598409826a",
+      "mtime": "1667630990",
+      "size": "258020",
+      "md5": "549fadc7cb083231ee88a438b321903f",
+      "crc32": "79a1b802",
+      "sha1": "3fad2953901b6d5993062f3133ac2df6cd1a26c3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "weatherchannel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d512f371fbfc552385598801d303e218",
+      "md5": "d56de0f1d03fc25c9916d7c5fd35da49",
       "summation": "md5"
     },
     {
@@ -12315,9 +12326,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1191,
-  "item_last_updated": 1667629861,
-  "item_size": 71388270,
+  "files_count": 1192,
+  "item_last_updated": 1667630990,
+  "item_size": 71399149,
   "metadata": {
     "identifier": "weatherchannel-2022",
     "collection": [
@@ -12334,21 +12345,10 @@
     "publicdate": "2022-07-26 15:49:58",
     "addeddate": "2022-07-26 15:49:58"
   },
-  "pending_tasks": true,
-  "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462587156,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 953049838,
+  "server": "ia801409.us.archive.org",
+  "uniq": 1794847408,
   "workable_servers": [
+    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

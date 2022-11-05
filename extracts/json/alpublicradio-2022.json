@@ -1,5 +1,10 @@
 {
-  "created": 1667645674,
+  "alpublicradio-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667670962,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/2/items/alpublicradio-2022",
@@ -6751,21 +6756,32 @@
       "format": "JSON"
     },
     {
+      "name": "alpublicradio-2022-11-05T05:53:33.804969-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "alpublicradio-2022-11-05T05:53:33.804969-05:00.jpg",
+      "mtime": "1667647699",
+      "size": "9708",
+      "md5": "0e972fea2be22c2804fa0f9f98dc441e",
+      "crc32": "5e8bd678",
+      "sha1": "90975e2b10e89d2a49206f778973aa0548a6cc54"
+    },
+    {
       "name": "alpublicradio-2022_archive.torrent",
       "source": "metadata",
-      "btih": "19a086da5a5b1d210bc8acc20ba240688c7af8e2",
-      "mtime": "1667645669",
-      "size": "141982",
-      "md5": "9ad9f548ca28b05851d2ed80884fe05a",
-      "crc32": "e840ff8e",
-      "sha1": "4b4113c98e87157e53e9fd70c8f57efb4b3ab8b9",
+      "btih": "1706dd9b62e0b81fad814c36acf86836df5d2152",
+      "mtime": "1667647730",
+      "size": "142191",
+      "md5": "e850c5be59495b750087999bfaf47a10",
+      "crc32": "b559c470",
+      "sha1": "1a2109e176160f94ebba1c90c28e46b7593d9b53",
       "format": "Archive BitTorrent"
     },
     {
       "name": "alpublicradio-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "183dfebc4a7b0252a790c1b962f4bd67",
+      "md5": "071be40dfb3332c341a6fec7db33fc95",
       "summation": "md5"
     },
     {
@@ -6789,9 +6805,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 657,
-  "item_last_updated": 1667645669,
-  "item_size": 40237096,
+  "files_count": 658,
+  "item_last_updated": 1667647730,
+  "item_size": 40247013,
   "metadata": {
     "identifier": "alpublicradio-2022",
     "collection": [
@@ -6808,21 +6824,10 @@
     "publicdate": "2022-09-12 11:03:14",
     "addeddate": "2022-09-12 11:03:14"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462752976,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1584897610,
+  "server": "ia801503.us.archive.org",
+  "uniq": 539521494,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }

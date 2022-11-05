@@ -1,5 +1,10 @@
 {
-  "created": 1667645675,
+  "aldiadallas-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667670942,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/28/items/aldiadallas-2022",
@@ -12591,21 +12596,32 @@
       "format": "JSON"
     },
     {
+      "name": "aldiadallas-2022-11-05T05:53:18.548464-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aldiadallas-2022-11-05T05:53:18.548464-05:00.jpg",
+      "mtime": "1667647206",
+      "size": "8660",
+      "md5": "b82b3a2613e1984e2a88981475dcdf0f",
+      "crc32": "a0a13820",
+      "sha1": "94195db74c3ea337007fc2ef7aaea0276b2d5ec0"
+    },
+    {
       "name": "aldiadallas-2022_archive.torrent",
       "source": "metadata",
-      "btih": "36eadaa67feecc23213b38e2ba12f4fb9e648747",
-      "mtime": "1667645671",
-      "size": "260814",
-      "md5": "6ed23aabd9d75128061e4e38080fb8f8",
-      "crc32": "a929cb04",
-      "sha1": "6ab1d1a58db70119e6d5f9e5c106b9ba488ff90b",
+      "btih": "ab53682636be4b4ac58d22560b0c9d6a0e2fe9bc",
+      "mtime": "1667647261",
+      "size": "261021",
+      "md5": "0a19afeac26a640abe73705150519a43",
+      "crc32": "b1a0fdef",
+      "sha1": "731cf072a9521718573ca5303b8cc1f48c5714b6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aldiadallas-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc681d579de337a912287f0a8caefb59",
+      "md5": "b78271123610914cead57088c452af5c",
       "summation": "md5"
     },
     {
@@ -12629,9 +12645,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1221,
-  "item_last_updated": 1667645671,
-  "item_size": 76534602,
+  "files_count": 1222,
+  "item_last_updated": 1667647261,
+  "item_size": 76543469,
   "metadata": {
     "identifier": "aldiadallas-2022",
     "collection": [
@@ -12648,21 +12664,10 @@
     "publicdate": "2022-07-25 23:06:21",
     "addeddate": "2022-07-25 23:06:21"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462752986,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1056385281,
+  "server": "ia801401.us.archive.org",
+  "uniq": 1663587371,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }

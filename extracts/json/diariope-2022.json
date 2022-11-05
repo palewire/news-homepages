@@ -1,5 +1,5 @@
 {
-  "created": 1667649715,
+  "created": 1667666122,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/33/items/diariope-2022",
@@ -16940,6 +16940,7 @@
     }
   ],
   "files_count": 1639,
+  "has_redrow": true,
   "item_last_updated": 1667649707,
   "item_size": 158170627,
   "metadata": {
@@ -16966,12 +16967,12 @@
       "task_id": 3462798521,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
     }
   ],
-  "uniq": 1624710486,
+  "uniq": 85303993,
   "workable_servers": [
     "ia601400.us.archive.org"
   ]

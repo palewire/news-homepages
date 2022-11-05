@@ -1,5 +1,5 @@
 {
-  "created": 1667653487,
+  "created": 1667659930,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/17/items/irishcathnews-2022",
@@ -13319,21 +13319,32 @@
       "format": "JSON"
     },
     {
+      "name": "irishcathnews-2022-11-05T13:03:16.481169+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "irishcathnews-2022-11-05T13:03:16.481169+00:00.jpg",
+      "mtime": "1667654801",
+      "size": "8576",
+      "md5": "cb3e37b6455e5be1f93cf9f0bacf17dc",
+      "crc32": "5650a164",
+      "sha1": "4577473f8391eaa097d8bb506487993345a5c04c"
+    },
+    {
       "name": "irishcathnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4de61e541ec066e5c77c8f1630cea63a0e3f924f",
-      "mtime": "1667653473",
-      "size": "278145",
-      "md5": "2f0dcc684c92defd59d64690be612a3e",
-      "crc32": "fc60c7c5",
-      "sha1": "548c0ea1a11ba3c9fae351a487a0298c8dc019a5",
+      "btih": "b8808671bbabe14b36d8d1c97d7c14f160bb546d",
+      "mtime": "1667654934",
+      "size": "278354",
+      "md5": "aa64fca5bc5f0d67bae3c81d6626d6a0",
+      "crc32": "07c7a408",
+      "sha1": "02e8460e2f26cc1623be73e9ac1b93db30e42de7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "irishcathnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "29168ae9e9570c0820cde74d26942d37",
+      "md5": "b0a5ee9fb4f579854c2421db8ff02298",
       "summation": "md5"
     },
     {
@@ -13357,9 +13368,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1291,
-  "item_last_updated": 1667653473,
-  "item_size": 76109640,
+  "files_count": 1292,
+  "item_last_updated": 1667654934,
+  "item_size": 76118425,
   "metadata": {
     "identifier": "irishcathnews-2022",
     "collection": [
@@ -13376,21 +13387,10 @@
     "publicdate": "2022-07-18 02:23:48",
     "addeddate": "2022-07-18 02:23:48"
   },
-  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462841722,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1718543982,
+  "uniq": 2050107702,
   "workable_servers": [
-    "ia601409.us.archive.org"
+    "ia601409.us.archive.org",
+    "ia801409.us.archive.org"
   ]
 }

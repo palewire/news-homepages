@@ -1,5 +1,5 @@
 {
-  "created": 1667630208,
+  "created": 1667677377,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/9/items/tuscaloosanews-2022",
@@ -6743,21 +6743,32 @@
       "format": "JSON"
     },
     {
+      "name": "tuscaloosanews-2022-11-05T01:27:35.719857-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "tuscaloosanews-2022-11-05T01:27:35.719857-05:00.jpg",
+      "mtime": "1667630656",
+      "size": "9525",
+      "md5": "31443dac9b6460d93bd352f5b95ff3c9",
+      "crc32": "4b1e54a4",
+      "sha1": "a38b9ff4a5b9710eb4b1ff6ca73ef43f3fb94ac2"
+    },
+    {
       "name": "tuscaloosanews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8a81bb21f774a6ab003f18250899b45b6961c0b6",
-      "mtime": "1667629748",
-      "size": "142510",
-      "md5": "4d1bba297f6d78507b22bc13ced81196",
-      "crc32": "31e61b11",
-      "sha1": "af1e28351b1fcb5bf2def34854c5570c483c62de",
+      "btih": "a912eeae705004a31ab4a485823991816110b6eb",
+      "mtime": "1667630666",
+      "size": "142720",
+      "md5": "573147dd77fa29f2d4dd728f5cd20952",
+      "crc32": "d70cf998",
+      "sha1": "c5cbc8f627e16b3f3fabe131688fd092fcddc009",
       "format": "Archive BitTorrent"
     },
     {
       "name": "tuscaloosanews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0b808517f61fa4d2866dd2f157146deb",
+      "md5": "b2dd516b807850f5ec36c55715501b79",
       "summation": "md5"
     },
     {
@@ -6781,9 +6792,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 656,
-  "item_last_updated": 1667629748,
-  "item_size": 44475099,
+  "files_count": 657,
+  "item_last_updated": 1667630666,
+  "item_size": 44484834,
   "metadata": {
     "identifier": "tuscaloosanews-2022",
     "collection": [
@@ -6800,26 +6811,15 @@
     "publicdate": "2022-09-12 05:10:37",
     "addeddate": "2022-09-12 05:10:37"
   },
-  "pending_tasks": true,
   "server": "ia601501.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462585969,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
   "tuscaloosanews-2022": {
     "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "uniq": 1668070629,
+  "uniq": 850028185,
   "workable_servers": [
-    "ia601501.us.archive.org"
+    "ia601501.us.archive.org",
+    "ia801501.us.archive.org"
   ]
 }

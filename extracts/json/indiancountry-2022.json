@@ -1,5 +1,5 @@
 {
-  "created": 1667653519,
+  "created": 1667667093,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/10/items/indiancountry-2022",
@@ -14097,21 +14097,32 @@
       "format": "JSON"
     },
     {
+      "name": "indiancountry-2022-11-05T06:03:18.228548-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "indiancountry-2022-11-05T06:03:18.228548-07:00.jpg",
+      "mtime": "1667655104",
+      "size": "9688",
+      "md5": "ca0411069c4934b3acb7955025cfe88a",
+      "crc32": "f656ca0e",
+      "sha1": "e869f6fb7599fc13efbd1add3d40dc6518af2b84"
+    },
+    {
       "name": "indiancountry-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6bf980d7ca0124adaf39b24d1b001eae621ace1e",
-      "mtime": "1667653508",
-      "size": "294131",
-      "md5": "86855451e57d5551351badf183b7df4d",
-      "crc32": "89e75044",
-      "sha1": "f0980898dd961254d9910b48ae38b81bb8b50cbe",
+      "btih": "ad7704283330c366c01dff830761e12a699ea17f",
+      "mtime": "1667655152",
+      "size": "294340",
+      "md5": "20442d223a17d104387ead92808eea82",
+      "crc32": "fd911cdb",
+      "sha1": "6c161c08d6111567015f6dcec126a6ecb6dbf362",
       "format": "Archive BitTorrent"
     },
     {
       "name": "indiancountry-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "91ffedcdcf3352a5bb7e7d6f95a70341",
+      "md5": "277dde5b6f57694e9b1dff1b38008d3b",
       "summation": "md5"
     },
     {
@@ -14135,9 +14146,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1365,
-  "item_last_updated": 1667653508,
-  "item_size": 82986802,
+  "files_count": 1366,
+  "item_last_updated": 1667655152,
+  "item_size": 82996699,
   "metadata": {
     "identifier": "indiancountry-2022",
     "collection": [
@@ -14154,21 +14165,10 @@
     "publicdate": "2022-07-09 03:59:22",
     "addeddate": "2022-07-09 03:59:22"
   },
-  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462842405,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 898335350,
+  "uniq": 1464318565,
   "workable_servers": [
-    "ia601505.us.archive.org"
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
   ]
 }

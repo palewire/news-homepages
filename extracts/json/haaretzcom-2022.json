@@ -1,5 +1,5 @@
 {
-  "created": 1667649693,
+  "created": 1667673317,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/17/items/haaretzcom-2022",
@@ -10527,21 +10527,32 @@
       "format": "JSON"
     },
     {
+      "name": "haaretzcom-2022-11-05T14:00:24.170050+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "haaretzcom-2022-11-05T14:00:24.170050+02:00.jpg",
+      "mtime": "1667650276",
+      "size": "9404",
+      "md5": "d0aee6d819d643f961802b58e63b2f1e",
+      "crc32": "2bbb4278",
+      "sha1": "6127ae08592f96ea9e8216a18edf9aa06ebabffe"
+    },
+    {
       "name": "haaretzcom-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a8a2a755257302424275e48ec5ed81133ae44556",
-      "mtime": "1667649690",
-      "size": "218862",
-      "md5": "791d0f5a7233d768496192e614e33c4e",
-      "crc32": "578d4842",
-      "sha1": "ef3d142754207239454e2c41981e9c1a5dbf6b49",
+      "btih": "ac2fb3a58971d55eeffce7a464ecb5b211842745",
+      "mtime": "1667650288",
+      "size": "219068",
+      "md5": "d0e350152e1f01306237d48a038996ad",
+      "crc32": "0cd56dfa",
+      "sha1": "1fbaf09b1243a1e690774cd5b787227f243d0763",
       "format": "Archive BitTorrent"
     },
     {
       "name": "haaretzcom-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5d1b45112befa1d1df03f6287f739297",
+      "md5": "b15a2a9d128c5c8cb3282df2e5b877f1",
       "summation": "md5"
     },
     {
@@ -10565,9 +10576,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1022,
-  "item_last_updated": 1667649690,
-  "item_size": 95151377,
+  "files_count": 1023,
+  "haaretzcom-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667650288,
+  "item_size": 95160987,
   "metadata": {
     "identifier": "haaretzcom-2022",
     "collection": [
@@ -10584,21 +10600,10 @@
     "publicdate": "2022-08-13 23:57:56",
     "addeddate": "2022-08-13 23:57:56"
   },
-  "pending_tasks": true,
-  "server": "ia601406.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462799065,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 489999184,
+  "server": "ia801406.us.archive.org",
+  "uniq": 465413768,
   "workable_servers": [
+    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

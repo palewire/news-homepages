@@ -1,5 +1,5 @@
 {
-  "created": 1667649407,
+  "created": 1667658245,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/8/items/dailyjeff-2022",
@@ -5771,21 +5771,32 @@
       "format": "JSON"
     },
     {
+      "name": "dailyjeff-2022-11-05T07:55:50.500267-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyjeff-2022-11-05T07:55:50.500267-04:00.jpg",
+      "mtime": "1667649880",
+      "size": "9440",
+      "md5": "6a8f47cda015d395fec4b9676c2db2ee",
+      "crc32": "c89d0829",
+      "sha1": "1c83196813f031e7fa5c3846b76a321a45a12d79"
+    },
+    {
       "name": "dailyjeff-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a2a8a23c160943b5c5cd1febbd96fbe59a1a4502",
-      "mtime": "1667649405",
-      "size": "119385",
-      "md5": "e1febe8d04dd76f7a463369cf5df7176",
-      "crc32": "61c0499d",
-      "sha1": "4b8bbf8e3da13da08ac3c0918aa8710c9641a15b",
+      "btih": "702bbd92bbc08be3d94bb08757674197abc3bd96",
+      "mtime": "1667649894",
+      "size": "119590",
+      "md5": "f41d1c9cc22b1d56bdb5203613a437e7",
+      "crc32": "6861937a",
+      "sha1": "b13b4866badb8e8e2c74602e4ec1235d1bc40e77",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyjeff-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d790872868311d9e51d68e8ec469e4d7",
+      "md5": "81f559fa1f92d8e668d70c2c0ebaac47",
       "summation": "md5"
     },
     {
@@ -5809,9 +5820,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 562,
-  "item_last_updated": 1667649405,
-  "item_size": 38422696,
+  "files_count": 563,
+  "item_last_updated": 1667649894,
+  "item_size": 38432341,
   "metadata": {
     "identifier": "dailyjeff-2022",
     "collection": [
@@ -5828,21 +5839,10 @@
     "publicdate": "2022-09-20 22:13:58",
     "addeddate": "2022-09-20 22:13:58"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462795242,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    }
-  ],
-  "uniq": 322576093,
+  "server": "ia801500.us.archive.org",
+  "uniq": 1700698546,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

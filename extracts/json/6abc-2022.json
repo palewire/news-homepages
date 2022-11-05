@@ -1,5 +1,13 @@
 {
-  "created": 1667645713,
+  "6abc-2022": {
+    "url": "https://6abc.com/",
+    "job_id": "spn2-4ede0bb9ed74593eea2a68bd6a077c0e4b000001",
+    "resources": [],
+    "status": "error",
+    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 1176.",
+    "status_ext": "WorkerLostError"
+  },
+  "created": 1667670742,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/14/items/6abc-2022",
@@ -14874,21 +14882,32 @@
       "format": "JSON"
     },
     {
+      "name": "6abc-2022-11-05T06:53:57.495189-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "6abc-2022-11-05T06:53:57.495189-04:00.jpg",
+      "mtime": "1667648428",
+      "size": "9886",
+      "md5": "8166cd2cd86e6db83a471dedd6b28f1d",
+      "crc32": "bc46b030",
+      "sha1": "d5079cc95f2ac6daad0f6bbc91e841854774eac2"
+    },
+    {
       "name": "6abc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5f2a6b62aef5a4344cfb0a33c1a7585b6e398498",
-      "mtime": "1667645709",
-      "size": "298657",
-      "md5": "b6dbba09d065723aa5e947e0020d5a07",
-      "crc32": "b44dbf7a",
-      "sha1": "1c950d79f45ab60aad60c677731ba3ac4c764986",
+      "btih": "0dd7b03b876f55ae883b1a7c3b12e5157b0e9bb4",
+      "mtime": "1667648446",
+      "size": "298857",
+      "md5": "f85222088362eca9182500175abf4bf6",
+      "crc32": "521a99e5",
+      "sha1": "810488e780c16d87539588875d8dec69712441f3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "6abc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e7c79a7971ba51ede38c764d15305f7e",
+      "md5": "51bce9449e4b35007b97d111ad2a9765",
       "summation": "md5"
     },
     {
@@ -14923,9 +14942,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 1440,
-  "item_last_updated": 1667645709,
-  "item_size": 118118510,
+  "files_count": 1441,
+  "item_last_updated": 1667648446,
+  "item_size": 118128596,
   "metadata": {
     "identifier": "6abc-2022",
     "collection": [
@@ -14942,21 +14961,10 @@
     "publicdate": "2022-07-03 15:52:54",
     "addeddate": "2022-07-03 15:52:54"
   },
-  "pending_tasks": true,
-  "server": "ia601500.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462753357,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 953902640,
+  "server": "ia801500.us.archive.org",
+  "uniq": 969159891,
   "workable_servers": [
+    "ia801500.us.archive.org",
     "ia601500.us.archive.org"
   ]
 }

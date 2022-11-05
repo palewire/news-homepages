@@ -1,5 +1,5 @@
 {
-  "created": 1667629697,
+  "created": 1667676906,
   "d1": "ia904701.us.archive.org",
   "d2": "ia804701.us.archive.org",
   "dir": "/14/items/thenewmexican-2022",
@@ -19755,21 +19755,32 @@
       "format": "JSON"
     },
     {
+      "name": "thenewmexican-2022-11-05T00:26:59.637742-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenewmexican-2022-11-05T00:26:59.637742-06:00.jpg",
+      "mtime": "1667630707",
+      "size": "8950",
+      "md5": "6e163ecf29ea69dd40ce77a6703e58f0",
+      "crc32": "9a945052",
+      "sha1": "e14239338846a81bd4c8cb86a986a104dcd7ba0c"
+    },
+    {
       "name": "thenewmexican-2022_archive.torrent",
       "source": "metadata",
-      "btih": "571720277427e4980a34bafa8c42d61773597e36",
-      "mtime": "1667629693",
-      "size": "410232",
-      "md5": "23e0d474f57fb60ebf77c14dbff2a156",
-      "crc32": "d487b784",
-      "sha1": "3fd8da136f9c4b419fb8913d36fb57c8b9276a41",
+      "btih": "2599a33886a386de94bd7b036d67e1baa0f97b5b",
+      "mtime": "1667630761",
+      "size": "410441",
+      "md5": "3bd2bc1977683ff3ec9c43d46d7ec73e",
+      "crc32": "9a6bda51",
+      "sha1": "a73547ac5fcf2e2e01d8c201ec888c4a1aab8ab9",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenewmexican-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "5670ecee546a0bc25040726a276a9191",
+      "md5": "c858acf382873fa4672d2af403168524",
       "summation": "md5"
     },
     {
@@ -19793,9 +19804,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1900,
-  "item_last_updated": 1667629693,
-  "item_size": 161182666,
+  "files_count": 1901,
+  "item_last_updated": 1667630761,
+  "item_size": 161191825,
   "metadata": {
     "identifier": "thenewmexican-2022",
     "collection": [
@@ -19812,21 +19823,15 @@
     "publicdate": "2022-03-25 03:48:42",
     "addeddate": "2022-03-25 03:48:42"
   },
-  "pending_tasks": true,
-  "server": "ia904701.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462585333,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 1167805776,
+  "server": "ia804701.us.archive.org",
+  "thenewmexican-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "uniq": 1109258162,
   "workable_servers": [
+    "ia804701.us.archive.org",
     "ia904701.us.archive.org"
   ]
 }

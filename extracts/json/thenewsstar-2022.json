@@ -1,5 +1,5 @@
 {
-  "created": 1667629705,
+  "created": 1667676912,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/11/items/thenewsstar-2022",
@@ -5687,21 +5687,32 @@
       "format": "JSON"
     },
     {
+      "name": "thenewsstar-2022-11-05T01:27:13.296896-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thenewsstar-2022-11-05T01:27:13.296896-05:00.jpg",
+      "mtime": "1667630471",
+      "size": "9369",
+      "md5": "1afa8bd2a5d9e50372ef41e03bd3273c",
+      "crc32": "be213486",
+      "sha1": "b6b0590b7f9547659cccc9b8c2d413c0344f6657"
+    },
+    {
       "name": "thenewsstar-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c87913a36586266195146b2c95aafae72151ed6e",
-      "mtime": "1667629698",
-      "size": "118827",
-      "md5": "c65a73230323a91b0b417a2b5ed9a5f9",
-      "crc32": "ca8b68c3",
-      "sha1": "dc54de7f45ad4f7f292ae7fe20c89885e95d993d",
+      "btih": "9f56890edacd0fcdcf6e150136f614e961072e6e",
+      "mtime": "1667630483",
+      "size": "119034",
+      "md5": "748e87aa9628f4099594be62924a756e",
+      "crc32": "9d5c3138",
+      "sha1": "56159d8286fd3d7ac2a204484c7a8096affd5332",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thenewsstar-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "216d14eef582e3a85c9c71578e38a75d",
+      "md5": "57b06b77b9320a533918a57ba74a0dbf",
       "summation": "md5"
     },
     {
@@ -5725,9 +5736,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 554,
-  "item_last_updated": 1667629698,
-  "item_size": 37885583,
+  "files_count": 555,
+  "item_last_updated": 1667630483,
+  "item_size": 37895159,
   "metadata": {
     "identifier": "thenewsstar-2022",
     "collection": [
@@ -5744,21 +5755,14 @@
     "publicdate": "2022-09-20 19:31:33",
     "addeddate": "2022-09-20 19:31:33"
   },
-  "pending_tasks": true,
-  "server": "ia601408.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3462585411,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 598780856,
+  "server": "ia801408.us.archive.org",
+  "thenewsstar-2022": {
+    "url": "https://www.thenewsstar.com/",
+    "job_id": "spn2-2a0b5543e8bf3b3ac229097ca61358b4c66dca54"
+  },
+  "uniq": 1494533174,
   "workable_servers": [
+    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

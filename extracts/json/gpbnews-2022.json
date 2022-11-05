@@ -12891,7 +12891,6 @@
     }
   ],
   "files_count": 1246,
-  "has_redrow": true,
   "item_last_updated": 1667626775,
   "item_size": 66829289,
   "metadata": {
@@ -12910,53 +12909,10 @@
     "publicdate": "2022-07-20 23:31:18",
     "addeddate": "2022-07-20 23:31:18"
   },
-  "pending_tasks": true,
-  "server": "ia601401.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3463077605,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 2,
-      "color": "red",
-      "status": "error"
-    },
-    {
-      "task_id": 3463077629,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3463077673,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3463077694,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    },
-    {
-      "task_id": 3463077710,
-      "cmd": "archive.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
+  "server": "ia801401.us.archive.org",
   "uniq": 1555167026,
   "workable_servers": [
+    "ia801401.us.archive.org",
     "ia601401.us.archive.org"
   ]
 }
