@@ -1,6 +1,5 @@
 {
-  "conflict": 1667613706,
-  "created": 1667613706,
+  "created": 1667645675,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/28/items/aldiadallas-2022",
@@ -12541,31 +12540,82 @@
       "sha1": "7987cb730f91786c144bb2c231f0bc50a5717776"
     },
     {
+      "name": "aldiadallas-2022-11-05T05:53:18.548464-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667645607",
+      "size": "26569",
+      "md5": "ae45d63d22997c8a9b4d140506a5499b",
+      "crc32": "44a63613",
+      "sha1": "8d5ee64b2b1b6d10d3ab4efce77a07ea2940a9c2",
+      "format": "JSON"
+    },
+    {
+      "name": "aldiadallas-2022-11-05T05:53:18.548464-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667645609",
+      "size": "25544",
+      "md5": "5d00c6d42a73caf881bcd3eb74ed3ed1",
+      "crc32": "b496ea38",
+      "sha1": "209427f9b79375a8ccb010ff334d07c478d19728",
+      "format": "JSON"
+    },
+    {
+      "name": "aldiadallas-2022-11-05T05:53:18.548464-05:00.jpg",
+      "source": "original",
+      "mtime": "1667645605",
+      "size": "281988",
+      "md5": "87df1d99b4d27d7d318cf90ea6dcaa8b",
+      "crc32": "41d0cb97",
+      "sha1": "098e20d1406d84d68081c0a979fabee336097473",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aldiadallas-2022-11-05T05:53:18.548464-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667645610",
+      "size": "1630",
+      "md5": "3ba599b29de31e5808a86cfdddb17277",
+      "crc32": "f28be155",
+      "sha1": "96bd69ad4cfc688af87cf9ffdb3f2a42d592ae9e",
+      "format": "JSON"
+    },
+    {
+      "name": "aldiadallas-2022-11-05T05:53:18.548464-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667645612",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "aldiadallas-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5b3ff010d3adf2e23f39e34e3849b7d78a914bca",
-      "mtime": "1667613704",
-      "size": "259738",
-      "md5": "16d062f67a989073d7ff8ffa81ebe0f9",
-      "crc32": "dfb33d54",
-      "sha1": "acca89a014f6dc0ecae0aac2a6b696050c2b173f",
+      "btih": "36eadaa67feecc23213b38e2ba12f4fb9e648747",
+      "mtime": "1667645671",
+      "size": "260814",
+      "md5": "6ed23aabd9d75128061e4e38080fb8f8",
+      "crc32": "a929cb04",
+      "sha1": "6ab1d1a58db70119e6d5f9e5c106b9ba488ff90b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aldiadallas-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6d4eaa12e0b3383067c31aadf44f528a",
+      "md5": "dc681d579de337a912287f0a8caefb59",
       "summation": "md5"
     },
     {
       "name": "aldiadallas-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667610321",
-      "size": "1548288",
-      "md5": "b4e284812768b89c231a2abafad450ce",
-      "crc32": "f7b22eb9",
-      "sha1": "638054f4eac1816b0678135a09d505301819cc48",
+      "mtime": "1667645617",
+      "size": "1560576",
+      "md5": "94a5dd474f5bb066e97ccde8a0c717a7",
+      "crc32": "661d6e0c",
+      "sha1": "5e6d0639b74b9a08c9c9a1f71536919166501318",
       "format": "Metadata"
     },
     {
@@ -12579,9 +12629,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1216,
-  "item_last_updated": 1667613704,
-  "item_size": 76185305,
+  "files_count": 1221,
+  "item_last_updated": 1667645671,
+  "item_size": 76534602,
   "metadata": {
     "identifier": "aldiadallas-2022",
     "collection": [
@@ -12603,23 +12653,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3462332854,
+      "task_id": 3462752986,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 1,
-      "color": "blue",
-      "status": "running"
-    },
-    {
-      "task_id": 3462381977,
-      "cmd": "bup.php",
-      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 424969100,
+  "uniq": 1056385281,
   "workable_servers": [
     "ia601401.us.archive.org"
   ]

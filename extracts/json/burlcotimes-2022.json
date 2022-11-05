@@ -1,5 +1,5 @@
 {
-  "created": 1667613599,
+  "created": 1667645995,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/28/items/burlcotimes-2022",
@@ -5638,31 +5638,82 @@
       "sha1": "8bacac4aaedfea3bc34cc7fab96d51c020214ccb"
     },
     {
+      "name": "burlcotimes-2022-11-05T06:58:58.866013-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667645944",
+      "size": "23454",
+      "md5": "a0cd378588675503854e0fed16e255fb",
+      "crc32": "599842c7",
+      "sha1": "f83ed8b6a5d662a32d636122a4ae3b844e5de413",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-11-05T06:58:58.866013-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667645946",
+      "size": "53724",
+      "md5": "b3551cc689036ff579278105f3a8e38f",
+      "crc32": "951368a2",
+      "sha1": "ba3032c5791aafffcb2e9e4dee7740fee35ef52b",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-11-05T06:58:58.866013-04:00.jpg",
+      "source": "original",
+      "mtime": "1667645942",
+      "size": "289601",
+      "md5": "5120f1cda6df6e484ce4f402074a8365",
+      "crc32": "e31a9858",
+      "sha1": "d6d3cd23c45de88290e04725c797d20431af7992",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "burlcotimes-2022-11-05T06:58:58.866013-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667645947",
+      "size": "1594",
+      "md5": "cd3b12d8f26723dd605b2b6649d1de83",
+      "crc32": "2f319993",
+      "sha1": "3267ebad2d20e80317feaa40f340b56ea23a0ef9",
+      "format": "JSON"
+    },
+    {
+      "name": "burlcotimes-2022-11-05T06:58:58.866013-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667645949",
+      "size": "114",
+      "md5": "21dd77bdea606c325db93c2d984afb08",
+      "crc32": "087b98f9",
+      "sha1": "a93477089209a09eb3a0984fdddd9229d20d2c88",
+      "format": "JSON"
+    },
+    {
       "name": "burlcotimes-2022_archive.torrent",
       "source": "metadata",
-      "btih": "4fe2c1a461d90e279e1883691dee1658e7c29d67",
-      "mtime": "1667613571",
-      "size": "117686",
-      "md5": "cf30694f83e9d3591ab9facb36ce9ba1",
-      "crc32": "6b6554d5",
-      "sha1": "13662f989a4c137e06f6b3a5befc9ca035efeee8",
+      "btih": "cea480ce4816e960af3f75d1d5ff7c726a624855",
+      "mtime": "1667645992",
+      "size": "118742",
+      "md5": "0923f3725b78990c5a0de5e6abd25b20",
+      "crc32": "4441b9d7",
+      "sha1": "38b2b9feb71917d6c2affba2453c9268712263a3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "burlcotimes-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "88c60da86b68259d81a2f8eccd99e2fc",
+      "md5": "861d7a3aafccede760852f9b9884b745",
       "summation": "md5"
     },
     {
       "name": "burlcotimes-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667610693",
-      "size": "708608",
-      "md5": "b191aed7dbd1535f9d3ebdfa5e68f4dc",
-      "crc32": "d8dda92d",
-      "sha1": "68d887c8b4668b795ac7b5a61780f950cc2592e6",
+      "mtime": "1667645954",
+      "size": "720896",
+      "md5": "e37acaeaa36883404a7808bc9cbcad6b",
+      "crc32": "d18213f9",
+      "sha1": "e5e4f1c22331994876e8a215f0c8e96ee8f34edc",
       "format": "Metadata"
     },
     {
@@ -5676,9 +5727,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 549,
-  "item_last_updated": 1667613571,
-  "item_size": 36853503,
+  "files_count": 554,
+  "item_last_updated": 1667645992,
+  "item_size": 37235334,
   "metadata": {
     "identifier": "burlcotimes-2022",
     "collection": [
@@ -5695,10 +5746,21 @@
     "publicdate": "2022-09-20 22:11:31",
     "addeddate": "2022-09-20 22:11:31"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 512552098,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462756363,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1076626029,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

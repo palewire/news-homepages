@@ -1,5 +1,5 @@
 {
-  "created": 1667613656,
+  "created": 1667646002,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/33/items/cnet-2022",
@@ -15058,31 +15058,82 @@
       "sha1": "89aeb115b47a79827ce0e1bcdd50eefdb45e9354"
     },
     {
+      "name": "cnet-2022-11-05T03:58:23.177324-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667645923",
+      "size": "31348",
+      "md5": "07401554fa3fba49ccada32dfa809fea",
+      "crc32": "d25eb216",
+      "sha1": "af167fdaa12bc9a301b4f894e5fa20b2573a13c7",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-11-05T03:58:23.177324-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667645924",
+      "size": "25513",
+      "md5": "cc1e41a26cad2da528176073d617a967",
+      "crc32": "ed3e78c3",
+      "sha1": "4c289dd346de0150ac1efaa859ab3fa98e74f069",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-11-05T03:58:23.177324-07:00.jpg",
+      "source": "original",
+      "mtime": "1667645921",
+      "size": "223005",
+      "md5": "e463b59740d6f10f3a368d3a84d54928",
+      "crc32": "062b6bfd",
+      "sha1": "5b764b040b37192cff8df7d1bf31152b694f1879",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnet-2022-11-05T03:58:23.177324-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667645926",
+      "size": "1441",
+      "md5": "0187150fd7485dc6df3092ab510f045c",
+      "crc32": "e1a79506",
+      "sha1": "cd31f3b9d4bd1b4f1420a07f0f9b720d08873770",
+      "format": "JSON"
+    },
+    {
+      "name": "cnet-2022-11-05T03:58:23.177324-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667645927",
+      "size": "201",
+      "md5": "dbb444dd926b35aac7cd2e6d0ad478df",
+      "crc32": "72fd1dee",
+      "sha1": "9f3adb29a63296128a1610b55925e6de2aca5d0e",
+      "format": "JSON"
+    },
+    {
       "name": "cnet-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2731f9ea46b77dc0cea323f34b7b5b63c82f6b34",
-      "mtime": "1667613623",
-      "size": "300191",
-      "md5": "b907643ec7dc8cedfbbcae416ac45e2e",
-      "crc32": "29a30467",
-      "sha1": "9e3164da74640aa55c60028f8295583422d26b81",
+      "btih": "dfa00c0c2cf1f60ca012cdadecea6737114a6033",
+      "mtime": "1667645995",
+      "size": "301232",
+      "md5": "9d45a92940f46d78b712e7d378cf30f4",
+      "crc32": "1bb45094",
+      "sha1": "bba8168dda641444d81d0ef0ef87191d591459a7",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnet-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a3da2f4d3246b363a7ada7110bedb43",
+      "md5": "db58098d2547fb311681310a7b4f25ba",
       "summation": "md5"
     },
     {
       "name": "cnet-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667610662",
-      "size": "1806336",
-      "md5": "ad757994a693186bfcdc865e52404df9",
-      "crc32": "db5b004a",
-      "sha1": "1e9b95d69d000ed91d9a31f71049ed8f5ad60e3c",
+      "mtime": "1667645936",
+      "size": "1814528",
+      "md5": "8f752a1034b28f7e20988b2635854e30",
+      "crc32": "3ccbe6fc",
+      "sha1": "450332ac59a879162d55bdcd1c7171338ef77f7e",
       "format": "Metadata"
     },
     {
@@ -15096,9 +15147,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1456,
-  "item_last_updated": 1667613623,
-  "item_size": 82080232,
+  "files_count": 1461,
+  "item_last_updated": 1667645995,
+  "item_size": 82370973,
   "metadata": {
     "identifier": "cnet-2022",
     "collection": [
@@ -15115,10 +15166,21 @@
     "publicdate": "2022-07-04 20:17:32",
     "addeddate": "2022-07-04 20:17:32"
   },
-  "server": "ia801408.us.archive.org",
-  "uniq": 2014551595,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462756442,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 289456402,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

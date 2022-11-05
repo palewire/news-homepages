@@ -1,5 +1,5 @@
 {
-  "created": 1667613768,
+  "created": 1667646054,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/12/items/capitolnewsil-2022",
@@ -13986,31 +13986,82 @@
       "sha1": "9840ec89e491f7cfc2ad5b161ef1bf7412815e3e"
     },
     {
+      "name": "capitolnewsil-2022-11-05T05:58:50.231131-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667645950",
+      "size": "10277",
+      "md5": "7affa7b59792bcb7b140ca79fcf39297",
+      "crc32": "b9f0d1c9",
+      "sha1": "39ba787285fba3abd147b1891a7fd4dce904ad3d",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-11-05T05:58:50.231131-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667645952",
+      "size": "7073",
+      "md5": "524be82a13894f8336f70fec66312a42",
+      "crc32": "2cdd82bc",
+      "sha1": "ab83d0c7ab96809423fd3ac545cfe026318b8f8a",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-11-05T05:58:50.231131-05:00.jpg",
+      "source": "original",
+      "mtime": "1667645949",
+      "size": "272926",
+      "md5": "5c27fad7371065f57ca69555a960974d",
+      "crc32": "da2757ae",
+      "sha1": "f888c2ba21979b4abd931d6b3f95ef14c4692cdf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "capitolnewsil-2022-11-05T05:58:50.231131-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667645954",
+      "size": "1576",
+      "md5": "cb9268322bf1074662bebeeecec1a780",
+      "crc32": "2422e2b1",
+      "sha1": "351e1bbd817a77bcbb7d8b48171aee0ae5194bae",
+      "format": "JSON"
+    },
+    {
+      "name": "capitolnewsil-2022-11-05T05:58:50.231131-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667645955",
+      "size": "216",
+      "md5": "5117123825730af4113d4013f8080fa8",
+      "crc32": "44e884c1",
+      "sha1": "4938ec1bf92d363786dfb6cc302c74e0bf343758",
+      "format": "JSON"
+    },
+    {
       "name": "capitolnewsil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9db9170f35e767bffa803de1bfd6d8efcace8c8e",
-      "mtime": "1667613729",
-      "size": "291720",
-      "md5": "c5d8866d502329b4ec0e3aae4247ee21",
-      "crc32": "b3c31551",
-      "sha1": "2ecd46129a16610d0ff00bdec7974c433d657429",
+      "btih": "180a4ab60defb37578020a7dbb77b55202cafc30",
+      "mtime": "1667646046",
+      "size": "292805",
+      "md5": "06b76dfdab8a99a0e224e0edb1ef8849",
+      "crc32": "0f1a807a",
+      "sha1": "98de6028c9cab0038c4ee283e289269f96ae0718",
       "format": "Archive BitTorrent"
     },
     {
       "name": "capitolnewsil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f36de1f8d5277bbe3c05e12d0e7c3894",
+      "md5": "ed475e218a84ab60ad740a6ab7b3b701",
       "summation": "md5"
     },
     {
       "name": "capitolnewsil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667610675",
-      "size": "1716224",
-      "md5": "c566c2635c23c7517b80c1daf03a41d6",
-      "crc32": "fd399e88",
-      "sha1": "c4a8f5b89ce8a662998755015dee6c1976dfd43c",
+      "mtime": "1667645992",
+      "size": "1724416",
+      "md5": "763ccae18e267e40774ad15044a12d44",
+      "crc32": "ad93d2d5",
+      "sha1": "49b67ec12f7cb46936350db726d0422f34ad5d8a",
       "format": "Metadata"
     },
     {
@@ -14024,9 +14075,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1354,
-  "item_last_updated": 1667613729,
-  "item_size": 86255384,
+  "files_count": 1359,
+  "item_last_updated": 1667646046,
+  "item_size": 86556729,
   "metadata": {
     "identifier": "capitolnewsil-2022",
     "collection": [
@@ -14043,10 +14094,21 @@
     "publicdate": "2022-07-09 03:56:30",
     "addeddate": "2022-07-09 03:56:30"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 1676516013,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462757422,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1975802093,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }
