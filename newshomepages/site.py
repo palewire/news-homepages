@@ -53,8 +53,9 @@ def drudge_ranking():
         },
         parse_dates=["earliest_date"],
     )
+    entity_df = utils.get_extract_df("drudge-entities-analysis.csv")
 
-    # Filter down to stories
+    # Filter links down to stories
     story_df = links_df[links_df.is_story]
     assert len(story_df.url.unique()) == len(story_df)
 
@@ -68,20 +69,24 @@ def drudge_ranking():
     )
     domain_df["percent"] = round((domain_df.n / domain_df.n.sum()) * 100, 1)
 
+    links_per_day = (
+        links_df.groupby("earliest_date").url.size().rename("n").reset_index().n.mean()
+    )
+
     # Rank
     domain_df["rank"] = domain_df.n.rank(ascending=False, method="min").astype(int)
+    entity_df["rank"] = entity_df.n.rank(ascending=False, method="min").astype(int)
 
     # Create the page
     context = dict(
         total_sites=len(domain_df),
         total_urls=domain_df.n.sum(),
         days=len(links_df.groupby("earliest_date").url.size()),
-        links_per_day=links_df.groupby("earliest_date")
-        .url.size()
-        .rename("n")
-        .reset_index()
-        .n.mean(),
+        links_per_day=links_per_day,
         site_list=domain_df.sort_values("n", ascending=False).to_dict(orient="records"),
+        entity_list=entity_df.sort_values("n", ascending=False).to_dict(
+            orient="records"
+        ),
     )
     _write_template("drudge.md", context)
 

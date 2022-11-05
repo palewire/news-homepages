@@ -1,11 +1,46 @@
 ```{include} _templates/nav.html
 ```
 
-# Drudge Report ranking
+# Drudge dashboard
 
 As part of its archiving routine, our system routinely captures [The Drudge Report](https://palewi.re/docs/news-homepages/sites/drudge.html), a news aggregator focused on Beltway politics, celebrity scandal, extreme weather and other catastrophes of American life.
 
-Over the last 90 days, Drudge's homepage has featured {{ "{:,.0f}".format(total_urls) }} stories on {{ "{:,.0f}".format(total_sites) }} different sites. This page ranks domains by how often they appeared in that period. The list updates daily.
+Over the last 90 days, Drudge's homepage has featured {{ "{:,.0f}".format(total_urls) }} stories on {{ "{:,.0f}".format(total_sites) }} different sites. The analysis here updates daily.
+
+## Top words
+
+Here are the people, places and things featured in the most headlines, as well as the most commonly paired verb.
+
+<table class="colwidths-auto docutils align-default">
+ <thead>
+  <tr>
+    <th class="head">Rank</th>
+    <th class="head">Word</th>
+    <th class="head">Top verb</th>
+    <th class="head" style="text-align: right;">Headlines</th>
+  </tr>
+ </thead>
+ <tbody>
+  {% for obj in entity_list %}
+  <tr>
+    <td>{{ obj.rank }}</td>
+    <td>
+        {{ obj.lemma }}
+    </td>
+    <td>
+        {{ obj.top_verb }}
+    </td>
+    <td style="text-align: right;">
+        {{ obj.n }}
+    </td>
+  </tr>
+  {% endfor %}
+ </tbody>
+</table>
+
+## Top domains
+
+Here are all sites ranked by how often they appeared.
 
 <table class="colwidths-auto docutils align-default">
  <thead>

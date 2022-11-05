@@ -59,3 +59,9 @@ def test_url_parse():
     utils.parse_archive_url(
         "https://archive.org/download/appalachia100-2022/appalachia100-2022-07-29T19:59:50.561493-04:00.jpg"
     )
+
+
+def test_get_extract():
+    """Test the method to pull in an extract CSV."""
+    utils.get_extract_df("drudge-entities-analysis.csv")
+    utils.get_extract_df("drudge-entities-analysis.csv", dtype={"n": int})
