@@ -1,46 +1,5 @@
 {
-  "cnbc-2022": [
-    {
-      "url": "https://www.cnbc.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cnbc_com-_-2022_11_05_10_42_30.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cnbc_com-_-2022_11_05_10_42_30.report.json",
-      "summary": {
-        "performance": 0.26,
-        "accessibility": 0.89,
-        "best-practices": 0.75,
-        "seo": 0.83,
-        "pwa": 0.2
-      }
-    },
-    {
-      "url": "https://www.cnbc.com/",
-      "isRepresentativeRun": false,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cnbc_com-_-2022_11_05_10_42_59.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cnbc_com-_-2022_11_05_10_42_59.report.json",
-      "summary": {
-        "performance": 0.25,
-        "accessibility": 0.89,
-        "best-practices": 0.75,
-        "seo": 0.83,
-        "pwa": 0.2
-      }
-    },
-    {
-      "url": "https://www.cnbc.com/",
-      "isRepresentativeRun": true,
-      "htmlPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cnbc_com-_-2022_11_05_10_42_00.report.html",
-      "jsonPath": "/home/runner/work/news-homepages/news-homepages/.lighthouseci/www_cnbc_com-_-2022_11_05_10_42_00.report.json",
-      "summary": {
-        "performance": 0.23,
-        "accessibility": 0.89,
-        "best-practices": 0.75,
-        "seo": 0.83,
-        "pwa": 0.2
-      }
-    }
-  ],
-  "created": 1667671931,
+  "created": 1667689084,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/11/items/cnbc-2022",
@@ -9307,31 +9266,82 @@
       "sha1": "50c5c7708c254986ad7d0b33c673f21716c1a8f0"
     },
     {
+      "name": "cnbc-2022-11-05T18:57:01.756366-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667689025",
+      "size": "52264",
+      "md5": "dbdcb71c19e955b78544c4fe3964611d",
+      "crc32": "a7764456",
+      "sha1": "e473ab7e4627859af164c0a56fce27e748e35716",
+      "format": "JSON"
+    },
+    {
+      "name": "cnbc-2022-11-05T18:57:01.756366-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667689026",
+      "size": "53807",
+      "md5": "ca29bd248347ead6b089b8f568c8959d",
+      "crc32": "5def936b",
+      "sha1": "773345f8a163e14e228e9f7b0cc5366ba3ab7163",
+      "format": "JSON"
+    },
+    {
+      "name": "cnbc-2022-11-05T18:57:01.756366-04:00.jpg",
+      "source": "original",
+      "mtime": "1667689023",
+      "size": "245268",
+      "md5": "c4a29924e5ded98b39d7a8e5bbdd4a88",
+      "crc32": "00277a71",
+      "sha1": "d91543b23f8cd784da2e482f6706f593ef8fc6f0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "cnbc-2022-11-05T18:57:01.756366-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667689028",
+      "size": "1440",
+      "md5": "d3863bf5ed2913286efb74e35864c239",
+      "crc32": "0eff7d7a",
+      "sha1": "241a128877eb2f9eaae3fe1d59307ce8ecd22d80",
+      "format": "JSON"
+    },
+    {
+      "name": "cnbc-2022-11-05T18:57:01.756366-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667689029",
+      "size": "246",
+      "md5": "9b1c459305d22be4f348d9b51f103735",
+      "crc32": "eb1ec439",
+      "sha1": "9d7e3a787ae71345fc6d3ce63418403441d1644a",
+      "format": "JSON"
+    },
+    {
       "name": "cnbc-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b9ee4705f88a6f49cb594fde000fc00b15f5bdaa",
-      "mtime": "1667646879",
-      "size": "186159",
-      "md5": "e262ef9cd67b1bc3d22ab22456569560",
-      "crc32": "58256ab4",
-      "sha1": "cea5c99747d529ad12b996183b06fc174325f726",
+      "btih": "e460ed18e2ebf0efd4d09008f59d2a5ecb2bc1c2",
+      "mtime": "1667689079",
+      "size": "187200",
+      "md5": "dd7a3dd2a7e7c6a68939c6037e0c6048",
+      "crc32": "9d3c0dcd",
+      "sha1": "c69eea466df6ddf8b3b7e4067bd432ace671379e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "cnbc-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dceca03c818c4f6f1179fff7e99ebc69",
+      "md5": "2cb36eeb8decba5416f5c7c3925e53a6",
       "summation": "md5"
     },
     {
       "name": "cnbc-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667645916",
-      "size": "1146880",
-      "md5": "09691ecce581bff9f69244d64aa75150",
-      "crc32": "9bcf5157",
-      "sha1": "82e9b888ce39140afdec4b9d0c96fb28c981b535",
+      "mtime": "1667689034",
+      "size": "1150976",
+      "md5": "f41887e949d5310ffa03a3576bc3eef9",
+      "crc32": "47be599a",
+      "sha1": "4ccea0f5e047add4db171226156c21c56a80e9a3",
       "format": "Metadata"
     },
     {
@@ -9345,9 +9355,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 900,
-  "item_last_updated": 1667646879,
-  "item_size": 59788903,
+  "files_count": 905,
+  "item_last_updated": 1667689079,
+  "item_size": 60147065,
   "metadata": {
     "identifier": "cnbc-2022",
     "collection": [
@@ -9364,10 +9374,21 @@
     "publicdate": "2022-08-23 22:59:56",
     "addeddate": "2022-08-23 22:59:56"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 852417783,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463204464,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1288556543,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }

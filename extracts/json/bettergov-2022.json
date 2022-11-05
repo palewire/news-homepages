@@ -1,5 +1,5 @@
 {
-  "created": 1667666506,
+  "created": 1667688936,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/12/items/bettergov-2022",
@@ -20694,31 +20694,82 @@
       "sha1": "2f1f3ed5fd459db59877d9c8ed9a593991329940"
     },
     {
+      "name": "bettergov-2022-11-05T17:53:51.829018-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667688851",
+      "size": "12466",
+      "md5": "bc3026802690e9f2d66127b9e55b0db1",
+      "crc32": "ef2c9eae",
+      "sha1": "22ceecb684d4f49cd4b6467bcac7ed51fad3d68d",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-11-05T17:53:51.829018-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667688853",
+      "size": "16782",
+      "md5": "98e6627e5b072a41d3347668f657a839",
+      "crc32": "2c7a4b4e",
+      "sha1": "888c5cdd4436838025bc29a2d61db84b3297cca0",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-11-05T17:53:51.829018-05:00.jpg",
+      "source": "original",
+      "mtime": "1667688849",
+      "size": "302533",
+      "md5": "e30f5c49cab73c1aaf4d7d98e2f00351",
+      "crc32": "0f3c0580",
+      "sha1": "2c8ffd9cf396f5af547c7b4b84d2b623c42786dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bettergov-2022-11-05T17:53:51.829018-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667688855",
+      "size": "1485",
+      "md5": "71f655bb8d9a0641afe8bc9eb058fa33",
+      "crc32": "8c6eaa3b",
+      "sha1": "4f8bbd76df42300ab9d1dd65eaad048298d68870",
+      "format": "JSON"
+    },
+    {
+      "name": "bettergov-2022-11-05T17:53:51.829018-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667688857",
+      "size": "16865",
+      "md5": "1fa0f41f436c4c3e7e69f4862492c2f0",
+      "crc32": "7ea7b98c",
+      "sha1": "5d1e4645f12c3afa507928bd751d1e779e6f9b83",
+      "format": "JSON"
+    },
+    {
       "name": "bettergov-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fc98394dae12b0e3fcc0285438b2663dafd2e64a",
-      "mtime": "1667666460",
-      "size": "423633",
-      "md5": "4adad84b0ac9f6d40dcac674e7469fb6",
-      "crc32": "e6140afc",
-      "sha1": "eb78a62c17f701cf162cf6483fa749358fa6d929",
+      "btih": "de1feda31c20c178a887081de8a0f5adb685a79e",
+      "mtime": "1667688929",
+      "size": "424701",
+      "md5": "9ec8ef134b1711e9da302a978a2839e1",
+      "crc32": "98b0c387",
+      "sha1": "0be09a1b08da4c5fdff98b08ea80d61565cfa193",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bettergov-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cc47fe125370e714421c710a5d13782e",
+      "md5": "6486470442de820851b83a095c7c8249",
       "summation": "md5"
     },
     {
       "name": "bettergov-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667664690",
-      "size": "2523136",
-      "md5": "a20d9666c57d709654ebec32a981dc81",
-      "crc32": "58f977e5",
-      "sha1": "8f812f106cc89f95380ef052f87c43a2bd6eedb3",
+      "mtime": "1667688863",
+      "size": "2531328",
+      "md5": "90fbe0d4b2620fc31a0d5d200ddcf1db",
+      "crc32": "b2e33a90",
+      "sha1": "43c3a4fd5ea20203a07c3af095c11ad34daa30a1",
       "format": "Metadata"
     },
     {
@@ -20732,9 +20783,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2002,
-  "item_last_updated": 1667666460,
-  "item_size": 128815804,
+  "files_count": 2007,
+  "item_last_updated": 1667688929,
+  "item_size": 129175195,
   "metadata": {
     "identifier": "bettergov-2022",
     "collection": [
@@ -20751,10 +20802,21 @@
     "publicdate": "2022-07-09 03:56:41",
     "addeddate": "2022-07-09 03:56:41"
   },
-  "server": "ia801406.us.archive.org",
-  "uniq": 2127041308,
+  "pending_tasks": true,
+  "server": "ia601406.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463203194,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1021679239,
   "workable_servers": [
-    "ia801406.us.archive.org",
     "ia601406.us.archive.org"
   ]
 }

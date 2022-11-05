@@ -1,10 +1,5 @@
 {
-  "blackbygodwv-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667671436,
+  "created": 1667688831,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/19/items/blackbygodwv-2022",
@@ -14001,31 +13996,82 @@
       "sha1": "322bc24e3dd9c7807eb582090d5d803f63adc06c"
     },
     {
+      "name": "blackbygodwv-2022-11-05T18:52:40.724166-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667688770",
+      "size": "12563",
+      "md5": "679d5ea8c9e8b66f313902e352ae1ad3",
+      "crc32": "e659fed1",
+      "sha1": "907fec9b2df1f80836bbdbaca80e25bec3442278",
+      "format": "JSON"
+    },
+    {
+      "name": "blackbygodwv-2022-11-05T18:52:40.724166-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667688772",
+      "size": "4355",
+      "md5": "a0dddce711f65be57ea561ade81507bc",
+      "crc32": "dcba4a17",
+      "sha1": "83734856f308655bc1b25facb89bee96ca82ee60",
+      "format": "JSON"
+    },
+    {
+      "name": "blackbygodwv-2022-11-05T18:52:40.724166-04:00.jpg",
+      "source": "original",
+      "mtime": "1667688769",
+      "size": "264421",
+      "md5": "a86a70f7dc320cecfa2b4250187ae094",
+      "crc32": "42b035c9",
+      "sha1": "fd5c15f34f238c141d2fd3edb3019c6dd4e4362b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "blackbygodwv-2022-11-05T18:52:40.724166-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667688773",
+      "size": "1446",
+      "md5": "f985e5930295a048f7e8a49dab34f9bf",
+      "crc32": "74e9aaba",
+      "sha1": "784eb04b6ec4320eb14f60eb2a60a14e14a4f0cf",
+      "format": "JSON"
+    },
+    {
+      "name": "blackbygodwv-2022-11-05T18:52:40.724166-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667688775",
+      "size": "11661",
+      "md5": "498ab5952f95fb79c6c387f56afa1b50",
+      "crc32": "487cfb43",
+      "sha1": "7a8ab99bda2342dda923c5f580e49fe566f673b9",
+      "format": "JSON"
+    },
+    {
       "name": "blackbygodwv-2022_archive.torrent",
       "source": "metadata",
-      "btih": "35a59f2aef89c29ca065e819018fc0c441e5051a",
-      "mtime": "1667646818",
-      "size": "289767",
-      "md5": "54b6612fdc2a5654d0c6c848e1dc46aa",
-      "crc32": "e6544b10",
-      "sha1": "fd2bd45fc5a6f0e67fffc4a8445c2b8da140f0e4",
+      "btih": "0a4fc47a94e57175dbd4a09205866f52c7e30eaf",
+      "mtime": "1667688828",
+      "size": "290829",
+      "md5": "7a7aa75e0ace11bcec8f18ea1d116b91",
+      "crc32": "66d6ee9a",
+      "sha1": "e39f1620fbc580e03ea808c28521e3d9053259fc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "blackbygodwv-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "83e80aabe9505084d8990fdf1f86051e",
+      "md5": "e4864bda32336f0eb5c95e83af2dfc4b",
       "summation": "md5"
     },
     {
       "name": "blackbygodwv-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667645806",
-      "size": "1716224",
-      "md5": "f68f42ce9387e28d26bb4a3aaaec91e2",
-      "crc32": "1a392e9f",
-      "sha1": "ef9dc108cb30fb477c0145cf7fd1f1e07f8efd36",
+      "mtime": "1667688779",
+      "size": "1724416",
+      "md5": "32b6a684ceef74e8ff632679771ceee3",
+      "crc32": "77eab0b7",
+      "sha1": "3a78db8128cf1305815f9b98f9fa44f7ef3f6e61",
       "format": "Metadata"
     },
     {
@@ -14039,9 +14085,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1355,
-  "item_last_updated": 1667646818,
-  "item_size": 68118288,
+  "files_count": 1360,
+  "item_last_updated": 1667688828,
+  "item_size": 68421988,
   "metadata": {
     "identifier": "blackbygodwv-2022",
     "collection": [
@@ -14058,10 +14104,21 @@
     "publicdate": "2022-07-10 15:40:03",
     "addeddate": "2022-07-10 15:40:03"
   },
+  "pending_tasks": true,
   "server": "ia902502.us.archive.org",
-  "uniq": 1551884325,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463202166,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1571995067,
   "workable_servers": [
-    "ia902502.us.archive.org",
-    "ia802502.us.archive.org"
+    "ia902502.us.archive.org"
   ]
 }

@@ -1,13 +1,5 @@
 {
-  "bmtenterprise-2022": {
-    "url": "https://www.beaumontenterprise.com/",
-    "job_id": "spn2-ea88962271bf6ed9218af793705f74907c7bc376",
-    "resources": [],
-    "status": "error",
-    "message": "Job failed.",
-    "status_ext": "error:job-failed"
-  },
-  "created": 1667671481,
+  "created": 1667688965,
   "d1": "ia601404.us.archive.org",
   "d2": "ia801404.us.archive.org",
   "dir": "/27/items/bmtenterprise-2022",
@@ -12872,31 +12864,82 @@
       "sha1": "7423809cb6826fe5c5fdab31b7e6729d868c8a54"
     },
     {
+      "name": "bmtenterprise-2022-11-05T17:53:44.327675-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667688869",
+      "size": "54185",
+      "md5": "2c54da5f8eca3b64708ae7b784645d33",
+      "crc32": "f42a8ce7",
+      "sha1": "094f145b2f6876d8c1792e90fc145aae526b4183",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-11-05T17:53:44.327675-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667688870",
+      "size": "54527",
+      "md5": "dee9f2e136df2a2a572f4bf6398bfd08",
+      "crc32": "47adf8f5",
+      "sha1": "a028547490b9277d1e04bd860d719583f9043bbf",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-11-05T17:53:44.327675-05:00.jpg",
+      "source": "original",
+      "mtime": "1667688867",
+      "size": "331674",
+      "md5": "cee4585aecee1463c5a9da4062841564",
+      "crc32": "dc589345",
+      "sha1": "81783f587f83ed59699d32567f2e5ab68af8c667",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bmtenterprise-2022-11-05T17:53:44.327675-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667688871",
+      "size": "1567",
+      "md5": "26a3a3f3cb187b945cf9b4d2a177bbf5",
+      "crc32": "7394ce2a",
+      "sha1": "0add57a123b7c3b0053b09d712e3db7895ebd5c6",
+      "format": "JSON"
+    },
+    {
+      "name": "bmtenterprise-2022-11-05T17:53:44.327675-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667688873",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "bmtenterprise-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bf53810abb3495a53266ca039cebd690f8683110",
-      "mtime": "1667646775",
-      "size": "269624",
-      "md5": "d22ce71d204b0c26560733af829a230b",
-      "crc32": "12a9f4fe",
-      "sha1": "282c5070a7c7f3ab74553c5778438e652bfa8926",
+      "btih": "e712fc4cc60074ce4b2051aaf70fab7260f68c59",
+      "mtime": "1667688953",
+      "size": "270710",
+      "md5": "e3e7be4fef6c244bb9550353987548c7",
+      "crc32": "25ece199",
+      "sha1": "4b2248090d2167ecc93b5257b4166e304e4bfc65",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bmtenterprise-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7c39940feb064724256f80b1299960c8",
+      "md5": "1db2b51c28fde69898caae6c280d57ec",
       "summation": "md5"
     },
     {
       "name": "bmtenterprise-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667645791",
-      "size": "1572864",
-      "md5": "99b01808763d13755c0dbbc499a54e7b",
-      "crc32": "b15e0633",
-      "sha1": "2a078166132baccb6b7876c4ab7a4bb2a91c7a69",
+      "mtime": "1667688888",
+      "size": "1581056",
+      "md5": "f28039179461787ec782e43a673766c2",
+      "crc32": "5872f781",
+      "sha1": "f19b5f654daec1b4f482367e3a467b8e389b43c7",
       "format": "Metadata"
     },
     {
@@ -12910,9 +12953,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1245,
-  "item_last_updated": 1667646775,
-  "item_size": 110645651,
+  "files_count": 1250,
+  "item_last_updated": 1667688953,
+  "item_size": 111097084,
   "metadata": {
     "identifier": "bmtenterprise-2022",
     "collection": [
@@ -12929,10 +12972,21 @@
     "publicdate": "2022-07-18 00:04:22",
     "addeddate": "2022-07-18 00:04:22"
   },
+  "pending_tasks": true,
   "server": "ia601404.us.archive.org",
-  "uniq": 1668199203,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463203445,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1375805428,
   "workable_servers": [
-    "ia601404.us.archive.org",
-    "ia801404.us.archive.org"
+    "ia601404.us.archive.org"
   ]
 }

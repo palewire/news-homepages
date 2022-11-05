@@ -1,10 +1,5 @@
 {
-  "aristeguionline-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667671067,
+  "created": 1667688861,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/19/items/aristeguionline-2022",
@@ -10271,31 +10266,82 @@
       "sha1": "70d1239b5b72eb05e3ace8ca1605d777700148eb"
     },
     {
+      "name": "aristeguionline-2022-11-05T16:52:46.463357-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667688773",
+      "size": "68099",
+      "md5": "5f7e1b5a8123321752b5f222b1241fcf",
+      "crc32": "6e8261ca",
+      "sha1": "8008fb12e4e4950f8e4d6229d1c97c59a74fd784",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-11-05T16:52:46.463357-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667688774",
+      "size": "51658",
+      "md5": "c53b09e86d84e56f78b7af6f8ab4c013",
+      "crc32": "91343fcf",
+      "sha1": "60d81bd78b311a8b92270a8fa88a61846f687877",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-11-05T16:52:46.463357-06:00.jpg",
+      "source": "original",
+      "mtime": "1667688771",
+      "size": "234757",
+      "md5": "a059c30230f350f0a5e74b365da0de0c",
+      "crc32": "18f6755d",
+      "sha1": "b9c0e361661092ab26e5373493ee577237f98d24",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aristeguionline-2022-11-05T16:52:46.463357-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667688776",
+      "size": "1522",
+      "md5": "b9e06b52c9a2c7a628d3c19aa19b8288",
+      "crc32": "2e1174de",
+      "sha1": "9c80379d5cb02789a8f9e046cf8794b49e80b090",
+      "format": "JSON"
+    },
+    {
+      "name": "aristeguionline-2022-11-05T16:52:46.463357-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667688777",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "aristeguionline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "841ef704267708cb4e3b6b55e1c099cda24f8283",
-      "mtime": "1667648762",
-      "size": "217563",
-      "md5": "59da4ccbfec21293dfa8648603b62e88",
-      "crc32": "554c1b14",
-      "sha1": "729caca4a06fb88136bff3e0f8a3cc79a60ead70",
+      "btih": "ae5bb90ca5a6422b6afec28541c91d15e9d06a0d",
+      "mtime": "1667688848",
+      "size": "218639",
+      "md5": "3e98097dab687f6887d6d79b75498ded",
+      "crc32": "a4b88de3",
+      "sha1": "c316f8d22cc42ddc831c5338eb213492aae211f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aristeguionline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2b3ae9b61a1df4970a5366dc9a338e62",
+      "md5": "cadcc77f088186153de6d71fff345a2f",
       "summation": "md5"
     },
     {
       "name": "aristeguionline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667645633",
-      "size": "1290240",
-      "md5": "2accdb9e29dffd18ff7315b1d13a63ce",
-      "crc32": "ab346a77",
-      "sha1": "31011c3d12ce34ac89a4e574f5505094a2ddfe66",
+      "mtime": "1667688791",
+      "size": "1298432",
+      "md5": "fc3045e3cd562e0f7159a008aef5cf5f",
+      "crc32": "d123cc19",
+      "sha1": "5b006850385170913835c8dc0489281c73c27ecf",
       "format": "Metadata"
     },
     {
@@ -10309,9 +10355,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 997,
-  "item_last_updated": 1667648762,
-  "item_size": 73749556,
+  "files_count": 1002,
+  "item_last_updated": 1667688848,
+  "item_size": 74115062,
   "metadata": {
     "identifier": "aristeguionline-2022",
     "collection": [
@@ -10328,10 +10374,21 @@
     "publicdate": "2022-08-16 17:11:11",
     "addeddate": "2022-08-16 17:11:11"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 744693724,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463202506,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 707831123,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

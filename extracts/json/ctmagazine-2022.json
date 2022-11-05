@@ -1,5 +1,5 @@
 {
-  "created": 1667665753,
+  "created": 1667689018,
   "d1": "ia601407.us.archive.org",
   "d2": "ia801407.us.archive.org",
   "dir": "/25/items/ctmagazine-2022",
@@ -9162,31 +9162,82 @@
       "sha1": "2ed693a7c6d8fadeeedf070a61447fb06df75167"
     },
     {
+      "name": "ctmagazine-2022-11-05T17:55:36.910759-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667688946",
+      "size": "26005",
+      "md5": "c611b977f574e9b8c4f6801e848d207c",
+      "crc32": "64774af7",
+      "sha1": "ad626d501b04d1c8b63012372ac01a400b4e6728",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-11-05T17:55:36.910759-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667688948",
+      "size": "26127",
+      "md5": "993fbc41cc6fa1e9e47a689119351b81",
+      "crc32": "4d14306c",
+      "sha1": "a1e50b7ba627a5f90ba38392fce6b82008847124",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-11-05T17:55:36.910759-05:00.jpg",
+      "source": "original",
+      "mtime": "1667688944",
+      "size": "253728",
+      "md5": "f1e063352bf4c7a4ce9e2ec355fa5003",
+      "crc32": "2db0677a",
+      "sha1": "0047d84bafd657e7810b77f6e2b617fdaf4774df",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "ctmagazine-2022-11-05T17:55:36.910759-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667688950",
+      "size": "1554",
+      "md5": "f53f349fe97da22ddcea3307e54088c5",
+      "crc32": "2075a065",
+      "sha1": "395737b3bb3b08ebc52bee0a27fc10dc8b868dcf",
+      "format": "JSON"
+    },
+    {
+      "name": "ctmagazine-2022-11-05T17:55:36.910759-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667688951",
+      "size": "25630",
+      "md5": "85904eb3d34c548912298762586aed1e",
+      "crc32": "950d8e40",
+      "sha1": "7caafde0162abaf92e07a71232f17d8c41ff28c0",
+      "format": "JSON"
+    },
+    {
       "name": "ctmagazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "11b967ff4d368f332ffbec66050c557e9953c93c",
-      "mtime": "1667646841",
-      "size": "189257",
-      "md5": "6c506812d7cc352e4a1e2135bba17f77",
-      "crc32": "4ae71bb5",
-      "sha1": "feb59dda42c6b1b995aa42fec190107ef53a34b0",
+      "btih": "0f4025aa61dee739b64ce834e26e46e3720affca",
+      "mtime": "1667689010",
+      "size": "190310",
+      "md5": "e0f8520e4455546ffff71763efc4e0de",
+      "crc32": "b963fda4",
+      "sha1": "ef427f6f6604f65ece5dab573066d023d39d4fdc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ctmagazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "77d051dfb6c1153fc2ea25e40e1dde32",
+      "md5": "fc80b5336ee5ae86d9bf14062743e4d3",
       "summation": "md5"
     },
     {
       "name": "ctmagazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667645941",
-      "size": "1142784",
-      "md5": "48f9bb478f0fe98df875e406f44d296d",
-      "crc32": "ca7b7c4f",
-      "sha1": "c341426062577e521d32fa042c6ce6acd7ad4f8e",
+      "mtime": "1667688957",
+      "size": "1150976",
+      "md5": "ecddfb1cb1be41880f1b95ff021ebc1a",
+      "crc32": "98ec13ab",
+      "sha1": "721ebc0f353a7df5e886a6eb5616de23a5966b1c",
       "format": "Metadata"
     },
     {
@@ -9200,9 +9251,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 890,
-  "item_last_updated": 1667646841,
-  "item_size": 52736710,
+  "files_count": 895,
+  "item_last_updated": 1667689010,
+  "item_size": 53078999,
   "metadata": {
     "identifier": "ctmagazine-2022",
     "collection": [
@@ -9219,10 +9270,21 @@
     "publicdate": "2022-08-23 23:00:18",
     "addeddate": "2022-08-23 23:00:18"
   },
+  "pending_tasks": true,
   "server": "ia601407.us.archive.org",
-  "uniq": 1918362537,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463203867,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 198277260,
   "workable_servers": [
-    "ia601407.us.archive.org",
-    "ia801407.us.archive.org"
+    "ia601407.us.archive.org"
   ]
 }
