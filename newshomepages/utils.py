@@ -62,6 +62,12 @@ def parse_archive_artifact(url_list: typing.List) -> typing.Dict:
     return d
 
 
+def get_extract_df(name: str, **kwargs) -> pd.DataFrame:
+    """Read in the requests extracts CSV as a dataframe."""
+    base_url = "https://github.com/palewire/news-homepages/raw/main/extracts/csv/"
+    return pd.read_csv(f"{base_url}{name}", **kwargs)
+
+
 def get_user_agent() -> str:
     """Return a user agent string ready to pass to a browser."""
     return "Mozilla/5.0 (Macintosh; Intel Mac OS X 12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"
