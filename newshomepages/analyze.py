@@ -36,7 +36,7 @@ def drudge_entities():
     # Filter down to stories
     story_df = drudge_df[drudge_df.is_story].copy()
     
-    # Cut ...
+    # Cut `...`
     story_df.text = story_df.text.str.replace(r"\.{2,}", "", regex=True)
     
     # Uppercase everything
