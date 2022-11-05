@@ -1,7 +1,13 @@
-name: Commit
-description: Save the latest screenshots
+name: Upload
+description: Upload the provided artifact to Amazon S3
 
 inputs:
+  artifact:
+    description: The name of the artifact to upload
+    required: true
+  destination:
+    description: The bucket folder where the artifact should be uploaded
+    required: true
   s3-access-key-id:
     description: An API key with permission to post to Amazon S3
     required: true
@@ -21,13 +27,13 @@ runs:
 
     - uses: actions/download-artifact@v3
       with:
-        name: screenshots
-        path: ./latest-screenshots
+        name: ${{ inputs.artifact }}
+        path: "./${{ inputs.destination }}"
 
     - uses: shallwefootball/s3-upload-action@master
       with:
         aws_key_id: ${{ inputs.s3-access-key-id }}
         aws_secret_access_key: ${{ inputs.s3-secret-access-key }}
         aws_bucket: ${{ inputs.s3-bucket-name }}
-        source_dir: './latest-screenshots/'
-        destination_dir: "./latest-screenshots/"
+        source_dir: "./${{ inputs.destination }}/"
+        destination_dir: "./${{ inputs.destination }}/"
