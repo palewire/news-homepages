@@ -1,5 +1,5 @@
 {
-  "created": 1667577908,
+  "created": 1667657736,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/13/items/njherald-2022",
@@ -5596,31 +5596,155 @@
       "sha1": "6cfa2882a00c51b5fde9261f53b1ec919df2e3a7"
     },
     {
+      "name": "njherald-2022-11-04T22:50:15.318141-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667616624",
+      "size": "22828",
+      "md5": "fec1484a9b36b036d0de151511c808e8",
+      "crc32": "2c46d83e",
+      "sha1": "d8d1b646eadb4be016282f84b63e3fc39af6c3a3",
+      "format": "JSON"
+    },
+    {
+      "name": "njherald-2022-11-04T22:50:15.318141-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667616626",
+      "size": "49600",
+      "md5": "893346a26cf45bcc6833001fec6115d3",
+      "crc32": "9696173a",
+      "sha1": "6d6406e08550f75231bb86779f1cff068d810132",
+      "format": "JSON"
+    },
+    {
+      "name": "njherald-2022-11-04T22:50:15.318141-04:00.jpg",
+      "source": "original",
+      "mtime": "1667616622",
+      "size": "277963",
+      "md5": "1ee4321a507db99a0beef3496845b975",
+      "crc32": "f9260f6b",
+      "sha1": "f8e9be3e456acfaf0e814f5d134e25d1923333ff",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "njherald-2022-11-04T22:50:15.318141-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667616628",
+      "size": "1477",
+      "md5": "33d23837d013f1b945f64aba2333c523",
+      "crc32": "5df66d3c",
+      "sha1": "a003f4f4e8f447d2d429e085bb1287140d656708",
+      "format": "JSON"
+    },
+    {
+      "name": "njherald-2022-11-04T22:50:15.318141-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667616629",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "njherald-2022-11-04T22:50:15.318141-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "njherald-2022-11-04T22:50:15.318141-04:00.jpg",
+      "mtime": "1667618632",
+      "size": "9274",
+      "md5": "9a1c00a1f64365cf845c60769a66cf29",
+      "crc32": "8be5e833",
+      "sha1": "c291a7ca17bf4d4ae59068bcd822cfefbac446b1"
+    },
+    {
+      "name": "njherald-2022-11-05T09:58:54.742863-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667656740",
+      "size": "23528",
+      "md5": "9d871e5ebfd9453ab8211efc14f406b8",
+      "crc32": "15ff1d5e",
+      "sha1": "e3e32a840878233df7c8c1259c132c50a347e2f1",
+      "format": "JSON"
+    },
+    {
+      "name": "njherald-2022-11-05T09:58:54.742863-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667656742",
+      "size": "39514",
+      "md5": "a7f1d70956b323da99be552a41cce2d7",
+      "crc32": "8591ef62",
+      "sha1": "8d3878f41547a4aea49370a9c69473c8f3ec6db3",
+      "format": "JSON"
+    },
+    {
+      "name": "njherald-2022-11-05T09:58:54.742863-04:00.jpg",
+      "source": "original",
+      "mtime": "1667656738",
+      "size": "285006",
+      "md5": "3f7d3a81c404a22ef036f96e95c53626",
+      "crc32": "96edb320",
+      "sha1": "7db936407976dbc8eccb5724eca34aa522f229fc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "njherald-2022-11-05T09:58:54.742863-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667656743",
+      "size": "1477",
+      "md5": "4d6ddc82ab9425f3f07bdfffd0752483",
+      "crc32": "1b430424",
+      "sha1": "9a8c5562fdaef1f0d2bd9645daa34889799657b5",
+      "format": "JSON"
+    },
+    {
+      "name": "njherald-2022-11-05T09:58:54.742863-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667656745",
+      "size": "96636",
+      "md5": "f0a12c2c31586473dc7138e85d56a5ce",
+      "crc32": "c47b8524",
+      "sha1": "21a08450264bd5047632762c5e144354bf7ae631",
+      "format": "JSON"
+    },
+    {
+      "name": "njherald-2022-11-05T09:58:54.742863-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "njherald-2022-11-05T09:58:54.742863-04:00.jpg",
+      "mtime": "1667657667",
+      "size": "9040",
+      "md5": "ca2fb588b7028593dcf12b8fb21b3b5d",
+      "crc32": "bbb0e721",
+      "sha1": "a8505a58812d2c9aca4ace6f2a72885bf7020a96"
+    },
+    {
       "name": "njherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8b9282b68b809d4cb8d0371802eee060d5a64184",
-      "mtime": "1667577041",
-      "size": "115193",
-      "md5": "76967b62e18ed1711a6c38218c6a15dc",
-      "crc32": "52149e6a",
-      "sha1": "cfa2357b045a1e17b3fd585e223daad02d9103ea",
+      "btih": "9672e58cad690e0e9582077802d839013ed6a291",
+      "mtime": "1667657681",
+      "size": "117705",
+      "md5": "dad8568a15aa9e308dc0edeb60128f54",
+      "crc32": "2e708e24",
+      "sha1": "3b7e7cdd444ac462e3ad876e97ce93a50c1f5c54",
       "format": "Archive BitTorrent"
     },
     {
       "name": "njherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "403ddf468f41aba4352fc914517ab4d0",
+      "md5": "b7e2ead1d5217e0477ed9db02b90f659",
       "summation": "md5"
     },
     {
       "name": "njherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667574419",
-      "size": "704512",
-      "md5": "36a1d4d76c73624fb1e16d11cab4ed89",
-      "crc32": "f19073ff",
-      "sha1": "efdfd783d4bba87dd6118a94424f9af1cd3ed1d2",
+      "mtime": "1667656749",
+      "size": "720896",
+      "md5": "097d09bf97822b69edaae024dc34bd54",
+      "crc32": "ae99a6ff",
+      "sha1": "507e9b0792da27c770cecd96b0ae3419c7c67d99",
       "format": "Metadata"
     },
     {
@@ -5634,9 +5758,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 545,
-  "item_last_updated": 1667577041,
-  "item_size": 36382691,
+  "files_count": 557,
+  "item_last_updated": 1667657681,
+  "item_size": 37218132,
   "metadata": {
     "identifier": "njherald-2022",
     "collection": [
@@ -5654,7 +5778,7 @@
     "addeddate": "2022-09-21 02:21:06"
   },
   "server": "ia601501.us.archive.org",
-  "uniq": 1063474281,
+  "uniq": 1784610958,
   "workable_servers": [
     "ia601501.us.archive.org",
     "ia801501.us.archive.org"

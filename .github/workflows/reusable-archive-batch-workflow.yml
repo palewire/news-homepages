@@ -165,10 +165,12 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: commit
-        name: Commit
-        uses: ./.github/actions/commit
+      - id: upload
+        name: Upload
+        uses: ./.github/actions/upload
         with:
+          artifact: screenshots
+          destination: latest-screenshots
           s3-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           s3-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           s3-bucket-name: ${{ secrets.AWS_BUCKET_NAME }}
@@ -209,3 +211,20 @@ jobs:
           git pull origin main
           git push origin main
         shell: bash
+
+      - id: save
+        name: Save artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: extracts
+          path: ./extracts
+          if-no-files-found: error
+
+      - id: upload-docs
+        uses: shallwefootball/s3-upload-action@master
+        with:
+          aws_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws_bucket: ${{ secrets.AWS_BUCKET_NAME }}
+          source_dir: ./extracts
+          destination_dir: extracts

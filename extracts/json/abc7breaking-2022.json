@@ -1,5 +1,6 @@
 {
-  "created": 1667541464,
+  "conflict": 1667623273,
+  "created": 1667623273,
   "d1": "ia601507.us.archive.org",
   "d2": "ia801507.us.archive.org",
   "dir": "/5/items/abc7breaking-2022",
@@ -13126,31 +13127,155 @@
       "sha1": "317da289e4efef7f61e3878347b5bc8e40ae88b7"
     },
     {
+      "name": "abc7breaking-2022-11-04T13:44:49.346026-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667591096",
+      "size": "20997",
+      "md5": "7dbfdb0d6eaadf8ecebd412810ca902c",
+      "crc32": "1e87fb3d",
+      "sha1": "7df537c3d20dd58e07eb5664b6f00740740be043",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-11-04T13:44:49.346026-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667591098",
+      "size": "40124",
+      "md5": "0ce69d7e7d8ab2caee05a50459fd3b35",
+      "crc32": "350e351a",
+      "sha1": "a76b727478817f2dbaf5affa53a263b533ce81fe",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-11-04T13:44:49.346026-06:00.jpg",
+      "source": "original",
+      "mtime": "1667591094",
+      "size": "222017",
+      "md5": "917cab8646960cd715172546cd6bfb7c",
+      "crc32": "4883c3ff",
+      "sha1": "495c79dfa2205ad32a66af46492373225de7f7fa",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abc7breaking-2022-11-04T13:44:49.346026-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667591100",
+      "size": "1402",
+      "md5": "b6e1828971aec78bb8e0ec500d837b6b",
+      "crc32": "0506af64",
+      "sha1": "a5675c37d73e009b34d1e96160938998c6193ca9",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-11-04T13:44:49.346026-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667591103",
+      "size": "63579",
+      "md5": "66518f3687b9a1b8f0ec2846829377a6",
+      "crc32": "2923faf5",
+      "sha1": "c67ff997846ea04e08b8b83060a683874f214cf2",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-11-04T13:44:49.346026-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7breaking-2022-11-04T13:44:49.346026-06:00.jpg",
+      "mtime": "1667594843",
+      "size": "9182",
+      "md5": "a81ab0f3764145a9d20d523d3e97edd7",
+      "crc32": "307bbab0",
+      "sha1": "92f3e0fb3dc5d223b9be3739a3ba45e934882fda"
+    },
+    {
+      "name": "abc7breaking-2022-11-04T22:08:48.363817-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667621343",
+      "size": "20988",
+      "md5": "f978e046ddfabe7be5802b571f01278d",
+      "crc32": "d7be0ea2",
+      "sha1": "7a08384568774fbbd706ff5fa071091b83fe957b",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-11-04T22:08:48.363817-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667621345",
+      "size": "37646",
+      "md5": "b75c0230c9c37911fe9d32df0872489a",
+      "crc32": "e906e13a",
+      "sha1": "2a64f4629ce0dbd9a8ff34e4e86c885a4466a3fa",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-11-04T22:08:48.363817-06:00.jpg",
+      "source": "original",
+      "mtime": "1667621341",
+      "size": "237330",
+      "md5": "e128ce39cdc9e32b7cba5858b8142dc7",
+      "crc32": "8ed4dbfc",
+      "sha1": "994d04b89c0bafe52fe689291cc1462363bb06b5",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abc7breaking-2022-11-04T22:08:48.363817-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667621347",
+      "size": "1402",
+      "md5": "df2c3a1a30d3375320340969aeca2ebe",
+      "crc32": "b7efb118",
+      "sha1": "b81b3d5106cc113e3a945c73ad29b6e2b8718c47",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-11-04T22:08:48.363817-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667621350",
+      "size": "47632",
+      "md5": "4b4bf4381515b43b4074e6cccfea4818",
+      "crc32": "7bc9d086",
+      "sha1": "7528c873f399b3a8e2540676c420fa775b1a0598",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7breaking-2022-11-04T22:08:48.363817-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7breaking-2022-11-04T22:08:48.363817-06:00.jpg",
+      "mtime": "1667623218",
+      "size": "9057",
+      "md5": "8bfa39b1d39385355adf2fd41234ae2d",
+      "crc32": "779a4c55",
+      "sha1": "97bbdd5a21354f8e2d6cd720a62e063e106630b4"
+    },
+    {
       "name": "abc7breaking-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a8635d83623a22921dac64b4c3bdd28954e9c868",
-      "mtime": "1667541379",
-      "size": "272616",
-      "md5": "2267d679e3f6b58d72a8114dfcc6c9e9",
-      "crc32": "07cfe1e5",
-      "sha1": "e497d49d1c9d8b275304405b9b8276df8364a65e",
+      "btih": "cb76a548fa64d37d248dc34ac21dfc2ebfb5e1c1",
+      "mtime": "1667623266",
+      "size": "275178",
+      "md5": "d754e9fbacb4a3e2cf029c8f39f393fe",
+      "crc32": "9b2d99fe",
+      "sha1": "14e60ae6bf6edc2637ef736611cff40a710e4ae5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc7breaking-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c4c51a16de08323b7a91bc6da43ddcd9",
+      "md5": "8df8cdedf308317220ea95ff589ef64a",
       "summation": "md5"
     },
     {
       "name": "abc7breaking-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667537480",
-      "size": "1613824",
-      "md5": "57ccc39451b8770eda2026e77b3dcd75",
-      "crc32": "f99bd72a",
-      "sha1": "44514c9168bd47f5d8bcc2ad23db6dfcb8f775b4",
+      "mtime": "1667621357",
+      "size": "1638400",
+      "md5": "70b520c9c64d5cf9b268e926f6f02b5c",
+      "crc32": "9a0d4fbf",
+      "sha1": "0c4312b28a94e2f78315558e5275a0a60a9dc870",
       "format": "Metadata"
     },
     {
@@ -13164,9 +13289,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1272,
-  "item_last_updated": 1667541379,
-  "item_size": 69086907,
+  "files_count": 1284,
+  "item_last_updated": 1667623266,
+  "item_size": 69825401,
   "metadata": {
     "identifier": "abc7breaking-2022",
     "collection": [
@@ -13183,10 +13308,29 @@
     "publicdate": "2022-07-18 00:04:35",
     "addeddate": "2022-07-18 00:04:35"
   },
+  "pending_tasks": true,
   "server": "ia601507.us.archive.org",
-  "uniq": 1738684664,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462486273,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3462511102,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 570046165,
   "workable_servers": [
-    "ia601507.us.archive.org",
-    "ia801507.us.archive.org"
+    "ia601507.us.archive.org"
   ]
 }

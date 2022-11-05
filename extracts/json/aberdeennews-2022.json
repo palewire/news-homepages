@@ -1,5 +1,5 @@
 {
-  "created": 1667564598,
+  "created": 1667645661,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/2/items/aberdeennews-2022",
@@ -5575,31 +5575,155 @@
       "format": "JSON"
     },
     {
+      "name": "aberdeennews-2022-11-04T07:22:05.009053-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-11-04T07:22:05.009053-05:00.jpg",
+      "mtime": "1667569831",
+      "size": "9473",
+      "md5": "66e2ead60d81ac4f1bff9a01c4eb29fc",
+      "crc32": "c3b0b26b",
+      "sha1": "b8a34574a10456c0f51a47006149fd059f734d6e"
+    },
+    {
+      "name": "aberdeennews-2022-11-04T20:03:57.801216-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667610249",
+      "size": "23254",
+      "md5": "3c81bb4907ca0fa4c04add4dbde22930",
+      "crc32": "93d66ecc",
+      "sha1": "0153a8caf3d3724a29a872d668b1caac2e71332e",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-11-04T20:03:57.801216-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667610251",
+      "size": "43681",
+      "md5": "fcee5d0cb4d52745eb294f5345648fdc",
+      "crc32": "4febe9ec",
+      "sha1": "2e512b29b7bffc16a94457f31e031ff1edca46f4",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-11-04T20:03:57.801216-05:00.jpg",
+      "source": "original",
+      "mtime": "1667610247",
+      "size": "271461",
+      "md5": "a223fc5e255db91834943cf5d52852be",
+      "crc32": "8cd5e803",
+      "sha1": "ae23c4c12f5f0f628f50a5a2259b69c8e490fd41",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-11-04T20:03:57.801216-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667610254",
+      "size": "1513",
+      "md5": "fb7e7682ca6470b7eb78314a2a574c28",
+      "crc32": "f41fa881",
+      "sha1": "0909985ec4ec059308359affc9216ff8578ca712",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-11-04T20:03:57.801216-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667610256",
+      "size": "77941",
+      "md5": "326ebb849bc8e4e450af5c6b95ddd41b",
+      "crc32": "9f5216bb",
+      "sha1": "acd1edd9947ccdd7f6eb1a8c8b14922d4817cfb2",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-11-04T20:03:57.801216-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "aberdeennews-2022-11-04T20:03:57.801216-05:00.jpg",
+      "mtime": "1667613713",
+      "size": "9708",
+      "md5": "de08da4d4317e5c8b739a64354f07dc2",
+      "crc32": "a9c18ba1",
+      "sha1": "47ae7939270f9903b3c34f502f516a15aebd4288"
+    },
+    {
+      "name": "aberdeennews-2022-11-05T05:53:23.644553-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667645611",
+      "size": "24503",
+      "md5": "850a4378c467da714e0ac7a981783272",
+      "crc32": "6d9b163e",
+      "sha1": "85f2680e6f377a9e38b87a36fa2ce8b25d908d0c",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-11-05T05:53:23.644553-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667645612",
+      "size": "36100",
+      "md5": "1d24008ec63551ed479430d9568606a1",
+      "crc32": "9e11a124",
+      "sha1": "6298b2030faca285055a2abc110743067fd7a925",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-11-05T05:53:23.644553-05:00.jpg",
+      "source": "original",
+      "mtime": "1667645609",
+      "size": "264764",
+      "md5": "7139c87ba6aae80558b2c8adc44b15ed",
+      "crc32": "656d30a1",
+      "sha1": "a433b9b2d46c04c885b843fc18d59691bb48fb7f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "aberdeennews-2022-11-05T05:53:23.644553-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667645614",
+      "size": "1513",
+      "md5": "d2fd3c9e5a8a19ae4b3dd68b93a73f36",
+      "crc32": "3cad0a1e",
+      "sha1": "416a0684c2a8b3b937334d325dd4fd3755ae21af",
+      "format": "JSON"
+    },
+    {
+      "name": "aberdeennews-2022-11-05T05:53:23.644553-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667645616",
+      "size": "91781",
+      "md5": "9142faa4f967ae88c921f7979e7f4325",
+      "crc32": "927cbec8",
+      "sha1": "29d89d241750c53aa92621e56f7e5bb122a7960e",
+      "format": "JSON"
+    },
+    {
       "name": "aberdeennews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c2ece4daadea3ec9bf0dff3ac512925aa3d9b1a8",
-      "mtime": "1667564590",
-      "size": "116996",
-      "md5": "df200724adbf2249ef127b12dba1869c",
-      "crc32": "9a58c6df",
-      "sha1": "5ee84654aaf0be445cbff27e9eb040969daf88d7",
+      "btih": "a1d813574e01c7d02ef22ca5471fe7e80d942f86",
+      "mtime": "1667645658",
+      "size": "119558",
+      "md5": "dfcea27fd80aebab73bfa83cf5d10f4f",
+      "crc32": "7ee0b541",
+      "sha1": "66bc21da2377334245902d32e8e0fd18b1be8367",
       "format": "Archive BitTorrent"
     },
     {
       "name": "aberdeennews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f197408f8d57a04ab4ea6f0c7d3a2118",
+      "md5": "cb545a45709bc3f8e852586cc9f8bb17",
       "summation": "md5"
     },
     {
       "name": "aberdeennews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667564544",
-      "size": "704512",
-      "md5": "dc4d4190a6094c688c1e83cccc2852d1",
-      "crc32": "abaaaa7a",
-      "sha1": "9b6a5041dfa7a7d5a4bb6f7c5bff08acbc1389bc",
+      "mtime": "1667645620",
+      "size": "724992",
+      "md5": "017f6860d585b2d59b3c8ab79a5f6371",
+      "crc32": "d499ed57",
+      "sha1": "3d6ab26c4994dae5be02fa4b45d767c710a7f47c",
       "format": "Metadata"
     },
     {
@@ -5613,9 +5737,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 543,
-  "item_last_updated": 1667564590,
-  "item_size": 36978073,
+  "files_count": 555,
+  "item_last_updated": 1667645658,
+  "item_size": 37856807,
   "metadata": {
     "identifier": "aberdeennews-2022",
     "collection": [
@@ -5637,7 +5761,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461633228,
+      "task_id": 3462752853,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 0,
@@ -5645,7 +5769,7 @@
       "status": "queued"
     }
   ],
-  "uniq": 1886804421,
+  "uniq": 1522077740,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]
