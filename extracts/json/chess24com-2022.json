@@ -1,10 +1,9 @@
 {
   "chess24com-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
+    "url": "https://chess24.com/en/read/news",
+    "job_id": "spn2-8c18955d5676e95e3887291ab83749b8881ca79d"
   },
-  "created": 1667544822,
+  "created": 1667623649,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/27/items/chess24com-2022",
@@ -12943,31 +12942,144 @@
       "sha1": "529c1214bd7406ddadc1cb07e85aeccb24ff75b6"
     },
     {
+      "name": "chess24com-2022-11-04T20:53:47.261351+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667591652",
+      "size": "1033",
+      "md5": "79f363258fd3e3681d3968694182e84a",
+      "crc32": "9b6b6f11",
+      "sha1": "0936b39b3b590242872d198128b0bd98f65b9c1a",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-11-04T20:53:47.261351+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667591654",
+      "size": "31758",
+      "md5": "82cc2091d704de80a88e2e6470a23761",
+      "crc32": "2879510b",
+      "sha1": "294c76a4f4de7221e3e228a3bfed0f0a70ec8a0d",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-11-04T20:53:47.261351+01:00.jpg",
+      "source": "original",
+      "mtime": "1667591651",
+      "size": "363788",
+      "md5": "a4c5b2c27b04d24005e133683cdbf60b",
+      "crc32": "bc07163d",
+      "sha1": "73855530af0e411055201e30d0118c3725dd9a26",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chess24com-2022-11-04T20:53:47.261351+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667591655",
+      "size": "1540",
+      "md5": "22803ced5fcf6a45ebf417c4fdb9bd34",
+      "crc32": "5191448a",
+      "sha1": "88f9e6e85dd3e35b544748f5883acadee4c84e1b",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-11-04T20:53:47.261351+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667591657",
+      "size": "108",
+      "md5": "0c879f7070be7ec4a787cdb15eb4c559",
+      "crc32": "fcf2faf3",
+      "sha1": "76489f1a17250b0aec330f1db7d414dc21477cec",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-11-04T20:53:47.261351+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "chess24com-2022-11-04T20:53:47.261351+01:00.jpg",
+      "mtime": "1667595940",
+      "size": "10285",
+      "md5": "55c635b015de6e80419e1718b663ee22",
+      "crc32": "dec0b483",
+      "sha1": "c64b790f2210eada7752a12dc295d1215fce4aab"
+    },
+    {
+      "name": "chess24com-2022-11-05T05:10:46.789295+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667621453",
+      "size": "1077",
+      "md5": "c7329a3239b62a66a69a46f6e37cfa40",
+      "crc32": "cf8253f2",
+      "sha1": "d7cd06702e851687392daab02b2cb4278175af10",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-11-05T05:10:46.789295+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667621455",
+      "size": "31890",
+      "md5": "7f2f0242ab58f1b534291a1e3b2aa543",
+      "crc32": "d391fbe3",
+      "sha1": "f34d141ae58fba896c91f03af27e118d3495a8b3",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-11-05T05:10:46.789295+01:00.jpg",
+      "source": "original",
+      "mtime": "1667621451",
+      "size": "362464",
+      "md5": "ccfd17d69fa507a9db64337c37251649",
+      "crc32": "449d4c1f",
+      "sha1": "6ce073bec56d963b9e6a1c283a15a97e7ed33094",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "chess24com-2022-11-05T05:10:46.789295+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667621457",
+      "size": "1539",
+      "md5": "7609ed6e514fb517d68651e8bf93c01f",
+      "crc32": "dd4fa6e6",
+      "sha1": "2f39e8a6c81ab46227baad85438c71fa2281ddfe",
+      "format": "JSON"
+    },
+    {
+      "name": "chess24com-2022-11-05T05:10:46.789295+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667621459",
+      "size": "108",
+      "md5": "0c879f7070be7ec4a787cdb15eb4c559",
+      "crc32": "fcf2faf3",
+      "sha1": "76489f1a17250b0aec330f1db7d414dc21477cec",
+      "format": "JSON"
+    },
+    {
       "name": "chess24com-2022_archive.torrent",
       "source": "metadata",
-      "btih": "232ddbe4f8d61c613ef69adef696c47d094b564f",
-      "mtime": "1667541821",
-      "size": "266998",
-      "md5": "f64191166d869917132a42fadf44db5e",
-      "crc32": "2e78d372",
-      "sha1": "dcd1d2040c428e12438d4d50e80b1bceef334722",
+      "btih": "25cc893dcc2f702ae00e7893dee94b59404f6e14",
+      "mtime": "1667621523",
+      "size": "269345",
+      "md5": "6a20b2a1621dccef930fe4830ade862b",
+      "crc32": "3d9cfca0",
+      "sha1": "83afe686bf16b1351970a05c7a0184ccab27cd43",
       "format": "Archive BitTorrent"
     },
     {
       "name": "chess24com-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6dd5cecd94bc086ba2634c7a1de8e802",
+      "md5": "443c3bbf894d4b03f0a555d161dc4f10",
       "summation": "md5"
     },
     {
       "name": "chess24com-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667537852",
-      "size": "1597440",
-      "md5": "256c8cbea3f501aaea057137c07a4fdc",
-      "crc32": "aa6808f0",
-      "sha1": "efdc5d7aa0b2e37457d6296d94bf5e59b88f3623",
+      "mtime": "1667621467",
+      "size": "1609728",
+      "md5": "688498313ea42189cd3ddf3f1f9b5b83",
+      "crc32": "7fa1b5cc",
+      "sha1": "ee5a92b0a93fd35fb9b646edbc139db0c2825897",
       "format": "Metadata"
     },
     {
@@ -12981,9 +13093,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1254,
-  "item_last_updated": 1667541821,
-  "item_size": 91434274,
+  "files_count": 1265,
+  "item_last_updated": 1667621523,
+  "item_size": 92254499,
   "metadata": {
     "identifier": "chess24com-2022",
     "collection": [
@@ -13000,10 +13112,21 @@
     "publicdate": "2022-07-20 11:23:28",
     "addeddate": "2022-07-20 11:23:28"
   },
-  "server": "ia801508.us.archive.org",
-  "uniq": 1321554064,
+  "pending_tasks": true,
+  "server": "ia601508.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462487834,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1373070757,
   "workable_servers": [
-    "ia801508.us.archive.org",
     "ia601508.us.archive.org"
   ]
 }
