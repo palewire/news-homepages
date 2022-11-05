@@ -1,13 +1,8 @@
 {
-  "created": 1667613941,
+  "created": 1667649555,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/33/items/fi2w-2022",
-  "fi2w-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "files": [
     {
       "name": "__ia_thumb.jpg",
@@ -8732,31 +8727,93 @@
       "format": "JSON"
     },
     {
+      "name": "fi2w-2022-11-04T21:19:34.295247-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fi2w-2022-11-04T21:19:34.295247-04:00.jpg",
+      "mtime": "1667614100",
+      "size": "9597",
+      "md5": "5755cc3108746f7bff66ac233f71533b",
+      "crc32": "12fff55b",
+      "sha1": "12ab6e00cd703f8a32a8f9935c3395d79bfba051"
+    },
+    {
+      "name": "fi2w-2022-11-05T07:57:49.182813-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667649476",
+      "size": "10368",
+      "md5": "03f00452e026774b3c199500733dd777",
+      "crc32": "905c04b0",
+      "sha1": "ad2f6f4e7098f3659002fbe5285d018c33bba285",
+      "format": "JSON"
+    },
+    {
+      "name": "fi2w-2022-11-05T07:57:49.182813-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667649478",
+      "size": "6641",
+      "md5": "8da576131b24f88b0ac58bb86afa686d",
+      "crc32": "34496ee2",
+      "sha1": "877dc9645343493e9e4d1cf9c46f31dc5bb41054",
+      "format": "JSON"
+    },
+    {
+      "name": "fi2w-2022-11-05T07:57:49.182813-04:00.jpg",
+      "source": "original",
+      "mtime": "1667649474",
+      "size": "257558",
+      "md5": "8d381609c8cfd2ff0b44b79a347c2a96",
+      "crc32": "be988e38",
+      "sha1": "f99767434cd1485ed02cdc63881282d1eec69c27",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fi2w-2022-11-05T07:57:49.182813-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667649479",
+      "size": "1395",
+      "md5": "605edcb58178d211e3d02d25430327ce",
+      "crc32": "eb0f9830",
+      "sha1": "5474237457263eeb13bbfecb106d94d26f216fc5",
+      "format": "JSON"
+    },
+    {
+      "name": "fi2w-2022-11-05T07:57:49.182813-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667649481",
+      "size": "7962",
+      "md5": "6a6bbbb3cfdb55cc2f3039c6e527c4e9",
+      "crc32": "2310f5be",
+      "sha1": "4d93aabd8a0c0b9287194bacd0bab8d38298f7b0",
+      "format": "JSON"
+    },
+    {
       "name": "fi2w-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2a2cf5f569ecf5c09359a05ed821dd99ed214720",
-      "mtime": "1667611249",
-      "size": "175018",
-      "md5": "98e5e9817c3414a89692aca9c0af5e2d",
-      "crc32": "d6bc6aed",
-      "sha1": "aaadff660765d72c4090b6259c76d1484b041619",
+      "btih": "cb2cad08aec19cb4746ea6ace617e8fccee5a0e6",
+      "mtime": "1667649544",
+      "size": "176239",
+      "md5": "4fadb0be6d97cc711f021cd79a30cbe2",
+      "crc32": "16039826",
+      "sha1": "84b04acae7bfe4b0da0c619c15fd000b44272fb8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fi2w-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fbb090dbebfbc165ea5ce1ec1f799c10",
+      "md5": "4b323dcd660315e86e5dd6ea71f4c1c6",
       "summation": "md5"
     },
     {
       "name": "fi2w-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667611203",
-      "size": "1081344",
-      "md5": "d3ee43e7340e6ceda621455130abf7cc",
-      "crc32": "559cb088",
-      "sha1": "a25567274a1ad63827fcac0fa3f137da2b596d8a",
+      "mtime": "1667649491",
+      "size": "1085440",
+      "md5": "3819c92fd7c42fa5ec384ed6f20a67b2",
+      "crc32": "32136d32",
+      "sha1": "a999b15c280365a0bca41a62521dd1959abaffa3",
       "format": "Metadata"
     },
     {
@@ -8770,9 +8827,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 848,
-  "item_last_updated": 1667611249,
-  "item_size": 44957062,
+  "files_count": 854,
+  "item_last_updated": 1667649544,
+  "item_size": 45255900,
   "metadata": {
     "identifier": "fi2w-2022",
     "collection": [
@@ -8794,7 +8851,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3462346811,
+      "task_id": 3462796900,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -8802,7 +8859,7 @@
       "status": "running"
     }
   ],
-  "uniq": 88834427,
+  "uniq": 1267319652,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

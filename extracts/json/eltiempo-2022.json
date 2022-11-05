@@ -1,6 +1,5 @@
 {
-  "conflict": 1667613843,
-  "created": 1667613843,
+  "created": 1667649585,
   "d1": "ia902509.us.archive.org",
   "d2": "ia802509.us.archive.org",
   "dir": "/15/items/eltiempo-2022",
@@ -15819,31 +15818,82 @@
       "sha1": "0bf9db3e1c8c8a15680a51323f782035842783be"
     },
     {
+      "name": "eltiempo-2022-11-05T06:58:25.520408-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667649518",
+      "size": "50216",
+      "md5": "979520303caef4e54bcfe541d1758f8f",
+      "crc32": "bfe6a197",
+      "sha1": "a4bb3fe78df41301c752a071f49c159d57d81b24",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-11-05T06:58:25.520408-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667649519",
+      "size": "71368",
+      "md5": "ba2f0a26e1af64a4144bd8ae63c0d9ef",
+      "crc32": "690c0684",
+      "sha1": "f43031edfb005246805737d5d5796b85dd669b7f",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-11-05T06:58:25.520408-05:00.jpg",
+      "source": "original",
+      "mtime": "1667649516",
+      "size": "301954",
+      "md5": "223414f3b40d52fa271afb93f9676817",
+      "crc32": "0a1440c4",
+      "sha1": "1468eef8280b2d1143c57018862d30a2829babd1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "eltiempo-2022-11-05T06:58:25.520408-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667649521",
+      "size": "1476",
+      "md5": "a905a2210f50322fdcb24149e612a288",
+      "crc32": "4eab2425",
+      "sha1": "677d2754fc72078c23a6b86bd3e551cef587e8c2",
+      "format": "JSON"
+    },
+    {
+      "name": "eltiempo-2022-11-05T06:58:25.520408-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667649522",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "eltiempo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1aae9480d4693823b37270960a230a146e44c26a",
-      "mtime": "1667613840",
-      "size": "323277",
-      "md5": "abf489c526ab37cc0770af273e997d3a",
-      "crc32": "ca386bdc",
-      "sha1": "489faf6a9c19682c69e901c9493b56f9ac17919f",
+      "btih": "71d14aec077aaee3602dc855418b81b54060adcb",
+      "mtime": "1667649581",
+      "size": "324338",
+      "md5": "792a545270041badd5b3a024ecebbc53",
+      "crc32": "4538d144",
+      "sha1": "379e6f33b15afcb0800d18a6f0d934c535ee1509",
       "format": "Archive BitTorrent"
     },
     {
       "name": "eltiempo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a4934e7994b9ec981a7df3fdec853655",
+      "md5": "b83f20fc3d88a5f7bb896876ae38bee6",
       "summation": "md5"
     },
     {
       "name": "eltiempo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667611007",
-      "size": "1896448",
-      "md5": "37ce8b5763d80edf992b11519e6ca7b3",
-      "crc32": "71a6ef7e",
-      "sha1": "f67a13f02a59abb112586a5def33f8b3e2b140a7",
+      "mtime": "1667649527",
+      "size": "1900544",
+      "md5": "7f33478747f6ba45a8414165e615ea85",
+      "crc32": "632e3978",
+      "sha1": "de9754a5edfd62a169559a579b7b62fbdbab9f20",
       "format": "Metadata"
     },
     {
@@ -15857,9 +15907,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1528,
-  "item_last_updated": 1667613840,
-  "item_size": 141065203,
+  "files_count": 1533,
+  "item_last_updated": 1667649581,
+  "item_size": 141495576,
   "metadata": {
     "identifier": "eltiempo-2022",
     "collection": [
@@ -15881,23 +15931,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3462343775,
+      "task_id": 3462797147,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
-    },
-    {
-      "task_id": 3462385313,
-      "cmd": "bup.php",
-      "priority": -5,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
     }
   ],
-  "uniq": 81972994,
+  "uniq": 1991624949,
   "workable_servers": [
     "ia902509.us.archive.org"
   ]
