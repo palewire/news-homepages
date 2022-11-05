@@ -219,3 +219,12 @@ jobs:
           name: extracts
           path: ./extracts
           if-no-files-found: error
+
+      - id: upload-docs
+        uses: shallwefootball/s3-upload-action@master
+        with:
+          aws_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws_bucket: ${{ secrets.AWS_BUCKET_NAME }}
+          source_dir: ./extracts
+          destination_dir: extracts
