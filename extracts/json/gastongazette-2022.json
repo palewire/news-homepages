@@ -1,5 +1,5 @@
 {
-  "created": 1667603164,
+  "created": 1667626571,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/gastongazette-2022",
@@ -5648,31 +5648,93 @@
       "sha1": "3099d606f3d37b88e9a6608ab24a8a47bdb3ce10"
     },
     {
+      "name": "gastongazette-2022-11-05T01:23:42.577557-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667625825",
+      "size": "23887",
+      "md5": "fd2c1e2b8d7de793c82855c405c4168c",
+      "crc32": "939f9734",
+      "sha1": "ee7cf17fd5dbd9894a18e7da95423d8b631faaa4",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-11-05T01:23:42.577557-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667625827",
+      "size": "30381",
+      "md5": "ec8b11bb966c0e9cf1a278a06b3c7933",
+      "crc32": "ee3331ca",
+      "sha1": "88fe29307a00e78555023318aa4f618ea931f8de",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-11-05T01:23:42.577557-04:00.jpg",
+      "source": "original",
+      "mtime": "1667625824",
+      "size": "257140",
+      "md5": "e8bc6d48b961256c01d6d2d8d7243a84",
+      "crc32": "34237c7d",
+      "sha1": "06f87ae8039ee4726866356504bc9d9a9a38546b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gastongazette-2022-11-05T01:23:42.577557-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667625828",
+      "size": "1522",
+      "md5": "f23e93c19a621236bde76feb078a1e83",
+      "crc32": "37ee713b",
+      "sha1": "64e7b3b9bba1f830326ec0d6983120509d8dd97f",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-11-05T01:23:42.577557-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667625830",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gastongazette-2022-11-05T01:23:42.577557-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gastongazette-2022-11-05T01:23:42.577557-04:00.jpg",
+      "mtime": "1667626441",
+      "size": "9553",
+      "md5": "9f8b8bc7f33d9233906f2f559e241c83",
+      "crc32": "1898a13c",
+      "sha1": "6d4cfd86cdaa4b303dd57aa8f3ac90fe8c6a70a2"
+    },
+    {
       "name": "gastongazette-2022_archive.torrent",
       "source": "metadata",
-      "btih": "eada422c6c64e47e411f7ce2e26ce494398a2e9c",
-      "mtime": "1667597091",
-      "size": "118991",
-      "md5": "ac01d8e6ad620dfad921645f0663d8fe",
-      "crc32": "f73d9ed6",
-      "sha1": "c2b46b26099446c8535bdf6b087f4cc8f726462e",
+      "btih": "d586adebf18cd72ebd365d58b5284afe9b43a7de",
+      "mtime": "1667626448",
+      "size": "120266",
+      "md5": "b5e953d20ace17cb9deb41e81d940f41",
+      "crc32": "ad4f0f21",
+      "sha1": "b7fe47f6206fd38a64762a4854955c72e9cda0b0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gastongazette-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "553b0b882b86d29ae726cb929e96264e",
+      "md5": "93f946c59d9848c2b505b24c6afbbedd",
       "summation": "md5"
     },
     {
       "name": "gastongazette-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667593030",
-      "size": "720896",
-      "md5": "21b2a3dd9095cfe06d51414f95f32625",
-      "crc32": "65a9b42a",
-      "sha1": "24485fe872eb459fae6ac0cdbd7b440495045909",
+      "mtime": "1667625836",
+      "size": "724992",
+      "md5": "fad361e0d9926e540e400c7ac5e1b0cd",
+      "crc32": "0a21e3f6",
+      "sha1": "b30c4e9028330c15fd333d2bda3188d6b94cca7d",
       "format": "Metadata"
     },
     {
@@ -5686,14 +5748,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 550,
-  "gastongazette-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1667597091,
-  "item_size": 36315413,
+  "files_count": 556,
+  "item_last_updated": 1667626448,
+  "item_size": 36643469,
   "metadata": {
     "identifier": "gastongazette-2022",
     "collection": [
@@ -5710,10 +5767,10 @@
     "publicdate": "2022-09-20 17:51:49",
     "addeddate": "2022-09-20 17:51:49"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1606233862,
+  "server": "ia601506.us.archive.org",
+  "uniq": 99098809,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }

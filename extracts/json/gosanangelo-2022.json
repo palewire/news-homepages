@@ -1,5 +1,5 @@
 {
-  "created": 1667597520,
+  "created": 1667626717,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/21/items/gosanangelo-2022",
@@ -5648,31 +5648,93 @@
       "sha1": "6e58e3dbd6d1405404dfe556ab9c1a7a94537591"
     },
     {
+      "name": "gosanangelo-2022-11-05T00:24:19.997271-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667625862",
+      "size": "19040",
+      "md5": "ea91fd5d9fd55b3814d4d8eb5699f1dc",
+      "crc32": "c36ed5b1",
+      "sha1": "defce7eff3bbaeb4064bf3ed9761b0746c90b3eb",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-11-05T00:24:19.997271-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667625863",
+      "size": "28263",
+      "md5": "4e44e07e54dfc6fe0c250c6eda7712ef",
+      "crc32": "02ef987c",
+      "sha1": "55d7d2aca609b1a36ed8ab25b5ba669335d39b1c",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-11-05T00:24:19.997271-05:00.jpg",
+      "source": "original",
+      "mtime": "1667625860",
+      "size": "250086",
+      "md5": "57a9b15ebd33fcf02f92c133798887a9",
+      "crc32": "8a3a36e0",
+      "sha1": "7b370dd2bb801371e05426cd5cc4b59ae10c687e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gosanangelo-2022-11-05T00:24:19.997271-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667625865",
+      "size": "1504",
+      "md5": "36db724d47f90040485585a5c6f2674a",
+      "crc32": "348de7b2",
+      "sha1": "8e5d3e1b43ae60e7a51bd811a2b2c4523ddbb9c4",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-11-05T00:24:19.997271-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667625866",
+      "size": "112451",
+      "md5": "e652acfe87166fa15e292af178467d51",
+      "crc32": "d836a15e",
+      "sha1": "3f1c5d16d0bc2635b6e0c0bc7256f3031cd52c75",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-11-05T00:24:19.997271-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gosanangelo-2022-11-05T00:24:19.997271-05:00.jpg",
+      "mtime": "1667626635",
+      "size": "9278",
+      "md5": "69c45b04d878545d733dc5495d097a2d",
+      "crc32": "7e029047",
+      "sha1": "14647cb8e820d5ad04336f0c3a4b0e373859972b"
+    },
+    {
       "name": "gosanangelo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "34b0a00826dfe11fc665d0f19249ed675e73a19a",
-      "mtime": "1667597429",
-      "size": "117827",
-      "md5": "b5028cf6551561c4823306d871376e0c",
-      "crc32": "3735c80c",
-      "sha1": "8e7a96e3b15a7e29bdbbef939cdd7eab2e26f5ef",
+      "btih": "4c99a71083fd1c53f88cc4776782c11b3b9c4c48",
+      "mtime": "1667626641",
+      "size": "119113",
+      "md5": "4cb52534278c13c48bd9fbcb7faa1d90",
+      "crc32": "7b610c7e",
+      "sha1": "707f63a824b1e4b76ae21b11ff86bc6a06ff02cc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gosanangelo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "540fbc6b146d6f68fd439fd0e68d121c",
+      "md5": "3d90eb6f229c707643633341ba019422",
       "summation": "md5"
     },
     {
       "name": "gosanangelo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667593249",
-      "size": "716800",
-      "md5": "00d78de6d9ced3d92401dc235e3e627d",
-      "crc32": "10020c4d",
-      "sha1": "af8d652ec1cd78cb5b0bcea5087f8ddbfbf7640d",
+      "mtime": "1667625881",
+      "size": "720896",
+      "md5": "a108d51e1744d46f2b5fc43ee26c5e86",
+      "crc32": "6131036d",
+      "sha1": "ef72dd03a7a2b53b63a4bf75569ad9b755fc80a9",
       "format": "Metadata"
     },
     {
@@ -5686,9 +5748,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 550,
-  "item_last_updated": 1667597429,
-  "item_size": 34643446,
+  "files_count": 556,
+  "item_last_updated": 1667626641,
+  "item_size": 35069450,
   "metadata": {
     "identifier": "gosanangelo-2022",
     "collection": [
@@ -5705,10 +5767,10 @@
     "publicdate": "2022-09-20 17:51:45",
     "addeddate": "2022-09-20 17:51:45"
   },
-  "server": "ia801500.us.archive.org",
-  "uniq": 1718175926,
+  "server": "ia601500.us.archive.org",
+  "uniq": 1115213659,
   "workable_servers": [
-    "ia801500.us.archive.org",
-    "ia601500.us.archive.org"
+    "ia601500.us.archive.org",
+    "ia801500.us.archive.org"
   ]
 }

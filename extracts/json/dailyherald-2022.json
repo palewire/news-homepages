@@ -1,5 +1,5 @@
 {
-  "created": 1667602800,
+  "created": 1667629341,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dailyherald-2022": {
@@ -17924,10 +17924,53 @@
     "publicdate": "2022-07-28 20:04:21",
     "addeddate": "2022-07-28 20:04:21"
   },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 7230088,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462541304,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3462541315,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3462541342,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3462541349,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3462541364,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1376812094,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

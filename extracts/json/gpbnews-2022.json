@@ -1,5 +1,5 @@
 {
-  "created": 1667598606,
+  "created": 1667629744,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/27/items/gpbnews-2022",
@@ -12790,31 +12790,93 @@
       "sha1": "c459415c90f9693adc3d6a427cd448908b0283d2"
     },
     {
+      "name": "gpbnews-2022-11-05T01:24:07.529071-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667625857",
+      "size": "42993",
+      "md5": "61a1b20e0847fdd65be43f0989c27d9f",
+      "crc32": "aad3977a",
+      "sha1": "e11582b3fae834077ec9bee40d2fa09115d2ecb2",
+      "format": "JSON"
+    },
+    {
+      "name": "gpbnews-2022-11-05T01:24:07.529071-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667625858",
+      "size": "40968",
+      "md5": "db05fa432442522f9b64847b65dd0014",
+      "crc32": "9b664bfa",
+      "sha1": "e93594c34b45f78d5c44529aca8aa76d12a2fc9e",
+      "format": "JSON"
+    },
+    {
+      "name": "gpbnews-2022-11-05T01:24:07.529071-04:00.jpg",
+      "source": "original",
+      "mtime": "1667625855",
+      "size": "181597",
+      "md5": "43f38b6d3cba18c5866ad6c0d635f2a3",
+      "crc32": "b489d912",
+      "sha1": "e05eb65bf2f1460a15ada19addacfd6d34cf0106",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gpbnews-2022-11-05T01:24:07.529071-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667625860",
+      "size": "1468",
+      "md5": "4ad3bfe85bb265e1587b2d2fc775f95c",
+      "crc32": "553a1611",
+      "sha1": "3c8ff5b7a9372501b9db80bbcab779756ecf389a",
+      "format": "JSON"
+    },
+    {
+      "name": "gpbnews-2022-11-05T01:24:07.529071-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667625862",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gpbnews-2022-11-05T01:24:07.529071-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gpbnews-2022-11-05T01:24:07.529071-04:00.jpg",
+      "mtime": "1667626476",
+      "size": "9810",
+      "md5": "b2934f665611efbb5540923556b3cfce",
+      "crc32": "75892e07",
+      "sha1": "8eb7969a405fa014be55a304e228a81be9b7055b"
+    },
+    {
       "name": "gpbnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "21d7e028d1f10ccb3dc5189dfe9262e6f18d6272",
-      "mtime": "1667597637",
-      "size": "259546",
-      "md5": "7832e5c5264b8370ba3a9bf8a22ea270",
-      "crc32": "bf8880cf",
-      "sha1": "6e09076c570c2d7711ac34a02df228af7a765566",
+      "btih": "28cc36aa38e801f33162cb22a38e71e9a9fc39bb",
+      "mtime": "1667626775",
+      "size": "260785",
+      "md5": "41dcc21c98b8bb6899718178a853f137",
+      "crc32": "5668e47f",
+      "sha1": "f0a81dbd56bd420a29bab652b4a075ac2c98a7e0",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gpbnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "25313a220b008488e733326fcd59cb75",
+      "md5": "78217756c6dd865ee2e7e33fed77ecc5",
       "summation": "md5"
     },
     {
       "name": "gpbnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667593286",
-      "size": "1568768",
-      "md5": "ffd99a355c78922e670206c85579f7b3",
-      "crc32": "b78d904a",
-      "sha1": "b5640efada993773b155e073849a74370fdc7b93",
+      "mtime": "1667625872",
+      "size": "1576960",
+      "md5": "68eaa148244864f6bcdf195227b32f8a",
+      "crc32": "67346559",
+      "sha1": "0ddf37b3ff6645a2ddfb087089f2d6e1dcaea3e0",
       "format": "Metadata"
     },
     {
@@ -12828,9 +12890,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1240,
-  "item_last_updated": 1667597637,
-  "item_size": 66542820,
+  "files_count": 1246,
+  "gpbnews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667626775,
+  "item_size": 66829289,
   "metadata": {
     "identifier": "gpbnews-2022",
     "collection": [
@@ -12847,10 +12914,10 @@
     "publicdate": "2022-07-20 23:31:18",
     "addeddate": "2022-07-20 23:31:18"
   },
-  "server": "ia601401.us.archive.org",
-  "uniq": 2069352103,
+  "server": "ia801401.us.archive.org",
+  "uniq": 505290117,
   "workable_servers": [
-    "ia601401.us.archive.org",
-    "ia801401.us.archive.org"
+    "ia801401.us.archive.org",
+    "ia601401.us.archive.org"
   ]
 }
