@@ -1,5 +1,5 @@
 {
-  "created": 1667574665,
+  "created": 1667598935,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/13/items/ledgerenquirer-2022",
@@ -12955,21 +12955,32 @@
       "format": "JSON"
     },
     {
+      "name": "ledgerenquirer-2022-11-04T10:03:00.804031-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "ledgerenquirer-2022-11-04T10:03:00.804031-04:00.jpg",
+      "mtime": "1667574830",
+      "size": "9500",
+      "md5": "014f7cd28240ed8a568caab46f696d44",
+      "crc32": "42bad58b",
+      "sha1": "3cd666e9d02757e725ef840fd72bce2de38981b7"
+    },
+    {
       "name": "ledgerenquirer-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d0b56af0a1e5bd8370230aa3725777c01d41d476",
-      "mtime": "1667570721",
-      "size": "271517",
-      "md5": "777f6655ae1a439f4ba576584da1205e",
-      "crc32": "9cc96b93",
-      "sha1": "4eb216d466e0ebf74139bd72426f5461bab79533",
+      "btih": "1bde4a32f971cf0e87b24f04454d9a019694ab31",
+      "mtime": "1667574846",
+      "size": "271727",
+      "md5": "ac365f2fc409c761fe3f86113f593201",
+      "crc32": "13f2083f",
+      "sha1": "27d31eac9a335dab688743d2bbc745c3ce4880d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "ledgerenquirer-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cec4d73bde084423186ea1c669d39a05",
+      "md5": "68e934d801ed38dec78bfe784f022cc3",
       "summation": "md5"
     },
     {
@@ -12993,14 +13004,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1256,
-  "item_last_updated": 1667570721,
-  "item_size": 76436287,
-  "ledgerenquirer-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "files_count": 1257,
+  "item_last_updated": 1667574846,
+  "item_size": 76445997,
   "metadata": {
     "identifier": "ledgerenquirer-2022",
     "collection": [
@@ -13017,21 +13023,10 @@
     "publicdate": "2022-07-20 23:31:19",
     "addeddate": "2022-07-20 23:31:19"
   },
-  "pending_tasks": true,
-  "server": "ia601503.us.archive.org",
-  "servers_unavailable": true,
-  "tasks": [
-    {
-      "task_id": 3461709825,
-      "cmd": "derive.php",
-      "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
-    }
-  ],
-  "uniq": 8866176,
+  "server": "ia801503.us.archive.org",
+  "uniq": 419620705,
   "workable_servers": [
+    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }
