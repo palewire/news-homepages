@@ -52,7 +52,7 @@ jobs:
 
       - id: analyze
         name: Analyze Drudge hyperlinks
-        run: pipenv run python -m newshomepages.analyze drudge;
+        run: pipenv run python -m newshomepages.analyze drudge-hyperlinks;
         shell: bash
 
       - id: commit
