@@ -1,5 +1,5 @@
 {
-  "created": 1667570616,
+  "created": 1667614037,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/10/items/france24_en-2022",
@@ -27206,31 +27206,82 @@
       "sha1": "9360857dde086d586c30710afb75b4c95ebb8fd6"
     },
     {
+      "name": "france24_en-2022-11-05T02:19:34.161021+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667611189",
+      "size": "22921",
+      "md5": "adae706cb3040aa16731205439d86d57",
+      "crc32": "11b64434",
+      "sha1": "a16a70098ecd6ad4612a9e1bdedeb1ca248f2ec4",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-11-05T02:19:34.161021+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667611191",
+      "size": "37290",
+      "md5": "2a85403371c4d5e45158af39490b4bf2",
+      "crc32": "e4ce709a",
+      "sha1": "0405b10dbad00ed5f053aa40b7adc7081fea9977",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-11-05T02:19:34.161021+01:00.jpg",
+      "source": "original",
+      "mtime": "1667611187",
+      "size": "274152",
+      "md5": "fd7e215bca731f48cca4e695bc36ad56",
+      "crc32": "fdd5bb23",
+      "sha1": "8969d08348dd8b2e2d0d2ed7c7423199587a526e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "france24_en-2022-11-05T02:19:34.161021+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667611193",
+      "size": "1489",
+      "md5": "3adc1f90bd1b4932848f5144f94e7664",
+      "crc32": "e8fe4ba7",
+      "sha1": "741f1c30bb18a8debbc38fdbaa1c0af23daffa8a",
+      "format": "JSON"
+    },
+    {
+      "name": "france24_en-2022-11-05T02:19:34.161021+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667611195",
+      "size": "10328",
+      "md5": "8bde409eac9a6e9db2d55e15e2c2dc4e",
+      "crc32": "606ad4fa",
+      "sha1": "ca323e9e283e94c80bca7eaeb348dc676a8e3e18",
+      "format": "JSON"
+    },
+    {
       "name": "france24_en-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cb3ea0394b88fd2196e2667a7b22ec7367d4bcc3",
-      "mtime": "1667570537",
-      "size": "558913",
-      "md5": "402e3b0209308711f8f942910561d8b1",
-      "crc32": "16c80894",
-      "sha1": "585e1f622de3f90b5328b74a4376f464e40f74f0",
+      "btih": "288d821534c700e4f97b5dd8d15fc5528d9ebdc1",
+      "mtime": "1667611305",
+      "size": "559991",
+      "md5": "c48b8ecf8dd6e5a67e4e4311e374e764",
+      "crc32": "93c76df6",
+      "sha1": "6ce267552c4443dcce82fd9f21681020bec5e904",
       "format": "Archive BitTorrent"
     },
     {
       "name": "france24_en-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d9bf24a63d02d910d0ce30e01f30f945",
+      "md5": "f21ee00e697a30600ee258ec44ee2951",
       "summation": "md5"
     },
     {
       "name": "france24_en-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667565764",
-      "size": "3235840",
-      "md5": "9c0e9f2f4694e7aa490e689edb1a1bd3",
-      "crc32": "c1281082",
-      "sha1": "8414e08babf3e2d103648112cb4ee33543e18246",
+      "mtime": "1667611207",
+      "size": "3239936",
+      "md5": "df6f59184e22decde1bde9fa8cfb79d5",
+      "crc32": "6b909b61",
+      "sha1": "b009b42551ec95d76a58389ff3e9046c4d9183d2",
       "format": "Metadata"
     },
     {
@@ -27244,9 +27295,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 2622,
-  "item_last_updated": 1667570537,
-  "item_size": 162771684,
+  "files_count": 2627,
+  "item_last_updated": 1667611305,
+  "item_size": 163123038,
   "metadata": {
     "identifier": "france24_en-2022",
     "collection": [
@@ -27268,15 +27319,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3461705600,
-      "cmd": "bup.php",
-      "priority": -5,
+      "task_id": 3462347179,
+      "cmd": "derive.php",
+      "priority": -6,
       "wait_admin": 1,
       "color": "blue",
       "status": "running"
     }
   ],
-  "uniq": 12472221,
+  "uniq": 264676521,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

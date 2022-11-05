@@ -1,5 +1,6 @@
 {
-  "created": 1667570477,
+  "conflict": 1667613957,
+  "created": 1667613957,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/21/items/greenvillenews-2022",
@@ -5648,31 +5649,93 @@
       "sha1": "e33c487392294d26ca621185fba476a5340d4469"
     },
     {
+      "name": "greenvillenews-2022-11-04T21:20:41.638864-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667611249",
+      "size": "20433",
+      "md5": "4c76611c0e9cb3555b5a2cf76cc48c0c",
+      "crc32": "d184361c",
+      "sha1": "7af4306884a02b09b3569f0a1309fddd1f084f5f",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-11-04T21:20:41.638864-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667611251",
+      "size": "28186",
+      "md5": "563164600c713eee87afa96b11ed5461",
+      "crc32": "a8ffa2ee",
+      "sha1": "37bf79cd4a3cc85fe49bb686a2ec16a09daf3b76",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-11-04T21:20:41.638864-04:00.jpg",
+      "source": "original",
+      "mtime": "1667611247",
+      "size": "274522",
+      "md5": "23af12df641680c5070aa3e9b141a551",
+      "crc32": "68e64590",
+      "sha1": "ce3ca8f85f8f85983cbe02e4113d55089a91366f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "greenvillenews-2022-11-04T21:20:41.638864-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667611253",
+      "size": "1549",
+      "md5": "a4e3071978fa77e85cbea24f55114c83",
+      "crc32": "60b67704",
+      "sha1": "e1e2903e8902ff447626126704b2cfd63e9f7609",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-11-04T21:20:41.638864-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667611255",
+      "size": "83800",
+      "md5": "7016aee64561d69a52880853cf0e8ec3",
+      "crc32": "b48ecb85",
+      "sha1": "2f72e38f3d193ab2c8ef6b82d3234ef9257a1c47",
+      "format": "JSON"
+    },
+    {
+      "name": "greenvillenews-2022-11-04T21:20:41.638864-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "greenvillenews-2022-11-04T21:20:41.638864-04:00.jpg",
+      "mtime": "1667613950",
+      "size": "9744",
+      "md5": "20cd0bf022b29b900ffb7087edf8a085",
+      "crc32": "72c8abe6",
+      "sha1": "0da9813a3c0d5cc7bd72d5bd007f1a68389edbd9"
+    },
+    {
       "name": "greenvillenews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "b6407efacae69c0bf36d611abd1c51f19c5480ec",
-      "mtime": "1667570418",
-      "size": "119584",
-      "md5": "c21d1c9f97bbfcec273c47675b4b926e",
-      "crc32": "17af3450",
-      "sha1": "e73520fbbf9bd5d4d36b8a791ba5ef99b1225a62",
+      "btih": "0c4e620973e2ef2b1114d7436824eac043618116",
+      "mtime": "1667613955",
+      "size": "120887",
+      "md5": "b3b826ce4eeb7cd4fbce7ddd8ff1ae13",
+      "crc32": "f68212ed",
+      "sha1": "e771e21a5e13994480a4000ed4dd929f95c7feae",
       "format": "Archive BitTorrent"
     },
     {
       "name": "greenvillenews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "7abaef8e00d0c935a4707309173f30b5",
+      "md5": "2e4d7b7145d1f3a96321d211e5114319",
       "summation": "md5"
     },
     {
       "name": "greenvillenews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667565725",
-      "size": "720896",
-      "md5": "8dbc37e475994d068c6f9ca097475069",
-      "crc32": "f0a94fbb",
-      "sha1": "b2fbfffbc6fff13f4e3f72c3a1d64d098d5a7f82",
+      "mtime": "1667611259",
+      "size": "724992",
+      "md5": "de9f3d6738acd22fef4acf28e6d8efbd",
+      "crc32": "dee48dea",
+      "sha1": "6e1a22af4423ba06c8aa3f39d32611f0f1afc771",
       "format": "Metadata"
     },
     {
@@ -5686,9 +5749,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 550,
-  "item_last_updated": 1667570418,
-  "item_size": 36970844,
+  "files_count": 556,
+  "item_last_updated": 1667613955,
+  "item_size": 37394477,
   "metadata": {
     "identifier": "greenvillenews-2022",
     "collection": [
@@ -5705,10 +5768,29 @@
     "publicdate": "2022-09-20 22:18:26",
     "addeddate": "2022-09-20 22:18:26"
   },
+  "pending_tasks": true,
   "server": "ia601500.us.archive.org",
-  "uniq": 2013083907,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3462347102,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3462387567,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2026887508,
   "workable_servers": [
-    "ia601500.us.archive.org",
-    "ia801500.us.archive.org"
+    "ia601500.us.archive.org"
   ]
 }
