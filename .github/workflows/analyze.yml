@@ -38,16 +38,8 @@ jobs:
           git commit -m "Update lighthouse analysis" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
 
-      - id: save
-        name: Save artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: extracts
-          path: ./extracts
-          if-no-files-found: error
-
-  drudge:
-    name: Drudge
+  drudge-hyperlinks:
+    name: Drudge hyperlinks
     runs-on: ubuntu-latest
     steps:
       - id: checkout
@@ -60,7 +52,7 @@ jobs:
 
       - id: analyze
         name: Analyze Drudge hyperlinks
-        run: pipenv run python -m newshomepages.analyze drudge;
+        run: pipenv run python -m newshomepages.analyze drudge-hyperlinks;
         shell: bash
 
       - id: commit
@@ -71,7 +63,43 @@ jobs:
           git config pull.rebase false
           git pull origin $GITHUB_REF
           git add ./extracts
-          git commit -m "Update Drudge analysis" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+          git commit -m "Update Drudge hyperlinks analysis" --author="palewire <palewire@users.noreply.github.com>" && git push || true
+        shell: bash
+
+      - id: save
+        name: Save artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: extracts
+          path: ./extracts
+          if-no-files-found: error
+
+  drudge-entities:
+    name: Drudge entities
+    runs-on: ubuntu-latest
+    steps:
+      - id: checkout
+        name: Checkout
+        uses: actions/checkout@v3
+
+      - id: install
+        name: Install
+        uses: ./.github/actions/install
+
+      - id: analyze
+        name: Analyze Drudge hyperlinks
+        run: pipenv run python -m newshomepages.analyze drudge-entities;
+        shell: bash
+
+      - id: commit
+        name: Commit
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git config pull.rebase false
+          git pull origin $GITHUB_REF
+          git add ./extracts
+          git commit -m "Update Drudge entities analysis" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
 
       - id: save

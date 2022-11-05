@@ -248,3 +248,16 @@ Field | Description
 `earliest_date` | The earliest datetime when the hyperlink was captured
 `is_story` | Whether or not our machine-learning system estimates that the URL leads to a news story
 `domain` | The web domain where the URL is hosted
+
+## drudge-entities-analysis.csv
+
+An analysis of entities extracted from Drudge Report headlines over the past 90 days
+
+URL: [raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/drudge-entities-analysis.csv](https://raw.githubusercontent.com/palewire/news-homepages/main/extracts/csv/drudge-entities-analysis.csv)
+
+Field | Description
+:---- | :----------
+`lemma` | The root word
+`n` | How many headlines the word appeared in over the last 90 days
+`top_verb` | The most frequently used verb in headlines containing this word
+`timeseries` | The number of headlines feature this word on each day in our time range
