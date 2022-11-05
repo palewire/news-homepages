@@ -1,5 +1,5 @@
 {
-  "created": 1667576887,
+  "created": 1667618641,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/20/items/nbcphiladelphia-2022",
@@ -14668,31 +14668,93 @@
       "sha1": "b8335f8433a49e6ab1603fc184bd0fa64dd81f81"
     },
     {
+      "name": "nbcphiladelphia-2022-11-04T22:47:13.750829-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667616437",
+      "size": "46926",
+      "md5": "17ea01a192cd0197d633b15220104cec",
+      "crc32": "2c579167",
+      "sha1": "e6db69dd11a1756f3a674d3851beaacb75d5e796",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-11-04T22:47:13.750829-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667616439",
+      "size": "52452",
+      "md5": "bc23130d87f0a15dfefc834827c73a87",
+      "crc32": "caf7ba97",
+      "sha1": "e7ed2c1d3fa8f14f0e85189389b6fb5c38ce7e0e",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-11-04T22:47:13.750829-04:00.jpg",
+      "source": "original",
+      "mtime": "1667616435",
+      "size": "301073",
+      "md5": "8c9d8e0daff3e0eb1cb7aebb0f13594f",
+      "crc32": "94d4f875",
+      "sha1": "66735774de69afd922ddab36ce47ea57363668b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nbcphiladelphia-2022-11-04T22:47:13.750829-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667616440",
+      "size": "1540",
+      "md5": "5c004ba84cdeb9a266bf852c656dedb1",
+      "crc32": "e6805e2e",
+      "sha1": "dfa07c0332c8e326c01205dafdc8e8974ecf4558",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-11-04T22:47:13.750829-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667616442",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "nbcphiladelphia-2022-11-04T22:47:13.750829-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "nbcphiladelphia-2022-11-04T22:47:13.750829-04:00.jpg",
+      "mtime": "1667618440",
+      "size": "9785",
+      "md5": "395e1d8979db7da2bff774bac73562d3",
+      "crc32": "bf9e0544",
+      "sha1": "8abc43b924e06dd4c687d8202cd74b8aec263b59"
+    },
+    {
       "name": "nbcphiladelphia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d925e0a93f8a912a52ecd2d4bb7c182510d25c74",
-      "mtime": "1667576867",
-      "size": "309801",
-      "md5": "35b3a0ab5db991f7215ddeddb20effd1",
-      "crc32": "6fc219ec",
-      "sha1": "0d0109fb6633b8667b8164150423dec61044108f",
+      "btih": "920ce1cb9b40d3c406276134e9d97fbcf17d6939",
+      "mtime": "1667618460",
+      "size": "311108",
+      "md5": "938b2e824d55d355d2115baa833a01bc",
+      "crc32": "e1d20586",
+      "sha1": "c8548a115b928bbc3938defbf118eba1cada3208",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nbcphiladelphia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8de3433aa1f3f5b3ba8cedb563461b29",
+      "md5": "89d3d845a45f1d11bb648d7f8f56934f",
       "summation": "md5"
     },
     {
       "name": "nbcphiladelphia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667574430",
-      "size": "1794048",
-      "md5": "a02a95db6271a229ac07b88d055b4729",
-      "crc32": "ab8618c7",
-      "sha1": "a63d508feb5a52b68a1a9738281b3d741e39ec3f",
+      "mtime": "1667616450",
+      "size": "1802240",
+      "md5": "ab654cab56d67d793e06c5d1aaf52ef0",
+      "crc32": "06179dbb",
+      "sha1": "7611769b20880aefd24daa839f9367ecdbf1e897",
       "format": "Metadata"
     },
     {
@@ -14706,9 +14768,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1419,
-  "item_last_updated": 1667576867,
-  "item_size": 117379070,
+  "files_count": 1425,
+  "item_last_updated": 1667618460,
+  "item_size": 117800547,
   "metadata": {
     "identifier": "nbcphiladelphia-2022",
     "collection": [
@@ -14726,7 +14788,7 @@
     "addeddate": "2022-07-03 15:52:43"
   },
   "server": "ia801506.us.archive.org",
-  "uniq": 818878037,
+  "uniq": 1452562890,
   "workable_servers": [
     "ia801506.us.archive.org",
     "ia601506.us.archive.org"

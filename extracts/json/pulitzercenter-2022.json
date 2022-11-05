@@ -1,5 +1,5 @@
 {
-  "created": 1667577457,
+  "created": 1667618736,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/14/items/pulitzercenter-2022",
@@ -13882,31 +13882,93 @@
       "sha1": "5b4218d2fc72a9a3a316c0a80a31d7b7a6826730"
     },
     {
+      "name": "pulitzercenter-2022-11-04T22:51:37.257776-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667616727",
+      "size": "8142",
+      "md5": "7e09fe7707bc31708c0ce6125cf6f8f5",
+      "crc32": "2ca40a0c",
+      "sha1": "85206787b4145cb3398a68339078bd0dc00da8ad",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-11-04T22:51:37.257776-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667616729",
+      "size": "15929",
+      "md5": "d1f144626bc3c2822629b580dc6c1dea",
+      "crc32": "cfd42a0f",
+      "sha1": "a63daeb69af10d19448ce82a6eda297ac473e045",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-11-04T22:51:37.257776-04:00.jpg",
+      "source": "original",
+      "mtime": "1667616725",
+      "size": "227676",
+      "md5": "06c4dbe1337e7285412638934ebe5b63",
+      "crc32": "c68b0b28",
+      "sha1": "dc696f4db7f521271a35ed024748cc4d579268dc",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "pulitzercenter-2022-11-04T22:51:37.257776-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667616731",
+      "size": "1494",
+      "md5": "164bb56571fffb3e1d7aee230afb838c",
+      "crc32": "fe0a2569",
+      "sha1": "d598f382835b27195a9adbf7283491b2ea14d8e0",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-11-04T22:51:37.257776-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667616732",
+      "size": "21313",
+      "md5": "87b2feb3d95330c4c01e0e50d8f9ec2d",
+      "crc32": "e0ba5c64",
+      "sha1": "d693a178ef9bfe4fd760a80fcf8bf713492df8e1",
+      "format": "JSON"
+    },
+    {
+      "name": "pulitzercenter-2022-11-04T22:51:37.257776-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "pulitzercenter-2022-11-04T22:51:37.257776-04:00.jpg",
+      "mtime": "1667618367",
+      "size": "8812",
+      "md5": "5c22dd05f708474cddc7c0768374eacd",
+      "crc32": "43583bb7",
+      "sha1": "4f5700dbaa3be6172917cea6af85ea01bf64bbe3"
+    },
+    {
       "name": "pulitzercenter-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9c6363eac39ef3cb73ce70b159fa59e91cb70818",
-      "mtime": "1667577361",
-      "size": "289905",
-      "md5": "dee56d19dc4654790eb89674eebf07f9",
-      "crc32": "fe25b40e",
-      "sha1": "a4431bca81bd146a6bd1ddd5ce02d73a88364664",
+      "btih": "d73e819763c25bb57eeacf72b843026d96f14a00",
+      "mtime": "1667618446",
+      "size": "291187",
+      "md5": "ac038c3a5c2705da49db82854173ee93",
+      "crc32": "8c4472bb",
+      "sha1": "8258d173592bef1ac4162d2a49c2d3923b4e2317",
       "format": "Archive BitTorrent"
     },
     {
       "name": "pulitzercenter-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "08278ad3f7f7c61eb601ccc0dfb61af4",
+      "md5": "5dd804b4cac0e75e61b0177932e9f1c3",
       "summation": "md5"
     },
     {
       "name": "pulitzercenter-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667574875",
-      "size": "1703936",
-      "md5": "4676b9126fdb05a6abd5123985a42c55",
-      "crc32": "b7b27c06",
-      "sha1": "8100fc36b5024348387f69a28c68957839fb1b0b",
+      "mtime": "1667616738",
+      "size": "1712128",
+      "md5": "005e2140e02d0f0aff920a7932f7bbd4",
+      "crc32": "30308ee6",
+      "sha1": "9118f1820750df3b78effe1e3bd21520977f9c84",
       "format": "Metadata"
     },
     {
@@ -13920,9 +13982,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1344,
-  "item_last_updated": 1667577361,
-  "item_size": 62335758,
+  "files_count": 1350,
+  "item_last_updated": 1667618446,
+  "item_size": 62628598,
   "metadata": {
     "identifier": "pulitzercenter-2022",
     "collection": [
@@ -13939,10 +14001,10 @@
     "publicdate": "2022-07-09 04:01:52",
     "addeddate": "2022-07-09 04:01:52"
   },
-  "server": "ia601408.us.archive.org",
-  "uniq": 1371791841,
+  "server": "ia801408.us.archive.org",
+  "uniq": 633501475,
   "workable_servers": [
-    "ia601408.us.archive.org",
-    "ia801408.us.archive.org"
+    "ia801408.us.archive.org",
+    "ia601408.us.archive.org"
   ]
 }
