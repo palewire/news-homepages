@@ -1,7 +1,12 @@
 {
-  "created": 1667723407,
+  "created": 1667763368,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
+  "dailyecho-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "dir": "/23/items/dailyecho-2022",
   "files": [
     {
@@ -18768,31 +18773,93 @@
       "sha1": "53fc8cec2cd7f322e4a7cce750c65df3b29e07ee"
     },
     {
+      "name": "dailyecho-2022-11-06T17:51:13.272382+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667757076",
+      "size": "30836",
+      "md5": "8bd00ea18279f1a3723a7dff983ac48a",
+      "crc32": "9884adc6",
+      "sha1": "b1bf0e125925681814d77deb211f421ec8cb9bd3",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyecho-2022-11-06T17:51:13.272382+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667757078",
+      "size": "43553",
+      "md5": "38fcdb7c7f2fe8a68887e4fc8eddd46e",
+      "crc32": "c3932638",
+      "sha1": "60078764754be6a9dc8b1d0717e100417e727699",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyecho-2022-11-06T17:51:13.272382+00:00.jpg",
+      "source": "original",
+      "mtime": "1667757074",
+      "size": "254060",
+      "md5": "2203d0b859391f30322e0bfc7a6d081d",
+      "crc32": "6d942810",
+      "sha1": "48cd5e85a5d344bb3d46e3f953e1e5bd1766433d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "dailyecho-2022-11-06T17:51:13.272382+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667757080",
+      "size": "1504",
+      "md5": "18765c16a3b821692d1344a106fe228b",
+      "crc32": "93a2f5a1",
+      "sha1": "90e5e4e9ceb7ef6e7b5d5f3f4afe2ce5cc6a8853",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyecho-2022-11-06T17:51:13.272382+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667757082",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "dailyecho-2022-11-06T17:51:13.272382+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "dailyecho-2022-11-06T17:51:13.272382+00:00.jpg",
+      "mtime": "1667758072",
+      "size": "9562",
+      "md5": "790871d7024981a3d063f299d1334647",
+      "crc32": "9872e95a",
+      "sha1": "cbded961c2c35900853670d55926bc9825bf3f00"
+    },
+    {
       "name": "dailyecho-2022_archive.torrent",
       "source": "metadata",
-      "btih": "e886c7bd7b28019cda4d8672cc1955d5841a37b5",
-      "mtime": "1667723394",
-      "size": "384524",
-      "md5": "29091f5a55d503b746fd76fed4f61c89",
-      "crc32": "6a52099c",
-      "sha1": "9036e5c49a26ffacd484028462ee136be3c25556",
+      "btih": "ba83d00674c79b8ec3e5378798f791855391cbe8",
+      "mtime": "1667758145",
+      "size": "385775",
+      "md5": "fe4f2920a9eff9610514537ed17e1a94",
+      "crc32": "817563a6",
+      "sha1": "f6f7f0736f4be9b5d74336d34662f52fa04c5c7c",
       "format": "Archive BitTorrent"
     },
     {
       "name": "dailyecho-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6a110329b2d64b38471931657d9674ba",
+      "md5": "43224e6c60e3cfa659621f7a41449e30",
       "summation": "md5"
     },
     {
       "name": "dailyecho-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667723285",
-      "size": "2289664",
-      "md5": "e8e2b93f558c2d0f13d7e266e0444fdc",
-      "crc32": "38688fe5",
-      "sha1": "7db22bd8ca10d0524372fc450bc04e20a9a96e19",
+      "mtime": "1667757087",
+      "size": "2297856",
+      "md5": "fe8891dc6906dec9e6abdf7c2b94ca3d",
+      "crc32": "a51f0664",
+      "sha1": "0b9ec541e97351641d29d5a47e57b0dbc12e239f",
       "format": "Metadata"
     },
     {
@@ -18806,9 +18873,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1817,
-  "item_last_updated": 1667723394,
-  "item_size": 124697315,
+  "files_count": 1823,
+  "item_last_updated": 1667758145,
+  "item_size": 125046475,
   "metadata": {
     "identifier": "dailyecho-2022",
     "collection": [
@@ -18825,10 +18892,10 @@
     "publicdate": "2022-07-10 15:41:04",
     "addeddate": "2022-07-10 15:41:04"
   },
-  "server": "ia902507.us.archive.org",
-  "uniq": 149481757,
+  "server": "ia802507.us.archive.org",
+  "uniq": 1255118867,
   "workable_servers": [
-    "ia902507.us.archive.org",
-    "ia802507.us.archive.org"
+    "ia802507.us.archive.org",
+    "ia902507.us.archive.org"
   ]
 }
