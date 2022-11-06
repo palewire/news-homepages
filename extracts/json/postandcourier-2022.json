@@ -1,5 +1,5 @@
 {
-  "created": 1667678561,
+  "created": 1667724515,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/19/items/postandcourier-2022",
@@ -15668,31 +15668,82 @@
       "sha1": "1fad7b6603a013d8b54dc7d117eeee3842a62b49"
     },
     {
+      "name": "postandcourier-2022-11-06T03:47:03.506803-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667724426",
+      "size": "34286",
+      "md5": "54e2ba2be29a00b74d46f6f44aaad886",
+      "crc32": "0bb7a8b9",
+      "sha1": "678fcda6b843d5b39880efb69e95e2949c43a668",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-11-06T03:47:03.506803-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667724428",
+      "size": "65466",
+      "md5": "98e748d91525b391c85593daeb29d64a",
+      "crc32": "8555482a",
+      "sha1": "0dc82b8b54a46c59b26efae16918bdd2a47ed27c",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-11-06T03:47:03.506803-05:00.jpg",
+      "source": "original",
+      "mtime": "1667724425",
+      "size": "290826",
+      "md5": "afebbb3ab81bd35eb88da07884b53b2c",
+      "crc32": "fb9c30fd",
+      "sha1": "94ddea97f26e81331b1466e86fc3734b3f63a6ba",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "postandcourier-2022-11-06T03:47:03.506803-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667724430",
+      "size": "1528",
+      "md5": "905781cb0799b5a163f59c4ced4e3f37",
+      "crc32": "c399a725",
+      "sha1": "92d45263e48489e68944c7008b26c4a1aeb4ee8b",
+      "format": "JSON"
+    },
+    {
+      "name": "postandcourier-2022-11-06T03:47:03.506803-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667724431",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "postandcourier-2022_archive.torrent",
       "source": "metadata",
-      "btih": "cc55624b85dd833d4b25ee8bb16be725bf68dbc6",
-      "mtime": "1667678516",
-      "size": "328625",
-      "md5": "4fef82c70b93fb0e626ea8b7b9de6119",
-      "crc32": "710c4fdb",
-      "sha1": "5a66fa20b2dab5a743037bd0a7be419d1c013347",
+      "btih": "7a3e43b90209a322f5980c35fa73feaebd56b137",
+      "mtime": "1667724509",
+      "size": "329696",
+      "md5": "98498983ff1ea2f2520fd45c8dc2bfe4",
+      "crc32": "ca888bfe",
+      "sha1": "68054a9ea48703e2ae4c8d5dc6289b09836d3ab2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "postandcourier-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "8092b94035f29c7372a395ede9531b14",
+      "md5": "4747cb0f1485ae038cab512b4266f8ac",
       "summation": "md5"
     },
     {
       "name": "postandcourier-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667677143",
-      "size": "1900544",
-      "md5": "48c51826b66a9ae9a13ffedcce161104",
-      "crc32": "6048153e",
-      "sha1": "512036b41802098dee587a1deb39092ffd71973a",
+      "mtime": "1667724451",
+      "size": "1908736",
+      "md5": "e8e08f733e3b41494a48bae4c70336ad",
+      "crc32": "be390c43",
+      "sha1": "6bb38b3612d1ef09af045d554901fc78d3e44554",
       "format": "Metadata"
     },
     {
@@ -15706,9 +15757,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1514,
-  "item_last_updated": 1667678516,
-  "item_size": 116835010,
+  "files_count": 1519,
+  "item_last_updated": 1667724509,
+  "item_size": 117236581,
   "metadata": {
     "identifier": "postandcourier-2022",
     "collection": [
@@ -15725,10 +15776,21 @@
     "publicdate": "2022-06-24 22:59:39",
     "addeddate": "2022-06-24 22:59:39"
   },
+  "pending_tasks": true,
   "server": "ia601403.us.archive.org",
-  "uniq": 268666002,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463562626,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1251299601,
   "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+    "ia601403.us.archive.org"
   ]
 }
