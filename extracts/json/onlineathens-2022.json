@@ -1,5 +1,6 @@
 {
-  "created": 1667678552,
+  "conflict": 1667725042,
+  "created": 1667725042,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/24/items/onlineathens-2022",
@@ -12946,31 +12947,93 @@
       "sha1": "8849a56d825189c99ee7797ecbd7f6fbe750ff1c"
     },
     {
+      "name": "onlineathens-2022-11-06T03:44:02.300236-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667724253",
+      "size": "21980",
+      "md5": "68621cab5241d14a53a5affadefbb5b4",
+      "crc32": "f296692f",
+      "sha1": "e2b0edf20dddcc0b8a8c8f57ee9f8c6b531fd18c",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-11-06T03:44:02.300236-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667724255",
+      "size": "29670",
+      "md5": "859e548f3b61ffdda85f313e5b21caae",
+      "crc32": "d2619bfb",
+      "sha1": "0e8b0db95d516961a81e6e032ff0568eac07541d",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-11-06T03:44:02.300236-05:00.jpg",
+      "source": "original",
+      "mtime": "1667724251",
+      "size": "284036",
+      "md5": "4c3e5ef62c5b10333a21803156c1c64b",
+      "crc32": "84a20fc5",
+      "sha1": "e7b24ebda6aed635a73db4c37d9cd4bb4e97c169",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "onlineathens-2022-11-06T03:44:02.300236-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667724257",
+      "size": "1513",
+      "md5": "5b613924f40552429df263ca8bb82f9e",
+      "crc32": "ba263463",
+      "sha1": "b9efbb1b028f6b76571a556c43389d5442f7daf1",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-11-06T03:44:02.300236-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667724259",
+      "size": "113299",
+      "md5": "af7b633cb83ec73b94c3d8660098c76a",
+      "crc32": "ec9f1c92",
+      "sha1": "219c44a3e38c479af99f21f6574ce4f067827185",
+      "format": "JSON"
+    },
+    {
+      "name": "onlineathens-2022-11-06T03:44:02.300236-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "onlineathens-2022-11-06T03:44:02.300236-05:00.jpg",
+      "mtime": "1667725024",
+      "size": "9736",
+      "md5": "b28703457e0a517808741abb382e5298",
+      "crc32": "084059b8",
+      "sha1": "e2bb8f5b6c4ca6aab42863251a3b9a0df6ffef89"
+    },
+    {
       "name": "onlineathens-2022_archive.torrent",
       "source": "metadata",
-      "btih": "79d0f96b5293dbcc66f57faf6896c5a2491a4657",
-      "mtime": "1667678481",
-      "size": "269598",
-      "md5": "ad756fcddc63aa6aa5f7e61ed38e3b93",
-      "crc32": "8a704eda",
-      "sha1": "25f203e759266f68b121388efff53e4240a8836e",
+      "btih": "05aebaa7ba0ce793fa7e8986e552473de6326ff7",
+      "mtime": "1667725039",
+      "size": "270890",
+      "md5": "224caada14b42494c93b0f171f17cac6",
+      "crc32": "f2f75c0a",
+      "sha1": "a03d25835c189b7a33902af5baa9720b8309fa9b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "onlineathens-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9fc0b89b6c2a616461a8581eef453ee3",
+      "md5": "23dfe3f5663124e545cd3a6a2acd1b2d",
       "summation": "md5"
     },
     {
       "name": "onlineathens-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667676917",
-      "size": "1597440",
-      "md5": "2cd99358e8cd997c77beaa9c3a5366bc",
-      "crc32": "9174d7f9",
-      "sha1": "fa653028f110f3cdf18554058f7932e3eccf5b8c",
+      "mtime": "1667724264",
+      "size": "1605632",
+      "md5": "879597f9634da204bcbfe1b85ea61b16",
+      "crc32": "11fe05fa",
+      "sha1": "b0eff36ffb516472cbcdd21d852f197dd8cacc24",
       "format": "Metadata"
     },
     {
@@ -12984,9 +13047,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1255,
-  "item_last_updated": 1667678481,
-  "item_size": 85123757,
+  "files_count": 1261,
+  "item_last_updated": 1667725039,
+  "item_size": 85593475,
   "metadata": {
     "identifier": "onlineathens-2022",
     "collection": [
@@ -13003,10 +13066,29 @@
     "publicdate": "2022-07-20 23:31:11",
     "addeddate": "2022-07-20 23:31:11"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 189884373,
+  "pending_tasks": true,
+  "server": "ia601405.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463561128,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3463566167,
+      "cmd": "bup.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 294380691,
   "workable_servers": [
-    "ia801405.us.archive.org",
     "ia601405.us.archive.org"
   ]
 }

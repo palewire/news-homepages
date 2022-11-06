@@ -1,5 +1,5 @@
 {
-  "created": 1667674482,
+  "created": 1667699720,
   "d1": "ia601400.us.archive.org",
   "d2": "ia801400.us.archive.org",
   "dir": "/11/items/midnight_sun_ak-2022",
@@ -6774,31 +6774,93 @@
       "sha1": "9a57219a775af74c35050772f73a6d3079bfd66e"
     },
     {
+      "name": "midnight_sun_ak-2022-11-05T17:36:33.729081-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667698598",
+      "size": "14725",
+      "md5": "54d772162c6606e26e3f871f88cee8b2",
+      "crc32": "42d88ecc",
+      "sha1": "cae00138c513738d5e49891c7ffdc66fef3de4f8",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-11-05T17:36:33.729081-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667698600",
+      "size": "10732",
+      "md5": "88a99614daf941b8f21d23b477c39ee1",
+      "crc32": "fb9f5571",
+      "sha1": "1d0a6ec449e5cfcc7372ea1dbef9c4030065d5ff",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-11-05T17:36:33.729081-08:00.jpg",
+      "source": "original",
+      "mtime": "1667698596",
+      "size": "281100",
+      "md5": "9e910dcfb18998068d952d807233d2cf",
+      "crc32": "485dcc74",
+      "sha1": "273ac8c41a5438f2ff516f72aab7ad86d3662920",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "midnight_sun_ak-2022-11-05T17:36:33.729081-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667698602",
+      "size": "1486",
+      "md5": "ae2eef7ac3293e2d6592cad07c5408a5",
+      "crc32": "a317f043",
+      "sha1": "c5a26a7d075ea0109201aa808f20c1affede4f96",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-11-05T17:36:33.729081-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1667698603",
+      "size": "6536",
+      "md5": "f4efd095efb1a4987f5099593a49cc2c",
+      "crc32": "a7635bc8",
+      "sha1": "46b12345a4c7b695e390a857ecd6de4164d3daa1",
+      "format": "JSON"
+    },
+    {
+      "name": "midnight_sun_ak-2022-11-05T17:36:33.729081-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "midnight_sun_ak-2022-11-05T17:36:33.729081-08:00.jpg",
+      "mtime": "1667699642",
+      "size": "10832",
+      "md5": "e30f6f1904810174e06addd478bd4d53",
+      "crc32": "dfb88979",
+      "sha1": "304cb502db60425139f40fd98c7d50dd526e3bc9"
+    },
+    {
       "name": "midnight_sun_ak-2022_archive.torrent",
       "source": "metadata",
-      "btih": "5dda945930d0aa34e622cc51b4ce8963437d092f",
-      "mtime": "1667656074",
-      "size": "143572",
-      "md5": "4335980b02e22a98e5f3b3885cf61ba1",
-      "crc32": "3fde0d63",
-      "sha1": "9502c6e8062d077db6555e1e3a34c3d8129ca62d",
+      "btih": "686f30b043f3dc0631b16dbef947d3ecf4aa4aec",
+      "mtime": "1667699652",
+      "size": "144881",
+      "md5": "95467e416023e912c8bed56fb059a106",
+      "crc32": "9da7578f",
+      "sha1": "7955e246609c8cbc5efb2ec3429b05448d518ff6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "midnight_sun_ak-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "989457af6b0c231fa5295650c0a23276",
+      "md5": "d3c39deb1db65b89b4f70795510805b9",
       "summation": "md5"
     },
     {
       "name": "midnight_sun_ak-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667653768",
-      "size": "860160",
-      "md5": "7ff06c655e9a6b4ee5ae1ab3fc552228",
-      "crc32": "cb599cdb",
-      "sha1": "32437d3952a57fa058cad15c8ea37a4e4c18594d",
+      "mtime": "1667698610",
+      "size": "868352",
+      "md5": "0dcf65babb8f5a37961ed90a2201d183",
+      "crc32": "4f28b4d0",
+      "sha1": "576d328988f5a9a5c31c4e2eb0ebb3349e77e22f",
       "format": "Metadata"
     },
     {
@@ -6812,9 +6874,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 659,
-  "item_last_updated": 1667656074,
-  "item_size": 37633864,
+  "files_count": 665,
+  "item_last_updated": 1667699652,
+  "item_size": 37968776,
   "metadata": {
     "identifier": "midnight_sun_ak-2022",
     "collection": [
@@ -6831,15 +6893,10 @@
     "publicdate": "2022-09-13 01:14:49",
     "addeddate": "2022-09-13 01:14:49"
   },
-  "midnight_sun_ak-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia601400.us.archive.org",
-  "uniq": 731408689,
+  "server": "ia801400.us.archive.org",
+  "uniq": 1311242659,
   "workable_servers": [
-    "ia601400.us.archive.org",
-    "ia801400.us.archive.org"
+    "ia801400.us.archive.org",
+    "ia601400.us.archive.org"
   ]
 }

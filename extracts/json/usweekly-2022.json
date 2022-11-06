@@ -1,5 +1,5 @@
 {
-  "created": 1667680530,
+  "created": 1667724155,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/35/items/usweekly-2022",
@@ -13066,31 +13066,82 @@
       "sha1": "e0cb3fe249efc6660907e697bb72ca1fec58d07b"
     },
     {
+      "name": "usweekly-2022-11-06T03:41:22.012383-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667724092",
+      "size": "19599",
+      "md5": "3e27009dec1ba7c02253ec09d96851a9",
+      "crc32": "585acc75",
+      "sha1": "032605d4a3bb0e64e73745c370ed4d78cf32b4fb",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-11-06T03:41:22.012383-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667724093",
+      "size": "48705",
+      "md5": "614294f398dc721e0eea40f672402592",
+      "crc32": "9dd458c1",
+      "sha1": "df58149d880cac03f9dd64d9bbcc749534d33f5e",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-11-06T03:41:22.012383-05:00.jpg",
+      "source": "original",
+      "mtime": "1667724090",
+      "size": "262966",
+      "md5": "efb18215e10babef30df2b745da9f16d",
+      "crc32": "fd226bcc",
+      "sha1": "3317fbbb44f31e04a323b2a9724979b0e27897e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "usweekly-2022-11-06T03:41:22.012383-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667724094",
+      "size": "1492",
+      "md5": "d41af81b118e8d0bca3beccb985b7ab6",
+      "crc32": "669f4604",
+      "sha1": "d653123295358e7fe6749346a1ef59be0abf0be8",
+      "format": "JSON"
+    },
+    {
+      "name": "usweekly-2022-11-06T03:41:22.012383-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667724096",
+      "size": "21640",
+      "md5": "b3461ed8518d6e7cf33053d6865ebe07",
+      "crc32": "42971881",
+      "sha1": "35a21d93b00a31594b7685b64f4fedad624412c9",
+      "format": "JSON"
+    },
+    {
       "name": "usweekly-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f134de6c0f82fa0e0a7beab8642120e2b94dcc77",
-      "mtime": "1667680453",
-      "size": "266451",
-      "md5": "55bf3051631f17b8caec74ae3b63f6e2",
-      "crc32": "42ac3bbd",
-      "sha1": "1250a05961168808ee812fac7016637e76a49473",
+      "btih": "cebec8354499cf746c942b42dda43e12ac5683c7",
+      "mtime": "1667724148",
+      "size": "267494",
+      "md5": "001a6274fe1860c875010175f10d66a3",
+      "crc32": "c2ab18cf",
+      "sha1": "8428e9ea5bf6d20f9fd6dc63e9520633fa78547b",
       "format": "Archive BitTorrent"
     },
     {
       "name": "usweekly-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c99c67e0efbb0347f2aa836e746cb672",
+      "md5": "72f3cead38e014db9ecb7bf0ff8b74e9",
       "summation": "md5"
     },
     {
       "name": "usweekly-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667679955",
-      "size": "1597440",
-      "md5": "6eb4381a157985043bd9b48607bc23d1",
-      "crc32": "c664ed6f",
-      "sha1": "a42bffaf6eb8cf96644731913464ceb05f47fca9",
+      "mtime": "1667724101",
+      "size": "1605632",
+      "md5": "ecb314dfe49eb067faf5e3ac02e822f7",
+      "crc32": "f45fea1a",
+      "sha1": "2940fd2f412580b926ef3c2308a432c1380d70f5",
       "format": "Metadata"
     },
     {
@@ -13104,9 +13155,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1266,
-  "item_last_updated": 1667680453,
-  "item_size": 77924228,
+  "files_count": 1271,
+  "item_last_updated": 1667724148,
+  "item_size": 78287865,
   "metadata": {
     "identifier": "usweekly-2022",
     "collection": [
@@ -13123,10 +13174,21 @@
     "publicdate": "2022-07-18 04:19:34",
     "addeddate": "2022-07-18 04:19:34"
   },
+  "pending_tasks": true,
   "server": "ia601506.us.archive.org",
-  "uniq": 786264140,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463559868,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 100928389,
   "workable_servers": [
-    "ia601506.us.archive.org",
-    "ia801506.us.archive.org"
+    "ia601506.us.archive.org"
   ]
 }

@@ -1,6 +1,5 @@
 {
-  "conflict": 1667680765,
-  "created": 1667680765,
+  "created": 1667723965,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/35/items/truthout-2022",
@@ -19305,34 +19304,90 @@
       "name": "truthout-2022-11-05T13:34:11.576869-07:00_thumb.jpg",
       "source": "derivative",
       "format": "JPEG Thumb",
-      "original": "truthout-2022-11-05T13:34:11.576869-07:00.jpg"
+      "original": "truthout-2022-11-05T13:34:11.576869-07:00.jpg",
+      "mtime": "1667680759",
+      "size": "8920",
+      "md5": "3076a3482bc69cb530dfe79d586ebd91",
+      "crc32": "d7859212",
+      "sha1": "141ebffe93dc944e67b83c643619c4a0e126a04b"
+    },
+    {
+      "name": "truthout-2022-11-06T01:37:51.882777-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667723883",
+      "size": "33557",
+      "md5": "649123707cfc80b42b515eba60ddbb8f",
+      "crc32": "da781af9",
+      "sha1": "38f0653fe6ab33f16bb7ff3c6488e7964be3c4b1",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-11-06T01:37:51.882777-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667723885",
+      "size": "23447",
+      "md5": "c07b3b5ce2b826ccac78675ed982e208",
+      "crc32": "3930d9ba",
+      "sha1": "622334e188cb6e1457d7525d2dad3b2735e0617c",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-11-06T01:37:51.882777-07:00.jpg",
+      "source": "original",
+      "mtime": "1667723882",
+      "size": "248050",
+      "md5": "e3aef0beb7a1ed4111c12f3011fdddbc",
+      "crc32": "114fdc4a",
+      "sha1": "56128b710763905125b7a1b2d1e4192440d7e986",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "truthout-2022-11-06T01:37:51.882777-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667723887",
+      "size": "1432",
+      "md5": "a6b2818182b62671c0fc0f716744acc3",
+      "crc32": "ff7ed90d",
+      "sha1": "32098d545984765cc227e47ef005b83630db19ed",
+      "format": "JSON"
+    },
+    {
+      "name": "truthout-2022-11-06T01:37:51.882777-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667723889",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
     },
     {
       "name": "truthout-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f6254613427a84f3b18c8286d8dff802988ac7cb",
-      "mtime": "1667680605",
-      "size": "393079",
-      "md5": "df9d8c1f9bc6a650c0bd42613900f4e7",
-      "crc32": "9f220404",
-      "sha1": "230ad207725e36ba1166d14ba6903dfddda2ca72",
+      "btih": "379580c88505c4d244dc8454beb58aff0bb761c8",
+      "mtime": "1667723957",
+      "size": "394344",
+      "md5": "618a2e28d296398dac270f2cf8aa2661",
+      "crc32": "03c7727a",
+      "sha1": "bfb6c5e565b06e8d7142888f6010cc0d01546963",
       "format": "Archive BitTorrent"
     },
     {
       "name": "truthout-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "0862af16fdbfc5bf932a6aa0f440adb5",
+      "md5": "9ad25b2fff641afbef36c1883ee7cdfb",
       "summation": "md5"
     },
     {
       "name": "truthout-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667680543",
-      "size": "2355200",
-      "md5": "dfbc27cbf40fb43c7907bebe56472dad",
-      "crc32": "86201dce",
-      "sha1": "c4767899cf10091701be4224c9bd5ce2027df9b0",
+      "mtime": "1667723895",
+      "size": "2367488",
+      "md5": "b8b3702a5b6d058a0b30dc3f58155733",
+      "crc32": "5aa51961",
+      "sha1": "9cd2a4b9408dcf0c463f2b65ea63fada56bb8b73",
       "format": "Metadata"
     },
     {
@@ -19346,9 +19401,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1870,
-  "item_last_updated": 1667680605,
-  "item_size": 110444007,
+  "files_count": 1875,
+  "item_last_updated": 1667723957,
+  "item_size": 110773168,
   "metadata": {
     "identifier": "truthout-2022",
     "collection": [
@@ -19370,7 +19425,7 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3463123305,
+      "task_id": 3463558515,
       "cmd": "derive.php",
       "priority": -6,
       "wait_admin": 1,
@@ -19378,7 +19433,7 @@
       "status": "running"
     }
   ],
-  "uniq": 931905828,
+  "uniq": 1093926039,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]

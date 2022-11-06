@@ -1,5 +1,5 @@
 {
-  "created": 1667658126,
+  "created": 1667702450,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/18/items/scsunnews-2022",
@@ -4920,31 +4920,41 @@
       "format": "JSON"
     },
     {
+      "name": "scsunnews-2022-11-05T20:39:54.770141-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667702400",
+      "size": "128",
+      "md5": "058fcaf6a224a14432a9cd4a765f2626",
+      "crc32": "fa0c154a",
+      "sha1": "b8643d9d82cd8da5519eb4c2ad4d7702fb7c644b",
+      "format": "JSON"
+    },
+    {
       "name": "scsunnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d60077d05ff61d79299b555d56df4b0dac176d57",
-      "mtime": "1667657163",
-      "size": "101856",
-      "md5": "097b498d074f148d1aefa4e2fda74bd6",
-      "crc32": "588d8872",
-      "sha1": "9e9b86cdeb8fef64f196cfa8e967962fe1ff5c88",
+      "btih": "da827fbb461761419e7fbcf073630c42c5329667",
+      "mtime": "1667702446",
+      "size": "102063",
+      "md5": "bb616f9e5e07e7e9bc9900acb9f22c5d",
+      "crc32": "bac33b6f",
+      "sha1": "642dd0b896690e16b7ea0b37779d0fb0e0d43bce",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scsunnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6c4c0ddb1ce029c98610bd1dfacf1fed",
+      "md5": "906e543e2710a9b8255f988babbca774",
       "summation": "md5"
     },
     {
       "name": "scsunnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667657126",
+      "mtime": "1667702408",
       "size": "626688",
-      "md5": "d4b22d464b59f4fb5af35edbb93abb21",
-      "crc32": "63e5b121",
-      "sha1": "8945eded752030ebe4d85b693e7ad93010ab82f1",
+      "md5": "5ae8c350a3da0a1e511f1e92182c72ac",
+      "crc32": "ecb53623",
+      "sha1": "7082a672dc856b83b1ef8c4978914a883ef1d81b",
       "format": "Metadata"
     },
     {
@@ -4958,9 +4968,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 480,
-  "item_last_updated": 1667657163,
-  "item_size": 29248967,
+  "files_count": 481,
+  "item_last_updated": 1667702446,
+  "item_size": 29249302,
   "metadata": {
     "identifier": "scsunnews-2022",
     "collection": [
@@ -4977,10 +4987,21 @@
     "publicdate": "2022-09-21 02:24:53",
     "addeddate": "2022-09-21 02:24:53"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 1099858944,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463348169,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2044794767,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

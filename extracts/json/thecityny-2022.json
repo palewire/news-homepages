@@ -1,5 +1,5 @@
 {
-  "created": 1667676738,
+  "created": 1667717577,
   "d1": "ia601502.us.archive.org",
   "d2": "ia801502.us.archive.org",
   "dir": "/16/items/thecityny-2022",
@@ -16924,31 +16924,93 @@
       "sha1": "e0a966f7627d6bd56e86dc9e812046e975bce0f9"
     },
     {
+      "name": "thecityny-2022-11-06T00:43:44.239812-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667709847",
+      "size": "30114",
+      "md5": "e5007b37bf7268dce6b29253287a6615",
+      "crc32": "a3def002",
+      "sha1": "1f5389ba27ca015367e650f6dfd796ac473159d4",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-11-06T00:43:44.239812-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667709849",
+      "size": "38408",
+      "md5": "a61cbaff1a00a04760b6fdd3683b4b27",
+      "crc32": "7ca6a8f1",
+      "sha1": "4765efa44eabc545ccbe9ddff099c8d4dd44b496",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-11-06T00:43:44.239812-04:00.jpg",
+      "source": "original",
+      "mtime": "1667709845",
+      "size": "234845",
+      "md5": "ef931c209e9615149fedd0fde5eb095f",
+      "crc32": "56de2934",
+      "sha1": "fbfd887b1a4c28fdc4f085c64506ed89e46fcd80",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "thecityny-2022-11-06T00:43:44.239812-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667709850",
+      "size": "1456",
+      "md5": "12cb886ae00c43b9ff7d73c9669e2e09",
+      "crc32": "0a61e62a",
+      "sha1": "2885f4b66adbddb2b95ff328579cc0fe614283ec",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-11-06T00:43:44.239812-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667709857",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "thecityny-2022-11-06T00:43:44.239812-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "thecityny-2022-11-06T00:43:44.239812-04:00.jpg",
+      "mtime": "1667710809",
+      "size": "8939",
+      "md5": "d09adcb1f6635d3014cddc487a3055a0",
+      "crc32": "e0db4b21",
+      "sha1": "e0a966f7627d6bd56e86dc9e812046e975bce0f9"
+    },
+    {
       "name": "thecityny-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0d61e2955898127eb04d8e124e0c97489283c9e3",
-      "mtime": "1667661240",
-      "size": "345362",
-      "md5": "d1ee925f7a94386443256c2944da2886",
-      "crc32": "9f971573",
-      "sha1": "2683c28e6a2d7f70592a162f9410b92e87693e5b",
+      "btih": "f90b0274011d3a4a8b55333ad60a2ae70a3122f6",
+      "mtime": "1667710894",
+      "size": "346633",
+      "md5": "baa86c40ebf203e082e4cf253ff7d12b",
+      "crc32": "881abeca",
+      "sha1": "a7d9feaf3573116616d1a5af2d2d868c66960a8a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "thecityny-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "79928707b41c18301f089977e137dfee",
+      "md5": "c924e1a25e6ab5177c74cff26be547db",
       "summation": "md5"
     },
     {
       "name": "thecityny-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667660713",
-      "size": "2023424",
-      "md5": "cc73c689cad1eebbb5adcd9e23e10580",
-      "crc32": "13b2b4c8",
-      "sha1": "f3b576654c27a8244f39bd16a339fbcc68635637",
+      "mtime": "1667709862",
+      "size": "2031616",
+      "md5": "92c008da0c06110c87c36c9332b27f1c",
+      "crc32": "723270bc",
+      "sha1": "dc9c24f7efab14a62cbaee743bd36af93db7b6b5",
       "format": "Metadata"
     },
     {
@@ -16962,9 +17024,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1634,
-  "item_last_updated": 1667661240,
-  "item_size": 102920822,
+  "files_count": 1640,
+  "item_last_updated": 1667710894,
+  "item_size": 103244249,
   "metadata": {
     "identifier": "thecityny-2022",
     "collection": [
@@ -16987,7 +17049,7 @@
     "status": "error",
     "status_ext": "error:user-session-limit"
   },
-  "uniq": 2142952753,
+  "uniq": 1805243617,
   "workable_servers": [
     "ia801502.us.archive.org",
     "ia601502.us.archive.org"

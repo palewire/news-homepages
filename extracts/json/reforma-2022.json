@@ -1,5 +1,5 @@
 {
-  "created": 1667675882,
+  "created": 1667702544,
   "d1": "ia904706.us.archive.org",
   "d2": "ia804706.us.archive.org",
   "dir": "/11/items/reforma-2022",
@@ -10144,31 +10144,82 @@
       "sha1": "6ea8864e3937815fc0db06dceddd4a841bd30382"
     },
     {
+      "name": "reforma-2022-11-05T20:41:20.937981-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667702489",
+      "size": "1028",
+      "md5": "c05cb5d38ecdf2b7eef98d28a7899bf2",
+      "crc32": "16a2c2f6",
+      "sha1": "9cafcbf2cb26f0749f190c5a75f0499c22e688c3",
+      "format": "JSON"
+    },
+    {
+      "name": "reforma-2022-11-05T20:41:20.937981-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667702490",
+      "size": "36066",
+      "md5": "0b59ea5c3275c4feca00c2a660648efd",
+      "crc32": "d9c2fcfb",
+      "sha1": "47a96e1efb4b137a89ad38ad9c021b3e2db276d0",
+      "format": "JSON"
+    },
+    {
+      "name": "reforma-2022-11-05T20:41:20.937981-06:00.jpg",
+      "source": "original",
+      "mtime": "1667702487",
+      "size": "316865",
+      "md5": "9451f13d5995b9bcfd2206152c054d81",
+      "crc32": "c787f563",
+      "sha1": "185eb7299b5fc9c277284e675d081be5cfda3d4c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reforma-2022-11-05T20:41:20.937981-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667702492",
+      "size": "1441",
+      "md5": "8db35973904d3dd506aba95f6725cc22",
+      "crc32": "c5873088",
+      "sha1": "5bf76ba6fd781f38798f0279e91424ee7255afc1",
+      "format": "JSON"
+    },
+    {
+      "name": "reforma-2022-11-05T20:41:20.937981-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667702493",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "reforma-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88fad0f0a90c7f9458fe453b8706be89a5e1ced3",
-      "mtime": "1667659035",
-      "size": "206435",
-      "md5": "7a10947f932202d4750e15c39b25b1be",
-      "crc32": "43a1df1b",
-      "sha1": "2d56a17c32799093b9f365c46573271887186910",
+      "btih": "0a2c1fd70512ed5b4898a15aca303ac08e03713a",
+      "mtime": "1667702541",
+      "size": "207470",
+      "md5": "ef1f9a902c608142bd55c13ac478f8ee",
+      "crc32": "be5af9c0",
+      "sha1": "9763c8b66a17c8dfa1949faac2961126a53966e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reforma-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1703a78c640dfa8c1dbc59bffb30673e",
+      "md5": "e3988914e616bfd0277cb414934289c6",
       "summation": "md5"
     },
     {
       "name": "reforma-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667657151",
-      "size": "1257472",
-      "md5": "74c6b1076cd8a645a326166d0317375a",
-      "crc32": "2b830979",
-      "sha1": "ac105ae6a9dfc906f79e29406ebe98b3a16e03e4",
+      "mtime": "1667702500",
+      "size": "1265664",
+      "md5": "d4be3166f195241a52795a38b7e2ed5f",
+      "crc32": "514e2657",
+      "sha1": "69dea97ed5f36ecd0b376e66181f8be9d0ce05eb",
       "format": "Metadata"
     },
     {
@@ -10182,9 +10233,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 985,
-  "item_last_updated": 1667659035,
-  "item_size": 60129315,
+  "files_count": 990,
+  "item_last_updated": 1667702541,
+  "item_size": 60494144,
   "metadata": {
     "identifier": "reforma-2022",
     "collection": [
@@ -10201,15 +10252,21 @@
     "publicdate": "2022-08-16 17:11:28",
     "addeddate": "2022-08-16 17:11:28"
   },
-  "reforma-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia804706.us.archive.org",
-  "uniq": 1333602924,
+  "pending_tasks": true,
+  "server": "ia904706.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463349291,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 913824225,
   "workable_servers": [
-    "ia804706.us.archive.org",
     "ia904706.us.archive.org"
   ]
 }

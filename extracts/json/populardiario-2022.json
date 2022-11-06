@@ -1,5 +1,5 @@
 {
-  "created": 1667678115,
+  "created": 1667724508,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/28/items/populardiario-2022",
@@ -10846,31 +10846,82 @@
       "sha1": "566ab3a5d03a2095f8801d6d8dbc8f7e8885fc25"
     },
     {
+      "name": "populardiario-2022-11-06T05:47:21.492241-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667724449",
+      "size": "58623",
+      "md5": "8cb6072307cd8285c05cde89131d20a6",
+      "crc32": "f2b4471f",
+      "sha1": "9ae7e60d1b9f5438c223e5c1b458ebc0f9c7bfd9",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-11-06T05:47:21.492241-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667724450",
+      "size": "96521",
+      "md5": "8b0497d2d22a23cb7695992166e3371b",
+      "crc32": "5a3689dc",
+      "sha1": "7513c5083e76c067ded83b44af5d4b7752bc91f0",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-11-06T05:47:21.492241-03:00.jpg",
+      "source": "original",
+      "mtime": "1667724447",
+      "size": "332441",
+      "md5": "1f39261222df2def945f68f76e6adfd6",
+      "crc32": "ae66acaf",
+      "sha1": "04dfcaea4eb2806c804c8c7a1ecae22fb221aaeb",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "populardiario-2022-11-06T05:47:21.492241-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667724452",
+      "size": "1546",
+      "md5": "5a5e8a836ad828df1943ff3554da577f",
+      "crc32": "bfb1e364",
+      "sha1": "a23ca37e7e6fe5e3ba1825f874eaf1a7f40b88db",
+      "format": "JSON"
+    },
+    {
+      "name": "populardiario-2022-11-06T05:47:21.492241-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667724453",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "populardiario-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0768eb14ef29586cf5aed204dd3ecee94dfabdc5",
-      "mtime": "1667678102",
-      "size": "228325",
-      "md5": "1261171a5500ddfa0fbdb0748252c6a2",
-      "crc32": "655f7916",
-      "sha1": "51e4b4f6c427f8c19b935c3a36cefd54f6c023e5",
+      "btih": "384280bfff846bfb0646bc322128700591e544e4",
+      "mtime": "1667724503",
+      "size": "229411",
+      "md5": "4b7ab8933b250d1c863eb3d4f7f49786",
+      "crc32": "fda3e42e",
+      "sha1": "7efa288ff638d2011c77f1447899c6e7a0196a8a",
       "format": "Archive BitTorrent"
     },
     {
       "name": "populardiario-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "9cd46e66adea614ee3f317a2fd760ce5",
+      "md5": "73c124e8f17fa565e67ca86233d3bb03",
       "summation": "md5"
     },
     {
       "name": "populardiario-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667677104",
-      "size": "1351680",
-      "md5": "bc2c1ae45ff27df61d8c4ca4420cd6ed",
-      "crc32": "a1c9650f",
-      "sha1": "7e715dacbacbbc8c013c4ec245feda097cb6672b",
+      "mtime": "1667724458",
+      "size": "1363968",
+      "md5": "d334c3372c159da014bbab86d4b955d3",
+      "crc32": "77d871c2",
+      "sha1": "bccff0ba860c55b890a34a8013f2b1c7ebd32463",
       "format": "Metadata"
     },
     {
@@ -10884,9 +10935,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1053,
-  "item_last_updated": 1667678102,
-  "item_size": 93168013,
+  "files_count": 1058,
+  "item_last_updated": 1667724503,
+  "item_size": 93670720,
   "metadata": {
     "identifier": "populardiario-2022",
     "collection": [
@@ -10903,10 +10954,21 @@
     "publicdate": "2022-08-09 17:48:48",
     "addeddate": "2022-08-09 17:48:48"
   },
-  "server": "ia801403.us.archive.org",
-  "uniq": 1916483661,
+  "pending_tasks": true,
+  "server": "ia601403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463562564,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1167646731,
   "workable_servers": [
-    "ia801403.us.archive.org",
     "ia601403.us.archive.org"
   ]
 }

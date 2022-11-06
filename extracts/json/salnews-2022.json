@@ -1,5 +1,5 @@
 {
-  "created": 1667678342,
+  "created": 1667724649,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/31/items/salnews-2022",
@@ -5762,31 +5762,82 @@
       "sha1": "4fabf2ca053bc9177815ec96eabe2f695f124cae"
     },
     {
+      "name": "salnews-2022-11-06T01:49:44.819860-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667724589",
+      "size": "20047",
+      "md5": "837d63d7270a0a247f3464c44620855b",
+      "crc32": "979c03f9",
+      "sha1": "7e1c4bb2f002d3c4ff808bc0d79cd4fa0c46b38b",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-11-06T01:49:44.819860-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667724591",
+      "size": "42266",
+      "md5": "941e8d7c7cf5abe08c8573bdbd794f24",
+      "crc32": "bfce6a36",
+      "sha1": "9ec2b3e2c3fdfe79e1a3de812693a6d7e4b1266a",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-11-06T01:49:44.819860-07:00.jpg",
+      "source": "original",
+      "mtime": "1667724588",
+      "size": "218688",
+      "md5": "366407ea6368047133e15c312ded1744",
+      "crc32": "f18ec329",
+      "sha1": "aea564a245cd712f857a0d88515ca0bc758b0d99",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "salnews-2022-11-06T01:49:44.819860-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667724593",
+      "size": "1530",
+      "md5": "9ac120ee08b3447317191844324d2494",
+      "crc32": "36cc2403",
+      "sha1": "d47871fe7141813c561593455d61b379e7704035",
+      "format": "JSON"
+    },
+    {
+      "name": "salnews-2022-11-06T01:49:44.819860-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667724595",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "salnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "79bf92b452732ea201275035ebe8d6fbb73081e8",
-      "mtime": "1667678315",
-      "size": "117820",
-      "md5": "3cf68fcb78716e9f164214468e6ae964",
-      "crc32": "2a0c6610",
-      "sha1": "b9f51548abbe62095b78347a9539729f946e9567",
+      "btih": "b96fefbed56a1909fb61c9533711dc0b45725db5",
+      "mtime": "1667724644",
+      "size": "118856",
+      "md5": "c88fd08ae42e512d2067a0514e03322e",
+      "crc32": "dad4b232",
+      "sha1": "40a2fbee3ca5111a55f53060750a96ab1cc8aed5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "salnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dad5fa314296bc83c36e87d7ba595771",
+      "md5": "0a96a8e02d9f83a8a9e01fc8614ff240",
       "summation": "md5"
     },
     {
       "name": "salnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667677330",
-      "size": "724992",
-      "md5": "6fc0dc3e802c34e690767ecfaf131606",
-      "crc32": "266f3f44",
-      "sha1": "97e06fd8c61a20521ae852e5372ae961fb72ee65",
+      "mtime": "1667724599",
+      "size": "729088",
+      "md5": "e1255944b6fe8bbaa038c842b3e88b55",
+      "crc32": "f837785a",
+      "sha1": "3e6c94858a41c3cf214046e5962bd5a8ddf3b08c",
       "format": "Metadata"
     },
     {
@@ -5800,9 +5851,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 561,
-  "item_last_updated": 1667678315,
-  "item_size": 34420494,
+  "files_count": 566,
+  "item_last_updated": 1667724644,
+  "item_size": 34708359,
   "metadata": {
     "identifier": "salnews-2022",
     "collection": [
@@ -5819,10 +5870,21 @@
     "publicdate": "2022-09-20 19:23:48",
     "addeddate": "2022-09-20 19:23:48"
   },
-  "server": "ia801409.us.archive.org",
-  "uniq": 139210332,
+  "pending_tasks": true,
+  "server": "ia601409.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463563830,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 70442656,
   "workable_servers": [
-    "ia801409.us.archive.org",
     "ia601409.us.archive.org"
   ]
 }

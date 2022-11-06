@@ -1,5 +1,5 @@
 {
-  "created": 1667671162,
+  "created": 1667724164,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/12/items/lesoir-2022",
@@ -12308,31 +12308,93 @@
       "sha1": "91200fc06149e74570ef95ee42bf44c6a2b8cc9c"
     },
     {
+      "name": "lesoir-2022-11-06T07:57:14.907455+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667717838",
+      "size": "69381",
+      "md5": "fc714a69c128e73c8262f9cb6aa99090",
+      "crc32": "a74fe426",
+      "sha1": "6c6b8ff9bdd22aed5ff7e856b14d29cc8f0ebfa4",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-11-06T07:57:14.907455+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667717840",
+      "size": "72917",
+      "md5": "ca81ec9f7eb3bba64668b7544af83c01",
+      "crc32": "646cc9a4",
+      "sha1": "2e4a153819c76d9e9a8256348148680112a8f54f",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-11-06T07:57:14.907455+01:00.jpg",
+      "source": "original",
+      "mtime": "1667717837",
+      "size": "258380",
+      "md5": "d6660910d6435462779ffba69b460a45",
+      "crc32": "ee266ffe",
+      "sha1": "ca4c540d67aa4d9e2cddc80ddb9397b04fd3598c",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "lesoir-2022-11-06T07:57:14.907455+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667717843",
+      "size": "1449",
+      "md5": "529df3eabe8dce8481951d496fb8812d",
+      "crc32": "6ead4157",
+      "sha1": "6c2a1b67a95f1643d12a6c54a3cf26251610065a",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-11-06T07:57:14.907455+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667717845",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "lesoir-2022-11-06T07:57:14.907455+01:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "lesoir-2022-11-06T07:57:14.907455+01:00.jpg",
+      "mtime": "1667718808",
+      "size": "9128",
+      "md5": "c4532439fb2016c6d441560bfcfd2704",
+      "crc32": "b6bad3d1",
+      "sha1": "51304d173fa6ec02aa7caaace06b6fb46dcd84f5"
+    },
+    {
       "name": "lesoir-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0fe1242be672e30b6da13d29eeb839514ca5e0fe",
-      "mtime": "1667671131",
-      "size": "249439",
-      "md5": "32ebda324eed0d9df3d9df32160f05d3",
-      "crc32": "33b35bc3",
-      "sha1": "35d2ed0153f73368f05e836de90d15eee6cda4c1",
+      "btih": "68399e9eed2f2b513773d665b466ad0832103dc4",
+      "mtime": "1667718891",
+      "size": "250692",
+      "md5": "2940c79cbaff900ec79b9c7ec36e130d",
+      "crc32": "3e5cdec3",
+      "sha1": "39904fa5224304b4f3bfbeeb49be0afc408466d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "lesoir-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "fb9788c649106a166b4616f8999bd3fa",
+      "md5": "a597ac52f02a3387eb577b791431c447",
       "summation": "md5"
     },
     {
       "name": "lesoir-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667670919",
-      "size": "1515520",
-      "md5": "0ed7dd6474a5c77d0fda0ded18885d68",
-      "crc32": "a9787392",
-      "sha1": "880e10525b7d5ecfbd2cdd4ea2f24b43b123ed2d",
+      "mtime": "1667717853",
+      "size": "1523712",
+      "md5": "50b146ac7d24c4fa7bd11a4f869250fe",
+      "crc32": "6c19f643",
+      "sha1": "3ebda851543caa15494ec879b972fcec4b2f505a",
       "format": "Metadata"
     },
     {
@@ -12346,9 +12408,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1194,
-  "item_last_updated": 1667671131,
-  "item_size": 85156506,
+  "files_count": 1200,
+  "item_last_updated": 1667718891,
+  "item_size": 85577408,
+  "lesoir-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "lesoir-2022",
     "collection": [
@@ -12366,7 +12433,7 @@
     "addeddate": "2022-07-26 02:47:01"
   },
   "server": "ia802505.us.archive.org",
-  "uniq": 368492789,
+  "uniq": 240682555,
   "workable_servers": [
     "ia802505.us.archive.org",
     "ia902505.us.archive.org"

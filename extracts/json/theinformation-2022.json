@@ -1,5 +1,5 @@
 {
-  "created": 1667680585,
+  "created": 1667723964,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/17/items/theinformation-2022",
@@ -14900,31 +14900,82 @@
       "sha1": "6d0c0fe9e41b64cbd3cf03fa14e3dd33d31de025"
     },
     {
+      "name": "theinformation-2022-11-06T01:38:06.227208-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667723892",
+      "size": "12553",
+      "md5": "d57d3cfaed06b6bcbf27b47bbfbe3557",
+      "crc32": "841736ee",
+      "sha1": "40b2ab41baa41c3ffaf0e6aa21d5654725262078",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-11-06T01:38:06.227208-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667723894",
+      "size": "9479",
+      "md5": "0632c0abe9e9db265adcc8eea9f70a51",
+      "crc32": "c982fbbb",
+      "sha1": "4cf763f0962b96f270a09db8c8d91dd07bc024ff",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-11-06T01:38:06.227208-07:00.jpg",
+      "source": "original",
+      "mtime": "1667723891",
+      "size": "167886",
+      "md5": "76c3da16671a76722a5c65449524740c",
+      "crc32": "24232fa5",
+      "sha1": "935f8be1ad3cdf4b1896febd7e1874b138658b5b",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "theinformation-2022-11-06T01:38:06.227208-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667723896",
+      "size": "1531",
+      "md5": "ae70a3ff03bd089aa824b5fcf17822ec",
+      "crc32": "1f5e5527",
+      "sha1": "525a6e611fa2cd2afe20b8193240a3226ee913d2",
+      "format": "JSON"
+    },
+    {
+      "name": "theinformation-2022-11-06T01:38:06.227208-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667723898",
+      "size": "15090",
+      "md5": "f7fbff7b6e5e867c0dd40d866c52986a",
+      "crc32": "aaef58e5",
+      "sha1": "878fff1a28f24bb392431efc56a8e609767daabe",
+      "format": "JSON"
+    },
+    {
       "name": "theinformation-2022_archive.torrent",
       "source": "metadata",
-      "btih": "47378a4dd35cc597f1d1b4f4603b379647431fc4",
-      "mtime": "1667680239",
-      "size": "310350",
-      "md5": "0940d55e366f7ceb963323d8609ec8c6",
-      "crc32": "7194bc8c",
-      "sha1": "62015d78f16f8980d17a5624190114f88ffa0b1b",
+      "btih": "af6b5ba7081a1d58bf319070f65fe2287e05ec0e",
+      "mtime": "1667723956",
+      "size": "311422",
+      "md5": "649238687b4f49d6a795db3cae762f32",
+      "crc32": "056e678c",
+      "sha1": "667fab539237ea48b67a22bc874b4201d4e81383",
       "format": "Archive BitTorrent"
     },
     {
       "name": "theinformation-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "92c86d193ededeb1331b46dc802dd2a9",
+      "md5": "07773dcf81cc0f6e3752908efc7798b1",
       "summation": "md5"
     },
     {
       "name": "theinformation-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667679771",
-      "size": "1818624",
-      "md5": "958bdda5d4ee1163735b1aec519011f5",
-      "crc32": "b858d671",
-      "sha1": "364f0491a3bc36df6ac4fb07e68c60631ea13d6c",
+      "mtime": "1667723902",
+      "size": "1826816",
+      "md5": "df3cf355217ec76583eda735b201396e",
+      "crc32": "83cfaa4a",
+      "sha1": "a3a62846d5e5b5639005e4c4e8357661fce10035",
       "format": "Metadata"
     },
     {
@@ -14938,9 +14989,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1441,
-  "item_last_updated": 1667680239,
-  "item_size": 55928713,
+  "files_count": 1446,
+  "item_last_updated": 1667723956,
+  "item_size": 56144516,
   "metadata": {
     "identifier": "theinformation-2022",
     "collection": [
@@ -14957,10 +15008,21 @@
     "publicdate": "2022-07-04 20:17:35",
     "addeddate": "2022-07-04 20:17:35"
   },
-  "server": "ia801504.us.archive.org",
-  "uniq": 1183517340,
+  "pending_tasks": true,
+  "server": "ia601504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463558512,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 50895130,
   "workable_servers": [
-    "ia801504.us.archive.org",
     "ia601504.us.archive.org"
   ]
 }

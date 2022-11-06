@@ -1,5 +1,5 @@
 {
-  "created": 1667678407,
+  "created": 1667724700,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/34/items/revistapiaui-2022",
@@ -16180,31 +16180,82 @@
       "sha1": "b4b69a028671d43d6c5d1198400ca87b88b3cf2f"
     },
     {
+      "name": "revistapiaui-2022-11-06T05:49:43.731715-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667724603",
+      "size": "21497",
+      "md5": "0903573d4751cafe7c910b732df0f0a9",
+      "crc32": "6f13f972",
+      "sha1": "576ad0d0019b028d1749836e9d5ace7acf88f7fc",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-11-06T05:49:43.731715-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667724605",
+      "size": "30086",
+      "md5": "086a82ef8cdccbf7e0aaf4c8bf65951b",
+      "crc32": "c757b0cd",
+      "sha1": "d848275f4ece42292d733431899f7259cf00ed3b",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-11-06T05:49:43.731715-03:00.jpg",
+      "source": "original",
+      "mtime": "1667724601",
+      "size": "219059",
+      "md5": "8ddbcf3b7891e9ce13eb01fb1789c31c",
+      "crc32": "b3b704d1",
+      "sha1": "67300e10030ce3985497822a682f56d8ff5718ad",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "revistapiaui-2022-11-06T05:49:43.731715-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667724607",
+      "size": "1531",
+      "md5": "c981d86b9f3aba7d00de28d5dde7816e",
+      "crc32": "7ab7835e",
+      "sha1": "d42bf088bdf3246498f8f3a63c63491f912e7f20",
+      "format": "JSON"
+    },
+    {
+      "name": "revistapiaui-2022-11-06T05:49:43.731715-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667724609",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "revistapiaui-2022_archive.torrent",
       "source": "metadata",
-      "btih": "10ca22c96ba3dc0108e1aac9867a2d831c5f8ee0",
-      "mtime": "1667678345",
-      "size": "336096",
-      "md5": "7aa9cbbbf0c9d084f72ff4156cdba0e9",
-      "crc32": "af8220bd",
-      "sha1": "5b7dd8c191a8d38e37ca56093eff0db29437000f",
+      "btih": "9249c400c00a954db43f6723d07ca8d60063e278",
+      "mtime": "1667724687",
+      "size": "337157",
+      "md5": "ddb580d488029afcc430083d56462b7c",
+      "crc32": "ba926285",
+      "sha1": "c3d91b9e8286dd9752bd844998f1785f24e6ef70",
       "format": "Archive BitTorrent"
     },
     {
       "name": "revistapiaui-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4b8a16dccf8c8b0503a04e227be3052c",
+      "md5": "9903cb4fadaa469b59e3ae3f19ff6bbe",
       "summation": "md5"
     },
     {
       "name": "revistapiaui-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667677290",
-      "size": "2007040",
-      "md5": "201f03733d5a7a15bcb74983268e76ad",
-      "crc32": "464feb64",
-      "sha1": "6c0adfc9dbb7cc3706ace26889d0a21992e9c275",
+      "mtime": "1667724618",
+      "size": "2015232",
+      "md5": "83dd57438a8a2434f742f9c1aaa9ec56",
+      "crc32": "665b8912",
+      "sha1": "47aa76338f80b176c2aace15b1b6c6423812ae8a",
       "format": "Metadata"
     },
     {
@@ -16218,9 +16269,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1569,
-  "item_last_updated": 1667678345,
-  "item_size": 86888240,
+  "files_count": 1574,
+  "item_last_updated": 1667724687,
+  "item_size": 87169868,
   "metadata": {
     "identifier": "revistapiaui-2022",
     "collection": [
@@ -16237,10 +16288,21 @@
     "publicdate": "2022-08-07 19:43:52",
     "addeddate": "2022-08-07 19:43:52"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1476659428,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463564162,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 1023789386,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }

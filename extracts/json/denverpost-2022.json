@@ -1,12 +1,7 @@
 {
-  "created": 1667672555,
+  "created": 1667723548,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
-  "denverpost-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
   "dir": "/6/items/denverpost-2022",
   "files": [
     {
@@ -10365,31 +10360,155 @@
       "sha1": "f1680f21730f5e4411361edd7356eeedfeddce40"
     },
     {
+      "name": "denverpost-2022-11-05T13:21:18.959206-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667676082",
+      "size": "44832",
+      "md5": "994f9c86ef41d12954632a017b1c9780",
+      "crc32": "a9a2a8cf",
+      "sha1": "1398b7f2a21c888aa82c7049a934feb2c82070ef",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-11-05T13:21:18.959206-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667676085",
+      "size": "49465",
+      "md5": "d7e0ccf1dab376e56f1654042b536a7a",
+      "crc32": "b34b023a",
+      "sha1": "db696ac46cd919f5c41e5c464523a19012c13d70",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-11-05T13:21:18.959206-06:00.jpg",
+      "source": "original",
+      "mtime": "1667676080",
+      "size": "270776",
+      "md5": "3f712cd7a3631f1af54c475abd4cb1da",
+      "crc32": "00c559a7",
+      "sha1": "078992634f841a1780168612086fe58c1585a5d6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverpost-2022-11-05T13:21:18.959206-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667676088",
+      "size": "1495",
+      "md5": "6234370455bf691457e234e669819b7a",
+      "crc32": "8fd82580",
+      "sha1": "101e0343548f3050522d0f24199085f14ef9ec96",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-11-05T13:21:18.959206-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667676089",
+      "size": "51685",
+      "md5": "5b22abbf17d61527f401e46092f59615",
+      "crc32": "17a97af7",
+      "sha1": "229553cd2d068194dfd7f528c6ebcc0d893af28d",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-11-05T13:21:18.959206-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverpost-2022-11-05T13:21:18.959206-06:00.jpg",
+      "mtime": "1667677086",
+      "size": "9308",
+      "md5": "98edb2db81bb3b3cfc4ee50a1f28f7b1",
+      "crc32": "e3f65826",
+      "sha1": "f8d07e637ce98ad66faabdf744adfc286de8960e"
+    },
+    {
+      "name": "denverpost-2022-11-06T01:28:50.309799-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667723340",
+      "size": "44633",
+      "md5": "e96227a362af552178a431a5a6277d7f",
+      "crc32": "833d50fb",
+      "sha1": "b560ac40711bc54fbac666ca6711519c8e73187a",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-11-06T01:28:50.309799-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667723343",
+      "size": "57483",
+      "md5": "f8b22e36a266cfeec1f7b5a227c191ef",
+      "crc32": "06c4dda0",
+      "sha1": "44201db02bc15dbb9cbd26470a7da1407ba090a5",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-11-06T01:28:50.309799-07:00.jpg",
+      "source": "original",
+      "mtime": "1667723339",
+      "size": "296471",
+      "md5": "8b1f87bf99c29282df1ee51a752a5a06",
+      "crc32": "62622fad",
+      "sha1": "46b8130e31650783bb886df729917ec36339774d",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "denverpost-2022-11-06T01:28:50.309799-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667723344",
+      "size": "1495",
+      "md5": "b8f2e1fc44e034c15e05bc2b19350891",
+      "crc32": "e71948a6",
+      "sha1": "1692e30a9754134f810641cc491aabd84159156d",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-11-06T01:28:50.309799-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667723346",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "denverpost-2022-11-06T01:28:50.309799-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "denverpost-2022-11-06T01:28:50.309799-07:00.jpg",
+      "mtime": "1667723483",
+      "size": "9692",
+      "md5": "bee9b00df0aa41a40238ef35949c1556",
+      "crc32": "d7b35e1b",
+      "sha1": "0ec3d879bd3e169df8c39fce0ca6dc692a4ffa82"
+    },
+    {
       "name": "denverpost-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3091251e4e7df3a43be19a8eee4aa35bca3b9ac5",
-      "mtime": "1667626186",
-      "size": "214265",
-      "md5": "42d8d9cbab357d2807e7bfd61561ef52",
-      "crc32": "eca06d81",
-      "sha1": "43f4e053191777b54449412f872d83dafb3a239c",
+      "btih": "be30fbe7bd70a8c31d126b2ac404fa9f0f64c1de",
+      "mtime": "1667723510",
+      "size": "216821",
+      "md5": "2fc6d32e10a3e519c935f2a42118a9d9",
+      "crc32": "7a980364",
+      "sha1": "ae985b3888bd166823e670f2f9821ca48bd67212",
       "format": "Archive BitTorrent"
     },
     {
       "name": "denverpost-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1e3144d9f36006d4c3746353d9536f86",
+      "md5": "a4812a40f809bb6ef3156635d0dab173",
       "summation": "md5"
     },
     {
       "name": "denverpost-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667625732",
-      "size": "1290240",
-      "md5": "721b1045742c591a04c18af2b7eadd32",
-      "crc32": "88189c60",
-      "sha1": "9ffbcc124c8947dbf6874bda40fc63cc719fa9eb",
+      "mtime": "1667723352",
+      "size": "1306624",
+      "md5": "506e7aacf676170272e178394cc85853",
+      "crc32": "9c86af6a",
+      "sha1": "dce5dcadbcf2c1495bb0d6421d87499312536411",
       "format": "Metadata"
     },
     {
@@ -10403,9 +10522,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1006,
-  "item_last_updated": 1667626186,
-  "item_size": 71865501,
+  "files_count": 1018,
+  "item_last_updated": 1667723510,
+  "item_size": 72721978,
   "metadata": {
     "identifier": "denverpost-2022",
     "collection": [
@@ -10422,10 +10541,10 @@
     "publicdate": "2022-08-14 06:42:22",
     "addeddate": "2022-08-14 06:42:22"
   },
-  "server": "ia601505.us.archive.org",
-  "uniq": 580105460,
+  "server": "ia801505.us.archive.org",
+  "uniq": 2034784945,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia801505.us.archive.org",
+    "ia601505.us.archive.org"
   ]
 }

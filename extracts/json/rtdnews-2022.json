@@ -1,5 +1,5 @@
 {
-  "created": 1667676051,
+  "created": 1667702500,
   "d1": "ia904709.us.archive.org",
   "d2": "ia804709.us.archive.org",
   "dir": "/7/items/rtdnews-2022",
@@ -12466,31 +12466,72 @@
       "sha1": "586aa2ebb9f0977d1bb6361038a3599ac6d98450"
     },
     {
+      "name": "rtdnews-2022-11-05T22:40:13.810564-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667702443",
+      "size": "26307",
+      "md5": "17e1e46affe950d1f5c7fe8b7ae643e7",
+      "crc32": "7ae04bff",
+      "sha1": "97494b2b1a0c7e85c50c896bf826aca679968ec6",
+      "format": "JSON"
+    },
+    {
+      "name": "rtdnews-2022-11-05T22:40:13.810564-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667702445",
+      "size": "78270",
+      "md5": "e6d1631451a376c5d8e6a37bca39703a",
+      "crc32": "02e4d527",
+      "sha1": "fdcb7a02e032b490a27e35604480a609d20c75b9",
+      "format": "JSON"
+    },
+    {
+      "name": "rtdnews-2022-11-05T22:40:13.810564-04:00.jpg",
+      "source": "original",
+      "mtime": "1667702441",
+      "size": "330024",
+      "md5": "7a99bb8847ff8e3deab2a721f61000be",
+      "crc32": "2fa4d366",
+      "sha1": "a5933926d6f7b6b3acdaa04c4a7e795b2c91904a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rtdnews-2022-11-05T22:40:13.810564-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667702446",
+      "size": "1441",
+      "md5": "3e18361ba8882d5c4d2e16f6476af921",
+      "crc32": "b891cf5a",
+      "sha1": "2cb125c7274e29bfc56b285e0877a67d4d503a26",
+      "format": "JSON"
+    },
+    {
       "name": "rtdnews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "12d318ce6c4576a98bc0ecf09ccaf4fa0d742124",
-      "mtime": "1667658235",
-      "size": "254310",
-      "md5": "b93578f2f30a1029e2806bce9f8b24fa",
-      "crc32": "43673441",
-      "sha1": "5b441fb7ed6325d9b210b55c1f7daed5952f8aa8",
+      "btih": "b85f47a242d9497ba031fa6a5d148cef84df984e",
+      "mtime": "1667702496",
+      "size": "255161",
+      "md5": "e12cddcdfb65d11a2c30d8cfb0411810",
+      "crc32": "254241a5",
+      "sha1": "e12adc2237aab211c7235244367d6e5d3dae5372",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rtdnews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2a525bccfb2e987daed175bc4a184c2b",
+      "md5": "e834afcbcc42adfd4238a642773ac762",
       "summation": "md5"
     },
     {
       "name": "rtdnews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667657122",
-      "size": "1531904",
-      "md5": "7695cdb7deee84fe9808f7e12fe60e06",
-      "crc32": "e859f2f9",
-      "sha1": "069322a18ed6adfe27866f2fdbbcfadc375ed7ef",
+      "mtime": "1667702451",
+      "size": "1540096",
+      "md5": "cc5b7f71ef8acd68dab48d4b014c4e9f",
+      "crc32": "587ccb50",
+      "sha1": "9a1ecb1d3805c89400394dd40365616476822c27",
       "format": "Metadata"
     },
     {
@@ -12504,9 +12545,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1209,
-  "item_last_updated": 1667658235,
-  "item_size": 95054359,
+  "files_count": 1213,
+  "item_last_updated": 1667702496,
+  "item_size": 95499444,
   "metadata": {
     "identifier": "rtdnews-2022",
     "collection": [
@@ -12523,15 +12564,21 @@
     "publicdate": "2022-07-26 00:24:52",
     "addeddate": "2022-07-26 00:24:52"
   },
-  "rtdnews-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
   "server": "ia904709.us.archive.org",
-  "uniq": 1260897401,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463348693,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 2019443529,
   "workable_servers": [
-    "ia904709.us.archive.org",
-    "ia804709.us.archive.org"
+    "ia904709.us.archive.org"
   ]
 }

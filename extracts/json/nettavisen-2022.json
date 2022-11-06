@@ -1,5 +1,5 @@
 {
-  "created": 1667674793,
+  "created": 1667702166,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/32/items/nettavisen-2022",
@@ -13070,31 +13070,72 @@
       "sha1": "7ca1dde83237067fbf59137a058d4d6bb6b870d7"
     },
     {
+      "name": "nettavisen-2022-11-06T03:33:28.155972+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667702053",
+      "size": "21673",
+      "md5": "fad09b64adfa7de43835fc366d4c605a",
+      "crc32": "77d47d7f",
+      "sha1": "95961829408a2d2c0dca9c29a34dfb4021744822",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-11-06T03:33:28.155972+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667702054",
+      "size": "31436",
+      "md5": "35aecd8bc9c5b6a078c5590d468c5427",
+      "crc32": "507ada79",
+      "sha1": "fa7efb66670d0b7971205561f56e4987036ae192",
+      "format": "JSON"
+    },
+    {
+      "name": "nettavisen-2022-11-06T03:33:28.155972+01:00.jpg",
+      "source": "original",
+      "mtime": "1667702051",
+      "size": "248416",
+      "md5": "dd41dee2d7195b532e18cf6e232f2775",
+      "crc32": "c37fee70",
+      "sha1": "366fe262d1bc3520962b93ec0192ffe8765f9d5a",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nettavisen-2022-11-06T03:33:28.155972+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667702056",
+      "size": "1486",
+      "md5": "d004459adf6d38a1f7b154df1622e075",
+      "crc32": "61e61539",
+      "sha1": "91068a8ce50f9e448529ef30be640b8864dff4b5",
+      "format": "JSON"
+    },
+    {
       "name": "nettavisen-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98dcfa039badc2e74aa8a4b9b820cf874db87553",
-      "mtime": "1667657829",
-      "size": "269759",
-      "md5": "22188c90e7ca13900e53f286f4fcb2bf",
-      "crc32": "52bb7524",
-      "sha1": "97c0665475e24455ad1e2ffa6695483c791b2f37",
+      "btih": "6dea6873772d0d3844fa9c0559bc2f11e1cca42c",
+      "mtime": "1667702152",
+      "size": "270622",
+      "md5": "b08bfdb2b4fcce9980b99f281443140d",
+      "crc32": "a2e3f931",
+      "sha1": "a7ff2f1e6a77b83ec2d8144bd0bc247ed2a26052",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nettavisen-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "f916659f438e44da92e5ee09fedf2514",
+      "md5": "309285282ca3b423a37b7a061e0bd6e4",
       "summation": "md5"
     },
     {
       "name": "nettavisen-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667656797",
-      "size": "1613824",
-      "md5": "34c7a86043e93d6c5db6dd653edae19d",
-      "crc32": "5d403253",
-      "sha1": "b205cd644abc64f0c14a73e3b48747c086691c29",
+      "mtime": "1667702078",
+      "size": "1617920",
+      "md5": "2f7d54fbf3cfa16ae3810f8f80d098fd",
+      "crc32": "8b2f260e",
+      "sha1": "d76c413187fc542b22beb12d2acadcfcf833b263",
       "format": "Metadata"
     },
     {
@@ -13108,9 +13149,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1267,
-  "item_last_updated": 1667657829,
-  "item_size": 86756839,
+  "files_count": 1271,
+  "item_last_updated": 1667702152,
+  "item_size": 87064809,
   "metadata": {
     "identifier": "nettavisen-2022",
     "collection": [
@@ -13127,18 +13168,21 @@
     "publicdate": "2022-07-20 11:37:15",
     "addeddate": "2022-07-20 11:37:15"
   },
-  "nettavisen-2022": {
-    "url": "https://www.nettavisen.no/",
-    "job_id": "spn2-f599dcd1d527b7f6ba5caa564805b25afaa37072",
-    "status": "error",
-    "status_ext": "error:job-failed",
-    "resources": [],
-    "message": "Job failed."
-  },
-  "server": "ia801503.us.archive.org",
-  "uniq": 867613877,
+  "pending_tasks": true,
+  "server": "ia601503.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463345159,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 380714304,
   "workable_servers": [
-    "ia801503.us.archive.org",
     "ia601503.us.archive.org"
   ]
 }
