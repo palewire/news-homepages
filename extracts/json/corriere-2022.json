@@ -1,10 +1,5 @@
 {
-  "corriere-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667672134,
+  "created": 1667692487,
   "d1": "ia902500.us.archive.org",
   "d2": "ia802500.us.archive.org",
   "dir": "/20/items/corriere-2022",
@@ -10923,31 +10918,82 @@
       "sha1": "48a90ebd2a9a7c97ae81bae2380b4ed6d1816746"
     },
     {
+      "name": "corriere-2022-11-06T00:53:30.627313+01:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667692424",
+      "size": "127578",
+      "md5": "d73d3178500f11f00dbf3d85f583f936",
+      "crc32": "310dbaaf",
+      "sha1": "424abb0c80ce402f17703197a45621878bf0d44a",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-11-06T00:53:30.627313+01:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667692431",
+      "size": "210131",
+      "md5": "7195af2bee3e7647a1f0599a170df65e",
+      "crc32": "aee49d2b",
+      "sha1": "41e8c9b17eec1f1a7ebd3654f6324ceaf017c8ca",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-11-06T00:53:30.627313+01:00.jpg",
+      "source": "original",
+      "mtime": "1667692423",
+      "size": "139107",
+      "md5": "e471ca85823d1a8bc0198f0d4fd59604",
+      "crc32": "572646c3",
+      "sha1": "76b9e188a848f1f2b6aebdee48a57a5ced57b123",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "corriere-2022-11-06T00:53:30.627313+01:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667692432",
+      "size": "1468",
+      "md5": "7226c0503a43ea1eca023dda78b8dc5d",
+      "crc32": "946b0e97",
+      "sha1": "d5bb894114d6f3d0be890415b7902474a41c5e75",
+      "format": "JSON"
+    },
+    {
+      "name": "corriere-2022-11-06T00:53:30.627313+01:00.wayback.json",
+      "source": "original",
+      "mtime": "1667692434",
+      "size": "249",
+      "md5": "5c203de0d637e243503b8f4d4d3b32bb",
+      "crc32": "0df8a43f",
+      "sha1": "e37627da0afcd05c19350482931b0465f225e057",
+      "format": "JSON"
+    },
+    {
       "name": "corriere-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f2bc8ce0e9d6d18dc90f25cb3c6edb548c41e62c",
-      "mtime": "1667649742",
-      "size": "224812",
-      "md5": "910149bdce6e8e1eeb24e839f2b6294c",
-      "crc32": "59b546ea",
-      "sha1": "c3f80e6ac94e834ddec1cd844be83709adfb92ce",
+      "btih": "6a259f4329e30f11962a9a2bd6a4056a96bde8b8",
+      "mtime": "1667692483",
+      "size": "225875",
+      "md5": "831e65d9da477505d4270d8f89f0fad7",
+      "crc32": "2358494a",
+      "sha1": "50afe6970dbd02970b547f8cedb2b9a22e3fa5bc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "corriere-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eae7e40fc4c42b5f0fcd744eec5f4f2d",
+      "md5": "f8f19595f567b36d0036cf3eee039112",
       "summation": "md5"
     },
     {
       "name": "corriere-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667649370",
-      "size": "1351680",
-      "md5": "66c25277a434e3c22fcc38105489b1c4",
-      "crc32": "1a2f93d3",
-      "sha1": "1012052e64e59eed025c610987ed14cc9d926265",
+      "mtime": "1667692439",
+      "size": "1359872",
+      "md5": "58e11cd7ddf7bba4f56512b017d6bad8",
+      "crc32": "ad17edca",
+      "sha1": "61c2f5cb45b1a52c7142983af5573d8b13bec846",
       "format": "Metadata"
     },
     {
@@ -10961,9 +11007,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1060,
-  "item_last_updated": 1667649742,
-  "item_size": 97425480,
+  "files_count": 1065,
+  "item_last_updated": 1667692483,
+  "item_size": 97913268,
   "metadata": {
     "identifier": "corriere-2022",
     "collection": [
@@ -10980,10 +11026,21 @@
     "publicdate": "2022-08-11 00:42:02",
     "addeddate": "2022-08-11 00:42:02"
   },
+  "pending_tasks": true,
   "server": "ia902500.us.archive.org",
-  "uniq": 1664625142,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463241184,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1763813957,
   "workable_servers": [
-    "ia902500.us.archive.org",
-    "ia802500.us.archive.org"
+    "ia902500.us.archive.org"
   ]
 }

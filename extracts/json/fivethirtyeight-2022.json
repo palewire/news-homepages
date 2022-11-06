@@ -1,5 +1,5 @@
 {
-  "created": 1667672934,
+  "created": 1667692699,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/25/items/fivethirtyeight-2022",
@@ -16804,31 +16804,82 @@
       "sha1": "f683bf6ebefb35af1507912e5b90ddc5ee5107db"
     },
     {
+      "name": "fivethirtyeight-2022-11-05T19:56:39.028536-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667692609",
+      "size": "19717",
+      "md5": "757f9b8eea4d6e78e5caeab8838d2437",
+      "crc32": "3dc07365",
+      "sha1": "2fd976433174beb231086d41e96138ca9e6d05d3",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-11-05T19:56:39.028536-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667692610",
+      "size": "21366",
+      "md5": "71dfb53dc28364246db3f2ff778de818",
+      "crc32": "dd8aec04",
+      "sha1": "ac5b0f2b0a502411189b24c1427b3e74cf12d39d",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-11-05T19:56:39.028536-04:00.jpg",
+      "source": "original",
+      "mtime": "1667692607",
+      "size": "267790",
+      "md5": "1205146e19bdb6c0ce823b8d841f640a",
+      "crc32": "96b94350",
+      "sha1": "ca2912c65a57304c961b802cbfc5f3a03791b919",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "fivethirtyeight-2022-11-05T19:56:39.028536-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667692612",
+      "size": "1504",
+      "md5": "dce7f60110f958b9a3051d6270f8fed8",
+      "crc32": "50eaf70a",
+      "sha1": "d0e7df21f96eca4b2a9eb606760c709056344245",
+      "format": "JSON"
+    },
+    {
+      "name": "fivethirtyeight-2022-11-05T19:56:39.028536-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667692614",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "fivethirtyeight-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7f6761f5a2256c9a1efcc1d8e76dc15a7c100b3f",
-      "mtime": "1667649885",
-      "size": "352888",
-      "md5": "9b17d8d157d09d398d233588f959c510",
-      "crc32": "231c7deb",
-      "sha1": "8672952be5a592445b275a45cc16a3fa508c22e3",
+      "btih": "9a04a8c489569c97731d4c43ee3c775145773c2a",
+      "mtime": "1667692691",
+      "size": "353964",
+      "md5": "b68dbd1fa67e990e761f0e0dc64240ef",
+      "crc32": "604030a4",
+      "sha1": "96934f1dc16d6f395446f2caebba08cece5e26af",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fivethirtyeight-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cf8b103c3465ff86a01c66e2723b978c",
+      "md5": "a83ae7a602947853785bc0751071df6d",
       "summation": "md5"
     },
     {
       "name": "fivethirtyeight-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667649500",
-      "size": "2031616",
-      "md5": "1b824f647183a6e623d0a4c7865fd49e",
-      "crc32": "13860c84",
-      "sha1": "25b8d96c5800c91a4945ac7a109cb0739739210b",
+      "mtime": "1667692623",
+      "size": "2039808",
+      "md5": "799df1ca0f2500c1deb02c7aeee412f1",
+      "crc32": "ed562b06",
+      "sha1": "73fe55603f47f89aa2da2f004951e212b7ef790c",
       "format": "Metadata"
     },
     {
@@ -16842,14 +16893,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1623,
-  "fivethirtyeight-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "item_last_updated": 1667649885,
-  "item_size": 103818219,
+  "files_count": 1628,
+  "item_last_updated": 1667692691,
+  "item_size": 104138066,
   "metadata": {
     "identifier": "fivethirtyeight-2022",
     "collection": [
@@ -16866,10 +16912,21 @@
     "publicdate": "2022-06-19 23:24:21",
     "addeddate": "2022-06-19 23:24:21"
   },
-  "server": "ia801501.us.archive.org",
-  "uniq": 1360940443,
+  "pending_tasks": true,
+  "server": "ia601501.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463243095,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 634920349,
   "workable_servers": [
-    "ia801501.us.archive.org",
     "ia601501.us.archive.org"
   ]
 }
