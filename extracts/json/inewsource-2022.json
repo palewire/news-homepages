@@ -1,5 +1,5 @@
 {
-  "created": 1667670913,
+  "created": 1667723856,
   "d1": "ia902506.us.archive.org",
   "d2": "ia802506.us.archive.org",
   "dir": "/31/items/inewsource-2022",
@@ -19300,31 +19300,93 @@
       "sha1": "a3bad726256f16019e6d05b19026d0df9196b921"
     },
     {
+      "name": "inewsource-2022-11-05T23:49:34.865934-07:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667717386",
+      "size": "13150",
+      "md5": "216aa5ee6b0407771df12307a070a035",
+      "crc32": "f3dc5827",
+      "sha1": "42eb548ec04701ebd15509855661fde4cd6ce5ab",
+      "format": "JSON"
+    },
+    {
+      "name": "inewsource-2022-11-05T23:49:34.865934-07:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667717388",
+      "size": "16546",
+      "md5": "93675a71f277787f8ad142abdc012aa9",
+      "crc32": "e45bc143",
+      "sha1": "a6152415e09af2b9c08bf19d4ed8443de3c87175",
+      "format": "JSON"
+    },
+    {
+      "name": "inewsource-2022-11-05T23:49:34.865934-07:00.jpg",
+      "source": "original",
+      "mtime": "1667717384",
+      "size": "347165",
+      "md5": "1bae6f363b5bfeb55d87b2fecb18dd6a",
+      "crc32": "b90c4db0",
+      "sha1": "42a021715a0b459c0e9eec37ee2b1a1286ed9d59",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "inewsource-2022-11-05T23:49:34.865934-07:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667717390",
+      "size": "1453",
+      "md5": "ee9ab9bc8acea7312b97eaf9d1fc3205",
+      "crc32": "e7d00fde",
+      "sha1": "70291aa3482d9dd9a42b3953fb10370d0c9b8894",
+      "format": "JSON"
+    },
+    {
+      "name": "inewsource-2022-11-05T23:49:34.865934-07:00.wayback.json",
+      "source": "original",
+      "mtime": "1667717392",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "inewsource-2022-11-05T23:49:34.865934-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "inewsource-2022-11-05T23:49:34.865934-07:00.jpg",
+      "mtime": "1667718102",
+      "size": "10944",
+      "md5": "a440feca5a3082b8c8b8153c06c6adb8",
+      "crc32": "42279e23",
+      "sha1": "a3bad726256f16019e6d05b19026d0df9196b921"
+    },
+    {
       "name": "inewsource-2022_archive.torrent",
       "source": "metadata",
-      "btih": "bc85f508ba62f8dd04c0ec604a2ef02a601b5af6",
-      "mtime": "1667670787",
-      "size": "396741",
-      "md5": "6d9416543f0ce0fa29cc3509fbda1129",
-      "crc32": "4976e56e",
-      "sha1": "adb465a984b90bbd38ca6a11b8d71177084aedac",
+      "btih": "ad3ba55d0c3297471a5e7d4d3e921a8d3e123cb9",
+      "mtime": "1667718218",
+      "size": "397999",
+      "md5": "0324b4bb9a4f042b43b25abd18c2b68c",
+      "crc32": "ffb44477",
+      "sha1": "aa37d4854a369427d82aed46cd81595870fed8ad",
       "format": "Archive BitTorrent"
     },
     {
       "name": "inewsource-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "4455ac5f36b5dd5ae3f095d9bbefc50f",
+      "md5": "067b7c83ef43e73119efa88f98f51f55",
       "summation": "md5"
     },
     {
       "name": "inewsource-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667670602",
-      "size": "2342912",
-      "md5": "a09bde4dd0bc5c104d7d2b36271b9177",
-      "crc32": "02f9a0e5",
-      "sha1": "d52636e9385a5784112d4edec3f283fe05db16b6",
+      "mtime": "1667717396",
+      "size": "2355200",
+      "md5": "65069d7cc7e00404a947164947b40469",
+      "crc32": "f2258be1",
+      "sha1": "1921d576353b433fc5c9cd3afa85ac44b9f2ed59",
       "format": "Metadata"
     },
     {
@@ -19338,9 +19400,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1867,
-  "item_last_updated": 1667670787,
-  "item_size": 114197702,
+  "files_count": 1873,
+  "inewsource-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667718218,
+  "item_size": 114600708,
   "metadata": {
     "identifier": "inewsource-2022",
     "collection": [
@@ -19358,7 +19425,7 @@
     "addeddate": "2022-07-09 03:59:53"
   },
   "server": "ia802506.us.archive.org",
-  "uniq": 1395176120,
+  "uniq": 1347164771,
   "workable_servers": [
     "ia802506.us.archive.org",
     "ia902506.us.archive.org"

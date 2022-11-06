@@ -1,5 +1,5 @@
 {
-  "created": 1667671098,
+  "created": 1667718310,
   "d1": "ia902503.us.archive.org",
   "d2": "ia802503.us.archive.org",
   "dir": "/8/items/journalsentinel-2022",
@@ -20244,31 +20244,93 @@
       "sha1": "43888cf7ebac9dec838c19c66acc122451907b85"
     },
     {
+      "name": "journalsentinel-2022-11-06T01:54:01.110552-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667717653",
+      "size": "23798",
+      "md5": "a3e6b39c2f1cdc45609a700a3efc0e19",
+      "crc32": "63a9179f",
+      "sha1": "aaba364088ea48cd887018431358c9677b7c3a1c",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-11-06T01:54:01.110552-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667717655",
+      "size": "33377",
+      "md5": "9073427c8556bf66b6f47ec7aaee121b",
+      "crc32": "c965a648",
+      "sha1": "f3072a4d25f085289b2849a69d7f9f0364f4effd",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-11-06T01:54:01.110552-05:00.jpg",
+      "source": "original",
+      "mtime": "1667717651",
+      "size": "263957",
+      "md5": "e0a8ea7874a2daecd179f0373b365709",
+      "crc32": "2428ea9b",
+      "sha1": "c8ce1559fce0c6c4416ec2d83438f12bb1184d55",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "journalsentinel-2022-11-06T01:54:01.110552-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667717657",
+      "size": "1477",
+      "md5": "90c8f0e1218781f59a39cd8e6a863e54",
+      "crc32": "ef8ef570",
+      "sha1": "09a767ae7a5607448f7baa91f33376989e7a4dd3",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-11-06T01:54:01.110552-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667717659",
+      "size": "104133",
+      "md5": "9fce2ae5e2c99fe559df873536bc707c",
+      "crc32": "02d2ee81",
+      "sha1": "377828b448b393248d4ee20f6bfe0eec2b62459b",
+      "format": "JSON"
+    },
+    {
+      "name": "journalsentinel-2022-11-06T01:54:01.110552-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "journalsentinel-2022-11-06T01:54:01.110552-05:00.jpg",
+      "mtime": "1667718270",
+      "size": "9613",
+      "md5": "85430c06dde7cc74c2949dbe55e15c60",
+      "crc32": "2796e495",
+      "sha1": "0ccbd73b8e12c108ffc10477496732a823036dbf"
+    },
+    {
       "name": "journalsentinel-2022_archive.torrent",
       "source": "metadata",
-      "btih": "04975993f7cb64458ee079a17963f0fc8d55f93d",
-      "mtime": "1667671073",
-      "size": "424470",
-      "md5": "9e1c14b28b994b689ce9e6aeb5b58654",
-      "crc32": "c7f61e34",
-      "sha1": "d4460a80290e471a9033f3dbed1cc6540e57f248",
+      "btih": "5b825ea4c112b00da7c3c0107b9dd72c4453e847",
+      "mtime": "1667718300",
+      "size": "425780",
+      "md5": "d57254581c38974fdeebe16cc3a3d369",
+      "crc32": "32af566d",
+      "sha1": "bd06be186140c1868dd1e130a80be19f536f0134",
       "format": "Archive BitTorrent"
     },
     {
       "name": "journalsentinel-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2605a28d6350f09d55c4ea9f613ebf57",
+      "md5": "86172a82d5d2d0a09646cd2cc79559a0",
       "summation": "md5"
     },
     {
       "name": "journalsentinel-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667670831",
-      "size": "2404352",
-      "md5": "f18c22bbbb2e99081ae37bde5dab7315",
-      "crc32": "924baca4",
-      "sha1": "977696ba39396956f7d931a6b2beb6836c439fae",
+      "mtime": "1667717714",
+      "size": "2412544",
+      "md5": "acf250a504544b1c37a43595e40d47f0",
+      "crc32": "93f244a6",
+      "sha1": "6a0096293e9ce98a29559a7e97278a7cf1b105bf",
       "format": "Metadata"
     },
     {
@@ -20282,9 +20344,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1949,
-  "item_last_updated": 1667671073,
-  "item_size": 149593003,
+  "files_count": 1955,
+  "item_last_updated": 1667718300,
+  "item_size": 150038860,
   "metadata": {
     "identifier": "journalsentinel-2022",
     "collection": [
@@ -20301,10 +20363,10 @@
     "publicdate": "2022-03-23 23:06:34",
     "addeddate": "2022-03-23 23:06:34"
   },
-  "server": "ia902503.us.archive.org",
-  "uniq": 847179208,
+  "server": "ia802503.us.archive.org",
+  "uniq": 2061702912,
   "workable_servers": [
-    "ia902503.us.archive.org",
-    "ia802503.us.archive.org"
+    "ia802503.us.archive.org",
+    "ia902503.us.archive.org"
   ]
 }

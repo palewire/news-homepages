@@ -1,5 +1,5 @@
 {
-  "created": 1667672151,
+  "created": 1667723973,
   "d1": "ia601506.us.archive.org",
   "d2": "ia801506.us.archive.org",
   "dir": "/1/items/journalstandard-2022",
@@ -5786,31 +5786,93 @@
       "sha1": "504bff18a97414c0bdaafb9c5c1eb75d95a5b71f"
     },
     {
+      "name": "journalstandard-2022-11-06T01:54:16.686708-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667717661",
+      "size": "23142",
+      "md5": "e3b4c4ab23b01336bb8a7fe0d1ad1ac9",
+      "crc32": "c3b51cd1",
+      "sha1": "6e998c7e6eda8761afc7110a2de69e6e6d2b905a",
+      "format": "JSON"
+    },
+    {
+      "name": "journalstandard-2022-11-06T01:54:16.686708-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667717664",
+      "size": "33071",
+      "md5": "2c6938244ac745434ea2836d907225a1",
+      "crc32": "60472fbd",
+      "sha1": "d5466803422103fa4a0ef5257dbc806933f9e07f",
+      "format": "JSON"
+    },
+    {
+      "name": "journalstandard-2022-11-06T01:54:16.686708-05:00.jpg",
+      "source": "original",
+      "mtime": "1667717660",
+      "size": "277841",
+      "md5": "0b447b4be64f1d8ac70538478335fe49",
+      "crc32": "685555b3",
+      "sha1": "84c8691fb555db4ca59c27fd1305c5ae6589c6f9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "journalstandard-2022-11-06T01:54:16.686708-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667717665",
+      "size": "1540",
+      "md5": "b801c8962f802df4d26d2b867f7da137",
+      "crc32": "537f5f19",
+      "sha1": "7978d6da4d242ec066f9e5240d2acd38102106d4",
+      "format": "JSON"
+    },
+    {
+      "name": "journalstandard-2022-11-06T01:54:16.686708-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667717667",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "journalstandard-2022-11-06T01:54:16.686708-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "journalstandard-2022-11-06T01:54:16.686708-05:00.jpg",
+      "mtime": "1667718234",
+      "size": "9441",
+      "md5": "cf95a52210744afd320f3fe031e95d67",
+      "crc32": "4fe23d82",
+      "sha1": "c2b0e480e2674e35df50f54a1786ccb9446372b4"
+    },
+    {
       "name": "journalstandard-2022_archive.torrent",
       "source": "metadata",
-      "btih": "89bdc1bff10e5a1eba34c02b821990820b694868",
-      "mtime": "1667671204",
-      "size": "122941",
-      "md5": "2cc6cf073d5abefed4b9c5c09e80d9c8",
-      "crc32": "8edf7de4",
-      "sha1": "2ae50376fc6b6148f120c87578c95e8ffea5847c",
+      "btih": "2536eca87d165ffc1a7854ce001d8f10193bd107",
+      "mtime": "1667718248",
+      "size": "124228",
+      "md5": "14e36b04f0ea13433f2cf7ba68155b68",
+      "crc32": "4d879b6a",
+      "sha1": "3481fbe61df9d7f64f52dcc9ef671b3528645183",
       "format": "Archive BitTorrent"
     },
     {
       "name": "journalstandard-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6e8069430e1dca65242013b90066d283",
+      "md5": "d01a1bb012ea747f822658d876d97f0b",
       "summation": "md5"
     },
     {
       "name": "journalstandard-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667670762",
-      "size": "733184",
-      "md5": "c1f2573dea91d54187d53e5bad1b73dc",
-      "crc32": "dac0085e",
-      "sha1": "1b1b0943b20325d4e84dd47b5f709f2ea546ef1f",
+      "mtime": "1667717671",
+      "size": "737280",
+      "md5": "6de138a17f028a1d29780738cb6c5a1b",
+      "crc32": "87f38f46",
+      "sha1": "d5d1474b4ea82eb08f8f6f4946764caf782f4475",
       "format": "Metadata"
     },
     {
@@ -5824,9 +5886,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 563,
-  "item_last_updated": 1667671204,
-  "item_size": 37873774,
+  "files_count": 569,
+  "item_last_updated": 1667718248,
+  "item_size": 38224394,
+  "journalstandard-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "metadata": {
     "identifier": "journalstandard-2022",
     "collection": [
@@ -5843,10 +5910,10 @@
     "publicdate": "2022-09-20 17:31:49",
     "addeddate": "2022-09-20 17:31:49"
   },
-  "server": "ia801506.us.archive.org",
-  "uniq": 1790428612,
+  "server": "ia601506.us.archive.org",
+  "uniq": 1211851511,
   "workable_servers": [
-    "ia801506.us.archive.org",
-    "ia601506.us.archive.org"
+    "ia601506.us.archive.org",
+    "ia801506.us.archive.org"
   ]
 }
