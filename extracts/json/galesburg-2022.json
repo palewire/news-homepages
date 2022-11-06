@@ -1,5 +1,6 @@
 {
-  "created": 1667692828,
+  "conflict": 1667735554,
+  "created": 1667735554,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/30/items/galesburg-2022",
@@ -5801,31 +5802,104 @@
       "format": "JSON"
     },
     {
+      "name": "galesburg-2022-11-05T18:59:23.768922-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-11-05T18:59:23.768922-05:00.jpg",
+      "mtime": "1667694002",
+      "size": "9521",
+      "md5": "59887732d7380d739758330ad77ce234",
+      "crc32": "792483ae",
+      "sha1": "6a638e4d5e2058ad83ced9e73e7fad2bd7909e62"
+    },
+    {
+      "name": "galesburg-2022-11-06T05:44:57.871436-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667735100",
+      "size": "25090",
+      "md5": "191f9e67afcf13534710f94e9b73a627",
+      "crc32": "08ada435",
+      "sha1": "6bfb8525cf0dc5eb8d1582ea1bbdbbcb5f9f0592",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-11-06T05:44:57.871436-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667735103",
+      "size": "40553",
+      "md5": "a93f013085e8843253492ac23d111d02",
+      "crc32": "0f214b83",
+      "sha1": "b694bb0cfcab91fe3c182a99fe7f958528393707",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-11-06T05:44:57.871436-06:00.jpg",
+      "source": "original",
+      "mtime": "1667735099",
+      "size": "259724",
+      "md5": "f84ef1eea2cc0c3ff9b5574e24a65340",
+      "crc32": "77822c4f",
+      "sha1": "c241b1aa8ac28f009df747b8dda254bf1f343469",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "galesburg-2022-11-06T05:44:57.871436-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667735106",
+      "size": "1486",
+      "md5": "6c2309cab924e67e4888bc35d82865ff",
+      "crc32": "4b1a3453",
+      "sha1": "53c562abf0a24478a3d6696a6ccccc0402705abe",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-11-06T05:44:57.871436-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667735107",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "galesburg-2022-11-06T05:44:57.871436-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "galesburg-2022-11-06T05:44:57.871436-06:00.jpg",
+      "mtime": "1667735528",
+      "size": "9402",
+      "md5": "b35e4f0c5c442df42daa91e66464fb3a",
+      "crc32": "410cc5d7",
+      "sha1": "c43eaa0a482a32ca1d12654230497ee4da617bd1"
+    },
+    {
       "name": "galesburg-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8d62261c9b479ee45798d9ec238db911587fb8fe",
-      "mtime": "1667692820",
-      "size": "119957",
-      "md5": "eda6f624ff6db7e5318b11dd828a987f",
-      "crc32": "d5c4f030",
-      "sha1": "2f95ce98648bb00d44a0f4a7eacd33f331791320",
+      "btih": "ca9b07aca36f6ac90d44830a7e6310453a85200e",
+      "mtime": "1667735546",
+      "size": "121433",
+      "md5": "8b534a986a80d79954fc1a4e84534c2c",
+      "crc32": "edb41f68",
+      "sha1": "6dcdad8d45b60a450942f2fc7067bc2f20707c47",
       "format": "Archive BitTorrent"
     },
     {
       "name": "galesburg-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "e67a9577d1e7bb0cc26952966532be3d",
+      "md5": "6d51786e57d3148dac34cda489399730",
       "summation": "md5"
     },
     {
       "name": "galesburg-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667692779",
-      "size": "729088",
-      "md5": "540554b6fa698ba7b8ef4fae55f554ee",
-      "crc32": "4f2960e7",
-      "sha1": "d3b2614c1fe987869d85cc6fa70e1de3a47ca014",
+      "mtime": "1667735111",
+      "size": "741376",
+      "md5": "a2f7f4efd9ff79f4c2871d0d463efab5",
+      "crc32": "8d4bd103",
+      "sha1": "a144e786ef4c017e1e697e88671f107db2be4603",
       "format": "Metadata"
     },
     {
@@ -5839,9 +5913,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 565,
-  "item_last_updated": 1667692820,
-  "item_size": 37807553,
+  "files_count": 572,
+  "item_last_updated": 1667735546,
+  "item_size": 38167295,
   "metadata": {
     "identifier": "galesburg-2022",
     "collection": [
@@ -5863,15 +5937,23 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3463244465,
+      "task_id": 3463660792,
       "cmd": "derive.php",
       "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    },
+    {
+      "task_id": 3463664207,
+      "cmd": "bup.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 1743326270,
+  "uniq": 983069587,
   "workable_servers": [
     "ia601505.us.archive.org"
   ]

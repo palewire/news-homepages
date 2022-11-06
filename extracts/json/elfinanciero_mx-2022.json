@@ -1,5 +1,5 @@
 {
-  "created": 1667692792,
+  "created": 1667735077,
   "d1": "ia601503.us.archive.org",
   "d2": "ia801503.us.archive.org",
   "dir": "/19/items/elfinanciero_mx-2022",
@@ -10299,31 +10299,93 @@
       "format": "JSON"
     },
     {
+      "name": "elfinanciero_mx-2022-11-05T17:57:53.081169-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "elfinanciero_mx-2022-11-05T17:57:53.081169-06:00.jpg",
+      "mtime": "1667694199",
+      "size": "10393",
+      "md5": "fb31d4f56d791957eb42c373bd63153f",
+      "crc32": "7b86502f",
+      "sha1": "89ba0d8dfa019390e424b35b1de72c7ebde3d3ab"
+    },
+    {
+      "name": "elfinanciero_mx-2022-11-06T05:43:08.263158-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667735005",
+      "size": "34792",
+      "md5": "e979abf359698b108b242d6409613fcc",
+      "crc32": "eaaef468",
+      "sha1": "5f85df3798a65b91f2e26c6718cd7a22067b38ca",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-11-06T05:43:08.263158-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667735007",
+      "size": "40156",
+      "md5": "d90bc41b3954bb5b03c7dce90201192f",
+      "crc32": "a57ca7d0",
+      "sha1": "9b004ba30f154a80fa564100e657731ab81f44a0",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-11-06T05:43:08.263158-06:00.jpg",
+      "source": "original",
+      "mtime": "1667735004",
+      "size": "291333",
+      "md5": "42a77457436f22a86f6676639f143721",
+      "crc32": "e44b9a4b",
+      "sha1": "e87309daba83a924370480d0488e9a1ad62bad94",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "elfinanciero_mx-2022-11-06T05:43:08.263158-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667735008",
+      "size": "1540",
+      "md5": "0085bc3b090ef19c2d4d494e8bf057b7",
+      "crc32": "9137f2cd",
+      "sha1": "6f522b1ae49dfd691d5253424556400ff33beaae",
+      "format": "JSON"
+    },
+    {
+      "name": "elfinanciero_mx-2022-11-06T05:43:08.263158-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667735010",
+      "size": "82056",
+      "md5": "adf539474b901e12603e39055abb83e7",
+      "crc32": "4a5b632d",
+      "sha1": "86503bcd58e1a69bde4fa401b67bda88eb75fe3a",
+      "format": "JSON"
+    },
+    {
       "name": "elfinanciero_mx-2022_archive.torrent",
       "source": "metadata",
-      "btih": "060a575523a8a94883296ce28acd0b029eebee33",
-      "mtime": "1667692776",
-      "size": "218241",
-      "md5": "a9573bfd801b83b8ff3693e70ec73535",
-      "crc32": "3ad49f5f",
-      "sha1": "04fd9a1b23c32a70337000ba9622603af2eb1ca4",
+      "btih": "ba6a7d4f70ecc82d613c6820e6f718e0211fd80d",
+      "mtime": "1667735071",
+      "size": "219551",
+      "md5": "aa51e5acbe8384462a4ba8174901cae7",
+      "crc32": "e0b6dc97",
+      "sha1": "15ed7788d79299ff24bffa7f0cc0257fbcaafcc6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "elfinanciero_mx-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "28e746896d693c1ca51e0df58008d008",
+      "md5": "148a6a2eadd61057a193098160ad5e90",
       "summation": "md5"
     },
     {
       "name": "elfinanciero_mx-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667692710",
-      "size": "1294336",
-      "md5": "aeeceac524ebd7ac271abb10eccc2e18",
-      "crc32": "f0f8493e",
-      "sha1": "f04c484f5a6e168cfbb1c3922e1312ddbd9d3eab",
+      "mtime": "1667735019",
+      "size": "1298432",
+      "md5": "3d4c4aeac5e14dc833c98ac3294e6247",
+      "crc32": "92bc1e47",
+      "sha1": "0da7b163eb3aeadc0efa9fe87a30606e4e2ce4cc",
       "format": "Metadata"
     },
     {
@@ -10337,9 +10399,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1000,
-  "item_last_updated": 1667692776,
-  "item_size": 73556246,
+  "files_count": 1006,
+  "item_last_updated": 1667735071,
+  "item_size": 74021922,
   "metadata": {
     "identifier": "elfinanciero_mx-2022",
     "collection": [
@@ -10361,15 +10423,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3463243981,
+      "task_id": 3463660068,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1522601904,
+  "uniq": 738002142,
   "workable_servers": [
     "ia601503.us.archive.org"
   ]

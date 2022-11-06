@@ -1,5 +1,5 @@
 {
-  "created": 1667692697,
+  "created": 1667735005,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/6/items/fla_pol-2022",
@@ -11135,21 +11135,32 @@
       "format": "JSON"
     },
     {
+      "name": "fla_pol-2022-11-05T19:56:16.469194-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "fla_pol-2022-11-05T19:56:16.469194-04:00.jpg",
+      "mtime": "1667693612",
+      "size": "10372",
+      "md5": "7bc866fed5a955811187c48d8d4f6d5f",
+      "crc32": "7184ba2e",
+      "sha1": "366a86ea4a7ecce85018683bfaeb22d97587660c"
+    },
+    {
       "name": "fla_pol-2022_archive.torrent",
       "source": "metadata",
-      "btih": "98e7a3bdc03c704046c41ac067117607db4d8524",
-      "mtime": "1667692682",
-      "size": "227387",
-      "md5": "e250b917648f719e5524e3186a089125",
-      "crc32": "b56f4ad5",
-      "sha1": "527ed5ebf5815dfd607d440c3af9a1346460fd2d",
+      "btih": "778a03c65559f06f62425ecc2a2aaec387f7d232",
+      "mtime": "1667693649",
+      "size": "227591",
+      "md5": "09e3cfcbf7777f2cc8fe164a1717d9b9",
+      "crc32": "a9140dbb",
+      "sha1": "17e7dd7fedfc718a4a3834e8f6e82ba1740c4cf1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "fla_pol-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cd281b8869c1892e9140da50014fd120",
+      "md5": "8d527e52e44a6efea30d85136686fe3e",
       "summation": "md5"
     },
     {
@@ -11173,9 +11184,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1081,
-  "item_last_updated": 1667692682,
-  "item_size": 84434641,
+  "files_count": 1082,
+  "item_last_updated": 1667693649,
+  "item_size": 84445217,
   "metadata": {
     "identifier": "fla_pol-2022",
     "collection": [
@@ -11197,15 +11208,47 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3463243137,
-      "cmd": "derive.php",
-      "priority": -6,
+      "task_id": 3463659195,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463659212,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463659234,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463659255,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463659280,
+      "cmd": "archive.php",
+      "priority": -5,
       "wait_admin": 0,
       "color": "green",
       "status": "queued"
     }
   ],
-  "uniq": 343458029,
+  "uniq": 307208046,
   "workable_servers": [
     "ia601501.us.archive.org"
   ]
