@@ -6,6 +6,7 @@ import click
 import jinja2
 import numpy as np
 import pandas as pd
+import spectra
 from rich import print
 from rich.progress import track
 from slugify import slugify
@@ -33,8 +34,10 @@ def latest_screenshots():
 
 
 @cli.command()
-def drudge_ranking():
+def drudge():
     """Create page ranking sites by appearance on drudgereport.com."""
+    print(":abacus: Creating Drudge Dashboard")
+
     # Get the data
     links_df = pd.read_csv(
         utils.EXTRACT_DIR / "csv" / "drudge-hyperlinks-analysis.csv",
@@ -83,12 +86,48 @@ def drudge_ranking():
         total_urls=domain_df.n.sum(),
         days=len(links_df.groupby("earliest_date").url.size()),
         links_per_day=links_per_day,
-        site_list=domain_df.sort_values("n", ascending=False).to_dict(orient="records"),
+        site_list=domain_df.sort_values("n", ascending=False)
+        .head(25)
+        .to_dict(orient="records"),
         entity_list=entity_df.sort_values("n", ascending=False).to_dict(
             orient="records"
         ),
+        min_date=story_df.earliest_date.min(),
+        max_date=story_df.earliest_date.max(),
     )
     _write_template("drudge.md", context)
+
+    # Make a mini chart for each entity
+    print(":abacus: Creating Drudge Dashboard images")
+
+    # Convert the data to something we can use
+    dict_list = entity_df.to_dict(orient="records")
+    for d in dict_list:
+        d["timeseries"] = json.loads(d["timeseries"])[6:]
+        d["max_n"] = max(o["7_day_rolling_average"] for o in d["timeseries"])
+
+    # Set the color scale
+    color_scale = spectra.scale(["#dddddd", "#000000"])
+
+    # Set the data scale. I'm going to put my finger on the scale.
+    max_n = 3
+
+    # Set colors
+    for d in dict_list:
+        for t in d["timeseries"]:
+            if t["7_day_rolling_average"] > max_n:
+                n_scaled = max_n
+            else:
+                n_scaled = t["7_day_rolling_average"] / max_n
+            t["color"] = color_scale(n_scaled).hexcode
+
+    # Create the chart files
+    out_dir = utils.SITE_DIR / "_static" / "charts" / "drudge" / "top-words"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    for d in track(dict_list):
+        _write_template(
+            "drudge-top-words.svg", dict(obj=d), out_dir / f"{d['lemma'].lower()}.svg"
+        )
 
 
 @cli.command()

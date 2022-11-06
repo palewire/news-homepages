@@ -5,25 +5,27 @@
 
 As part of its archiving routine, our system routinely captures [The Drudge Report](https://palewi.re/docs/news-homepages/sites/drudge.html), a news aggregator focused on Beltway politics, celebrity scandal, extreme weather and other catastrophes of American life.
 
-Over the last 90 days, Drudge's homepage has featured {{ "{:,.0f}".format(total_urls) }} stories on {{ "{:,.0f}".format(total_sites) }} different sites. The analysis here updates daily.
+Over the last 90 days, Drudge's homepage has featured {{ "{:,.0f}".format(total_urls) }} stories on {{ "{:,.0f}".format(total_sites) }} different sites. This page updates daily with an analysis of what's been promoted.
 
 ## Top words
 
-Here are the people, places and things featured in the most headlines, as well as the most commonly paired verb.
+Here are the people, places and things mentioned in the most headlines, as well as each's most commonly paired verb.
 
-<table class="colwidths-auto docutils align-default">
+<div class="table-container">
+<table class="colwidths-auto docutils align-default drudge-table drudge-entities">
  <thead>
   <tr>
-    <th class="head">Rank</th>
+    <th class="head rank">Rank</th>
     <th class="head">Word</th>
     <th class="head">Top verb</th>
     <th class="head" style="text-align: right;">Headlines</th>
+    <th class="head">Trend</th>
   </tr>
  </thead>
  <tbody>
   {% for obj in entity_list %}
   <tr>
-    <td>{{ obj.rank }}</td>
+    <td class="rank">{{ obj.rank }}.</td>
     <td>
         {{ obj.lemma }}
     </td>
@@ -33,19 +35,31 @@ Here are the people, places and things featured in the most headlines, as well a
     <td style="text-align: right;">
         {{ obj.n }}
     </td>
+    <td class="trend-chart">{% if loop.index0 == 0 %}
+<div class="trend-axis-label">
+    <span class="trend-axis-left">{{ min_date.strftime('%b. %-d') }}</span>
+    <span class="trend-axis-right">{{ max_date.strftime('%b. %-d') }}</span>
+</div>
+{% endif %}<img src="_static/charts/drudge/top-words/{{ obj.lemma.lower() }}.svg"
+     alt="{{ obj.lemma }} trend chart"
+     width=168
+     height=20 />
+</td>
   </tr>
   {% endfor %}
  </tbody>
 </table>
+</div>
 
 ## Top domains
 
-Here are all sites ranked by how often they appeared.
+Here are the 25 mostly frequently linked sites.
 
-<table class="colwidths-auto docutils align-default">
+<div class="table-container">
+<table class="colwidths-auto docutils align-default drudge-table">
  <thead>
   <tr>
-    <th class="head">Rank</th>
+    <th class="head rank">Rank</th>
     <th class="head">Site</th>
     <th class="head" style="text-align: right;">Stories</th>
     <th class="head" style="text-align: right;">Percent</th>
@@ -54,7 +68,7 @@ Here are all sites ranked by how often they appeared.
  <tbody>
   {% for obj in site_list %}
   <tr>
-    <td>{{ obj.rank }}</td>
+    <td class="rank">{{ obj.rank }}.</td>
     <td>
         <a href="https://{{ obj.domain }}/">
             {{ obj.domain }}
@@ -70,3 +84,4 @@ Here are all sites ranked by how often they appeared.
   {% endfor %}
  </tbody>
 </table>
+</div>

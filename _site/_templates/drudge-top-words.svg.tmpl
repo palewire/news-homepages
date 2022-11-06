@@ -1,0 +1,14 @@
+<svg data-name="{{ obj.lemma }}" xmlns="http://www.w3.org/2000/svg" height="20" width="168">
+    <g class="pez">
+    {% for value in obj.timeseries %}
+        <rect data-date="{{ value.date }}"
+              data-value="{{ value['7_day_rolling_average'] }}"
+              x="{{ loop.index0 * 2 }}"
+              height="20"
+              width="2"
+              fill="{{ value.color }}"
+              fill-opacity="0.5">
+        </rect>
+    {%- endfor %}
+    </g>
+</svg>

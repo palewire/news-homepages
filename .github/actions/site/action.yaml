@@ -41,7 +41,7 @@ runs:
 
     - id: drudge-ranking
       name: Update Drudge ranking
-      run: pipenv run python -m newshomepages.site drudge-ranking;
+      run: pipenv run python -m newshomepages.site drudge;
       shell: bash
 
     - id: source-list

@@ -149,6 +149,7 @@ def drudge_entities():
             "ELON",
             "SAY",
             "HAVE",
+            "MELONI",
         ]
         if lemma == "COVID":
             stop_verbs += ["TESTS"]
@@ -185,6 +186,8 @@ def drudge_entities():
     top_words["top_verb"] = top_words.lemma.apply(get_top_verb)
 
     # Get the timeseries for top words
+    min_date, max_date = story_df.earliest_date.min(), story_df.earliest_date.max()
+
     def get_timeseries(lemma: str) -> str:
         """Pull the day to day timeseries for the provided word."""
         # Count the top words by day
@@ -200,15 +203,34 @@ def drudge_entities():
             .size()
             .rename("n")
             .reset_index()
+            .rename(columns={"earliest_date": "date"})
+            .set_index("date")
         )
 
+        # Fill in days we're missing
+        date_range = pd.date_range(
+            min_date,
+            max_date,
+            freq="D",
+        )
+        date_index = pd.DatetimeIndex(date_range)
+        backfilled_df = df.reindex(date_index)
+        backfilled_df.n.fillna(0, inplace=True)
+
+        # Calculate the 7-day rolling average
+        backfilled_df["7_day_rolling_average"] = backfilled_df.n.rolling(7).mean()
+        backfilled_df["7_day_rolling_average"].fillna(0, inplace=True)
+
         # Convert it to a dict list
-        dict_list = df.to_dict(orient="records")
+        dict_list = (
+            backfilled_df.reset_index()
+            .rename(columns={"index": "date"})
+            .to_dict(orient="records")
+        )
 
         # Convert our dates to strings
         for d in dict_list:
-            d["date"] = d["earliest_date"].strftime("%Y-%m-%d")
-            del d["earliest_date"]
+            d["date"] = d["date"].strftime("%Y-%m-%d")
 
         # Pass it out
         return json.dumps(dict_list)
