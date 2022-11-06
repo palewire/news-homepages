@@ -1,3 +1,4 @@
+import json
 import typing
 import warnings
 from collections import Counter
@@ -184,7 +185,7 @@ def drudge_entities():
     top_words["top_verb"] = top_words.lemma.apply(get_top_verb)
 
     # Get the timeseries for top words
-    def get_timeseries(lemma: str) -> typing.List:
+    def get_timeseries(lemma: str) -> str:
         """Pull the day to day timeseries for the provided word."""
         # Count the top words by day
         df = (
@@ -210,7 +211,7 @@ def drudge_entities():
             del d["earliest_date"]
 
         # Pass it out
-        return dict_list
+        return json.dumps(dict_list)
 
     top_words["timeseries"] = top_words.lemma.apply(get_timeseries)
 
