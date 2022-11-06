@@ -1,5 +1,10 @@
 {
-  "created": 1667666629,
+  "agenciabrasil-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667717587,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/33/items/agenciabrasil-2022",
@@ -16860,31 +16865,93 @@
       "sha1": "42c45c7cac01cba3f3b038e1e9404e217096e543"
     },
     {
+      "name": "agenciabrasil-2022-11-06T01:50:32.753806-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667710247",
+      "size": "33712",
+      "md5": "6e36620be3a75d42d7d1a847b861f4ae",
+      "crc32": "5a62e8e3",
+      "sha1": "684750d08e52e454734137a2c1d4dd58aa08b116",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-11-06T01:50:32.753806-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667710249",
+      "size": "41156",
+      "md5": "7881da608cb7eb6a3a56c76221999e89",
+      "crc32": "3644985a",
+      "sha1": "59584f1261d714228fdf7daa27555743b0b88413",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-11-06T01:50:32.753806-03:00.jpg",
+      "source": "original",
+      "mtime": "1667710245",
+      "size": "243923",
+      "md5": "c3f598e18e89116408b9e930e2f0583d",
+      "crc32": "18513b56",
+      "sha1": "5b47867bc4a56ef356b074cc3db8726227a2e493",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "agenciabrasil-2022-11-06T01:50:32.753806-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667710250",
+      "size": "1549",
+      "md5": "3150e8559f201f8345d74e38c067d701",
+      "crc32": "44a262ea",
+      "sha1": "b896704484ac3b3b2e40bb1eac78dc421e3758be",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-11-06T01:50:32.753806-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667710252",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "agenciabrasil-2022-11-06T01:50:32.753806-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "agenciabrasil-2022-11-06T01:50:32.753806-03:00.jpg",
+      "mtime": "1667711091",
+      "size": "8884",
+      "md5": "8c2c5cd57eec3a5ce9d9d14bb5b5bffe",
+      "crc32": "51866431",
+      "sha1": "bd28cdc632deb55531807f85437c5d25b64e221d"
+    },
+    {
       "name": "agenciabrasil-2022_archive.torrent",
       "source": "metadata",
-      "btih": "fd1f72af913f721eccc3e71484276126a05410a2",
-      "mtime": "1667666562",
-      "size": "352368",
-      "md5": "7c88b41fa2e7fbb581efbe51f539015a",
-      "crc32": "a220daff",
-      "sha1": "3b54ce9267402b49e14173da0233b4de429b9552",
+      "btih": "0f908c86f070cd7e48ffd8001913bddd1a639b03",
+      "mtime": "1667711148",
+      "size": "353663",
+      "md5": "ebb423a1e0d3af2e6383b453e7f16433",
+      "crc32": "980dea10",
+      "sha1": "e400b67a72120dd3b20d41545e4a1b94d2b211f8",
       "format": "Archive BitTorrent"
     },
     {
       "name": "agenciabrasil-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "31090f157669b1d666be962793c1a364",
+      "md5": "5a5b00ddc21ae70ec5076f8bb89819ea",
       "summation": "md5"
     },
     {
       "name": "agenciabrasil-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667664899",
-      "size": "2097152",
-      "md5": "558129685d61f40506f0fa04645b69e5",
-      "crc32": "4daa0e1e",
-      "sha1": "83b96277854d362d5b57cf31bbd2d0e1a7813973",
+      "mtime": "1667710260",
+      "size": "2105344",
+      "md5": "66d2cce9ddedaadf052cb7aca9978f79",
+      "crc32": "2afad65e",
+      "sha1": "b6b66b6457ff533a1629bc79560f696f5c8cea3c",
       "format": "Metadata"
     },
     {
@@ -16898,9 +16965,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1635,
-  "item_last_updated": 1667666562,
-  "item_size": 100918055,
+  "files_count": 1641,
+  "item_last_updated": 1667711148,
+  "item_size": 101256968,
   "metadata": {
     "identifier": "agenciabrasil-2022",
     "collection": [
@@ -16917,10 +16984,10 @@
     "publicdate": "2022-08-04 04:55:44",
     "addeddate": "2022-08-04 04:55:44"
   },
-  "server": "ia801405.us.archive.org",
-  "uniq": 1489718582,
+  "server": "ia601405.us.archive.org",
+  "uniq": 1983630080,
   "workable_servers": [
-    "ia801405.us.archive.org",
-    "ia601405.us.archive.org"
+    "ia601405.us.archive.org",
+    "ia801405.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667677955,
+  "created": 1667711581,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/0/items/wgrz-2022",
@@ -9804,31 +9804,83 @@
       "sha1": "d9183e61982de33348e874cd5fb673d2c9b72a14"
     },
     {
+      "name": "wgrz-2022-11-06T00:58:56.412146-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667710742",
+      "size": "1147",
+      "md5": "cfc7e6268d993faa5a3ac9b5bfe574c3",
+      "crc32": "a60a8a1a",
+      "sha1": "77fc062fff93f6228acca831929e15f76c9862cf",
+      "format": "JSON"
+    },
+    {
+      "name": "wgrz-2022-11-06T00:58:56.412146-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667710744",
+      "size": "664",
+      "md5": "bca834909ee238a2d788907dac737110",
+      "crc32": "e6f34670",
+      "sha1": "e57edecff6d75a85fcb497a42d4cba3b48ba9517",
+      "format": "JSON"
+    },
+    {
+      "name": "wgrz-2022-11-06T00:58:56.412146-04:00.jpg",
+      "source": "original",
+      "mtime": "1667710740",
+      "size": "62358",
+      "md5": "d1074ce6cc4ac9c34ec7195c0e428451",
+      "crc32": "0e0eef04",
+      "sha1": "bc0a64f4ec1ded06240b38287ef573a20f848341",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wgrz-2022-11-06T00:58:56.412146-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667710746",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "wgrz-2022-11-06T00:58:56.412146-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wgrz-2022-11-06T00:58:56.412146-04:00.jpg",
+      "mtime": "1667711515",
+      "size": "6459",
+      "md5": "d767a33c261a977453bcea5cfe59ce07",
+      "crc32": "c09b6736",
+      "sha1": "d9183e61982de33348e874cd5fb673d2c9b72a14"
+    },
+    {
       "name": "wgrz-2022_archive.torrent",
       "source": "metadata",
-      "btih": "ddc3bab68728f1c5453361f623a38a0f0e4a7a4d",
-      "mtime": "1667666601",
-      "size": "192542",
-      "md5": "96005675aa1689d37971add171a4093b",
-      "crc32": "29966270",
-      "sha1": "2ec9c8c4e2c6485a2c26e48cfc16b8ed146934b6",
+      "btih": "202ba76e820036bd60e68eed7bda3768f293729c",
+      "mtime": "1667711543",
+      "size": "193553",
+      "md5": "426cf1ba81d03efb76db05c8b0417f5d",
+      "crc32": "6e6a4ea1",
+      "sha1": "84140db26ada91918f4fb77dd660f6eeabfecacb",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wgrz-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "433430faa8a05811c0a818d3464b0c94",
+      "md5": "c3ace7186e197b65ba3c0c45a310b0e0",
       "summation": "md5"
     },
     {
       "name": "wgrz-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667665271",
-      "size": "1155072",
-      "md5": "a6208ba431f41f9346f9337e8ff1b8bb",
-      "crc32": "3c5dfa65",
-      "sha1": "bb90e623018302dc9c0c85038ef9608affe82a9c",
+      "mtime": "1667710750",
+      "size": "1159168",
+      "md5": "143ec2367d37c7d5809e59599af3e978",
+      "crc32": "9d07191d",
+      "sha1": "a2e00dd331ded2dce85c8613242189549beff217",
       "format": "Metadata"
     },
     {
@@ -9842,9 +9894,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 946,
-  "item_last_updated": 1667666601,
-  "item_size": 15055530,
+  "files_count": 951,
+  "item_last_updated": 1667711543,
+  "item_size": 15131467,
   "metadata": {
     "identifier": "wgrz-2022",
     "collection": [
@@ -9862,12 +9914,7 @@
     "addeddate": "2022-08-03 02:01:34"
   },
   "server": "ia601501.us.archive.org",
-  "uniq": 461624424,
-  "wgrz-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "uniq": 498770942,
   "workable_servers": [
     "ia601501.us.archive.org",
     "ia801501.us.archive.org"

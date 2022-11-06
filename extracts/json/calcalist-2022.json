@@ -1,5 +1,5 @@
 {
-  "created": 1667666883,
+  "created": 1667711247,
   "d1": "ia601401.us.archive.org",
   "d2": "ia801401.us.archive.org",
   "dir": "/17/items/calcalist-2022",
@@ -676,31 +676,93 @@
       "sha1": "709d4f6e3b775cdecb245fa791ae54dffc6aae58"
     },
     {
+      "name": "calcalist-2022-11-06T06:54:46.595726+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667710489",
+      "size": "180783",
+      "md5": "9e5dfc590d7141c6be7ebf93a4500793",
+      "crc32": "6adbfa3c",
+      "sha1": "52da3a8c38a29b471a1ca034770d054f3eeaeddc",
+      "format": "JSON"
+    },
+    {
+      "name": "calcalist-2022-11-06T06:54:46.595726+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667710491",
+      "size": "87276",
+      "md5": "ef61306f015d1ca86995148ff8fd063e",
+      "crc32": "abd702f7",
+      "sha1": "e6e655b258acc0b16715b92e0e9f1eacf9470e50",
+      "format": "JSON"
+    },
+    {
+      "name": "calcalist-2022-11-06T06:54:46.595726+02:00.jpg",
+      "source": "original",
+      "mtime": "1667710488",
+      "size": "300149",
+      "md5": "0dd7d9cc851ec481b67eefd4d6d974c8",
+      "crc32": "b1a7ccfe",
+      "sha1": "5384720505731234f425510fc446cfff37622874",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "calcalist-2022-11-06T06:54:46.595726+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667710492",
+      "size": "1567",
+      "md5": "cdeb31d89bd1ec7222ce62984ae6f9a3",
+      "crc32": "1dd8a693",
+      "sha1": "c20e2c5ace889a19faae1fb5dcbce12f9eeabb78",
+      "format": "JSON"
+    },
+    {
+      "name": "calcalist-2022-11-06T06:54:46.595726+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667710494",
+      "size": "98895",
+      "md5": "2c569f6fbee7bff0cca09d05ba60a9a5",
+      "crc32": "f68ddb7f",
+      "sha1": "95ac1d8eb8ffc99358bf52dff66dc5bca5b4f5b9",
+      "format": "JSON"
+    },
+    {
+      "name": "calcalist-2022-11-06T06:54:46.595726+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "calcalist-2022-11-06T06:54:46.595726+02:00.jpg",
+      "mtime": "1667711233",
+      "size": "9961",
+      "md5": "9438856bc1ba3a65fc97a93b5258851c",
+      "crc32": "61905744",
+      "sha1": "a63174d9778a10469b94b70ab407ea935142ecb2"
+    },
+    {
       "name": "calcalist-2022_archive.torrent",
       "source": "metadata",
-      "btih": "97adeaebcf79823c36ea75b8af4a43953ac67041",
-      "mtime": "1667666809",
-      "size": "15285",
-      "md5": "eac40e1b773d65f1993ddc6de7605b19",
-      "crc32": "ec0d0a6d",
-      "sha1": "dba1a44c41d329ed6d5d06999df58c8307337cdc",
+      "btih": "0f9cea0ce68ec996f564284fc3a695c4730edb3b",
+      "mtime": "1667711239",
+      "size": "16559",
+      "md5": "e81590782f181b80f9e14053935a638a",
+      "crc32": "283b2315",
+      "sha1": "8651f7ed9bb57ffe1167b17d3c2a5c32278c1be1",
       "format": "Archive BitTorrent"
     },
     {
       "name": "calcalist-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "75c6a38f660a13fd5657e78af23067cb",
+      "md5": "d85d1f85adc8b17cd7187cf169981c37",
       "summation": "md5"
     },
     {
       "name": "calcalist-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667665057",
-      "size": "102400",
-      "md5": "16cf3682e0b3a68162faaa0154152d45",
-      "crc32": "29b463a1",
-      "sha1": "a57f4f95fbf1ae7f2c81d18d16c5ef42cd108487",
+      "mtime": "1667710498",
+      "size": "110592",
+      "md5": "dc7380a9eb0ea96598632b4b6b07ea71",
+      "crc32": "d5f13b19",
+      "sha1": "501b2a1566c7fbd26f1a9587c535b0d94778ad69",
       "format": "Metadata"
     },
     {
@@ -714,9 +776,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 69,
-  "item_last_updated": 1667666809,
-  "item_size": 7139701,
+  "files_count": 75,
+  "item_last_updated": 1667711239,
+  "item_size": 7827798,
   "metadata": {
     "identifier": "calcalist-2022",
     "collection": [
@@ -734,7 +796,7 @@
     "addeddate": "2022-11-02 04:24:41"
   },
   "server": "ia601401.us.archive.org",
-  "uniq": 533668270,
+  "uniq": 1249945903,
   "workable_servers": [
     "ia601401.us.archive.org",
     "ia801401.us.archive.org"

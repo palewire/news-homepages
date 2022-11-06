@@ -1,5 +1,5 @@
 {
-  "created": 1667666782,
+  "created": 1667712491,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/zmanisrael-2022",
@@ -750,31 +750,93 @@
       "sha1": "246ff35fd1a041b13f96bab15abb3f964d73e365"
     },
     {
+      "name": "zmanisrael-2022-11-06T07:02:32.302352+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667710955",
+      "size": "343013",
+      "md5": "ce57c4c4a7b96fc6381a0d138f568cfe",
+      "crc32": "5d9b190b",
+      "sha1": "bb3e51729f0ccadf58135587acdc7ae1010772ed",
+      "format": "JSON"
+    },
+    {
+      "name": "zmanisrael-2022-11-06T07:02:32.302352+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667710957",
+      "size": "259957",
+      "md5": "58257ff39d749c396ab7bda8e0601ce3",
+      "crc32": "b4dea074",
+      "sha1": "74983b30c9dea9e41b779449236846788cb49039",
+      "format": "JSON"
+    },
+    {
+      "name": "zmanisrael-2022-11-06T07:02:32.302352+02:00.jpg",
+      "source": "original",
+      "mtime": "1667710954",
+      "size": "163537",
+      "md5": "322cda977e9a47a87c9e017d7a1755dd",
+      "crc32": "e4326fdf",
+      "sha1": "f8124021f213a2c9bc352c2038d718e78a60f0a9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "zmanisrael-2022-11-06T07:02:32.302352+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667710959",
+      "size": "1459",
+      "md5": "bc200e04c60b4edb0009a7cf80e322fd",
+      "crc32": "ed90cd5b",
+      "sha1": "f9d580e6bde610a55e58504fd12e86919151a398",
+      "format": "JSON"
+    },
+    {
+      "name": "zmanisrael-2022-11-06T07:02:32.302352+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667710961",
+      "size": "16304",
+      "md5": "012634170fb9558b1fa53542d0533173",
+      "crc32": "b1265031",
+      "sha1": "12c36764acb623325eecb968278f862b8a3bd8cf",
+      "format": "JSON"
+    },
+    {
+      "name": "zmanisrael-2022-11-06T07:02:32.302352+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "zmanisrael-2022-11-06T07:02:32.302352+02:00.jpg",
+      "mtime": "1667712134",
+      "size": "8395",
+      "md5": "4418214c539032e7198830fd081586c5",
+      "crc32": "fc4d5c55",
+      "sha1": "c54c9b15de9658733569e947235acaf9a60b68a1"
+    },
+    {
       "name": "zmanisrael-2022_archive.torrent",
       "source": "metadata",
-      "btih": "3e087cc29ceeba2a48d05e5e6e314afa4aa5606d",
-      "mtime": "1667666716",
-      "size": "16892",
-      "md5": "c47c8b0d5eca88036ea9626b08fcd9d0",
-      "crc32": "1c826caa",
-      "sha1": "7c7e4d8265c8b65df17f0c1554ad5082f0614207",
+      "btih": "89d917e59fb87e71461b787c3911774a1d0cb2dd",
+      "mtime": "1667712139",
+      "size": "18193",
+      "md5": "b72315031b7cd6726935e4c57a2a9189",
+      "crc32": "c2891411",
+      "sha1": "a2dd92dede37b277e9c5e19fa5ff0036136972b5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "zmanisrael-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "29ab41d3768fbc632accb4d5c3d92c4c",
+      "md5": "a6ee495628ae113f834d1e6f61398361",
       "summation": "md5"
     },
     {
       "name": "zmanisrael-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667665462",
-      "size": "110592",
-      "md5": "dee37553841cde162c5ea8bafb384864",
-      "crc32": "8bf52273",
-      "sha1": "7b364705f9c71f2f3cbbf5f2a596ffae173af6cb",
+      "mtime": "1667710966",
+      "size": "126976",
+      "md5": "9adc109c2d8de0ac30a6402cc1dafbe1",
+      "crc32": "7735dc15",
+      "sha1": "2de14c90088800c1c7fb3391a20002e940d87c5a",
       "format": "Metadata"
     },
     {
@@ -788,9 +850,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 76,
-  "item_last_updated": 1667666716,
-  "item_size": 9197884,
+  "files_count": 82,
+  "item_last_updated": 1667712139,
+  "item_size": 10008234,
   "metadata": {
     "identifier": "zmanisrael-2022",
     "collection": [
@@ -807,10 +869,10 @@
     "publicdate": "2022-11-01 21:20:36",
     "addeddate": "2022-11-01 21:20:36"
   },
-  "server": "ia601501.us.archive.org",
-  "uniq": 346981453,
+  "server": "ia801501.us.archive.org",
+  "uniq": 1986434681,
   "workable_servers": [
-    "ia601501.us.archive.org",
-    "ia801501.us.archive.org"
+    "ia801501.us.archive.org",
+    "ia601501.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667666883,
+  "created": 1667717525,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/26/items/yediotahronot-2022",
@@ -10464,31 +10464,93 @@
       "sha1": "4d136630548ae2c73c2bfb3d5ec7b7c0f93fa32d"
     },
     {
+      "name": "yediotahronot-2022-11-06T07:02:43.128308+02:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667710970",
+      "size": "32343",
+      "md5": "0f134fb93a595e6c4bb284d21608b441",
+      "crc32": "b5113dc9",
+      "sha1": "10f4bdc507a8b7e3823884cb61bb0287193e8373",
+      "format": "JSON"
+    },
+    {
+      "name": "yediotahronot-2022-11-06T07:02:43.128308+02:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667710972",
+      "size": "7233",
+      "md5": "0a7a617b94052b5c9693e490482635bd",
+      "crc32": "12bb1601",
+      "sha1": "82fb21e8213084553c29229f14b184944e033019",
+      "format": "JSON"
+    },
+    {
+      "name": "yediotahronot-2022-11-06T07:02:43.128308+02:00.jpg",
+      "source": "original",
+      "mtime": "1667710968",
+      "size": "289891",
+      "md5": "0478fad331a693b720d6e2ccc1855cbf",
+      "crc32": "70a700d5",
+      "sha1": "ea074fac14454a0a7bfa79b08c7d17758791a3a0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "yediotahronot-2022-11-06T07:02:43.128308+02:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667710973",
+      "size": "1696",
+      "md5": "f2a9c96e289c29b336a91ea228293245",
+      "crc32": "f7aa2c86",
+      "sha1": "21aecc6368a18b88ff83921c5f0eb8983713753d",
+      "format": "JSON"
+    },
+    {
+      "name": "yediotahronot-2022-11-06T07:02:43.128308+02:00.wayback.json",
+      "source": "original",
+      "mtime": "1667710974",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "yediotahronot-2022-11-06T07:02:43.128308+02:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "yediotahronot-2022-11-06T07:02:43.128308+02:00.jpg",
+      "mtime": "1667711781",
+      "size": "10415",
+      "md5": "731398399cfa181c9c475c7984fbe39f",
+      "crc32": "bc1d31fc",
+      "sha1": "02477902374e703dd9d9dafa742b27450a9eedfb"
+    },
+    {
       "name": "yediotahronot-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d7bce49cccb54913e34a6642534ec9edd7d79bf0",
-      "mtime": "1667666853",
-      "size": "219233",
-      "md5": "e6f437df29e6c09412c51f0b6cc11fff",
-      "crc32": "2abbf9ed",
-      "sha1": "2f5685f78695ea102960c26f16180988696853a7",
+      "btih": "2218b6d17930e4fad9b85274574781bbf62035b3",
+      "mtime": "1667711806",
+      "size": "220508",
+      "md5": "06fa1658281336ae37eb0566c31c962a",
+      "crc32": "42e9440b",
+      "sha1": "2c66dc6630be0ff73bee18806932d17a8fb2c625",
       "format": "Archive BitTorrent"
     },
     {
       "name": "yediotahronot-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d8fdb4ba13000d67ccc4c947b9c4cb66",
+      "md5": "e3a757c6efe3860f2cb879a36bf696fd",
       "summation": "md5"
     },
     {
       "name": "yediotahronot-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667665479",
-      "size": "1310720",
-      "md5": "be849fd881ec2e2e877133bfdbcefce5",
-      "crc32": "7f943733",
-      "sha1": "2c15c3db19f3b3ab9495f1daca2c09ba010dd1fa",
+      "mtime": "1667711003",
+      "size": "1318912",
+      "md5": "0db6933b8a725b2a31e57096824ef1f6",
+      "crc32": "fa4e0730",
+      "sha1": "1c6fb1ea846f20d9054d9b87112d750256ee4f48",
       "format": "Metadata"
     },
     {
@@ -10502,9 +10564,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1016,
-  "item_last_updated": 1667666853,
-  "item_size": 65377276,
+  "files_count": 1022,
+  "item_last_updated": 1667711806,
+  "item_size": 65728523,
   "metadata": {
     "identifier": "yediotahronot-2022",
     "collection": [
@@ -10521,10 +10583,15 @@
     "publicdate": "2022-08-14 05:14:33",
     "addeddate": "2022-08-14 05:14:33"
   },
-  "server": "ia801505.us.archive.org",
-  "uniq": 1448221587,
+  "server": "ia601505.us.archive.org",
+  "uniq": 1185043919,
   "workable_servers": [
-    "ia801505.us.archive.org",
-    "ia601505.us.archive.org"
-  ]
+    "ia601505.us.archive.org",
+    "ia801505.us.archive.org"
+  ],
+  "yediotahronot-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  }
 }
