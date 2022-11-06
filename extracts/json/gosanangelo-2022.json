@@ -1,5 +1,5 @@
 {
-  "created": 1667724287,
+  "created": 1667764171,
   "d1": "ia601500.us.archive.org",
   "d2": "ia801500.us.archive.org",
   "dir": "/21/items/gosanangelo-2022",
@@ -5834,31 +5834,93 @@
       "sha1": "2c10037ba9d599bd442a81376ba6df76f00be361"
     },
     {
+      "name": "gosanangelo-2022-11-06T11:57:59.238004-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667757486",
+      "size": "20316",
+      "md5": "bb396c033ba143f79fc6dbf8178be938",
+      "crc32": "e0298de4",
+      "sha1": "3835de08a8ee13a9dd89158839dedb88190e58a2",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-11-06T11:57:59.238004-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667757487",
+      "size": "31969",
+      "md5": "7d5e731b6e8435cc8135e388ab412d2f",
+      "crc32": "18acf64d",
+      "sha1": "ce3d0595dfd1f9e74d57686f56dcfd82b9dd0634",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-11-06T11:57:59.238004-06:00.jpg",
+      "source": "original",
+      "mtime": "1667757484",
+      "size": "266491",
+      "md5": "09b6c99c816145edcedec768649f29a0",
+      "crc32": "96b7ca05",
+      "sha1": "db7a632f20f49886e1f7c52f5da62943fe85a2e9",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gosanangelo-2022-11-06T11:57:59.238004-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667757489",
+      "size": "1504",
+      "md5": "ee70744a59fa4d1f10536a1d62d3f37a",
+      "crc32": "cafe662c",
+      "sha1": "882f113fb3c972d2a3fd2968a2df4b908e31b8da",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-11-06T11:57:59.238004-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667757491",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gosanangelo-2022-11-06T11:57:59.238004-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gosanangelo-2022-11-06T11:57:59.238004-06:00.jpg",
+      "mtime": "1667758333",
+      "size": "9415",
+      "md5": "7082538a61e04470e69c25f5216a7e05",
+      "crc32": "1a9fa6b1",
+      "sha1": "97e534577b984189bda2a76f37106e9fd34473d3"
+    },
+    {
       "name": "gosanangelo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "308f4198e602c898913dcf9686a1d6c35f6a1d64",
-      "mtime": "1667724181",
-      "size": "121682",
-      "md5": "fb0797db76b48b64e2bc0a0fbd3aa1de",
-      "crc32": "5c2aeeea",
-      "sha1": "583fbc76c15db910eb9b2cb899c3886f64739378",
+      "btih": "25da86f49b2be4176c702cadbc470df20658a14c",
+      "mtime": "1667758340",
+      "size": "122945",
+      "md5": "cc97134a84f1b960d6efc93f2fdda5fa",
+      "crc32": "913f7c33",
+      "sha1": "8ae7e26255d357d35f7ec6f4e0618caa4b8eefcc",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gosanangelo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "c866be21d689990aba93767879477485",
+      "md5": "a92bdc8f498ca079455303eb1d5198d1",
       "summation": "md5"
     },
     {
       "name": "gosanangelo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667723695",
-      "size": "741376",
-      "md5": "54c9440beaddb28ce40c8568ea0a4ace",
-      "crc32": "a3577140",
-      "sha1": "cb46f80f1ce0e7d9973ec14e504143fc2ad6a0ae",
+      "mtime": "1667757495",
+      "size": "745472",
+      "md5": "d91888288f91a6b92d040f10f01fb343",
+      "crc32": "b2b59ff5",
+      "sha1": "a171e54383531e7bab21b781561097ce28b28a29",
       "format": "Metadata"
     },
     {
@@ -5872,9 +5934,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 568,
-  "item_last_updated": 1667724181,
-  "item_size": 35851317,
+  "files_count": 574,
+  "gosanangelo-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667758340,
+  "item_size": 36186573,
   "metadata": {
     "identifier": "gosanangelo-2022",
     "collection": [
@@ -5892,7 +5959,7 @@
     "addeddate": "2022-09-20 17:51:45"
   },
   "server": "ia601500.us.archive.org",
-  "uniq": 305873149,
+  "uniq": 1000629111,
   "workable_servers": [
     "ia601500.us.archive.org",
     "ia801500.us.archive.org"

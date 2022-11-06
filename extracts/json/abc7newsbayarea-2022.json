@@ -1,5 +1,5 @@
 {
-  "created": 1667712065,
+  "created": 1667753880,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/0/items/abc7newsbayarea-2022",
@@ -12618,31 +12618,93 @@
       "sha1": "e273411247cda7e0a2dde1b1e3034fa356abf301"
     },
     {
+      "name": "abc7newsbayarea-2022-11-06T08:02:39.698817-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667750570",
+      "size": "28544",
+      "md5": "e892a7df684421999d21924f26830d1f",
+      "crc32": "68d6c26e",
+      "sha1": "038ca20c8cd4475d7461ccdea343703e5f225281",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-11-06T08:02:39.698817-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667750571",
+      "size": "29027",
+      "md5": "6378aa97640d4dc7ba46ca87e9fdb2fd",
+      "crc32": "011cbd8f",
+      "sha1": "4422791e34f1626401be2c87c014a444400bfebb",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-11-06T08:02:39.698817-08:00.jpg",
+      "source": "original",
+      "mtime": "1667750569",
+      "size": "333475",
+      "md5": "e2060f8ef99278976b32744104bb00f7",
+      "crc32": "09df76f7",
+      "sha1": "72ba67bf74cda571cdd61d0597d5dcacb91b4b65",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "abc7newsbayarea-2022-11-06T08:02:39.698817-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667750573",
+      "size": "1441",
+      "md5": "27180ee0dfdfea23d08fd691f69ab1a0",
+      "crc32": "1c0121e7",
+      "sha1": "2b5659ada55d4c5b1d64efc6d5d09a6c0c25667a",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-11-06T08:02:39.698817-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1667750575",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "abc7newsbayarea-2022-11-06T08:02:39.698817-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "abc7newsbayarea-2022-11-06T08:02:39.698817-08:00.jpg",
+      "mtime": "1667753276",
+      "size": "10438",
+      "md5": "e273540367e5ba49eaf52f20c873ccf2",
+      "crc32": "18fb6873",
+      "sha1": "ac0f09fce2adf5cba846a70233313c790700ac7e"
+    },
+    {
       "name": "abc7newsbayarea-2022_archive.torrent",
       "source": "metadata",
-      "btih": "0260371b0ae08bb7fb87ad540294a85366232e49",
-      "mtime": "1667711826",
-      "size": "267226",
-      "md5": "8f316124f3bacc446b72df873066d966",
-      "crc32": "b9960394",
-      "sha1": "cd93f8968bb8e73646349a7dca27334ca83d57fd",
+      "btih": "cc7c1cfe8e76b1d2db8d61da379fb21e09d4e4ff",
+      "mtime": "1667753336",
+      "size": "268534",
+      "md5": "7dfa92d49f00651d5ee38319c362102f",
+      "crc32": "3f3ca4da",
+      "sha1": "4f657d8733db628412e2db981d3c846a9379c1d5",
       "format": "Archive BitTorrent"
     },
     {
       "name": "abc7newsbayarea-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "db0a67cb22bd3f8b8726173d5b3fe813",
+      "md5": "509ac1fde0a7aa6c218be559c72aa76c",
       "summation": "md5"
     },
     {
       "name": "abc7newsbayarea-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667710255",
-      "size": "1572864",
-      "md5": "9b0ea64ad35835e508f83fd97300124e",
-      "crc32": "b5b524e3",
-      "sha1": "a766bcf8f8f5e91399e4ab024f82be574c82c419",
+      "mtime": "1667750582",
+      "size": "1585152",
+      "md5": "39bd2e9dc066ba0b0637c35945411e4f",
+      "crc32": "d0c8a159",
+      "sha1": "d632683adbaf2bea42d84ba85297a1498f9bb2f6",
       "format": "Metadata"
     },
     {
@@ -12656,9 +12718,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1224,
-  "item_last_updated": 1667711826,
-  "item_size": 92288876,
+  "files_count": 1230,
+  "item_last_updated": 1667753336,
+  "item_size": 92705599,
   "metadata": {
     "identifier": "abc7newsbayarea-2022",
     "collection": [
@@ -12676,9 +12738,9 @@
     "addeddate": "2022-07-26 01:30:06"
   },
   "server": "ia801403.us.archive.org",
-  "uniq": 585412262,
+  "servers_unavailable": true,
+  "uniq": 541347193,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia801403.us.archive.org"
   ]
 }

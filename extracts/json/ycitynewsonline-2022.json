@@ -1,5 +1,6 @@
 {
-  "created": 1667717493,
+  "conflict": 1667752649,
+  "created": 1667752649,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/17/items/ycitynewsonline-2022",
@@ -12667,15 +12668,21 @@
     "publicdate": "2022-07-26 01:40:32",
     "addeddate": "2022-07-26 01:40:32"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 299449655,
-  "workable_servers": [
-    "ia601403.us.archive.org",
-    "ia801403.us.archive.org"
+  "pending_tasks": true,
+  "server": "ia801403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463800085,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
   ],
-  "ycitynewsonline-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  }
+  "uniq": 1835339558,
+  "workable_servers": [
+    "ia801403.us.archive.org"
+  ]
 }

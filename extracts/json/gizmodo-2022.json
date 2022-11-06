@@ -1,5 +1,5 @@
 {
-  "created": 1667724239,
+  "created": 1667764154,
   "d1": "ia601501.us.archive.org",
   "d2": "ia801501.us.archive.org",
   "dir": "/12/items/gizmodo-2022",
@@ -14240,31 +14240,93 @@
       "sha1": "0e5354eb400a49dd9ea8e767b6547a6357ddd11b"
     },
     {
+      "name": "gizmodo-2022-11-06T09:58:18.479584-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667757505",
+      "size": "46158",
+      "md5": "c4af12272f1c4a0ef277bcf2e40801fe",
+      "crc32": "eb43c27f",
+      "sha1": "42ac68fbb9d8ed8450b6d8759a6f8232f0938f0f",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-11-06T09:58:18.479584-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667757507",
+      "size": "33364",
+      "md5": "f9aa522838af880f2ed32ac70d1041a6",
+      "crc32": "59fefaa9",
+      "sha1": "16abfae44254dad837f289e7bddf8d227186b17c",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-11-06T09:58:18.479584-08:00.jpg",
+      "source": "original",
+      "mtime": "1667757502",
+      "size": "278242",
+      "md5": "7f7f2cbc66bde884e89886d8e44f0243",
+      "crc32": "bcb92a77",
+      "sha1": "259bb5e982a26aed4662a696a301c9f8b95770bf",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "gizmodo-2022-11-06T09:58:18.479584-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667757508",
+      "size": "1428",
+      "md5": "1322a3d8e04358785a5c691271224cfd",
+      "crc32": "e8552ffe",
+      "sha1": "30c9a0e2b8a81a5e999680da28bbd706889558dd",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-11-06T09:58:18.479584-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1667757510",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "gizmodo-2022-11-06T09:58:18.479584-08:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "gizmodo-2022-11-06T09:58:18.479584-08:00.jpg",
+      "mtime": "1667759101",
+      "size": "11210",
+      "md5": "31e21a8e0c5eb94b2788061b874a4451",
+      "crc32": "bfa990b8",
+      "sha1": "d1265478e946240702876b9dddf673d9b2d4a357"
+    },
+    {
       "name": "gizmodo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a8b1693447c35d27eca7e4f62a0de49cb6fb5c38",
-      "mtime": "1667724166",
-      "size": "288958",
-      "md5": "d4b22f87f97109a4da14f11035c85e2c",
-      "crc32": "8d2a32e0",
-      "sha1": "e9782082271627cc1217f26a4e927e3c5e431770",
+      "btih": "38da7cfc0d17108ecb1f90121a0f4e2cc4e1a105",
+      "mtime": "1667759125",
+      "size": "290218",
+      "md5": "36c88bb6027bf069d41ffc3e7281a106",
+      "crc32": "abf2c1f5",
+      "sha1": "0ca119957a609cf627e43f4c8e92e16c43cb81f6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "gizmodo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "74097c459a6702fe436484a0dd7541d0",
+      "md5": "9bf5d6cfc35f3b65de982b7acba4271c",
       "summation": "md5"
     },
     {
       "name": "gizmodo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667723715",
-      "size": "1699840",
-      "md5": "6b1ef9b9bd795e1092ed4cf217efa8a7",
-      "crc32": "3bd7ed27",
-      "sha1": "1fbc4d47d4249167226931fda39b20b93ad7d463",
+      "mtime": "1667757530",
+      "size": "1703936",
+      "md5": "84eae1732a5c37a289a61352a2ba4684",
+      "crc32": "5536ee88",
+      "sha1": "afdedadca8e77733ccc11864c9351e4f5bc58ab3",
       "format": "Metadata"
     },
     {
@@ -14278,9 +14340,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1375,
-  "item_last_updated": 1667724166,
-  "item_size": 111890754,
+  "files_count": 1381,
+  "gizmodo-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667759125,
+  "item_size": 112266714,
   "metadata": {
     "identifier": "gizmodo-2022",
     "collection": [
@@ -14298,7 +14365,7 @@
     "addeddate": "2022-07-04 20:17:36"
   },
   "server": "ia801501.us.archive.org",
-  "uniq": 677187945,
+  "uniq": 242009909,
   "workable_servers": [
     "ia801501.us.archive.org",
     "ia601501.us.archive.org"

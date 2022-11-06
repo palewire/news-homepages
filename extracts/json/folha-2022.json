@@ -1,5 +1,5 @@
 {
-  "created": 1667724132,
+  "created": 1667763886,
   "d1": "ia601508.us.archive.org",
   "d2": "ia801508.us.archive.org",
   "dir": "/12/items/folha-2022",
@@ -16844,31 +16844,93 @@
       "sha1": "a86ae6d97167282adef82cbb68ba333530de7055"
     },
     {
+      "name": "folha-2022-11-06T14:58:21.407026-03:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667757506",
+      "size": "98313",
+      "md5": "92a61caeb2832fec69e983a091ef77fa",
+      "crc32": "2649fa7b",
+      "sha1": "c1b0f328e996c84817c4737fb92dded8dfe7e3a4",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-11-06T14:58:21.407026-03:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667757508",
+      "size": "98683",
+      "md5": "168c815f658db3362d6b48de11dee940",
+      "crc32": "e44d0b1c",
+      "sha1": "e5ee07ebfc8b75b97a2ce38b6fd8f6501b0b4c18",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-11-06T14:58:21.407026-03:00.jpg",
+      "source": "original",
+      "mtime": "1667757503",
+      "size": "274781",
+      "md5": "879b1a5e65542724cac55bce5ad14176",
+      "crc32": "b87ce437",
+      "sha1": "76ac701997ee9dccd37dfda4f0671c46a8d82241",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "folha-2022-11-06T14:58:21.407026-03:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667757509",
+      "size": "1513",
+      "md5": "e1368b93206378c7e90dfa011d53fd64",
+      "crc32": "2ab1f1b9",
+      "sha1": "a54a50c747946b4583cf416e18406a9cad9d669f",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-11-06T14:58:21.407026-03:00.wayback.json",
+      "source": "original",
+      "mtime": "1667757511",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "folha-2022-11-06T14:58:21.407026-03:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "folha-2022-11-06T14:58:21.407026-03:00.jpg",
+      "mtime": "1667759065",
+      "size": "9936",
+      "md5": "8e8352b3b86a613a89f0daf3a752557b",
+      "crc32": "f000128f",
+      "sha1": "c51993a428c8ce1510c2c18d93d27819073f6904"
+    },
+    {
       "name": "folha-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9cb0b8343c799f9a3c93305987cf67e5f97d3677",
-      "mtime": "1667723987",
-      "size": "340998",
-      "md5": "c593251fae5b3d772188d1fc4ed30924",
-      "crc32": "67ddc8f9",
-      "sha1": "3cb2af7b9ba5c004dcce61f657c55485dc5af0ba",
+      "btih": "c6ca868a572ee9b5e6bb46306743fc46cc740ccf",
+      "mtime": "1667759104",
+      "size": "342245",
+      "md5": "837c70dd8a315057c51ecfa678fc15da",
+      "crc32": "d4a17f10",
+      "sha1": "36e537110d05ae2a759f4758b081a1e0e4c38cd6",
       "format": "Archive BitTorrent"
     },
     {
       "name": "folha-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "484e6d6f26088219290acda074dbb0d5",
+      "md5": "a459fd63c5ae051403a09cd52691f513",
       "summation": "md5"
     },
     {
       "name": "folha-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667723538",
-      "size": "2064384",
-      "md5": "bb507c89aad10742b1e61d80ed534587",
-      "crc32": "3bd82000",
-      "sha1": "fb2f77cea7ecbf1da5181b19b3f0e0adf4d94942",
+      "mtime": "1667757520",
+      "size": "2068480",
+      "md5": "a58ce3927cb7f838f344db2bcec96e97",
+      "crc32": "e793319c",
+      "sha1": "dcc943f3378bec027c70fb344144436d8c05c061",
       "format": "Metadata"
     },
     {
@@ -16882,9 +16944,14 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1633,
-  "item_last_updated": 1667723987,
-  "item_size": 148146925,
+  "files_count": 1639,
+  "folha-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "item_last_updated": 1667759104,
+  "item_size": 148635696,
   "metadata": {
     "identifier": "folha-2022",
     "collection": [
@@ -16901,10 +16968,10 @@
     "publicdate": "2022-08-02 14:53:33",
     "addeddate": "2022-08-02 14:53:33"
   },
-  "server": "ia601508.us.archive.org",
-  "uniq": 342645822,
+  "server": "ia801508.us.archive.org",
+  "uniq": 632570320,
   "workable_servers": [
-    "ia601508.us.archive.org",
-    "ia801508.us.archive.org"
+    "ia801508.us.archive.org",
+    "ia601508.us.archive.org"
   ]
 }

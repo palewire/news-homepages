@@ -1,5 +1,10 @@
 {
-  "created": 1667711480,
+  "belt_magazine-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
+  "created": 1667754536,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/21/items/belt_magazine-2022",
@@ -14042,31 +14047,93 @@
       "sha1": "74d127c609b252b8aaf6705c5f9da5ef9e333afc"
     },
     {
+      "name": "belt_magazine-2022-11-06T11:06:17.102514-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667750789",
+      "size": "17355",
+      "md5": "03bf6d150991b0f83a0d28d23a7c4dd3",
+      "crc32": "3b3da367",
+      "sha1": "cb3c2044e2e63fa40f59be3886c7ba543b45dc63",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-11-06T11:06:17.102514-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667750791",
+      "size": "18073",
+      "md5": "8a091c0d8860a02d598699a9665f0f95",
+      "crc32": "a59aabe9",
+      "sha1": "0540b7aad4f160e8ee34e6e2ba5d7ebd71573344",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-11-06T11:06:17.102514-05:00.jpg",
+      "source": "original",
+      "mtime": "1667750787",
+      "size": "185726",
+      "md5": "dea954218dcf1a4ba48ad9509eaecdc5",
+      "crc32": "1717d947",
+      "sha1": "d681e9eb73ffb4bbe41a1b12fff77617cfc660e8",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "belt_magazine-2022-11-06T11:06:17.102514-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667750792",
+      "size": "1431",
+      "md5": "f83816fbe44774e2bc5d02f199173883",
+      "crc32": "7d31913d",
+      "sha1": "9d1b77ff7f5272b94303f1508320c667eef24974",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-11-06T11:06:17.102514-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667750794",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "belt_magazine-2022-11-06T11:06:17.102514-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "belt_magazine-2022-11-06T11:06:17.102514-05:00.jpg",
+      "mtime": "1667752484",
+      "size": "9598",
+      "md5": "8df71b840b125727415514e0ea01e6a6",
+      "crc32": "ef8b97d5",
+      "sha1": "74d127c609b252b8aaf6705c5f9da5ef9e333afc"
+    },
+    {
       "name": "belt_magazine-2022_archive.torrent",
       "source": "metadata",
-      "btih": "a7c4a56a0fd0e5bd3d111a2c51b2cf7722296344",
-      "mtime": "1667711439",
-      "size": "292607",
-      "md5": "c35432b977b9af5074b4a6a725d670ed",
-      "crc32": "1c100226",
-      "sha1": "a83cc9c38d55652ec20957ff0b18e4c7e4225dcc",
+      "btih": "57f874b9fd126c2c7c00f7f39fe66f2b782ec4c0",
+      "mtime": "1667752502",
+      "size": "293902",
+      "md5": "21974caac103e291cdf8aacb004e0db5",
+      "crc32": "0c62f479",
+      "sha1": "763771ca5a57702ba42ec6f8f7a81a22dba8ee65",
       "format": "Archive BitTorrent"
     },
     {
       "name": "belt_magazine-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "6f736e6ed46a1e7f832530521c3dc111",
+      "md5": "ed2e86982fb9c5ef0fb8abde7d31373b",
       "summation": "md5"
     },
     {
       "name": "belt_magazine-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667710522",
-      "size": "1728512",
-      "md5": "2cbb575360db6460266f81b8ab4b75a0",
-      "crc32": "59a911eb",
-      "sha1": "59a5236280983b04ced38de009aa90882dc85172",
+      "mtime": "1667750797",
+      "size": "1732608",
+      "md5": "71327fe8ad1db9882b20c3a346c202b1",
+      "crc32": "d2828571",
+      "sha1": "9539e356d3d3a34bf8e557c2b5074af4d7cfd155",
       "format": "Metadata"
     },
     {
@@ -14080,9 +14147,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1360,
-  "item_last_updated": 1667711439,
-  "item_size": 68885911,
+  "files_count": 1366,
+  "item_last_updated": 1667752502,
+  "item_size": 69123687,
   "metadata": {
     "identifier": "belt_magazine-2022",
     "collection": [
@@ -14100,7 +14167,7 @@
     "addeddate": "2022-07-09 03:56:11"
   },
   "server": "ia802502.us.archive.org",
-  "uniq": 1233767348,
+  "uniq": 1090732042,
   "workable_servers": [
     "ia802502.us.archive.org",
     "ia902502.us.archive.org"
