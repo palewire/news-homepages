@@ -1,5 +1,6 @@
 {
-  "created": 1667667191,
+  "conflict": 1667701865,
+  "created": 1667696612,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/22/items/jdnews-2022",
@@ -5811,6 +5812,7 @@
     }
   ],
   "files_count": 562,
+  "has_redrow": true,
   "item_last_updated": 1667654905,
   "item_size": 38600309,
   "metadata": {
@@ -5829,10 +5831,53 @@
     "publicdate": "2022-09-20 22:24:57",
     "addeddate": "2022-09-20 22:24:57"
   },
+  "pending_tasks": true,
   "server": "ia801403.us.archive.org",
-  "uniq": 2134498580,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463299355,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
+    },
+    {
+      "task_id": 3463299376,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463299427,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463299460,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463299485,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1146321274,
   "workable_servers": [
-    "ia801403.us.archive.org",
-    "ia601403.us.archive.org"
+    "ia801403.us.archive.org"
   ]
 }

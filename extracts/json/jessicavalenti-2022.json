@@ -1,5 +1,6 @@
 {
-  "created": 1667660031,
+  "conflict": 1667701878,
+  "created": 1667696629,
   "d1": "ia601403.us.archive.org",
   "d2": "ia801403.us.archive.org",
   "dir": "/26/items/jessicavalenti-2022",
@@ -10357,6 +10358,7 @@
     }
   ],
   "files_count": 1002,
+  "has_redrow": true,
   "item_last_updated": 1667655560,
   "item_size": 44004271,
   "metadata": {
@@ -10375,10 +10377,53 @@
     "publicdate": "2022-08-14 20:19:10",
     "addeddate": "2022-08-14 20:19:10"
   },
-  "server": "ia601403.us.archive.org",
-  "uniq": 728468982,
+  "pending_tasks": true,
+  "server": "ia801403.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463299055,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 2,
+      "color": "red",
+      "status": "error"
+    },
+    {
+      "task_id": 3463299091,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463299117,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463299147,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463299168,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1351410072,
   "workable_servers": [
-    "ia601403.us.archive.org",
     "ia801403.us.archive.org"
   ]
 }

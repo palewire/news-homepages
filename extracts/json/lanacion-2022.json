@@ -1,5 +1,5 @@
 {
-  "created": 1667655748,
+  "created": 1667698343,
   "d1": "ia601505.us.archive.org",
   "d2": "ia801505.us.archive.org",
   "dir": "/19/items/lanacion-2022",
@@ -11007,10 +11007,53 @@
     "publicdate": "2022-08-10 00:54:58",
     "addeddate": "2022-08-10 00:54:58"
   },
+  "pending_tasks": true,
   "server": "ia601505.us.archive.org",
-  "uniq": 179356823,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463301375,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463301400,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463301437,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463301462,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    },
+    {
+      "task_id": 3463301492,
+      "cmd": "archive.php",
+      "priority": -5,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 5780089,
   "workable_servers": [
-    "ia601505.us.archive.org",
-    "ia801505.us.archive.org"
+    "ia601505.us.archive.org"
   ]
 }
