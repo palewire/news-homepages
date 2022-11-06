@@ -1,5 +1,5 @@
 {
-  "created": 1667688766,
+  "created": 1667731430,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/27/items/albany_herald-2022",
@@ -13019,31 +13019,93 @@
       "format": "JSON"
     },
     {
+      "name": "albany_herald-2022-11-05T18:51:04.898748-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "albany_herald-2022-11-05T18:51:04.898748-04:00.jpg",
+      "mtime": "1667690116",
+      "size": "9720",
+      "md5": "4ec7bd9a0cb9afe86b258430d09e1583",
+      "crc32": "281864cb",
+      "sha1": "e83508ea18d8c2361176fb801e7f384f723d70ef"
+    },
+    {
+      "name": "albany_herald-2022-11-06T05:42:22.967865-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667731356",
+      "size": "70673",
+      "md5": "b5c6e1b42ae1979cb2c8fb83a1185862",
+      "crc32": "d6fcbbe5",
+      "sha1": "00242506d8a12f418f2295641969ecbcb9fdadcb",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-11-06T05:42:22.967865-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667731358",
+      "size": "141708",
+      "md5": "9acaefae7c556dae1c0a9151f8029686",
+      "crc32": "23ac7181",
+      "sha1": "c4148dec86ee04685096107c96f33e1b8ec4b340",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-11-06T05:42:22.967865-05:00.jpg",
+      "source": "original",
+      "mtime": "1667731353",
+      "size": "222905",
+      "md5": "72856729200328ec86c3a309deff5d3e",
+      "crc32": "68eda7aa",
+      "sha1": "ed093a211ea733184d85732bc6c7c4014625e821",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "albany_herald-2022-11-06T05:42:22.967865-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667731360",
+      "size": "1510",
+      "md5": "380a1e59520039e2e3ea869b83dc380d",
+      "crc32": "a92ac237",
+      "sha1": "8104cf15e6b574114dcfed173b4e6847b0e3eeda",
+      "format": "JSON"
+    },
+    {
+      "name": "albany_herald-2022-11-06T05:42:22.967865-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667731361",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "albany_herald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "88461e594881d6549462abf777176307da2b821d",
-      "mtime": "1667688756",
-      "size": "274273",
-      "md5": "defc1555ecb0e52023d0316c73eb26e7",
-      "crc32": "b3215e47",
-      "sha1": "5150194ab7456f027b176c7c0c54737da166446b",
+      "btih": "61aacd2368abd9f4550add77380fa350df05e0df",
+      "mtime": "1667731426",
+      "size": "275569",
+      "md5": "29903c03de4925db0c7b6df4de02cdfa",
+      "crc32": "7b7873b6",
+      "sha1": "5fb4eef28aff677369e0a0adf7653861d8dd8faf",
       "format": "Archive BitTorrent"
     },
     {
       "name": "albany_herald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "bff2f4002a64d207a201909775a9c93b",
+      "md5": "cb51cdfa75b137e1c64020da7acabbb4",
       "summation": "md5"
     },
     {
       "name": "albany_herald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667688696",
-      "size": "1613824",
-      "md5": "d55d33e2bc5ec7199a1f1d1357176f4f",
-      "crc32": "80fc9066",
-      "sha1": "ba8c467632dbef0642220e18f4755be3eb04baa3",
+      "mtime": "1667731376",
+      "size": "1622016",
+      "md5": "1f8315c74893d5641bf804e972a95175",
+      "crc32": "7e9f83d8",
+      "sha1": "e693fcd1df78354f996ff38c701051d6679c2998",
       "format": "Metadata"
     },
     {
@@ -13057,9 +13119,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1262,
-  "item_last_updated": 1667688756,
-  "item_size": 125244288,
+  "files_count": 1268,
+  "item_last_updated": 1667731426,
+  "item_size": 125700494,
   "metadata": {
     "identifier": "albany_herald-2022",
     "collection": [
@@ -13081,15 +13143,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3463201534,
+      "task_id": 3463620582,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 860507495,
+  "uniq": 1331188622,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

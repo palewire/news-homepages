@@ -1,5 +1,5 @@
 {
-  "created": 1667689106,
+  "created": 1667731619,
   "d1": "ia601406.us.archive.org",
   "d2": "ia801406.us.archive.org",
   "dir": "/10/items/bulwarkonline-2022",
@@ -19519,31 +19519,93 @@
       "format": "JSON"
     },
     {
+      "name": "bulwarkonline-2022-11-05T18:56:21.226347-04:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "bulwarkonline-2022-11-05T18:56:21.226347-04:00.jpg",
+      "mtime": "1667690005",
+      "size": "10091",
+      "md5": "d57ce7ac4425d0f090aff93e9366e175",
+      "crc32": "427ec4e7",
+      "sha1": "59e02b11bca97ad82edef3a43d76d8256ac299cf"
+    },
+    {
+      "name": "bulwarkonline-2022-11-06T05:45:30.532864-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667731538",
+      "size": "15738",
+      "md5": "72103e41873ebbccaf3c2f6551e08fec",
+      "crc32": "d3036d69",
+      "sha1": "85072159c8543ffd2a68b4195a43c7957bbe4b51",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-11-06T05:45:30.532864-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667731540",
+      "size": "13570",
+      "md5": "571955eba30ea360819be2ab48c10b64",
+      "crc32": "67e9e424",
+      "sha1": "41e63ab44cd4a9707451f1b6d53b17f4bf2c0387",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-11-06T05:45:30.532864-05:00.jpg",
+      "source": "original",
+      "mtime": "1667731537",
+      "size": "232582",
+      "md5": "e21b55b49b0b0bcee7400497ad97765c",
+      "crc32": "b3c98363",
+      "sha1": "56cfa8e44a607cca890d8dec2f6ce53de0395ce6",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "bulwarkonline-2022-11-06T05:45:30.532864-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667731542",
+      "size": "1486",
+      "md5": "9a8612102b2d116ee0fe3bb4bd5aeaba",
+      "crc32": "9ec58665",
+      "sha1": "cf0b615af3e0107d8f4f6735bd6f86d6f6f7ffdc",
+      "format": "JSON"
+    },
+    {
+      "name": "bulwarkonline-2022-11-06T05:45:30.532864-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667731543",
+      "size": "18895",
+      "md5": "76a92bb4440015018c086be3a0ad6a49",
+      "crc32": "567c0749",
+      "sha1": "5b3be2aad387aa0cb066de48443aa1a36e63022d",
+      "format": "JSON"
+    },
+    {
       "name": "bulwarkonline-2022_archive.torrent",
       "source": "metadata",
-      "btih": "2f18a37b2a52b16e86cb4081ee29d56f90ff5797",
-      "mtime": "1667689097",
-      "size": "406824",
-      "md5": "2a2ffbeed98a3b599059e3b422b71887",
-      "crc32": "9584c07b",
-      "sha1": "ebbf2c7dcb360b2b0482d4730cc5b10e76f59666",
+      "btih": "12228211ccc26b48fc844451394b4428817a0637",
+      "mtime": "1667731613",
+      "size": "408122",
+      "md5": "46dffc9780efc888731736d285d70b97",
+      "crc32": "5d0acdf3",
+      "sha1": "4eab3aaf880a5408fec2d6854731240af918cd8e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "bulwarkonline-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "cb7b37a2931ab09cb0eab8d4c6384c80",
+      "md5": "52104aab361c36895ac828cd5d1530d5",
       "summation": "md5"
     },
     {
       "name": "bulwarkonline-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667689037",
-      "size": "2408448",
-      "md5": "ad31892f2cd71401aee41df7da6b70a7",
-      "crc32": "a4094bb6",
-      "sha1": "44f4300a84a8755265d0b073b6fe93b4dc90c8ac",
+      "mtime": "1667731550",
+      "size": "2416640",
+      "md5": "019462276f7a3773a6171c675aea85ca",
+      "crc32": "36e5782a",
+      "sha1": "de7d527df29853237159012b4bf6fb6cc3dd44af",
       "format": "Metadata"
     },
     {
@@ -19557,9 +19619,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1890,
-  "item_last_updated": 1667689097,
-  "item_size": 111454471,
+  "files_count": 1896,
+  "item_last_updated": 1667731613,
+  "item_size": 111756323,
   "metadata": {
     "identifier": "bulwarkonline-2022",
     "collection": [
@@ -19581,15 +19643,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3463204684,
+      "task_id": 3463622275,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1761874758,
+  "uniq": 420618088,
   "workable_servers": [
     "ia601406.us.archive.org"
   ]

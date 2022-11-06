@@ -1,10 +1,5 @@
 {
-  "9to5mac-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667689295,
+  "created": 1667731391,
   "d1": "ia902507.us.archive.org",
   "d2": "ia802507.us.archive.org",
   "dir": "/34/items/9to5mac-2022",
@@ -12781,31 +12776,93 @@
       "format": "JSON"
     },
     {
+      "name": "9to5mac-2022-11-05T15:50:07.754641-07:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "9to5mac-2022-11-05T15:50:07.754641-07:00.jpg",
+      "mtime": "1667689666",
+      "size": "9327",
+      "md5": "cd23564c86e8b0a9224521462b363a3f",
+      "crc32": "8c614575",
+      "sha1": "8448083bb1dfb7e562f478a0925edc5021741bfa"
+    },
+    {
+      "name": "9to5mac-2022-11-06T02:41:59.544603-08:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667731331",
+      "size": "68158",
+      "md5": "f3e44fa49ab68ee0a391f4eb44db793c",
+      "crc32": "9536b7e9",
+      "sha1": "e37c381c98ea9a6c6f23a506471207cd0e9cc430",
+      "format": "JSON"
+    },
+    {
+      "name": "9to5mac-2022-11-06T02:41:59.544603-08:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667731332",
+      "size": "60366",
+      "md5": "eca4d9293453a7fc3bfdf3c7cc94bc32",
+      "crc32": "a7f89fd5",
+      "sha1": "72c1c9a80ea96c3533d5ac8bb41278a02c6ccb3f",
+      "format": "JSON"
+    },
+    {
+      "name": "9to5mac-2022-11-06T02:41:59.544603-08:00.jpg",
+      "source": "original",
+      "mtime": "1667731329",
+      "size": "214012",
+      "md5": "1541d8a47867b9f45507186b13cdec53",
+      "crc32": "79b60ce1",
+      "sha1": "0695ba463c65b3368a406a9d23c6a34d52e826ec",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "9to5mac-2022-11-06T02:41:59.544603-08:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667731334",
+      "size": "1430",
+      "md5": "2cf871f336e36432669c75833d4fcd66",
+      "crc32": "fa9903ee",
+      "sha1": "cdd14b03e9b61e15dd012c1659ab3d0257c143a7",
+      "format": "JSON"
+    },
+    {
+      "name": "9to5mac-2022-11-06T02:41:59.544603-08:00.wayback.json",
+      "source": "original",
+      "mtime": "1667731336",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "9to5mac-2022_archive.torrent",
       "source": "metadata",
-      "btih": "19faa48bea136c51b45d80803f07318e19a5fc6f",
-      "mtime": "1667688677",
-      "size": "260214",
-      "md5": "d2355f84e4b317a3f8ae4df4c08d8fd2",
-      "crc32": "2a92f004",
-      "sha1": "b7436a7b12f9638aec19a1beb0b6ba307e86e53a",
+      "btih": "84a8e73bd80dce6f81560dd95b896a7aacc280c2",
+      "mtime": "1667731387",
+      "size": "261473",
+      "md5": "2d4edff3b2e1b9a5346cdedec3b2bf26",
+      "crc32": "953c80a5",
+      "sha1": "3ee3d10872f30c0759ce893e2adab542c0ec3f45",
       "format": "Archive BitTorrent"
     },
     {
       "name": "9to5mac-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "950eccf6466d7722751725b63a0df547",
+      "md5": "812ffc8dc528ec9d71381bb130c51e20",
       "summation": "md5"
     },
     {
       "name": "9to5mac-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667688630",
-      "size": "1572864",
-      "md5": "2116d7a470e3e971ee0b52437561f5ef",
-      "crc32": "2ce41da8",
-      "sha1": "d7fab21a2d3fb11b81e6009fdfa9987f4fb5e527",
+      "mtime": "1667731341",
+      "size": "1581056",
+      "md5": "b1a0e39de5f8ac2de4f904d894605c46",
+      "crc32": "8f780055",
+      "sha1": "0a30360572910d515a133832616d684532fb7466",
       "format": "Metadata"
     },
     {
@@ -12830,9 +12887,9 @@
       "rotation": "0"
     }
   ],
-  "files_count": 1240,
-  "item_last_updated": 1667688677,
-  "item_size": 85541924,
+  "files_count": 1246,
+  "item_last_updated": 1667731387,
+  "item_size": 85904870,
   "metadata": {
     "identifier": "9to5mac-2022",
     "collection": [
@@ -12854,15 +12911,15 @@
   "servers_unavailable": true,
   "tasks": [
     {
-      "task_id": 3463200564,
+      "task_id": 3463620112,
       "cmd": "derive.php",
       "priority": -6,
-      "wait_admin": 0,
-      "color": "green",
-      "status": "queued"
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
     }
   ],
-  "uniq": 1074687461,
+  "uniq": 913582719,
   "workable_servers": [
     "ia902507.us.archive.org"
   ]
