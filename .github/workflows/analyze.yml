@@ -86,6 +86,11 @@ jobs:
         name: Install
         uses: ./.github/actions/install
 
+      - id: install-spacy
+        name: Install Spacy language dictionary
+        run: pipenv run python -m spacy download en_core_web_lg
+        shell: bash
+
       - id: analyze
         name: Analyze Drudge hyperlinks
         run: pipenv run python -m newshomepages.analyze drudge-entities;
