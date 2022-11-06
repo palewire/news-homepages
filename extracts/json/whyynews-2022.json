@@ -1,5 +1,5 @@
 {
-  "created": 1667711695,
+  "created": 1667753927,
   "d1": "ia902508.us.archive.org",
   "d2": "ia802508.us.archive.org",
   "dir": "/24/items/whyynews-2022",
@@ -14896,31 +14896,83 @@
       "sha1": "90a6d8e445f3692e7877a548aded1d238b1e62eb"
     },
     {
+      "name": "whyynews-2022-11-06T11:09:05.318396-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667750967",
+      "size": "28589",
+      "md5": "7c0cd42fc19526764abe43b278fcec71",
+      "crc32": "7d8de7ff",
+      "sha1": "cba8311a77f2553f2470843e1225533cdee2e2aa",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-11-06T11:09:05.318396-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667750969",
+      "size": "27950",
+      "md5": "dd93454dfa99ce0fc50f3cd08fed7ae0",
+      "crc32": "fef9bf16",
+      "sha1": "11b9e27f3d43e9fb84a5c84f28f1b8148012eb08",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-11-06T11:09:05.318396-05:00.jpg",
+      "source": "original",
+      "mtime": "1667750965",
+      "size": "215261",
+      "md5": "f9117e127e7189a4d98870adb4898cdb",
+      "crc32": "6815d9f4",
+      "sha1": "3c2874db8f3a7465f657395d635aae9be6bdac5f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "whyynews-2022-11-06T11:09:05.318396-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667750971",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "whyynews-2022-11-06T11:09:05.318396-05:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "whyynews-2022-11-06T11:09:05.318396-05:00.jpg",
+      "mtime": "1667751794",
+      "size": "9159",
+      "md5": "a7adaaa49e0b6c12e6f4e7f3d77d8024",
+      "crc32": "643dffb1",
+      "sha1": "6e41d74b12acb93314c5d71450d5142c29b81e67"
+    },
+    {
       "name": "whyynews-2022_archive.torrent",
       "source": "metadata",
-      "btih": "8cfe55c1f0eeb144da0becc027f3a4b3dbddc7c0",
-      "mtime": "1667711627",
-      "size": "302456",
-      "md5": "2ebf0ccad0f76965345656c5894ed4a5",
-      "crc32": "3c12ff99",
-      "sha1": "e86ed8094120fb18f8bebb556ab7d9f8fe585ffd",
+      "btih": "c1c5c64ea730d1fb59c56fc755bf56fb1c50c17b",
+      "mtime": "1667751839",
+      "size": "303491",
+      "md5": "aa2595434956b6cc2f084bbb6f164ca8",
+      "crc32": "fdcec1ff",
+      "sha1": "ca61f6ea87609e2ac8d6236adadc113751847329",
       "format": "Archive BitTorrent"
     },
     {
       "name": "whyynews-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2f34b5bfb528b95e60492787fa1f4c2b",
+      "md5": "990a134584ec35b90decacdb1520147b",
       "summation": "md5"
     },
     {
       "name": "whyynews-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667710763",
-      "size": "1802240",
-      "md5": "ded761f12878bff5595177a569b756c4",
-      "crc32": "30a9beae",
-      "sha1": "4c6fbb3c54760b797d18b2dec920ea3cd866b88a",
+      "mtime": "1667750974",
+      "size": "1810432",
+      "md5": "0c5f8290c7a97d1bbf53a44bb8450856",
+      "crc32": "808105f0",
+      "sha1": "9019c2c4adc8cb11125df2f4d7134cda2e549d2c",
       "format": "Metadata"
     },
     {
@@ -14934,9 +14986,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1441,
-  "item_last_updated": 1667711627,
-  "item_size": 77942673,
+  "files_count": 1446,
+  "item_last_updated": 1667751839,
+  "item_size": 78233061,
   "metadata": {
     "identifier": "whyynews-2022",
     "collection": [
@@ -14953,10 +15005,15 @@
     "publicdate": "2022-07-03 15:52:45",
     "addeddate": "2022-07-03 15:52:45"
   },
-  "server": "ia802508.us.archive.org",
-  "uniq": 442951218,
+  "server": "ia902508.us.archive.org",
+  "uniq": 1893443586,
+  "whyynews-2022": {
+    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
+    "status": "error",
+    "status_ext": "error:user-session-limit"
+  },
   "workable_servers": [
-    "ia802508.us.archive.org",
-    "ia902508.us.archive.org"
+    "ia902508.us.archive.org",
+    "ia802508.us.archive.org"
   ]
 }

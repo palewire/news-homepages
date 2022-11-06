@@ -1,10 +1,5 @@
 {
-  "apmreports-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "created": 1667717627,
+  "created": 1667751569,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/32/items/apmreports-2022",
@@ -16841,31 +16836,93 @@
       "sha1": "30ed07ccb74de6d5175ed8e0694345081b7dff07"
     },
     {
+      "name": "apmreports-2022-11-06T10:02:25.070153-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667750557",
+      "size": "12914",
+      "md5": "71e8c096bbb81e26ba4ccad6b8df4a96",
+      "crc32": "8c5ae9c1",
+      "sha1": "c9c668240f164e2224e0c6820c4ce36606f24025",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-11-06T10:02:25.070153-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667750559",
+      "size": "10414",
+      "md5": "246c8ce1aac862f7ae1c15ed6b06c879",
+      "crc32": "b8090c0d",
+      "sha1": "8da52ce39ac7528d2648454a69fd2b6153ae2cd6",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-11-06T10:02:25.070153-06:00.jpg",
+      "source": "original",
+      "mtime": "1667750553",
+      "size": "279417",
+      "md5": "e34dc0e943b270b0c3651856758eb339",
+      "crc32": "3ffe157a",
+      "sha1": "467590513b3e941168ade7db444e9021f9ef261f",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "apmreports-2022-11-06T10:02:25.070153-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667750561",
+      "size": "1486",
+      "md5": "363b770bd894bb5a7c0fd8da71f0c998",
+      "crc32": "bea75e99",
+      "sha1": "5a7cb5cd3495a0bfae2d02686b4a1ae1d2e91676",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-11-06T10:02:25.070153-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667750563",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "apmreports-2022-11-06T10:02:25.070153-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "apmreports-2022-11-06T10:02:25.070153-06:00.jpg",
+      "mtime": "1667751390",
+      "size": "10357",
+      "md5": "4753bc68ccfa9b91871378a36fc060c2",
+      "crc32": "3b655eb4",
+      "sha1": "30ed07ccb74de6d5175ed8e0694345081b7dff07"
+    },
+    {
       "name": "apmreports-2022_archive.torrent",
       "source": "metadata",
-      "btih": "c46899b4f226975d0326aa2171a2761d7a145a92",
-      "mtime": "1667711245",
-      "size": "345857",
-      "md5": "37aa80b74aa7b361ac5929abe80eaaa4",
-      "crc32": "c806cf44",
-      "sha1": "3c9912a86e7d3904b3032b17aa6d1d5e60994f66",
+      "btih": "e8245054d4d2e5bb59a3e8f78df72b0903c8d1bd",
+      "mtime": "1667751419",
+      "size": "347115",
+      "md5": "6e0896fe37b8cefeb7139b584cf51f36",
+      "crc32": "d8321fd7",
+      "sha1": "ac780cffdfb525327292dac11db1f885b5f86835",
       "format": "Archive BitTorrent"
     },
     {
       "name": "apmreports-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "a4bc0a78e7f62558ebc3af333539441a",
+      "md5": "c80fd00a8b66aaeb771c4815bd6d2363",
       "summation": "md5"
     },
     {
       "name": "apmreports-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667710307",
-      "size": "2023424",
-      "md5": "53b7a7f3408d39047092833121ec0261",
-      "crc32": "0914e1f2",
-      "sha1": "827d4655f1dfe1ddbd4e0234e0708e39747620da",
+      "mtime": "1667750566",
+      "size": "2031616",
+      "md5": "d849fe136eef650d1040e030258723bd",
+      "crc32": "8605d7a8",
+      "sha1": "167f4a7d399b0cf9f540e7d45cf319e96c60874e",
       "format": "Metadata"
     },
     {
@@ -16879,9 +16936,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1626,
-  "item_last_updated": 1667711245,
-  "item_size": 110578598,
+  "files_count": 1632,
+  "item_last_updated": 1667751419,
+  "item_size": 110902838,
   "metadata": {
     "identifier": "apmreports-2022",
     "collection": [
@@ -16899,7 +16956,7 @@
     "addeddate": "2022-06-19 23:22:49"
   },
   "server": "ia802504.us.archive.org",
-  "uniq": 383982695,
+  "uniq": 1699707079,
   "workable_servers": [
     "ia802504.us.archive.org",
     "ia902504.us.archive.org"
