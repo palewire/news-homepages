@@ -1,5 +1,5 @@
 {
-  "created": 1667674664,
+  "created": 1667702209,
   "d1": "ia601405.us.archive.org",
   "d2": "ia801405.us.archive.org",
   "dir": "/0/items/natgeo-2022",
@@ -14364,31 +14364,82 @@
       "sha1": "e5e98d251453c5a802a1d7e5cfdaf0522e6880c1"
     },
     {
+      "name": "natgeo-2022-11-05T22:33:02.455095-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667701995",
+      "size": "40495",
+      "md5": "f64515d9bbc76ff4d60253a815fffe4b",
+      "crc32": "13b424f7",
+      "sha1": "e784cad14b7f406ad4172b4e5d35371e6d1cffec",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-11-05T22:33:02.455095-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667701997",
+      "size": "26098",
+      "md5": "e5addf2abc3cdd1e0c4a8c9379f1de13",
+      "crc32": "c778a4bd",
+      "sha1": "331bc2c594d9bfeefef40fddcd50f97b1c72ae70",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-11-05T22:33:02.455095-04:00.jpg",
+      "source": "original",
+      "mtime": "1667701993",
+      "size": "220228",
+      "md5": "7458898e2a0ebbfcf3300de0b49d809a",
+      "crc32": "b9466828",
+      "sha1": "fe890563d0ee9fe2d9b666988f1f915a2020e5fe",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "natgeo-2022-11-05T22:33:02.455095-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667701999",
+      "size": "1564",
+      "md5": "2c0cb244fc57485c228482fbbc44ba9e",
+      "crc32": "eab43c05",
+      "sha1": "310d3c7aa7de7ff42b28126cea986c3975d2f269",
+      "format": "JSON"
+    },
+    {
+      "name": "natgeo-2022-11-05T22:33:02.455095-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667702000",
+      "size": "215",
+      "md5": "a4a676374bc2433d6c5bdb4319f77ad5",
+      "crc32": "c4de2859",
+      "sha1": "f1ff776b3be9d546cefdcfc842c20896bb3d5ca8",
+      "format": "JSON"
+    },
+    {
       "name": "natgeo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "d1efa9f5d65fa39c7408c70d64286020ff90a13c",
-      "mtime": "1667658032",
-      "size": "289614",
-      "md5": "e18e74c25c0426eddee68792c9dea5ec",
-      "crc32": "e7a487cf",
-      "sha1": "5ad66c91c285349165f96e65626bf3b33cee00de",
+      "btih": "3cc244daf66db71ffbacf6ca60c19b274ac3d14c",
+      "mtime": "1667702188",
+      "size": "290665",
+      "md5": "a8d3db402bfb0154f0e2024b7e07c7d9",
+      "crc32": "2b1d5829",
+      "sha1": "b12455514f7c131c3b09bbacc6a7e409c2a7cd13",
       "format": "Archive BitTorrent"
     },
     {
       "name": "natgeo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "dc4ac91a8b4ca49a67dfffdc4df32bb9",
+      "md5": "4344e1084e23e735162526c4ea8c33af",
       "summation": "md5"
     },
     {
       "name": "natgeo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667656791",
-      "size": "1736704",
-      "md5": "7432575ae8347357774071f7d5792c77",
-      "crc32": "ba5648db",
-      "sha1": "61c6fa061b37c296dc2b1dc325deb050ff6144ad",
+      "mtime": "1667702111",
+      "size": "1748992",
+      "md5": "5a15d8317c0324a82180a970816cb086",
+      "crc32": "f96393a5",
+      "sha1": "6523c24e86fa9b784f777aad3ce9a9be5d9e4862",
       "format": "Metadata"
     },
     {
@@ -14402,9 +14453,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1390,
-  "item_last_updated": 1667658032,
-  "item_size": 81362885,
+  "files_count": 1395,
+  "item_last_updated": 1667702188,
+  "item_size": 81664824,
   "metadata": {
     "identifier": "natgeo-2022",
     "collection": [
@@ -14421,10 +14472,21 @@
     "publicdate": "2022-07-04 21:49:06",
     "addeddate": "2022-07-04 21:49:06"
   },
+  "pending_tasks": true,
   "server": "ia601405.us.archive.org",
-  "uniq": 461214147,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463345842,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1758518252,
   "workable_servers": [
-    "ia601405.us.archive.org",
-    "ia801405.us.archive.org"
+    "ia601405.us.archive.org"
   ]
 }

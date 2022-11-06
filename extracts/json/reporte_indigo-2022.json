@@ -1,5 +1,5 @@
 {
-  "created": 1667675894,
+  "created": 1667702481,
   "d1": "ia601409.us.archive.org",
   "d2": "ia801409.us.archive.org",
   "dir": "/0/items/reporte_indigo-2022",
@@ -10124,31 +10124,72 @@
       "sha1": "763988024afca2c7e64422b13f44a85b81a9df64"
     },
     {
+      "name": "reporte_indigo-2022-11-05T20:40:07.222761-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667702416",
+      "size": "85294",
+      "md5": "3e2b3da9957fbfb972a240fd4e3d2c6b",
+      "crc32": "6435e13d",
+      "sha1": "fe52436a4125cf061b0a858e925478de848b937a",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-11-05T20:40:07.222761-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667702418",
+      "size": "43327",
+      "md5": "90138d2deb0db9baff017426dc5cac47",
+      "crc32": "55117352",
+      "sha1": "a400ff3315278832ad309be40eb601dee4443937",
+      "format": "JSON"
+    },
+    {
+      "name": "reporte_indigo-2022-11-05T20:40:07.222761-06:00.jpg",
+      "source": "original",
+      "mtime": "1667702414",
+      "size": "270354",
+      "md5": "9cc46d38279aeced5a847b566700ad19",
+      "crc32": "bfb0a14d",
+      "sha1": "2a28fc09d5a09fe5d027fd56dfd95489899b9213",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "reporte_indigo-2022-11-05T20:40:07.222761-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667702419",
+      "size": "1519",
+      "md5": "d21c46be8cfd2f672180903f01758966",
+      "crc32": "901dbdaa",
+      "sha1": "168b415992b15c3b0b6bc9885886f767040028c6",
+      "format": "JSON"
+    },
+    {
       "name": "reporte_indigo-2022_archive.torrent",
       "source": "metadata",
-      "btih": "af639202f46baf4aad1b01fc349e3a0b88cf2704",
-      "mtime": "1667658675",
-      "size": "213646",
-      "md5": "57c09a5edfb2dc587524faba728fb4a7",
-      "crc32": "94b56ce2",
-      "sha1": "d9199d7a4fb661987e8a2560944a2a8d1d7230f7",
+      "btih": "71da20c0b8bb95a5272667edcf88194032a7044e",
+      "mtime": "1667702474",
+      "size": "214505",
+      "md5": "182cfbf79c598ba059d4fb46d83230a9",
+      "crc32": "77acbafc",
+      "sha1": "d70a5fd26c34711379ce39735bb1e086c782ba19",
       "format": "Archive BitTorrent"
     },
     {
       "name": "reporte_indigo-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "eda18b07d4e52b7fd283ec3dbf41a1d5",
+      "md5": "a2de7f5b2e2f1ca75e7d86d478312169",
       "summation": "md5"
     },
     {
       "name": "reporte_indigo-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667657148",
-      "size": "1269760",
-      "md5": "8723662d364421e31df3e50e8c7bd1a4",
-      "crc32": "750d0e55",
-      "sha1": "cb4a73d6a19ead4e560e53cb92413cd0345b89e5",
+      "mtime": "1667702425",
+      "size": "1273856",
+      "md5": "637666fc3f028ea1d613775afa10e18d",
+      "crc32": "2ccf9735",
+      "sha1": "460fe3b8382bf90499e49e53fe56b958b27cf7f4",
       "format": "Metadata"
     },
     {
@@ -10162,9 +10203,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 983,
-  "item_last_updated": 1667658675,
-  "item_size": 74205082,
+  "files_count": 987,
+  "item_last_updated": 1667702474,
+  "item_size": 74610531,
   "metadata": {
     "identifier": "reporte_indigo-2022",
     "collection": [
@@ -10181,15 +10222,21 @@
     "publicdate": "2022-08-16 17:12:15",
     "addeddate": "2022-08-16 17:12:15"
   },
-  "reporte_indigo-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
+  "pending_tasks": true,
   "server": "ia601409.us.archive.org",
-  "uniq": 1474257942,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463348481,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 292938824,
   "workable_servers": [
-    "ia601409.us.archive.org",
-    "ia801409.us.archive.org"
+    "ia601409.us.archive.org"
   ]
 }

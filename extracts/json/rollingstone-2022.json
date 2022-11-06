@@ -1,5 +1,5 @@
 {
-  "created": 1667676011,
+  "created": 1667702527,
   "d1": "ia601408.us.archive.org",
   "d2": "ia801408.us.archive.org",
   "dir": "/32/items/rollingstone-2022",
@@ -15584,31 +15584,82 @@
       "sha1": "a016146445afc769bd74f611f1736e113c18566a"
     },
     {
+      "name": "rollingstone-2022-11-05T22:40:18.554297-04:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667702448",
+      "size": "30635",
+      "md5": "f87e018114ce72fb6677fe7a5baef412",
+      "crc32": "f0dd37a5",
+      "sha1": "dc6ee2cbf89b447444c76c94c348b7244122719c",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-11-05T22:40:18.554297-04:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667702449",
+      "size": "41813",
+      "md5": "a13044625580170e7e87aa008c0c2c76",
+      "crc32": "1b12e49b",
+      "sha1": "9fab7aed269443484e075a51201bfb964ec8fd02",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-11-05T22:40:18.554297-04:00.jpg",
+      "source": "original",
+      "mtime": "1667702446",
+      "size": "361110",
+      "md5": "b3dcdba3cea26cfdaab907e566a3f98e",
+      "crc32": "916432f7",
+      "sha1": "b450430cb02a5ef0896d8a95f319e531380f02d0",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "rollingstone-2022-11-05T22:40:18.554297-04:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667702452",
+      "size": "1513",
+      "md5": "41e4b22a3f0e0ef2c1da6c6e0c3c50db",
+      "crc32": "413eff3f",
+      "sha1": "1f91c6acba2b8d6d5ff9fd724a374908ae65c41f",
+      "format": "JSON"
+    },
+    {
+      "name": "rollingstone-2022-11-05T22:40:18.554297-04:00.wayback.json",
+      "source": "original",
+      "mtime": "1667702454",
+      "size": "81540",
+      "md5": "284b8a78b6921aafc7da2651dfb19312",
+      "crc32": "40224819",
+      "sha1": "26747053fe90772f74457890210d83c62e8de4ce",
+      "format": "JSON"
+    },
+    {
       "name": "rollingstone-2022_archive.torrent",
       "source": "metadata",
-      "btih": "9d4aa88df27f5be9bd1643bed044bc60074186eb",
-      "mtime": "1667658433",
-      "size": "324398",
-      "md5": "73acc48328034676fb9a6c73d8000a53",
-      "crc32": "2bbf9e59",
-      "sha1": "c6854e1cde75f2f18320c6afaf7c7fa267fe8d9e",
+      "btih": "80972f44be491772556fd574a101c031dcab1646",
+      "mtime": "1667702522",
+      "size": "325481",
+      "md5": "97d11bed4e2c74c4801bd6c36a7ce0e6",
+      "crc32": "41f99bab",
+      "sha1": "6343fbb56cad6222ede1cece142f86d0a755eda3",
       "format": "Archive BitTorrent"
     },
     {
       "name": "rollingstone-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "57393daf8f4159cfbfb5b244b28443b2",
+      "md5": "a9d77b2b52b90abfaeb6afc1dfe54bfb",
       "summation": "md5"
     },
     {
       "name": "rollingstone-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667657149",
-      "size": "1875968",
-      "md5": "9aaf49c86e856a0633d1223ad1f379e4",
-      "crc32": "a7494be5",
-      "sha1": "f2e0e57a7dec2dca83f801951a546864ddb3b76a",
+      "mtime": "1667702459",
+      "size": "1884160",
+      "md5": "47e4ad1f3ad6141507be834679468237",
+      "crc32": "64c722a9",
+      "sha1": "063b5aaf98a6bc3c95ff83d7d0b00778696e78e1",
       "format": "Metadata"
     },
     {
@@ -15622,9 +15673,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1505,
-  "item_last_updated": 1667658433,
-  "item_size": 134245780,
+  "files_count": 1510,
+  "item_last_updated": 1667702522,
+  "item_size": 134771666,
   "metadata": {
     "identifier": "rollingstone-2022",
     "collection": [
@@ -15641,15 +15692,21 @@
     "publicdate": "2022-06-24 23:00:28",
     "addeddate": "2022-06-24 23:00:28"
   },
-  "rollingstone-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "server": "ia801408.us.archive.org",
-  "uniq": 1326583710,
+  "pending_tasks": true,
+  "server": "ia601408.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463349089,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 569337934,
   "workable_servers": [
-    "ia801408.us.archive.org",
     "ia601408.us.archive.org"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "created": 1667658599,
+  "created": 1667702549,
   "d1": "ia601509.us.archive.org",
   "d2": "ia801509.us.archive.org",
   "dir": "/15/items/scottishsun-2022",
@@ -19030,31 +19030,82 @@
       "sha1": "d37681440c6677e8ae32b907db8131838d201cca"
     },
     {
+      "name": "scottishsun-2022-11-06T02:39:58.972142+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667702410",
+      "size": "77469",
+      "md5": "25bd800ed8fa03150b3d3db326795da4",
+      "crc32": "57d413ea",
+      "sha1": "1bb92508828f873a8bb27345d582c7a7128305bd",
+      "format": "JSON"
+    },
+    {
+      "name": "scottishsun-2022-11-06T02:39:58.972142+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667702412",
+      "size": "102774",
+      "md5": "6ac96aa7d684aae44cfce1364ac0de07",
+      "crc32": "fa53f83a",
+      "sha1": "c27e0d7785b9766ca63e88c700d31d283cb698a8",
+      "format": "JSON"
+    },
+    {
+      "name": "scottishsun-2022-11-06T02:39:58.972142+00:00.jpg",
+      "source": "original",
+      "mtime": "1667702408",
+      "size": "274583",
+      "md5": "cfa440308d918c44e6c395294197c3e4",
+      "crc32": "3e5bc671",
+      "sha1": "cb4ece697f1f7dcb7f84d7eeec621b630837f55e",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "scottishsun-2022-11-06T02:39:58.972142+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667702414",
+      "size": "1548",
+      "md5": "d4ce3ca8b22b00a5e1b5c0ebe27a667c",
+      "crc32": "ec004854",
+      "sha1": "1b8e33b6deea2e32281012b7d962b6046bec0a28",
+      "format": "JSON"
+    },
+    {
+      "name": "scottishsun-2022-11-06T02:39:58.972142+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667702416",
+      "size": "54448",
+      "md5": "52de1ae74cad0c0703a20be5093e4ce3",
+      "crc32": "f341b203",
+      "sha1": "1ca651060903da5f752406b287ea9b5f3dd2dad6",
+      "format": "JSON"
+    },
+    {
       "name": "scottishsun-2022_archive.torrent",
       "source": "metadata",
-      "btih": "f28cdffd2554f4d0060c3cc0e8f4923d7e681d69",
-      "mtime": "1667658532",
-      "size": "395481",
-      "md5": "d796d6cf1aa10484b44ecb8f5e060e6f",
-      "crc32": "b54a163b",
-      "sha1": "f40944294d365e1090a4786d7880aba36af2fa2e",
+      "btih": "286c1650e9afdb2f6e20fb90bc68ae578c9b0694",
+      "mtime": "1667702531",
+      "size": "396560",
+      "md5": "e23f8087691177b80a8384eb862ca030",
+      "crc32": "eefa5e55",
+      "sha1": "6bcf9b69ebf0e727896100ed771a9effafa73c67",
       "format": "Archive BitTorrent"
     },
     {
       "name": "scottishsun-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "1014da8e017a60b775ea61e6c4d8cb3f",
+      "md5": "3ed840c9a34eddf32de9c633e561a06d",
       "summation": "md5"
     },
     {
       "name": "scottishsun-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667657200",
-      "size": "2330624",
-      "md5": "cf3881461677d0d9e7b8c058b3779d03",
-      "crc32": "f274febf",
-      "sha1": "aed8d765fa2d7fd1595ffe217d325c8dfc1aa053",
+      "mtime": "1667702442",
+      "size": "2338816",
+      "md5": "e1cc845c92d60ad9bffbe8cfaeab443b",
+      "crc32": "f2ec0efa",
+      "sha1": "4e4aa328fb39d75b390ad657a595c86b5d36cd9e",
       "format": "Metadata"
     },
     {
@@ -19068,9 +19119,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1842,
-  "item_last_updated": 1667658532,
-  "item_size": 167953879,
+  "files_count": 1847,
+  "item_last_updated": 1667702531,
+  "item_size": 168473972,
   "metadata": {
     "identifier": "scottishsun-2022",
     "collection": [
@@ -19087,10 +19138,21 @@
     "publicdate": "2022-07-10 15:44:24",
     "addeddate": "2022-07-10 15:44:24"
   },
+  "pending_tasks": true,
   "server": "ia601509.us.archive.org",
-  "uniq": 81985994,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463349378,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1623153060,
   "workable_servers": [
-    "ia601509.us.archive.org",
-    "ia801509.us.archive.org"
+    "ia601509.us.archive.org"
   ]
 }

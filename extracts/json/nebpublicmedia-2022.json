@@ -1,5 +1,5 @@
 {
-  "created": 1667674768,
+  "created": 1667702105,
   "d1": "ia902504.us.archive.org",
   "d2": "ia802504.us.archive.org",
   "dir": "/17/items/nebpublicmedia-2022",
@@ -12070,31 +12070,82 @@
       "sha1": "73db66052f67d74c600b3256a6adc364d6ce1410"
     },
     {
+      "name": "nebpublicmedia-2022-11-05T21:33:56.985676-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667702045",
+      "size": "17627",
+      "md5": "20e506d701aad4ad1f09a478f2097f1e",
+      "crc32": "df4f6a1d",
+      "sha1": "48f034ccde3d4680379ea972f036e9c11a20dbf1",
+      "format": "JSON"
+    },
+    {
+      "name": "nebpublicmedia-2022-11-05T21:33:56.985676-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667702047",
+      "size": "27135",
+      "md5": "1b3dd3b06497ea776f23f4b4ca103370",
+      "crc32": "cfad1d3d",
+      "sha1": "c758de043c330dc5139544526f0b5f782aa1c72f",
+      "format": "JSON"
+    },
+    {
+      "name": "nebpublicmedia-2022-11-05T21:33:56.985676-05:00.jpg",
+      "source": "original",
+      "mtime": "1667702044",
+      "size": "215333",
+      "md5": "a8bdd4d407c0954c4ca0b5794d309803",
+      "crc32": "5e309cdf",
+      "sha1": "f8a326a8cd0128455ef024883aa7ad38c3ad90b1",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "nebpublicmedia-2022-11-05T21:33:56.985676-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667702049",
+      "size": "1567",
+      "md5": "9b8b84e9f29ce1af67e8908152614338",
+      "crc32": "aa2143d3",
+      "sha1": "98581bf2e8d1f346731814804325c3f560c2f85e",
+      "format": "JSON"
+    },
+    {
+      "name": "nebpublicmedia-2022-11-05T21:33:56.985676-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667702051",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
       "name": "nebpublicmedia-2022_archive.torrent",
       "source": "metadata",
-      "btih": "6b85792b32e90b1d7fc08b0b2c9334124fd21f40",
-      "mtime": "1667658064",
-      "size": "252738",
-      "md5": "135bc05ed8a679462a2b97f12e48f9ea",
-      "crc32": "a8db7c39",
-      "sha1": "9808a268c0f5d7f16499592d8652ef68f961a141",
+      "btih": "d5ff9abc0b066664ac4076939b6c1cca2c15d2c5",
+      "mtime": "1667702102",
+      "size": "253809",
+      "md5": "f8314743ea5eaa763dae547ff622cd17",
+      "crc32": "7731c5ff",
+      "sha1": "c61f90b91068a6069c339b24ff3f68ff74a6fc7e",
       "format": "Archive BitTorrent"
     },
     {
       "name": "nebpublicmedia-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "658d4e3cc7d0f6676319fde14a1f9ae8",
+      "md5": "ecbce379b4bacafd60b72359c1f69b7f",
       "summation": "md5"
     },
     {
       "name": "nebpublicmedia-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667656758",
-      "size": "1503232",
-      "md5": "f17d0cbc4a0b920408c2fc1139471358",
-      "crc32": "852b7b6d",
-      "sha1": "8b67c095258fa49d7b006ecbbe1a5030ecdbb5a4",
+      "mtime": "1667702055",
+      "size": "1511424",
+      "md5": "4e71347dd867c5fb72b01bb484c8e9dc",
+      "crc32": "a87aad9b",
+      "sha1": "27110c8cddc209f3c02b56012dc0530b66684c6e",
       "format": "Metadata"
     },
     {
@@ -12108,9 +12159,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1171,
-  "item_last_updated": 1667658064,
-  "item_size": 49697302,
+  "files_count": 1176,
+  "item_last_updated": 1667702102,
+  "item_size": 49968429,
   "metadata": {
     "identifier": "nebpublicmedia-2022",
     "collection": [
@@ -12127,15 +12178,21 @@
     "publicdate": "2022-07-30 19:35:07",
     "addeddate": "2022-07-30 19:35:07"
   },
-  "nebpublicmedia-2022": {
-    "url": "https://nebraskapublicmedia.org/en/",
-    "job_id": "spn2-8f38764779faee1fe2ef5385f61417237d2683e9",
-    "message": "The same snapshot had been made 35 minutes, 40 seconds ago. You can make new capture of this URL after 45 minutes."
-  },
-  "server": "ia802504.us.archive.org",
-  "uniq": 717644012,
+  "pending_tasks": true,
+  "server": "ia902504.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463344468,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 1262802818,
   "workable_servers": [
-    "ia802504.us.archive.org",
     "ia902504.us.archive.org"
   ]
 }

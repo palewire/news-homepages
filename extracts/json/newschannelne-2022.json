@@ -1,5 +1,5 @@
 {
-  "created": 1667674886,
+  "created": 1667702037,
   "d1": "ia601402.us.archive.org",
   "d2": "ia801402.us.archive.org",
   "dir": "/12/items/newschannelne-2022",
@@ -11898,31 +11898,82 @@
       "sha1": "df6558e83c549a5f4e6e86c95c9bcc5c490787cd"
     },
     {
+      "name": "newschannelne-2022-11-05T21:32:29.495026-05:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667701963",
+      "size": "22407",
+      "md5": "c05aa8e3ab70da3f4cc8e514d336be11",
+      "crc32": "be929f20",
+      "sha1": "7fa131550e1879dc323065e9bde2899d3a8713a0",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-11-05T21:32:29.495026-05:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667701965",
+      "size": "23120",
+      "md5": "5f2c60e9636a68635f3538af361d1e03",
+      "crc32": "f5a92497",
+      "sha1": "d83ffc3df94f234b5164a728c3608e47d47e7f93",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-11-05T21:32:29.495026-05:00.jpg",
+      "source": "original",
+      "mtime": "1667701961",
+      "size": "196350",
+      "md5": "d65c03afe6707e67cfb453d87a5db0d0",
+      "crc32": "12784741",
+      "sha1": "e1ab5bc81f49333fcb0315c4868737172654eb92",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "newschannelne-2022-11-05T21:32:29.495026-05:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667701967",
+      "size": "1594",
+      "md5": "48b9a0c12c65efb6e5be076b64c33678",
+      "crc32": "eaf3a751",
+      "sha1": "1b460da8718f7f0c08b162a54afa628dd2763f7f",
+      "format": "JSON"
+    },
+    {
+      "name": "newschannelne-2022-11-05T21:32:29.495026-05:00.wayback.json",
+      "source": "original",
+      "mtime": "1667701968",
+      "size": "19910",
+      "md5": "9007de3d0ebfa4a87d6d3e8c8857a6f4",
+      "crc32": "dd28c234",
+      "sha1": "1739d1a832137d0259e662fbebadb53c6ba51949",
+      "format": "JSON"
+    },
+    {
       "name": "newschannelne-2022_archive.torrent",
       "source": "metadata",
-      "btih": "7b9f044fd8f4ac4951a8f352b072e259d5bb861a",
-      "mtime": "1667658225",
-      "size": "248335",
-      "md5": "82935a8a00230cacde01df1244f112a2",
-      "crc32": "e0729ddb",
-      "sha1": "270725abcfe9b5fb507d27ff4aa6a6147279a5ed",
+      "btih": "4be9d97a35781c80c6516021f22e3c7170db6d47",
+      "mtime": "1667702032",
+      "size": "249423",
+      "md5": "5b375a6a0742f5dcfbf5eac42b16edbf",
+      "crc32": "486263fd",
+      "sha1": "87a47a90cf6f4ab2513c74e4caa5fd8a0be164a2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "newschannelne-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "48dda327b9c405aae696f875a116597b",
+      "md5": "fcfa6bf3556d7139189ac35cdcd7e0d2",
       "summation": "md5"
     },
     {
       "name": "newschannelne-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667656779",
-      "size": "1478656",
-      "md5": "8182c4b4a0f458d106bbaf42dd4490ac",
-      "crc32": "266442a8",
-      "sha1": "eb6d9671d189d65733aca9126f637994e166e51c",
+      "mtime": "1667701981",
+      "size": "1486848",
+      "md5": "71feebcdaa9a41064ec375d27f67f681",
+      "crc32": "a2aaa5ea",
+      "sha1": "48f076b1e2f7bb1d0ffdf119236b1c8010347765",
       "format": "Metadata"
     },
     {
@@ -11936,9 +11987,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1154,
-  "item_last_updated": 1667658225,
-  "item_size": 59873801,
+  "files_count": 1159,
+  "item_last_updated": 1667702032,
+  "item_size": 60146462,
   "metadata": {
     "identifier": "newschannelne-2022",
     "collection": [
@@ -11955,18 +12006,21 @@
     "publicdate": "2022-07-30 19:35:12",
     "addeddate": "2022-07-30 19:35:12"
   },
-  "newschannelne-2022": {
-    "url": "https://metro.newschannelnebraska.com/",
-    "job_id": "spn2-7dd379a5d4ad997ec7dcc3bcf69282c02d0e7f45",
-    "status": "error",
-    "status_ext": "WorkerLostError",
-    "resources": [],
-    "message": "Worker exited prematurely: signal 15 (SIGTERM) Job: 783."
-  },
-  "server": "ia801402.us.archive.org",
-  "uniq": 1624575231,
+  "pending_tasks": true,
+  "server": "ia601402.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463343562,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 0,
+      "color": "green",
+      "status": "queued"
+    }
+  ],
+  "uniq": 270970046,
   "workable_servers": [
-    "ia801402.us.archive.org",
     "ia601402.us.archive.org"
   ]
 }
