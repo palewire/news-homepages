@@ -1,5 +1,5 @@
 {
-  "created": 1667676607,
+  "created": 1667717658,
   "d1": "ia601504.us.archive.org",
   "d2": "ia801504.us.archive.org",
   "dir": "/4/items/telegraph-2022",
@@ -31550,31 +31550,93 @@
       "sha1": "4cfa9d85f0c228b3d33cebbc1c4c78727756909d"
     },
     {
+      "name": "telegraph-2022-11-06T04:42:38.512351+00:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667709787",
+      "size": "31462",
+      "md5": "546ec85387bc98c212e5997ef3827c9a",
+      "crc32": "26bb0b2f",
+      "sha1": "66442dfe34175e7656afd86a57e58031b1f9309d",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-11-06T04:42:38.512351+00:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667709790",
+      "size": "28170",
+      "md5": "debcc8babcfca1c46ab4d464de92a315",
+      "crc32": "a1a6e6d6",
+      "sha1": "03dd8e6eaef166020214cef83ddd1364d85a8711",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-11-06T04:42:38.512351+00:00.jpg",
+      "source": "original",
+      "mtime": "1667709786",
+      "size": "356184",
+      "md5": "5f0c1e327122c49ea4851ee1547ca810",
+      "crc32": "c9ac38db",
+      "sha1": "fdf2886fd369b543f0f20c147e69d3cf18d27505",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "telegraph-2022-11-06T04:42:38.512351+00:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667709791",
+      "size": "1504",
+      "md5": "5764955971d0ccd97152f208bb713f18",
+      "crc32": "335403af",
+      "sha1": "a80d35cb4a16895801dcb2381e24716d32faf2e7",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-11-06T04:42:38.512351+00:00.wayback.json",
+      "source": "original",
+      "mtime": "1667709793",
+      "size": "202",
+      "md5": "07e452389e857b7334503102fdd2cebf",
+      "crc32": "55525c66",
+      "sha1": "7ee6c0c3a091f70360ecaf47dab6b707a0ab4c8a",
+      "format": "JSON"
+    },
+    {
+      "name": "telegraph-2022-11-06T04:42:38.512351+00:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "telegraph-2022-11-06T04:42:38.512351+00:00.jpg",
+      "mtime": "1667710871",
+      "size": "9604",
+      "md5": "24f0dbc9b880195e5a65974cb70590e3",
+      "crc32": "96084f71",
+      "sha1": "7395807b917b74271327b5be96c9d7d63f6f0a37"
+    },
+    {
       "name": "telegraph-2022_archive.torrent",
       "source": "metadata",
-      "btih": "30e0290ead68f123d9c6ad02bf66819665a90d04",
-      "mtime": "1667661141",
-      "size": "642986",
-      "md5": "7576733b3b5cf5f33a14a280e2d8d524",
-      "crc32": "3cfe902e",
-      "sha1": "b5aa6b984e297c28d289bfe803078554ac4f8b6a",
+      "btih": "0c828b9891c27fe7a0724ca7792d1b14ebb0ed91",
+      "mtime": "1667711334",
+      "size": "644257",
+      "md5": "528ed993a1a8d24889dfeef378e7074b",
+      "crc32": "bba07e5a",
+      "sha1": "027171301e7af90147d5e16339bd05a13eb8bb61",
       "format": "Archive BitTorrent"
     },
     {
       "name": "telegraph-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "b4b919ce11fb184a33ac4ffe809abe32",
+      "md5": "ba23b4668742e41588377ebc5cfd4046",
       "summation": "md5"
     },
     {
       "name": "telegraph-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667660527",
-      "size": "3690496",
-      "md5": "ecd588d235563bc888ae194b52bd40ed",
-      "crc32": "80397123",
-      "sha1": "116230085b1fafe9dd82e36ba41ce14876f968f6",
+      "mtime": "1667709807",
+      "size": "3694592",
+      "md5": "155baeb39e3e5c17df50ff1514695445",
+      "crc32": "db7a4552",
+      "sha1": "655cd0955262bc0bc2bd5cd39c9acb464e5a5f2d",
       "format": "Metadata"
     },
     {
@@ -31588,9 +31650,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 3035,
-  "item_last_updated": 1667661141,
-  "item_size": 254801579,
+  "files_count": 3041,
+  "item_last_updated": 1667711334,
+  "item_size": 255234072,
   "metadata": {
     "identifier": "telegraph-2022",
     "collection": [
@@ -31608,12 +31670,7 @@
     "addeddate": "2022-03-23 08:03:49"
   },
   "server": "ia801504.us.archive.org",
-  "telegraph-2022": {
-    "message": "You have already reached the limit of active Save Page Now sessions. Please wait for a few minutes and then try again.",
-    "status": "error",
-    "status_ext": "error:user-session-limit"
-  },
-  "uniq": 2008136614,
+  "uniq": 211460505,
   "workable_servers": [
     "ia801504.us.archive.org",
     "ia601504.us.archive.org"
