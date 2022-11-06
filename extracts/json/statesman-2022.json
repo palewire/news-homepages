@@ -1,5 +1,5 @@
 {
-  "created": 1667680204,
+  "created": 1667723763,
   "d1": "ia902502.us.archive.org",
   "d2": "ia802502.us.archive.org",
   "dir": "/28/items/statesman-2022",
@@ -13200,31 +13200,82 @@
       "sha1": "b4466531b55286ae97a1caffaa090409a7f09dfe"
     },
     {
+      "name": "statesman-2022-11-06T02:34:54.525682-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667723702",
+      "size": "21538",
+      "md5": "f1912d33ac739827e7184e5d192ec1a4",
+      "crc32": "b1b818cd",
+      "sha1": "ca06ab56cb0452eae856fb3387a25a2b63fea514",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-11-06T02:34:54.525682-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667723704",
+      "size": "40205",
+      "md5": "20a350e2c4b9cb6f4dda1bd5339d2c72",
+      "crc32": "9f714abc",
+      "sha1": "2d4325d9b91b75be6b94156ce2ddf7376083e86d",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-11-06T02:34:54.525682-06:00.jpg",
+      "source": "original",
+      "mtime": "1667723701",
+      "size": "267075",
+      "md5": "51b7a3ca40fb7c121452ed396b8b331a",
+      "crc32": "32910bf3",
+      "sha1": "bc223e82ce0750a0c4f5f4e863cca394dd120058",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "statesman-2022-11-06T02:34:54.525682-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667723706",
+      "size": "1486",
+      "md5": "edd38d085c721910daa51a281e7ddd30",
+      "crc32": "f2a25031",
+      "sha1": "08fed8eadc75a91fe675b608b6546aa99f054f42",
+      "format": "JSON"
+    },
+    {
+      "name": "statesman-2022-11-06T02:34:54.525682-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667723707",
+      "size": "132222",
+      "md5": "7b2e88ed5a9b0a8ec41f58a445d470f5",
+      "crc32": "bf5bb7e5",
+      "sha1": "091f697e6686348fb001181ee95aa3122e532533",
+      "format": "JSON"
+    },
+    {
       "name": "statesman-2022_archive.torrent",
       "source": "metadata",
-      "btih": "1b38fbb0621dd794918486b9fae0e8313e4b48be",
-      "mtime": "1667680069",
-      "size": "270959",
-      "md5": "ca49d4ee9bf372d502913c054534c92a",
-      "crc32": "4e5a7161",
-      "sha1": "7352262cf495100f04d58cce624d06c8217fa64e",
+      "btih": "720a1fba41568b9c00b7326f63d139c6cca34754",
+      "mtime": "1667723760",
+      "size": "272028",
+      "md5": "ab192b56ef52cf51204aed6aa7291fbf",
+      "crc32": "2625b2de",
+      "sha1": "1c350fac98ef17dc8f360ba06b3468a26d94f5d2",
       "format": "Archive BitTorrent"
     },
     {
       "name": "statesman-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "d17afb8730e4b3e0d83c9010d9eeb9b9",
+      "md5": "504f6a4fe4ede4c9c7e1ee705d6481e6",
       "summation": "md5"
     },
     {
       "name": "statesman-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667679616",
-      "size": "1622016",
-      "md5": "8d1f5e98f22569b6c48429daf2dc9317",
-      "crc32": "4ee1b5d5",
-      "sha1": "a7dabc76362105ab1b9df2ab62df8944230a3513",
+      "mtime": "1667723713",
+      "size": "1630208",
+      "md5": "9270d1cb8b14dfd91200f47686138eb7",
+      "crc32": "1e85a832",
+      "sha1": "6db012152bc0915cd83015d16af15484e2a6821e",
       "format": "Metadata"
     },
     {
@@ -13238,9 +13289,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1279,
-  "item_last_updated": 1667680069,
-  "item_size": 87522090,
+  "files_count": 1284,
+  "item_last_updated": 1667723760,
+  "item_size": 87993877,
   "metadata": {
     "identifier": "statesman-2022",
     "collection": [
@@ -13257,10 +13308,21 @@
     "publicdate": "2022-07-18 00:05:33",
     "addeddate": "2022-07-18 00:05:33"
   },
-  "server": "ia802502.us.archive.org",
-  "uniq": 673639908,
+  "pending_tasks": true,
+  "server": "ia902502.us.archive.org",
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463556961,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 300002463,
   "workable_servers": [
-    "ia802502.us.archive.org",
     "ia902502.us.archive.org"
   ]
 }

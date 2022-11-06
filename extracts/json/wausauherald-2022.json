@@ -1,5 +1,6 @@
 {
-  "created": 1667680683,
+  "conflict": 1667725061,
+  "created": 1667725061,
   "d1": "ia902505.us.archive.org",
   "d2": "ia802505.us.archive.org",
   "dir": "/3/items/wausauherald-2022",
@@ -20104,31 +20105,88 @@
       "sha1": "643eb16d6f32e126a0f0cc01bf89d9242c5beca5"
     },
     {
+      "name": "wausauherald-2022-11-06T02:40:53.836194-06:00.accessibility.json",
+      "source": "original",
+      "mtime": "1667724057",
+      "size": "23460",
+      "md5": "f0c7d50504195b86301d8adc5e3cbb4f",
+      "crc32": "3fb1d37b",
+      "sha1": "029b92e4dd96b60b353af1ca516de338a331e442",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-11-06T02:40:53.836194-06:00.hyperlinks.json",
+      "source": "original",
+      "mtime": "1667724059",
+      "size": "35547",
+      "md5": "caf04628e17295abc3e05e2333948d4e",
+      "crc32": "83ab6a4f",
+      "sha1": "8e182bc3d81bf26f9659b9b4a6d4d6cd1a838743",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-11-06T02:40:53.836194-06:00.jpg",
+      "source": "original",
+      "mtime": "1667724055",
+      "size": "244536",
+      "md5": "8bfadded8050a83d94cb537783068bcb",
+      "crc32": "64192289",
+      "sha1": "2a0768a71d116692b03de4c07620be8068e4ea15",
+      "format": "JPEG",
+      "rotation": "0"
+    },
+    {
+      "name": "wausauherald-2022-11-06T02:40:53.836194-06:00.lighthouse.json",
+      "source": "original",
+      "mtime": "1667724060",
+      "size": "1558",
+      "md5": "6d1be09fb53ec96e3dbc4e030eaac5ea",
+      "crc32": "225c1815",
+      "sha1": "1b9033e3a1b8390ba22c7ab312ad12154445b3a2",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-11-06T02:40:53.836194-06:00.wayback.json",
+      "source": "original",
+      "mtime": "1667724062",
+      "size": "136128",
+      "md5": "ce6e23c1a4d6b76b9ee6a747d16717cd",
+      "crc32": "53dced42",
+      "sha1": "c71f9ca6ebb0ef72e00097d189298f92d0cc80ea",
+      "format": "JSON"
+    },
+    {
+      "name": "wausauherald-2022-11-06T02:40:53.836194-06:00_thumb.jpg",
+      "source": "derivative",
+      "format": "JPEG Thumb",
+      "original": "wausauherald-2022-11-06T02:40:53.836194-06:00.jpg"
+    },
+    {
       "name": "wausauherald-2022_archive.torrent",
       "source": "metadata",
-      "btih": "029355d47166e90d494b196b89769be4126ae855",
-      "mtime": "1667680657",
-      "size": "415736",
-      "md5": "c074c28782a18249c23a0996c4f377c2",
-      "crc32": "b36a05be",
-      "sha1": "ff7c46f34e1b2e907e7bf34d3ad45a83ac09f08d",
+      "btih": "1203c2a4da8a32f90dae65070a5d27c4f38ae9a4",
+      "mtime": "1667724144",
+      "size": "416820",
+      "md5": "a8d534cf860e7004feab9be4d0301a3e",
+      "crc32": "437434e3",
+      "sha1": "2ab238636c923ec5ab27e7ac8798a62bbb6143e4",
       "format": "Archive BitTorrent"
     },
     {
       "name": "wausauherald-2022_files.xml",
       "source": "original",
       "format": "Metadata",
-      "md5": "2800b4e2e356b39246f674cb36fc8991",
+      "md5": "57c343aecf1f70695845fa5568c227dd",
       "summation": "md5"
     },
     {
       "name": "wausauherald-2022_meta.sqlite",
       "source": "original",
-      "mtime": "1667680138",
-      "size": "2367488",
-      "md5": "cab280cfc614bad5ed7ef010d9ea053f",
-      "crc32": "3fff8c66",
-      "sha1": "fe348cf98fba1c24b2ff33039a6d0b3138bcf5ea",
+      "mtime": "1667724072",
+      "size": "2379776",
+      "md5": "d5bc7b48fa631f8368ce263ecf287add",
+      "crc32": "63488298",
+      "sha1": "2430a4114839ba75656bdc02809c61e24dbdc781",
       "format": "Metadata"
     },
     {
@@ -20142,9 +20200,9 @@
       "format": "Metadata"
     }
   ],
-  "files_count": 1936,
-  "item_last_updated": 1667680657,
-  "item_size": 147058878,
+  "files_count": 1942,
+  "item_last_updated": 1667724144,
+  "item_size": 147513479,
   "metadata": {
     "identifier": "wausauherald-2022",
     "collection": [
@@ -20161,10 +20219,21 @@
     "publicdate": "2022-03-23 23:07:49",
     "addeddate": "2022-03-23 23:07:49"
   },
+  "pending_tasks": true,
   "server": "ia902505.us.archive.org",
-  "uniq": 1759492242,
+  "servers_unavailable": true,
+  "tasks": [
+    {
+      "task_id": 3463559827,
+      "cmd": "derive.php",
+      "priority": -6,
+      "wait_admin": 1,
+      "color": "blue",
+      "status": "running"
+    }
+  ],
+  "uniq": 994292016,
   "workable_servers": [
-    "ia902505.us.archive.org",
-    "ia802505.us.archive.org"
+    "ia902505.us.archive.org"
   ]
 }
