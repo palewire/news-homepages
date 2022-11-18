@@ -78,7 +78,7 @@ def cli(
             mediatype="image",
             publisher="https://homepages.news",
             contributor="https://homepages.news",
-            retries=2,
+            retries=4,
             retries_sleep=30,
         )
         latest_dict = {f"{_clean_handle(handle)}.jpg": image_path}
@@ -121,7 +121,7 @@ def _get_item_metadata(data: typing.Dict) -> typing.Dict:
         publisher=data["url"],
         date=now_year,
         contributor="https://homepages.news",
-        retries=2,
+        retries=4,
         retries_sleep=30,
     )
 
