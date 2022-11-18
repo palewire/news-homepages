@@ -32,7 +32,7 @@ def cli(
     input_dir: str,
     verbose: bool = False,
 ):
-    """Save a webpage screenshot to an archive.org collection."""
+    """Save assets to an archive.org collection."""
     # Verify we have all the credentials
     assert IA_ACCESS_KEY
     assert IA_SECRET_KEY
