@@ -12,7 +12,8 @@ from . import utils
 @click.command()
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
-def cli(handle: str, output_dir: str):
+@click.option("--timeout", "timeout", default="180")
+def cli(handle: str, output_dir: str, timeout: str = "180"):
     """Save the accessiblity JSON of a single site."""
     # Get metadata
     site = utils.get_site(handle)
@@ -22,11 +23,11 @@ def cli(handle: str, output_dir: str):
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     # Do the thing
-    _get_accessibility(site, output_path)
+    _get_accessibility(site, output_path, int(timeout))
 
 
 @retry(tries=3, delay=5, backoff=2)
-def _get_accessibility(data: typing.Dict, output_path: Path):
+def _get_accessibility(data: typing.Dict, output_path: Path, timeout: int = 180):
     """Run a command that fetches the accessibility tree for the provided site."""
     print(f":newspaper: Fetching a11y tree from {data['url']}")
 
@@ -38,7 +39,7 @@ def _get_accessibility(data: typing.Dict, output_path: Path):
         "-o",
         str(output_path),
         "--timeout",
-        str(60 * 1000 * 3),
+        str(timeout * 1000),  # Convert from seconds into milliseconds
     ]
     javascript = utils.get_javascript(data["handle"])
     if javascript:
