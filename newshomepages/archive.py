@@ -64,7 +64,7 @@ def cli(
     # Upload into an "item" keyed to the site's handle and year
     handle = data["handle"]
     local_now = _get_now_local(data)
-    site_identifier = f"{_clean_handle(handle)}-{local_now.strftime('%Y')}"
+    site_identifier = f"{utils.safe_ia_handle(handle)}-{local_now.strftime('%Y')}"
     site_metadata = _get_item_metadata(data)
     print(
         f"📚 Saving timestamped `{handle}` assets to archive.org `{IA_COLLECTION}` collection's `{site_identifier}`"
@@ -94,7 +94,7 @@ def cli(
             publisher="https://homepages.news",
             contributor="https://homepages.news",
         )
-        latest_dict = {f"{_clean_handle(handle)}.jpg": image_path}
+        latest_dict = {f"{utils.safe_ia_handle(handle)}.jpg": image_path}
         _upload(
             data,
             latest_identifier,
@@ -105,18 +105,6 @@ def cli(
             retries_sleep=int(retries_sleep),
             timeout=int(timeout)
         )
-
-
-def _clean_handle(s):
-    """Santize a handle so its safe to use as an archive.org slug."""
-    # Take it down
-    s = s.lower()
-
-    # Replace any leading underscores, which don't work on archive.org
-    s = re.sub("^(_+)", "", s)
-
-    # Pass it back
-    return s
 
 
 def _get_now_local(data: typing.Dict) -> datetime:
@@ -149,7 +137,7 @@ def _get_item_metadata(data: typing.Dict) -> typing.Dict:
 def _get_file_dict(data: typing.Dict, input_dir: Path) -> typing.Dict:
     """Get a dictionary of timestamped files to upload to our archive.org collection."""
     # Set the input paths
-    handle = _clean_handle(data["handle"])
+    handle = utils.safe_ia_handle(data["handle"])
     image_path = input_dir / f"{handle}.jpg"
     a11y_path = input_dir / f"{handle}.accessibility.json"
     hyperlinks_path = input_dir / f"{handle}.hyperlinks.json"

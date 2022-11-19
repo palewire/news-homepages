@@ -25,6 +25,21 @@ NOTEBOOKS_DIR = THIS_DIR.parent / "notebooks"
 SITE_DIR = THIS_DIR.parent / "_site"
 ANALYSIS_DIR = THIS_DIR.parent / "_analysis"
 
+# Regular expressions
+LEADING_UNDERSCORES = re.compile("^(_+)")
+
+
+def safe_ia_handle(s):
+    """Santize a handle so its safe to use as an archive.org slug."""
+    # Take it down
+    s = s.lower()
+
+    # Replace any leading underscores, which don't work on archive.org
+    s = LEADING_UNDERSCORES.sub("", s)
+
+    # Pass it back
+    return s
+
 
 def parse_archive_url(url: str):
     """Parse the handle and timestamp from an archive.org URL."""

@@ -7,9 +7,9 @@ from newshomepages import archive, utils
 
 def test_archive_clean_handle():
     """Test archive handle cleaning."""
-    assert archive._clean_handle(utils.get_site("latimes")["handle"]) == "latimes"
+    assert utils.safe_ia_handle(utils.get_site("latimes")["handle"]) == "latimes"
     assert (
-        archive._clean_handle(utils.get_site("_fiquemsabendo")["handle"])
+        utils.safe_ia_handle(utils.get_site("_fiquemsabendo")["handle"])
         == "fiquemsabendo"
     )
 
