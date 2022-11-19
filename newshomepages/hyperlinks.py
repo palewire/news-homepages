@@ -23,7 +23,6 @@ def cli(handle: str, output_dir: str):
     with sync_playwright() as p:
         # Open a browser
         browser = p.chromium.launch(channel="chrome")
-
         context = browser.new_context(user_agent=utils.get_user_agent())
 
         # Get lnks
