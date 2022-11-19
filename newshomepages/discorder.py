@@ -15,45 +15,34 @@ from . import utils
 DISCORD_BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 
 
-class BotClient(discord.Client):
-    """A chat client that posts the provided handle."""
-
-    def __init__(self, caption: str, path_list: typing.List[Path], *args, **kwargs):
-        """Initialize object."""
-        super().__init__(intents=discord.Intents.default(), **kwargs)
-        self.caption = caption
-        self.path_list = path_list
-
-    async def on_ready(self):
-        """Run after we connect to Discord."""
-        await self.post()
-        await self.close()
-
-    async def post(self):
-        """Post message to Discord channel."""
-        # Get the channel
-        channel = self.get_channel(952969204892573827)
-
-        # Loop through all the sites
-        for i, path in enumerate(self.path_list):
-
-            # Figure out if we want the caption
-            if i == 0:
-                message = self.caption
-            else:
-                message = ""
-
-            # Post
-            await channel.send(message, file=discord.File(path))
-
-            # Pause
-            time.sleep(0.5)
-
-
 @click.group()
 def cli():
     """Post images to Discord."""
     pass
+
+
+@cli.command()
+@click.argument("handle")
+@click.option("-i", "--input-dir", "input_dir", default="./")
+def single(handle: str, input_dir: str):
+    """Post a single source."""
+    # Get the metadata
+    site = utils.get_site(handle)
+
+    # Get the timestamp
+    now = datetime.now()
+
+    # Convert it to local time
+    tz = pytz.timezone(site["timezone"])
+    now_local = now.astimezone(tz)
+
+    # Create the caption
+    caption = (
+        f"The {site['name']} homepage at {now_local.strftime('%-I:%M %p')} local time\n"
+    )
+
+    # Do it
+    _post(caption, input_dir)
 
 
 @cli.command()
@@ -105,6 +94,41 @@ def _post(caption, input_dir):
     print(f":camera: Posting {len(image_paths)} images in {input_path} to Discord")
     c = BotClient(caption, image_paths)
     c.run(DISCORD_BOT_TOKEN)
+
+
+class BotClient(discord.Client):
+    """A chat client that posts the provided handle."""
+
+    def __init__(self, caption: str, path_list: typing.List[Path], *args, **kwargs):
+        """Initialize object."""
+        super().__init__(intents=discord.Intents.default(), **kwargs)
+        self.caption = caption
+        self.path_list = path_list
+
+    async def on_ready(self):
+        """Run after we connect to Discord."""
+        await self.post()
+        await self.close()
+
+    async def post(self):
+        """Post message to Discord channel."""
+        # Get the channel
+        channel = self.get_channel(952969204892573827)
+
+        # Loop through all the sites
+        for i, path in enumerate(self.path_list):
+
+            # Figure out if we want the caption
+            if i == 0:
+                message = self.caption
+            else:
+                message = ""
+
+            # Post
+            await channel.send(message, file=discord.File(path))
+
+            # Pause
+            time.sleep(0.5)
 
 
 if __name__ == "__main__":
