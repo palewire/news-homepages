@@ -1,4 +1,3 @@
-import json
 import typing
 from pathlib import Path
 
@@ -49,7 +48,7 @@ def cli(handle: str, output_dir: str, is_bundle: bool = False):
             link_list = _get_links(context, site)
 
             # Write out
-            _write_json(
+            utils.write_json(
                 output_path / f"{site['handle'].lower()}.hyperlinks.json", link_list
             )
 
@@ -90,14 +89,6 @@ def _get_links(context: BrowserContext, data: typing.Dict, timeout: int = 60000 
 
     # Return the result
     return data_list
-
-
-def _write_json(output_path: Path, link_list: typing.List):
-    """Write out the provided handle's link list as json."""
-    # Write it out
-    with open(output_path, "w") as fp:
-        print(f"📥 Saving hyperlinks to {output_path}")
-        json.dump(link_list, fp, indent=2)
 
 
 if __name__ == "__main__":
