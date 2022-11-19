@@ -1,12 +1,10 @@
 import logging
 import os
 import typing
-from datetime import datetime
 from pathlib import Path
 
 import click
 import internetarchive
-import pytz
 from rich import print
 
 from . import utils
@@ -62,7 +60,7 @@ def cli(
 
     # Upload into an "item" keyed to the site's handle and year
     handle = data["handle"]
-    local_now = _get_now_local(data)
+    local_now = utils.get_local_time(data)
     site_identifier = f"{utils.safe_ia_handle(handle)}-{local_now.strftime('%Y')}"
     site_metadata = _get_item_metadata(data)
     print(
@@ -106,13 +104,6 @@ def cli(
         )
 
 
-def _get_now_local(data: typing.Dict) -> datetime:
-    """Get the current time in the provided site's timezone."""
-    now = datetime.now()
-    tz = pytz.timezone(data["timezone"])
-    return now.astimezone(tz)
-
-
 def _get_item_metadata(data: typing.Dict) -> typing.Dict:
     """Convert a site's metadata into the format we'll use in its archive.org item."""
     # Verify we have an archive.org collection
@@ -120,7 +111,7 @@ def _get_item_metadata(data: typing.Dict) -> typing.Dict:
 
     # Get the current year where the site is based,
     # since we segment each site's items by calendar year.
-    now_year = _get_now_local(data).strftime("%Y")
+    now_year = utils.get_local_time(data).strftime("%Y")
 
     # Format a metadata dictionary ready to post to the archive.org upload method
     return dict(
@@ -144,7 +135,7 @@ def _get_file_dict(data: typing.Dict, input_dir: Path) -> typing.Dict:
     wayback_path = input_dir / f"{handle}.wayback.json"
 
     # Get the local time where the site is based
-    now_local = _get_now_local(data)
+    now_local = utils.get_local_time(data)
 
     # Convert it to ISO format for timestamping our files
     now_iso = now_local.isoformat()

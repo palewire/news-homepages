@@ -1,12 +1,10 @@
 import os
 import time
 import typing
-from datetime import datetime
 from pathlib import Path
 
 import click
 import discord
-import pytz
 from retry import retry
 from rich import print
 
@@ -29,12 +27,7 @@ def single(handle: str, input_dir: str):
     # Get the metadata
     site = utils.get_site(handle)
 
-    # Get the timestamp
-    now = datetime.now()
-
-    # Convert it to local time
-    tz = pytz.timezone(site["timezone"])
-    now_local = now.astimezone(tz)
+    now_local = utils.get_local_time(site)
 
     # Create the caption
     caption = (
@@ -52,13 +45,7 @@ def bundle(slug: str, input_dir: str):
     """Post all images for a bundle."""
     # Get the metadata
     bundle = utils.get_bundle(slug)
-
-    # Get the timestamp
-    now = datetime.now()
-
-    # Convert it to local time
-    tz = pytz.timezone(bundle["timezone"])
-    now_local = now.astimezone(tz)
+    now_local = utils.get_local_time(bundle)
 
     # Create the caption
     caption = f"{bundle['name']} homepages at {now_local.strftime('%-I:%M %p')} in {bundle['location']}\n"

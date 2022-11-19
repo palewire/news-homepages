@@ -72,3 +72,9 @@ def test_get_url():
     utils.get_json_url(
         "https://archive.org/download/signalcleveland-2022/signalcleveland-2022-11-17T02%3A50%3A58.280867-05%3A00.wayback.json"
     )
+
+
+def test_get_local_time():
+    """Test method to get the local time."""
+    utils.get_local_time(utils.get_site("latimes"))
+    utils.get_local_time(utils.get_bundle("us-national"))

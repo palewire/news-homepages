@@ -67,6 +67,13 @@ def get_json_url(url: str):
     return r.json()
 
 
+def get_local_time(data: typing.Dict) -> datetime:
+    """Get the current time in the provided site's timezone."""
+    now = datetime.now()
+    tz = pytz.timezone(data["timezone"])
+    return now.astimezone(tz)
+
+
 def parse_archive_url(url: str):
     """Parse the handle and timestamp from an archive.org URL."""
     o = urlparse(url)
