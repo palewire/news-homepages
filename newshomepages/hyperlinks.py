@@ -14,7 +14,8 @@ from . import utils
 @click.command()
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
-def cli(handle: str, output_dir: str):
+@click.option("--timeout", "timeout", default="180")
+def cli(handle: str, output_dir: str, timeout: str = "180"):
     """Save all hyperlinks as JSON for a site or bundle."""
     # Get the site
     site = utils.get_site(handle)
@@ -26,7 +27,7 @@ def cli(handle: str, output_dir: str):
         context = browser.new_context(user_agent=utils.get_user_agent())
 
         # Get lnks
-        link_list = _get_links(context, site)
+        link_list = _get_links(context, site, timeout=int(timeout))
 
         # Close the browser
         context.close()
@@ -37,13 +38,13 @@ def cli(handle: str, output_dir: str):
 
 
 @retry(tries=3, delay=5, backoff=2)
-def _get_links(context: BrowserContext, data: typing.Dict, timeout: int = 60000 * 3):
+def _get_links(context: BrowserContext, data: typing.Dict, timeout: int = 180):
     print(f"🔗 Getting hyperlinks from {data['url']}")
     # Open a page
     page = context.new_page()
 
     # Go to the page
-    page.goto(data["url"], timeout=timeout)
+    page.goto(data["url"], timeout=timeout * 1000)
 
     # Pull the html
     html = page.content()
