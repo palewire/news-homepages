@@ -1,4 +1,5 @@
 import csv
+import json
 import re
 import tempfile
 import time
@@ -39,6 +40,14 @@ def safe_ia_handle(s):
 
     # Pass it back
     return s
+
+
+def write_json(data: typing.Any, path: Path, indent: int = 2):
+    """Write JSON data to the provided path."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    print(f"📥 Writing JSON to {path}")
+    with open(path, "w") as fh:
+        json.dump(data, fh, indent=2)
 
 
 def parse_archive_url(url: str):

@@ -2,22 +2,20 @@ import csv
 import json
 import os
 import pathlib
-import re
 import time
 import typing
 from datetime import datetime
 from urllib.parse import urlparse
 
 import click
-import internetarchive
 import pandas as pd
 import requests
 from requests.adapters import HTTPAdapter, Retry
-from retry import retry
 from rich import print
 from rich.progress import track
 
-from . import utils
+from .. import utils
+from .items import cli as download_items
 
 IA_ACCESS_KEY = os.getenv("IA_ACCESS_KEY")
 IA_SECRET_KEY = os.getenv("IA_SECRET_KEY")
@@ -30,70 +28,6 @@ CURRENT_YEAR = datetime.now().year
 def cli():
     """Extract data from the Internet Archive collection."""
     pass
-
-
-@cli.command()
-@click.option("-y", "--year", "year", default=CURRENT_YEAR)
-@click.option("--site", "site", default=None)
-@click.option("--country", "country", default=None)
-@click.option("--language", "language", default=None)
-@click.option("--bundle", "bundle", default=None)
-@click.option("--batch", "batch", default=None)
-@click.option("-o", "--output-path", "output_path", default=utils.EXTRACT_DIR / "json")
-@click.option("--wait", "wait", default=5, help="How long to pause between requests")
-def download_items(
-    year: str,
-    site: typing.Optional[str] = None,
-    country: typing.Optional[str] = None,
-    language: typing.Optional[str] = None,
-    bundle: typing.Optional[str] = None,
-    batch: typing.Optional[str] = None,
-    output_path=utils.EXTRACT_DIR / "json",
-    wait: float = 5,
-):
-    """Download the full list of Internet Archive items as JSON."""
-    assert IA_COLLECTION
-
-    @retry(tries=3, delay=30, backoff=2)
-    def _save_item(item):
-        # Save it locally
-        output_obj = pathlib.Path(output_path)
-        output_obj.mkdir(parents=True, exist_ok=True)
-        with open(output_obj / f"{item.identifier}.json", "w") as fh:
-            json.dump(item.item_metadata, fh, indent=2)
-            time.sleep(wait)
-
-    @retry(tries=3, delay=30, backoff=2)
-    def _site_search(s):
-        s = s["handle"].lower()
-        # Replace any leading underscores, which don't work on archive.org
-        s = re.sub("^(_+)", "", s)
-        search = f"collection:{IA_COLLECTION} AND identifier:({s}-{year})"
-        return internetarchive.search_items(search).iter_as_items()
-
-    # If the user has provided a way to filter to a subset of sites, pull em out
-    if site:
-        site_list = [utils.get_site(site)]
-    elif country:
-        site_list = utils.get_sites_in_country(country)
-    elif language:
-        site_list = utils.get_sites_in_language(language)
-    elif bundle:
-        site_list = utils.get_sites_in_bundle(bundle)
-    elif batch:
-        site_list = utils.get_sites_in_batch(int(batch))
-    else:
-        site_list = None
-
-    # If we're filtering go get those
-    if site_list:
-        for obj in track(site_list):
-            [_save_item(i) for i in _site_search(obj)]
-    # Otherwise, go get all items in the collection from this year
-    else:
-        search = f"collection:{IA_COLLECTION} AND identifier:(*-{year})"
-        item_list = internetarchive.search_items(search).iter_as_items()
-        [_save_item(i) for i in item_list]
 
 
 @cli.command()
@@ -547,5 +481,7 @@ def _get_json_url(url):
     return df
 
 
+cli_group = click.CommandCollection(sources=[cli, download_items])
+
 if __name__ == "__main__":
-    cli()
+    cli_group()
