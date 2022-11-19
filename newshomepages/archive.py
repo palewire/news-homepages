@@ -29,12 +29,14 @@ IA_COLLECTION = os.getenv("IA_COLLECTION")
 )
 @click.option("--retries", "retries", default="5")
 @click.option("--retries-sleep", "retries_sleep", default="30")
+@click.option("--timeout", "timeout", default="60")
 def cli(
     handle: str,
     input_dir: str,
     verbose: bool = False,
     retries: str = "5",
     retries_sleep: str = "30",
+    timeout: str = "60",
 ):
     """Save assets to an archive.org collection."""
     # Verify we have all the credentials
@@ -63,11 +65,20 @@ def cli(
     handle = data["handle"]
     local_now = _get_now_local(data)
     site_identifier = f"{_clean_handle(handle)}-{local_now.strftime('%Y')}"
-    site_metadata = _get_item_metadata(data, retries=int(retries), retries_sleep=int(retries_sleep))
+    site_metadata = _get_item_metadata(data)
     print(
         f"📚 Saving timestamped `{handle}` assets to archive.org `{IA_COLLECTION}` collection's `{site_identifier}`"
     )
-    _upload(data, site_identifier, site_metadata, file_dict, verbose)
+    _upload(
+        data,
+        site_identifier,
+        site_metadata,
+        file_dict,
+        verbose,
+        retries=int(retries),
+        retries_sleep=int(retries_sleep),
+        timeout=int(timeout)
+    )
 
     # Once that finishes, if there's a JPG file, symlink it as the latest image
     image_path = input_path / f"{handle}.jpg"
@@ -82,11 +93,18 @@ def cli(
             mediatype="image",
             publisher="https://homepages.news",
             contributor="https://homepages.news",
-            retries=int(retries),
-            retries_sleep=int(retries_sleep),
         )
         latest_dict = {f"{_clean_handle(handle)}.jpg": image_path}
-        _upload(data, latest_identifier, latest_metadata, latest_dict, verbose)
+        _upload(
+            data,
+            latest_identifier,
+            latest_metadata,
+            latest_dict,
+            verbose,
+            retries=int(retries),
+            retries_sleep=int(retries_sleep),
+            timeout=int(timeout)
+        )
 
 
 def _clean_handle(s):
@@ -108,11 +126,7 @@ def _get_now_local(data: typing.Dict) -> datetime:
     return now.astimezone(tz)
 
 
-def _get_item_metadata(
-    data: typing.Dict,
-    retries: int = 5,
-    retries_sleep: int = 30,
-) -> typing.Dict:
+def _get_item_metadata(data: typing.Dict) -> typing.Dict:
     """Convert a site's metadata into the format we'll use in its archive.org item."""
     # Verify we have an archive.org collection
     assert IA_COLLECTION
@@ -128,9 +142,7 @@ def _get_item_metadata(
         mediatype="image",
         publisher=data["url"],
         date=now_year,
-        contributor="https://homepages.news",
-        retries=retries,
-        retries_sleep=retries_sleep,
+        contributor="https://homepages.news"
     )
 
 
@@ -173,6 +185,9 @@ def _upload(
     metadata: typing.Dict,
     files: typing.Dict,
     verbose: bool = False,
+    retries: int = 5,
+    retries_sleep: int = 30,
+    timeout: int = 60,
 ):
     """Upload the provided data to archive.org."""
     # Make sure secrets are there
@@ -190,6 +205,9 @@ def _upload(
         files=files,
         # Other options
         verbose=verbose,
+        retries=retries,
+        retries_sleep=retries_sleep,
+        request_kwargs=dict(timeout=timeout)
     )
 
     # Upload it
