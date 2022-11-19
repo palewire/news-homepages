@@ -65,3 +65,10 @@ def test_get_extract():
     """Test the method to pull in an extract CSV."""
     utils.get_extract_df("drudge-entities-analysis.csv")
     utils.get_extract_df("drudge-entities-analysis.csv", dtype={"n": int})
+
+
+def test_get_url():
+    """Test utils for getting data off the web."""
+    utils.get_json_url(
+        "https://archive.org/download/signalcleveland-2022/signalcleveland-2022-11-17T02%3A50%3A58.280867-05%3A00.wayback.json"
+    )

@@ -42,7 +42,7 @@ def cli(handle: str, output_dir: str):
 
             # Check in our capture
             status_url = f"https://web.archive.org/save/status/{capture_data['job_id']}"
-            status_data = _get(status_url)
+            status_data = utils.get_json_url(status_url)
 
             # If it's a success, we're done
             if status_data["status"] == "success":
@@ -71,14 +71,6 @@ def cli(handle: str, output_dir: str):
     slug = site["handle"].lower()
     with open(output_path / f"{slug}.wayback.json", "w") as fp:
         json.dump(capture_data, fp, indent=2)
-
-
-@retry(tries=3, delay=5, backoff=2)
-def _get(url: str):
-    r = requests.get(url)
-    assert r.ok
-    j = r.json()
-    return j
 
 
 @retry(tries=3, delay=10, backoff=2)

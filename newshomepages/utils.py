@@ -12,8 +12,10 @@ import iso639
 import iso3166
 import pandas as pd
 import pytz
+import requests
 import tldextract
 from playwright.sync_api._generated import BrowserContext, Playwright
+from retry import retry
 
 # Set paths for key files
 THIS_DIR = Path(__file__).parent.absolute()
@@ -48,6 +50,21 @@ def write_json(data: typing.Any, path: Path, indent: int = 2):
     print(f"📥 Writing JSON to {path}")
     with open(path, "w") as fh:
         json.dump(data, fh, indent=2)
+
+
+@retry(tries=3, delay=5, backoff=2)
+def get_url(url: str):
+    """Get the provided URL."""
+    r = requests.get(url)
+    assert r.ok
+    return r
+
+
+@retry(tries=3, delay=5, backoff=2)
+def get_json_url(url: str):
+    """Get JSON data from the provided URL."""
+    r = get_url(url)
+    return r.json()
 
 
 def parse_archive_url(url: str):
