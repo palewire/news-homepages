@@ -18,9 +18,22 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: install
-        name: Install
-        uses: ./.github/actions/install
+      - id: setup-python
+        name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pipenv'
+
+      - id: install-pipenv
+        name: Install pipenv
+        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
+        shell: bash
+
+      - id: install-python-dependencies
+        name: Install Python dependencies
+        run: pipenv install --dev --python=`which python`
+        shell: bash
 
       - id: lint
         name: Lint
@@ -34,9 +47,22 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: install
-        name: Install Python and dependencies
-        uses: ./.github/actions/install
+      - id: setup-python
+        name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pipenv'
+
+      - id: install-pipenv
+        name: Install pipenv
+        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
+        shell: bash
+
+      - id: install-python-dependencies
+        name: Install Python dependencies
+        run: pipenv install --dev --python=`which python`
+        shell: bash
 
       - id: cache-playwright
         name: Cache Playwright
@@ -54,7 +80,10 @@ jobs:
 
       - id: test
         name: Run tests
-        run: pipenv run xvfb-run pytest tests
+        run: pipenv run xvfb-run pytest tests -sv --cov
+        shell: bash
+        env:
+            IA_COLLECTION: ${{ secrets.IA_COLLECTION }}
 
   static-type-check:
     name: Static type check
@@ -64,9 +93,22 @@ jobs:
         name: Checkout
         uses: actions/checkout@v3
 
-      - id: install
-        name: Install
-        uses: ./.github/actions/install
+      - id: setup-python
+        name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pipenv'
+
+      - id: install-pipenv
+        name: Install pipenv
+        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
+        shell: bash
+
+      - id: install-python-dependencies
+        name: Install Python dependencies
+        run: pipenv install --dev --python=`which python`
+        shell: bash
 
       - id: mypy
         name: mypy

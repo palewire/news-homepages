@@ -7,11 +7,13 @@ from newshomepages import archive, utils
 
 def test_archive_clean_handle():
     """Test archive handle cleaning."""
-    assert utils.safe_ia_handle(utils.get_site("latimes")["handle"]) == "latimes"
-    assert (
-        utils.safe_ia_handle(utils.get_site("_fiquemsabendo")["handle"])
-        == "fiquemsabendo"
-    )
+
+    def _get_handle(x):
+        return utils.safe_ia_handle(utils.get_site(x)["handle"])
+
+    assert _get_handle("latimes") == "latimes"
+    assert _get_handle("_fiquemsabendo") == "fiquemsabendo"
+    assert _get_handle("CNN") == "cnn"
 
 
 def test_archive_now_local():
