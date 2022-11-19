@@ -14,7 +14,7 @@ from . import utils
 @click.option("-o", "--output-dir", "output_dir", default="./")
 @click.option("--timeout", "timeout", default="180")
 def cli(handle: str, output_dir: str, timeout: str = "180"):
-    """Save the accessiblity JSON of a single site."""
+    """Save the accessiblity tree of the provided site."""
     # Get metadata
     site = utils.get_site(handle)
 
@@ -41,9 +41,13 @@ def _get_accessibility(data: typing.Dict, output_path: Path, timeout: int = 180)
         "--timeout",
         str(timeout * 1000),  # Convert from seconds into milliseconds
     ]
+
+    # If there's a custom JavaScript include, toss that in
     javascript = utils.get_javascript(data["handle"])
     if javascript:
         command_list.extend(["--javascript", javascript])
+
+    # Run the command
     subprocess.run(command_list)
 
 
