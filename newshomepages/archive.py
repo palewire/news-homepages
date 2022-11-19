@@ -1,6 +1,5 @@
 import logging
 import os
-import re
 import typing
 from datetime import datetime
 from pathlib import Path
@@ -77,7 +76,7 @@ def cli(
         verbose,
         retries=int(retries),
         retries_sleep=int(retries_sleep),
-        timeout=int(timeout)
+        timeout=int(timeout),
     )
 
     # Once that finishes, if there's a JPG file, symlink it as the latest image
@@ -103,7 +102,7 @@ def cli(
             verbose,
             retries=int(retries),
             retries_sleep=int(retries_sleep),
-            timeout=int(timeout)
+            timeout=int(timeout),
         )
 
 
@@ -130,7 +129,7 @@ def _get_item_metadata(data: typing.Dict) -> typing.Dict:
         mediatype="image",
         publisher=data["url"],
         date=now_year,
-        contributor="https://homepages.news"
+        contributor="https://homepages.news",
     )
 
 
@@ -195,7 +194,7 @@ def _upload(
         verbose=verbose,
         retries=retries,
         retries_sleep=retries_sleep,
-        request_kwargs=dict(timeout=timeout)
+        request_kwargs=dict(timeout=timeout),
     )
 
     # Upload it
