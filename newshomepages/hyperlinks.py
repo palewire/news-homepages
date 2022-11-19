@@ -14,25 +14,10 @@ from . import utils
 @click.command()
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
-@click.option(
-    "--bundle",
-    "is_bundle",
-    is_flag=True,
-    default=False,
-    help="The provided handle is a bundle",
-)
-def cli(handle: str, output_dir: str, is_bundle: bool = False):
+def cli(handle: str, output_dir: str):
     """Save all hyperlinks as JSON for a site or bundle."""
-    # Set the output path
-    output_path = Path(output_dir)
-    output_path.mkdir(parents=True, exist_ok=True)
-
-    if is_bundle:
-        # Get all the sites
-        site_list = utils.get_sites_in_bundle(handle)
-    else:
-        # Get metadata
-        site_list = [utils.get_site(handle)]
+    # Get the site
+    site = utils.get_site(handle)
 
     # Start the browser
     with sync_playwright() as p:
@@ -41,24 +26,20 @@ def cli(handle: str, output_dir: str, is_bundle: bool = False):
 
         context = browser.new_context(user_agent=utils.get_user_agent())
 
-        # Loop through the sites
-        for site in site_list:
+        # Get lnks
+        link_list = _get_links(context, site)
 
-            # Get lnks
-            link_list = _get_links(context, site)
-
-            # Write out
-            utils.write_json(
-                output_path / f"{site['handle'].lower()}.hyperlinks.json", link_list
-            )
-
-        # Close the context
+        # Close the browser
         context.close()
+
+    # Write out the data
+    output_path = Path(output_dir) / f"{site['handle'].lower()}.hyperlinks.json"
+    utils.write_json(output_path, link_list)
 
 
 @retry(tries=3, delay=5, backoff=2)
 def _get_links(context: BrowserContext, data: typing.Dict, timeout: int = 60000 * 3):
-    print(f":newspaper: Getting hyperlinks for {data['url']}")
+    print(f"🔗 Getting hyperlinks from {data['url']}")
     # Open a page
     page = context.new_page()
 
