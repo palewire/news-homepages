@@ -16,13 +16,6 @@ def test_archive_clean_handle():
     assert _get_handle("CNN") == "cnn"
 
 
-def test_archive_now_local():
-    """Test method that pulls the local datetime."""
-    data = utils.get_site("latimes")
-    now = archive._get_now_local(data)
-    assert now.year == datetime.now().year
-
-
 def test_archive_metadata():
     """Test the method that creates a metadata dict for uploading to archive.org."""
     data = utils.get_site("latimes")
