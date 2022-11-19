@@ -27,6 +27,8 @@ def test_archive_metadata():
     metadata = archive._get_item_metadata(data)
     assert metadata["collection"] == os.getenv("IA_COLLECTION")
     assert metadata["title"] == f"{data['name']} homepages in {datetime.now().year}"
+    assert metadata["retries"] == 5
+    assert archive._get_item_metadata(data, retries_sleep=60)["retries_sleep"] == 60
 
 
 def test_archive_file_dict():
