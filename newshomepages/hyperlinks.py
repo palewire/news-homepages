@@ -34,7 +34,7 @@ def cli(handle: str, output_dir: str, timeout: str = "180"):
 
     # Write out the data
     output_path = Path(output_dir) / f"{site['handle'].lower()}.hyperlinks.json"
-    utils.write_json(output_path, link_list)
+    utils.write_json(link_list, output_path)
 
 
 @retry(tries=3, delay=5, backoff=2)
