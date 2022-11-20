@@ -11,7 +11,7 @@ from .utils import _get_json_url
 
 @click.group()
 def cli():
-    """Extract data from the Internet Archive collection."""
+    """Download and parse the provided site's Lighthouse files."""
     pass
 
 
