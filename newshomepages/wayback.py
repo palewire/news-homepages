@@ -1,4 +1,3 @@
-import json
 import os
 import time
 from pathlib import Path
@@ -69,8 +68,7 @@ def cli(handle: str, output_dir: str):
 
     # Write it out
     slug = site["handle"].lower()
-    with open(output_path / f"{slug}.wayback.json", "w") as fp:
-        json.dump(capture_data, fp, indent=2)
+    utils.write_json(capture_data, output_path / f"{slug}.wayback.json")
 
 
 @retry(tries=3, delay=10, backoff=2)
