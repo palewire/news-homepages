@@ -62,13 +62,9 @@ def cli(handle: str, output_dir: str):
                 capture_data.update(status_data)
                 break
 
-    # Set the output path
-    output_path = Path(output_dir)
-    output_path.mkdir(parents=True, exist_ok=True)
-
     # Write it out
     slug = site["handle"].lower()
-    utils.write_json(capture_data, output_path / f"{slug}.wayback.json")
+    utils.write_json(capture_data, Path(output_dir) / f"{slug}.wayback.json")
 
 
 @retry(tries=3, delay=10, backoff=2)
