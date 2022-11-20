@@ -24,13 +24,6 @@ from . import utils
     default=False,
     help="Screenshot the whole page",
 )
-@click.option(
-    "--bundle",
-    "is_bundle",
-    is_flag=True,
-    default=False,
-    help="The provided handle is a bundle",
-)
 def cli(
     handle: str,
     output_dir: str = "./",
@@ -38,33 +31,28 @@ def cli(
     width: str = "1300",
     height: str = "1600",
     full_page: bool = False,
-    is_bundle: bool = False,
 ):
     """Screenshot the provided homepage."""
     # Set the output path
     output_path = Path(output_dir)
     output_path.mkdir(parents=True, exist_ok=True)
 
-    if is_bundle:
-        site_list = utils.get_sites_in_bundle(handle)
-    else:
-        site_list = [utils.get_site(handle)]
+    # Get the site
+    site = utils.get_site(handle)
 
     # Open the browser
     with sync_playwright() as playwright:
         # We'll load it with an extension
         context = utils._load_persistent_context(playwright, int(width), int(height))
 
-        # Loop through all the sites
-        for site in site_list:
-            # Screenshot them one by one
-            _screenshot(
-                context,
-                site,
-                output_path,
-                wait=int(site["wait"] or wait),
-                full_page=full_page,
-            )
+        # Screenshot the site
+        _screenshot(
+            context,
+            site,
+            output_path,
+            wait=int(site["wait"] or wait),
+            full_page=full_page,
+        )
 
         # Close it out
         context.close()
