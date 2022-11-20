@@ -18,6 +18,13 @@ IA_COLLECTION = os.getenv("IA_COLLECTION")
 @click.argument("handle")
 @click.option("-i", "--input-dir", "input_dir", default="./")
 @click.option(
+    "--latest",
+    "latest",
+    is_flag=True,
+    default=False,
+    help="Crosspost to the `latest` archive.org item",
+)
+@click.option(
     "--verbose",
     "verbose",
     is_flag=True,
@@ -30,6 +37,7 @@ IA_COLLECTION = os.getenv("IA_COLLECTION")
 def cli(
     handle: str,
     input_dir: str,
+    latest: bool = False,
     verbose: bool = False,
     retries: str = "5",
     retries_sleep: str = "30",
@@ -78,30 +86,36 @@ def cli(
     )
 
     # Once that finishes, if there's a JPG file, symlink it as the latest image
+    # ... assuming the user has asked for it with the --latest flag.
+    if not latest:
+        return
+
     image_path = input_path / f"{handle}.jpg"
-    if image_path.exists():
-        latest_identifier = "latest-homepages"
-        print(
-            f"📚 Saving latest `{handle}` assets to archive.org `{IA_COLLECTION}` collection's `{latest_identifier}` item"
-        )
-        latest_metadata = dict(
-            title="Latest homepages",
-            collection=IA_COLLECTION,
-            mediatype="image",
-            publisher="https://homepages.news",
-            contributor="https://homepages.news",
-        )
-        latest_dict = {f"{utils.safe_ia_handle(handle)}.jpg": image_path}
-        _upload(
-            data,
-            latest_identifier,
-            latest_metadata,
-            latest_dict,
-            verbose,
-            retries=int(retries),
-            retries_sleep=int(retries_sleep),
-            timeout=int(timeout),
-        )
+    if not image_path.exists():
+        return
+
+    latest_identifier = "latest-homepages"
+    print(
+        f"📚 Saving latest `{handle}` assets to archive.org `{IA_COLLECTION}` collection's `{latest_identifier}` item"
+    )
+    latest_metadata = dict(
+        title="Latest homepages",
+        collection=IA_COLLECTION,
+        mediatype="image",
+        publisher="https://homepages.news",
+        contributor="https://homepages.news",
+    )
+    latest_dict = {f"{utils.safe_ia_handle(handle)}.jpg": image_path}
+    _upload(
+        data,
+        latest_identifier,
+        latest_metadata,
+        latest_dict,
+        verbose,
+        retries=int(retries),
+        retries_sleep=int(retries_sleep),
+        timeout=int(timeout),
+    )
 
 
 def _get_item_metadata(data: typing.Dict) -> typing.Dict:
