@@ -5,17 +5,16 @@ import pathlib
 import time
 import typing
 from datetime import datetime
-from urllib.parse import urlparse
 
 import click
 import pandas as pd
-import requests
-from requests.adapters import HTTPAdapter, Retry
 from rich import print
 from rich.progress import track
 
 from .. import utils
-from .items import cli as download_items
+from .accessibility import cli as cli_accessibility
+from .items import cli as cli_items
+from .utils import _get_json_url
 
 IA_ACCESS_KEY = os.getenv("IA_ACCESS_KEY")
 IA_SECRET_KEY = os.getenv("IA_SECRET_KEY")
@@ -28,50 +27,6 @@ CURRENT_YEAR = datetime.now().year
 def cli():
     """Extract data from the Internet Archive collection."""
     pass
-
-
-@cli.command()
-@click.argument("handle")
-def download_accessibility(handle):
-    """Download and parse the provided site's accessibility files."""
-    # Get the site data
-    site = utils.get_site(handle)
-
-    # Get all hyperlinks
-    accessibility_df = utils.get_accessibility_df()
-
-    # Filter it down to files for the provided site
-    site_df = accessibility_df[
-        accessibility_df.handle.str.lower() == site["handle"].lower()
-    ]
-    print(f"{len(site_df)} accessibility files found")
-
-    # Read in the output file
-    output_path = utils.ANALYSIS_DIR / f"{handle.lower()}-accessibility.csv"
-    try:
-        output_df = pd.read_csv(output_path)
-        downloaded_files = set(output_df.file_url.unique())
-    except FileNotFoundError:
-        output_df = pd.DataFrame()
-        downloaded_files = set()
-
-    # See how many files we don't have yet
-    archived_files = set(site_df.url.unique())
-    missing_files = list(archived_files - downloaded_files)
-    print(f"{len(missing_files)} files need to be download")
-
-    # Quit if there's nothing there
-    if not len(missing_files):
-        return
-
-    # Go get the files
-    for url in missing_files:
-        df = _get_json_url(url)
-        output_df = pd.concat([output_df, df])
-        time.sleep(1)
-
-    print(f":pencil: Writing {len(output_df)} rows to {output_path}")
-    output_df.to_csv(output_path, index=False)
 
 
 @cli.command()
@@ -443,45 +398,7 @@ def consolidate():
     _write_csv(wayback_output, "wayback-files.csv")
 
 
-def _get_json_url(url):
-    # Prepare a cache
-    cache_dir = utils.THIS_DIR.parent / ".cache"
-    cache_dir.mkdir(parents=True, exist_ok=True)
-
-    # Check if the file has been downloaded
-    output_path = cache_dir / urlparse(url).path.split("/")[-1]
-    if output_path.exists():
-        print(f":book: Reading in cached file {output_path}")
-        return pd.read_json(output_path)
-    else:
-        # Get the URL
-        print(f":link: Downloading {url}")
-        s = requests.Session()
-        retries = Retry(total=3, backoff_factor=1)
-        s.mount("https://", HTTPAdapter(max_retries=retries))
-        r = s.get(url)
-        data = r.json()
-
-        # Parse as a dataframe
-        df = pd.DataFrame(data)
-
-        # Write to cache
-        df.to_json(output_path, orient="records", indent=2)
-        print(f":pencil: Writing to cached file {output_path}")
-        time.sleep(0.25)
-
-    # Add columns
-    metadata = utils.parse_archive_url(url)
-    df["site_handle"] = metadata["handle"]
-    df["item_identifier"] = metadata["identifier"]
-    df["file_timestamp"] = metadata["timestamp"]
-    df["file_url"] = url
-
-    # Return dataframe
-    return df
-
-
-cli_group = click.CommandCollection(sources=[cli, download_items])
+cli_group = click.CommandCollection(sources=[cli, cli_items, cli_accessibility])
 
 if __name__ == "__main__":
     cli_group()
