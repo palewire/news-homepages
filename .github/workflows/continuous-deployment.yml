@@ -83,6 +83,8 @@ jobs:
         run: pipenv run xvfb-run pytest tests -sv --cov
         shell: bash
         env:
+            IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+            IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
             IA_COLLECTION: ${{ secrets.IA_COLLECTION }}
 
   static-type-check:
