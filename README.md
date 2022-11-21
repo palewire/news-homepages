@@ -10,4 +10,4 @@ An open-source archive that gathers, saves, shares and analyzes news homepages
 - Packaging: [pypi.org/project/newshomepages](https://pypi.org/project/newshomepages/)
 - How to add a site: [palewi.re/docs/news-homepages/adding.html](https://palewi.re/docs/news-homepages/adding.html)
 
-> **WARNING**: This repository is currently being refactored to reduce disk usage. This may require the deletion of old branches and forks. 
+> **WARNING**: This repository is currently being refactored to reduce disk usage. The work may require the deletion of old branches and forks. 
