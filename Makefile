@@ -74,7 +74,6 @@ endef
 
 site: ## Build the site
 	$(call banner,    🏗️ Building site 🏗️)
-	@$(PYTHON) newshomepages.extract consolidate
 	@$(PYTHON) newshomepages.site latest-screenshots
 	@$(PYTHON) newshomepages.site accessibility-ranking
 	@$(PYTHON) newshomepages.site accessibility-ranking
