@@ -5,6 +5,7 @@ from pathlib import Path
 
 import click
 import internetarchive
+from retry import retry
 from rich import print
 
 from . import utils
@@ -31,16 +32,12 @@ IA_COLLECTION = os.getenv("IA_COLLECTION")
     default=False,
     help="Display the upload progress to archive.org",
 )
-@click.option("--retries", "retries", default="5")
-@click.option("--retries-sleep", "retries_sleep", default="30")
 @click.option("--timeout", "timeout", default="60")
 def cli(
     handle: str,
     input_dir: str,
     latest: bool = False,
     verbose: bool = False,
-    retries: str = "5",
-    retries_sleep: str = "30",
     timeout: str = "60",
 ):
     """Save assets to an archive.org collection."""
@@ -80,8 +77,6 @@ def cli(
         site_metadata,
         file_dict,
         verbose,
-        retries=int(retries),
-        retries_sleep=int(retries_sleep),
         timeout=int(timeout),
     )
 
@@ -112,8 +107,6 @@ def cli(
         latest_metadata,
         latest_dict,
         verbose,
-        retries=int(retries),
-        retries_sleep=int(retries_sleep),
         timeout=int(timeout),
     )
 
@@ -171,14 +164,13 @@ def _get_file_dict(data: typing.Dict, input_dir: Path) -> typing.Dict:
     return file_dict
 
 
+@retry(tries=5, delay=30, backoff=2)
 def _upload(
     data: typing.Dict,
     identifier: str,
     metadata: typing.Dict,
     files: typing.Dict,
     verbose: bool = False,
-    retries: int = 5,
-    retries_sleep: int = 30,
     timeout: int = 60,
 ):
     """Upload the provided data to archive.org."""
@@ -197,12 +189,11 @@ def _upload(
         files=files,
         # Other options
         verbose=verbose,
-        retries=retries,
-        retries_sleep=retries_sleep,
         request_kwargs=dict(timeout=timeout),
     )
 
     # Upload it
+    print("Posting to archive.org")
     internetarchive.upload(identifier, **kwargs)
 
 
