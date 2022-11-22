@@ -1,4 +1,3 @@
-import os
 import typing
 from datetime import datetime
 from pathlib import Path
@@ -10,8 +9,6 @@ from rich import print
 
 from .. import utils
 
-IA_COLLECTION = os.getenv("IA_COLLECTION")
-
 
 @click.group()
 def cli():
@@ -22,33 +19,32 @@ def cli():
 @cli.command()
 @click.argument("handle")
 @click.option("-y", "--year", "year", default=None)
-@click.option("-o", "--output-path", "output_path", default="./")
+@click.option("-o", "--output-dir", "output_dir", default="./")
 def items(
     handle: str,
     year: typing.Optional[typing.Any] = None,
-    output_path: str = "./",
+    output_dir: str = "./",
 ):
     """Download items from our archive.org collection as JSON."""
-    # Set some variables for later
-    assert IA_COLLECTION
+    # Sanitize the year
     if year:
         year = int(year)
     else:
         year = datetime.now().year
 
-    @retry(tries=5, delay=30, backoff=2)
-    def _save_item(site: typing.Dict):
-        """Save an item as JSON to disk."""
-        slug = utils.safe_ia_handle(site["handle"])
-        identifier = f"{slug}-{year}"
-        print(
-            f"Downloading `{identifier}` from archive.org collection `{IA_COLLECTION}`"
-        )
-        item = internetarchive.get_item(identifier)
-        utils.write_json(
-            item.item_metadata, Path(output_path) / f"{item.identifier}.json"
-        )
+    # Set the path
+    output_path = Path(output_dir)
 
     # Pull the site
     site = utils.get_site(handle)
-    _save_item(site)
+    _save_item(site, year, output_path)
+
+
+@retry(tries=5, delay=30, backoff=2)
+def _save_item(site: typing.Dict, year: int, output_path: Path):
+    """Save an item as JSON to disk."""
+    slug = utils.safe_ia_handle(site["handle"])
+    identifier = f"{slug}-{year}"
+    print(f"Downloading `{identifier}` from archive.org")
+    item = internetarchive.get_item(identifier)
+    utils.write_json(item.item_metadata, output_path / f"{item.identifier}.json")
