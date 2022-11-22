@@ -571,6 +571,9 @@ def _get_common_blocking_javascript() -> str:
     """Compiles a set of commands into an executable javascript script to block common pop-ups, banners, etc."""
     # Run common JavaScript for all sites
     target_list = [
+        "#x-reveal-ad",     # Blox ad
+        ".tnt-ads-container",     # Blox ad,
+        ".promo-designer-modal",    # Blox ad
         ".tp-modal",  # Common popover ad
         ".tp-backdrop",
         ".onesignal-slidedown-container",  # Common slidedown ad
