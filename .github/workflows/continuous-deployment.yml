@@ -75,7 +75,7 @@ jobs:
         name: Install Playwright
         run: |
             pipenv run python -m playwright install
-            pipenv run python -m playwright install-deps
+#            pipenv run python -m playwright install-deps
         shell: bash
 
       - id: test
