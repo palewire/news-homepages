@@ -1,48 +1,48 @@
-name: "Archive and Slack: Atlanta Journal-Constitution"
+#name: "Archive and Slack: Atlanta Journal-Constitution"
 
-on:
-  workflow_dispatch:
-#   schedule:
-#     - cron: "0 12,19,1 * * *"
+#on:
+#  workflow_dispatch:
+##   schedule:
+##     - cron: "0 12,19,1 * * *"
 
-jobs:
-  archive-site:
-    name: Archive bundle
-    uses: palewire/news-homepages/.github/workflows/reusable-archive-single-site-workflow.yml@main
-    with:
-      handle: ajc
-    secrets: inherit
+#jobs:
+#  archive-site:
+#    name: Archive bundle
+#    uses: palewire/news-homepages/.github/workflows/reusable-archive-single-site-workflow.yml@main
+#    with:
+#      handle: ajc
+#    secrets: inherit
 
-  newsroom-slack:
-    name: Post to newsroom Slack
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    needs: [archive-site]
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
+#  newsroom-slack:
+#    name: Post to newsroom Slack
+#    runs-on: ubuntu-latest
+#    timeout-minutes: 15
+#    needs: [archive-site]
+#    steps:
+#      - id: checkout
+#        name: Checkout
+#        uses: actions/checkout@v3
 
-      - id: slack
-        name: Post to Slack
-        uses: ./.github/actions/slack
-        with:
-          handle: ajc
-          webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_AJC }}
+#      - id: slack
+#        name: Post to Slack
+#        uses: ./.github/actions/slack
+#        with:
+#          handle: ajc
+#          webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_AJC }}
 
-  palewire-slack:
-    name: Post to palewire Slack
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    needs: [archive-site]
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
+#  palewire-slack:
+#    name: Post to palewire Slack
+#    runs-on: ubuntu-latest
+#    timeout-minutes: 15
+#    needs: [archive-site]
+#    steps:
+#      - id: checkout
+#        name: Checkout
+#        uses: actions/checkout@v3
 
-      - id: slack
-        name: Post to Slack
-        uses: ./.github/actions/slack
-        with:
-          handle: ajc
-          webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_PALEWIRE }}
+#      - id: slack
+#        name: Post to Slack
+#        uses: ./.github/actions/slack
+#        with:
+#          handle: ajc
+#          webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_PALEWIRE }}

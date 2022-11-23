@@ -1,29 +1,29 @@
-name: Performance report
+#name: Performance report
 
-on:
-  # schedule:
-  #  - cron: "0 16 * * 1"
-  workflow_dispatch:
+#on:
+#  # schedule:
+#  #  - cron: "0 16 * * 1"
+#  workflow_dispatch:
 
-jobs:
-  calculate:
-    name: Calculate and Tweet
-    runs-on: ubuntu-latest
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v3
+#jobs:
+#  calculate:
+#    name: Calculate and Tweet
+#    runs-on: ubuntu-latest
+#    steps:
+#      - id: checkout
+#        name: Checkout
+#        uses: actions/checkout@v3
 
-      - id: install
-        name: Install
-        uses: ./.github/actions/install
+#      - id: install
+#        name: Install
+#        uses: ./.github/actions/install
 
-      - id: tweet
-        name: Tweet
-        run: pipenv run python -m newshomepages.tweet performance-report
-        shell: bash
-        env:
-          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
-          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
-          TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
-          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+#      - id: tweet
+#        name: Tweet
+#        run: pipenv run python -m newshomepages.tweet performance-report
+#        shell: bash
+#        env:
+#          TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
+#          TWITTER_CONSUMER_SECRET: ${{ secrets.TWITTER_CONSUMER_SECRET }}
+#          TWITTER_ACCESS_TOKEN_KEY: ${{ secrets.TWITTER_ACCESS_TOKEN_KEY }}
+#          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
