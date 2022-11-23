@@ -1,69 +1,70 @@
-slug,name,timezone,location
-alabama,Alabama,America/Chicago,Montgomery
-alaska,Alaska,America/Juneau,Juneau
-arizona,Arizona,America/Phoenix,Phoenix
-arkansas,Arkansas,America/Chicago,Little Rock
-aviation,Aviation,America/New_York,Kitty Hawk
-bay-area,California Bay Area,America/Los_Angeles,San Francisco
-california,California,America/Los_Angeles,Sacramento
-capitol-hill,Capitol Hill,America/New_York,The Capitol
-chess,Chess,America/New_York,New York
-chicago,Chicago,America/Chicago,The Loop
-colorado,Colorado,America/Denver,Denver
-connecticut,Connecticut,America/New_York,Hartford
-delaware,Delaware,America/New_York,Wilmington
-entertainment,Entertainment,America/Los_Angeles,Hollywood
-feminist,Feminist,America/New_York,New York City
-florida,Florida,America/New_York,Miami
-gannett,Gannett,America/New_York,Washington
-georgia,Georgia,America/New_York,Atlanta
-hawaii,Hawaii,Pacific/Honolulu,Honolulu
-illinois,Illinois,America/Chicago,Springfield
-indiana,Indiana,America/Indiana/Indianapolis,Indianapolis
-iowa,Iowa,America/Chicago,Iowa City
-kansas,Kansas,America/Chicago,Wichita
-kentucky,Kentucky,America/New_York,Louisville
-las-vegas,Las Vegas,America/Los_Angeles,The Strip
-louisiana,Louisiana,America/Chicago,Baton Rouge
-maine,Maine,America/New_York,Augusta
-maryland,Maryland,America/New_York,Baltimore
-massachusetts,Massachusetts,America/New_York,Boston
-mcclatchy,McClatchy,America/Los_Angeles,Sacramento
-michigan,Michigan,America/Detroit,Lansing
-minnesota,Minnesota,America/Chicago,Minneapolis
-mississippi,Mississippi,America/New_York,Jackson
-missouri,Missouri,America/Chicago,The Arch
-montana,Montana,America/Denver,Helena
-nebraska,Nebraska,America/Chicago,Omaha
-nevada,Nevada,America/Los_Angeles,Carson City
-new-hampshire,New Hampshire,America/New_York,Concord
-new-jersey,New Jersey,America/New_York,Trenton
-new-mexico,New Mexico,America/Denver,Albuquerque
-new-york-city,New York City,America/New_York,Times Square
-new-york-state,New York state,America/New_York,Albany
-north-carolina,North Carolina,America/New_York,Raleigh
-north-dakota,North Dakota,America/Chicago,Bismarck
-ohio,Ohio,America/New_York,Columbus
-oklahoma,Oklahoma,America/Chicago,Oklahoma City
-oregon,Oregon,America/Los_Angeles,Portland
-pennsylvania,Pennsylvania,America/New_York,Harrisburg
-philadelphia,Philadelphia,America/New_York,Independence Hall
-rhode-island,Rhode Island,America/New_York,Providence
-satire,Satire,America/Los_Angeles,Los Angeles
-science,Science,Europe/London,London
-socal,Southern California,America/Los_Angeles,Los Angeles
-south-carolina,South Carolina,America/New_York,Columbia
-south-dakota,South Dakota,America/Chicago,Pierre
-sports,Sports,America/New_York,Madison Square Garden
-student,Student,America/New_York,Campus
-tech,Technology,America/Los_Angeles,Silicon Valley
-tennessee,Tennessee,America/Chicago,Nashville
-texas,Texas,America/Chicago,Austin
-us-left-wing,U.S. left wing,America/New_York,Washington
-us-national,U.S. national news,America/New_York,New York
-us-right-wing,U.S. right wing,America/New_York,Washington
-vermont,Vermont,America/New_York,Montpelier
-virginia,Virginia,America/New_York,Richmond
-washington,Washington,America/Los_Angeles,Seattle
-west-virginia,West Virginia,America/New_York,Charleston
-wisconsin,Wisconsin,America/Chicago,Milwaukee
+slug,name,timezone,location,type
+alabama,Alabama,America/Chicago,Montgomery,region
+alaska,Alaska,America/Juneau,Juneau,region
+arizona,Arizona,America/Phoenix,Phoenix,region
+arkansas,Arkansas,America/Chicago,Little Rock,region
+aviation,Aviation,America/New_York,Kitty Hawk,genre
+bay-area,California Bay Area,America/Los_Angeles,San Francisco,metro
+california,California,America/Los_Angeles,Sacramento,region
+capitol-hill,Capitol Hill,America/New_York,The Capitol,metro
+chess,Chess,America/New_York,New York,genre
+chicago,Chicago,America/Chicago,The Loop,metro
+colorado,Colorado,America/Denver,Denver,region
+connecticut,Connecticut,America/New_York,Hartford,region
+delaware,Delaware,America/New_York,Wilmington,region
+entertainment,Entertainment,America/Los_Angeles,Hollywood,genre
+feminist,Feminist,America/New_York,New York City,genre
+florida,Florida,America/New_York,Miami,region
+gannett,Gannett,America/New_York,Washington,company
+georgia,Georgia,America/New_York,Atlanta,region
+hawaii,Hawaii,Pacific/Honolulu,Honolulu,region
+idaho,Idaho,America/Denver,Boise,region
+illinois,Illinois,America/Chicago,Springfield,region
+indiana,Indiana,America/Indiana/Indianapolis,Indianapolis,region
+iowa,Iowa,America/Chicago,Iowa City,region
+kansas,Kansas,America/Chicago,Wichita,region
+kentucky,Kentucky,America/New_York,Louisville,region
+las-vegas,Las Vegas,America/Los_Angeles,The Strip,metro
+louisiana,Louisiana,America/Chicago,Baton Rouge,region
+maine,Maine,America/New_York,Augusta,region
+maryland,Maryland,America/New_York,Baltimore,region
+massachusetts,Massachusetts,America/New_York,Boston,region
+mcclatchy,McClatchy,America/Los_Angeles ,Sacramento,company
+michigan,Michigan,America/Detroit,Lansing,region
+minnesota,Minnesota,America/Chicago,Minneapolis,region
+mississippi,Mississippi,America/New_York,Jackson,region
+missouri,Missouri,America/Chicago,The Arch,region
+montana,Montana,America/Denver,Helena,region
+nebraska,Nebraska,America/Chicago,Omaha,region
+nevada,Nevada,America/Los_Angeles,Carson City,region
+new-hampshire,New Hampshire,America/New_York,Concord,region
+new-jersey,New Jersey,America/New_York,Trenton,region
+new-mexico,New Mexico,America/Denver,Albuquerque,region
+new-york-city,New York City,America/New_York,Times Square,metro
+new-york-state,New York state,America/New_York,Albany,region
+north-carolina,North Carolina,America/New_York,Raleigh,region
+north-dakota,North Dakota,America/Chicago,Bismarck,region
+ohio,Ohio,America/New_York,Columbus,region
+oklahoma,Oklahoma,America/Chicago,Oklahoma City,region
+oregon,Oregon,America/Los_Angeles,Portland,region
+pennsylvania,Pennsylvania,America/New_York,Harrisburg,region
+philadelphia,Philadelphia,America/New_York,Independence Hall,region
+rhode-island,Rhode Island,America/New_York,Providence,region
+satire,Satire,America/Los_Angeles,Los Angeles,genre
+science,Science,Europe/London,London,genre
+socal,Southern California,America/Los_Angeles,Los Angeles,metro
+south-carolina,South Carolina,America/New_York,Columbia,region
+south-dakota,South Dakota,America/Chicago,Pierre,region
+sports,Sports,America/New_York,Madison Square Garden,genre
+student,Student,America/New_York,Campus,genre
+tech,Technology,America/Los_Angeles,Silicon Valley,genre
+tennessee,Tennessee,America/Chicago,Nashville,region
+texas,Texas,America/Chicago,Austin,region
+us-left-wing,U.S. left wing,America/New_York,Washington,genre
+us-national,U.S. national news,America/New_York,New York,genre
+us-right-wing,U.S. right wing,America/New_York,Washington,genre
+vermont,Vermont,America/New_York,Montpelier,region
+virginia,Virginia,America/New_York,Richmond,region
+washington,Washington,America/Los_Angeles,Seattle,region
+west-virginia,West Virginia,America/New_York,Charleston,region
+wisconsin,Wisconsin,America/Chicago,Milwaukee,region
