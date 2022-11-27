@@ -53,7 +53,7 @@ def write_json(data: typing.Any, path: Path, indent: int = 2):
 
 
 @retry(tries=3, delay=15, backoff=2)
-def get_url(url: str, timeout: int = 15):
+def get_url(url: str, timeout: int = 30):
     """Get the provided URL."""
     r = requests.get(url, timeout=timeout)
     assert r.ok
