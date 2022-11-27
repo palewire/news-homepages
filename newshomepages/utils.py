@@ -52,7 +52,7 @@ def write_json(data: typing.Any, path: Path, indent: int = 2):
         json.dump(data, fh, indent=2)
 
 
-@retry(tries=3, delay=5, backoff=2)
+@retry(tries=3, delay=15, backoff=2)
 def get_url(url: str, timeout: int = 15):
     """Get the provided URL."""
     r = requests.get(url, timeout=timeout)
@@ -60,7 +60,6 @@ def get_url(url: str, timeout: int = 15):
     return r
 
 
-@retry(tries=3, delay=5, backoff=2)
 def get_json_url(url: str):
     """Get JSON data from the provided URL."""
     r = get_url(url)
