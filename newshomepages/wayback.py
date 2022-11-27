@@ -68,7 +68,7 @@ def cli(handle: str, output_dir: str):
 
 
 @retry(tries=3, delay=30, backoff=2)
-def _post(url: str, timeout: int = 15):
+def _post(url: str, timeout: int = 30):
     r = requests.post(
         "https://web.archive.org/save",
         headers={

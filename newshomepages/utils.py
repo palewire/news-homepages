@@ -52,15 +52,14 @@ def write_json(data: typing.Any, path: Path, indent: int = 2):
         json.dump(data, fh, indent=2)
 
 
-@retry(tries=3, delay=5, backoff=2)
-def get_url(url: str):
+@retry(tries=3, delay=15, backoff=2)
+def get_url(url: str, timeout: int = 30):
     """Get the provided URL."""
-    r = requests.get(url)
+    r = requests.get(url, timeout=timeout)
     assert r.ok
     return r
 
 
-@retry(tries=3, delay=5, backoff=2)
 def get_json_url(url: str):
     """Get JSON data from the provided URL."""
     r = get_url(url)
@@ -571,9 +570,9 @@ def _get_common_blocking_javascript() -> str:
     """Compiles a set of commands into an executable javascript script to block common pop-ups, banners, etc."""
     # Run common JavaScript for all sites
     target_list = [
-        "#x-reveal-ad",     # Blox ad
-        ".tnt-ads-container",     # Blox ad,
-        ".promo-designer-modal",    # Blox ad
+        "#x-reveal-ad",  # Blox ad
+        ".tnt-ads-container",  # Blox ad,
+        ".promo-designer-modal",  # Blox ad
         ".tp-modal",  # Common popover ad
         ".tp-backdrop",
         ".onesignal-slidedown-container",  # Common slidedown ad
