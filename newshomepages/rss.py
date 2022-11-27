@@ -88,7 +88,6 @@ def sites():
     merged_df = site_df.drop(["url"], axis=1).merge(
         screenshot_df, on="handle", how="inner"
     )
-    assert len(merged_df) == len(screenshot_df)
 
     # Localize timestamps
     def _localize(row):
@@ -141,7 +140,6 @@ def countries():
         how="inner",
         suffixes=("_site", "_country"),
     )
-    assert len(merged_df) == len(site_df)
     screenshot_df = utils.get_screenshot_df()
     country_list = sorted(list(merged_df.alpha2.unique()))
     print(f":basket: Creating RSS feeds for {len(country_list)} countries")
