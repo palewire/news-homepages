@@ -67,8 +67,8 @@ def cli(handle: str, output_dir: str):
     utils.write_json(capture_data, Path(output_dir) / f"{slug}.wayback.json")
 
 
-@retry(tries=3, delay=10, backoff=2)
-def _post(url: str):
+@retry(tries=3, delay=30, backoff=2)
+def _post(url: str, timeout: int = 15):
     r = requests.post(
         "https://web.archive.org/save",
         headers={
@@ -81,6 +81,7 @@ def _post(url: str):
             "skip_first_archive": "1",
             "capture_all": "1",
         },
+        timeout=timeout,
     )
     return r.json()
 
