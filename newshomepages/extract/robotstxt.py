@@ -126,8 +126,8 @@ def robotstxt(
     db.enable_load_extension(False)
 
     # Only export a few columns to the SQLite database for simplicity
-    robotstxt_df.rename(columns={"url_y": "archive_url"})[
-        ["handle", "name", "archive_url", "robotstxt"]
+    robotstxt_df.rename(columns={"url_y": "url"})[
+        ["handle", "name", "url", "robotstxt"]
     ].to_sql("sites", con=db)
 
     # Create a SQLite table with the parsed robots.txt rules
@@ -137,7 +137,7 @@ def robotstxt(
       WITH rules AS (
         SELECT
           handle,
-          archive_url,
+          url,
           robotstxt_rules.user_agent,
           group_concat(printf('%s: %s', rule_type, path),  char(10)) as rules
         FROM sites
@@ -147,7 +147,7 @@ def robotstxt(
       SELECT
         sites.handle,
         name,
-        archive_url,
+        url,
         rules.*
       FROM sites
       LEFT JOIN rules ON rules.handle = sites.handle
