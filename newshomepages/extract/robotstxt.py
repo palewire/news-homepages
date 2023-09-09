@@ -1,3 +1,4 @@
+"""Download and parse archived robots.txt files."""
 from __future__ import annotations
 
 import sqlite3
@@ -36,7 +37,7 @@ def robotstxt(
     latest=False,
     output_path=None,
 ):
-    """Download and parse the provided site's robots.txt files."""
+    """Download and parse archived robots.txt files."""
     # Get all lighthouse files
     df = utils.get_robotstxt_df().sort_values(["handle", "date"])
 
@@ -72,22 +73,9 @@ def robotstxt(
         filtered_df = filtered_df[filtered_df["date"] >= cutoff_date].copy()
         print(f"Trimming to last {days} days")
 
-    # Merge sites.csv with robotstxt_df to get site name, URL, etc.
-    site_df = utils.get_site_df()
-    site_df.handle = site_df.handle.apply(utils.safe_ia_handle)
-    filtered_df.handle = filtered_df.handle.apply(utils.safe_ia_handle)
-    robotstxt_df = site_df.merge(filtered_df, on="handle", how="inner")
-    assert len(robotstxt_df) == len(filtered_df)
-
     # See how many files we don't have yet
     archived_files = set(filtered_df.url.unique())
     print(f"{len(archived_files)} qualified files")
-
-    # calculate the full URL to the site's robots.txt file
-    # url_x because that's the original site_df["url"], which was renamed in the merge
-    robotstxt_df["robotstxt_url"] = robotstxt_df["url_x"].apply(
-        lambda url: urlparse(url)._replace(path="robots.txt").geturl()
-    )
 
     def _get_url(url):
         # Prepare a cache
@@ -117,7 +105,7 @@ def robotstxt(
 
     # fetch the cached robots.txt file for the site
     # url_y because that's the robotstxt_df["url"], which was renamed in the merge
-    robotstxt_df["robotstxt"] = robotstxt_df["url_y"].apply(_get_url)
+    filtered_df["robotstxt"] = filtered_df["url"].apply(_get_url)
 
     # Using the sqlite-robotsxt SQLite extension for parsing the robots.txt file
     db = sqlite3.connect(":memory:")
@@ -126,8 +114,8 @@ def robotstxt(
     db.enable_load_extension(False)
 
     # Only export a few columns to the SQLite database for simplicity
-    robotstxt_df.rename(columns={"url_y": "url"})[
-        ["handle", "name", "url", "robotstxt"]
+    filtered_df[
+        ["identifier", "handle", "file_name", "date", "url", "robotstxt"]
     ].to_sql("sites", con=db)
 
     # Create a SQLite table with the parsed robots.txt rules
@@ -137,18 +125,20 @@ def robotstxt(
       WITH rules AS (
         SELECT
           handle,
-          url,
           robotstxt_rules.user_agent,
           group_concat(printf('%s: %s', rule_type, path),  char(10)) as rules
         FROM sites
         JOIN robotstxt_rules(sites.robotstxt)
-        GROUP BY 1, 2, 3
+        GROUP BY 1, 2
       )
       SELECT
+        sites.identifier,
         sites.handle,
-        name,
-        url,
-        rules.*
+        sites.file_name,
+        sites.date,
+        sites.url,
+        rules.user_agent,
+        rules.rules
       FROM sites
       LEFT JOIN rules ON rules.handle = sites.handle
     """
