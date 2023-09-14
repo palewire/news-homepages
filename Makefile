@@ -83,18 +83,13 @@ site: ## Build the site
 	@$(PYTHON) newshomepages.site latest-screenshots
 	@$(PYTHON) newshomepages.site accessibility-ranking
 	@$(PYTHON) newshomepages.site performance-ranking
-	@$(PYTHON) newshomepages.site robotstxt
+	@$(PYTHON) newshomepages.site openai
 	@$(PYTHON) newshomepages.site drudge
 	@$(PYTHON) newshomepages.site source-list
 	@$(PYTHON) newshomepages.site bundle-list
 	@$(PYTHON) newshomepages.site country-list
 	@$(PYTHON) newshomepages.site language-list
 	@$(PYTHON) newshomepages.site site-detail
-	@$(PYTHON) newshomepages.site site-detail-lighthouse-analysis-chart
-	@$(PYTHON) newshomepages.site site-detail-screenshot-chart
-	@$(PYTHON) newshomepages.site site-detail-hyperlink-chart
-	@$(PYTHON) newshomepages.site site-detail-accessibility-chart
-	@$(PYTHON) newshomepages.site site-detail-lighthouse-chart
 	@$(PYTHON) newshomepages.site bundle-detail
 	@$(PYTHON) newshomepages.site country-detail
 	@$(PYTHON) newshomepages.site language-detail

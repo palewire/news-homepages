@@ -520,10 +520,9 @@ def get_wayback_df() -> pd.DataFrame:
 
 
 @retry(tries=3, delay=15, backoff=2)
-def _get_extract_files_df(name) -> pd.DataFrame:
-    base_url = "https://archive.org/download/news-homepages-extracts/"
-    url = f"{base_url}{name}"
-    print(f"Fetching {url}")
+def _get_extract_files_df(name: str, use_cache: bool = True) -> pd.DataFrame:
+    """Read in the requested extracts CSV as a dataframe."""
+    # Declare the columns we expect
     usecols = [
         "identifier",
         "handle",
@@ -534,6 +533,8 @@ def _get_extract_files_df(name) -> pd.DataFrame:
         "md5",
         "sha1",
     ]
+
+    # Declare the data types we expect
     dtype = {
         "identifier": str,
         "handle": str,
@@ -543,18 +544,47 @@ def _get_extract_files_df(name) -> pd.DataFrame:
         "md5": str,
         "sha1": str,
     }
+
+    # Add extra columns for screenshot files
     if name == "screenshot-files.csv":
         usecols.append("type")
         dtype["type"] = str
-    df = pd.read_csv(
-        url,
-        parse_dates=["mtime"],
-        usecols=usecols,
-        dtype=dtype,
-    )
+
+    # Check if the file is already in our local cache
+    cache_dir = Path("~/.cache").expanduser()
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    cache_path = cache_dir / name
+    if use_cache and cache_path.exists():
+        print(f"Using cached copy of {name}")
+        df = pd.read_csv(
+            cache_path,
+            parse_dates=["mtime"],
+            usecols=usecols,
+            dtype=dtype,
+        )
+    else:
+        # If not, download it, first by setting the URL
+        url = f"https://archive.org/download/news-homepages-extracts/{name}"
+        print(f"Fetching {url}")
+        df = pd.read_csv(
+            url,
+            parse_dates=["mtime"],
+            usecols=usecols,
+            dtype=dtype,
+        )
+        df.to_csv(cache_path, index=False)
+
+    # Localize the timestamp
     df["mtime"] = df.mtime.dt.tz_localize(pytz.utc)
+
+    # Add a date column
     df["date"] = pd.to_datetime(df.mtime.dt.date)
-    return df.sort_values("mtime", ascending=True)
+
+    # Sort it by timestamp
+    df = df.sort_values("mtime", ascending=True)
+
+    # Return the dataframe
+    return df
 
 
 def get_screenshots_by_site(site: dict) -> list[dict]:
