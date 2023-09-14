@@ -115,13 +115,35 @@ def write_json(
 
 
 @retry(tries=3, delay=15, backoff=2)
-def get_url(url: str, timeout: int = 30, user_agent: str | None = None):
-    """Get the provided URL."""
+def get_url(
+    url: str, timeout: int = 30, user_agent: str | None = None, verbose: bool = False
+):
+    """Get the provided URL.
+
+    Args:
+        url (str): The URL to fetch.
+        timeout (int): The number of seconds to wait before timing out. (Default: 30)
+        user_agent (str): The user agent to use in the request. (Default: None)
+        verbose (bool): Whether or not to log the action prior to execution. (Default: False)
+
+    Returns a requests.Response object.
+    """
+    # Set up headers
     headers = {}
     if user_agent:
         headers["User-Agent"] = user_agent
+
+    # Log
+    if verbose:
+        print(f"📡 Fetching {url}")
+
+    # Get the URL
     r = requests.get(url, timeout=timeout, headers=headers)
+
+    # Raise an error if the request failed
     assert r.ok
+
+    # Return the response
     return r
 
 
@@ -479,6 +501,14 @@ def get_lighthouse_df() -> pd.DataFrame:
     Returns a DataFrame.
     """
     return _get_extract_files_df("lighthouse-files.csv")
+
+
+def get_robotstxt_df() -> pd.DataFrame:
+    """Get the full list of robots.txt files from our extracts.
+
+    Returns a DataFrame.
+    """
+    return _get_extract_files_df("robotstxt-files.csv")
 
 
 def get_wayback_df() -> pd.DataFrame:

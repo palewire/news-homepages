@@ -111,6 +111,7 @@ setup(
         "spacy",
         "spectra",
         "Mastodon.py",
+        "sqlite-robotstxt",
     ],
     classifiers=[
         "Development Status :: 5 - Production/Stable",

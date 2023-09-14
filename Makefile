@@ -83,6 +83,7 @@ site: ## Build the site
 	@$(PYTHON) newshomepages.site latest-screenshots
 	@$(PYTHON) newshomepages.site accessibility-ranking
 	@$(PYTHON) newshomepages.site performance-ranking
+	@$(PYTHON) newshomepages.site robotstxt
 	@$(PYTHON) newshomepages.site drudge
 	@$(PYTHON) newshomepages.site source-list
 	@$(PYTHON) newshomepages.site bundle-list

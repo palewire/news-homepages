@@ -40,9 +40,18 @@ div.sphinxsidebar h3 {
   font-family: 'Libre Franklin', "Helvetica", "Liberation Sans", Arial, sans-serif;
 }
 
+div.sphinxsidebarwrapper h1 {
+    line-height: 1.25;
+}
+
 div.sphinxsidebarwrapper h1.logo {
   font-size: 1.85em;
   font-weight: 800;
+}
+
+div.sphinxsidebarwrapper h1 a,
+div.sphinxsidebarwrapper h1 a:visited {
+    color: black;
 }
 
 @media (min-width: 875px) {

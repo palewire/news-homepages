@@ -15,6 +15,7 @@ latest
 accessibility
 performance
 drudge
+openai-gptbot-robotstxt
 extracts
 ```
 

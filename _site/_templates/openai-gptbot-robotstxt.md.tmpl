@@ -1,0 +1,79 @@
+```{include} _templates/nav.html
+
+```
+
+# Who blocks OpenAI?
+
+The {{ disallow_list|length }} news organizations listed below have instructed [OpenAI's GPTBot](https://platform.openai.com/docs/gptbot) to not scan their sites, according to a continual survey of {{ "{:,.0f}".format(site_count) }} online publishers conducted by the [homepages.news](https://homepages.news) archive. That amounts to {{ "{:,.1f}".format((disallow_list|length / site_count)*100) }}% of the total.
+
+The artificial intelligence company [has suggested](https://www.theverge.com/2023/8/7/23823046/openai-data-scrape-block-ai) it will not train future editions of ChatGPT using sites that opt out of GPTBot crawls via the [robots.txt](https://en.wikipedia.org/wiki/Robots.txt) convention.
+
+Our archiving system gathers each news organization's robots.txt file twice per day. This page automatically updates with the latest results.
+
+<style>
+caption {
+  text-align: left;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 4px;
+  font-size: 18px;
+}
+</style>
+
+<table class="colwidths-auto docutils align-default">
+ <caption>Sites that disallow GPTBot</caption>
+ <thead>
+  <tr>
+    <th class="head">Site</th>
+    <th class="head">Country</th>
+    <th class="head">Archive</th>
+  </tr>
+ </thead>
+ <tbody>
+  {% for obj in disallow_list %}
+  <tr>
+    <td>
+      <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html">
+        {{ obj.name }}
+      </a>
+    </td>
+    <td>
+      <a href="https://palewi.re/docs/news-homepages/countries/{{ obj.country.lower() }}.html">
+        {{ obj.flag }}
+      </a>
+    </td>
+    <td><a href="{{ obj.url }}">robots.txt</a></td>
+  </tr>
+  {% endfor %}
+ </tbody>
+</table>
+
+The following {{ allow_list|length }} sites have yet to ask GPTBot to stay away.
+
+<table class="colwidths-auto docutils align-default">
+ <caption>Sites that don't disallow GPTBot</caption>
+ <thead>
+  <tr>
+    <th class="head">Site</th>
+    <th class="head">Country</th>
+    <th class="head">Archive</th>
+  </tr>
+ </thead>
+ <tbody>
+  {% for obj in allow_list %}
+  <tr>
+    <td>
+      <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html">
+        {{ obj.name }}
+      </a>
+    </td>
+    <td>
+      <a href="https://palewi.re/docs/news-homepages/countries/{{ obj.country.lower() }}.html">
+        {{ obj.flag }}
+      </a>
+    </td>
+    <td><a href="{{ obj.url }}">robots.txt</a></td>
+  </tr>
+  {% endfor %}
+ </tbody>
+</table>
