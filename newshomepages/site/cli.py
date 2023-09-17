@@ -13,6 +13,7 @@ from .openai import cli as cli_openai
 from .performance_ranking import cli as cli_performance_ranking
 from .site_detail import cli as cli_site_detail
 from .source_list import cli as cli_source_list
+from .status_report import cli as cli_status_report
 
 cli_group = click.CommandCollection(
     sources=[
@@ -29,6 +30,7 @@ cli_group = click.CommandCollection(
         cli_performance_ranking,
         cli_site_detail,
         cli_source_list,
+        cli_status_report,
     ]
 )
 

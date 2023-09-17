@@ -1,0 +1,132 @@
+```{include} _templates/nav.html
+```
+
+# Status report
+
+Since it launched on {{ start_date }}, this site has archived {{ "{:,}".format(grand_total|int) }} assets from {{ "{:,}".format(total_sites|int) }} news homepages.
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="https://cdn.jsdelivr.net/npm/@observablehq/plot@0.6"></script>
+
+<div id="sites-by-date"></div>
+
+## Cropped screenshots
+
+{{ "{:,}".format(total_cropped_screenshots|int) }} cropped screenshots have been saved.
+
+<div id="cropped-screenshots-by-date"></div>
+
+## Full screenshots
+
+{{ "{:,}".format(total_full_screenshots|int) }} full-page screenshots have been saved.
+
+<div id="full-screenshots-by-date"></div>
+
+## Accessibility trees
+
+{{ "{:,}".format(total_accessibility|int) }} accessibility trees have been saved.
+
+<div id="accessibility-by-date"></div>
+
+## Hyperlink lists
+
+{{ "{:,}".format(total_hyperlinks|int) }} hyperlink lists have been saved.
+
+<div id="hyperlinks-by-date"></div>
+
+## Lighthouse audits
+
+{{ "{:,}".format(total_lighthouse|int) }} Lighthouse audits have been saved.
+
+<div id="lighthouse-by-date"></div>
+
+## Wayback Machine archive requests
+
+{{ "{:,}".format(total_wayback|int) }} save requests have been made with the Internet Archive's Wayback Machine.
+
+<div id="wayback-by-date"></div>
+
+## robots.txt
+
+{{ "{:,}".format(total_robotstxt|int) }} robots.txt files have been saved.
+
+<div id="robotstxt-by-date"></div>
+
+<script type="module">
+function prepData(data) {
+    return data.map(d => {
+        d['date'] = new Date(d.date);
+        return d;
+    })
+}
+function drawChart(attr, id, label) {
+    const plot = Plot.plot({
+        x: { label: null },
+        y: { label: label },
+        marks: [
+            Plot.ruleY([0]),
+            Plot.areaY(data, {
+                x: "date",
+                y: attr,
+                fill: "gray",
+                fillOpacity: 0.2
+            }),
+            Plot.lineY(data, {
+                x: "date",
+                y: attr,
+                fillOpacity: 1,
+                strokeWidth: 2,
+                stroke: "gray"
+            })
+        ]
+    })
+    const div = document.querySelector(id);
+    div.append(plot);
+}
+const data = prepData({{ by_date_json }});
+const config = {
+    sites: {
+        attr: 'sites',
+        id: "#sites-by-date",
+        label: "Sites by day"
+    },
+    cropped_screenshots: {
+        attr: 'cropped_screenshots',
+        id: "#cropped-screenshots-by-date",
+        label: "Cropped screenshots by day"
+    },
+    full_screenshots: {
+        attr: 'full_screenshots',
+        id: "#full-screenshots-by-date",
+        label: "Full screenshots by day"
+    },
+    lighthouse: {
+        attr: 'lighthouse',
+        id: "#lighthouse-by-date",
+        label: "Lighthouse audits by day"
+    },
+    accessibility: {
+        attr: 'accessibility',
+        id: "#accessibility-by-date",
+        label: "Accessibility trees by day"
+    },
+    hyperlinks: {
+        attr: 'hyperlinks',
+        id: "#hyperlinks-by-date",
+        label: "Hyperlink lists by day"
+    },
+    wayback: {
+        attr: 'wayback',
+        id: "#wayback-by-date",
+        label: "Wayback Machine archive requests by day"
+    },
+    robotstxt: {
+        attr: 'robotstxt',
+        id: "#robotstxt-by-date",
+        label: "robots.txt by day"
+    }
+};
+Object.keys(config).forEach(key => {
+    drawChart(config[key].attr, config[key].id, config[key].label);
+})
+</script>

@@ -85,6 +85,7 @@ site: ## Build the site
 	@$(PYTHON) newshomepages.site performance-ranking
 	@$(PYTHON) newshomepages.site openai
 	@$(PYTHON) newshomepages.site drudge
+	@$(PYTHON) newshomepages.site status-report
 	@$(PYTHON) newshomepages.site source-list
 	@$(PYTHON) newshomepages.site bundle-list
 	@$(PYTHON) newshomepages.site country-list
