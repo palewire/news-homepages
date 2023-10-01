@@ -12,7 +12,7 @@ jobs:
     steps:
       - id: checkout
         name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - id: setup-python
         name: Setup Python
@@ -41,7 +41,7 @@ jobs:
     steps:
       - id: checkout
         name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - id: setup-python
         name: Setup Python
@@ -87,7 +87,7 @@ jobs:
     steps:
       - id: checkout
         name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - id: setup-python
         name: Setup Python
@@ -116,7 +116,7 @@ jobs:
     needs: [lint-python, test-python, static-type-check]
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - id: setup-python
         name: Setup Python
