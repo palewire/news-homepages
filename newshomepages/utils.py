@@ -551,7 +551,7 @@ def _get_extract_files_df(name: str, use_cache: bool = True) -> pd.DataFrame:
         dtype["type"] = str
 
     # Check if the file is already in our local cache
-    cache_dir = Path("~/.cache").expanduser()
+    cache_dir = Path("~/.cache/news-homepages").expanduser()
     cache_dir.mkdir(parents=True, exist_ok=True)
     cache_path = cache_dir / name
     if use_cache and cache_path.exists():

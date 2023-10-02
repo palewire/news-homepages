@@ -125,6 +125,7 @@ def robotstxt(
       WITH rules AS (
         SELECT
           handle,
+          file_name,
           robotstxt_rules.user_agent,
           group_concat(printf('%s: %s', rule_type, path),  char(10)) as rules
         FROM sites
@@ -134,13 +135,13 @@ def robotstxt(
       SELECT
         sites.identifier,
         sites.handle,
-        sites.file_name,
         sites.date,
         sites.url,
         rules.user_agent,
         rules.rules
       FROM sites
       LEFT JOIN rules ON rules.handle = sites.handle
+      AND rules.file_name = sites.file_name
     """
     )
 

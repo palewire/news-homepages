@@ -1,5 +1,6 @@
 import click
 import iso3166
+import pandas as pd
 from rich import print
 
 from .. import utils
@@ -37,37 +38,42 @@ def openai():
     # Assert that only each handle has only one url
     assert robotstxt_df.groupby("handle").url.nunique().all() == 1
 
+    # Create a white list of the AI-related bots we want to track
+    ai_user_agents = [
+        "GPTBOT",
+        "CHATGPT-USER",
+        "CCBOT",
+        "GOOGLE-EXTENDED",
+    ]
+
+    # Filter down to rules that make that list
+    robotstxt_df.user_agent = robotstxt_df.user_agent.str.upper()
+    ai_list = robotstxt_df[robotstxt_df.user_agent.isin(ai_user_agents)].copy()
+
+    # Filter again to rules that DISALLOW: / the bots
+    ai_list.rules = ai_list.rules.str.strip().str.upper()
+    disallow_list = ai_list[ai_list.rules.str.startswith("DISALLOW: /")].copy()
+
+    # Pivot the list so that the user_agent column becomes columns
+    # and the rows are unique to each site
+    disallow_pivot = disallow_list.pivot(
+        index="handle", columns="user_agent", values="rules"
+    ).reset_index()
+    print(disallow_pivot.head())
+
     # Merge in site metadata
     site_df = utils.get_site_df()
     site_df.handle = site_df.handle.str.lower()
-    robotstxt_df.handle = robotstxt_df.handle.str.lower()
+    disallow_pivot.handle = disallow_pivot.handle.str.lower()
     merged_df = site_df[["name", "handle", "country"]].merge(
-        robotstxt_df, on="handle", how="inner"
+        disallow_pivot, on="handle", how="left"
     )
+    assert len(merged_df) == len(site_df)
+    merged_df.to_csv("./robotstxt-ai-analysis.csv", index=False)
 
     # If the `name` field starts with "The ", move it to the end after a comma
     merged_df["name"] = merged_df.name.apply(
         lambda s: s if not s.startswith("The ") else s[4:] + ", The"
-    )
-
-    # Get only the rules that pertain to GPTBot
-    disallow_list = merged_df[
-        (merged_df.user_agent.str.upper().str.strip() == "GPTBOT")
-        & (merged_df.rules.str.upper().str.contains("DISALLOW"))
-    ].copy()
-
-    # Get the sites that are not in the gptbot_rules_list list
-    allow_list = (
-        merged_df[~merged_df.handle.isin(disallow_list.handle.unique())][
-            [
-                "name",
-                "handle",
-                "country",
-                "url",
-            ]
-        ]
-        .drop_duplicates()
-        .copy()
     )
 
     def flag_emoji(name):
@@ -79,18 +85,21 @@ def openai():
         return box(alpha[0]) + box(alpha[1])
 
     # Add the flag emoji
-    allow_list["flag"] = allow_list.country.apply(flag_emoji)
-    disallow_list["flag"] = disallow_list.country.apply(flag_emoji)
+    merged_df["flag"] = merged_df.country.apply(flag_emoji)
+
+    # For each of the bots, count how many sites block it
+    counts = {}
+    for bot in ai_user_agents:
+        counts[bot] = len(merged_df[~pd.isnull(merged_df[bot])])
+    print(counts)
 
     # Render the page
     context = dict(
         site_count=len(merged_df.handle.unique()),
-        disallow_list=sorted(
-            disallow_list.to_dict(orient="records"), key=lambda s: s["name"].lower()
+        site_list=sorted(
+            merged_df.to_dict(orient="records"), key=lambda s: s["name"].lower()
         ),
-        allow_list=sorted(
-            allow_list.to_dict(orient="records"), key=lambda s: s["name"].lower()
-        ),
+        counts=counts,
     )
     print(
         f":abacus: Creating openai-gptbot-robotstxt page for {len(merged_df.handle.unique())} sites"
