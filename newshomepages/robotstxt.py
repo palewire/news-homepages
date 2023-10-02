@@ -15,13 +15,14 @@ from . import utils
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
 @click.option("--timeout", "timeout", default="5")
-def cli(handle: str, output_dir: str, timeout: str = "5"):
+@click.option("--verbose", "verbose", default=False, is_flag=True)
+def cli(handle: str, output_dir: str, timeout: str = "5", verbose: bool = False):
     """Save the raw robots.txt of the provided site."""
     # Get the site
     site = utils.get_site(handle)
 
     # Get the robots.txt
-    robotstxt = _get_robotstxt(site["url"], int(timeout))
+    robotstxt = _get_robotstxt(site["url"], int(timeout), verbose=verbose)
 
     if robotstxt is None:
         # If there is no robots.txt, we drop out now
@@ -33,6 +34,8 @@ def cli(handle: str, output_dir: str, timeout: str = "5"):
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     # Write it out
+    if verbose:
+        print(f":robot: Writing {output_path}")
     with output_path.open("w") as f:
         f.write(robotstxt)
 
@@ -41,10 +44,19 @@ def cli(handle: str, output_dir: str, timeout: str = "5"):
 def _get_robotstxt(
     site_url: str,
     timeout: int = 5,
+    verbose: bool = False,
 ) -> str | None:
     """Get the raw robots.txt for a site."""
     # Create the robots.txt URL
-    robotstxt_url = urlparse(site_url)._replace(path="robots.txt").geturl()
+    robotstxt_url = (
+        urlparse(site_url)
+        ._replace(path="")
+        ._replace(query="")
+        ._replace(path="robots.txt")
+        .geturl()
+    )
+    if verbose:
+        print(f":robot: Fetching {robotstxt_url}")
 
     # Set the headers
     headers = {"User-Agent": utils.get_user_agent()}
