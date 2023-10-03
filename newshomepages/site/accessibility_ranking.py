@@ -26,12 +26,6 @@ def accessibility_ranking():
     # Get the data
     accessibility_df = utils.get_extract_df(
         "lighthouse-analysis.csv",
-        usecols=[
-            "handle",
-            "accessibility_median",
-            "accessibility_color",
-            "accessibility_rank",
-        ],
         dtype={
             "handle": str,
             "accessibility_median": float,

@@ -21,12 +21,6 @@ def performance_ranking():
     # Read in our dataset
     performance_df = utils.get_extract_df(
         "lighthouse-analysis.csv",
-        usecols=[
-            "handle",
-            "performance_median",
-            "performance_color",
-            "performance_rank",
-        ],
         dtype={
             "handle": str,
             "performance_median": float,
