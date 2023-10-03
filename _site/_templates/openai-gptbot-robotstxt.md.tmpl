@@ -1,55 +1,42 @@
 ```{include} _templates/nav.html
-
 ```
 
 # Who blocks OpenAI, Google AI and Common Crawl?
 
-In total, {{ "{:,.0f}".format(disallow_count) }} of the {{ "{:,.0f}".format(site_count) }} news publishers surveyed by the [homepages.news](https://homepages.news) archive have instructed [OpenAI](https://en.wikipedia.org/wiki/OpenAI), [Google AI](https://en.wikipedia.org/wiki/Google_AI) or the non-profit [Common Crawl](https://en.wikipedia.org/wiki/Common_Crawl) to stop scanning their sites, representing {{ "{:,.1f}".format(disallow_percent) }}% of the sample.
+In total, {{ "{:,.0f}".format(disallow_count) }} of {{ "{:,.0f}".format(site_count) }} news publishers surveyed by the [homepages.news](https://homepages.news) archive have instructed [OpenAI](https://en.wikipedia.org/wiki/OpenAI), [Google AI](https://en.wikipedia.org/wiki/Google_AI) or the non-profit [Common Crawl](https://en.wikipedia.org/wiki/Common_Crawl) to stop scanning their sites, which is {{ "{:,.1f}".format(disallow_percent) }}% of the sample.
 
-The three organizations systematically crawl the web to gather the data that fuels [generative chatbots](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) like [OpenAI's ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) and [Google's Bard](https://en.wikipedia.org/wiki/Bard_(chatbot)). By opting out via the [robots.txt](https://en.wikipedia.org/wiki/Robots.txt) convention, publishers can request that their content be excluded.
+The three organizations systematically crawl the web to gather the data that, among other things, fuels [generative chatbots](https://en.wikipedia.org/wiki/Generative_artificial_intelligence) like [OpenAI's ChatGPT](https://en.wikipedia.org/wiki/ChatGPT) and [Google's Bard](https://en.wikipedia.org/wiki/Bard_(chatbot)). Publishers can request that their content be excluded by opting out via the [robots.txt](https://en.wikipedia.org/wiki/Robots.txt) convention.
 
-The open-source system operated by [homepages.news](https://homepages.news/) gathers each news site's robots.txt file twice per day. This page continually updates with the latest results.
+The open-source system run by [homepages.news](https://homepages.news/) gathers each news site's robots.txt file twice per day. This page continually updates with the latest results.
 
-Here are the current totals for each crawler:
+Here are the current totals for each crawler.
 
 <style>
-.table-container {
-    overflow-x: auto;
-}
-caption {
-  text-align: left;
-  text-transform: uppercase;
-  font-weight: 700;
-  margin-bottom: 4px;
-  font-size: 18px;
-}
 table.docutils {
   font-size: 16px;
   width: 100%;
   position: relative;
 }
-td.name {
+table.docutils td.name {
   max-width: 200px;
 }
-table.docutils td.value,
-table.docutils th.value {
+table.docutils .center {
   text-align: center;
 }
-table.docutils td.right,
-table.docutils th.right {
+table.docutils .right {
   text-align: right;
 }
-thead th {
+table.docutils thead th {
     position: sticky;
     top: 0;
 }
 </style>
 
 <div class="table-container">
-<table class="colwidths-auto docutils align-default">
+<table id="operator-totals" class="colwidths-auto docutils align-default">
   <tr>
     <th class="name head">Operator</th>
-    <th class="head right">Opted out</th>
+    <th class="head right">Opt outs</th>
     <th class="head right">Percent</th>
   </tr>
   <tr>
@@ -72,15 +59,15 @@ thead th {
 
 Here are the most recent results for each site. Opt outs are marked with the [🙅](https://emojipedia.org/person-gesturing-no) emoji.
 
-<div class="table-container">
-<table class="colwidths-auto docutils align-default">
+<div class="table-container sticky-table-container">
+<table id="site-list" class="colwidths-auto docutils align-default">
  <thead>
-  <tr>
+  <tr class="header">
     <th class="head">Site</th>
-    <th class="head value">Country</th>
-    <th class="head value">OpenAI</th>
-    <th class="head value">Google AI</th>
-    <th class="head value">Common Crawl</th>
+    <th class="head center">Country</th>
+    <th class="head center">OpenAI</th>
+    <th class="head center">Google AI</th>
+    <th class="head center">Common Crawl</th>
   </tr>
  </thead>
  <tbody>
@@ -91,14 +78,10 @@ Here are the most recent results for each site. Opt outs are marked with the [�
         {{ obj.name }}
       </a>
     </td>
-    <td class="value flag">
-      <a href="https://palewi.re/docs/news-homepages/countries/{{ obj.country.lower() }}.html">
-        {{ obj.flag }}
-      </a>
-    </td>
-    <td class="value">{% if obj['GPTBOT']|length > 0 %}🙅{% endif %}</td>
-    <td class="value">{% if obj['GOOGLE-EXTENDED']|length > 0 %}🙅{% endif %}</td>
-    <td class="value">{% if obj['CCBOT']|length > 0 %}🙅{% endif %}</td>
+    <td class="center flag">{{ obj.flag }}</td>
+    <td class="center">{% if obj['GPTBOT']|length > 0 %}🙅{% endif %}</td>
+    <td class="center">{% if obj['GOOGLE-EXTENDED']|length > 0 %}🙅{% endif %}</td>
+    <td class="center">{% if obj['CCBOT']|length > 0 %}🙅{% endif %}</td>
   </tr>
   {% endfor %}
  </tbody>

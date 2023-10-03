@@ -208,12 +208,28 @@ def parse_archive_url(url: str) -> dict:
 
 
 @retry(tries=3, delay=15, backoff=2)
-def get_extract_df(name: str, **kwargs) -> pd.DataFrame:
+def get_extract_df(name: str, use_cache: bool = True, **kwargs) -> pd.DataFrame:
     """Read in the requests extracts CSV as a dataframe."""
-    base_url = "https://archive.org/download/news-homepages-extracts/"
-    url = f"{base_url}{name}"
-    print(f"Fetching {url}")
-    return pd.read_csv(url, **kwargs)
+    # Set the cache path
+    cache_dir = Path("~/.cache/news-homepages").expanduser()
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    cache_path = cache_dir / name
+
+    # If we're allowed to use the cache and the cached file exists...
+    if use_cache and cache_path.exists():
+        # ... load that ...
+        print(f"Using cached copy of {name}")
+        df = pd.read_csv(cache_path, **kwargs)
+    # Otherwise download it.
+    else:
+        base_url = "https://archive.org/download/news-homepages-extracts/"
+        url = f"{base_url}{name}"
+        print(f"Fetching {url}")
+        df = pd.read_csv(url, **kwargs)
+        df.to_csv(cache_path, index=False)
+
+    # Return the dataframe
+    return df
 
 
 def get_user_agent() -> str:
