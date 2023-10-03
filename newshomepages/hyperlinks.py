@@ -1,4 +1,6 @@
-import typing
+"""Save all of a site's hyperlinks as JSON."""
+from __future__ import annotations
+
 from pathlib import Path
 
 import click
@@ -15,8 +17,9 @@ from . import utils
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
 @click.option("--timeout", "timeout", default="180")
-def cli(handle: str, output_dir: str, timeout: str = "180"):
-    """Save all hyperlinks as JSON for a site or bundle."""
+@click.option("--verbose", "verbose", default=False, is_flag=True)
+def cli(handle, output_dir="./", timeout="180", verbose=False):
+    """Save all of a site's hyperlinks as JSON."""
     # Get the site
     site = utils.get_site(handle)
 
@@ -27,7 +30,11 @@ def cli(handle: str, output_dir: str, timeout: str = "180"):
         context = browser.new_context(user_agent=utils.get_user_agent())
 
         # Get lnks
+        if verbose:
+            print(f"🔗 Getting hyperlinks from {site['url']}")
         link_list = _get_links(context, site, timeout=int(timeout))
+        if verbose:
+            print(f"{len(link_list)} links found")
 
         # Close the browser
         context.close()
@@ -38,8 +45,7 @@ def cli(handle: str, output_dir: str, timeout: str = "180"):
 
 
 @retry(tries=3, delay=5, backoff=2)
-def _get_links(context: BrowserContext, data: typing.Dict, timeout: int = 180):
-    print(f"🔗 Getting hyperlinks from {data['url']}")
+def _get_links(context: BrowserContext, data: dict, timeout: int = 180):
     # Open a page
     page = context.new_page()
 
