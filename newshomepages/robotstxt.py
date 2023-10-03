@@ -27,7 +27,7 @@ def cli(handle: str, output_dir: str, timeout: str = "5", verbose: bool = False)
     if robotstxt is None:
         # If there is no robots.txt, we drop out now
         print(f":robot: No robots.txt for {handle}")
-        return
+        robotstxt = "404: No file found"
 
     # Set the output path
     output_path = Path(output_dir) / f"{utils.safe_ia_handle(handle)}.robots.txt"
@@ -72,7 +72,13 @@ def _get_robotstxt(
     else:
         # Otherwise, we return the text,
         # after checking that the request was successful
-        assert r.ok
+        try:
+            assert r.ok
+        except AssertionError:
+            msg = f"Request failed with status code {r.status_code}"
+            if verbose:
+                print(msg)
+            raise AssertionError(msg)
         return r.text
 
 
