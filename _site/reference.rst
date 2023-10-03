@@ -78,10 +78,6 @@ Commands
    :prog: toot
    :nested: full
 
-.. click:: newshomepages.tweet:cli
-   :prog: tweet
-   :nested: full
-
 .. click:: newshomepages.wayback:cli
    :prog: wayback
    :nested: full

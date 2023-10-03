@@ -81,7 +81,6 @@ setup(
         ],
     },
     install_requires=[
-        "python-twitter",
         "click",
         "pytz",
         "internetarchive",
@@ -96,9 +95,6 @@ setup(
         "shot-scraper",
         "pillow",
         "pandas",
-        "altair",
-        "jupyterlab",
-        "altair-saver",
         "selenium<4.3.0",
         "rich",
         "iso3166",

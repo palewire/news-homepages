@@ -101,10 +101,6 @@ def cli(artifact_path: str):
                         "type": "mrkdwn",
                         "text": "🤖 Automated by <https://palewi.re/who-is-ben-welsh/|Ben Welsh's> <https://homepages.news|homepages.news>",
                     },
-                    {
-                        "type": "mrkdwn",
-                        "text": ":bird: Follow <https://twitter.com/newshomepages|@newshomepages>",
-                    },
                 ],
             },
         ],

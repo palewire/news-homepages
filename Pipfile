@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-python-twitter = "*"
 click = "*"
 pytz = "*"
 internetarchive = "*"
@@ -20,9 +19,6 @@ shot-scraper = "*"
 pillow = "*"
 aiohttp = ">=3.7.4"
 pandas = "*"
-altair = "*"
-jupyterlab = "*"
-altair-saver = "*"
 selenium = "<4.3.0"
 rich = "*"
 iso3166 = "*"
