@@ -44,7 +44,7 @@ def openai():
     # Create a white list of the AI-related bots we want to track
     ai_user_agents = [
         "GPTBOT",
-        "CHATGPT-USER",
+        # "CHATGPT-USER",
         "CCBOT",
         "GOOGLE-EXTENDED",
     ]
