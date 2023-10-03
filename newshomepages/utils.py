@@ -526,12 +526,12 @@ def get_lighthouse_df() -> pd.DataFrame:
     return _get_extract_files_df("lighthouse-files.csv")
 
 
-def get_robotstxt_df() -> pd.DataFrame:
+def get_robotstxt_df(use_cache: bool = True) -> pd.DataFrame:
     """Get the full list of robots.txt files from our extracts.
 
     Returns a DataFrame.
     """
-    return _get_extract_files_df("robotstxt-files.csv")
+    return _get_extract_files_df("robotstxt-files.csv", use_cache=use_cache)
 
 
 def get_wayback_df() -> pd.DataFrame:
@@ -607,6 +607,7 @@ def _get_extract_files_df(name: str, use_cache: bool = True) -> pd.DataFrame:
     df = df.sort_values("mtime", ascending=True)
 
     # Return the dataframe
+    print(f"Returning {len(df)} rows")
     return df
 
 

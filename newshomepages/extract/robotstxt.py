@@ -28,6 +28,7 @@ def cli():
 @click.option("--days", "days", default=None)
 @click.option("--latest", "latest", default=False, is_flag=True)
 @click.option("-o", "--output-path", "output_path", default=None)
+@click.option("--no-cache", "no_cache", default=False, is_flag=True)
 def robotstxt(
     site=None,
     country=None,
@@ -36,10 +37,14 @@ def robotstxt(
     days=None,
     latest=False,
     output_path=None,
+    no_cache=False,
 ):
     """Download and parse archived robots.txt files."""
+    # Set our cache setting
+    use_cache = no_cache is False
+
     # Get all lighthouse files
-    df = utils.get_robotstxt_df().sort_values(["handle", "date"])
+    df = utils.get_robotstxt_df(use_cache=use_cache).sort_values(["handle", "date"])
 
     # Get the data we want
     if site:
@@ -84,7 +89,7 @@ def robotstxt(
 
         # Check if the file has been downloaded
         output_path = cache_dir / urlparse(url).path.split("/")[-1]
-        if output_path.exists():
+        if use_cache and output_path.exists():
             print(f":book: Reading in cached file {output_path}")
             with open(output_path) as f:
                 data = f.read()
