@@ -526,12 +526,14 @@ def get_lighthouse_df() -> pd.DataFrame:
     return _get_extract_files_df("lighthouse-files.csv")
 
 
-def get_robotstxt_df(use_cache: bool = True) -> pd.DataFrame:
+def get_robotstxt_df(use_cache: bool = True, verbose: bool = False) -> pd.DataFrame:
     """Get the full list of robots.txt files from our extracts.
 
     Returns a DataFrame.
     """
-    return _get_extract_files_df("robotstxt-files.csv", use_cache=use_cache)
+    return _get_extract_files_df(
+        "robotstxt-files.csv", use_cache=use_cache, verbose=verbose
+    )
 
 
 def get_wayback_df() -> pd.DataFrame:
@@ -543,7 +545,9 @@ def get_wayback_df() -> pd.DataFrame:
 
 
 @retry(tries=3, delay=15, backoff=2)
-def _get_extract_files_df(name: str, use_cache: bool = True) -> pd.DataFrame:
+def _get_extract_files_df(
+    name: str, use_cache: bool = True, verbose: bool = False
+) -> pd.DataFrame:
     """Read in the requested extracts CSV as a dataframe."""
     # Declare the columns we expect
     usecols = [
@@ -578,7 +582,8 @@ def _get_extract_files_df(name: str, use_cache: bool = True) -> pd.DataFrame:
     cache_dir.mkdir(parents=True, exist_ok=True)
     cache_path = cache_dir / name
     if use_cache and cache_path.exists():
-        print(f"Using cached copy of {name}")
+        if verbose:
+            print(f"Using cached copy of {name}")
         df = pd.read_csv(
             cache_path,
             parse_dates=["mtime"],
@@ -588,7 +593,8 @@ def _get_extract_files_df(name: str, use_cache: bool = True) -> pd.DataFrame:
     else:
         # If not, download it, first by setting the URL
         url = f"https://archive.org/download/news-homepages-extracts/{name}"
-        print(f"Fetching {url}")
+        if verbose:
+            print(f"Fetching {url}")
         df = pd.read_csv(
             url,
             parse_dates=["mtime"],
@@ -607,7 +613,8 @@ def _get_extract_files_df(name: str, use_cache: bool = True) -> pd.DataFrame:
     df = df.sort_values("mtime", ascending=True)
 
     # Return the dataframe
-    print(f"Returning {len(df)} rows")
+    if verbose:
+        print(f"Returning {len(df)} rows")
     return df
 
 

@@ -29,6 +29,7 @@ def cli():
 @click.option("--latest", "latest", default=False, is_flag=True)
 @click.option("-o", "--output-path", "output_path", default=None)
 @click.option("--no-cache", "no_cache", default=False, is_flag=True)
+@click.option("--verbose", "verbose", default=False, is_flag=True)
 def robotstxt(
     site=None,
     country=None,
@@ -38,13 +39,16 @@ def robotstxt(
     latest=False,
     output_path=None,
     no_cache=False,
+    verbose=False,
 ):
     """Download and parse archived robots.txt files."""
     # Set our cache setting
     use_cache = no_cache is False
 
     # Get all lighthouse files
-    df = utils.get_robotstxt_df(use_cache=use_cache).sort_values(["handle", "date"])
+    df = utils.get_robotstxt_df(use_cache=use_cache, verbose=verbose).sort_values(
+        ["handle", "date"]
+    )
 
     # Get the data we want
     if site:
@@ -76,11 +80,13 @@ def robotstxt(
     if days:
         cutoff_date = filtered_df["date"].max() - pd.Timedelta(days=int(days))
         filtered_df = filtered_df[filtered_df["date"] >= cutoff_date].copy()
-        print(f"Trimming to last {days} days")
+        if verbose:
+            print(f"Trimming to last {days} days")
 
     # See how many files we don't have yet
     archived_files = set(filtered_df.url.unique())
-    print(f"{len(archived_files)} qualified files")
+    if verbose:
+        print(f"{len(archived_files)} qualified files")
 
     def _get_url(url):
         # Prepare a cache
@@ -90,7 +96,8 @@ def robotstxt(
         # Check if the file has been downloaded
         output_path = cache_dir / urlparse(url).path.split("/")[-1]
         if use_cache and output_path.exists():
-            print(f":book: Reading in cached file {output_path}")
+            if verbose:
+                print(f":book: Reading in cached file {output_path}")
             with open(output_path) as f:
                 data = f.read()
         else:
@@ -100,7 +107,8 @@ def robotstxt(
             # Write to cache
             with open(output_path, "w") as f:
                 f.write(data)
-            print(f":pencil: Writing to cached file {output_path}")
+            if verbose:
+                print(f":pencil: Writing to cached file {output_path}")
 
             # Wait a bit
             time.sleep(0.25)
@@ -159,5 +167,6 @@ def robotstxt(
     else:
         output_path = Path(output_path)
         output_path.parent.mkdir(parents=True, exist_ok=True)
-    print(f":pencil: Writing {len(rules_df)} rows to {output_path}")
+    if verbose:
+        print(f":pencil: Writing {len(rules_df)} rows to {output_path}")
     rules_df.to_csv(output_path, index=False)
