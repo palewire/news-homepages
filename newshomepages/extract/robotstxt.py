@@ -79,7 +79,7 @@ def robotstxt(
 
     def _get_url(url):
         # Prepare a cache
-        cache_dir = Path("~/.cache").expanduser()
+        cache_dir = Path("~/.cache/news-homepages").expanduser()
         cache_dir.mkdir(parents=True, exist_ok=True)
 
         # Check if the file has been downloaded
