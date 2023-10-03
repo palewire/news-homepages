@@ -143,7 +143,7 @@ def robotstxt(
           group_concat(printf('%s: %s', rule_type, path),  char(10)) as rules
         FROM sites
         JOIN robotstxt_rules(sites.robotstxt)
-        GROUP BY 1, 2
+        GROUP BY 1, 2, 3
       )
       SELECT
         sites.identifier,
