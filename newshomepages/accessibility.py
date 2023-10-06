@@ -6,6 +6,7 @@ from pathlib import Path
 
 import click
 from playwright.sync_api import sync_playwright
+from playwright.sync_api._generated import BrowserContext
 from retry import retry
 from rich import print
 
@@ -28,22 +29,25 @@ def cli(handle, output_dir, verbose=False):
     # Do the thing
     if verbose:
         print(f":newspaper: Fetching a11y tree from {site['url']}")
-    _get_accessibility(site, output_path)
+    with sync_playwright() as p:
+        context = utils._load_persistent_context(p)
+        _get_accessibility(context, site["url"], site["handle"], output_path)
+        context.close()
 
 
 @retry(tries=3, delay=5, backoff=2)
-def _get_accessibility(site: dict, output_path: Path):
+def _get_accessibility(
+    context: BrowserContext, url: str, handle: str, output_path: Path
+):
     """Run a command that fetches the accessibility tree for the provided site."""
     with open(output_path, "w") as fp:
-        with sync_playwright() as p:
-            context = utils._load_persistent_context(p)
-            page = utils._load_new_page_disable_javascript(
-                context=context,
-                url=site["url"],
-                handle=site["handle"],
-            )
-            snapshot = page.accessibility.snapshot()
-            page.close()
+        page = utils._load_new_page_disable_javascript(
+            context=context,
+            url=url,
+            handle=handle,
+        )
+        snapshot = page.accessibility.snapshot()
+        page.close()
         fp.write(json.dumps(snapshot, indent=4))
         fp.write("\n")
 
