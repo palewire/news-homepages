@@ -118,7 +118,7 @@ def write_json(
 @retry(tries=3, delay=15, backoff=2)
 def get_url(
     url: str, timeout: int = 30, user_agent: str | None = None, verbose: bool = False
-):
+) -> requests.Response:
     """Get the provided URL.
 
     Args:
@@ -148,9 +148,24 @@ def get_url(
     return r
 
 
-def get_json_url(url: str):
-    """Get JSON data from the provided URL."""
-    r = get_url(url)
+def get_json_url(
+    url: str, timeout: int = 30, user_agent: str | None = None, verbose: bool = False
+) -> typing.Any:
+    """Get JSON data from the provided URL.
+
+    Args:
+        url (str): The URL to request
+        timeout (int): How long to wait before timing out
+        user_agent (str): The user agent to provide in the request headers. None by default.
+        verbose (bool): Whether or not to print a verbose output
+
+    Returns:
+        The JSON response as a Python object.
+    """
+    # Get the resposne
+    r = get_url(url, timeout=timeout, user_agent=user_agent, verbose=verbose)
+
+    # Return JSON
     return r.json()
 
 

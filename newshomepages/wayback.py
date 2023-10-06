@@ -16,7 +16,8 @@ IA_SECRET_KEY = os.getenv("IA_SECRET_KEY")
 @click.command()
 @click.argument("handle")
 @click.option("-o", "--output-dir", "output_dir", default="./")
-def cli(handle: str, output_dir: str):
+@click.option("--verbose", "verbose", default=False, is_flag=True)
+def cli(handle: str, output_dir: str, verbose: bool = False):
     """Archive a URL in the Wayback Machine."""
     # Pull the source’s metadata
     site = utils.get_site(handle)
@@ -25,7 +26,8 @@ def cli(handle: str, output_dir: str):
     assert IA_SECRET_KEY
 
     # Ask for a capture
-    print(f"🏛 Requesting a Wayback Machine capture of {site['url']}")
+    if verbose:
+        print(f"🏛 Requesting a Wayback Machine capture of {site['url']}")
     capture_data = _post(site["url"])
 
     # If we've got a message, we need to just give up now. They're not going to do it.
@@ -36,7 +38,8 @@ def cli(handle: str, output_dir: str):
         tries = 1
         while True:
             # Give it a second (as recommended by the archive.org admins)
-            print("Waiting 6 seconds to request our job's status")
+            if verbose:
+                print("Waiting 6 seconds to request our job's status")
             time.sleep(6)
 
             # Check in our capture
@@ -45,26 +48,31 @@ def cli(handle: str, output_dir: str):
 
             # If it's a success, we're done
             if status_data["status"] == "success":
-                print("Success!")
+                if verbose:
+                    print("Success!")
                 capture_data.update(status_data)
                 break
             elif status_data["status"] == "pending":
                 # If it's not done, up our counter and restart the loop
-                print("The capture is still pending.")
+                if verbose:
+                    print("The capture is still pending.")
                 tries += 1
                 # Unless we're over out limit, then we quit
                 if tries >= 11:
-                    print("10 tries have failed. We’re done here.")
+                    if verbose:
+                        print("10 tries have failed. We’re done here.")
                     break
             elif status_data["status"] == "error":
                 # If there's an error, end it now
-                print("There's an error. Time to call it quits.")
+                if verbose:
+                    print("There's an error. Time to call it quits.")
                 capture_data.update(status_data)
                 break
 
     # Write it out
     slug = site["handle"].lower()
-    utils.write_json(capture_data, Path(output_dir) / f"{slug}.wayback.json")
+    output_path = Path(output_dir) / f"{slug}.wayback.json"
+    utils.write_json(capture_data, output_path, verbose=verbose)
 
 
 @retry(tries=3, delay=30, backoff=2)
