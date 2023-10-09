@@ -1,11 +1,13 @@
 import sqlite3
 
+import pytest
 import sqlite_robotstxt
 from click.testing import CliRunner
 
 from newshomepages import robotstxt
 
 
+@pytest.mark.vcr()
 def test_robotstxt_cli(tmp_path):
     """Test a single robots.txt request."""
     runner = CliRunner()

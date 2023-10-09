@@ -1,0 +1,60 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept:
+      - '*/*'
+      Accept-Encoding:
+      - gzip, deflate
+      Connection:
+      - keep-alive
+      User-Agent:
+      - Mozilla/5.0 (Macintosh; Intel Mac OS X 12_4) AppleWebKit/537.36 (KHTML, like
+        Gecko) Chrome/103.0.0.0 Safari/537.36
+    method: GET
+    uri: https://www.latimes.com/robots.txt
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA+2UsW4bMQyGdwN+B88HyLd7KVIEyNQiQJMH0Em0RPROJETaF+fpI9cZrLPcrB06
+        3v/9IiVR/70KZGMDJN1tuvXqEcWOI827TS9gs4uVlMEhg7SQizYFGDLNpWBFNGL2bLOeCjmig4p2
+        X3BHaY+hX6y5qJXo390+LGwtTUHUKEw8Wq1bnUndSInR9d23uhEAj5h+o+8b9yWHEEqdRdP7TI4B
+        p3L/nMlVIOIR6gYB1ITyAfm0zzZMZWb1xIKYIqxXr1czfSIKIwyk5ifMUm/LHIIz3TbqNFbADnRY
+        3IQbuOXs7oGB+27RzHpRyqdGEUliLNcaR1L6PG1dOdvk+TCMKBHTzcv4K5ZIzI1FbZ0tesMkKkv/
+        PdLIRfc/LP9mWIQpCWXwN4/hCtRZeplRFXIJ03r18Olfen6AR3seUIIs5pK++26P4uhPvast3ET4
+        +eV7w/ILy2As7zZRlWXX9/M8b8uccALZOpp6uRi2b+e8felO5fdgrpZ8ABfrXJEZBgAA
+    headers:
+      Alt-Svc:
+      - h3=":443"; ma=86400
+      Cache-Control:
+      - max-age=180
+      Connection:
+      - keep-alive
+      Content-Encoding:
+      - gzip
+      Content-Length:
+      - '393'
+      Content-Security-Policy:
+      - upgrade-insecure-requests
+      Content-Type:
+      - text/plain
+      Date:
+      - Mon, 09 Oct 2023 14:50:23 GMT
+      Server:
+      - N/A
+      Strict-Transport-Security:
+      - max-age=63072000
+      Vary:
+      - Accept-Encoding
+      Via:
+      - 1.1 82aead0d8a841048b40ef44eb4a53bd0.cloudfront.net (CloudFront)
+      X-Amz-Cf-Id:
+      - vVWLiKb-V9jYpvDeoCIUO9svQKwS5eR-xwMG24j-vIEzw7-dDLWKWQ==
+      X-Amz-Cf-Pop:
+      - JNB50-C1
+      X-Cache:
+      - Miss from cloudfront
+    status:
+      code: 200
+      message: OK
+version: 1
