@@ -57,7 +57,7 @@ jobs:
 
       - id: install-python-dependencies
         name: Install Python dependencies
-        run: pipenv install --dev --python=`which python`
+        run: pipenv sync --dev
         shell: bash
 
       - id: cache-playwright
