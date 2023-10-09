@@ -1,6 +1,8 @@
 import os
 from pathlib import Path
 
+import pytest
+
 from newshomepages import archive, utils
 
 
@@ -14,6 +16,7 @@ def test_archive_clean_handle():
     assert _get_handle("CNN") == "cnn"
 
 
+@pytest.mark.vcr()
 def test_archive_metadata():
     """Test the method that creates a metadata dict for uploading to archive.org."""
     data = utils.get_site("latimes")
