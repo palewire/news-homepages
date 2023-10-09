@@ -74,7 +74,7 @@ jobs:
 
       - id: test
         name: Run tests
-        run: pipenv run xvfb-run pytest tests -sv --cov
+        run: pipenv run xvfb-run pytest tests -sv --cov -n auto --vcr-record=none
         shell: bash
         env:
             IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
