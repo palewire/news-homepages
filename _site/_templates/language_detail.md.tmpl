@@ -12,12 +12,12 @@ The most recent homepages from {{ site_list|length }} news sites in this languag
 <div class="latest-parent">
 {% for obj in site_list %}
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html">
-  <img src="https://palewi.re/news-homepages/latest-screenshots/{{ obj.handle|lower }}.jpg"
+ <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle }}.html">
+  <img src="https://palewi.re/news-homepages/latest-screenshots/{{ obj.handle }}.jpg"
      alt="{{ obj.name }}"
      loading="lazy">
  </a>
- <p><a href="../sites/{{ obj.handle.lower() }}.html">{{ obj.name }}</a></p>
+ <p><a href="../sites/{{ obj.handle }}.html">{{ obj.name }}</a></p>
 </div>
 {% endfor %}
 </div>
@@ -33,5 +33,5 @@ The most recent homepages from {{ site_list|length }} news sites in this languag
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 {% for obj in site_list -%}
-|[{{ obj.name }}](https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle|lower }}.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/{{ obj.handle.lower() }}.xml)|
+|[{{ obj.name }}](https://palewi.re/docs/news-homepages/sites/{{ obj.handle }}.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle }}.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/{{ obj.handle }}.xml)|
 {% endfor %}

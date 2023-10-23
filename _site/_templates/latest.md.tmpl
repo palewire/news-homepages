@@ -8,12 +8,12 @@ The most recent homepages captured from {{ site_list|length }} news sites.
 <div class="latest-parent">
 {% for obj in site_list %}
 <div class="latest-child">
- <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html">
-  <img src="https://archive.org/download/latest-homepages/{{ obj.handle|lower }}.jpg"
+ <a href="https://palewi.re/docs/news-homepages/sites/{{ obj.handle }}.html">
+  <img src="https://archive.org/download/latest-homepages/{{ obj.handle }}.jpg"
      alt="{{ obj.name }}"
      loading="lazy">
  </a>
- <p><a href="./sites/{{ obj.handle.lower() }}.html">{{ obj.name }}</a></p>
+ <p><a href="./sites/{{ obj.handle }}.html">{{ obj.name }}</a></p>
 </div>
 {% endfor %}
 </div>

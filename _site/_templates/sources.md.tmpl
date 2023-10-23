@@ -10,5 +10,5 @@ A full RSS feed is at [all.xml](https://palewi.re/docs/news-homepages/rss/sites/
 | Site  | Latest screenshot | RSS |
 | :---- | :---------------: | :-- |
 {% for obj in site_list -%}
-|[{{ obj.name }}](https://palewi.re/docs/news-homepages/sites/{{ obj.handle.lower() }}.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle|lower }}.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/{{ obj.handle.lower() }}.xml)|
+|[{{ obj.name }}](https://palewi.re/docs/news-homepages/sites/{{ obj.handle }}.html)|[🔗](https://raw.githubusercontent.com/palewire/news-homepages/main/latest-screenshots/{{ obj.handle }}.jpg)|[🔗](https://palewi.re/docs/news-homepages/rss/sites/{{ obj.handle }}.xml)|
 {% endfor %}

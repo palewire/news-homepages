@@ -42,7 +42,7 @@ def sites_by_country(country: str):
 
 def _dump(site_list: typing.List):
     """Print out the provided site list as JSON."""
-    handle_list = [s["handle"].lower() for s in site_list]
+    handle_list = [s["handle"] for s in site_list]
     data = json.dumps(handle_list, indent=2)
     click.echo(data)
 

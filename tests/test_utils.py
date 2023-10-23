@@ -53,7 +53,7 @@ def test_get_site_list():
     assert utils.get_site("latimes")["name"] == "Los Angeles Times"
 
     # Verify there are no duplicate handles
-    unique_handles = {i["handle"].lower() for i in site_list}
+    unique_handles = {i["handle"] for i in site_list}
     assert len(site_list) == len(unique_handles)
 
 

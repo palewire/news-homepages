@@ -60,8 +60,6 @@ def performance_ranking():
     performance_df.performance_median = performance_df.performance_median * 100
     performance_df.performance_median = performance_df.performance_median.astype(int)
     site_df = utils.get_site_df()
-    site_df.handle = site_df.handle.str.lower()
-    performance_df.handle = performance_df.handle.str.lower()
     merged_df = site_df.merge(performance_df, on="handle", how="inner")
 
     # Create the page

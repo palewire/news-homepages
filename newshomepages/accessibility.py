@@ -23,7 +23,7 @@ def cli(handle, output_dir, verbose=False):
     site = utils.get_site(handle)
 
     # Set the output path
-    output_path = Path(output_dir) / f"{site['handle'].lower()}.accessibility.json"
+    output_path = Path(output_dir) / f"{site['handle']}.accessibility.json"
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     # Do the thing

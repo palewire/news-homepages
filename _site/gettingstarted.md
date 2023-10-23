@@ -28,7 +28,7 @@ Install Chrome for our web scraper.
 pipenv run playwright install --with-deps chromium
 ```
 
-You're ready to work. Try a screenshot with the `screenshot.py` command. As with other commands, it expects you pass in the Twitter handle of the target site. The supported sites are listed in [`newshomepages/sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv). We use them as a unique identifier across the project.
+You're ready to work. Try a screenshot with the `screenshot.py` command. As with other commands, it expects you pass in the unique handle of the target site. The supported sites are listed in [`newshomepages/sources/sites.csv`](https://github.com/palewire/news-homepages/blob/main/newshomepages/sources/sites.csv). We use them as a unique identifier across the project.
 
 ```bash
 pipenv run python -m newshomepages.screenshot latimes

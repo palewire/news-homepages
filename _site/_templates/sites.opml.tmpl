@@ -6,7 +6,7 @@
         <outline title="Sites" text="Sites">
             <outline text="All sites" title="All sites" type="rss" xmlUrl="https://palewi.re/docs/news-homepages/rss/sites/all.xml"/>
             {%- for site in site_list -%}
-            <outline text="{{ site.name }}" title="{{ site.name }}" type="rss" xmlUrl="https://palewi.re/docs/news-homepages/rss/sites/{{ site.handle.lower() }}.xml"/>
+            <outline text="{{ site.name }}" title="{{ site.name }}" type="rss" xmlUrl="https://palewi.re/docs/news-homepages/rss/sites/{{ site.handle }}.xml"/>
             {% endfor %}
         </outline>
     </body>

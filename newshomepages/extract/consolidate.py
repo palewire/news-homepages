@@ -92,7 +92,7 @@ def consolidate(
             p
             for p in item_data["files"]
             if (
-                handle.lower() in p["name"].lower()
+                handle in p["name"].lower()
                 and (
                     p["format"] in ["JSON", "JPEG", "HTML"]
                     or p["name"].lower().endswith("ads.txt")

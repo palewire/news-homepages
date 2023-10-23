@@ -37,31 +37,23 @@ def lighthouse(
     # Get the data we want
     if site:
         data = utils.get_site(site)
-        slug = data["handle"].lower()
-        filtered_df = lighthouse_df[
-            lighthouse_df.handle.str.lower() == data["handle"].lower()
-        ]
+        slug = data["handle"]
+        filtered_df = lighthouse_df[lighthouse_df.handle == data["handle"]]
     elif country:
         site_list = utils.get_sites_in_country(country)
         slug = country.lower()
-        handle_list = [s["handle"].lower() for s in site_list]
-        filtered_df = lighthouse_df[
-            lighthouse_df.handle.str.lower().isin(handle_list)
-        ].copy()
+        handle_list = [s["handle"] for s in site_list]
+        filtered_df = lighthouse_df[lighthouse_df.handle.isin(handle_list)].copy()
     elif language:
         site_list = utils.get_sites_in_language(language)
         slug = language.lower()
-        handle_list = [s["handle"].lower() for s in site_list]
-        filtered_df = lighthouse_df[
-            lighthouse_df.handle.str.lower().isin(handle_list)
-        ].copy()
+        handle_list = [s["handle"] for s in site_list]
+        filtered_df = lighthouse_df[lighthouse_df.handle.isin(handle_list)].copy()
     elif bundle:
         site_list = utils.get_sites_in_bundle(bundle)
         slug = bundle.lower()
-        handle_list = [s["handle"].lower() for s in site_list]
-        filtered_df = lighthouse_df[
-            lighthouse_df.handle.str.lower().isin(handle_list)
-        ].copy()
+        handle_list = [s["handle"] for s in site_list]
+        filtered_df = lighthouse_df[lighthouse_df.handle.isin(handle_list)].copy()
     else:
         slug = "all"
         filtered_df = lighthouse_df

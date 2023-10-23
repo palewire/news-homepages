@@ -37,10 +37,10 @@ def bundles():
         site_list = utils.get_sites_in_bundle(bundle["slug"])
 
         # Pull all of the screenshots for the sites
-        handle_list = [s["handle"].lower() for s in site_list]
-        file_list = screenshot_df[
-            screenshot_df.handle.str.lower().isin(handle_list)
-        ].sort_values("mtime", ascending=False)
+        handle_list = [s["handle"] for s in site_list]
+        file_list = screenshot_df[screenshot_df.handle.isin(handle_list)].sort_values(
+            "mtime", ascending=False
+        )
 
         # Trim to the latest 50 items
         trimmed_list = file_list.head(50).to_dict(orient="records")
@@ -51,9 +51,7 @@ def bundles():
             f["local_time"] = f["mtime"].astimezone(bundle_tz)
 
             # Set a clean name too
-            f["name"] = next(
-                s for s in site_list if s["handle"].lower() == f["handle"].lower()
-            )["name"]
+            f["name"] = next(s for s in site_list if s["handle"] == f["handle"])["name"]
 
         # Render the template
         context = dict(
@@ -110,7 +108,7 @@ def sites():
             obj=site,
             file_list=file_list,
         )
-        _write_template("site.rss", context, f"sites/{site['handle'].lower()}.xml")
+        _write_template("site.rss", context, f"sites/{site['handle']}.xml")
 
     # Create full feed
     print("Creating RSS feed of latest 100 screenshots across all sites")
@@ -154,10 +152,10 @@ def countries():
         )
 
         # Pull all of the screenshots for the sites
-        handle_list = [s["handle"].lower() for s in site_list]
-        file_list = screenshot_df[
-            screenshot_df.handle.str.lower().isin(handle_list)
-        ].sort_values("mtime", ascending=False)
+        handle_list = [s["handle"] for s in site_list]
+        file_list = screenshot_df[screenshot_df.handle.isin(handle_list)].sort_values(
+            "mtime", ascending=False
+        )
 
         # Trim to the latest 50 items
         trimmed_list = file_list.head(50).to_dict(orient="records")
@@ -172,9 +170,9 @@ def countries():
         for f in trimmed_list:
             f["local_time"] = f["mtime"].astimezone(country_tz)
             # Set a clean name too
-            f["name"] = next(
-                s for s in site_list if s["handle"].lower() == f["handle"].lower()
-            )["name_site"]
+            f["name"] = next(s for s in site_list if s["handle"] == f["handle"])[
+                "name_site"
+            ]
 
         # Render the template
         context = dict(

@@ -53,23 +53,23 @@ def robotstxt(
     # Get the data we want
     if site:
         data = utils.get_site(site)
-        slug = data["handle"].lower()
-        filtered_df = df[df.handle.str.lower() == data["handle"].lower()].copy()
+        slug = data["handle"]
+        filtered_df = df[df.handle == data["handle"]].copy()
     elif country:
         site_list = utils.get_sites_in_country(country)
         slug = country.lower()
-        handle_list = [s["handle"].lower() for s in site_list]
-        filtered_df = df[df.handle.str.lower().isin(handle_list)].copy()
+        handle_list = [s["handle"] for s in site_list]
+        filtered_df = df[df.handle.isin(handle_list)].copy()
     elif language:
         site_list = utils.get_sites_in_language(language)
         slug = language.lower()
-        handle_list = [s["handle"].lower() for s in site_list]
-        filtered_df = df[df.handle.str.lower().isin(handle_list)].copy()
+        handle_list = [s["handle"] for s in site_list]
+        filtered_df = df[df.handle.isin(handle_list)].copy()
     elif bundle:
         site_list = utils.get_sites_in_bundle(bundle)
         slug = bundle.lower()
-        handle_list = [s["handle"].lower() for s in site_list]
-        filtered_df = df[df.handle.str.lower().isin(handle_list)].copy()
+        handle_list = [s["handle"] for s in site_list]
+        filtered_df = df[df.handle.isin(handle_list)].copy()
     elif latest:
         slug = "latest"
         filtered_df = df.groupby("handle").tail(1)

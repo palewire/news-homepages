@@ -43,8 +43,7 @@ def items(
 @retry(tries=5, delay=30, backoff=2)
 def _save_item(site: typing.Dict, year: int, output_path: Path):
     """Save an item as JSON to disk."""
-    slug = utils.safe_ia_handle(site["handle"])
-    identifier = f"{slug}-{year}"
+    identifier = f"{site['handle']}-{year}"
     print(f"Downloading `{identifier}` from archive.org")
     item = internetarchive.get_item(identifier)
     utils.write_json(item.item_metadata, output_path / f"{item.identifier}.json")

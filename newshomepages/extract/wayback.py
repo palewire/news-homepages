@@ -25,11 +25,11 @@ def wayback(handle):
     wayback_df = utils.get_wayback_df()
 
     # Filter it down to files for the provided site
-    site_df = wayback_df[wayback_df.handle.str.lower() == site["handle"].lower()]
+    site_df = wayback_df[wayback_df.handle == site["handle"]]
     print(f"{len(site_df)} wayback files found")
 
     # Read in the output file
-    output_path = utils.THIS_DIR / f"{handle.lower()}-wayback.csv"
+    output_path = utils.THIS_DIR / f"{site['handle']}-wayback.csv"
     try:
         output_df = pd.read_csv(output_path)
         downloaded_files = set(output_df.file_url.unique())

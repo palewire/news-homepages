@@ -67,7 +67,7 @@ def single(handle: str, input_dir: str):
 
     # Set the path
     input_path = Path(input_dir)
-    image_path = input_path / f"{site['handle'].lower()}.jpg"
+    image_path = input_path / f"{site['handle']}.jpg"
 
     # Do the thing
     _post(image_path, caption)

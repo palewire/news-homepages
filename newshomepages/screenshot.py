@@ -80,11 +80,10 @@ def _screenshot(
     )
 
     # Take the screenshot
-    slug = site["handle"].lower()
     if full_page:
-        jpg_path = output_path / f"{slug}.fullpage.jpg"
+        jpg_path = output_path / f"{site['handle']}.fullpage.jpg"
     else:
-        jpg_path = output_path / f"{slug}.jpg"
+        jpg_path = output_path / f"{site['handle']}.jpg"
     print(f"📥 Saving image to {jpg_path}")
     page.screenshot(
         quality=80,

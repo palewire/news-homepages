@@ -18,7 +18,7 @@ URL: [archive.org/download/news-homepages-extracts/sites.csv](https://archive.or
 
 Field | Description
 :---- | :----------
-`handle` | The Twitter handle of the outlet. A unique identifier
+`handle` | The unique handle of the outlet. A unique identifier
 `name` | The name of the outlet
 `url` | The URL of the homepage
 `location` | The city where the site is based
@@ -59,7 +59,7 @@ URL: [archive.org/download/news-homepages-extracts/items.csv](https://archive.or
 Field | Description
 :---- | :----------
 `identifier` | The unique identifier created by Internet Archive
-`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`handle` | The unique handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file on [GitHub](https://github.com/palewire/news-homepages/tree/main/extracts/json) where the Internet Archive metadata is stored.
 `url` | The URL on archive.org where you can find the item
 `title` | The title of the item on Internet Archive
@@ -76,7 +76,7 @@ URL: [archive.org/download/news-homepages-extracts/screenshot-files.csv](https:/
 Field | Description
 :---- | :----------
 `identifier` | The unique identifier created by Internet Archive
-`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`handle` | The unique handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
 `mtime` | The time the file was last modified by the Internet Archive in UTC time
@@ -94,7 +94,7 @@ URL: [archive.org/download/news-homepages-extracts/accessibility-files.csv](http
 Field | Description
 :---- | :----------
 `identifier` | The unique identifier created by Internet Archive
-`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`handle` | The unique handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
 `mtime` | The time the file was last modified by the Internet Archive in UTC time
@@ -111,7 +111,7 @@ URL: [archive.org/download/news-homepages-extracts/hyperlink-files.csv](https://
 Field | Description
 :---- | :----------
 `identifier` | The unique identifier created by Internet Archive
-`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`handle` | The unique handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
 `mtime` | The time the file was last modified by the Internet Archive in UTC time
@@ -128,7 +128,7 @@ URL: [archive.org/download/news-homepages-extracts/lighthouse-files.csv](https:/
 Field | Description
 :---- | :----------
 `identifier` | The unique identifier created by Internet Archive
-`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`handle` | The unique handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
 `mtime` | The time the file was last modified by the Internet Archive in UTC time
@@ -145,7 +145,7 @@ URL: [archive.org/download/news-homepages-extracts/lighthouse-sample.csv](https:
 Field | Description
 :---- | :----------
 `identifier` | The unique identifier created by Internet Archive
-`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`handle` | The unique handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file in the Internet Archive
 `date` | The datetime when the audit was captured
 `performance` | Lighthouse's [performance](https://developer.chrome.com/docs/lighthouse/performance/) metric score
@@ -162,7 +162,7 @@ URL: [archive.org/download/news-homepages-extracts/lighthouse-analysis.csv](http
 
 Field | Description
 :---- | :----------
-`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`handle` | The unique handle of the outlet. Can be used to merge with other files
 `performance_count` | The number of Lighthouse [performance](https://developer.chrome.com/docs/lighthouse/performance/) metric observations
 `performance_median` | The median performance metric score
 `performance_mean` | The average performance metric score
@@ -205,7 +205,7 @@ URL: [archive.org/download/news-homepages-extracts/robotstxt-files.csv](https://
 Field | Description
 :---- | :----------
 `identifier` |The unique identifier for the Internet Archive item
-`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`handle` | The unique handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file in the Internet Archive item
 `url` | The URL of the file
 `mtime` | The time the file was last modified by the Internet Archive in UTC time
@@ -222,7 +222,7 @@ URL: [archive.org/download/news-homepages-extracts/robotstxt-sample.csv](https:/
 Field | Description
 :---- | :----------
 `identifier` | The unique identifier for the Internet Archive item
-`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`handle` | The unique handle of the outlet. Can be used to merge with other files
 `date` | The date when the file was captured
 `url` | The URL to archived file on archive.org
 `user_agent` | A user agent declared in the robots.txt file
@@ -237,7 +237,7 @@ URL: [archive.org/download/news-homepages-extracts/wayback-files.csv](https://ar
 Field | Description
 :---- | :----------
 `identifier` | The unique identifier created by Internet Archive
-`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`handle` | The unique handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file in the Internet Archive
 `url` | The URL of the file
 `mtime` | The time the file was last modified by the Internet Archive in UTC time
@@ -254,7 +254,7 @@ URL: [archive.org/download/news-homepages-extracts/drudge-hyperlinks-sample.csv]
 Field | Description
 :---- | :----------
 `identifier` | The unique identifier created by Internet Archive
-`handle` | The Twitter handle of the outlet. Can be used to merge with other files
+`handle` | The unique handle of the outlet. Can be used to merge with other files
 `file_name` | The name of the file in the Internet Archive
 `date` | The datetime when the hyperlink was captured
 `text` | The text of the hyperlink

@@ -70,8 +70,7 @@ def cli(handle: str, output_dir: str, verbose: bool = False):
                 break
 
     # Write it out
-    slug = site["handle"].lower()
-    output_path = Path(output_dir) / f"{slug}.wayback.json"
+    output_path = Path(output_dir) / f"{site['handle']}.wayback.json"
     utils.write_json(capture_data, output_path, verbose=verbose)
 
 

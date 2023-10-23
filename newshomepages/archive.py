@@ -67,7 +67,7 @@ def cli(
     # Upload each file into an "item" keyed to the site's handle and year
     handle = data["handle"]
     local_now = utils.get_local_time(data)
-    site_identifier = f"{utils.safe_ia_handle(handle)}-{local_now.strftime('%Y')}"
+    site_identifier = f"{handle}-{local_now.strftime('%Y')}"
     site_metadata = _get_item_metadata(data)
     print(
         f"📚 Saving timestamped `{handle}` assets to archive.org `{IA_COLLECTION}` collection's `{site_identifier}`"
@@ -90,7 +90,7 @@ def cli(
     if not latest:
         return
 
-    image_path = input_path / f"{utils.safe_ia_handle(handle)}.jpg"
+    image_path = input_path / f"{handle}.jpg"
     if not image_path.exists():
         return
 
@@ -105,7 +105,7 @@ def cli(
         publisher="https://homepages.news",
         contributor="https://homepages.news",
     )
-    latest_dict = {f"{utils.safe_ia_handle(handle)}.jpg": image_path}
+    latest_dict = {f"{handle}.jpg": image_path}
     _upload(
         data,
         latest_identifier,
@@ -136,7 +136,7 @@ def _get_item_metadata(data: dict) -> dict:
 def _get_file_dict(data: dict, input_dir: Path) -> dict:
     """Get a dictionary of timestamped files to upload to our archive.org collection."""
     # Set the input paths
-    handle = utils.safe_ia_handle(data["handle"])
+    handle = data["handle"]
     image_path = input_dir / f"{handle}.jpg"
     image_fullpage_path = input_dir / f"{handle}.fullpage.jpg"
     a11y_path = input_dir / f"{handle}.accessibility.json"

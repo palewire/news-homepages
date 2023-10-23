@@ -48,8 +48,8 @@ def hyperlinks(
         site_list = utils.get_sites_in_bundle(bundle)
         slug = bundle.lower()
 
-    handle_list = [s["handle"].lower() for s in site_list]
-    filtered_df = hyperlink_df[hyperlink_df.handle.str.lower().isin(handle_list)].copy()
+    handle_list = [s["handle"] for s in site_list]
+    filtered_df = hyperlink_df[hyperlink_df.handle.isin(handle_list)].copy()
 
     if days:
         cutoff_date = filtered_df["date"].max() - pd.Timedelta(days=int(days))

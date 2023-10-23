@@ -40,12 +40,12 @@ def single(handle: str, input_dir: str):
     # Create the headline
     status = f"""The {data['name']} homepage at {now_local.strftime('%-I:%M %p')} in {data['location']}
 
-More: https://palewi.re/docs/news-homepages/sites/{data['handle'].lower()}.html"""
+More: https://palewi.re/docs/news-homepages/sites/{data['handle']}.html"""
 
     # Get the image
     input_path = Path(input_dir)
     input_path.mkdir(parents=True, exist_ok=True)
-    image_path = input_path / f"{handle.lower()}.jpg"
+    image_path = input_path / f"{data['handle']}.jpg"
 
     # Upload the image
     alt_text = f"The {data['name']} homepage at {now_local.strftime('%-I:%M %p')} in {data['location']}"

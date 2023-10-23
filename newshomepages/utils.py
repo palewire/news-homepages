@@ -296,7 +296,7 @@ def get_site_df() -> pd.DataFrame:
     df = pd.read_csv(
         SITES_PATH,
         dtype={
-            "handle": str,
+            "twitter": str,
             "url": str,
             "name": str,
             "location": str,
@@ -306,7 +306,13 @@ def get_site_df() -> pd.DataFrame:
             "bundle": str,
             "wait": str,
         },
-    ).sort_values("handle")
+    )
+
+    # Set the slug as the safe version of the twitter handle
+    df["handle"] = df.twitter.apply(safe_ia_handle)
+
+    # Sort by slug
+    df = df.sort_values("handle")
 
     # Fill in the empty wait with strings
     df["wait"].fillna("", inplace=True)
@@ -396,13 +402,13 @@ def get_site(handle: str) -> dict:
     """Get the metadata for the provided site.
 
     Args:
-        handle (str): The Twitter handle of the site you want.
+        handle (str): The handle of the site you want.
 
     Returns a dictionary.
     """
     site_list = get_site_list()
     try:
-        return next(d for d in site_list if d["handle"].lower() == handle.lower())
+        return next(d for d in site_list if d["handle"] == handle.lower())
     except StopIteration:
         raise ValueError(f"The handle {handle} could not be found")
 
@@ -663,9 +669,7 @@ def get_screenshots_by_site(site: dict) -> list[dict]:
     screenshot_list = get_screenshot_list()
 
     # Filter it down to the provided site
-    file_list = [
-        s for s in screenshot_list if s["handle"].lower() == site["handle"].lower()
-    ]
+    file_list = [s for s in screenshot_list if s["handle"] == site["handle"]]
 
     # Add the local time
     site_tz = pytz.timezone(site["timezone"])
@@ -687,7 +691,7 @@ def get_javascript(handle: str) -> str | None:
 
     Returns a JavaScript string ready to be run. Or None, if no file exists.
     """
-    javascript_path = SOURCES_PATH / "javascript" / f"{handle.lower()}.js"
+    javascript_path = SOURCES_PATH / "javascript" / f"{handle}.js"
     if javascript_path.exists():
         with open(javascript_path) as fh:
             return fh.read()

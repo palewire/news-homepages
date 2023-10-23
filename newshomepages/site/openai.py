@@ -23,9 +23,6 @@ def openai(no_cache=False):
     # Read in our dataset
     robotstxt_df = utils.get_extract_df("robotstxt-sample.csv", use_cache=use_cache)
 
-    # Smooth out the handle for later joins
-    robotstxt_df.handle = robotstxt_df.handle.str.lower()
-
     # Assert that only each handle has only one url
     assert robotstxt_df.groupby("handle").url.nunique().all() == 1
 
@@ -54,7 +51,6 @@ def openai(no_cache=False):
 
     # Merge in site metadata
     site_df = utils.get_site_df()
-    site_df.handle = site_df.handle.str.lower()
     merged_df = site_df[["name", "handle", "country", "flag"]].merge(
         disallow_pivot, on="handle", how="left"
     )

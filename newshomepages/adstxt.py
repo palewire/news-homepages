@@ -26,11 +26,11 @@ def cli(handle: str, output_dir: str, timeout: str = "5", verbose: bool = False)
 
     if adstxt is None:
         # If there is no ads.txt, we drop out now
-        print(f":robot: No ads.txt for {handle}")
+        print(f":robot: No ads.txt for {site['handle']}")
         adstxt = "404: No file found"
 
     # Set the output path
-    output_path = Path(output_dir) / f"{utils.safe_ia_handle(handle)}.ads.txt"
+    output_path = Path(output_dir) / f"{site['handle']}.ads.txt"
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     # Write it out

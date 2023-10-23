@@ -68,8 +68,6 @@ def accessibility_ranking():
         accessibility_df.accessibility_median.astype(int)
     )
     site_df = utils.get_site_df()
-    site_df.handle = site_df.handle.str.lower()
-    accessibility_df.handle = accessibility_df.handle.str.lower()
     merged_df = site_df.merge(accessibility_df, on="handle", how="inner")
 
     # Create the page

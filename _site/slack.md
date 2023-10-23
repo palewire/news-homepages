@@ -63,7 +63,7 @@ jobs:
           webhook-url: ${{ secrets.SLACK_WEBHOOK_URL_YOUR_SITE_HANDLE_IN_CAPS }}
 ```
 
-You should tailor the `name` setting to match your site. There are two `handle` inputs in the jobs section that should be edited to match your site's Twitter handle.
+You should tailor the `name` setting to match your site. There are two `handle` inputs in the jobs section that should be edited to match your site's unique handle.
 
 You'll also want to configure the `cron` setting to match whatever schedule you'd like the archiver to run on. If you're unfamiliar with the syntax, [GitHub's official documentation](https://futurestud.io/tutorials/github-actions-trigger-builds-on-schedule-cron) offers some guidance.
 

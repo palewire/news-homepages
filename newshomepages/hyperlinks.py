@@ -40,7 +40,7 @@ def cli(handle, output_dir="./", timeout="180", verbose=False):
         context.close()
 
     # Write out the data
-    output_path = Path(output_dir) / f"{site['handle'].lower()}.hyperlinks.json"
+    output_path = Path(output_dir) / f"{site['handle']}.hyperlinks.json"
     utils.write_json(link_list, output_path)
 
 
