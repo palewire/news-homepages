@@ -24,6 +24,9 @@ from . import utils
     default=False,
     help="Screenshot the whole page",
 )
+@click.option(
+    "--verbose", "verbose", is_flag=True, default=False, help="Print verbose output"
+)
 def cli(
     handle: str,
     output_dir: str = "./",
@@ -31,6 +34,7 @@ def cli(
     width: str = "1300",
     height: str = "1600",
     full_page: bool = False,
+    verbose: bool = False,
 ):
     """Screenshot the provided homepage."""
     # Set the output path
@@ -43,7 +47,13 @@ def cli(
     # Open the browser
     with sync_playwright() as playwright:
         # We'll load it with an extension
-        context = utils._load_persistent_context(playwright, int(width), int(height))
+        context = utils._load_persistent_context(
+            playwright,
+            width=int(width),
+            height=int(height),
+            verbose=verbose,
+            adguard=site["no_adguard"] is not True,
+        )
 
         # Screenshot the site
         _screenshot(
@@ -52,6 +62,7 @@ def cli(
             output_path,
             wait=int(site["wait"] or wait),
             full_page=full_page,
+            verbose=verbose,
         )
 
         # Close it out
@@ -65,9 +76,11 @@ def _screenshot(
     output_path: Path,
     wait: int = 5000,
     full_page: bool = False,
+    verbose: bool = False,
 ):
     """Shoot the provided site."""
-    print(f":camera: Screenshotting {site['name']}")
+    if verbose:
+        print(f":camera: Screenshotting {site['name']}")
 
     # Open the page
 
@@ -77,6 +90,7 @@ def _screenshot(
         wait_seconds=int(wait / 1000),
         handle=site["handle"],
         full_page=full_page,
+        verbose=verbose,
     )
 
     # Take the screenshot
@@ -84,7 +98,9 @@ def _screenshot(
         jpg_path = output_path / f"{site['handle']}.fullpage.jpg"
     else:
         jpg_path = output_path / f"{site['handle']}.jpg"
-    print(f"📥 Saving image to {jpg_path}")
+
+    if verbose:
+        print(f"📥 Saving image to {jpg_path}")
     page.screenshot(
         quality=80,
         type="jpeg",

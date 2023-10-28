@@ -772,36 +772,59 @@ def intcomma(value: int | str) -> str:
 
 
 def _load_persistent_context(
-    p_handle: Playwright, width: int = 1300, height: int = 1600
-):
-    """Load the browser with a persistent context nad with a set of common ad-blocking extensions."""
+    p_handle: Playwright,
+    width: int = 1300,
+    height: int = 1600,
+    adguard: bool = True,
+    verbose: bool = True,
+) -> BrowserContext:
+    """Load the browser with a persistent context nad with a set of common ad-blocking extensions.
+
+    Args:
+        p_handle (Playwright): The Playwright object
+        width (int): The width of the browser window
+        height (int): The height of the browser window
+        adguard (bool): Whether or not to include the AdGuard extensions
+        verbose (bool): Whether or not to print verbose output
+
+    Returns:
+        A BrowserContext object
+    """
     # Boot up the browser with the ad blocker plugin installed
     data_dir = tempfile.mkdtemp()
-    print(f"Temporary data directory created at {data_dir}")
+    if verbose:
+        print(f"Temporary data directory created at {data_dir}")
 
-    # Set the extensions path
-    extensions_list = [
-        EXTENSIONS_PATH / "adguard",
-        EXTENSIONS_PATH / "adguardextra",
+    # Arguments to pass to the browser
+    args = [
+        "--disable-gpu",
+        "--disable-notifications",
+        "--disable-search-geolocation-disclosure",
+        "--enable-logging=stderr",
+        "--log-level=0",
+        "--v=1",
     ]
-    extensions_str = ",".join(map(str, extensions_list))
+
+    # If we are including adguard...
+    if adguard:
+        # ... get the paths to the extensions ...
+        extensions_list = [
+            EXTENSIONS_PATH / "adguard",
+            EXTENSIONS_PATH / "adguardextra",
+        ]
+        extensions_str = ",".join(map(str, extensions_list))
+        # ... get it in the arguments
+        args.append(f"--disable-extensions-except={extensions_str}")
+        args.append(f"--load-extension={extensions_str}")
 
     # Set the browser context
-    print("Launching Chromium browser")
+    if verbose:
+        print("Launching Chromium browser")
     context = p_handle.chromium.launch_persistent_context(
         data_dir,
         channel="chrome",
         headless=False,
-        args=[
-            f"--disable-extensions-except={extensions_str}",
-            f"--load-extension={extensions_str}",
-            "--disable-gpu",
-            "--disable-notifications",
-            "--disable-search-geolocation-disclosure",
-            "--enable-logging=stderr",
-            "--log-level=0",
-            "--v=1",
-        ],
+        args=args,
         user_agent=get_user_agent(),
         viewport={
             "width": width,
@@ -810,8 +833,12 @@ def _load_persistent_context(
     )
 
     # Wait for adguard filters to load
-    print("Waiting 15 seconds for AdGuard filters to load")
-    time.sleep(15)
+    if adguard:
+        if verbose:
+            print("Waiting 15 seconds for AdGuard filters to load")
+        time.sleep(15)
+
+    # Return the context
     return context
 
 
@@ -894,38 +921,46 @@ def _load_new_page_disable_javascript(
     handle: str,
     wait_seconds: int = 5,
     full_page: bool = False,
+    verbose: bool = False,
 ):
     """Load the page with javascript blocking."""
     # Create an empty tab
     page = context.new_page()
     # Open the page
-    print(f"Opening {url}")
+    if verbose:
+        print(f"Opening {url}")
     page.goto(url, timeout=60000)
 
     # Give it a beat
-    print(f"Waiting {wait_seconds} seconds")
+    if verbose:
+        print(f"Waiting {wait_seconds} seconds")
     time.sleep(wait_seconds)
     common_javascript = _get_common_blocking_javascript()
 
-    print("Executing common JavaScript")
+    if verbose:
+        print("Executing common JavaScript")
     page.evaluate(common_javascript)
 
     # If there's custom javascript for this site, run it
     custom_javascript = get_javascript(handle)
     if custom_javascript:
-        print("Executing custom JavaScript")
+        if verbose:
+            print("Executing custom JavaScript")
         page.evaluate(custom_javascript)
-        print("Waiting another 5 seconds..")
+        if verbose:
+            print("Waiting another 5 seconds..")
         time.sleep(5)
 
     # Hide the scrollbars
-    print("Hiding scrollbars with CSS")
+    if verbose:
+        print("Hiding scrollbars with CSS")
     css = """document.body.style.overflow = 'hidden';"""
     page.evaluate(css)
 
     # If we're saving full-page content, we need to scroll to the bottom to make sure all the images get fetched.
     if full_page:
-        print("scrolling to bottom")
+        if verbose:
+            print("scrolling to bottom")
         scroll_height = page.evaluate("document.body.scrollHeight")
         current_pos = 0
         current_iter = 0
@@ -937,12 +972,14 @@ def _load_new_page_disable_javascript(
             time.sleep(1)
             scroll_height = page.evaluate("document.body.scrollHeight")
             current_iter += 1
-        print("scrolling back up...")
+        if verbose:
+            print("scrolling back up...")
         page.evaluate("scroll(0, 0)")
         time.sleep(1)
 
     # Prevent Playwright from hovering over a link and highlighting it
-    print("Preventing mouse hovers")
+    if verbose:
+        print("Preventing mouse hovers")
     css = """
     const style = document.createElement("style");
     style.innerHTML = "a:hover, a:focus { color: initial; text-decoration: initial; }";
@@ -951,6 +988,7 @@ def _load_new_page_disable_javascript(
     page.evaluate(css)
 
     # Give it another beat
-    print(f"Waiting {wait_seconds} seconds")
+    if verbose:
+        print(f"Waiting {wait_seconds} seconds")
     time.sleep(wait_seconds)
     return page
