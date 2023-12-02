@@ -66,7 +66,6 @@ setup(
             "newshomepages-analyze=newshomepages.analyze:cli",
             "newshomepages-archive=newshomepages.archive:cli",
             "newshomepages-batch=newshomepages.batch:cli",
-            "newshomepages-discorder=newshomepages.discorder:cli",
             "newshomepages-extract=newshomepages.extract:cli",
             "newshomepages-hyperlinks=newshomepages.hyperlinks:cli",
             "newshomepages-mosaic=newshomepages.mosaic:cli",
