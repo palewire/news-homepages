@@ -50,12 +50,6 @@ DISCORD_BOT_TOKEN=
 SLACK_WEBHOOK_URL=
 ```
 
-### Telegram
-
-```
-TELEGRAM_API_KEY=
-```
-
 ### Twitter
 
 ```

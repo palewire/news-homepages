@@ -70,10 +70,6 @@ Commands
    :prog: slack
    :nested: full
 
-.. click:: newshomepages.telegrammer:cli
-   :prog: telegrammer
-   :nested: full
-
 .. click:: newshomepages.toot:cli
    :prog: toot
    :nested: full
