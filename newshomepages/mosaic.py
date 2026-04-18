@@ -63,7 +63,7 @@ def jpg(input_dir: str, output_dir: str):
                 image.paste(images[idx], offset)
 
         # Save an output
-        print(f":pencil: Writing mosiac {i + 1} to {output_path}")
+        print(f":pencil: Writing mosaic {i + 1} to {output_path}")
         image.save(output_path / f"{i + 1}.jpg", "JPEG")
 
         # Write a JSON file out with the names of the images, for use in alt text, etc.
