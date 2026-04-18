@@ -13,7 +13,6 @@ from . import utils
 @click.group()
 def cli():
     """Create image mosaics."""
-    pass
 
 
 @cli.command()
@@ -64,12 +63,13 @@ def jpg(input_dir: str, output_dir: str):
                 image.paste(images[idx], offset)
 
         # Save an output
-        print(f":pencil: Writing mosiac {i+1} to {output_path}")
-        image.save(output_path / f"{i+1}.jpg", "JPEG")
+        print(f":pencil: Writing mosiac {i + 1} to {output_path}")
+        image.save(output_path / f"{i + 1}.jpg", "JPEG")
 
         # Write a JSON file out with the names of the images, for use in alt text, etc.
         name_list = [utils.get_site(h.stem)["name"] for h in selected_images]
-        json.dump(name_list, open(output_path / f"{i+1}.json", "w"), indent=2)
+        with open(output_path / f"{i + 1}.json", "w") as fh:
+            json.dump(name_list, fh, indent=2)
 
 
 @cli.command()
@@ -108,7 +108,7 @@ def gif(input_dir: str, output_dir: str, maximium_slides: int = 15):
 
     slide_list = []
     for i, image_chunk in enumerate(utils.chunk(sorted_images, n * n)):
-        print(f"Creating slide {i+1}")
+        print(f"Creating slide {i + 1}")
 
         size = (math.floor(1200 / n), math.floor(675 / n))
         shape = (n, n)
@@ -132,8 +132,8 @@ def gif(input_dir: str, output_dir: str, maximium_slides: int = 15):
                 idx = row * shape[1] + col
                 image.paste(images[idx], offset)
 
-        print(f"Writing slide {i+1} to {output_path}")
-        image.save(output_path / f"{i+1}.jpg", "JPEG")
+        print(f"Writing slide {i + 1} to {output_path}")
+        image.save(output_path / f"{i + 1}.jpg", "JPEG")
 
         # Add to our master last
         slide_list.append(image)

@@ -52,7 +52,7 @@ def cli(handle: str, output_dir: str, verbose: bool = False):
                     print("Success!")
                 capture_data.update(status_data)
                 break
-            elif status_data["status"] == "pending":
+            if status_data["status"] == "pending":
                 # If it's not done, up our counter and restart the loop
                 if verbose:
                     print("The capture is still pending.")

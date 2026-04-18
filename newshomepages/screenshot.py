@@ -1,4 +1,3 @@
-import typing
 from pathlib import Path
 
 import click
@@ -72,7 +71,7 @@ def cli(
 @retry(tries=3, delay=5, backoff=2)
 def _screenshot(
     context: BrowserContext,
-    site: typing.Dict,
+    site: dict,
     output_path: Path,
     wait: int = 5000,
     full_page: bool = False,

@@ -1,5 +1,4 @@
 import json
-import typing
 
 import click
 
@@ -9,7 +8,6 @@ from . import utils
 @click.group()
 def cli():
     """Print a batch of sites."""
-    pass
 
 
 @cli.command()
@@ -40,7 +38,7 @@ def sites_by_country(country: str):
     _dump(site_list)
 
 
-def _dump(site_list: typing.List):
+def _dump(site_list: list):
     """Print out the provided site list as JSON."""
     handle_list = [s["handle"] for s in site_list]
     data = json.dumps(handle_list, indent=2)

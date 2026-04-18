@@ -112,19 +112,19 @@ def cli(handle: str, input_dir: str, verbose: bool = False, timeout: str = "60")
     if verbose:
         print(f"Checking that {jpg_url} exists")
     wait = 60 * 5
-    if not requests.get(jpg_url).ok:
+    if not requests.get(jpg_url, timeout=30).ok:
         # If it doesn't, wait 60 seconds
         # The most common problem here is that the Internet Archive
         # has fully processed the file yet.
         if verbose:
             print(f"URL does not exist. Waiting {wait} seconds to try again.")
         time.sleep(wait)
-        if not requests.get(jpg_url).ok:
+        if not requests.get(jpg_url, timeout=30).ok:
             # If it doesn't work, wait again
             if verbose:
                 print(f"Failed again. Now waiting {wait * 2} seconds ...")
             time.sleep(wait * 2)
-            if not requests.get(jpg_url).ok:
+            if not requests.get(jpg_url, timeout=30).ok:
                 # If it still fails, throw an error
                 print("URL does not exist")
                 sys.exit(1)

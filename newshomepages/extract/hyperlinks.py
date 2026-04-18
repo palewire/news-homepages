@@ -12,7 +12,6 @@ from .utils import _get_json_url
 @click.group()
 def cli():
     """Download and parse the provided site's hyperlinks files."""
-    pass
 
 
 @cli.command()
@@ -24,13 +23,13 @@ def cli():
 @click.option("-u", "--use-cache", "use_cache", default=False, is_flag=True)
 @click.option("-o", "--output-path", "output_path", default=None)
 def hyperlinks(
-    site: typing.Optional[str] = None,
-    country: typing.Optional[str] = None,
-    language: typing.Optional[str] = None,
-    bundle: typing.Optional[str] = None,
-    days: typing.Optional[str] = None,
+    site: str | None = None,
+    country: str | None = None,
+    language: str | None = None,
+    bundle: str | None = None,
+    days: str | None = None,
     use_cache: bool = False,
-    output_path: typing.Optional[typing.Any] = None,
+    output_path: typing.Any | None = None,
 ):
     """Download and parse the provided site's hyperlinks files."""
     # Get all hyperlink files

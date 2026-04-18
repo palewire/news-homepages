@@ -8,7 +8,6 @@ from .utils import _write_template
 @click.group()
 def cli():
     """Create country list."""
-    pass
 
 
 @cli.command()

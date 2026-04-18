@@ -69,17 +69,16 @@ def _get_robotstxt(
         # In this case, there is no robots.txt
         # so we return None
         return None
-    else:
-        # Otherwise, we return the text,
-        # after checking that the request was successful
-        try:
-            assert r.ok
-        except AssertionError:
-            msg = f"Request failed with status code {r.status_code}"
-            if verbose:
-                print(msg)
-            raise AssertionError(msg)
-        return r.text
+    # Otherwise, we return the text,
+    # after checking that the request was successful
+    try:
+        assert r.ok
+    except AssertionError:
+        msg = f"Request failed with status code {r.status_code}"
+        if verbose:
+            print(msg)
+        raise AssertionError(msg) from None
+    return r.text
 
 
 if __name__ == "__main__":

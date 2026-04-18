@@ -13,7 +13,6 @@ from .. import utils
 @click.group()
 def cli():
     """Download items from our archive.org collection as JSON."""
-    pass
 
 
 @cli.command()
@@ -22,7 +21,7 @@ def cli():
 @click.option("-o", "--output-dir", "output_dir", default="./")
 def items(
     handle: str,
-    year: typing.Optional[typing.Any] = None,
+    year: typing.Any | None = None,
     output_dir: str = "./",
 ):
     """Download items from our archive.org collection as JSON."""
@@ -41,7 +40,7 @@ def items(
 
 
 @retry(tries=5, delay=30, backoff=2)
-def _save_item(site: typing.Dict, year: int, output_path: Path):
+def _save_item(site: dict, year: int, output_path: Path):
     """Save an item as JSON to disk."""
     identifier = f"{site['handle']}-{year}"
     print(f"Downloading `{identifier}` from archive.org")

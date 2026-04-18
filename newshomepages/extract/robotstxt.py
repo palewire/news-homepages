@@ -24,7 +24,6 @@ from .. import utils
 @click.group()
 def cli():
     """Download and parse the provided site's robots.txt files."""
-    pass
 
 
 @cli.command()

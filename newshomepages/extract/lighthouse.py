@@ -12,7 +12,6 @@ from .utils import _get_json_url
 @click.group()
 def cli():
     """Download and parse the provided site's Lighthouse files."""
-    pass
 
 
 @cli.command()
@@ -23,12 +22,12 @@ def cli():
 @click.option("--days", "days", default=None)
 @click.option("-o", "--output-path", "output_path", default=None)
 def lighthouse(
-    site: typing.Optional[str] = None,
-    country: typing.Optional[str] = None,
-    language: typing.Optional[str] = None,
-    bundle: typing.Optional[str] = None,
-    days: typing.Optional[str] = None,
-    output_path: typing.Optional[typing.Any] = None,
+    site: str | None = None,
+    country: str | None = None,
+    language: str | None = None,
+    bundle: str | None = None,
+    days: str | None = None,
+    output_path: typing.Any | None = None,
 ):
     """Download and parse the provided site's Lighthouse files."""
     # Get all lighthouse files

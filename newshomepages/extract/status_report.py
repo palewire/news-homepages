@@ -10,7 +10,6 @@ from .. import utils
 @click.group()
 def cli():
     """Create a status report."""
-    pass
 
 
 @cli.command()

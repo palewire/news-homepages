@@ -21,7 +21,6 @@ from .. import utils
 @click.group()
 def cli():
     """Consolidate Internet Archive metadata into CSV files."""
-    pass
 
 
 @cli.command()
@@ -109,14 +108,12 @@ def consolidate(
         if item_data["files"]:
             print(f"--- Random file: {random.choice(item_data['files'])}")
         for p in item_data["files"]:
-            if handle.lower() in p["name"].lower():
-                # Check if the file is of a type we want
-                if p["format"].upper() in ["JSON", "JPEG", "HTML"]:
-                    qualified_files.append(p)
-                elif p["name"].lower().endswith("ads.txt"):
-                    qualified_files.append(p)
-                elif p["name"].lower().endswith("robots.txt"):
-                    qualified_files.append(p)
+            if handle.lower() in p["name"].lower() and (
+                p["format"].upper() in ["JSON", "JPEG", "HTML"]
+                or p["name"].lower().endswith("ads.txt")
+                or p["name"].lower().endswith("robots.txt")
+            ):
+                qualified_files.append(p)
 
         # Loop through them
         for f in qualified_files:
@@ -201,7 +198,7 @@ def _get_items_torrent(output_path: Path) -> Path:
     url = (
         "https://archive.org/download/latest-homepages/latest-homepages_archive.torrent"
     )
-    response = requests.get(url)
+    response = requests.get(url)  # noqa: S113  (removed by HTTP consolidate PR)
     response.raise_for_status()
     # Keep torrent data in memory
     torrent_data = response.content
@@ -230,7 +227,7 @@ def _get_items_torrent(output_path: Path) -> Path:
             session.listen_on(start_port, end_port)
             print(f"✓ Listening on ports {start_port}-{end_port}")
             break
-        except Exception as e:
+        except Exception as e:  # noqa: BLE001  (removed by HTTP consolidate PR)
             print(f"✗ Failed to listen on ports {start_port}-{end_port}: {e}")
             continue
 
@@ -245,7 +242,7 @@ def _get_items_torrent(output_path: Path) -> Path:
     handle = session.add_torrent(params)
 
     print(f"✓ Added torrent: {torrent_info.name()}")
-    print(f"✓ Total size: {torrent_info.total_size() / (1024*1024):.1f} MB")
+    print(f"✓ Total size: {torrent_info.total_size() / (1024 * 1024):.1f} MB")
     print(f"✓ Number of files: {torrent_info.num_files()}")
 
     # Enhanced monitoring with timeout
@@ -269,7 +266,7 @@ def _get_items_torrent(output_path: Path) -> Path:
             "Upload Rate": f"{status.upload_rate / 1024:.1f} KB/s",
             "Peers": status.num_peers,
             "Seeds": status.num_seeds,
-            "Elapsed": f"{elapsed_time/60:.1f}m",
+            "Elapsed": f"{elapsed_time / 60:.1f}m",
         }
 
         # Clear line and print progress

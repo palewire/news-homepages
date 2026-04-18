@@ -11,7 +11,6 @@ from .utils import _get_json_url
 @click.group()
 def cli():
     """Download and parse the provided site's accessibility files."""
-    pass
 
 
 @cli.command()

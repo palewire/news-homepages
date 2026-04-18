@@ -12,7 +12,6 @@ from .. import utils
 @click.group()
 def cli():
     """Analyze US right wing sources."""
-    pass
 
 
 @cli.command()

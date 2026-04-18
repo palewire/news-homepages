@@ -121,14 +121,24 @@ ignore = [
     "E501",    # Line length
     "F403",    # Star imports
     "S101",    # Allow assert
+    "S311",    # Non-crypto random (user-agent rotation, display sampling)
+    "S701",    # Jinja2 autoescape (templates render markdown, not HTML)
     "SIM103",  # Allow True/False returns after a test
     "SIM108",  # Don't force ternary
     "SIM117",  # Allow nested with
     "PERF401", # For loop appending
+    "PTH123",  # open() is fine; don't force Path.open() everywhere
+    "RET504",  # Allow assign-before-return for clarity
     "RUF001",  # Allow curly quotes
+    "RUF003",  # Allow ambiguous chars in comments
     "RUF005",  # Allow adding lists
+    "TID252",  # Relative imports from parent modules are idiomatic
 ]
-exclude = ["newshomepages/extensions"]
+exclude = [
+    "newshomepages/extensions",
+    "_site",
+    "_notebooks",
+]
 
 [tool.ruff.lint.per-file-ignores]
 "tests/*" = [

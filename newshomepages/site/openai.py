@@ -11,7 +11,6 @@ from .utils import _write_template
 @click.group()
 def cli():
     """Create a page tracking AI blockers based on most recently scraped robots.txt files."""
-    pass
 
 
 @cli.command()
@@ -88,10 +87,7 @@ def openai(no_cache=False):
         bot_counts[bot] = len(merged_df[~pd.isnull(merged_df[bot])])
 
     def has_any_bot(row):
-        for bot in ai_user_agents:
-            if not pd.isnull(row[bot]):
-                return True
-        return False
+        return any(not pd.isnull(row[bot]) for bot in ai_user_agents)
 
     # Get the total unique sites that block at least one of the bots
     disallow_count = len(merged_df[merged_df.apply(has_any_bot, axis=1)])

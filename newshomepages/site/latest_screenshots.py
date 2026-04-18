@@ -8,7 +8,6 @@ from .utils import _write_template
 @click.group()
 def cli():
     """Create a page showing all of the latest screenshots."""
-    pass
 
 
 @cli.command()
