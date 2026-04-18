@@ -1,0 +1,177 @@
+[build-system]
+requires = ["setuptools >= 61.0", "setuptools_scm>=8"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "newshomepages"
+dynamic = ["version"]
+requires-python = ">=3.11"
+dependencies = [
+    "click",
+    "pytz",
+    "internetarchive>=5.0.4",
+    "python-slugify",
+    "playwright",
+    "jinja2",
+    "shot-scraper",
+    "pillow",
+    "pandas",
+    "rich",
+    "iso3166",
+    "python-iso639",
+    "certifi",
+    "requests",
+    "retry",
+    "storysniffer",
+    "spacy",
+    "spectra",
+    "sqlean.py",
+    "Mastodon.py",
+    "sqlite-robotstxt",
+]
+authors = [{ name = "Ben Welsh", email = "b@palewi.re" }]
+description = "An open-source archive that gathers, saves, shares and analyzes news homepages"
+license = { text = "GPL-3.0-or-later" }
+readme = "README.md"
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+    "Topic :: System :: Archiving",
+    "Topic :: Internet :: WWW/HTTP :: Dynamic Content :: News/Diary",
+]
+
+[project.optional-dependencies]
+dev = ["pre-commit", "setuptools-scm", "ty", "vulture"]
+test = [
+    "pytest",
+    "pytest-cov",
+    "pytest-env",
+    "pytest-vcr",
+    "pytest-xdist",
+]
+docs = [
+    "sphinx",
+    "sphinx-autobuild",
+    "myst-parser",
+    "sphinxcontrib-napoleon",
+    "sphinx-click",
+    "sphinx-palewire-theme==0.1.2",
+]
+notebooks = ["jupyterlab", "ipywidgets"]
+
+[project.urls]
+Homepage = "https://homepages.news"
+Documentation = "https://palewi.re/docs/news-homepages/"
+Maintainer = "https://palewi.re/who-is-ben-welsh/"
+Source = "https://github.com/palewire/news-homepages"
+Issues = "https://github.com/palewire/news-homepages/issues"
+
+[project.scripts]
+newshomepages-accessibility = "newshomepages.accessibility:cli"
+newshomepages-adstxt = "newshomepages.adstxt:cli"
+newshomepages-analyze = "newshomepages.analyze:cli"
+newshomepages-archive = "newshomepages.archive:cli"
+newshomepages-batch = "newshomepages.batch:cli"
+newshomepages-extract = "newshomepages.extract:cli"
+newshomepages-hyperlinks = "newshomepages.hyperlinks:cli"
+newshomepages-mosaic = "newshomepages.mosaic:cli"
+newshomepages-robotstxt = "newshomepages.robotstxt:cli"
+newshomepages-screenshot = "newshomepages.screenshot:cli"
+newshomepages-site = "newshomepages.site:cli"
+newshomepages-slack = "newshomepages.slack:cli"
+newshomepages-toot = "newshomepages.toot:cli"
+newshomepages-wayback = "newshomepages.wayback:cli"
+
+[tool.setuptools.packages.find]
+include = ["newshomepages*"]
+
+[tool.setuptools_scm]
+
+[tool.ruff.lint]
+select = [
+    "E",    # pycodestyle
+    "F",    # pyflakes
+    "B",    # flake8-bugbear
+    "W",    # pycodestyle warnings
+    "I",    # isort
+    "UP",   # pyupgrade
+    "N",    # pep8-naming
+    "YTT",  # flake8-2020
+    "S",    # flake8-bandit
+    "BLE",  # flake8-blind-except
+    "FA",   # flake8-future-annotations
+    "ICN",  # flake8-import-conventions
+    "PIE",  # flake8-pie
+    "Q",    # flake8-quotes
+    "RSE",  # flake8-raise
+    "RET",  # flake8-return
+    "SIM",  # flake8-simplify
+    "TID",  # flake8-tidy-imports
+    "PTH",  # flake8-use-pathlib
+    "FLY",  # flynt
+    "PERF", # perflint
+    "RUF",  # ruff-specific
+]
+ignore = [
+    "E501",    # Line length
+    "F403",    # Star imports
+    "S101",    # Allow assert
+    "SIM103",  # Allow True/False returns after a test
+    "SIM108",  # Don't force ternary
+    "SIM117",  # Allow nested with
+    "PERF401", # For loop appending
+    "RUF001",  # Allow curly quotes
+    "RUF005",  # Allow adding lists
+]
+exclude = ["newshomepages/extensions"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = [
+    "PLR2004",
+    "S105",
+    "S108",
+]
+
+[tool.ruff.format]
+docstring-code-format = true
+exclude = ["newshomepages/extensions"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+
+[tool.coverage.run]
+source = ["newshomepages"]
+relative_files = true
+omit = ["*/__pycache__/*", "newshomepages/extensions/*"]
+
+[tool.ty.environment]
+python-version = "3.13"
+
+[tool.ty.src]
+include = ["newshomepages"]
+exclude = [
+    "tests/**",
+    "build/**",
+    ".venv/**",
+    ".github/**",
+    ".vscode/**",
+    "newshomepages/extensions/**",
+    "**/__pycache__",
+]
+
+[tool.ty.rules]
+invalid-argument-type = "warn"
+invalid-return-type = "warn"
+invalid-key = "warn"
+invalid-assignment = "warn"
+invalid-method-override = "warn"
+unresolved-attribute = "warn"
+possibly-missing-attribute = "warn"
+no-matching-overload = "ignore"
+unused-ignore-comment = "ignore"

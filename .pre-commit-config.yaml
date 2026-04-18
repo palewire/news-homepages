@@ -21,46 +21,11 @@ repos:
     -   id: mixed-line-ending
         exclude: newshomepages/extensions/
 
--   repo: https://github.com/psf/black
-    rev: 25.1.0
+-   repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.8.6
     hooks:
-    -   id: black
+    -   id: ruff
+        args: [--fix, --exit-non-zero-on-fix]
         exclude: newshomepages/extensions/
-
--   repo: https://github.com/asottile/blacken-docs
-    rev: 1.19.1
-    hooks:
-    -   id: blacken-docs
-        additional_dependencies: [black]
+    -   id: ruff-format
         exclude: newshomepages/extensions/
-
--   repo: https://github.com/timothycrosley/isort
-    rev: 6.0.1
-    hooks:
-    -   id: isort
-
--   repo: https://github.com/pycqa/flake8
-    rev: 7.2.0
-    hooks:
-    - id: flake8
-      additional_dependencies:
-        - flake8-docstrings
-        - flake8-bugbear
-
--   repo: https://github.com/asottile/pyupgrade
-    rev: v3.20.0
-    hooks:
-    -   id: pyupgrade
-        args: [--py37-plus]
-
--   repo: https://github.com/pre-commit/mirrors-mypy
-    rev: 'v1.16.0'  # Use the sha / tag you want to point at
-    hooks:
-    -   id: mypy
-        exclude: newshomepages/extensions
-        additional_dependencies:
-          - types-requests
-          - types-retry
-          - types-python-slugify
-          - types-pytz
-          - types-PyYAML
