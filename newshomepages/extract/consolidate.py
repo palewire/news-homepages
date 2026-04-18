@@ -113,8 +113,13 @@ def consolidate(
             if i % 500 == 0 or i == total:
                 print(f"Processed {i}/{total}")
 
-            with open(file_name) as fp:
-                item_data = json.load(fp)
+            try:
+                with open(file_name) as fp:
+                    item_data = json.load(fp)
+            except json.JSONDecodeError as e:
+                print(f"!!! Skipping {file_name}: invalid JSON ({e})")
+                file_name.unlink()
+                continue
 
             if "metadata" not in item_data:
                 print(
@@ -249,6 +254,9 @@ def _get_items_http(
                         fh.write(chunk)
             return (name, None)
         except Exception as e:  # noqa: BLE001  record per-file errors; the batch continues
+            # Remove any partial file so the consolidation pass doesn't try
+            # to parse a truncated JSON body.
+            dest.unlink(missing_ok=True)
             return (name, str(e))
 
     failures: list[tuple[str, str]] = []
