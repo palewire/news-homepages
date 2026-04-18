@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 import json
 import shutil
+import time
 import traceback
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from contextlib import ExitStack
@@ -240,26 +241,40 @@ def _get_items_http(
 
     base_url = "https://archive.org/download/latest-homepages"
 
-    def download_one(file_info: dict) -> tuple[str, str | None]:
+    def download_one(
+        file_info: dict,
+        max_attempts: int = 4,
+    ) -> tuple[str, str | None]:
         name = file_info["name"]
         dest = items_path / name
-        try:
-            with session.get(
-                f"{base_url}/{name}",
-                stream=True,
-                timeout=request_timeout,
-            ) as r:
-                r.raise_for_status()
-                with open(dest, "wb") as fh:
-                    for chunk in r.iter_content(chunk_size=65536):
-                        fh.write(chunk)
-            return (name, None)
-        except Exception as e:  # noqa: BLE001  record per-file errors; the batch continues
-            # Remove any partial file so the consolidation pass doesn't try
-            # to parse a truncated JSON body.
-            dest.unlink(missing_ok=True)
-            print(f"⚠️ Download failed for {name}:\n{traceback.format_exc()}")
-            return (name, str(e))
+        last_error: Exception | None = None
+        for attempt in range(1, max_attempts + 1):
+            try:
+                with session.get(
+                    f"{base_url}/{name}",
+                    stream=True,
+                    timeout=request_timeout,
+                ) as r:
+                    r.raise_for_status()
+                    with open(dest, "wb") as fh:
+                        for chunk in r.iter_content(chunk_size=65536):
+                            fh.write(chunk)
+                return (name, None)
+            except Exception as e:  # noqa: BLE001  batch continues on any error
+                last_error = e
+                # Remove any partial file so the consolidation pass doesn't
+                # try to parse a truncated JSON body.
+                dest.unlink(missing_ok=True)
+                if attempt < max_attempts:
+                    # Exponential backoff: 2s, 4s, 8s. Archive.org storage
+                    # hosts sometimes drop mid-stream under load; giving the
+                    # connection a breather usually clears it up.
+                    time.sleep(2**attempt)
+        print(
+            f"⚠️ Download failed for {name} after {max_attempts} attempts:\n"
+            f"{''.join(traceback.format_exception(last_error))}"
+        )
+        return (name, str(last_error))
 
     failures: list[tuple[str, str]] = []
     total = len(json_files)
