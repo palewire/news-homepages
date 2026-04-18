@@ -22,7 +22,7 @@ jobs:
         name: Check with Ruff
         uses: astral-sh/ruff-action@v3
         with:
-          args: "check --exit-zero --verbose"
+          args: "check --verbose"
 
       - id: format-ruff
         name: Format with Ruff
