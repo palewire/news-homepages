@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 import json
 import shutil
+import traceback
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from contextlib import ExitStack
 from datetime import datetime
@@ -257,6 +258,7 @@ def _get_items_http(
             # Remove any partial file so the consolidation pass doesn't try
             # to parse a truncated JSON body.
             dest.unlink(missing_ok=True)
+            print(f"⚠️ Download failed for {name}:\n{traceback.format_exc()}")
             return (name, str(e))
 
     failures: list[tuple[str, str]] = []
