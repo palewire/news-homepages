@@ -1,5 +1,4 @@
 import json
-import typing
 import warnings
 from collections import Counter
 from pathlib import Path
@@ -18,7 +17,6 @@ from .. import utils
 @click.group()
 def cli():
     """Analyze the Drudge Report."""
-    pass
 
 
 @cli.command()
@@ -161,7 +159,7 @@ def drudge_entities(output_dir: str = "./"):
     )
 
     # Get the top verb for each word
-    def get_headlines(lemma: str) -> typing.List:
+    def get_headlines(lemma: str) -> list:
         """Get all the headlines for the provided word."""
         return sorted(list(qualified_df[qualified_df.lemma == lemma].headline.unique()))
 

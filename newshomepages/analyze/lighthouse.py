@@ -10,7 +10,6 @@ from .. import utils
 @click.group()
 def cli():
     """Analyze Lighthouse reports."""
-    pass
 
 
 @cli.command()
@@ -103,7 +102,6 @@ def _color_code(val):
     """
     if val >= 0.9:
         return "green"
-    elif val >= 0.5:
+    if val >= 0.5:
         return "orange"
-    else:
-        return "red"
+    return "red"

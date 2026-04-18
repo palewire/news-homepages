@@ -321,8 +321,7 @@ def get_site_df() -> pd.DataFrame:
     def _split_bundle(row):
         if not pd.isnull(row["bundle"]):
             return row["bundle"].split("|")
-        else:
-            return []
+        return []
 
     df["bundle_list"] = df.apply(_split_bundle, axis=1)
 
@@ -410,7 +409,7 @@ def get_site(handle: str) -> dict:
     try:
         return next(d for d in site_list if d["handle"] == handle.lower())
     except StopIteration:
-        raise ValueError(f"The handle {handle} could not be found")
+        raise ValueError(f"The handle {handle} could not be found") from None
 
 
 def get_bundle(slug: str) -> dict:
@@ -425,7 +424,7 @@ def get_bundle(slug: str) -> dict:
     try:
         return next(d for d in bundle_list if d["slug"].lower() == slug.lower())
     except StopIteration:
-        raise ValueError(f"The slug {slug} could not be found")
+        raise ValueError(f"The slug {slug} could not be found") from None
 
 
 def get_country(code: str) -> dict:
@@ -440,7 +439,7 @@ def get_country(code: str) -> dict:
     try:
         return next(d for d in country_list if d["alpha2"].lower() == code.lower())
     except StopIteration:
-        raise ValueError(f"The country {code.upper()} could not be found")
+        raise ValueError(f"The country {code.upper()} could not be found") from None
 
 
 def batch(li: list, n: int):
@@ -777,8 +776,7 @@ def intcomma(value: int | str) -> str:
     new = re.sub(r"^(-?\d+)(\d{3})", r"\g<1>,\g<2>", orig)
     if orig == new:
         return new
-    else:
-        return intcomma(new)
+    return intcomma(new)
 
 
 def _load_persistent_context(

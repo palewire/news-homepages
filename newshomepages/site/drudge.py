@@ -13,7 +13,6 @@ from .utils import CHARTS_DIR, _write_template
 @click.group()
 def cli():
     """Create page ranking sites by appearance on drudgereport.com."""
-    pass
 
 
 @cli.command()

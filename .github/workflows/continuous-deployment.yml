@@ -1,9 +1,13 @@
-name: Test and deploy
+name: Continuous deployment
 
 on:
   push:
   pull_request:
   workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   lint-python:
@@ -14,141 +18,108 @@ jobs:
         name: Checkout
         uses: actions/checkout@v4
 
-      - id: setup-python
-        name: Setup Python
-        uses: actions/setup-python@v5
+      - id: check-ruff
+        name: Check with Ruff
+        uses: astral-sh/ruff-action@v3
         with:
-          python-version: '3.10'
-          cache: 'pipenv'
+          args: "check --verbose"
 
-      - id: install-pipenv
-        name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
+      - id: format-ruff
+        name: Format with Ruff
+        uses: astral-sh/ruff-action@v3
+        with:
+          args: "format --check --verbose"
 
-      - id: install-python-dependencies
-        name: Install Python dependencies
-        run: pipenv sync --dev
-        shell: bash
-
-      - id: lint
-        name: Lint
-        run: pipenv run flake8 ./
-
-  test-python:
-    name: Test Python code
+  type-check:
+    name: Verify static typing
     runs-on: ubuntu-latest
     steps:
       - id: checkout
         name: Checkout
         uses: actions/checkout@v4
 
-      - id: setup-python
-        name: Setup Python
-        uses: actions/setup-python@v5
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v7
         with:
-          python-version: '3.10'
-          cache: 'pipenv'
-
-      - id: install-pipenv
-        name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
+          version: "latest"
+          enable-cache: true
+          cache-dependency-glob: "**/pyproject.toml"
 
       - id: install-python-dependencies
         name: Install Python dependencies
-        run: pipenv install --dev
-        shell: bash
+        run: uv sync --extra dev --frozen
+
+      - id: type-check
+        name: Run type check
+        timeout-minutes: 10
+        run: uv run ty check
+
+  test-python:
+    name: Test Python code
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.11", "3.12", "3.13"]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - id: install-uv
+        name: Install uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          version: "latest"
+          enable-cache: true
+          cache-dependency-glob: "**/pyproject.toml"
+
+      - id: install-python
+        name: Install Python
+        run: uv python install ${{ matrix.python }}
+
+      - id: install-python-dependencies
+        name: Install Python dependencies
+        run: uv sync --extra test --python ${{ matrix.python }}
 
       - id: cache-playwright
         name: Cache Playwright
         uses: actions/cache@v4
         with:
           path: ~/.cache/ms-playwright/
-          key: ${{ runner.os }}-browsers
+          key: ${{ runner.os }}-playwright-${{ matrix.python }}
 
       - id: install-playwright
         name: Install Playwright
-        run: pipenv run python -m playwright install
-        shell: bash
+        run: uv run --python ${{ matrix.python }} python -m playwright install
 
-      - id: test
+      - id: tests
         name: Run tests
-        run: pipenv run xvfb-run pytest tests -sv --cov -n auto --vcr-record=none
-        shell: bash
         env:
-            IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
-            IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
-            IA_COLLECTION: ${{ secrets.IA_COLLECTION }}
-
-  static-type-check:
-    name: Static type check
-    runs-on: ubuntu-latest
-    steps:
-      - id: checkout
-        name: Checkout
-        uses: actions/checkout@v4
-
-      - id: setup-python
-        name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-          cache: 'pipenv'
-
-      - id: install-pipenv
-        name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
-
-      - id: install-python-dependencies
-        name: Install Python dependencies
-        run: pipenv sync --dev
-        shell: bash
-
-      - id: mypy
-        name: mypy
-        run: pipenv run mypy ./
+          IA_ACCESS_KEY: ${{ secrets.IA_ACCESS_KEY }}
+          IA_SECRET_KEY: ${{ secrets.IA_SECRET_KEY }}
+          IA_COLLECTION: ${{ secrets.IA_COLLECTION }}
+        run: >-
+          uv run --python ${{ matrix.python }}
+          xvfb-run pytest tests -sv --cov -n auto --vcr-record=none
 
   build:
     name: Build release candidate
     runs-on: ubuntu-latest
-    needs: [lint-python, test-python, static-type-check]
+    needs: [lint-python, type-check, test-python]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - id: setup-python
-        name: Setup Python
-        uses: actions/setup-python@v5
+      - id: install-uv
+        name: Install uv
+        uses: astral-sh/setup-uv@v7
         with:
-          python-version: '3.10'
-          cache: 'pipenv'
+          version: "latest"
+          enable-cache: true
+          cache-dependency-glob: "**/pyproject.toml"
 
-      - id: install-pipenv
-        name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
-
-      - id: install-python-dependencies
-        name: Install Python dependencies
-        run: pipenv sync --dev
-        shell: bash
-
-      - id: build-source
-        name: Build source release
-        run: pipenv run python setup.py sdist
-        shell: bash
-
-      - id: build-binary
-        name: Build binary release
-        run: pipenv run python setup.py bdist_wheel
-        shell: bash
-
-      - id: check
-        name: Check release
-        run: pipenv run twine check dist/*
-        shell: bash
+      - id: build
+        name: Build releases
+        run: uv build --sdist --wheel
 
       - id: save
         name: Save artifact
@@ -178,4 +149,4 @@ jobs:
           user: __token__
           password: ${{ secrets.PYPI_API_TOKEN }}
           verbose: true
-          verify_metadata: false
+          verify-metadata: false

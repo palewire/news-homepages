@@ -15,7 +15,6 @@ from . import utils
 @click.group()
 def cli():
     """Send a toot."""
-    pass
 
 
 @cli.command()
@@ -38,9 +37,9 @@ def single(handle: str, input_dir: str):
     now_local = now.astimezone(tz)
 
     # Create the headline
-    status = f"""The {data['name']} homepage at {now_local.strftime('%-I:%M %p')} in {data['location']}
+    status = f"""The {data["name"]} homepage at {now_local.strftime("%-I:%M %p")} in {data["location"]}
 
-More: https://palewi.re/docs/news-homepages/sites/{data['handle']}.html"""
+More: https://palewi.re/docs/news-homepages/sites/{data["handle"]}.html"""
 
     # Get the image
     input_path = Path(input_dir)
@@ -104,9 +103,9 @@ def bundle(slug: str, input_dir: str):
     for i, chunk in enumerate(chunk_list):
         # Set the headline, if it's the first tweet in the thread
         if i == 0:
-            status = f"""{bundle['name']} homepages at {now_local.strftime('%-I:%M %p')} in {bundle['location']}\n
+            status = f"""{bundle["name"]} homepages at {now_local.strftime("%-I:%M %p")} in {bundle["location"]}\n
 
-📷 See them all at https://palewi.re/docs/news-homepages/bundles/{bundle['slug']}.html"""
+📷 See them all at https://palewi.re/docs/news-homepages/bundles/{bundle["slug"]}.html"""
         else:
             status = ""
 

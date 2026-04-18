@@ -18,17 +18,16 @@ def _get_json_url(url):
     if output_path.exists():
         print(f":book: Reading in cached file {output_path}")
         return pd.read_json(output_path)
-    else:
-        # Get the URL
-        data = utils.get_json_url(url, timeout=60, verbose=True)
+    # Get the URL
+    data = utils.get_json_url(url, timeout=60, verbose=True)
 
-        # Parse as a dataframe
-        df = pd.DataFrame(data)
+    # Parse as a dataframe
+    df = pd.DataFrame(data)
 
-        # Write to cache
-        df.to_json(output_path, orient="records", indent=2)
-        print(f":pencil: Writing to cached file {output_path}")
-        time.sleep(0.25)
+    # Write to cache
+    df.to_json(output_path, orient="records", indent=2)
+    print(f":pencil: Writing to cached file {output_path}")
+    time.sleep(0.25)
 
     # Add columns
     metadata = utils.parse_archive_url(url)

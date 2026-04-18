@@ -1,3 +1,4 @@
+import contextlib
 from datetime import datetime
 from pathlib import Path
 
@@ -10,10 +11,8 @@ def test_safe_ia_handle():
     """Test safe_ia_handle."""
     assert utils.safe_ia_handle("_leadingunderscore") == "leadingunderscore"
     assert utils.safe_ia_handle("CamelCase") == "camelcase"
-    try:
+    with contextlib.suppress(ValueError):
         utils.safe_ia_handle("white space")
-    except ValueError:
-        pass
 
 
 def test_write_csv(tmpdir):

@@ -12,7 +12,6 @@ from .utils import _write_template
 @click.group()
 def cli():
     """Create page ranking sites by Lighthouse accessibility score."""
-    pass
 
 
 # Generate a distribution for our chart
