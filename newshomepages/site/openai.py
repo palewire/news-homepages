@@ -1,5 +1,7 @@
 """Create a page tracking AI blockers based on most recently scraped robots.txt files."""
 
+from datetime import UTC, datetime
+
 import click
 import pandas as pd
 from rich import print
@@ -109,6 +111,7 @@ def openai(no_cache=False):
         disallow_count=disallow_count,
         disallow_percent=disallow_percent,
         bot_counts=bot_counts,
+        updated_at=datetime.now(tz=UTC),
     )
     print(
         f":abacus: Creating openai-gptbot-robotstxt page for {len(merged_df.handle.unique())} sites"
