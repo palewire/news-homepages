@@ -3,17 +3,19 @@
 from __future__ import annotations
 
 import json
+import os
 import random
 import shutil
-import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
 
 import click
-import libtorrent as lt
 import requests
+from requests.adapters import HTTPAdapter
 from rich import print
 from rich.progress import track
+from urllib3.util.retry import Retry
 
 from .. import utils
 
@@ -67,7 +69,7 @@ def consolidate(
     utils.write_csv(site2bundle_list, output_path / "site-bundle-relationships.csv")
 
     print("🪆 Extracting items")
-    items_path = _get_items_torrent(output_path)
+    items_path = _get_items_http(output_path)
     json_list = [f for f in items_path.glob("*.json") if f.is_file()]
     item_list = []
     file_list = []
@@ -184,104 +186,93 @@ def consolidate(
     shutil.rmtree(items_path)
 
 
-def _get_items_torrent(output_path: Path) -> Path:
-    """Download a .torrent file and extract its contents using BitTorrent protocol.
+def _get_items_http(
+    output_path: Path,
+    max_workers: int = 12,
+    request_timeout: int = 120,
+) -> Path:
+    """Download the latest-homepages JSON index files directly over HTTP.
 
-    Args:
-        output_path (str): Directory to save the downloaded content
-
-    Returns:
-        bool: True if successful, False otherwise
+    Replaces an earlier BitTorrent-based fetch that ran for ~18 minutes on
+    GitHub-hosted runners and was prone to cancellation. Archive.org serves
+    the same files over plain HTTP from the item's file manifest.
     """
-    # Step 1: Download the .torrent file into memory
-    print("Downloading .torrent file...")
-    url = (
-        "https://archive.org/download/latest-homepages/latest-homepages_archive.torrent"
-    )
-    response = requests.get(url)  # noqa: S113  (removed by HTTP consolidate PR)
-    response.raise_for_status()
-    # Keep torrent data in memory
-    torrent_data = response.content
-    print(f"✓ Downloaded .torrent file ({len(torrent_data)} bytes)")
+    items_path = output_path / "latest-homepages"
+    items_path.mkdir(parents=True, exist_ok=True)
 
-    # Step 2: Use libtorrent to download the actual content
-    print("Starting BitTorrent download...")
-    # Initialize libtorrent session
-    session = lt.session()
-
-    # Enhanced session settings for better peer discovery
-    settings = {
-        "enable_dht": True,  # Enable DHT for trackerless torrents
-        "enable_lsd": True,  # Enable Local Service Discovery
-        "enable_upnp": True,  # Enable UPnP port mapping
-        "enable_natpmp": True,  # Enable NAT-PMP port mapping
-        "announce_to_all_trackers": True,  # Announce to all trackers
-        "announce_to_all_tiers": True,  # Announce to all tiers
-    }
-    session.apply_settings(settings)
-
-    # Set ports
-    port_ranges = [(6881, 6891), (6901, 6911), (51413, 51423)]
-    for start_port, end_port in port_ranges:
-        try:
-            session.listen_on(start_port, end_port)
-            print(f"✓ Listening on ports {start_port}-{end_port}")
-            break
-        except Exception as e:  # noqa: BLE001  (removed by HTTP consolidate PR)
-            print(f"✗ Failed to listen on ports {start_port}-{end_port}: {e}")
-            continue
-
-    # Load torrent info directly from memory
-    torrent_info = lt.torrent_info(torrent_data)
-
-    # Add torrent to session
-    params = {
-        "ti": torrent_info,
-        "save_path": str(output_path),
-    }
-    handle = session.add_torrent(params)
-
-    print(f"✓ Added torrent: {torrent_info.name()}")
-    print(f"✓ Total size: {torrent_info.total_size() / (1024 * 1024):.1f} MB")
-    print(f"✓ Number of files: {torrent_info.num_files()}")
-
-    # Enhanced monitoring with timeout
-    print("\nSearching for peers and downloading...")
-    start_time = time.time()
-    timeout_minutes = 30  # Set timeout in minutes
-    timeout_seconds = timeout_minutes * 60
-
-    while not handle.is_seed():
-        status = handle.status()
-        elapsed_time = time.time() - start_time
-
-        # Check for timeout
-        if elapsed_time > timeout_seconds:
-            print(f"\n✗ Timeout after {timeout_minutes} minutes")
-            raise TimeoutError(f"Download timed out after {timeout_minutes} minutes")
-
-        progress_info = {
-            "Progress": f"{status.progress * 100:.1f}%",
-            "Download Rate": f"{status.download_rate / 1024:.1f} KB/s",
-            "Upload Rate": f"{status.upload_rate / 1024:.1f} KB/s",
-            "Peers": status.num_peers,
-            "Seeds": status.num_seeds,
-            "Elapsed": f"{elapsed_time / 60:.1f}m",
+    session = requests.Session()
+    session.headers.update(
+        {
+            "User-Agent": (
+                "news-homepages consolidate "
+                "(+https://github.com/palewire/news-homepages)"
+            )
         }
+    )
+    retry_strategy = Retry(
+        total=4,
+        backoff_factor=1.5,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+        respect_retry_after_header=True,
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
 
-        # Clear line and print progress
-        print(
-            f"\r{progress_info['Progress']} | "
-            f"↓{progress_info['Download Rate']} | "
-            f"↑{progress_info['Upload Rate']} | "
-            f"Peers: {progress_info['Peers']} | "
-            f"Seeds: {progress_info['Seeds']}",
-            f"Time: {progress_info['Elapsed']}",
-            end="\n",
-        )
+    print("Fetching latest-homepages file manifest...")
+    manifest_resp = session.get(
+        "https://archive.org/metadata/latest-homepages",
+        timeout=60,
+    )
+    manifest_resp.raise_for_status()
+    all_files = manifest_resp.json().get("files", [])
+    json_files = [f for f in all_files if f["name"].endswith(".json")]
+    print(f"✓ Manifest lists {len(json_files)} JSON files")
 
-        time.sleep(1)
+    base_url = "https://archive.org/download/latest-homepages"
 
-    print("\n✓ Download completed!")
-    print(f"✓ Files saved to: {output_path}")
-    return output_path / "latest-homepages"
+    def download_one(file_info: dict) -> tuple[str, str | None]:
+        name = file_info["name"]
+        dest = items_path / name
+        expected_mtime = int(file_info.get("mtime", 0) or 0)
+        # Skip only if local mtime matches the manifest mtime. Archive.org
+        # bumps mtime when a file is replaced (e.g. current-year JSONs that
+        # grow as new snapshots land), so stale caches self-invalidate.
+        if (
+            dest.exists()
+            and expected_mtime
+            and int(dest.stat().st_mtime) == expected_mtime
+        ):
+            return (name, None)
+        try:
+            r = session.get(f"{base_url}/{name}", timeout=request_timeout)
+            r.raise_for_status()
+            dest.write_bytes(r.content)
+            if expected_mtime:
+                os.utime(dest, (expected_mtime, expected_mtime))
+            return (name, None)
+        except Exception as e:  # noqa: BLE001  record per-file errors; the batch continues
+            return (name, str(e))
+
+    failures: list[tuple[str, str]] = []
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
+        futures = [pool.submit(download_one, f) for f in json_files]
+        for fut in track(
+            as_completed(futures),
+            total=len(futures),
+            description="Downloading",
+        ):
+            name, err = fut.result()
+            if err is not None:
+                failures.append((name, err))
+
+    if failures:
+        print(f"⚠️ {len(failures)} downloads failed:")
+        for name, err in failures[:10]:
+            print(f"  - {name}: {err}")
+        if len(failures) > 10:
+            print(f"  ... and {len(failures) - 10} more")
+
+    print(f"✓ Downloaded {len(json_files) - len(failures)} files to {items_path}")
+    return items_path

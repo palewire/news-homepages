@@ -11,7 +11,7 @@ dependencies = [
     "pytz",
     "internetarchive>=5.0.4",
     "python-slugify",
-    "playwright",
+    "playwright<1.55",
     "jinja2",
     "shot-scraper",
     "pillow",
