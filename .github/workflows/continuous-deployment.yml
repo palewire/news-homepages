@@ -16,7 +16,7 @@ jobs:
     steps:
       - id: checkout
         name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - id: check-ruff
         name: Check with Ruff
@@ -36,7 +36,7 @@ jobs:
     steps:
       - id: checkout
         name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Setup uv
         uses: astral-sh/setup-uv@v7

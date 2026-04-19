@@ -16,33 +16,28 @@ jobs:
     steps:
       - id: checkout
         name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
-      - id: setup-python
-        name: Setup Python
-        uses: actions/setup-python@v5
+      - id: install-uv
+        name: Install uv
+        uses: astral-sh/setup-uv@v7
         with:
-          python-version: "3.11"
-          cache: "pipenv"
-
-      - id: install-pipenv
-        name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
+          version: "latest"
+          enable-cache: true
+          cache-dependency-glob: "**/pyproject.toml"
 
       - id: install-python-dependencies
         name: Install Python dependencies
-        run: pipenv sync --dev
-        shell: bash
+        run: uv sync --extra docs --frozen
 
       - id: render-templates
         name: Render site templates
-        run: pipenv run make site
+        run: uv run make site
         shell: bash
 
       - id: build-site
         name: Build site
-        run: cd _site && pipenv run make html
+        run: cd _site && uv run make html
         shell: bash
 
       - id: configure-aws
