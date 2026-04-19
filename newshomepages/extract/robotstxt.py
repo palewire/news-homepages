@@ -3,7 +3,7 @@
 from __future__ import annotations
 
 import platform
-import time
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -104,36 +104,38 @@ def robotstxt(
     if verbose:
         print(f"{len(archived_files)} qualified files")
 
-    def _get_url(url):
-        # Prepare a cache
-        cache_dir = Path("~/.cache/news-homepages").expanduser()
-        cache_dir.mkdir(parents=True, exist_ok=True)
+    cache_dir = Path("~/.cache/news-homepages").expanduser()
+    cache_dir.mkdir(parents=True, exist_ok=True)
 
+    def _get_url(url):
         # Check if the file has been downloaded
         output_path = cache_dir / urlparse(url).path.split("/")[-1]
         if use_cache and output_path.exists():
             if verbose:
                 print(f":book: Reading in cached file {output_path}")
             with open(output_path) as f:
-                data = f.read()
-        else:
-            # Get the URL
+                return f.read()
+
+        # Fetch the URL. Tolerate per-URL failures: archive.org occasionally
+        # 4xx/5xx on a specific snapshot even though the surrounding ones
+        # are fine. One bad URL shouldn't kill the whole extract.
+        try:
             data = utils.get_url(url, verbose=True).text
+        except Exception as e:  # noqa: BLE001
+            print(f"⚠️ Skipping {url}: {e}")
+            return ""
 
-            # Write to cache
-            with open(output_path, "w") as f:
-                f.write(data)
-            if verbose:
-                print(f":pencil: Writing to cached file {output_path}")
-
-            # Wait a bit
-            time.sleep(0.05)
-
-        # Return dataframe
+        with open(output_path, "w") as f:
+            f.write(data)
+        if verbose:
+            print(f":pencil: Writing to cached file {output_path}")
         return data
 
-    # fetch the cached robots.txt file for the site
-    filtered_df["robotstxt"] = filtered_df["url"].apply(_get_url)
+    # Fetch in parallel. Archive.org handles this load fine — the earlier
+    # 0.05s sleep between sequential requests wasn't load-bearing.
+    urls = filtered_df["url"].tolist()
+    with ThreadPoolExecutor(max_workers=4) as pool:
+        filtered_df["robotstxt"] = list(pool.map(_get_url, urls))
 
     # Exclude any site that has an <html*> tag in the robots.txt file
     qualified_df = filtered_df[
