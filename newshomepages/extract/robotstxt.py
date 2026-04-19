@@ -120,7 +120,7 @@ def robotstxt(
         # 4xx/5xx on a specific snapshot even though the surrounding ones
         # are fine. One bad URL shouldn't kill the whole extract.
         try:
-            data = utils.get_url(url, verbose=True).text
+            data = utils.get_url(url, verbose=False).text
         except Exception as e:  # noqa: BLE001
             print(f"⚠️ Skipping {url}: {e}")
             return ""
@@ -134,8 +134,14 @@ def robotstxt(
     # Fetch in parallel. Archive.org handles this load fine — the earlier
     # 0.05s sleep between sequential requests wasn't load-bearing.
     urls = filtered_df["url"].tolist()
+    total = len(urls)
+    results = []
     with ThreadPoolExecutor(max_workers=4) as pool:
-        filtered_df["robotstxt"] = list(pool.map(_get_url, urls))
+        for i, result in enumerate(pool.map(_get_url, urls), start=1):
+            results.append(result)
+            if i % 500 == 0 or i == total:
+                print(f"Fetched {i}/{total}")
+    filtered_df["robotstxt"] = results
 
     # Exclude any site that has an <html*> tag in the robots.txt file
     qualified_df = filtered_df[
