@@ -1,3 +1,3 @@
-document.querySelectorAll('#js-cc-modal').forEach(
+document.querySelectorAll('#js-gateaux-secs').forEach(
     el => el.remove()
 )
