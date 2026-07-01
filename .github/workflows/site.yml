@@ -16,7 +16,7 @@ jobs:
     steps:
       - id: checkout
         name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
 
       - id: install-uv
         name: Install uv
