@@ -59,7 +59,7 @@ endef
 # Python helpers
 #
 
-PIPENV := pipenv run
+UV := uv run --all-extras
 PYTHON := python -W ignore -m
 
 define python
@@ -73,9 +73,9 @@ endef
 
 install: ## Install the development environment
 	$(call banner,      🛠️ Installing 🛠️)
-	@pipenv install --dev
-	@$(PIPENV) pre-commit install
-	@$(PIPENV) $(PYTHON) playwright install
+	@uv sync --all-extras
+	@$(UV) pre-commit install
+	@$(UV) python -m playwright install chromium
 
 
 site: ## Build the site
@@ -102,25 +102,30 @@ site: ## Build the site
 
 lint: ## run the linter
 	$(call banner,        💅 Linting code 💅)
-	@$(PIPENV) flake8 -v ./
+	@$(UV) ruff check .
+	@$(UV) ruff format --check .
 
 
-mypy: ## run mypy type checks
-	$(call banner,        🔩 Running mypy 🔩)
-	@$(PIPENV) mypy ./ --ignore-missing-imports
+typecheck: ## run type checks
+	$(call banner,        🔩 Running type checks 🔩)
+	@$(UV) ty check
 
 
 test: ## run all tests
 	$(call banner,       🤖 Running tests 🤖)
-	@$(PIPENV) pytest
+	@$(UV) pytest
+
+
+check: lint typecheck test ## run everything CI runs, before opening a pull request
 
 #
 # Extras
 #
 
-format: ## automatically format Python code with black
+format: ## automatically fix lint problems and format Python code
 	$(call banner,       🪥 Cleaning code 🪥)
-	@$(PIPENV) black .
+	@$(UV) ruff check --fix .
+	@$(UV) ruff format .
 
 
 help: ## Show this help. Example: make help
