@@ -39,15 +39,15 @@ def consolidate(
 
     print("🪢 Extracting sites")
     site_list = [
-        dict(
-            handle=site["handle"],
-            name=site["name"],
-            url=site["url"],
-            location=site["location"],
-            timezone=site["timezone"],
-            country=site["country"],
-            language=site["language"],
-        )
+        {
+            "handle": site["handle"],
+            "name": site["name"],
+            "url": site["url"],
+            "location": site["location"],
+            "timezone": site["timezone"],
+            "country": site["country"],
+            "language": site["language"],
+        }
         for site in all_sites
     ]
     utils.write_csv(site_list, output_path / "sites.csv")
@@ -57,7 +57,7 @@ def consolidate(
 
     print("🪢 Extracting site-to-bundle relationships")
     site2bundle_list = [
-        dict(site_handle=site["handle"], bundle_slug=b)
+        {"site_handle": site["handle"], "bundle_slug": b}
         for site in all_sites
         for b in site["bundle_list"]
         if b.strip()
@@ -135,16 +135,16 @@ def consolidate(
             identifier = item_data["metadata"]["identifier"]
 
             items_writer.writerow(
-                dict(
-                    identifier=identifier,
-                    handle=handle,
-                    file_name=file_name,
-                    url=f"https://archive.org/details/{identifier}",
-                    title=item_data["metadata"]["title"],
-                    date=item_data["metadata"]["date"],
-                    publicdate=item_data["metadata"]["publicdate"],
-                    addeddate=item_data["metadata"]["addeddate"],
-                )
+                {
+                    "identifier": identifier,
+                    "handle": handle,
+                    "file_name": file_name,
+                    "url": f"https://archive.org/details/{identifier}",
+                    "title": item_data["metadata"]["title"],
+                    "date": item_data["metadata"]["date"],
+                    "publicdate": item_data["metadata"]["publicdate"],
+                    "addeddate": item_data["metadata"]["addeddate"],
+                }
             )
 
             for p in item_data["files"]:
@@ -157,16 +157,16 @@ def consolidate(
                 ):
                     continue
 
-                file_dict = dict(
-                    identifier=identifier,
-                    handle=handle,
-                    file_name=p["name"],
-                    url=f"https://archive.org/download/{identifier}/{p['name']}",
-                    mtime=datetime.fromtimestamp(int(p["mtime"])),
-                    size=p["size"],
-                    md5=p["md5"],
-                    sha1=p["sha1"],
-                )
+                file_dict = {
+                    "identifier": identifier,
+                    "handle": handle,
+                    "file_name": p["name"],
+                    "url": f"https://archive.org/download/{identifier}/{p['name']}",
+                    "mtime": datetime.fromtimestamp(int(p["mtime"])),
+                    "size": p["size"],
+                    "md5": p["md5"],
+                    "sha1": p["sha1"],
+                }
 
                 if name.endswith(".jpg"):
                     file_dict["type"] = "fullpage" if "fullpage" in name else "cropped"

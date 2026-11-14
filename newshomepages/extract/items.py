@@ -26,10 +26,7 @@ def items(
 ):
     """Download items from our archive.org collection as JSON."""
     # Sanitize the year
-    if year:
-        year = int(year)
-    else:
-        year = datetime.now().year
+    year = int(year) if year else datetime.now().year
 
     # Set the path
     output_path = Path(output_dir)

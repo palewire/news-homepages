@@ -68,9 +68,9 @@ def performance_ranking():
     print(
         f":abacus: Creating performance ranking page for {len(site_list)} qualified sites"
     )
-    context = dict(
-        median=median,
-        histogram_json=json.dumps(histogram_df.to_dict(orient="records")),
-        site_list=site_list,
-    )
+    context = {
+        "median": median,
+        "histogram_json": json.dumps(histogram_df.to_dict(orient="records")),
+        "site_list": site_list,
+    }
     _write_template("performance.md", context)

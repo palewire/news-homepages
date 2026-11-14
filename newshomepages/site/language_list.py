@@ -19,5 +19,5 @@ def language_list():
     print("🗣️ Creating language list page")
     _write_template(
         "languages.md",
-        dict(language_list=language_list),
+        {"language_list": language_list},
     )

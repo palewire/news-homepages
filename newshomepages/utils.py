@@ -53,10 +53,9 @@ def safe_ia_handle(handle: str) -> str:
         )
 
     # Replace any leading underscores, which don't work on archive.org
-    s = LEADING_UNDERSCORES.sub("", s)
+    return LEADING_UNDERSCORES.sub("", s)
 
     # Pass it back
-    return s
 
 
 def write_csv(dict_list: list[dict], path: Path, verbose: bool = True) -> None:
@@ -225,7 +224,7 @@ def parse_archive_url(url: str) -> dict:
     timestamp = datetime.fromisoformat(time_string)
 
     # Return it as a tidy dict
-    return dict(identifier=identifier, handle=handle, timestamp=timestamp)
+    return {"identifier": identifier, "handle": handle, "timestamp": timestamp}
 
 
 @retry(tries=3, delay=15, backoff=2)
@@ -340,8 +339,7 @@ def get_bundle_list() -> list[dict]:
     """
     with open(SOURCES_PATH / "bundles.csv") as fh:
         bundle_reader = csv.DictReader(fh)
-        bundle_list = list(bundle_reader)
-    return bundle_list
+        return list(bundle_reader)
 
 
 def get_country_list() -> list[dict]:

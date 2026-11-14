@@ -60,12 +60,12 @@ def lighthouse(output_dir: str = "./"):
     # Aggregate descriptive statistics for each metric
     stats_list = ["count", "median", "mean", "min", "max", "std"]
     agg_df = qualified_df.groupby("handle").agg(
-        dict(
-            performance=stats_list,
-            accessibility=stats_list,
-            seo=stats_list,
-            best_practices=stats_list,
-        )
+        {
+            "performance": stats_list,
+            "accessibility": stats_list,
+            "seo": stats_list,
+            "best_practices": stats_list,
+        }
     )
 
     # Flatten the dataframe

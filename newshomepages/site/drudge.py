@@ -101,21 +101,21 @@ def drudge():
     entity_df["rank"] = entity_df.n.rank(ascending=False, method="min").astype(int)
 
     # Create the page
-    context = dict(
-        total_sites=len(domain_df),
-        total_urls=domain_df.n.sum(),
-        days=len(links_df.groupby("earliest_date").url.size()),
-        chart_json=json.dumps(chart_list),
-        links_per_day=links_per_day,
-        site_list=domain_df.sort_values("n", ascending=False)
+    context = {
+        "total_sites": len(domain_df),
+        "total_urls": domain_df.n.sum(),
+        "days": len(links_df.groupby("earliest_date").url.size()),
+        "chart_json": json.dumps(chart_list),
+        "links_per_day": links_per_day,
+        "site_list": domain_df.sort_values("n", ascending=False)
         .head(25)
         .to_dict(orient="records"),
-        entity_list=entity_df.sort_values("n", ascending=False).to_dict(
+        "entity_list": entity_df.sort_values("n", ascending=False).to_dict(
             orient="records"
         ),
-        min_date=story_df.earliest_date.min(),
-        max_date=story_df.earliest_date.max(),
-    )
+        "min_date": story_df.earliest_date.min(),
+        "max_date": story_df.earliest_date.max(),
+    }
     _write_template("drudge.md", context)
 
     # Make a mini chart for each entity
@@ -147,5 +147,5 @@ def drudge():
     out_dir.mkdir(parents=True, exist_ok=True)
     for d in track(dict_list):
         _write_template(
-            "drudge-top-words.svg", dict(obj=d), out_dir / f"{d['lemma'].lower()}.svg"
+            "drudge-top-words.svg", {"obj": d}, out_dir / f"{d['lemma'].lower()}.svg"
         )

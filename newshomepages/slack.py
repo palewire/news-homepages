@@ -37,7 +37,7 @@ def _upload(
         files=files,
         # Other options
         verbose=verbose,
-        request_kwargs=dict(timeout=int(timeout)),
+        request_kwargs={"timeout": int(timeout)},
     )
 
 
@@ -70,14 +70,14 @@ def cli(handle: str, input_dir: str, verbose: bool = False, timeout: str = "60")
     site_identifier = f"{site['handle']}-{now_year}"
 
     # Get the metadata for the item on archive.org
-    site_metadata = dict(
-        title=f"{site['name']} homepages in {now_year}",
-        collection=IA_COLLECTION,
-        mediatype="image",
-        publisher=site["url"],
-        date=now_year,
-        contributor="https://homepages.news",
-    )
+    site_metadata = {
+        "title": f"{site['name']} homepages in {now_year}",
+        "collection": IA_COLLECTION,
+        "mediatype": "image",
+        "publisher": site["url"],
+        "date": now_year,
+        "contributor": "https://homepages.news",
+    }
 
     # Convert the timestamp to ISO format for timestamping our files
     now_iso = local_now.isoformat()

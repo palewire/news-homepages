@@ -15,4 +15,4 @@ def bundle_list():
     """Create bundle list."""
     bundle_list = sorted(utils.get_bundle_list(), key=lambda x: x["name"].lower())
     print(":basket: Creating bundle list page")
-    _write_template("bundles.md", dict(bundle_list=bundle_list))
+    _write_template("bundles.md", {"bundle_list": bundle_list})

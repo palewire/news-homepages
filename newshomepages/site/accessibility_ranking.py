@@ -73,11 +73,11 @@ def accessibility_ranking():
     print(
         f":abacus: Creating accessibility ranking page for {len(merged_df)} qualified sites"
     )
-    context = dict(
-        median=median,
-        histogram_json=json.dumps(histogram_df.to_dict(orient="records")),
-        site_list=merged_df.sort_values(["accessibility_rank", "name"]).to_dict(
+    context = {
+        "median": median,
+        "histogram_json": json.dumps(histogram_df.to_dict(orient="records")),
+        "site_list": merged_df.sort_values(["accessibility_rank", "name"]).to_dict(
             orient="records"
         ),
-    )
+    }
     _write_template("accessibility.md", context)

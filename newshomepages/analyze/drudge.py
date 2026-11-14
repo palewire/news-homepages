@@ -57,7 +57,7 @@ def drudge_entities(output_dir: str = "./"):
 
     # Extract all headlines
     print("Extracting headlines")
-    headline_list = sorted(list(story_df.text.unique()))
+    headline_list = sorted(story_df.text.unique())
     print(
         f"{len(headline_list)} headlines found from {story_df.earliest_date.min()} to {story_df.earliest_date.max()}"
     )
@@ -83,18 +83,17 @@ def drudge_entities(output_dir: str = "./"):
         token_list = [t for t in token_list if not t.is_digit]
 
         # Trim it down to only the stuff we want to keep
-        dict_list = [
-            dict(
-                headline=headline,
-                word=t.text.upper(),
-                lemma=t.lemma_.upper(),
-                part_of_speech=t.pos_,
-            )
+        return [
+            {
+                "headline": headline,
+                "word": t.text.upper(),
+                "lemma": t.lemma_.upper(),
+                "part_of_speech": t.pos_,
+            }
             for t in token_list
         ]
 
         # Pass it back
-        return dict_list
 
     word_list = []
     for headline in track(headline_list):
@@ -161,7 +160,7 @@ def drudge_entities(output_dir: str = "./"):
     # Get the top verb for each word
     def get_headlines(lemma: str) -> list:
         """Get all the headlines for the provided word."""
-        return sorted(list(qualified_df[qualified_df.lemma == lemma].headline.unique()))
+        return sorted(qualified_df[qualified_df.lemma == lemma].headline.unique())
 
     def get_top_verb(lemma: str) -> str:
         """Query the top verb in the provided lemma's headline set."""

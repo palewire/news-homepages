@@ -102,17 +102,17 @@ def openai(no_cache=False):
     disallow_percent = round(disallow_count / site_count * 100, 1)
 
     # Render the page
-    context = dict(
-        site_count=site_count,
-        site_list=sorted(
+    context = {
+        "site_count": site_count,
+        "site_list": sorted(
             merged_df.fillna("").to_dict(orient="records"),
             key=lambda s: s["name"].lower(),
         ),
-        disallow_count=disallow_count,
-        disallow_percent=disallow_percent,
-        bot_counts=bot_counts,
-        updated_at=datetime.now(tz=UTC),
-    )
+        "disallow_count": disallow_count,
+        "disallow_percent": disallow_percent,
+        "bot_counts": bot_counts,
+        "updated_at": datetime.now(tz=UTC),
+    }
     print(
         f":abacus: Creating openai-gptbot-robotstxt page for {len(merged_df.handle.unique())} sites"
     )

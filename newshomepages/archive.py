@@ -98,13 +98,13 @@ def cli(
     print(
         f"📚 Saving latest `{handle}` assets to archive.org `{IA_COLLECTION}` collection's `{latest_identifier}` item"
     )
-    latest_metadata = dict(
-        title="Latest homepages",
-        collection=IA_COLLECTION,
-        mediatype="image",
-        publisher="https://homepages.news",
-        contributor="https://homepages.news",
-    )
+    latest_metadata = {
+        "title": "Latest homepages",
+        "collection": IA_COLLECTION,
+        "mediatype": "image",
+        "publisher": "https://homepages.news",
+        "contributor": "https://homepages.news",
+    }
     latest_dict = {f"{handle}.jpg": image_path}
     _upload(
         data,
@@ -123,14 +123,14 @@ def _get_item_metadata(data: dict) -> dict:
     now_year = utils.get_local_time(data).strftime("%Y")
 
     # Format a metadata dictionary ready to post to the archive.org upload method
-    return dict(
-        title=f"{data['name']} homepages in {now_year}",
-        collection=IA_COLLECTION,
-        mediatype="image",
-        publisher=data["url"],
-        date=now_year,
-        contributor="https://homepages.news",
-    )
+    return {
+        "title": f"{data['name']} homepages in {now_year}",
+        "collection": IA_COLLECTION,
+        "mediatype": "image",
+        "publisher": data["url"],
+        "date": now_year,
+        "contributor": "https://homepages.news",
+    }
 
 
 def _get_file_dict(data: dict, input_dir: Path) -> dict:
@@ -210,7 +210,7 @@ def _upload(
         files=files,
         # Other options
         verbose=verbose,
-        request_kwargs=dict(timeout=timeout),
+        request_kwargs={"timeout": timeout},
     )
 
 
