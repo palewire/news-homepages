@@ -36,9 +36,7 @@ def jpg(input_dir: str, output_dir: str):
     n = 2
     slide_count = math.floor(len(image_paths) / (n * n))
     for i in range(slide_count):
-        selected_images = []
-        for _x in range(n * n):
-            selected_images.append(image_paths.pop(0))
+        selected_images = [image_paths.pop(0) for _x in range(n * n)]
 
         size = (600, 388)
         shape = (n, n)
@@ -99,8 +97,7 @@ def gif(input_dir: str, output_dir: str, maximium_slides: int = 15):
     random_images = []
     for _i in range(slide_count):
         random.shuffle(image_paths)
-        for _x in range(n * n):
-            random_images.append(image_paths.pop())
+        random_images.extend(image_paths.pop() for _x in range(n * n))
 
     # Sort the images alphabetically
     sorted_images = sorted(random_images)

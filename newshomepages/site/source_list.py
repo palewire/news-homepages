@@ -15,4 +15,4 @@ def source_list():
     """Create source list."""
     site_list = sorted(utils.get_site_list(), key=lambda x: x["name"].lower())
     print(":newspaper: Creating site list page")
-    _write_template("sources.md", dict(site_list=site_list))
+    _write_template("sources.md", {"site_list": site_list})

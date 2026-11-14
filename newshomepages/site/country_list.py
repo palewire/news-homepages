@@ -19,8 +19,8 @@ def country_list():
     print("🗺️ Creating country list page")
     _write_template(
         "countries.md",
-        dict(
-            has_list=[c for c in country_list if len(c["site_list"])],
-            hasnot_list=[c for c in country_list if not len(c["site_list"])],
-        ),
+        {
+            "has_list": [c for c in country_list if len(c["site_list"])],
+            "hasnot_list": [c for c in country_list if not len(c["site_list"])],
+        },
     )

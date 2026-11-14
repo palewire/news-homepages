@@ -74,14 +74,14 @@ def hyperlinks(
     def _parse_hyperlinks(row):
         flat_row_list = []
         for d in row["json"].to_dict(orient="records"):
-            flat_row = dict(
-                identifier=row["identifier"],
-                handle=row["handle"],
-                file_name=row["file_name"],
-                date=row["date"],
-                text=d["text"],
-                url=d["url"],
-            )
+            flat_row = {
+                "identifier": row["identifier"],
+                "handle": row["handle"],
+                "file_name": row["file_name"],
+                "date": row["date"],
+                "text": d["text"],
+                "url": d["url"],
+            }
             flat_row_list.append(flat_row)
         return flat_row_list
 
