@@ -51,7 +51,6 @@ def jpg(input_dir: str, output_dir: str):
         ]
 
         # Create canvas for the final image with total size
-        shape = shape if shape else (1, len(images))
         image_size = (width * shape[1], height * shape[0])
         image = Image.new("RGB", image_size)
 
@@ -121,7 +120,6 @@ def gif(input_dir: str, output_dir: str, maximium_slides: int = 15):
         ]
 
         # Create canvas for the final image with total size
-        shape = shape if shape else (1, len(images))
         image_size = (width * shape[1], height * shape[0])
         image = Image.new("RGB", image_size)
 

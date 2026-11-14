@@ -155,7 +155,7 @@ def robotstxt(
         print(dropped_df.handle.unique())
 
     # Using the sqlite-robotsxt SQLite extension for parsing the robots.txt file
-    db = sqlite3.connect(":memory:")
+    db = sqlite3.connect(":memory:")  # ty: ignore[missing-union-attribute]
     db.enable_load_extension(True)
     sqlite_robotstxt.load(db)
     db.enable_load_extension(False)
