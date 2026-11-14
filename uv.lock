@@ -590,18 +590,6 @@ wheels = [
 ]
 
 [[package]]
-name = "click-default-group"
-version = "1.2.4"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "click" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/1d/ce/edb087fb53de63dad3b36408ca30368f438738098e668b78c87f93cd41df/click_default_group-1.2.4.tar.gz", hash = "sha256:eb3f3c99ec0d456ca6cd2a7f08f7d4e91771bef51b01bdd9580cc6450fe1251e", size = 3505, upload-time = "2023-08-04T07:54:58.425Z" }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/2c/1a/aff8bb287a4b1400f69e09a53bd65de96aa5cee5691925b38731c67fc695/click_default_group-1.2.4-py2.py3-none-any.whl", hash = "sha256:9b60486923720e7fc61731bdb32b617039aba820e22e1c88766b1125592eaa5f", size = 4123, upload-time = "2023-08-04T07:54:56.875Z" },
-]
-
-[[package]]
 name = "cloudpathlib"
 version = "0.26.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1943,12 +1931,13 @@ wheels = [
 name = "newshomepages"
 source = { editable = "." }
 dependencies = [
-    { name = "certifi" },
     { name = "click" },
     { name = "internetarchive" },
     { name = "iso3166" },
     { name = "jinja2" },
     { name = "mastodon-py" },
+    { name = "numpy", version = "2.4.6", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.12'" },
+    { name = "numpy", version = "2.5.4", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.12'" },
     { name = "pandas" },
     { name = "pillow" },
     { name = "playwright" },
@@ -1958,12 +1947,13 @@ dependencies = [
     { name = "requests" },
     { name = "retry" },
     { name = "rich" },
-    { name = "shot-scraper" },
     { name = "spacy" },
     { name = "spectra" },
     { name = "sqlean-py" },
     { name = "sqlite-robotstxt" },
     { name = "storysniffer" },
+    { name = "tldextract" },
+    { name = "urllib3" },
 ]
 
 [package.optional-dependencies]
@@ -1997,7 +1987,6 @@ test = [
 
 [package.metadata]
 requires-dist = [
-    { name = "certifi" },
     { name = "click" },
     { name = "internetarchive", specifier = ">=5.0.4" },
     { name = "ipywidgets", marker = "extra == 'notebooks'" },
@@ -2006,6 +1995,7 @@ requires-dist = [
     { name = "jupyterlab", marker = "extra == 'notebooks'" },
     { name = "mastodon-py" },
     { name = "myst-parser", marker = "extra == 'docs'" },
+    { name = "numpy" },
     { name = "pandas" },
     { name = "pillow" },
     { name = "playwright", specifier = "<1.57" },
@@ -2022,7 +2012,6 @@ requires-dist = [
     { name = "retry" },
     { name = "rich" },
     { name = "setuptools-scm", marker = "extra == 'dev'" },
-    { name = "shot-scraper" },
     { name = "spacy" },
     { name = "spectra" },
     { name = "sphinx", marker = "extra == 'docs'" },
@@ -2033,7 +2022,9 @@ requires-dist = [
     { name = "sqlean-py" },
     { name = "sqlite-robotstxt" },
     { name = "storysniffer" },
+    { name = "tldextract" },
     { name = "ty", marker = "extra == 'dev'" },
+    { name = "urllib3" },
     { name = "vulture", marker = "extra == 'dev'" },
 ]
 provides-extras = ["dev", "test", "docs", "notebooks"]
@@ -3638,21 +3629,6 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/58/15/8b3609fd3830ef7b27b655beb4b4e9c62313a4e8da8c676e142cc210d58e/shellingham-1.5.4.tar.gz", hash = "sha256:8dbca0739d487e5bd35ab3ca4b36e11c4078f3a234bfce294b0a0291363404de", size = 10310, upload-time = "2023-10-24T04:13:40.426Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/e0/f9/0595336914c5619e5f28a1fb793285925a8cd4b432c9da0a987836c7f822/shellingham-1.5.4-py2.py3-none-any.whl", hash = "sha256:7ecfff8f2fd72616f7481040475a65b2bf8af90a56c89140852d1120324e8686", size = 9755, upload-time = "2023-10-24T04:13:38.866Z" },
-]
-
-[[package]]
-name = "shot-scraper"
-version = "1.9.1"
-source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "click" },
-    { name = "click-default-group" },
-    { name = "playwright" },
-    { name = "pyyaml" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/c4/0c/df96ff6eeb2082f44c7861d1317f7ad1da418f759846922a1cd44f7e5885/shot_scraper-1.9.1.tar.gz", hash = "sha256:794d1408d87cc2eaf66b3dd6357aa27f51872b035c066a9aedb27f51312e0a14", size = 14018, upload-time = "2026-02-01T19:04:57.754Z" }
-wheels = [
-    { url = "https://files.pythonhosted.org/packages/7e/0c/3dbfe22c53d1d91158c11c34b08d1be81ce2caa94c639d923c995fac3a24/shot_scraper-1.9.1-py3-none-any.whl", hash = "sha256:ade2aa0d478e4cdb581552fbf3f45cfa3f4f33b5e2b0cd0ef6329e1b0bf09160", size = 15390, upload-time = "2026-02-01T19:04:56.711Z" },
 ]
 
 [[package]]
