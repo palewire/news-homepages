@@ -28,16 +28,16 @@ jobs:
 
       - id: install-python-dependencies
         name: Install Python dependencies
-        run: uv sync --extra docs --frozen
+        run: uv sync --extra docs --frozen --python 3.13
 
       - id: render-templates
         name: Render site templates
-        run: uv run make site
+        run: uv run --python 3.13 make site
         shell: bash
 
       - id: build-site
         name: Build site
-        run: cd _site && uv run make html
+        run: cd _site && uv run --python 3.13 make html
         shell: bash
 
       - id: configure-aws
