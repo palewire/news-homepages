@@ -26,8 +26,6 @@ THIS_DIR = Path(__file__).parent.absolute()
 SOURCES_PATH = THIS_DIR / "sources"
 SITES_PATH = SOURCES_PATH / "sites.csv"
 EXTENSIONS_PATH = THIS_DIR / "extensions"
-EXTRACT_DIR = THIS_DIR.parent / "extracts"
-NOTEBOOKS_DIR = THIS_DIR.parent / "notebooks"
 SITE_DIR = THIS_DIR.parent / "_site"
 
 # Regular expressions
@@ -167,16 +165,6 @@ def get_json_url(
 
     # Return JSON
     return r.json()
-
-
-@retry(tries=3, delay=15, backoff=2)
-def download_url(url: str, output_path: Path, timeout: int = 180):
-    """Download the provided URL to the provided path."""
-    with requests.get(url, stream=True, timeout=timeout) as r:
-        r.raise_for_status()
-        with open(output_path, "wb") as f:
-            for chunk in r.iter_content(chunk_size=8192):
-                f.write(chunk)
 
 
 def get_local_time(site: dict) -> datetime:
@@ -427,43 +415,12 @@ def get_bundle(slug: str) -> dict:
         raise ValueError(f"The slug {slug} could not be found") from None
 
 
-def get_country(code: str) -> dict:
-    """Get the metadata for the provided country.
-
-    Args:
-        slug (str): The unique string identifier of the bundle.
-
-    Returns a dictionary.
-    """
-    country_list = get_country_list()
-    try:
-        return next(d for d in country_list if d["alpha2"].lower() == code.lower())
-    except StopIteration:
-        raise ValueError(f"The country {code.upper()} could not be found") from None
-
-
 def batch(li: list, n: int):
     """Yield n number of sequential chunks from l."""
     d, r = divmod(len(li), n)
     for i in range(n):
         si = (d + 1) * (i if i < r else r) + d * (0 if i < r else i - r)
         yield li[si : si + (d + 1 if i < r else d)]
-
-
-def get_sites_in_batch(batch_number: int, batches: int = 10) -> list[dict]:
-    """Get all the sites in the provided batch.
-
-    Args:
-        batch_number (int): The number of the batch to pull.
-        batches (int): The total number of batches.
-
-    Returns a list of site dictionaries.
-    """
-    site_list = get_site_list()
-    batch_list = list(batch(site_list, batches))
-    if batch_number - 1 not in range(batches):
-        raise ValueError("Batch number not found")
-    return batch_list[batch_number - 1]
 
 
 def get_sites_in_bundle(slug: str) -> list[dict]:
@@ -503,14 +460,6 @@ def get_sites_in_language(code: str) -> list[dict]:
     return [s for s in site_list if code.lower() == s["language"].lower()]
 
 
-def get_accessibility_list() -> list[dict[str, typing.Any]]:
-    """Get the full list of accessibility from our extracts.
-
-    Returns a list of dictionaries.
-    """
-    return get_accessibility_df().to_dict(orient="records")
-
-
 def get_accessibility_df(use_cache: bool = True, verbose: bool = False) -> pd.DataFrame:
     """Get the full list of accessibility files from our extracts.
 
@@ -539,14 +488,6 @@ def get_screenshot_df(use_cache: bool = True, verbose: bool = False) -> pd.DataF
     )
 
 
-def get_hyperlink_list() -> list[dict[str, typing.Any]]:
-    """Get the full list of hyperlink from our extracts.
-
-    Returns a list of dictionaries.
-    """
-    return get_hyperlink_df().to_dict(orient="records")
-
-
 def get_hyperlink_df(use_cache: bool = True, verbose: bool = False) -> pd.DataFrame:
     """Get the full list of hyperlink files from our extracts.
 
@@ -555,14 +496,6 @@ def get_hyperlink_df(use_cache: bool = True, verbose: bool = False) -> pd.DataFr
     return _get_extract_files_df(
         "hyperlink-files.csv", use_cache=use_cache, verbose=verbose
     )
-
-
-def get_lighthouse_list() -> list[dict[str, typing.Any]]:
-    """Get the full list of lighthouse audits from our extracts.
-
-    Returns a list of dictionaries.
-    """
-    return get_lighthouse_df().to_dict(orient="records")
 
 
 def get_lighthouse_df(use_cache: bool = True, verbose: bool = False) -> pd.DataFrame:
@@ -667,29 +600,6 @@ def _get_extract_files_df(
     if verbose:
         print(f"Returning {len(df)} rows")
     return df
-
-
-def get_screenshots_by_site(site: dict) -> list[dict]:
-    """Get the list of screenshots for the provided site.
-
-    Returns a list of dictionaries.
-    """
-    # Get all screenshots
-    screenshot_list = get_screenshot_list()
-
-    # Filter it down to the provided site
-    file_list = [s for s in screenshot_list if s["handle"] == site["handle"]]
-
-    # Add the local time
-    site_tz = pytz.timezone(site["timezone"])
-    for file_ in file_list:
-        file_["local_time"] = file_["mtime"].astimezone(site_tz)
-
-    # Sort it reverse chron
-    sorted_list = sorted(file_list, key=lambda x: x["mtime"], reverse=True)
-
-    # Return the list
-    return sorted_list
 
 
 def get_javascript(handle: str) -> str | None:
