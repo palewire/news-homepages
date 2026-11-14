@@ -4,7 +4,19 @@ updates:
     directory: "/"
     schedule:
       interval: "monthly"
+    groups:
+      python-dependencies:
+        patterns:
+          - "*"
+    ignore:
+      # Playwright 1.57 removed page.accessibility. See AGENTS.md.
+      - dependency-name: "playwright"
+        versions: [">=1.57"]
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "monthly"
+    groups:
+      github-actions:
+        patterns:
+          - "*"
