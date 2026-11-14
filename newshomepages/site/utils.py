@@ -17,7 +17,7 @@ CHARTS_DIR = utils.SITE_DIR / "_static" / "charts"
 
 
 def _write_template(
-    template_name: str, context: dict, output_name: str | None = None
+    template_name: str, context: dict, output_name: str | Path | None = None
 ) -> None:
     template = TEMPLATE_ENV.get_template(f"{template_name}.tmpl")
     md = template.render(**context)

@@ -179,11 +179,11 @@ exclude = [
 
 [tool.ty.rules]
 invalid-argument-type = "warn"
-invalid-return-type = "warn"
-invalid-key = "warn"
+invalid-explicit-return = "warn"
+invalid-typed-dict-key = "warn"
 invalid-assignment = "warn"
-invalid-method-override = "warn"
-unresolved-attribute = "warn"
+incompatible-method-override = "warn"
+missing-attribute = "warn"
 possibly-missing-attribute = "warn"
 no-matching-overload = "ignore"
 unused-ignore-comment = "ignore"
